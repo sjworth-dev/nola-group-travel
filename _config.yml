@@ -1,8 +1,8 @@
 # Site settings
 title: New Orleans Group Travel Guide
 description: The insider guide to planning group trips to New Orleans. Where to stay, what to do, and how to coordinate 10-30 people in the Big Easy.
-url: "https://neworleansgrouptravelguide.com" # Update with your domain
-baseurl: ""
+url: "https://sjworth-dev.github.io"
+baseurl: "/nola-group-travel"
 
 # SEO
 author: New Orleans Group Travel Guide
