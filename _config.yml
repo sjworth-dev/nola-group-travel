@@ -1,0 +1,57 @@
+# Site settings
+title: New Orleans Group Travel Guide
+description: The insider guide to planning group trips to New Orleans. Where to stay, what to do, and how to coordinate 10-30 people in the Big Easy.
+url: "https://neworleansgrouptravelguide.com" # Update with your domain
+baseurl: ""
+
+# SEO
+author: New Orleans Group Travel Guide
+twitter:
+  card: summary_large_image
+social:
+  name: New Orleans Group Travel Guide
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /guides/:name/
+  neighborhoods:
+    output: true
+    permalink: /neighborhoods/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
+  - scope:
+      path: ""
+      type: "neighborhoods"
+    values:
+      layout: "guide"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

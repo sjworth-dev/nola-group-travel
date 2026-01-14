@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="guide">
+  <header class="guide-header">
+    <div class="container">
+      <p class="guide-category">{{ page.category | default: "Guide" }}</p>
+      <h1>{{ page.title }}</h1>
+      <p class="guide-description">{{ page.description }}</p>
+      <p class="guide-meta">Last updated: {{ page.date | date: "%B %Y" }}</p>
+    </div>
+  </header>
+
+  <div class="guide-content">
+    <div class="container container-narrow">
+      {{ content }}
+    </div>
+  </div>
+
+  <aside class="guide-cta">
+    <div class="container container-narrow">
+      <div class="cta-box">
+        <h3>Need Accommodations for 11-30 Guests?</h3>
+        <p>Castleday Retreats offers three private villas in the Bywater, each sleeping up to 30 guests with private pools and full kitchens.</p>
+        <a href="https://castledayretreats.com" class="btn btn-primary" target="_blank">Check Availability</a>
+      </div>
+    </div>
+  </aside>
+</article>

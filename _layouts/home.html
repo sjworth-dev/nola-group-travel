@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container">
+    <h1>{{ page.headline | default: "Plan Your New Orleans Group Trip" }}</h1>
+    <p class="hero-subtitle">{{ page.subtitle | default: "The insider guide to bringing 10-30 people to the Big Easy." }}</p>
+  </div>
+</section>
+
+<section class="intro">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
+
+<section class="guides-grid">
+  <div class="container">
+    <h2>Plan by Trip Type</h2>
+    <div class="card-grid">
+      {% for guide in site.guides %}
+      <a href="{{ guide.url }}" class="card">
+        <h3>{{ guide.card_title | default: guide.title }}</h3>
+        <p>{{ guide.card_description | default: guide.description | truncate: 120 }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Need Accommodations for 11-30 Guests?</h2>
+    <p>Most New Orleans rentals cap at 10 people. If your group is larger, check out <strong>Castleday Retreats</strong>—three private villas in the Bywater, each sleeping up to 30 guests with private pools.</p>
+    <a href="https://castledayretreats.com" class="btn btn-primary" target="_blank">View Castleday Retreats</a>
+  </div>
+</section>
