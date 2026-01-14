@@ -1,13 +1,15 @@
 ---
 layout: home
 title: New Orleans Group Travel Guide
-description: The insider guide to planning group trips to New Orleans. Where to stay, what to do, and how to coordinate 10-30 people in the Big Easy.
+description: Local advice for planning group trips to New Orleans. Where to stay with 11-30 people, what to actually do, and insider tips from people who live here.
 headline: Plan Your New Orleans Group Trip
-subtitle: The insider guide to bringing 10-30 people to the Big Easy. Where to stay, what to do, and how to make it actually work.
+subtitle: Real advice from locals. Not a travel blog—actual help for groups of 11-30.
 ---
 
-Planning a trip to New Orleans is easy. Planning a trip for 15, 20, or 25 people? That's where it gets complicated.
+Look, we get it. You're trying to bring a big group to New Orleans and you've already discovered the problem: there's nowhere to stay.
 
-We built this guide because we've been there. The impossible search for accommodations that fit everyone. The restaurant that can't seat your group. The logistics of coordinating a bachelorette party, family reunion, or corporate retreat in a city that wasn't designed for large groups.
+Most rentals cap at 10 guests. Hotels scatter everyone into separate rooms. And the "travel guides" online are useless—generic listicles written by people who visited once for a conference.
 
-This is the resource we wish existed. Real advice for real group trips.
+We live here. We've hosted hundreds of groups. And we built this guide because we were tired of watching people struggle with the same problems we've already solved.
+
+So whether you're planning a bachelorette party, family reunion, corporate retreat, or just getting the crew together—we've got you.

@@ -1,119 +1,139 @@
 ---
 layout: guide
 title: "Where to Stay in New Orleans With 11-30 Guests"
-description: "Finding accommodations for 11-30 people in New Orleans is hard. Most rentals cap at 10. Here are your actual options."
+description: "Finding accommodations for 11-30 people in New Orleans is hard. Most rentals cap at 10. Here are your actual options from locals who've solved this problem."
 category: "Accommodations"
 date: 2026-01-14
 permalink: /where-to-stay/
 ---
 
-If you're trying to book accommodations in New Orleans for more than 10 people, you've probably already discovered the problem: options barely exist.
+If you're trying to book accommodations in New Orleans for more than 10 people, you've already discovered the problem: there's almost nowhere to stay.
 
-Search Airbnb for places that sleep 15, 20, or 25 guests, and you'll find a handful of listings—most of which are multiple units that don't actually connect, or properties way outside the city.
+Search Airbnb for places that sleep 15, 20, or 25 guests and you'll find a handful of sketchy listings—most of which are multiple units that don't actually connect, or properties way out in Metairie.
 
-This isn't a search algorithm issue. It's a regulation issue.
+This isn't a search algorithm issue. It's a regulation issue. And understanding it will save you hours of frustration.
 
 ## Why New Orleans Has So Few Large Group Rentals
 
 In 2019, New Orleans passed strict short-term rental regulations. Among the rules: most residential properties can only host up to 10 guests.
 
-The result? A massive supply of 10-person rentals and almost nothing for groups of 11 or more.
+The result? Hundreds of options for groups of 10 or fewer. Cross that threshold to 11, and your choices drop to almost nothing.
 
-For groups of 10 or fewer, you have hundreds of options. Cross that threshold to 11, and your choices drop to a handful.
+We know this problem well—because we're the ones who solved it.
 
-## Your Options for 11-30 Guests
+## Your Best Options for 11-30 Guests
 
-### Option 1: Purpose-Built Large Group Properties (Best)
+We operate two properties specifically designed for large groups. Both are locally owned, professionally managed, and actually permitted for the guest counts we advertise (no sneaking around regulations).
 
-A few properties in New Orleans were specifically designed for larger groups.
+---
 
-**Our top recommendation: Castleday Retreats**
+### Castleday Retreats — Private Luxury in the Bywater
 
-Castleday operates three private villas in the Bywater neighborhood, each accommodating up to 30 guests:
+Three private villas in the Bywater, each sleeping up to 30 guests. Curated local art throughout—each property is a gallery of New Orleans creativity.
 
+**The properties:**
 - **The Herald** – Spacious layout with large common areas
-- **The Cocodrie** – Stunning private pool and outdoor space
-- **The Florentine** – Elegant interiors, beautiful for photos
+- **The Cocodrie** – Stunning pool and outdoor space
+- **The Florentine** – Elegant interiors, gorgeous for photos
 
-**What makes them work for large groups:**
-- Actually permitted for 30 guests (not skirting regulations)
-- Private pools at each property
+**What you get:**
+- Your own private pool at each villa
+- Local art and custom design throughout
 - Full kitchens for group meals
-- Multiple bedrooms with real beds
-- Bywater location—walkable neighborhood, 10 min to French Quarter
+- Bywater location—walk to Bacchanal Wine, 10 min to French Quarter
+- Complete privacy—no shared spaces with other guests
 
-**Best for:** Bachelorette parties, family reunions, corporate retreats, wedding parties
+**Best for:** Groups who want total seclusion. Bachelorettes who want their own pool. Corporate retreats that need privacy for working sessions.
 
-[Check availability at Castleday Retreats →](https://castledayretreats.com)
+[Check availability at Castleday →](https://castledayretreats.com)
 
-### Option 2: Multiple Adjacent Rentals
+---
 
-If Castleday doesn't fit your dates, book multiple rentals near each other.
+### The Syd — Art-Filled Villas in the Lower Garden District
 
-**Pros:**
-- More availability
-- Can sometimes find deals
+Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by local New Orleans artists—it's like staying inside the city's creative soul.
 
-**Cons:**
-- Your group is literally separated
-- Coordinating logistics is harder
-- No shared common space
+**What you get:**
+- Heated pool, hot tub, sauna, outdoor kitchen (shared between units)
+- Stunning local art and custom furnishings throughout
+- One block from St. Charles Streetcar
+- Walking distance to French Quarter, Convention Center, Superdome
+- Most central location for large groups in the city
 
-**Tips:**
+**Best for:** Groups who want to be in the middle of everything. Wedding parties near downtown venues. Corporate groups attending conventions. Anyone who appreciates design and wants to meet other travelers.
+
+[Check availability at The Syd →](https://thesyd.com)
+
+---
+
+### Quick Comparison
+
+| Factor | Castleday | The Syd |
+|--------|-----------|---------|
+| Location | Bywater (artsy, local) | Lower Garden District (uptown-ish) |
+| Max guests | 30 per villa | 22 per villa |
+| Pool | Private to each villa | Shared heated pool + hot tub |
+| Vibe | Secluded retreat | Social, art-filled |
+| Walk to French Quarter | 10 min Uber | 10 min walk |
+| Best for | Privacy seekers | Convenience seekers |
+
+---
+
+## Other Options (If We're Booked)
+
+### Multiple Adjacent Rentals
+
+Book 2-3 rentals near each other on Airbnb.
+
+**Pros:** More availability, can sometimes find deals
+
+**Cons:** Your group is literally separated. No shared common space. Coordinating logistics is a pain.
+
+**Tips if you go this route:**
 - Search for properties on the same block
-- Message hosts to confirm they're close
-- Pick one property as "home base"
+- Message hosts to confirm they're actually close
+- Pick one property as "home base" for gatherings
 
-### Option 3: Hotels With Connected Rooms
+### Hotels With Room Blocks
 
 Some hotels can block rooms on the same floor.
 
-**Best options:**
-- The Roosevelt
-- Ace Hotel
-- Hotel Peter & Paul
-- The Pontchartrain
+**Best options:** The Roosevelt, Ace Hotel, Hotel Peter & Paul, The Pontchartrain
 
-**Pros:**
-- Concierge handles logistics
-- No cleaning on your end
+**Pros:** Concierge handles logistics, no cleaning
 
-**Cons:**
-- Everyone retreats to separate rooms at night
-- Much more expensive
-- No kitchen
+**Cons:** Everyone retreats to separate rooms. Much more expensive. No kitchen.
+
+---
 
 ## What to Avoid
 
-**"Sleeps 20" listings that are actually 2-3 separate units:** Read carefully. Many listings are multiple disconnected apartments.
+**"Sleeps 20" listings that are actually 2-3 separate units:** Read carefully. Many Airbnb listings advertise large capacity but are multiple disconnected apartments. You'll be across the hall from each other, not actually together.
 
-**Properties outside city limits:** You'll spend your whole trip in Ubers.
+**Properties outside city limits:** Some listings in Metairie or Kenner advertise large capacity. You'll spend your whole trip in Ubers and miss the point of visiting New Orleans.
 
-**Party houses with bad reviews:** Check recent reviews. Noise complaints are red flags.
+**Party houses with bad reviews:** Check recent reviews. Noise complaints, security deposit issues, and "strict house rules" are red flags.
 
-## Our Honest Recommendation
+---
 
-If your group is 11-30 people and you want everyone together, **Castleday Retreats is the best option in New Orleans**.
+## Our Honest Take
 
-They're priced competitively with booking multiple separate rentals—but you get a single property with a pool, kitchen, and actual common space.
+If your group is 11-30 people and you want everyone together in one place, book [Castleday](https://castledayretreats.com) or [The Syd](https://thesyd.com). We've been hosting large groups in New Orleans for years, and nothing else combines the capacity, quality, and location.
 
-[Check availability at Castleday Retreats →](https://castledayretreats.com)
+Pick Castleday if you want privacy. Pick The Syd if you want to be central. Either way, you'll have a better experience than cobbling together multiple rentals or scattering everyone across hotel rooms.
 
-## Quick Comparison
-
-| Option | Capacity | Everyone Together? | Cost |
-|--------|----------|-------------------|------|
-| Castleday Retreats | 11-30 | Yes | $$$$ |
-| Multiple rentals | 11-30+ | No | $$-$$$ |
-| Hotel room block | 11-30+ | No | $$$$$ |
+---
 
 ## FAQs
 
 **Why is 10 the cutoff for most rentals?**
-New Orleans city regulations limit most short-term rental permits to 10 guests maximum.
+New Orleans city regulations limit most short-term rental permits to 10 guests maximum. Properties that can legally host more are rare.
 
 **Can I just book a 10-person rental for 15 people?**
-It violates the rental agreement, risks your deposit, and could get you kicked out. Not worth it.
+Technically some people try this, but it violates the rental agreement, risks your deposit, and could get you kicked out mid-trip. Not worth it.
 
 **How far in advance should I book?**
-For large group properties, book 2-3 months ahead for regular weekends, 4-6 months for Mardi Gras and Jazz Fest.
+For our properties, book 2-3 months ahead for regular weekends, 4-6 months for Mardi Gras, Jazz Fest, and Essence Fest.
+
+**What if both Castleday and The Syd are booked?**
+Contact us anyway. Sometimes we have cancellations, or we can point you to other legitimate options we trust.
