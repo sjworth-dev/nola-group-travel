@@ -1,0 +1,203 @@
+---
+title: "New Orleans Bachelor Party Guide"
+description: "Plan an epic New Orleans bachelor party for 11-30 guys. Where to stay, what to do, and how to make it legendary."
+category: "Bachelor"
+card_title: "Bachelor Parties"
+card_description: "Golf, gambling, live music, and legendary nights. The complete guide for groups of 11-30."
+date: 2026-01-14
+---
+
+New Orleans might be the best bachelor party city in America. No last call. World-class food. Live music everywhere. And unlike Vegas, it has actual soul.
+
+This guide covers everything for groups of 11-30 guys—where to stay, what to do, and how to send the groom off properly.
+
+## Why New Orleans for a Bachelor Party
+
+**No last call.** Bars don't close. Drinks can be carried on the street. The city is literally designed for this.
+
+**Beyond the party.** Golf, fishing, swamp tours, gambling—there's actual stuff to do during the day.
+
+**The food.** You'll eat better here than anywhere else. Period.
+
+**Affordable.** Compared to Vegas or Miami, you get way more for your money.
+
+## Where to Stay
+
+### For Groups of 11-30
+
+Most rentals cap at 10 guests. For larger groups:
+
+**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. Perfect if you want a home base away from the chaos.
+
+**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. One block from St. Charles streetcar. More central location.
+
+### Location Considerations
+
+- **Bywater:** Quieter, artsy, walkable to great bars. Good for recovery.
+- **Lower Garden District:** Close to everything, easy streetcar access.
+- **French Quarter:** You'll be there anyway—might not want to sleep there too.
+
+## Sample Itinerary: 3-Day Bachelor Party
+
+### Day 1: Arrival
+
+**Afternoon:**
+- Arrive, check in, claim rooms
+- Grocery/liquor run (stock the house)
+- Pool time, cards, hanging out
+
+**Evening:**
+- Dinner: Cochon (meat-heavy, perfect for groups) or Herbsaint
+- Frenchmen Street for live music
+- Keep it relatively chill—save the big night for tomorrow
+
+---
+
+### Day 2: The Main Event
+
+**Morning (pick one):**
+- **Golf:** TPC Louisiana, Audubon Park, City Park
+- **Fishing charter:** Redfish, speckled trout in the marshes
+- **Swamp tour:** Alligators, airboats, surprisingly fun
+
+**Afternoon:**
+- Return to the house
+- Pool, grilling, pre-gaming
+- Nap if needed (smart move)
+
+**Evening:**
+- Dinner: Commander's Palace (jacket required, worth it) or Pêche
+- Bourbon Street for the obligatory lap
+- Frenchmen Street when you want actual good music
+- Late night: The Spotted Cat, d.b.a., or wherever the night takes you
+
+---
+
+### Day 3: Recovery
+
+**Morning:**
+- Slow start
+- Beignets at Café Du Monde (embrace the tourist moment)
+- Bloody Marys
+
+**Afternoon:**
+- Casual lunch at Dat Dog or Cane & Table
+- Final pool session
+- Maybe catch a Saints game (fall) or Pelicans game (winter/spring)
+
+**Evening:**
+- Low-key dinner in the Bywater
+- Flights home or one more easy night
+
+---
+
+## Daytime Activities
+
+### Golf
+
+| Course | Vibe | Distance |
+|--------|------|----------|
+| TPC Louisiana | PGA Tour quality, pricey | 30 min |
+| Audubon Park | Scenic, affordable | 15 min |
+| City Park | Solid public course | 15 min |
+| English Turn | Private club feel | 25 min |
+
+### On the Water
+
+- **Fishing charter:** Half-day trips for redfish and speckled trout. Most charters accommodate 4-6, so split into groups.
+- **Swamp tour:** Airboat rides through the bayou. Alligators guaranteed.
+- **Kayaking:** Bayou St. John for something chill.
+
+### Other Ideas
+
+- **Gun range:** Shooting sports available outside the city
+- **Gambling:** Harrah's Casino downtown, or take a day trip to Mississippi Gulf Coast
+- **Saints/Pelicans game:** If timing works, nothing beats a game at the Superdome
+
+---
+
+## Where to Eat (Group-Friendly)
+
+### Dinner
+
+| Restaurant | Vibe | Good for |
+|------------|------|----------|
+| Cochon | Southern, meat-focused | Carnivores |
+| Pêche | Seafood, raw bar | Upscale casual |
+| Commander's Palace | Classic NOLA, jackets required | The fancy night |
+| Herbsaint | Wine bar, excellent food | Foodies |
+| Barcadia | Bar + arcade | Fun factor |
+
+### Casual
+
+- **Dat Dog** – Gourmet hot dogs. Perfect hangover food.
+- **Cane & Table** – Rum-focused, great small plates.
+- **Port of Call** – Famous burgers, strong drinks, cash only.
+- **Verti Marte** – Late-night deli in the Quarter. The move at 3am.
+
+---
+
+## Nightlife Guide
+
+### Bourbon Street (Do It Once)
+
+It's trashy, loud, and touristy. You're still going. Get it out of your system night one.
+
+**Hits:**
+- Pat O'Brien's (Hurricanes, dueling pianos)
+- Lafitte's Blacksmith Shop (oldest bar, cash only)
+- Cat's Meow (karaoke, surprisingly fun)
+
+### Frenchmen Street (The Real Move)
+
+Three blocks of live music clubs. This is where locals actually go.
+
+**Spots:**
+- The Spotted Cat – Tiny, sweaty, incredible jazz
+- d.b.a. – More space, great bands
+- Maison – Three floors of music
+- Blue Nile – Live brass bands
+
+### Casinos
+
+**Harrah's New Orleans** – Only land-based casino in the city. Table games, poker room, sportsbook.
+
+---
+
+## Budget Breakdown (Per Person, 3 Days)
+
+| Category | Budget | Mid-Range | Baller |
+|----------|--------|-----------|--------|
+| Accommodations | $100-150 | $175-250 | $300+ |
+| Food & Drinks | $200-300 | $350-500 | $600+ |
+| Activities | $50-100 | $150-250 | $300+ |
+| **Total** | **$350-550** | **$675-1000** | **$1200+** |
+
+*Excludes flights and gambling losses*
+
+---
+
+## Pro Tips
+
+1. **Pace yourselves.** No last call is a trap. You don't have to stay out until 6am every night.
+
+2. **Eat real food.** Don't just drink. New Orleans food will save you.
+
+3. **Cash is king.** Many bars are cash only. ATM fees add up.
+
+4. **Uber/Lyft everywhere.** Don't even think about driving.
+
+5. **Book the activity first thing.** If you're golfing or fishing, do it morning of day 2 before anyone is too wrecked.
+
+6. **Assign a point person.** One guy handles reservations, logistics, Venmo collections.
+
+7. **Tip well.** Service industry runs this city. Don't be those guys.
+
+---
+
+## Book Your Stay
+
+For bachelor parties of 11-30, book early:
+
+- [Castleday Retreats](https://castledayretreats.com) – Private pools, Bywater location
+- [The Syd](https://thesyd.com) – Central location, shared pool/hot tub
