@@ -3,9 +3,27 @@
     <a href="{{ '/' | relative_url }}" class="logo">NOLA Group Travel</a>
     <nav class="main-nav">
       <a href="{{ '/where-to-stay/' | relative_url }}">Where to Stay</a>
+      <div class="nav-dropdown">
+        <button class="nav-dropdown-trigger">Guides <span class="dropdown-arrow">▾</span></button>
+        <div class="nav-dropdown-menu">
+          <div class="dropdown-section">
+            <span class="dropdown-label">Celebrations</span>
+            <a href="{{ '/guides/bachelorette-party/' | relative_url }}">Bachelorette Parties</a>
+            <a href="{{ '/guides/bachelor-party/' | relative_url }}">Bachelor Parties</a>
+            <a href="{{ '/guides/wedding-party/' | relative_url }}">Wedding Parties</a>
+            <a href="{{ '/guides/milestone-birthday/' | relative_url }}">Milestone Birthdays</a>
+          </div>
+          <div class="dropdown-section">
+            <span class="dropdown-label">Gatherings</span>
+            <a href="{{ '/guides/friends-trip/' | relative_url }}">Friends Trips</a>
+            <a href="{{ '/guides/family-reunion/' | relative_url }}">Family Reunions</a>
+            <a href="{{ '/guides/corporate-retreat/' | relative_url }}">Corporate Retreats</a>
+            <a href="{{ '/guides/holiday-gathering/' | relative_url }}">Holiday Gatherings</a>
+          </div>
+        </div>
+      </div>
       <a href="{{ '/events/' | relative_url }}">Festivals</a>
-      <a href="{{ '/guides/bachelorette-party/' | relative_url }}">Bachelorette</a>
-      <a href="{{ '/guides/corporate-retreat/' | relative_url }}">Corporate</a>
+      <a href="{{ '/neighborhoods/bywater/' | relative_url }}">Neighborhoods</a>
       <a href="https://castledayretreats.com" class="nav-cta" target="_blank">Book Now</a>
     </nav>
     <button class="mobile-menu-toggle" aria-label="Toggle menu">

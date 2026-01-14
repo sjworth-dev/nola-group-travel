@@ -167,6 +167,92 @@ strong {
   transform-origin: left;
 }
 
+/* Dropdown Navigation */
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-trigger {
+  background: none;
+  border: none;
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--color-gray);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: color 0.2s;
+}
+
+.nav-dropdown-trigger:hover {
+  color: var(--color-black);
+}
+
+.dropdown-arrow {
+  font-size: 0.625rem;
+  transition: transform 0.3s var(--ease-out);
+}
+
+.nav-dropdown:hover .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+.nav-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  padding: 1.5rem;
+  display: flex;
+  gap: 2.5rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s var(--ease-out);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+  min-width: 400px;
+}
+
+.nav-dropdown:hover .nav-dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+
+.dropdown-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dropdown-label {
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-gold);
+  margin-bottom: 0.5rem;
+}
+
+.nav-dropdown-menu a {
+  font-size: 0.875rem;
+  color: var(--color-gray);
+  padding: 0.375rem 0;
+  white-space: nowrap;
+}
+
+.nav-dropdown-menu a:hover {
+  color: var(--color-black);
+}
+
+.nav-dropdown-menu a::after {
+  display: none;
+}
+
 .nav-cta {
   background: var(--color-black) !important;
   color: var(--color-white) !important;
@@ -198,7 +284,7 @@ strong {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: var(--color-black);
+  background: linear-gradient(165deg, #1a3d2e 0%, #0d2218 40%, #0a0a0a 100%);
   color: var(--color-white);
   position: relative;
   overflow: hidden;
@@ -213,20 +299,36 @@ strong {
   right: 0;
   bottom: 0;
   background:
-    radial-gradient(ellipse at 20% 80%, rgba(201, 162, 39, 0.15) 0%, transparent 50%),
-    radial-gradient(ellipse at 80% 20%, rgba(26, 61, 46, 0.3) 0%, transparent 50%);
+    radial-gradient(ellipse at 0% 100%, rgba(201, 162, 39, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse at 100% 0%, rgba(26, 61, 46, 0.4) 0%, transparent 60%),
+    radial-gradient(circle at 50% 50%, rgba(201, 162, 39, 0.08) 0%, transparent 70%);
   pointer-events: none;
 }
 
+/* Decorative grid pattern */
 .hero::after {
-  content: '⚜';
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image:
+    linear-gradient(rgba(201, 162, 39, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(201, 162, 39, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+}
+
+/* Floating fleur-de-lis */
+.hero-fleur {
   position: absolute;
   bottom: 3rem;
   left: 50%;
   transform: translateX(-50%);
   font-size: 1.5rem;
   color: var(--color-gold);
-  opacity: 0.5;
+  opacity: 0.6;
   animation: float 3s ease-in-out infinite;
 }
 
@@ -261,7 +363,7 @@ strong {
   font-size: 1.25rem;
   max-width: 600px;
   margin: 0 auto 3rem;
-  color: var(--color-gray-light);
+  color: rgba(255,255,255,0.7);
   line-height: 1.8;
 }
 
@@ -731,8 +833,8 @@ blockquote::before {
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 4rem;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  gap: 3rem;
   margin-bottom: 4rem;
 }
 
@@ -793,6 +895,14 @@ blockquote::before {
 @media (max-width: 1024px) {
   .card-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 900px) {
+  .nav-dropdown-menu {
+    min-width: 320px;
+    flex-direction: column;
+    gap: 1.5rem;
   }
 }
 
@@ -857,14 +967,24 @@ blockquote::before {
   }
 
   .footer-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 2.5rem;
+  }
+
+  .footer-about {
+    grid-column: 1 / -1;
   }
 
   .footer-bottom {
     flex-direction: column;
     gap: 1rem;
     text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
   }
 }
 
