@@ -4,36 +4,63 @@ layout: default
 
 <section class="hero">
   <div class="container">
-    <h1>{{ page.headline | default: "Plan Your New Orleans Group Trip" }}</h1>
-    <p class="hero-subtitle">{{ page.subtitle | default: "The insider guide to bringing 10-30 people to the Big Easy." }}</p>
+    <h1>
+      <span>New Orleans Group Travel</span>
+      Plan Your Trip
+    </h1>
+    <p class="hero-subtitle">Real advice from locals who've hosted hundreds of groups. Not a travel blog—actual help for parties of 11-30.</p>
+    <div class="hero-cta">
+      <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Find Accommodations</a>
+      <a href="{{ '/guides/bachelorette-party/' | relative_url }}" class="btn btn-secondary">Plan a Bachelorette</a>
+    </div>
   </div>
 </section>
 
 <section class="intro">
   <div class="container">
+    <p class="intro-label">The Problem</p>
     {{ content }}
   </div>
 </section>
 
 <section class="guides-grid">
   <div class="container">
-    <h2>Plan by Trip Type</h2>
+    <h2>Plan Your Trip</h2>
+    <p class="section-subtitle">Select your occasion. We'll tell you exactly what to do.</p>
     <div class="card-grid">
-      {% for guide in site.guides %}
-      <a href="{{ guide.url }}" class="card">
-        <h3>{{ guide.card_title | default: guide.title }}</h3>
-        <p>{{ guide.card_description | default: guide.description | truncate: 120 }}</p>
+      <a href="{{ '/guides/bachelorette-party/' | relative_url }}" class="card">
+        <div class="card-number">01</div>
+        <h3>Bachelorette Parties</h3>
+        <p>Pool days, French Quarter nights, and everything in between. The complete playbook for 11-30 people.</p>
+        <div class="card-arrow">→</div>
       </a>
-      {% endfor %}
+      <a href="{{ '/guides/corporate-retreat/' | relative_url }}" class="card">
+        <div class="card-number">02</div>
+        <h3>Corporate Retreats</h3>
+        <p>Skip the hotel conference room. How to run an offsite your team will actually remember.</p>
+        <div class="card-arrow">→</div>
+      </a>
+      <a href="{{ '/events/' | relative_url }}" class="card">
+        <div class="card-number">03</div>
+        <h3>Mardi Gras & Festivals</h3>
+        <p>Jazz Fest, Essence, French Quarter Fest—plus the dates you need for 2026 and 2027.</p>
+        <div class="card-arrow">→</div>
+      </a>
+      <a href="{{ '/neighborhoods/bywater/' | relative_url }}" class="card">
+        <div class="card-number">04</div>
+        <h3>Neighborhoods</h3>
+        <p>Where to stay, where to avoid, and what each area actually feels like on the ground.</p>
+        <div class="card-arrow">→</div>
+      </a>
     </div>
   </div>
 </section>
 
 <section class="cta-section">
   <div class="container">
-    <h2>Need Accommodations for 11-30 Guests?</h2>
-    <p>Most New Orleans rentals cap at 10. We operate two properties that actually fit large groups:</p>
-    <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin-top: 24px;">
+    <h2>Need Accommodations for 11-30?</h2>
+    <p>Most New Orleans rentals cap at 10 guests. We operate two properties that actually fit large groups—both locally owned, art-filled, and professionally managed.</p>
+    <div class="cta-buttons">
       <a href="https://castledayretreats.com" class="btn btn-primary" target="_blank">Castleday Retreats</a>
       <a href="https://thesyd.com" class="btn btn-secondary" target="_blank">The Syd</a>
     </div>
