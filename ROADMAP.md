@@ -86,23 +86,25 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 1. `git pull --rebase origin main`
 2. Read this ROADMAP.md top to bottom — internalize voice, rules, guardrails
 3. Read 2–3 existing `_guides/*.md` files to match voice exactly before writing
-4. Pick the top item from **Up Next** that isn't blocked
-5. Execute as one focused improvement — typically a new `_guides/<slug>.md` or `_neighborhoods/<slug>.md`, 200–300 lines
-6. Move the item from **Up Next** to **Done** with today's date in YYYY-MM-DD format
-7. Append a one-line entry to **Changelog**: `YYYY-MM-DD HH:MM UTC — <prefix>: <what changed>`
-8. Commit with prefix: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
-9. `git push origin main`
+4. Execute **all items in Up Next** that aren't blocked, working top to bottom. Aim for maximum output per session — target 5+ items, each substantial (300–400+ lines where appropriate).
+5. For each item: write the page, commit individually with the correct prefix, push, then move to **Done**
+6. After all items are done, generate 5+ new on-strategy backlog items and add them to **Up Next**
+7. Each commit: prefix `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
+8. Each changelog entry: `YYYY-MM-DD HH:MM UTC — <prefix>: <what changed>`
 
 ---
 
 ## Up Next
 
-- `_guides/mardi-gras-group-guide.md` — Deep-dive group planning guide for Mardi Gras (events.md covers dates; this covers logistics)
-- `_guides/jazz-fest-group-guide.md` — Deep-dive group planning guide for Jazz Fest weekend
-- `_guides/restaurant-guide.md` — Standalone large-group restaurant guide; SEO target "New Orleans restaurants for large groups"
-- `_guides/transportation-guide.md` — Getting around NOLA with 11–30 people; Ubers, streetcars, party buses
-- `_guides/sports-weekend.md` — Saints gameday / sports weekend group guide
-- `_neighborhoods/garden-district.md` — Garden District proper (Magazine Street, Uptown area)
+- `_neighborhoods/uptown.md` — Uptown neighborhood guide (Audubon Park, Tulane, Magazine Street upper half, local vibe)
+- `_neighborhoods/warehouse-district.md` — Warehouse District / Arts District guide (galleries, Cochon/Pêche cluster, Convention Center)
+- `_neighborhoods/mid-city.md` — Mid-City guide (City Park, Fair Grounds, Bayou St. John, local restaurants)
+- `_guides/activities-guide.md` — Master activities guide: swamp tours, plantation tours, cooking classes, ghost tours, biking, golf — with group logistics for each
+- `_guides/budget-guide.md` — Full budget breakdown guide: what a NOLA group trip costs at budget / mid-range / luxury, line by line
+- `_guides/itinerary-3-day.md` — Fully built 3-day group itinerary with morning/afternoon/evening slots, for groups of 10-30
+- `_guides/itinerary-5-day.md` — 5-day extended group itinerary with neighborhood rotation and dining anchors
+- `_guides/packing-guide.md` — What to pack for New Orleans: season-by-season, group-specific items, what to leave home
+- `_guides/essence-festival.md` — Essence Festival group guide (largest event in the city, July weekend, 500k+ attendees)
 
 ---
 
@@ -122,6 +124,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-21 — `_neighborhoods/lower-garden-district.md`
 - 2026-05-22 — `_neighborhoods/french-quarter.md`
 - 2026-05-22 — `_neighborhoods/marigny.md`
+- 2026-05-22 — `_guides/mardi-gras-group-guide.md`
+- 2026-05-22 — `_guides/jazz-fest-group-guide.md`
+- 2026-05-22 — `_guides/restaurant-guide.md`
+- 2026-05-22 — `_guides/transportation-guide.md`
+- 2026-05-22 — `_guides/sports-weekend.md`
+- 2026-05-22 — `_neighborhoods/garden-district.md`
 
 ---
 
@@ -130,3 +138,9 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-21 14:00 UTC — content: add _neighborhoods/lower-garden-district.md and ROADMAP.md
 2026-05-22 00:00 UTC — content: add _neighborhoods/french-quarter.md — group travel guide for the French Quarter
 2026-05-22 10:00 UTC — content: add _neighborhoods/marigny.md — Frenchmen Street and Marigny neighborhood guide for groups
+2026-05-22 10:15 UTC — content: add _guides/mardi-gras-group-guide.md — Mardi Gras logistics guide for groups of 10-30
+2026-05-22 10:30 UTC — content: add _guides/jazz-fest-group-guide.md — Jazz Fest planning guide for large groups
+2026-05-22 10:45 UTC — content: add _guides/restaurant-guide.md — large-group restaurant guide by neighborhood and occasion
+2026-05-22 11:00 UTC — content: add _guides/transportation-guide.md — getting around NOLA with 10-30 people
+2026-05-22 11:15 UTC — content: add _guides/sports-weekend.md — Saints gameday and sports weekend group guide
+2026-05-22 11:30 UTC — content: add _neighborhoods/garden-district.md — Garden District neighborhood guide for groups
