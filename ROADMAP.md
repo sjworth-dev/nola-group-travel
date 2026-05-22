@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_neighborhoods/marigny.md` — Frenchmen Street / Marigny guide; referenced in README, bridges Bywater and FQ
 - `_guides/mardi-gras-group-guide.md` — Deep-dive group planning guide for Mardi Gras (events.md covers dates; this covers logistics)
 - `_guides/jazz-fest-group-guide.md` — Deep-dive group planning guide for Jazz Fest weekend
 - `_guides/restaurant-guide.md` — Standalone large-group restaurant guide; SEO target "New Orleans restaurants for large groups"
@@ -122,6 +121,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-01-14 — `where-to-stay.md`
 - 2026-05-21 — `_neighborhoods/lower-garden-district.md`
 - 2026-05-22 — `_neighborhoods/french-quarter.md`
+- 2026-05-22 — `_neighborhoods/marigny.md`
 
 ---
 
@@ -129,3 +129,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 2026-05-21 14:00 UTC — content: add _neighborhoods/lower-garden-district.md and ROADMAP.md
 2026-05-22 00:00 UTC — content: add _neighborhoods/french-quarter.md — group travel guide for the French Quarter
+2026-05-22 10:00 UTC — content: add _neighborhoods/marigny.md — Frenchmen Street and Marigny neighborhood guide for groups
