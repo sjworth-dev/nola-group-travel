@@ -71,7 +71,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 ## Hard Rules (Never Break)
 
 - Never invent businesses, prices, hours, capacities, restaurant names, or specific events. Write generally when uncertain.
-- Never modify `_config.yml`, `_layouts/`, `_includes/`, or `assets/`
+- Never modify `_config.yml` (Jekyll build settings)
+- `_layouts/`, `_includes/`, and `assets/` may be edited to add navigation links, homepage sections, and surfacing of new content — do not change core design, CSS variables, or structural HTML patterns
 - Never delete existing pages or rewrite existing Castleday/Syd CTAs (only add new ones)
 - One commit, one focused change per run
 - No page under 400 words
