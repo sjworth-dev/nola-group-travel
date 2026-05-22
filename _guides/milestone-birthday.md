@@ -1,9 +1,9 @@
 ---
 title: "Milestone Birthday Trips to New Orleans"
-description: "Celebrate a 30th, 40th, 50th, or 60th birthday in New Orleans. How to plan a memorable trip for 11-30 guests."
+description: "Celebrate a 30th, 40th, 50th, or 60th birthday in New Orleans. How to plan a memorable trip for large groups."
 category: "Birthdays"
 card_title: "Milestone Birthdays"
-card_description: "30th, 40th, 50th, 60th—whatever the number, celebrate it right. Groups of 11-30."
+card_description: "30th, 40th, 50th, 60th—whatever the number, celebrate it right. For large groups."
 date: 2026-01-14
 ---
 
@@ -86,7 +86,7 @@ New Orleans is perfect for this. It's celebratory by nature—a city that knows 
 
 ## Where to Stay
 
-### For Groups of 11-30
+### For Large Groups
 
 You need one place where everyone can gather. Not scattered hotel rooms.
 
@@ -228,7 +228,7 @@ Cost: $100-200/person including food and service.
 
 ## Book Your Milestone Celebration
 
-For birthday groups of 11-30:
+For birthday large groups:
 
 - [Castleday Retreats](https://castledayretreats.com) – Private villas perfect for celebrations
 - [The Syd](https://thesyd.com) – Central location, art-filled, festive

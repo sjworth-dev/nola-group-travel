@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Friends Trip Guide"
-description: "Plan a friends getaway to New Orleans. Girls trips, guys weekends, friend reunions for groups of 11-30."
+description: "Plan a friends getaway to New Orleans. Girls trips, guys weekends, friend reunions for large groups."
 category: "Friends"
 card_title: "Friends Trips"
 card_description: "Girls trips, guys weekends, college reunions, the annual crew getaway. All of it."
@@ -49,7 +49,7 @@ You used to be inseparable. Now you're spread across the country. Time to fix th
 
 ## Where to Stay
 
-### For Groups of 11-30
+### For Large Groups
 
 The whole point is being together. You need one rental, not scattered hotel rooms.
 
@@ -227,7 +227,7 @@ Get this sorted before the trip:
 
 ## Book Your Friends Trip
 
-For groups of 11-30:
+For large groups:
 
 - [Castleday Retreats](https://castledayretreats.com) – Private villas, pools, Bywater
 - [The Syd](https://thesyd.com) – Central location, shared pool/hot tub

@@ -9,7 +9,7 @@ Ask a local where to stay in New Orleans, and most will tell you: skip the Frenc
 
 Instead, they'll point you to the Bywater—a neighborhood that feels like the real New Orleans. Artsy, walkable, genuinely interesting.
 
-For groups, the Bywater has another advantage: it's one of the few neighborhoods with accommodations for 11-30 people.
+For groups, the Bywater has another advantage: it's one of the few neighborhoods with accommodations for large groups.
 
 ## What Makes the Bywater Different
 
@@ -43,7 +43,7 @@ Often costs less than comparable properties elsewhere.
 
 ## Where to Stay
 
-### For Groups of 11-30: Castleday Retreats
+### For Large Groups: Castleday Retreats
 
 [Castleday Retreats](https://castledayretreats.com) operates three private villas in the heart of the Bywater:
 

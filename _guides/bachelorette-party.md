@@ -1,6 +1,6 @@
 ---
 title: "How to Plan a New Orleans Bachelorette Party"
-description: "Everything you need to plan the perfect New Orleans bachelorette party. Where to stay, what to do, where to eat, and how to coordinate a group of 10-30 people."
+description: "Everything you need to plan the perfect New Orleans bachelorette party. Where to stay, what to do, where to eat, and how to coordinate a large group people."
 category: "Bachelorette"
 card_title: "Bachelorette Party"
 card_description: "Everything you need to plan the perfect New Orleans bach party—from where to stay to what to do."
@@ -37,7 +37,7 @@ But planning a bach party for 12, 15, or 20 people takes real coordination. This
 
 This is the hardest part for large groups. Most New Orleans rentals cap at 10 guests.
 
-### For Groups of 11-30: Castleday Retreats
+### For Large Groups: Castleday Retreats
 
 If your bachelorette party is 11 or more people, your options are limited. We recommend [Castleday Retreats](https://castledayretreats.com)—three private villas in the Bywater, each sleeping up to 30 guests.
 
@@ -201,9 +201,9 @@ Not every New Orleans restaurant can seat 15 people. These can:
 
 7. **Don't over-plan.** New Orleans rewards spontaneity.
 
-## When Your Group is 11-30 People
+## When Your Group Is Over 10 People
 
-If you cross into the 11-30 range, logistics change:
+If you cross into the large-group range, logistics change:
 
 - **Accommodations:** [Castleday Retreats](https://castledayretreats.com/bachelorette) is one of the only options that fits everyone
 - **Restaurants:** Call ahead. Groups this size need private dining or reserved sections.

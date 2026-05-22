@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Holiday Gathering Guide"
-description: "Thanksgiving, Christmas, and New Year's in New Orleans. Plan a holiday gathering for 11-30 guests."
+description: "Thanksgiving, Christmas, and New Year's in New Orleans. Plan a holiday gathering for large groups."
 category: "Holidays"
 card_title: "Holiday Gatherings"
 card_description: "Thanksgiving, Christmas, New Year's—celebrate the holidays somewhere special."
@@ -177,7 +177,7 @@ Bourbon Street drops a giant fleur-de-lis at midnight. The entire city becomes a
 
 ## Where to Stay
 
-### For Groups of 11-30
+### For Large Groups
 
 **[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens perfect for holiday cooking. Space for the whole extended family.
 
@@ -237,7 +237,7 @@ Holidays are about being together. New Orleans just gives you a better backdrop 
 
 ## Book Your Holiday Gathering
 
-For holiday groups of 11-30:
+For holiday large groups:
 
 - [Castleday Retreats](https://castledayretreats.com) – Full kitchens for holiday cooking, private pools
 - [The Syd](https://thesyd.com) – Central location, art-filled spaces

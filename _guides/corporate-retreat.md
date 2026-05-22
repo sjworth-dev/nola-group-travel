@@ -1,6 +1,6 @@
 ---
 title: "How to Plan a Corporate Retreat in New Orleans"
-description: "Plan a company offsite that people actually want to attend. Where to stay, what to do, and how to run a productive retreat for teams of 10-30."
+description: "Plan a company offsite that people actually want to attend. Where to stay, what to do, and how to run a productive retreat for large teams."
 category: "Corporate"
 card_title: "Corporate Retreats"
 card_description: "Skip the hotel conference room. How to run a productive offsite in New Orleans."
@@ -39,7 +39,7 @@ New Orleans offers something different: a city with actual culture, world-class 
 
 The venue shapes your retreat more than any other decision.
 
-### For Teams of 11-30: Private Villas
+### For Large Groups: Private Villas
 
 The best corporate retreats happen when everyone stays together—not in adjacent hotel rooms, but actually together in one space.
 
@@ -170,9 +170,9 @@ Build the New Orleans experience into the schedule—don't leave it to the margi
 - Bring backup chargers, cables, extension cords
 - Plan for dietary restrictions
 
-## For Teams of 11-30
+## For Large Groups
 
-If your team is 11-30 people, your options narrow significantly. Most rentals cap at 10 guests.
+If your team is large groups, your options narrow significantly. Most rentals cap at 10 guests.
 
 [Castleday Retreats](https://castledayretreats.com/corporate) is purpose-built for this exact range:
 - Three villas, each sleeping up to 30

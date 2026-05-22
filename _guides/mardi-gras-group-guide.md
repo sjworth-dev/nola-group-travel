@@ -1,15 +1,15 @@
 ---
-title: "Mardi Gras Group Guide: Planning for 10-30 People"
+title: "Mardi Gras Group Guide: Planning for Large Groups"
 description: "The complete logistics guide for bringing a large group to New Orleans for Mardi Gras. Parades, accommodation, transportation, and everything that goes wrong when you don't plan."
 category: "Events"
 card_title: "Mardi Gras"
-card_description: "The biggest party in America. Here's how to do it right with 10-30 people."
+card_description: "The biggest party in America. Here's how to do it right with large groups."
 date: 2026-05-22
 ---
 
 Mardi Gras is the biggest group travel event in America. Every year, hundreds of thousands of people descend on New Orleans the week before Fat Tuesday, most of them underprepared. Hotels are sold out months in advance. Uber can't cross parade routes while they're running. Streets close without warning. The city operates on a completely different set of rules for two weeks.
 
-For groups of 10-30, Mardi Gras requires more advance planning than any other trip type — but it also delivers more than any other trip type. If you've never been to Mardi Gras with a big group, with a real home base, on the parade routes during the superkrewe weekends, you don't yet know what it can be.
+For large groups, Mardi Gras requires more advance planning than any other trip type — but it also delivers more than any other trip type. If you've never been to Mardi Gras with a big group, with a real home base, on the parade routes during the superkrewe weekends, you don't yet know what it can be.
 
 This guide covers the logistics. The events page on this site covers dates. Read both.
 
@@ -124,7 +124,7 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 **Book 6-12 months in advance.** No exceptions. Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties sell out before Thanksgiving of the previous year.
 
-### For Groups of 11-30
+### For Large Groups
 
 Hotel rooms don't work for large groups — you lose the ability to gather, cook meals together, and have a central base. During Mardi Gras, that base matters more than on a normal trip. You'll need it as a meeting point, a recovery room, and a staging area every single day.
 
@@ -190,7 +190,7 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 ## Book Your Mardi Gras Stay
 
-For groups of 11-30 — book early:
+For large groups — book early:
 
 - **[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
 - **[The Syd](https://thesyd.com)** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.

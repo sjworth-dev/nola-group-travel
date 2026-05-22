@@ -1,6 +1,6 @@
 ---
 title: "The Lower Garden District: Best Neighborhood for Groups Near Downtown"
-description: "Why the Lower Garden District is the smartest base for large group trips to New Orleans. Central location, walkable, and home to The Syd—built for groups of 11-22 guests."
+description: "Why the Lower Garden District is the smartest base for large group trips to New Orleans. Central location, walkable, and home to The Syd—built for large groups guests."
 category: "Neighborhoods"
 date: 2026-05-21
 ---
@@ -9,7 +9,7 @@ Ask a local where groups should stay if they want to actually be in the city—c
 
 The Lower Garden District is where New Orleans gets residential without getting remote. Oak trees. Wide sidewalks. Historic architecture. And unlike the French Quarter, you can actually sleep here.
 
-For groups, it has one more advantage: it's home to [The Syd](https://thesyd.com), one of the only places in the city that can house 11-22 people under one roof in the middle of everything.
+For groups, it has one more advantage: it's home to [The Syd](https://thesyd.com), one of the only places in the city that can house large groups under one roof in the middle of everything.
 
 ## What Makes the Lower Garden District Different
 
@@ -49,7 +49,7 @@ The LGD is one of the very few New Orleans neighborhoods with permitted large-gr
 
 ## Where to Stay
 
-### For Groups of 11-22: The Syd
+### For Large Groups: The Syd
 
 [The Syd](https://thesyd.com) is purpose-built for large group travel in New Orleans. Multiple villas in the heart of the Lower Garden District, each sleeping up to 22 guests.
 
@@ -65,7 +65,7 @@ Every room was designed by a local New Orleans artist. Not generic hotel-room ar
 
 [Check The Syd availability →](https://thesyd.com)
 
-### For Groups of 11-30 Who Want Total Privacy: Castleday Retreats
+### For Large Groups Who Want Total Privacy: Castleday Retreats
 
 If your group needs complete seclusion—your own private pool, no shared amenities, no other guests—[Castleday Retreats](https://castledayretreats.com) operates three private villas in the Bywater, each sleeping up to 30 guests.
 
@@ -157,7 +157,7 @@ Antiques, vintage, local boutiques. Better than any mall. Good for an afternoon 
 
 **Our take:** If you're attending an event downtown or want maximum walkability to the French Quarter, the Lower Garden District is the best large-group option in the city. If you want to feel like you're away from it all, the Bywater is better.
 
-## For Groups of 11-22
+## For Large Groups
 
 The Lower Garden District is one of the only neighborhoods in New Orleans with permitted large-group accommodations. Most of the city caps rentals at 10 guests by regulation.
 
@@ -181,7 +181,7 @@ The Lower Garden District is one of the only neighborhoods in New Orleans with p
 
 ## Book Your Stay
 
-For groups of 11-22 in the Lower Garden District:
+For large groups in the Lower Garden District:
 
 - [The Syd](https://thesyd.com) — Art-filled villas, central location, heated pool + hot tub
 

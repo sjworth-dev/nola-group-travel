@@ -1,9 +1,9 @@
 ---
 layout: home
 title: New Orleans Group Travel Guide
-description: Local advice for planning group trips to New Orleans. Where to stay with 11-30 people, what to actually do, and insider tips from people who live here.
+description: Local advice for planning group trips to New Orleans. Where to stay with large groups, what to actually do, and insider tips from people who live here.
 headline: Plan Your New Orleans Group Trip
-subtitle: Real advice from locals. Not a travel blog—actual help for groups of 11-30.
+subtitle: Real advice from locals. Not a travel blog—actual help for large groups.
 ---
 
 Look, we get it. You're trying to bring a big group to New Orleans and you've already discovered the problem: there's nowhere to stay.

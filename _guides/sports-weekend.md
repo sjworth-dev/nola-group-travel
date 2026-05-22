@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Sports Weekend Group Guide"
-description: "Saints gameday, Pelicans games, and sports weekends in New Orleans with 10-30 people. How to do it right—tickets, tailgating, transportation, and where to stay."
+description: "Saints gameday, Pelicans games, and sports weekends in New Orleans with large groups. How to do it right—tickets, tailgating, transportation, and where to stay."
 category: "Sports"
 card_title: "Sports Weekends"
 card_description: "Saints game, Pelicans night, or just a sports-focused group trip to one of the loudest cities in the NFL."
@@ -9,7 +9,7 @@ date: 2026-05-22
 
 New Orleans is one of the best sports cities in America. Not because the teams are always great—though they have been—but because of how the city treats game day. A Saints game in the Superdome is one of the loudest environments in professional football. The city shuts down for it. People tailgate on the street. Bars fill up by noon.
 
-For groups of 10-30, sports weekends in New Orleans have a built-in logic: you have a shared event to anchor the trip, built-in conversation, and a reason to be in the same place at the same time. The city fills in the rest.
+For large groups, sports weekends in New Orleans have a built-in logic: you have a shared event to anchor the trip, built-in conversation, and a reason to be in the same place at the same time. The city fills in the rest.
 
 ## Quick Planning Checklist
 
@@ -182,7 +182,7 @@ For groups attending a Saints game, The Syd's location is particularly convenien
 
 ## Book Your Sports Weekend
 
-For groups of 11-30:
+For large groups:
 
 - **[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests each. Full kitchens for game day spreads. Walking distance to post-game Frenchmen Street.
 - **[The Syd](https://thesyd.com)** — Art-filled villas in the Lower Garden District, up to 22 guests each. One block from the St. Charles Streetcar — the easiest transit to the Superdome and back.

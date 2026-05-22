@@ -1,9 +1,9 @@
 ---
-title: "Getting Around New Orleans with 10-30 People"
+title: "Getting Around New Orleans with a Large Group"
 description: "Transportation guide for large groups in New Orleans. Streetcars, rideshare math, party buses, bikes, airport transfers, and how to stop spending your trip coordinating Ubers."
 category: "Logistics"
 card_title: "Getting Around"
-card_description: "Streetcars, rideshare math, party buses. How to move 10-30 people without losing anyone."
+card_description: "Streetcars, rideshare math, party buses. How to move large groups without losing anyone."
 date: 2026-05-22
 ---
 
@@ -233,7 +233,7 @@ For groups of 15+, chartering a coach or van for day trips is usually more pract
 
 ---
 
-## For Groups of 11-30: Home Base Transportation Advantage
+## For Large Groups: Home Base Transportation Advantage
 
 Where you stay determines how much you spend on transportation.
 

@@ -1,9 +1,9 @@
 ---
 title: "New Orleans Restaurants for Large Groups: The Complete Guide"
-description: "Where to eat in New Orleans with 10-30 people. Organized by neighborhood, occasion, and group size—with booking strategy and the restaurants that actually handle large parties well."
+description: "Where to eat in New Orleans with large groups. Organized by neighborhood, occasion, and group size—with booking strategy and the restaurants that actually handle large parties well."
 category: "Food"
 card_title: "Restaurant Guide"
-card_description: "Where to eat with 10-30 people. The restaurants that handle large groups well—and the ones to skip."
+card_description: "Where to eat with large groups. The restaurants that handle large groups well—and the ones to skip."
 date: 2026-05-22
 ---
 
@@ -228,7 +228,7 @@ A backyard crawfish boil or a big pot of red beans and rice at the house is ofte
 
 ---
 
-## For Groups of 11-30: Home Base Matters
+## For Large Groups: Home Base Matters
 
 Having a good kitchen changes how you eat during a trip. Groups at [Castleday Retreats](https://castledayretreats.com) — private villas in the Bywater, up to 30 guests — have full kitchens and outdoor spaces that make at-home meals practical and enjoyable. Groups at [The Syd](https://thesyd.com) in the Lower Garden District have an outdoor kitchen, plus Magazine Street restaurants within easy walking distance.
 

@@ -202,13 +202,13 @@ Earlier Mardi Gras than 2026—carnival season will be compressed.
 
 ### Accommodations
 
-Festival weekends book up fast. For large groups (11-30):
+Festival weekends book up fast. For large groups:
 
 - **6+ months ahead:** Mardi Gras, Jazz Fest
 - **4+ months ahead:** Essence, Voodoo, Southern Decadence
 - **2+ months ahead:** French Quarter Fest, smaller events
 
-[Castleday Retreats](https://castledayretreats.com) and [The Syd](https://thesyd.com) both accommodate 11-30 guests and are walkable to most events.
+[Castleday Retreats](https://castledayretreats.com) and [The Syd](https://thesyd.com) both accommodate large groups and are walkable to most events.
 
 ### Pricing
 

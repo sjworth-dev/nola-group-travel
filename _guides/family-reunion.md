@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Family Reunion Guide"
-description: "Plan a multi-generational family reunion in New Orleans. Accommodations, activities, and dining for groups of 11-30."
+description: "Plan a multi-generational family reunion in New Orleans. Accommodations, activities, and dining for large groups."
 category: "Reunions"
 card_title: "Family Reunions"
 card_description: "Bring three generations together in one place. Activities and dining that work for everyone."
@@ -25,7 +25,7 @@ New Orleans is one of the few cities where all of this actually works. History t
 
 The whole point of a reunion is being together. Hotels scatter everyone. You need one roof.
 
-### For Groups of 11-30
+### For Large Groups
 
 **[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens, multiple bedrooms. Ground-floor options for mobility needs.
 
@@ -213,7 +213,7 @@ New Orleans provides the backdrop. The reunion is what you make of it.
 
 ## Book Your Reunion
 
-For family reunions of 11-30:
+For family reunions for large groups:
 
 - [Castleday Retreats](https://castledayretreats.com) – Private villas with pools
 - [The Syd](https://thesyd.com) – Central location, shared amenities

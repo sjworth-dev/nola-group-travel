@@ -1,6 +1,6 @@
 ---
 title: "The French Quarter: A Group Travel Guide"
-description: "The French Quarter is New Orleans' most iconic neighborhood. What's worth your time, what to skip, and how to navigate it with a group of 10-30."
+description: "The French Quarter is New Orleans' most iconic neighborhood. What's worth your time, what to skip, and how to navigate it with a large group."
 category: "Neighborhoods"
 date: 2026-05-22
 ---
@@ -27,7 +27,7 @@ Here's how groups should actually use the French Quarter.
 
 **Bourbon Street.** It's more chaotic than you're imagining. The drinks are big, cheap, and served in plastic cups. The music pouring out of every bar is different from the next one. It's overwhelming in a way that's weirdly entertaining. Plan for two hours, not a whole night.
 
-**Sleeping here.** Hotels are loud. Large-group rentals are nearly impossible—the city's short-term rental regulations in the Quarter are strict, and most permitted properties cap at 10 guests or fewer. If you need to house 11-30 people, you're staying elsewhere and visiting the Quarter. That's actually better.
+**Sleeping here.** Hotels are loud. Large-group rentals are nearly impossible—the city's short-term rental regulations in the Quarter are strict, and most permitted properties cap at 10 guests or fewer. If you need to house large groups, you're staying elsewhere and visiting the Quarter. That's actually better.
 
 **Pricing.** Expect to pay more for everything—drinks, food, souvenirs—than you would anywhere else in the city. The locals eating and drinking in the Quarter are mostly in spots visitors don't find. Budget accordingly.
 
@@ -127,7 +127,7 @@ The Quarter is easy to reach from anywhere in the city. If you're staying at eit
 
 **From [The Syd](https://thesyd.com) in the Lower Garden District:** Take the St. Charles Streetcar toward Canal Street, get off at Canal, walk one block. Or Uber in about 10 minutes. Easy either way.
 
-## For Groups of 11-30
+## For Large Groups
 
 Here's the honest answer about the French Quarter and large groups: **don't try to stay here.** Large-group rentals in the Quarter are extremely limited due to city regulations, and what exists is expensive and often loud.
 
@@ -172,7 +172,7 @@ The pattern is clear. The Quarter is where you go. The Bywater and Lower Garden 
 
 ## Book Your Group Stay
 
-For groups of 11-30 visiting the French Quarter:
+For large groups visiting the French Quarter:
 
 - **[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests each, 15 minutes from the Quarter on foot
 - **[The Syd](https://thesyd.com)** — Art-designed villas in the Lower Garden District, up to 22 guests each, 10 minutes from the Quarter by streetcar

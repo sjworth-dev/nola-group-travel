@@ -126,7 +126,7 @@ The Marigny and neighboring Tremé (just across Esplanade) are the birthplace of
 
 Frenchmen Street wins on every metric that matters. The only thing Bourbon Street has is that it's available to large groups as a spectacle. Go see the spectacle. Then spend the rest of your time on Frenchmen.
 
-## For Groups of 11-30
+## For Large Groups
 
 The Marigny has almost no large-group rental inventory. City regulations make permitted large-group short-term rentals difficult in this neighborhood, and what exists is limited and inconsistent.
 
@@ -156,7 +156,7 @@ If Frenchmen Street is the primary reason your group is visiting New Orleans—a
 
 ## Book Your Stay Near Frenchmen Street
 
-For groups of 11-30 who want to be close to the Marigny:
+For large groups who want to be close to the Marigny:
 
 - **[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, up to 30 guests each, 10-minute walk to Frenchmen Street. Private pools, full kitchens, local art throughout. The best base for a music-focused group trip in New Orleans.
 - **[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Heated pool, hot tub, sauna. 10 minutes from Frenchmen by Uber—better for groups who want proximity to downtown as well as the music scene.

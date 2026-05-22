@@ -1,5 +1,5 @@
 ---
-title: "Jazz Fest Group Guide: Planning for 10-30 People"
+title: "Jazz Fest Group Guide: Planning for Large Groups"
 description: "How to do New Orleans Jazz & Heritage Festival with a large group. Tickets, logistics, fairgrounds strategy, evening shows, and the best places to stay during Jazz Fest weekend."
 category: "Events"
 card_title: "Jazz Fest"
@@ -75,7 +75,7 @@ The Fair Grounds are in Mid-City, about 3-4 miles from the French Quarter and do
 
 | Method | Best For | Notes |
 |--------|----------|-------|
-| Official shuttle | Groups of 10-30 | Book in advance, no surge, easy return |
+| Official shuttle | Large groups | Book in advance, no surge, easy return |
 | Rideshare | Small groups, early arrival | Budget for return surge |
 | Bike | Active groups, morning arrival | Flat ride, easy parking |
 | Streetcar + walk | Groups on a budget | Plan the route in advance |
@@ -131,9 +131,9 @@ For large groups, evening shows require planning: separate tickets, a venue that
 
 ## Where to Stay During Jazz Fest
 
-Hotels in New Orleans fill up for Jazz Fest weekends well in advance. For large groups, this is acute: not only do you need to book early, you need a space that can hold 11-30 people.
+Hotels in New Orleans fill up for Jazz Fest weekends well in advance. For large groups, this is acute: not only do you need to book early, you need a space that can hold large groups.
 
-### For Groups of 11-30
+### For Large Groups
 
 **[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. The Bywater is a short Uber from the Fair Grounds and walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinating Ubers is a genuine quality-of-life improvement.
 
@@ -184,7 +184,7 @@ Neither is better. They're different experiences. Many groups do both in the sam
 
 ## Book Your Jazz Fest Stay
 
-For groups of 11-30 — book well in advance:
+For large groups — book well in advance:
 
 - **[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests each. Walk to Frenchmen Street for evening music. Private pool for post-festival recovery.
 - **[The Syd](https://thesyd.com)** — Art-filled villas in the Lower Garden District, up to 22 guests. Streetcar access to festival shuttles. Shared pool and outdoor kitchen.

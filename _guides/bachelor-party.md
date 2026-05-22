@@ -1,15 +1,15 @@
 ---
 title: "New Orleans Bachelor Party Guide"
-description: "Plan an epic New Orleans bachelor party for 11-30 guys. Where to stay, what to do, and how to make it legendary."
+description: "Plan an epic New Orleans bachelor party for large groups. Where to stay, what to do, and how to make it legendary."
 category: "Bachelor"
 card_title: "Bachelor Parties"
-card_description: "Golf, gambling, live music, and legendary nights. The complete guide for groups of 11-30."
+card_description: "Golf, gambling, live music, and legendary nights. The complete guide for large groups."
 date: 2026-01-14
 ---
 
 New Orleans might be the best bachelor party city in America. No last call. World-class food. Live music everywhere. And unlike Vegas, it has actual soul.
 
-This guide covers everything for groups of 11-30 guys—where to stay, what to do, and how to send the groom off properly.
+This guide covers everything for large groups guys—where to stay, what to do, and how to send the groom off properly.
 
 ## Why New Orleans for a Bachelor Party
 
@@ -23,7 +23,7 @@ This guide covers everything for groups of 11-30 guys—where to stay, what to d
 
 ## Where to Stay
 
-### For Groups of 11-30
+### For Large Groups
 
 Most rentals cap at 10 guests. For larger groups:
 
@@ -197,7 +197,7 @@ Three blocks of live music clubs. This is where locals actually go.
 
 ## Book Your Stay
 
-For bachelor parties of 11-30, book early:
+For bachelor large groups, book early:
 
 - [Castleday Retreats](https://castledayretreats.com) – Private pools, Bywater location
 - [The Syd](https://thesyd.com) – Central location, shared pool/hot tub

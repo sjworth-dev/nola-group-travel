@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Wedding Party & Guest Guide"
-description: "Plan wedding parties, guest accommodations, and wedding weekend activities in New Orleans for groups of 11-30."
+description: "Plan wedding parties, guest accommodations, and wedding weekend activities in New Orleans for large groups."
 category: "Weddings"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
@@ -45,7 +45,7 @@ Smaller weddings where the entire guest list stays together in one large rental.
 
 ## Where to Stay
 
-### For Wedding Parties of 11-30
+### For Large Wedding Parties
 
 **[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, multiple bedrooms. Perfect for bridesmaids getting ready together or groomsmen hosting the pre-wedding party.
 
@@ -300,7 +300,7 @@ Send them to hotels, or book multiple rentals on the same property. The Syd's mu
 
 ## Book Your Wedding Weekend
 
-For wedding parties of 11-30:
+For wedding large groups:
 
 - [Castleday Retreats](https://castledayretreats.com) – Private pools, perfect for getting-ready photos
 - [The Syd](https://thesyd.com) – Central location, multiple units for large wedding groups

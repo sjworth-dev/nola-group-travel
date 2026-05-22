@@ -139,7 +139,7 @@ The Garden District is best as a daytime experience combined with a home base ne
 
 ---
 
-## For Groups of 11-30
+## For Large Groups
 
 The Garden District itself has almost no large-group rental inventory. If you want the Garden District experience, the two best home bases are:
 

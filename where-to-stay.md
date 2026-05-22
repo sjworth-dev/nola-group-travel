@@ -1,7 +1,7 @@
 ---
 layout: guide
-title: "Where to Stay in New Orleans With 11-30 Guests"
-description: "Finding accommodations for 11-30 people in New Orleans is hard. Most rentals cap at 10. Here are your actual options from locals who've solved this problem."
+title: "Where to Stay in New Orleans With Large Groups"
+description: "Finding accommodations for large groups in New Orleans is hard. Most rentals cap at 10. Here are your actual options from locals who've solved this problem."
 category: "Accommodations"
 date: 2026-01-14
 permalink: /where-to-stay/
@@ -21,7 +21,7 @@ The result? Hundreds of options for groups of 10 or fewer. Cross that threshold 
 
 We know this problem well—because we're the ones who solved it.
 
-## Your Best Options for 11-30 Guests
+## Your Best Options for Large Groups
 
 We operate two properties specifically designed for large groups. Both are locally owned, professionally managed, and actually permitted for the guest counts we advertise (no sneaking around regulations).
 
@@ -118,7 +118,7 @@ Some hotels can block rooms on the same floor.
 
 ## Our Honest Take
 
-If your group is 11-30 people and you want everyone together in one place, book [Castleday](https://castledayretreats.com) or [The Syd](https://thesyd.com). We've been hosting large groups in New Orleans for years, and nothing else combines the capacity, quality, and location.
+If your group is large groups and you want everyone together in one place, book [Castleday](https://castledayretreats.com) or [The Syd](https://thesyd.com). We've been hosting large groups in New Orleans for years, and nothing else combines the capacity, quality, and location.
 
 Pick Castleday if you want privacy. Pick The Syd if you want to be central. Either way, you'll have a better experience than cobbling together multiple rentals or scattering everyone across hotel rooms.
 
