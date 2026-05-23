@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/bar-crawl-guide.md` — Ultimate NOLA bar crawl guide for large groups: classic cocktail bars, dive bars, Frenchmen Street clubs, French Quarter landmarks, and how to route a crawl for 15-30 people
 - `_guides/bachelorette-weekend.md` — Extended bachelorette weekend guide: 3-day detailed itinerary for bachelorette groups in NOLA (different from the existing bachelorette-party.md — more tactical, day-by-day)
 - `_neighborhoods/cbd.md` — Central Business District guide for groups (hotels, Superdome proximity, proximity to Warehouse District)
 - `_guides/group-size-guide.md` — "What to do at each group size" guide: specific logistics, restaurant recommendations, and accommodation options for 10-person, 15-person, 20-person, and 30-person groups
@@ -139,6 +138,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-23 — `_guides/itinerary-5-day.md`
 - 2026-05-23 — `_guides/packing-guide.md`
 - 2026-05-23 — `_guides/essence-festival.md`
+- 2026-05-23 — `_guides/bar-crawl-guide.md`
 
 ---
 
@@ -162,3 +162,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-23 11:00 UTC — content: add _guides/itinerary-5-day.md — complete 5-day extended group itinerary for NOLA
 2026-05-23 11:10 UTC — content: add _guides/packing-guide.md — season-by-season packing guide for NOLA group trips
 2026-05-23 11:20 UTC — content: add _guides/essence-festival.md — Essence Festival group guide for large groups
+2026-05-23 12:00 UTC — content: add _guides/bar-crawl-guide.md — ultimate NOLA bar crawl guide for large groups
