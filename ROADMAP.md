@@ -97,15 +97,14 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_neighborhoods/uptown.md` — Uptown neighborhood guide (Audubon Park, Tulane, Magazine Street upper half, local vibe)
-- `_neighborhoods/warehouse-district.md` — Warehouse District / Arts District guide (galleries, Cochon/Pêche cluster, Convention Center)
-- `_neighborhoods/mid-city.md` — Mid-City guide (City Park, Fair Grounds, Bayou St. John, local restaurants)
-- `_guides/activities-guide.md` — Master activities guide: swamp tours, plantation tours, cooking classes, ghost tours, biking, golf — with group logistics for each
-- `_guides/budget-guide.md` — Full budget breakdown guide: what a NOLA group trip costs at budget / mid-range / luxury, line by line
-- `_guides/itinerary-3-day.md` — Fully built 3-day group itinerary with morning/afternoon/evening slots, for large groups
-- `_guides/itinerary-5-day.md` — 5-day extended group itinerary with neighborhood rotation and dining anchors
-- `_guides/packing-guide.md` — What to pack for New Orleans: season-by-season, group-specific items, what to leave home
-- `_guides/essence-festival.md` — Essence Festival group guide (largest event in the city, July weekend, 500k+ attendees)
+- `_guides/bar-crawl-guide.md` — Ultimate NOLA bar crawl guide for large groups: classic cocktail bars, dive bars, Frenchmen Street clubs, French Quarter landmarks, and how to route a crawl for 15-30 people
+- `_guides/bachelorette-weekend.md` — Extended bachelorette weekend guide: 3-day detailed itinerary for bachelorette groups in NOLA (different from the existing bachelorette-party.md — more tactical, day-by-day)
+- `_neighborhoods/cbd.md` — Central Business District guide for groups (hotels, Superdome proximity, proximity to Warehouse District)
+- `_guides/group-size-guide.md` — "What to do at each group size" guide: specific logistics, restaurant recommendations, and accommodation options for 10-person, 15-person, 20-person, and 30-person groups
+- `_guides/rainy-day-guide.md` — What to do in New Orleans when it rains: indoor activities, museums, bars, restaurants — specifically written for groups whose outdoor plans get rained out
+- `_guides/day-trips.md` — Day trip guide from New Orleans: plantation tours, Cajun Country/Breaux Bridge, Gulf Coast, Lafayette — with group transportation logistics for each
+- `_guides/new-years-guide.md` — New Year's Eve group guide for New Orleans: Sugar Bowl, midnight on Frenchmen Street, where to stay, how to get tickets
+- `_guides/private-chef-guide.md` — Hiring a private chef for your group in New Orleans: how it works, what to expect, cost range, caterers vs. private chefs
 
 ---
 
@@ -131,6 +130,15 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-22 — `_guides/transportation-guide.md`
 - 2026-05-22 — `_guides/sports-weekend.md`
 - 2026-05-22 — `_neighborhoods/garden-district.md`
+- 2026-05-23 — `_neighborhoods/uptown.md`
+- 2026-05-23 — `_neighborhoods/warehouse-district.md`
+- 2026-05-23 — `_neighborhoods/mid-city.md`
+- 2026-05-23 — `_guides/activities-guide.md`
+- 2026-05-23 — `_guides/budget-guide.md`
+- 2026-05-23 — `_guides/itinerary-3-day.md`
+- 2026-05-23 — `_guides/itinerary-5-day.md`
+- 2026-05-23 — `_guides/packing-guide.md`
+- 2026-05-23 — `_guides/essence-festival.md`
 
 ---
 
@@ -145,3 +153,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-22 11:00 UTC — content: add _guides/transportation-guide.md — getting around NOLA with large groups
 2026-05-22 11:15 UTC — content: add _guides/sports-weekend.md — Saints gameday and sports weekend group guide
 2026-05-22 11:30 UTC — content: add _neighborhoods/garden-district.md — Garden District neighborhood guide for groups
+2026-05-23 10:00 UTC — content: add _neighborhoods/uptown.md — Uptown neighborhood guide for groups
+2026-05-23 10:10 UTC — content: add _neighborhoods/warehouse-district.md — Warehouse District guide for groups
+2026-05-23 10:20 UTC — content: add _neighborhoods/mid-city.md — Mid-City neighborhood guide for groups
+2026-05-23 10:30 UTC — content: add _guides/activities-guide.md — master activities guide for large groups
+2026-05-23 10:40 UTC — content: add _guides/budget-guide.md — full budget breakdown for NOLA group trips
+2026-05-23 10:50 UTC — content: add _guides/itinerary-3-day.md — complete 3-day group itinerary for NOLA
+2026-05-23 11:00 UTC — content: add _guides/itinerary-5-day.md — complete 5-day extended group itinerary for NOLA
+2026-05-23 11:10 UTC — content: add _guides/packing-guide.md — season-by-season packing guide for NOLA group trips
+2026-05-23 11:20 UTC — content: add _guides/essence-festival.md — Essence Festival group guide for large groups
