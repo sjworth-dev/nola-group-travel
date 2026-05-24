@@ -97,13 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/bachelorette-weekend.md` — Extended bachelorette weekend guide: 3-day detailed itinerary for bachelorette groups in NOLA (different from the existing bachelorette-party.md — more tactical, day-by-day)
-- `_neighborhoods/cbd.md` — Central Business District guide for groups (hotels, Superdome proximity, proximity to Warehouse District)
-- `_guides/group-size-guide.md` — "What to do at each group size" guide: specific logistics, restaurant recommendations, and accommodation options for 10-person, 15-person, 20-person, and 30-person groups
-- `_guides/rainy-day-guide.md` — What to do in New Orleans when it rains: indoor activities, museums, bars, restaurants — specifically written for groups whose outdoor plans get rained out
-- `_guides/day-trips.md` — Day trip guide from New Orleans: plantation tours, Cajun Country/Breaux Bridge, Gulf Coast, Lafayette — with group transportation logistics for each
-- `_guides/new-years-guide.md` — New Year's Eve group guide for New Orleans: Sugar Bowl, midnight on Frenchmen Street, where to stay, how to get tickets
-- `_guides/private-chef-guide.md` — Hiring a private chef for your group in New Orleans: how it works, what to expect, cost range, caterers vs. private chefs
+- `_guides/solo-friendly-group-guide.md` — Guide for mixed groups where some attendees are partners/solo travelers who aren't part of the core group: how to manage different interests, give people alone time, and keep the group happy
+- `_guides/second-line-guide.md` — Deep dive on second line parades: what they are, how to find them, how to hire a brass band for your own group second line, what to wear and how to act
+- `_guides/french-quarter-fest.md` — French Quarter Festival group guide: the free music festival every April, how it differs from Jazz Fest, logistics for large groups
+- `_guides/girls-trip-uptown.md` — Girls trip guide specifically for Uptown New Orleans: Magazine Street shopping, Garden District brunch, spa options, and the best bars for a girls night out
+- `_neighborhoods/treme.md` — Tremé neighborhood guide for groups: birthplace of jazz, historic significance, what to do, proximity to French Quarter
 
 ---
 
@@ -139,6 +137,13 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-23 — `_guides/packing-guide.md`
 - 2026-05-23 — `_guides/essence-festival.md`
 - 2026-05-23 — `_guides/bar-crawl-guide.md`
+- 2026-05-24 — `_guides/bachelorette-weekend.md`
+- 2026-05-24 — `_neighborhoods/cbd.md`
+- 2026-05-24 — `_guides/group-size-guide.md`
+- 2026-05-24 — `_guides/rainy-day-guide.md`
+- 2026-05-24 — `_guides/day-trips.md`
+- 2026-05-24 — `_guides/new-years-guide.md`
+- 2026-05-24 — `_guides/private-chef-guide.md`
 
 ---
 
@@ -163,3 +168,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-23 11:10 UTC — content: add _guides/packing-guide.md — season-by-season packing guide for NOLA group trips
 2026-05-23 11:20 UTC — content: add _guides/essence-festival.md — Essence Festival group guide for large groups
 2026-05-23 12:00 UTC — content: add _guides/bar-crawl-guide.md — ultimate NOLA bar crawl guide for large groups
+2026-05-24 10:00 UTC — content: add _guides/bachelorette-weekend.md — hour-by-hour bachelorette weekend itinerary for groups of 10-25
+2026-05-24 10:10 UTC — content: add _neighborhoods/cbd.md — Central Business District guide for groups (Superdome, convention center, hotel strategy)
+2026-05-24 10:20 UTC — content: add _guides/group-size-guide.md — logistics, restaurants, and accommodation guide for 10, 15, 20, and 30-person groups
+2026-05-24 10:30 UTC — content: add _guides/rainy-day-guide.md — indoor activities, bars, and restaurants for groups when outdoor plans get rained out
+2026-05-24 10:40 UTC — content: add _guides/day-trips.md — plantation tours, Cajun Country, Gulf Coast, and Lafayette day trip guide for large groups
+2026-05-24 10:50 UTC — content: add _guides/new-years-guide.md — New Year's Eve group guide for NOLA: Sugar Bowl, Frenchmen Street midnight, large group accommodations
+2026-05-24 11:00 UTC — content: add _guides/private-chef-guide.md — how to hire a private chef for group trips in New Orleans: cost, logistics, what to expect
