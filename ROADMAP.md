@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/solo-friendly-group-guide.md` — Guide for mixed groups where some attendees are partners/solo travelers who aren't part of the core group: how to manage different interests, give people alone time, and keep the group happy
-- `_guides/second-line-guide.md` — Deep dive on second line parades: what they are, how to find them, how to hire a brass band for your own group second line, what to wear and how to act
-- `_guides/french-quarter-fest.md` — French Quarter Festival group guide: the free music festival every April, how it differs from Jazz Fest, logistics for large groups
-- `_guides/girls-trip-uptown.md` — Girls trip guide specifically for Uptown New Orleans: Magazine Street shopping, Garden District brunch, spa options, and the best bars for a girls night out
-- `_neighborhoods/treme.md` — Tremé neighborhood guide for groups: birthplace of jazz, historic significance, what to do, proximity to French Quarter
+- `_guides/guys-weekend-guide.md` — Guys weekend playbook: golf, fishing, sports bars, Saints gameday, bachelor-adjacent activities, and the bars that work best for an all-guys group
+- `_guides/first-timer-guide.md` — Complete first-timers guide to New Orleans for large groups: what to expect, the top-10 must-dos, common mistakes, and how to see the real city beyond Bourbon Street
+- `_guides/cocktail-culture-guide.md` — Deep dive on New Orleans cocktail culture for groups: the classic drinks and where they were invented, the best craft cocktail bars, how to run a cocktail tour for a large group
+- `_guides/halloween-guide.md` — Halloween in New Orleans group guide: one of the country's best Halloween cities, what events happen, how to costume and celebrate, bar crawls, and party logistics
+- `_neighborhoods/ninth-ward.md` — The Ninth Ward / Holy Cross neighborhood guide for groups: post-Katrina history, the Lower Nine, what's there now, why it matters, and how to visit respectfully
 
 ---
 
@@ -144,6 +144,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-24 — `_guides/day-trips.md`
 - 2026-05-24 — `_guides/new-years-guide.md`
 - 2026-05-24 — `_guides/private-chef-guide.md`
+- 2026-05-24 — `_guides/solo-friendly-group-guide.md`
+- 2026-05-24 — `_guides/second-line-guide.md`
+- 2026-05-24 — `_guides/french-quarter-fest.md`
+- 2026-05-24 — `_guides/girls-trip-uptown.md`
+- 2026-05-24 — `_neighborhoods/treme.md`
 
 ---
 
@@ -175,3 +180,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-24 10:40 UTC — content: add _guides/day-trips.md — plantation tours, Cajun Country, Gulf Coast, and Lafayette day trip guide for large groups
 2026-05-24 10:50 UTC — content: add _guides/new-years-guide.md — New Year's Eve group guide for NOLA: Sugar Bowl, Frenchmen Street midnight, large group accommodations
 2026-05-24 11:00 UTC — content: add _guides/private-chef-guide.md — how to hire a private chef for group trips in New Orleans: cost, logistics, what to expect
+2026-05-24 12:00 UTC — content: add _guides/solo-friendly-group-guide.md — mixed group planning for solo travelers, partners, introverts, and budget mismatches
+2026-05-24 12:10 UTC — content: add _guides/second-line-guide.md — deep dive on second line parades and hiring a brass band for private group second lines
+2026-05-24 12:20 UTC — content: add _guides/french-quarter-fest.md — French Quarter Festival group guide with FQF vs Jazz Fest comparison and 4-day itinerary
+2026-05-24 12:30 UTC — content: add _guides/girls-trip-uptown.md — girls trip guide for Uptown NOLA covering Magazine Street, Garden District, spa, and nightlife
+2026-05-24 12:40 UTC — content: add _neighborhoods/treme.md — Tremé neighborhood guide covering Congo Square, Backstreet Cultural Museum, and second line culture
