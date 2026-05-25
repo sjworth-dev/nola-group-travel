@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/guys-weekend-guide.md` — Guys weekend playbook: golf, fishing, sports bars, Saints gameday, bachelor-adjacent activities, and the bars that work best for an all-guys group
-- `_guides/first-timer-guide.md` — Complete first-timers guide to New Orleans for large groups: what to expect, the top-10 must-dos, common mistakes, and how to see the real city beyond Bourbon Street
-- `_guides/cocktail-culture-guide.md` — Deep dive on New Orleans cocktail culture for groups: the classic drinks and where they were invented, the best craft cocktail bars, how to run a cocktail tour for a large group
-- `_guides/halloween-guide.md` — Halloween in New Orleans group guide: one of the country's best Halloween cities, what events happen, how to costume and celebrate, bar crawls, and party logistics
-- `_neighborhoods/ninth-ward.md` — The Ninth Ward / Holy Cross neighborhood guide for groups: post-Katrina history, the Lower Nine, what's there now, why it matters, and how to visit respectfully
+- `_guides/live-music-guide.md` — Deep dive on New Orleans live music for large groups: every major venue type, Preservation Hall vs. Frenchmen Street vs. jazz clubs, how to experience the full spectrum in one trip
+- `_guides/outdoor-activities-guide.md` — Outdoor and active activities for large groups: kayaking, bike tours, golf, swamp tours, fishing, City Park, and how to structure an active day in NOLA
+- `_guides/lgbtq-group-guide.md` — NOLA for LGBTQ groups: the Bourbon Street gay scene, Pride events, welcoming venues, and why New Orleans is one of the most LGBTQ-friendly cities in the South
+- `_guides/convention-group-guide.md` — Attending a convention in New Orleans with a large group: using the Convention Center, hotel vs. villa strategy, getting around the CBD, making the most of free time
+- `_neighborhoods/algiers.md` — Algiers Point neighborhood guide for groups: the only neighborhood on the West Bank, the free ferry, historic architecture, and what makes it worth the 7-minute river crossing
 
 ---
 
@@ -149,6 +149,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-24 — `_guides/french-quarter-fest.md`
 - 2026-05-24 — `_guides/girls-trip-uptown.md`
 - 2026-05-24 — `_neighborhoods/treme.md`
+- 2026-05-25 — `_guides/guys-weekend-guide.md`
+- 2026-05-25 — `_guides/first-timer-guide.md`
+- 2026-05-25 — `_guides/cocktail-culture-guide.md`
+- 2026-05-25 — `_guides/halloween-guide.md`
+- 2026-05-25 — `_neighborhoods/ninth-ward.md`
 
 ---
 
@@ -185,3 +190,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-24 12:20 UTC — content: add _guides/french-quarter-fest.md — French Quarter Festival group guide with FQF vs Jazz Fest comparison and 4-day itinerary
 2026-05-24 12:30 UTC — content: add _guides/girls-trip-uptown.md — girls trip guide for Uptown NOLA covering Magazine Street, Garden District, spa, and nightlife
 2026-05-24 12:40 UTC — content: add _neighborhoods/treme.md — Tremé neighborhood guide covering Congo Square, Backstreet Cultural Museum, and second line culture
+2026-05-25 10:00 UTC — content: add _guides/guys-weekend-guide.md — guys weekend playbook with golf, fishing, sports bars, Saints gameday, and large-group bar logistics
+2026-05-25 10:10 UTC — content: add _guides/first-timer-guide.md — complete first-timers guide for large groups covering must-dos, neighborhoods, common mistakes, and real city beyond Bourbon Street
+2026-05-25 10:20 UTC — content: add _guides/cocktail-culture-guide.md — NOLA cocktail history, the classic drinks and their origins, craft bar tour routes, and group logistics
+2026-05-25 10:30 UTC — content: add _guides/halloween-guide.md — Halloween group guide covering Voodoo Fest, Krewe of Boo, bar crawl routes, costume logistics, and October trip planning
+2026-05-25 10:40 UTC — content: add _neighborhoods/ninth-ward.md — Lower Ninth Ward and Holy Cross guide with post-Katrina history, respectful visit logistics, and community context
