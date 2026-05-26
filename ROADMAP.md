@@ -97,13 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nightlife-guide.md` — Complete nightlife guide for large groups: every major bar district, how to run a group bar crawl, cover charges, walk-around cups, no-last-call logistics, and the real difference between Bourbon Street and Frenchmen Street
-- `_guides/wedding-weekend-guide.md` — Full wedding weekend in New Orleans for large out-of-town groups: rehearsal dinner options, welcome party ideas, group transportation for the wedding day, post-wedding brunch, and how to keep 30 guests happy across 4 days
-- `_guides/spa-wellness-guide.md` — Spa, wellness, and recovery options for large groups in New Orleans: day spas, group bookings, yoga, float tanks, and how to build a "recovery day" into a big group trip
-- `_neighborhoods/lakeview.md` — Lakeview neighborhood guide for groups: lakefront access, City Park adjacency, good restaurants, and the character of one of NOLA's most livable residential neighborhoods
-- `_guides/haunted-history-guide.md` — Ghost tours, cemeteries, voodoo history, and haunted bars: the real history behind New Orleans' macabre reputation and how to experience it with a large group beyond the tourist-trap ghost tour
-- `_guides/culinary-tour-guide.md` — DIY culinary tour of New Orleans for large groups: po-boy shops, gumbo, beignets, boudin, red beans and rice — a neighborhood-by-neighborhood eating itinerary that covers the full range of Louisiana food culture
-- `_guides/budget-villa-guide.md` — How to make a private villa work on a group budget: splitting costs, what's included vs. extra, when a villa beats a hotel financially, and how to present the math to a skeptical group organizer
+- `_guides/group-booking-guide.md` — The complete group booking playbook: how to organize reservations across restaurants, activities, tours, and transportation for 10–30 people; managing deposits, cancellations, and the logistics of getting everyone to show up on time
+- `_guides/music-history-guide.md` — Deep dive into New Orleans music history for groups: Congo Square origins, the birth of jazz, the brass band tradition, funk lineage, and how to experience the living history (not just the tourist version) with a large group
+- `_neighborhoods/mid-city-deep-dive.md` — Extended Mid-City guide focusing on Bayou St. John, the Lafitte Greenway cycling trail, City Park access, and the neighborhood restaurants and bars that don't show up in tourist guides
+- `_guides/kids-families-guide.md` — Family reunion and group trip guide for families with children: child-friendly activities, restaurants that work for mixed ages, safety logistics in the French Quarter, and how to keep the kids happy while the adults still have a real trip
+- `_guides/group-photography-guide.md` — Best photo spots in New Orleans for large groups: the iconic shots, the lesser-known locations, timing and lighting advice, and how to coordinate group photography without losing two hours to logistics
 
 ---
 
@@ -161,6 +159,13 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-25 — `_guides/lgbtq-group-guide.md`
 - 2026-05-25 — `_guides/convention-group-guide.md`
 - 2026-05-25 — `_neighborhoods/algiers.md`
+- 2026-05-26 — `_guides/nightlife-guide.md`
+- 2026-05-26 — `_guides/wedding-weekend-guide.md`
+- 2026-05-26 — `_guides/spa-wellness-guide.md`
+- 2026-05-26 — `_neighborhoods/lakeview.md`
+- 2026-05-26 — `_guides/haunted-history-guide.md`
+- 2026-05-26 — `_guides/culinary-tour-guide.md`
+- 2026-05-26 — `_guides/budget-villa-guide.md`
 
 ---
 
@@ -207,3 +212,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-25 11:20 UTC — content: add _guides/lgbtq-group-guide.md — NOLA for LGBTQ+ large groups covering Southern Decadence, Pride, the Bourbon Street gay scene, and welcoming neighborhoods
 2026-05-25 11:30 UTC — content: add _guides/convention-group-guide.md — attending conventions in NOLA with large groups: hotel vs. villa strategy, Convention Center logistics, evening planning
 2026-05-25 11:40 UTC — content: add _neighborhoods/algiers.md — Algiers Point neighborhood guide for groups with free ferry logistics, levee views, and architecture walk
+2026-05-26 10:00 UTC — content: add _guides/nightlife-guide.md — complete nightlife guide covering every bar district, walk-around cup rules, no-last-call logistics, and Frenchmen vs Bourbon breakdown
+2026-05-26 10:15 UTC — content: add _guides/wedding-weekend-guide.md — full 4-day wedding weekend planning guide for large groups with rehearsal dinner, welcome party, day-of transport, and brunch
+2026-05-26 10:30 UTC — content: add _guides/spa-wellness-guide.md — spa, wellness, and recovery day guide for large groups covering float tanks, yoga, pool days, and recovery nutrition
+2026-05-26 10:45 UTC — content: add _neighborhoods/lakeview.md — Lakeview neighborhood guide covering City Park, NOMA, Sculpture Garden, and lakefront for large groups
+2026-05-26 11:00 UTC — content: add _guides/haunted-history-guide.md — ghost tours, cemeteries, voodoo history, and historic bars with honest historical context for large groups
+2026-05-26 11:15 UTC — content: add _guides/culinary-tour-guide.md — DIY neighborhood-by-neighborhood culinary tour covering po-boys, gumbo, beignets, oysters, and Louisiana food canon
+2026-05-26 11:30 UTC — content: add _guides/budget-villa-guide.md — villa vs. hotel financial comparison, cost-splitting logistics, what's included, and how to present the math to the group
