@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/group-booking-guide.md` — The complete group booking playbook: how to organize reservations across restaurants, activities, tours, and transportation for 10–30 people; managing deposits, cancellations, and the logistics of getting everyone to show up on time
-- `_guides/music-history-guide.md` — Deep dive into New Orleans music history for groups: Congo Square origins, the birth of jazz, the brass band tradition, funk lineage, and how to experience the living history (not just the tourist version) with a large group
-- `_neighborhoods/mid-city-deep-dive.md` — Extended Mid-City guide focusing on Bayou St. John, the Lafitte Greenway cycling trail, City Park access, and the neighborhood restaurants and bars that don't show up in tourist guides
-- `_guides/kids-families-guide.md` — Family reunion and group trip guide for families with children: child-friendly activities, restaurants that work for mixed ages, safety logistics in the French Quarter, and how to keep the kids happy while the adults still have a real trip
-- `_guides/group-photography-guide.md` — Best photo spots in New Orleans for large groups: the iconic shots, the lesser-known locations, timing and lighting advice, and how to coordinate group photography without losing two hours to logistics
+- `_guides/accessible-group-guide.md` — Planning a group trip to New Orleans for guests with mobility limitations, wheelchair access, hearing or vision considerations: accessible restaurants, hotels vs. villas, the French Quarter realities, and how to plan a trip where everyone participates fully
+- `_guides/volunteer-trip-guide.md` — Group volunteer and service trips to New Orleans: community organizations, rebuilding and restoration opportunities, how to structure a meaningful trip that combines service with the city's culture, and logistics for groups of 10–30
+- `_guides/pre-wedding-activities-guide.md` — Everything except the ceremony: rehearsal dinners, bridesmaids and groomsmen outings, welcome parties, post-wedding brunches, and the day-by-day logistics of keeping a wedding party of 15-30 in one piece for a long weekend
+- `_guides/hotel-vs-villa-guide.md` — The definitive comparison for large groups: what a hotel actually gives you vs. what a private villa gives you, the math on cost-per-person, the practical differences in group experience, and when each makes sense for different trip types
+- `_neighborhoods/riverbend-carrollton.md` — Riverbend and Carrollton neighborhood guide for groups: the bend in the Mississippi, Cooter Brown's, Maple Street, the Camellia Grill, and Uptown's quieter residential side that most groups never see
 
 ---
 
@@ -166,6 +166,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-26 — `_guides/haunted-history-guide.md`
 - 2026-05-26 — `_guides/culinary-tour-guide.md`
 - 2026-05-26 — `_guides/budget-villa-guide.md`
+- 2026-05-26 — `_guides/group-booking-guide.md`
+- 2026-05-26 — `_guides/music-history-guide.md`
+- 2026-05-26 — `_neighborhoods/mid-city-deep-dive.md`
+- 2026-05-26 — `_guides/kids-families-guide.md`
+- 2026-05-26 — `_guides/group-photography-guide.md`
 
 ---
 
@@ -219,3 +224,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-26 11:00 UTC — content: add _guides/haunted-history-guide.md — ghost tours, cemeteries, voodoo history, and historic bars with honest historical context for large groups
 2026-05-26 11:15 UTC — content: add _guides/culinary-tour-guide.md — DIY neighborhood-by-neighborhood culinary tour covering po-boys, gumbo, beignets, oysters, and Louisiana food canon
 2026-05-26 11:30 UTC — content: add _guides/budget-villa-guide.md — villa vs. hotel financial comparison, cost-splitting logistics, what's included, and how to present the math to the group
+2026-05-26 12:00 UTC — content: add _guides/group-booking-guide.md — complete group booking playbook: reservations, deposits, cancellations, and logistics for 10-30 people
+2026-05-26 12:10 UTC — content: add _guides/music-history-guide.md — NOLA music history deep dive: Congo Square, jazz origins, brass band tradition, funk lineage, and how to experience the living history with a group
+2026-05-26 12:20 UTC — content: add _neighborhoods/mid-city-deep-dive.md — extended Mid-City guide covering Bayou St. John, Lafitte Greenway, City Park, and off-tourist-radar restaurants and bars
+2026-05-26 12:30 UTC — content: add _guides/kids-families-guide.md — family reunion and multigenerational group trip guide: child-friendly activities, mixed-age restaurants, split schedule model, safety logistics
+2026-05-26 12:40 UTC — content: add _guides/group-photography-guide.md — best photo spots for large groups, golden hour windows, 7 iconic NOLA locations, coordination logistics
