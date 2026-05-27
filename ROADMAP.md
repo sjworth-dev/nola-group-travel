@@ -97,11 +97,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/accessible-group-guide.md` — Planning a group trip to New Orleans for guests with mobility limitations, wheelchair access, hearing or vision considerations: accessible restaurants, hotels vs. villas, the French Quarter realities, and how to plan a trip where everyone participates fully
-- `_guides/volunteer-trip-guide.md` — Group volunteer and service trips to New Orleans: community organizations, rebuilding and restoration opportunities, how to structure a meaningful trip that combines service with the city's culture, and logistics for groups of 10–30
-- `_guides/pre-wedding-activities-guide.md` — Everything except the ceremony: rehearsal dinners, bridesmaids and groomsmen outings, welcome parties, post-wedding brunches, and the day-by-day logistics of keeping a wedding party of 15-30 in one piece for a long weekend
-- `_guides/hotel-vs-villa-guide.md` — The definitive comparison for large groups: what a hotel actually gives you vs. what a private villa gives you, the math on cost-per-person, the practical differences in group experience, and when each makes sense for different trip types
-- `_neighborhoods/riverbend-carrollton.md` — Riverbend and Carrollton neighborhood guide for groups: the bend in the Mississippi, Cooter Brown's, Maple Street, the Camellia Grill, and Uptown's quieter residential side that most groups never see
+- `_guides/group-games-activities-guide.md` — Organized group games and team activities in New Orleans: trivia nights, scavenger hunts, escape rooms, lawn games at the villa, casino nights, and how to structure competitive group fun for 10–30 people who don't all want to bar-crawl
+- `_guides/new-orleans-music-venues-guide.md` — Deep guide to the actual music venues beyond Frenchmen Street: Tipitina's, Preservation Hall, Maple Leaf Bar, Mid-City Lanes Rock 'n' Bowl, Snug Harbor, the Howlin' Wolf — what each is, how to get groups in, and how to build a music-focused itinerary
+- `_guides/corporate-team-building-guide.md` — Team-building activities and experiences for corporate groups in New Orleans: cooking classes, second line planning, scavenger hunts, community service half-days, and how to structure a retreat that isn't just PowerPoints and awkward dinners
+- `_neighborhoods/gentilly.md` — Gentilly neighborhood guide for groups: the lesser-known neighborhood between Mid-City and the lake, Dillard University, the Bayou Gentilly area, and what makes it worth a visit for groups who want to go further off the tourist map
+- `_guides/budget-itinerary-guide.md` — A complete low-budget NOLA group trip itinerary: what's free, what's cheap, how to minimize accommodation cost, where to eat without spending much, and how to have a great trip for under $150 per person per day
+- `_guides/shoulder-season-guide.md` — The case for visiting New Orleans in the non-peak seasons: October, February, January, late August — lower villa rates, smaller crowds, what you give up and what you gain, and the specific experiences that are actually better outside of major event season
 
 ---
 
@@ -171,6 +172,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-26 — `_neighborhoods/mid-city-deep-dive.md`
 - 2026-05-26 — `_guides/kids-families-guide.md`
 - 2026-05-26 — `_guides/group-photography-guide.md`
+- 2026-05-27 — `_guides/accessible-group-guide.md`
+- 2026-05-27 — `_guides/volunteer-trip-guide.md`
+- 2026-05-27 — `_guides/pre-wedding-activities-guide.md`
+- 2026-05-27 — `_guides/hotel-vs-villa-guide.md`
+- 2026-05-27 — `_neighborhoods/riverbend-carrollton.md`
 
 ---
 
@@ -229,3 +235,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-26 12:20 UTC — content: add _neighborhoods/mid-city-deep-dive.md — extended Mid-City guide covering Bayou St. John, Lafitte Greenway, City Park, and off-tourist-radar restaurants and bars
 2026-05-26 12:30 UTC — content: add _guides/kids-families-guide.md — family reunion and multigenerational group trip guide: child-friendly activities, mixed-age restaurants, split schedule model, safety logistics
 2026-05-26 12:40 UTC — content: add _guides/group-photography-guide.md — best photo spots for large groups, golden hour windows, 7 iconic NOLA locations, coordination logistics
+2026-05-27 12:00 UTC — content: add _guides/accessible-group-guide.md — accessibility and mixed-ability planning guide for large NOLA groups
+2026-05-27 12:15 UTC — content: add _guides/volunteer-trip-guide.md — service trip planning guide for large groups in New Orleans
+2026-05-27 12:30 UTC — content: add _guides/pre-wedding-activities-guide.md — full pre-wedding weekend planning guide for wedding parties of 15-30
+2026-05-27 12:45 UTC — content: add _guides/hotel-vs-villa-guide.md — definitive hotel vs. villa comparison for large groups with full cost breakdown
+2026-05-27 13:00 UTC — content: add _neighborhoods/riverbend-carrollton.md — Riverbend and Carrollton neighborhood guide for large groups
