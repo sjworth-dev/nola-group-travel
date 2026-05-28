@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/itinerary-weekend-warrior.md` — A fast 48-hour NOLA itinerary for groups flying in Friday night and leaving Sunday: the tightest possible schedule that still hits Frenchmen Street, one great dinner, a morning activity, and gets people home without a red-eye disaster
 - `_guides/group-size-mega-guide.md` — Deep logistics guide for very large groups (25–50 people): multi-villa strategies, private event buyouts, charter transportation, split-group scheduling, and how the logistics math changes at 30+ people
 - `_guides/lgbtq-southern-decadence-guide.md` — A focused Southern Decadence planning guide for large LGBTQ+ groups: the full event schedule, neighborhood logistics, accommodation strategy for Labor Day weekend, and how to plan around the biggest queer event in the South
 - `_guides/anniversary-milestone-guide.md` — Planning a significant group anniversary or milestone celebration in New Orleans: private event spaces, personalized experiences, private chef dinners, second line options, and how to make a milestone feel like more than just a trip
@@ -182,6 +181,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-27 — `_neighborhoods/gentilly.md`
 - 2026-05-27 — `_guides/budget-itinerary-guide.md`
 - 2026-05-27 — `_guides/shoulder-season-guide.md`
+- 2026-05-28 — `_guides/itinerary-weekend-warrior.md`
 
 ---
 
@@ -251,3 +251,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-27 14:30 UTC — content: add _neighborhoods/gentilly.md — Gentilly neighborhood guide with Dillard University, Bayou Gentilly, and post-Katrina context
 2026-05-27 14:40 UTC — content: add _guides/budget-itinerary-guide.md — complete day-by-day budget group itinerary for under $150/person/day
 2026-05-27 14:50 UTC — content: add _guides/shoulder-season-guide.md — shoulder season guide for October, late January, February, and August with rate analysis
+2026-05-28 12:00 UTC — content: add _guides/itinerary-weekend-warrior.md — 48-hour Friday-to-Sunday group itinerary optimized for tight schedules
