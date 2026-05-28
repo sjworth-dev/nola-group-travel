@@ -97,10 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/group-size-mega-guide.md` — Deep logistics guide for very large groups (25–50 people): multi-villa strategies, private event buyouts, charter transportation, split-group scheduling, and how the logistics math changes at 30+ people
-- `_guides/lgbtq-southern-decadence-guide.md` — A focused Southern Decadence planning guide for large LGBTQ+ groups: the full event schedule, neighborhood logistics, accommodation strategy for Labor Day weekend, and how to plan around the biggest queer event in the South
-- `_guides/anniversary-milestone-guide.md` — Planning a significant group anniversary or milestone celebration in New Orleans: private event spaces, personalized experiences, private chef dinners, second line options, and how to make a milestone feel like more than just a trip
-- `_neighborhoods/bayou-st-john.md` — Bayou St. John neighborhood and greenway guide: the urban waterway corridor connecting Mid-City to City Park, the walking and cycling scene, the lakeside restaurant strip, and why it's one of the best afternoon destinations in the city for large groups
+- `_guides/festival-season-calendar.md` — A complete calendar-style guide to every major New Orleans festival and event season, with group planning windows, accommodation lead times, and how each event affects the city's logistics for 10-30 person groups
+- `_guides/bachelorette-itinerary-bywater.md` — A Bywater-specific bachelorette itinerary: Bacchanal Wine, the Bywater bar scene, vintage shopping on Magazine and Decatur, and why basing in the Bywater beats the French Quarter for bachelorette groups who want more than Bourbon Street
+- `_guides/group-communication-guide.md` — The logistics of communicating across a 15-30 person group before, during, and after a New Orleans trip: WhatsApp structure, pre-trip information packets, shared itinerary tools, day-of coordination, and money management
+- `_neighborhoods/irish-channel.md` — The Irish Channel neighborhood guide for large groups: Magazine Street's southern stretch, the St. Patrick's Day parade scene, neighborhood bars, and why it's worth a half-day for groups staying in the Garden District or LGD
+- `_guides/saints-gameday-mega-guide.md` — Deep Saints gameday logistics for large groups at the Caesars Superdome: ticket strategy, tailgate options, pre-game bar routes, the walk to and from the dome, and how to structure a full gameday for 15-30 people
 
 ---
 
@@ -182,6 +183,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-27 — `_guides/budget-itinerary-guide.md`
 - 2026-05-27 — `_guides/shoulder-season-guide.md`
 - 2026-05-28 — `_guides/itinerary-weekend-warrior.md`
+- 2026-05-28 — `_guides/group-size-mega-guide.md`
+- 2026-05-28 — `_guides/lgbtq-southern-decadence-guide.md`
+- 2026-05-28 — `_guides/anniversary-milestone-guide.md`
+- 2026-05-28 — `_neighborhoods/bayou-st-john.md`
 
 ---
 
@@ -252,3 +257,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-27 14:40 UTC — content: add _guides/budget-itinerary-guide.md — complete day-by-day budget group itinerary for under $150/person/day
 2026-05-27 14:50 UTC — content: add _guides/shoulder-season-guide.md — shoulder season guide for October, late January, February, and August with rate analysis
 2026-05-28 12:00 UTC — content: add _guides/itinerary-weekend-warrior.md — 48-hour Friday-to-Sunday group itinerary optimized for tight schedules
+2026-05-28 13:00 UTC — content: add _guides/group-size-mega-guide.md — very large group logistics guide for 25-50 people with multi-villa strategy and charter transport
+2026-05-28 13:15 UTC — content: add _guides/lgbtq-southern-decadence-guide.md — Southern Decadence and year-round LGBTQ+ group guide
+2026-05-28 13:30 UTC — content: add _guides/anniversary-milestone-guide.md — milestone celebration planning guide with second lines, private dinners, and personalized experiences
+2026-05-28 13:45 UTC — content: add _neighborhoods/bayou-st-john.md — Bayou St. John urban waterway and City Park guide for large groups
