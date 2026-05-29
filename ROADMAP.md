@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/new-orleans-weddings-guide.md` — Full guide to getting married in New Orleans with a large group: venues, second line exits, NOLA-specific wedding traditions, rehearsal dinner spots, and where the wedding party of 15-30 stays
-- `_guides/sober-group-guide.md` — Planning a large group trip to NOLA when some or all of the group doesn't drink: what makes NOLA exceptional beyond alcohol (food, music, culture), how to structure full days without bar-hopping as the primary activity, and accommodation options
-- `_guides/extended-family-reunion-guide.md` — A multigenerational family reunion guide specifically for NOLA: planning for ages 5 to 75, activities that span generations, restaurants with wide menu ranges, mobility considerations, and split-schedule strategy
-- `_guides/group-grocery-cooking-guide.md` — Full guide to cooking for 15-30 people in a villa kitchen: grocery shopping strategy, New Orleans ingredient sourcing (Rouses, Dorignac's, Central Grocery), recipes that scale for big groups, and private chef vs. DIY decision framework
-- `_guides/itinerary-10-day.md` — A complete 10-day extended group itinerary covering all major neighborhoods, at least one day trip, festival timing guidance, and how to structure a longer NOLA stay without running out of quality experiences
+- `_guides/group-welcome-packet-guide.md` — How to create a pre-trip welcome packet for your group: neighborhood map, house rules, grocery list, restaurant recs, emergency contacts, and what to pack for NOLA specifically
+- `_guides/bachelorette-vs-bach-party-guide.md` — Side-by-side comparison guide for bachelorette vs. bachelor party groups using the same NOLA trip infrastructure: where each diverges, shared logistics, and how to coordinate combined groups
+- `_guides/corporate-offsite-productivity-guide.md` — Structured guide to running productive work sessions in a villa setting: WiFi requirements, meeting room setup, agenda design, and how to balance work and experience
+- `_neighborhoods/central-city.md` — Central City neighborhood guide: Oretha Castle Haley corridor, community history, gallery scene, and how a group visits respectfully and meaningfully
+- `_guides/group-arrival-departure-guide.md` — Coordinating arrivals and departures for 15-30 people: airport logistics, early arrivals, late checkouts, bag storage, and how to structure the first and last 4 hours of a trip
 
 ---
 
@@ -192,6 +192,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-29 — `_guides/group-communication-guide.md`
 - 2026-05-29 — `_neighborhoods/irish-channel.md`
 - 2026-05-29 — `_guides/saints-gameday-mega-guide.md`
+- 2026-05-29 — `_guides/new-orleans-weddings-guide.md`
+- 2026-05-29 — `_guides/sober-group-guide.md`
+- 2026-05-29 — `_guides/extended-family-reunion-guide.md`
+- 2026-05-29 — `_guides/group-grocery-cooking-guide.md`
+- 2026-05-29 — `_guides/itinerary-10-day.md`
 
 ---
 
@@ -271,3 +276,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-29 10:30 UTC — content: add _guides/group-communication-guide.md — WhatsApp setup, pre-trip packets, Splitwise, and day-of coordination for 15-30 person groups
 2026-05-29 10:45 UTC — content: add _neighborhoods/irish-channel.md — Magazine Street southern stretch, St. Patrick's Day parade, and half-day itinerary for groups
 2026-05-29 11:00 UTC — content: add _guides/saints-gameday-mega-guide.md — full Saints gameday logistics for groups of 15-30 at Caesars Superdome
+2026-05-29 12:00 UTC — content: add _guides/new-orleans-weddings-guide.md — NOLA wedding guide for groups of 15-30 with second lines, venues, rehearsal dinners, and accommodation comparison
+2026-05-29 12:15 UTC — content: add _guides/sober-group-guide.md — planning a large NOLA group trip without bar-hopping as the primary activity
+2026-05-29 12:30 UTC — content: add _guides/extended-family-reunion-guide.md — multigenerational family reunion guide for ages 5-75 with split-schedule model and mobility planning
+2026-05-29 12:45 UTC — content: add _guides/group-grocery-cooking-guide.md — cooking for 15-30 people in a villa kitchen with NOLA ingredient sourcing and private chef decision framework
+2026-05-29 13:00 UTC — content: add _guides/itinerary-10-day.md — complete 10-day extended group itinerary with all neighborhoods, day trip, festival timing, and pacing strategy
