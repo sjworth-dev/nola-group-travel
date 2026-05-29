@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/festival-season-calendar.md` — A complete calendar-style guide to every major New Orleans festival and event season, with group planning windows, accommodation lead times, and how each event affects the city's logistics for 10-30 person groups
-- `_guides/bachelorette-itinerary-bywater.md` — A Bywater-specific bachelorette itinerary: Bacchanal Wine, the Bywater bar scene, vintage shopping on Magazine and Decatur, and why basing in the Bywater beats the French Quarter for bachelorette groups who want more than Bourbon Street
-- `_guides/group-communication-guide.md` — The logistics of communicating across a 15-30 person group before, during, and after a New Orleans trip: WhatsApp structure, pre-trip information packets, shared itinerary tools, day-of coordination, and money management
-- `_neighborhoods/irish-channel.md` — The Irish Channel neighborhood guide for large groups: Magazine Street's southern stretch, the St. Patrick's Day parade scene, neighborhood bars, and why it's worth a half-day for groups staying in the Garden District or LGD
-- `_guides/saints-gameday-mega-guide.md` — Deep Saints gameday logistics for large groups at the Caesars Superdome: ticket strategy, tailgate options, pre-game bar routes, the walk to and from the dome, and how to structure a full gameday for 15-30 people
+- `_guides/new-orleans-weddings-guide.md` — Full guide to getting married in New Orleans with a large group: venues, second line exits, NOLA-specific wedding traditions, rehearsal dinner spots, and where the wedding party of 15-30 stays
+- `_guides/sober-group-guide.md` — Planning a large group trip to NOLA when some or all of the group doesn't drink: what makes NOLA exceptional beyond alcohol (food, music, culture), how to structure full days without bar-hopping as the primary activity, and accommodation options
+- `_guides/extended-family-reunion-guide.md` — A multigenerational family reunion guide specifically for NOLA: planning for ages 5 to 75, activities that span generations, restaurants with wide menu ranges, mobility considerations, and split-schedule strategy
+- `_guides/group-grocery-cooking-guide.md` — Full guide to cooking for 15-30 people in a villa kitchen: grocery shopping strategy, New Orleans ingredient sourcing (Rouses, Dorignac's, Central Grocery), recipes that scale for big groups, and private chef vs. DIY decision framework
+- `_guides/itinerary-10-day.md` — A complete 10-day extended group itinerary covering all major neighborhoods, at least one day trip, festival timing guidance, and how to structure a longer NOLA stay without running out of quality experiences
 
 ---
 
@@ -187,6 +187,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-28 — `_guides/lgbtq-southern-decadence-guide.md`
 - 2026-05-28 — `_guides/anniversary-milestone-guide.md`
 - 2026-05-28 — `_neighborhoods/bayou-st-john.md`
+- 2026-05-29 — `_guides/festival-season-calendar.md`
+- 2026-05-29 — `_guides/bachelorette-itinerary-bywater.md`
+- 2026-05-29 — `_guides/group-communication-guide.md`
+- 2026-05-29 — `_neighborhoods/irish-channel.md`
+- 2026-05-29 — `_guides/saints-gameday-mega-guide.md`
 
 ---
 
@@ -261,3 +266,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-28 13:15 UTC — content: add _guides/lgbtq-southern-decadence-guide.md — Southern Decadence and year-round LGBTQ+ group guide
 2026-05-28 13:30 UTC — content: add _guides/anniversary-milestone-guide.md — milestone celebration planning guide with second lines, private dinners, and personalized experiences
 2026-05-28 13:45 UTC — content: add _neighborhoods/bayou-st-john.md — Bayou St. John urban waterway and City Park guide for large groups
+2026-05-29 10:00 UTC — content: add _guides/festival-season-calendar.md — full NOLA festival calendar with group planning windows and lead times
+2026-05-29 10:15 UTC — content: add _guides/bachelorette-itinerary-bywater.md — Bywater bachelorette itinerary with Bacchanal, bar scene, and Bywater vs. Bourbon comparison
+2026-05-29 10:30 UTC — content: add _guides/group-communication-guide.md — WhatsApp setup, pre-trip packets, Splitwise, and day-of coordination for 15-30 person groups
+2026-05-29 10:45 UTC — content: add _neighborhoods/irish-channel.md — Magazine Street southern stretch, St. Patrick's Day parade, and half-day itinerary for groups
+2026-05-29 11:00 UTC — content: add _guides/saints-gameday-mega-guide.md — full Saints gameday logistics for groups of 15-30 at Caesars Superdome
