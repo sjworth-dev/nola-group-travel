@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/group-vendor-directory.md` — Curated directory of NOLA vendors and services that work with large groups: charter transport, private chefs, photographers, brass bands, florists, and event rental companies
-- `_guides/multi-group-trip-guide.md` — Planning when you have multiple sub-groups on the same trip: different budgets, different schedules, different preferences, and how to structure a trip that works for all of them
-- `_neighborhoods/bywater-deep-dive.md` — Extended Bywater guide: Bacchanal Wine, the levee walk, art scene by block, specific streets, and a walking tour structure for groups visiting for the first time
-- `_guides/group-gifting-guide.md` — How to organize group gifts for a bachelorette, birthday, or milestone trip: local NOLA vendors, custom items, and experiences that can be gifted within the group
-- `_guides/nola-weather-guide.md` — Month-by-month weather reality for NOLA group trips: heat, humidity, hurricane season, Mardi Gras cold snaps, and how weather shapes every planning decision
+- `_guides/villa-arrival-setup-guide.md` — What to do in the first two hours at your NOLA villa: grocery run logistics, assigning rooms, stocking the bar, and the moves that set the tone for the whole trip
+- `_guides/bachelor-party-itinerary.md` — Full 3-day bachelor party itinerary for NOLA: golf or fishing morning, sports bar afternoon, structured bar crawl, group dinner picks, and large-group logistics from airport to Uber
+- `_neighborhoods/garden-district-deep-dive.md` — Extended Garden District guide: mansion walk by block, Lafayette Cemetery, Commander's Palace history, Magazine Street section by section, and how groups use the neighborhood as a day base
+- `_guides/nola-cocktail-history-tour.md` — Self-guided cocktail history tour for groups: where each NOLA classic was invented (Sazerac, Ramos Gin Fizz, Vieux Carré, Hurricane), what to order at each stop, and how to structure the route for 15-25 people
+- `_guides/group-tipping-etiquette.md` — Tipping culture, automatic gratuity on large party tabs, how to prep your group before arrival, what changes about service economics for groups of 15-30, and how to handle the bill split
 
 ---
 
@@ -202,6 +202,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-30 — `_guides/corporate-offsite-productivity-guide.md`
 - 2026-05-30 — `_neighborhoods/central-city.md`
 - 2026-05-30 — `_guides/group-arrival-departure-guide.md`
+- 2026-05-30 — `_guides/group-vendor-directory.md`
+- 2026-05-30 — `_guides/multi-group-trip-guide.md`
+- 2026-05-30 — `_neighborhoods/bywater-deep-dive.md`
+- 2026-05-30 — `_guides/group-gifting-guide.md`
+- 2026-05-30 — `_guides/nola-weather-guide.md`
 
 ---
 
@@ -291,3 +296,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-30 10:30 UTC — content: add _guides/corporate-offsite-productivity-guide.md — villa offsite productivity guide with WiFi requirements, meeting setup, agenda design, and the 60/40 work-experience ratio
 2026-05-30 10:45 UTC — content: add _neighborhoods/central-city.md — Oretha Castle Haley corridor, community history, gallery scene, and respectful group visit guide
 2026-05-30 11:00 UTC — content: add _guides/group-arrival-departure-guide.md — airport logistics, early arrivals, late checkouts, and first/last 4-hour structure for groups of 15-30
+2026-05-30 12:00 UTC — content: add _guides/group-vendor-directory.md — curated NOLA vendor directory for large groups: transport, private chefs, photographers, brass bands, florists, event rentals
+2026-05-30 12:15 UTC — content: add _guides/multi-group-trip-guide.md — hub-and-spoke planning model for trips with multiple sub-groups and different budgets, schedules, and preferences
+2026-05-30 12:30 UTC — content: add _neighborhoods/bywater-deep-dive.md — extended Bywater guide with street-by-street breakdown, levee walk, art scene, and walking tour structure
+2026-05-30 12:45 UTC — content: add _guides/group-gifting-guide.md — group gift coordination for bachelorette, birthday, and milestone trips with local NOLA vendors and payment logistics
+2026-05-30 13:00 UTC — content: add _guides/nola-weather-guide.md — month-by-month weather reality for NOLA group trips with hurricane season guidance and seasonal planning windows
