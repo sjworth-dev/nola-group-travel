@@ -97,11 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/group-welcome-packet-guide.md` — How to create a pre-trip welcome packet for your group: neighborhood map, house rules, grocery list, restaurant recs, emergency contacts, and what to pack for NOLA specifically
-- `_guides/bachelorette-vs-bach-party-guide.md` — Side-by-side comparison guide for bachelorette vs. bachelor party groups using the same NOLA trip infrastructure: where each diverges, shared logistics, and how to coordinate combined groups
-- `_guides/corporate-offsite-productivity-guide.md` — Structured guide to running productive work sessions in a villa setting: WiFi requirements, meeting room setup, agenda design, and how to balance work and experience
-- `_neighborhoods/central-city.md` — Central City neighborhood guide: Oretha Castle Haley corridor, community history, gallery scene, and how a group visits respectfully and meaningfully
-- `_guides/group-arrival-departure-guide.md` — Coordinating arrivals and departures for 15-30 people: airport logistics, early arrivals, late checkouts, bag storage, and how to structure the first and last 4 hours of a trip
+- `_guides/group-vendor-directory.md` — Curated directory of NOLA vendors and services that work with large groups: charter transport, private chefs, photographers, brass bands, florists, and event rental companies
+- `_guides/multi-group-trip-guide.md` — Planning when you have multiple sub-groups on the same trip: different budgets, different schedules, different preferences, and how to structure a trip that works for all of them
+- `_neighborhoods/bywater-deep-dive.md` — Extended Bywater guide: Bacchanal Wine, the levee walk, art scene by block, specific streets, and a walking tour structure for groups visiting for the first time
+- `_guides/group-gifting-guide.md` — How to organize group gifts for a bachelorette, birthday, or milestone trip: local NOLA vendors, custom items, and experiences that can be gifted within the group
+- `_guides/nola-weather-guide.md` — Month-by-month weather reality for NOLA group trips: heat, humidity, hurricane season, Mardi Gras cold snaps, and how weather shapes every planning decision
 
 ---
 
@@ -197,6 +197,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-29 — `_guides/extended-family-reunion-guide.md`
 - 2026-05-29 — `_guides/group-grocery-cooking-guide.md`
 - 2026-05-29 — `_guides/itinerary-10-day.md`
+- 2026-05-30 — `_guides/group-welcome-packet-guide.md`
+- 2026-05-30 — `_guides/bachelorette-vs-bach-party-guide.md`
+- 2026-05-30 — `_guides/corporate-offsite-productivity-guide.md`
+- 2026-05-30 — `_neighborhoods/central-city.md`
+- 2026-05-30 — `_guides/group-arrival-departure-guide.md`
 
 ---
 
@@ -281,3 +286,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-29 12:30 UTC — content: add _guides/extended-family-reunion-guide.md — multigenerational family reunion guide for ages 5-75 with split-schedule model and mobility planning
 2026-05-29 12:45 UTC — content: add _guides/group-grocery-cooking-guide.md — cooking for 15-30 people in a villa kitchen with NOLA ingredient sourcing and private chef decision framework
 2026-05-29 13:00 UTC — content: add _guides/itinerary-10-day.md — complete 10-day extended group itinerary with all neighborhoods, day trip, festival timing, and pacing strategy
+2026-05-30 10:00 UTC — content: add _guides/group-welcome-packet-guide.md — pre-trip welcome packet guide for large groups with neighborhood info, house rules, grocery list, restaurant recs, emergency contacts, and NOLA packing tips
+2026-05-30 10:15 UTC — content: add _guides/bachelorette-vs-bach-party-guide.md — side-by-side bachelorette vs. bachelor party guide with shared logistics and combined-group coordination
+2026-05-30 10:30 UTC — content: add _guides/corporate-offsite-productivity-guide.md — villa offsite productivity guide with WiFi requirements, meeting setup, agenda design, and the 60/40 work-experience ratio
+2026-05-30 10:45 UTC — content: add _neighborhoods/central-city.md — Oretha Castle Haley corridor, community history, gallery scene, and respectful group visit guide
+2026-05-30 11:00 UTC — content: add _guides/group-arrival-departure-guide.md — airport logistics, early arrivals, late checkouts, and first/last 4-hour structure for groups of 15-30
