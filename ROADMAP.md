@@ -97,11 +97,13 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/villa-arrival-setup-guide.md` — What to do in the first two hours at your NOLA villa: grocery run logistics, assigning rooms, stocking the bar, and the moves that set the tone for the whole trip
-- `_guides/bachelor-party-itinerary.md` — Full 3-day bachelor party itinerary for NOLA: golf or fishing morning, sports bar afternoon, structured bar crawl, group dinner picks, and large-group logistics from airport to Uber
-- `_neighborhoods/garden-district-deep-dive.md` — Extended Garden District guide: mansion walk by block, Lafayette Cemetery, Commander's Palace history, Magazine Street section by section, and how groups use the neighborhood as a day base
-- `_guides/nola-cocktail-history-tour.md` — Self-guided cocktail history tour for groups: where each NOLA classic was invented (Sazerac, Ramos Gin Fizz, Vieux Carré, Hurricane), what to order at each stop, and how to structure the route for 15-25 people
-- `_guides/group-tipping-etiquette.md` — Tipping culture, automatic gratuity on large party tabs, how to prep your group before arrival, what changes about service economics for groups of 15-30, and how to handle the bill split
+- `_guides/saints-watch-party-guide.md` — Running a Saints watch party from your NOLA villa: game day food and drinks, streaming setup, best game-day delivery spots, how it compares to going to Caesars Superdome in person
+- `_guides/nola-day-drinking-guide.md` — How to structure a full day-drinking day in New Orleans for a large group: Bloody Mary brunch, afternoon bars with outdoor space, early happy hours, pacing, and hydration reality
+- `_neighborhoods/french-quarter-deep-dive.md` — Extended French Quarter guide beyond the basics: block-by-block breakdown, Royal Street vs. Bourbon Street, the residential sections most visitors miss, and how to use the neighborhood for more than one night
+- `_guides/group-check-in-check-out-guide.md` — The full playbook for group check-in and checkout logistics: early arrivals, key distribution, late checkouts, cleaning the villa, and leaving on time without chaos
+- `_guides/bachelorette-day-drinking-itinerary.md` — Hour-by-hour day-drinking itinerary for a bachelorette group of 12-20: Bloody Mary brunch, afternoon bar with outdoor space, the "signature drink" stop, French Quarter timing, and how to pace for a full night after
+- `_guides/private-event-spaces-guide.md` — Private event space options in New Orleans for groups of 15-30: buyout bars, rooftops, courtyards, venue types by occasion, what to ask before booking, and cost ranges
+- `_guides/nola-food-delivery-guide.md` — Ordering food delivery for 15-30 people at a villa: which platforms work, best large-order restaurants, how to handle multiple orders, and what to order for a villa cookout
 
 ---
 
@@ -207,6 +209,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-05-30 — `_neighborhoods/bywater-deep-dive.md`
 - 2026-05-30 — `_guides/group-gifting-guide.md`
 - 2026-05-30 — `_guides/nola-weather-guide.md`
+- 2026-05-31 — `_guides/villa-arrival-setup-guide.md`
+- 2026-05-31 — `_guides/bachelor-party-itinerary.md`
+- 2026-05-31 — `_neighborhoods/garden-district-deep-dive.md`
+- 2026-05-31 — `_guides/nola-cocktail-history-tour.md`
+- 2026-05-31 — `_guides/group-tipping-etiquette.md`
 
 ---
 
@@ -301,3 +308,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-05-30 12:30 UTC — content: add _neighborhoods/bywater-deep-dive.md — extended Bywater guide with street-by-street breakdown, levee walk, art scene, and walking tour structure
 2026-05-30 12:45 UTC — content: add _guides/group-gifting-guide.md — group gift coordination for bachelorette, birthday, and milestone trips with local NOLA vendors and payment logistics
 2026-05-30 13:00 UTC — content: add _guides/nola-weather-guide.md — month-by-month weather reality for NOLA group trips with hurricane season guidance and seasonal planning windows
+2026-05-31 10:00 UTC — content: add _guides/villa-arrival-setup-guide.md — first two hours villa arrival playbook for groups of 15-30
+2026-05-31 10:15 UTC — content: add _guides/bachelor-party-itinerary.md — full 3-day bachelor party itinerary with activity options, bar crawl structure, and logistics
+2026-05-31 10:30 UTC — content: add _neighborhoods/garden-district-deep-dive.md — extended Garden District guide with mansion walk, Lafayette Cemetery, Commander's Palace, and Magazine Street by section
+2026-05-31 10:45 UTC — content: add _guides/nola-cocktail-history-tour.md — self-guided cocktail history tour covering Sazerac, Ramos Gin Fizz, Vieux Carré, Hurricane, and large-group logistics
+2026-05-31 11:00 UTC — content: add _guides/group-tipping-etiquette.md — auto-grat, bill splits, and service economics for groups of 15-30
