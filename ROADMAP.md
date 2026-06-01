@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-jazz-club-deep-dive.md` — A club-by-club breakdown of every major NOLA jazz venue for large groups: Frenchmen Street clubs, Preservation Hall, Snug Harbor, Tipitina's, and how to structure a full music night for 15-25 people with cover charges, standing room strategy, and late-night logistics
 - `_guides/large-group-golf-guide.md` — Golf for large NOLA groups: TPC Louisiana, Audubon Park, City Park courses, how to book tee times for 16+ players, scramble formats, post-round bar stops, and the full guys-weekend golf day structure
 - `_neighborhoods/tremé-deep-dive.md` — Extended Tremé guide beyond the overview: block-by-block streets, specific cultural sites, second line culture by season, brass band practices open to visitors, Congo Square history, and how large groups can meaningfully engage with this neighborhood
 - `_guides/nola-swamp-tour-guide.md` — Everything large groups need to know about NOLA swamp tours: private vs. group tours, airboat vs. covered pontoon, alligator encounter reality, best operators, what to wear, and how to build a full day trip around a swamp tour
@@ -224,6 +223,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-01 — `_neighborhoods/seventh-ward.md`
 - 2026-06-01 — `_guides/villa-pool-party-guide.md`
 - 2026-06-01 — `_guides/nola-brunch-guide.md`
+- 2026-06-01 — `_guides/nola-jazz-club-deep-dive.md`
 
 ---
 
@@ -335,3 +335,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-01 10:20 UTC — content: add _neighborhoods/seventh-ward.md — Creole cottage architecture, St. Claude Arts District, brass band culture, and large-group visit strategy
 2026-06-01 10:30 UTC — content: add _guides/villa-pool-party-guide.md — music, inflatables, drinks, food, safety, and post-party evening structure for 15-30 people
 2026-06-01 10:40 UTC — content: add _guides/nola-brunch-guide.md — large-group brunch guide with reservation strategy, what to order, and the brunch-as-anchor-day model
+2026-06-01 11:00 UTC — content: add _guides/nola-jazz-club-deep-dive.md — club-by-club jazz venue breakdown for groups of 15-25 with Frenchmen Street strategy, timing, and cover charge logistics
