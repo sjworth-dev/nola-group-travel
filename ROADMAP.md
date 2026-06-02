@@ -97,10 +97,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/large-group-golf-guide.md` — Golf for large NOLA groups: TPC Louisiana, Audubon Park, City Park courses, how to book tee times for 16+ players, scramble formats, post-round bar stops, and the full guys-weekend golf day structure
-- `_neighborhoods/tremé-deep-dive.md` — Extended Tremé guide beyond the overview: block-by-block streets, specific cultural sites, second line culture by season, brass band practices open to visitors, Congo Square history, and how large groups can meaningfully engage with this neighborhood
-- `_guides/nola-swamp-tour-guide.md` — Everything large groups need to know about NOLA swamp tours: private vs. group tours, airboat vs. covered pontoon, alligator encounter reality, best operators, what to wear, and how to build a full day trip around a swamp tour
-- `_guides/nola-bachelorette-party-themes.md` — Five complete bachelorette party theme concepts for NOLA groups of 10-25: the Southern Belle, the Jazz Age, the Pool Queen, the Witch/Voodoo, and the Classic NOLA — each with costume direction, venue list, activity schedule, and decoration logistics
+- `_guides/nola-group-fishing-guide.md` — Inshore marsh, offshore Gulf, and Lake Pontchartrain fishing for large groups: how to book charter boats, split groups across multiple vessels, what species to target by season, and the full fishing-day structure for a NOLA guys trip
+- `_guides/nola-cooking-class-guide.md` — Cooking classes for large groups in New Orleans: the New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun distinctions, what you'll make, and how to turn a 2-hour class into a full morning activity
+- `_guides/nola-rooftop-bar-guide.md` — Best rooftop and elevated outdoor bars for large groups: sunset views, CBD skyline spots, pool deck bars, and how to coordinate 15+ people at venues with limited outdoor space
+- `_guides/nola-riverfront-guide.md` — Everything on or near the Mississippi River for large groups: the Moonwalk, Algiers Ferry crossing, Woldenberg Park, Steamboat Natchez, and how to build a half-day around the riverfront
+- `_guides/nola-music-festival-packing-guide.md` — What to pack specifically for Jazz Fest, Essence Fest, French Quarter Fest, and other outdoor festival days with a large group: logistics, rain gear, cooler strategy, and the items most groups forget
+- `_neighborhoods/marigny-deep-dive.md` — Extended Marigny guide beyond the overview: Frenchmen Street block-by-block, the residential backstreets, St. Claude vs. Royal vs. Burgundy, the Marigny Triangle, and how to build a full day in the neighborhood for groups of 15+
 
 ---
 
@@ -224,6 +226,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-01 — `_guides/villa-pool-party-guide.md`
 - 2026-06-01 — `_guides/nola-brunch-guide.md`
 - 2026-06-01 — `_guides/nola-jazz-club-deep-dive.md`
+- 2026-06-02 — `_guides/large-group-golf-guide.md`
+- 2026-06-02 — `_neighborhoods/treme-deep-dive.md`
+- 2026-06-02 — `_guides/nola-swamp-tour-guide.md`
+- 2026-06-02 — `_guides/nola-bachelorette-party-themes.md`
 
 ---
 
@@ -336,3 +342,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-01 10:30 UTC — content: add _guides/villa-pool-party-guide.md — music, inflatables, drinks, food, safety, and post-party evening structure for 15-30 people
 2026-06-01 10:40 UTC — content: add _guides/nola-brunch-guide.md — large-group brunch guide with reservation strategy, what to order, and the brunch-as-anchor-day model
 2026-06-01 11:00 UTC — content: add _guides/nola-jazz-club-deep-dive.md — club-by-club jazz venue breakdown for groups of 15-25 with Frenchmen Street strategy, timing, and cover charge logistics
+2026-06-02 10:00 UTC — content: add _guides/large-group-golf-guide.md — TPC Louisiana, Audubon, City Park, scramble formats, and full golf day structure for groups of 16+
+2026-06-02 10:15 UTC — content: add _neighborhoods/treme-deep-dive.md — block-by-block Tremé guide with Congo Square, Backstreet Museum, second line seasons, and meaningful group engagement
+2026-06-02 10:30 UTC — content: add _guides/nola-swamp-tour-guide.md — airboat vs. pontoon, private vs. group, alligator reality, and full day structure for large groups
+2026-06-02 10:45 UTC — content: add _guides/nola-bachelorette-party-themes.md — five complete bachelorette themes with costumes, venues, schedules, and decor for groups of 10-25
