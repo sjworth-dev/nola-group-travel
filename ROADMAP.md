@@ -97,12 +97,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-fishing-guide.md` — Inshore marsh, offshore Gulf, and Lake Pontchartrain fishing for large groups: how to book charter boats, split groups across multiple vessels, what species to target by season, and the full fishing-day structure for a NOLA guys trip
-- `_guides/nola-cooking-class-guide.md` — Cooking classes for large groups in New Orleans: the New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun distinctions, what you'll make, and how to turn a 2-hour class into a full morning activity
-- `_guides/nola-rooftop-bar-guide.md` — Best rooftop and elevated outdoor bars for large groups: sunset views, CBD skyline spots, pool deck bars, and how to coordinate 15+ people at venues with limited outdoor space
-- `_guides/nola-riverfront-guide.md` — Everything on or near the Mississippi River for large groups: the Moonwalk, Algiers Ferry crossing, Woldenberg Park, Steamboat Natchez, and how to build a half-day around the riverfront
-- `_guides/nola-music-festival-packing-guide.md` — What to pack specifically for Jazz Fest, Essence Fest, French Quarter Fest, and other outdoor festival days with a large group: logistics, rain gear, cooler strategy, and the items most groups forget
-- `_neighborhoods/marigny-deep-dive.md` — Extended Marigny guide beyond the overview: Frenchmen Street block-by-block, the residential backstreets, St. Claude vs. Royal vs. Burgundy, the Marigny Triangle, and how to build a full day in the neighborhood for groups of 15+
+- `_guides/nola-crawfish-boil-guide.md` — How to host a villa crawfish boil for 20+ people: sourcing live crawfish in New Orleans, equipment, the boil technique, timing, and how to make it the centerpiece activity of a NOLA trip
+- `_guides/nola-bourbon-street-guide.md` — The frank group guide to Bourbon Street: what's worth the detour, what's a tourist trap, when to go, how to use it as one act rather than the whole night, and what first-timers actually need to see
+- `_guides/nola-po-boy-crawl-guide.md` — The definitive NOLA po-boy crawl for large groups: the classic shops and neighborhood spots, the right order to visit, what to order at each, and the history that makes this the city's signature sandwich
+- `_neighborhoods/warehouse-district-deep-dive.md` — Extended Warehouse District guide for groups: WWII Museum logistics, gallery district block-by-block, the restaurant cluster, evening bar scene, and how to build a full day in this neighborhood
+- `_guides/nola-art-gallery-guide.md` — New Orleans gallery scene for large groups: Warehouse District galleries, St. Claude Arts District, how to structure a group gallery walk without losing half the group to boredom, and what to actually look for
+- `_guides/nola-group-bike-tour-guide.md` — Cycling New Orleans with large groups: guided tours vs. self-guided, City Park circuits, Garden District and Uptown routes, managing 15+ bikes on flat streets, and rental logistics
 
 ---
 
@@ -230,6 +230,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-02 — `_neighborhoods/treme-deep-dive.md`
 - 2026-06-02 — `_guides/nola-swamp-tour-guide.md`
 - 2026-06-02 — `_guides/nola-bachelorette-party-themes.md`
+- 2026-06-02 — `_guides/nola-group-fishing-guide.md`
+- 2026-06-02 — `_guides/nola-cooking-class-guide.md`
+- 2026-06-02 — `_guides/nola-rooftop-bar-guide.md`
+- 2026-06-02 — `_guides/nola-riverfront-guide.md`
+- 2026-06-02 — `_guides/nola-music-festival-packing-guide.md`
+- 2026-06-02 — `_neighborhoods/marigny-deep-dive.md`
 
 ---
 
@@ -346,3 +352,9 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-02 10:15 UTC — content: add _neighborhoods/treme-deep-dive.md — block-by-block Tremé guide with Congo Square, Backstreet Museum, second line seasons, and meaningful group engagement
 2026-06-02 10:30 UTC — content: add _guides/nola-swamp-tour-guide.md — airboat vs. pontoon, private vs. group, alligator reality, and full day structure for large groups
 2026-06-02 10:45 UTC — content: add _guides/nola-bachelorette-party-themes.md — five complete bachelorette themes with costumes, venues, schedules, and decor for groups of 10-25
+2026-06-02 11:00 UTC — content: add _guides/nola-group-fishing-guide.md — inshore marsh, offshore Gulf, and Lake Pontchartrain fishing for large groups with booking logistics and full fishing-day structure
+2026-06-02 11:15 UTC — content: add _guides/nola-cooking-class-guide.md — New Orleans School of Cooking and private villa instruction for large groups with Creole vs. Cajun breakdown
+2026-06-02 11:30 UTC — content: add _guides/nola-rooftop-bar-guide.md — elevated and rooftop bars for large groups with sunset strategy, reservation reality, and group coordination
+2026-06-02 11:45 UTC — content: add _guides/nola-riverfront-guide.md — Moonwalk, Algiers Ferry, Woldenberg Park, and Steamboat Natchez half-day structure for large groups
+2026-06-02 12:00 UTC — content: add _guides/nola-music-festival-packing-guide.md — Jazz Fest, Essence Fest, and French Quarter Fest packing guide with rain gear, cooler strategy, and group logistics
+2026-06-02 12:15 UTC — content: add _neighborhoods/marigny-deep-dive.md — extended Marigny guide with Frenchmen Street block-by-block, residential backstreets, and full-day structure for groups of 15+
