@@ -97,7 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-bike-tour-guide.md` — Cycling New Orleans with large groups: guided tours vs. self-guided, City Park circuits, Garden District and Uptown routes, managing 15+ bikes on flat streets, and rental logistics
+- `_guides/nola-oyster-bar-guide.md` — The group guide to raw bars and oyster culture in New Orleans: where to eat oysters (raw, chargrilled, Rockefeller), how to order at a proper oyster bar, the Gulf oyster season, and how to structure an oyster crawl for 15-25 people
+- `_guides/nola-jazz-history-tour.md` — Self-guided jazz history tour for large groups: Congo Square origins, the French Quarter clubs, Preservation Hall deep dive, Rampart Street, the living history approach that's more than just sitting in a bar
+- `_neighborhoods/st-claude-arts-district.md` — Full neighborhood guide for the St. Claude Arts District: the galleries and studios block by block, the community context, the Second Saturday art walk, and what the neighborhood looks and feels like for a group visit
+- `_guides/nola-bachelorette-spa-day.md` — Spa day and self-care itinerary for bachelorette groups of 10-20: float tanks, massage logistics, nail studios that can handle large groups, recovery brunch, and how to structure a full spa-focused day before the evening begins
+- `_guides/nola-corporate-dinner-guide.md` — Private dining and group dinner planning for corporate retreats and large parties: private dining rooms, buyout restaurants, how to negotiate a group menu, and the NOLA restaurants that handle 20-30 people without the experience falling apart
 
 ---
 
@@ -236,6 +240,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-03 — `_guides/nola-po-boy-crawl-guide.md`
 - 2026-06-03 — `_neighborhoods/warehouse-district-deep-dive.md`
 - 2026-06-03 — `_guides/nola-art-gallery-guide.md`
+- 2026-06-03 — `_guides/nola-group-bike-tour-guide.md`
 
 ---
 
@@ -363,3 +368,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-03 12:15 UTC — content: add _guides/nola-po-boy-crawl-guide.md — definitive po-boy crawl for large groups with stop structure, variety guide, and route logistics
 2026-06-03 12:30 UTC — content: add _neighborhoods/warehouse-district-deep-dive.md — extended Warehouse District guide with WWII Museum logistics, Julia Street galleries, restaurant cluster, and full-day structure
 2026-06-03 12:45 UTC — content: add _guides/nola-art-gallery-guide.md — Warehouse District and St. Claude gallery guide for large groups with walk structure and what to look for
+2026-06-03 13:00 UTC — content: add _guides/nola-group-bike-tour-guide.md — group cycling guide with four routes, guided vs. self-guided comparison, rental logistics, and group management techniques
