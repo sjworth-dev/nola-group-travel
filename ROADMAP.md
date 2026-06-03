@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-art-gallery-guide.md` — New Orleans gallery scene for large groups: Warehouse District galleries, St. Claude Arts District, how to structure a group gallery walk without losing half the group to boredom, and what to actually look for
 - `_guides/nola-group-bike-tour-guide.md` — Cycling New Orleans with large groups: guided tours vs. self-guided, City Park circuits, Garden District and Uptown routes, managing 15+ bikes on flat streets, and rental logistics
 
 ---
@@ -236,6 +235,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-03 — `_guides/nola-bourbon-street-guide.md`
 - 2026-06-03 — `_guides/nola-po-boy-crawl-guide.md`
 - 2026-06-03 — `_neighborhoods/warehouse-district-deep-dive.md`
+- 2026-06-03 — `_guides/nola-art-gallery-guide.md`
 
 ---
 
@@ -362,3 +362,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-03 12:00 UTC — content: add _guides/nola-bourbon-street-guide.md — frank group guide to Bourbon Street with what's worth it, what to skip, and the three-act evening structure
 2026-06-03 12:15 UTC — content: add _guides/nola-po-boy-crawl-guide.md — definitive po-boy crawl for large groups with stop structure, variety guide, and route logistics
 2026-06-03 12:30 UTC — content: add _neighborhoods/warehouse-district-deep-dive.md — extended Warehouse District guide with WWII Museum logistics, Julia Street galleries, restaurant cluster, and full-day structure
+2026-06-03 12:45 UTC — content: add _guides/nola-art-gallery-guide.md — Warehouse District and St. Claude gallery guide for large groups with walk structure and what to look for
