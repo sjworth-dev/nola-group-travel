@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-oyster-bar-guide.md` — The group guide to raw bars and oyster culture in New Orleans: where to eat oysters (raw, chargrilled, Rockefeller), how to order at a proper oyster bar, the Gulf oyster season, and how to structure an oyster crawl for 15-25 people
 - `_guides/nola-jazz-history-tour.md` — Self-guided jazz history tour for large groups: Congo Square origins, the French Quarter clubs, Preservation Hall deep dive, Rampart Street, the living history approach that's more than just sitting in a bar
 - `_neighborhoods/st-claude-arts-district.md` — Full neighborhood guide for the St. Claude Arts District: the galleries and studios block by block, the community context, the Second Saturday art walk, and what the neighborhood looks and feels like for a group visit
 - `_guides/nola-bachelorette-spa-day.md` — Spa day and self-care itinerary for bachelorette groups of 10-20: float tanks, massage logistics, nail studios that can handle large groups, recovery brunch, and how to structure a full spa-focused day before the evening begins
@@ -241,6 +240,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-03 — `_neighborhoods/warehouse-district-deep-dive.md`
 - 2026-06-03 — `_guides/nola-art-gallery-guide.md`
 - 2026-06-03 — `_guides/nola-group-bike-tour-guide.md`
+- 2026-06-04 — `_guides/nola-oyster-bar-guide.md`
 
 ---
 
@@ -369,3 +369,5 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-03 12:30 UTC — content: add _neighborhoods/warehouse-district-deep-dive.md — extended Warehouse District guide with WWII Museum logistics, Julia Street galleries, restaurant cluster, and full-day structure
 2026-06-03 12:45 UTC — content: add _guides/nola-art-gallery-guide.md — Warehouse District and St. Claude gallery guide for large groups with walk structure and what to look for
 2026-06-03 13:00 UTC — content: add _guides/nola-group-bike-tour-guide.md — group cycling guide with four routes, guided vs. self-guided comparison, rental logistics, and group management techniques
+
+2026-06-04 10:00 UTC — content: add _guides/nola-oyster-bar-guide.md — Gulf oyster culture, four preparations, oyster crawl structure, and ordering logistics for groups of 15-25
