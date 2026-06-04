@@ -97,10 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-jazz-history-tour.md` — Self-guided jazz history tour for large groups: Congo Square origins, the French Quarter clubs, Preservation Hall deep dive, Rampart Street, the living history approach that's more than just sitting in a bar
-- `_neighborhoods/st-claude-arts-district.md` — Full neighborhood guide for the St. Claude Arts District: the galleries and studios block by block, the community context, the Second Saturday art walk, and what the neighborhood looks and feels like for a group visit
-- `_guides/nola-bachelorette-spa-day.md` — Spa day and self-care itinerary for bachelorette groups of 10-20: float tanks, massage logistics, nail studios that can handle large groups, recovery brunch, and how to structure a full spa-focused day before the evening begins
-- `_guides/nola-corporate-dinner-guide.md` — Private dining and group dinner planning for corporate retreats and large parties: private dining rooms, buyout restaurants, how to negotiate a group menu, and the NOLA restaurants that handle 20-30 people without the experience falling apart
+- `_guides/nola-group-jazz-brunch.md` — Jazz brunch guide for groups of 12-25: Commander's Palace, Dooky Chase, the French Quarter spots, reservation logistics, what to order, and how to structure a full Sunday around a sit-down jazz brunch
+- `_guides/nola-cocktail-class-guide.md` — Group cocktail-making classes and mixology workshops for bachelorette and corporate groups: what's available, group sizes, what you actually make, and the villa private bartender option
+- `_neighborhoods/east-new-orleans.md` — New Orleans East neighborhood guide: the Vietnamese community corridor, Versailles neighborhood, Mary Queen of Vietnam Church, the Vietnamese restaurants along Chef Menteur Highway, and community context for groups interested in the full city
+- `_guides/nola-voodoo-fest-guide.md` — Voodoo Fest (Halloween weekend music festival in City Park) group guide: the festival itself, the French Quarter Halloween takeover, costume logistics, how to organize a large group for a multi-day music and Halloween weekend
+- `_guides/nola-casino-guide.md` — Harrah's Casino and the gambling scene for large groups: table games, poker rooms, slots vs. table strategy, how to structure a casino evening that works for a mixed group, and what's actually worth doing
 
 ---
 
@@ -241,6 +242,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-03 — `_guides/nola-art-gallery-guide.md`
 - 2026-06-03 — `_guides/nola-group-bike-tour-guide.md`
 - 2026-06-04 — `_guides/nola-oyster-bar-guide.md`
+- 2026-06-04 — `_guides/nola-jazz-history-tour.md`
+- 2026-06-04 — `_neighborhoods/st-claude-arts-district.md`
+- 2026-06-04 — `_guides/nola-bachelorette-spa-day.md`
+- 2026-06-04 — `_guides/nola-corporate-dinner-guide.md`
 
 ---
 
@@ -371,3 +376,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-03 13:00 UTC — content: add _guides/nola-group-bike-tour-guide.md — group cycling guide with four routes, guided vs. self-guided comparison, rental logistics, and group management techniques
 
 2026-06-04 10:00 UTC — content: add _guides/nola-oyster-bar-guide.md — Gulf oyster culture, four preparations, oyster crawl structure, and ordering logistics for groups of 15-25
+2026-06-04 11:00 UTC — content: add _guides/nola-jazz-history-tour.md — self-guided jazz history tour for large groups from Congo Square to Frenchmen Street
+2026-06-04 11:10 UTC — content: add _neighborhoods/st-claude-arts-district.md — gallery guide, Second Saturday logistics, and community context for large group visits
+2026-06-04 11:20 UTC — content: add _guides/nola-bachelorette-spa-day.md — float tanks, group massage booking, nail studio logistics, and villa-as-base-camp spa day structure for groups of 10-20
+2026-06-04 11:30 UTC — content: add _guides/nola-corporate-dinner-guide.md — private dining rooms, buyout logistics, group menu negotiation, and corporate dinner mechanics for groups of 20-30
