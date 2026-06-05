@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-cocktail-class-guide.md` — Group cocktail-making classes and mixology workshops for bachelorette and corporate groups: what's available, group sizes, what you actually make, and the villa private bartender option
 - `_neighborhoods/east-new-orleans.md` — New Orleans East neighborhood guide: the Vietnamese community corridor, Versailles neighborhood, Mary Queen of Vietnam Church, the Vietnamese restaurants along Chef Menteur Highway, and community context for groups interested in the full city
 - `_guides/nola-voodoo-fest-guide.md` — Voodoo Fest (Halloween weekend music festival in City Park) group guide: the festival itself, the French Quarter Halloween takeover, costume logistics, how to organize a large group for a multi-day music and Halloween weekend
 - `_guides/nola-casino-guide.md` — Harrah's Casino and the gambling scene for large groups: table games, poker rooms, slots vs. table strategy, how to structure a casino evening that works for a mixed group, and what's actually worth doing
@@ -246,6 +245,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - 2026-06-04 — `_guides/nola-bachelorette-spa-day.md`
 - 2026-06-04 — `_guides/nola-corporate-dinner-guide.md`
 - 2026-06-05 — `_guides/nola-group-jazz-brunch.md`
+- 2026-06-05 — `_guides/nola-cocktail-class-guide.md`
 
 ---
 
@@ -381,3 +381,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-04 11:20 UTC — content: add _guides/nola-bachelorette-spa-day.md — float tanks, group massage booking, nail studio logistics, and villa-as-base-camp spa day structure for groups of 10-20
 2026-06-04 11:30 UTC — content: add _guides/nola-corporate-dinner-guide.md — private dining rooms, buyout logistics, group menu negotiation, and corporate dinner mechanics for groups of 20-30
 2026-06-05 10:00 UTC — content: add _guides/nola-group-jazz-brunch.md — Commander's Palace, Dooky Chase, French Quarter classics, reservation strategy, full Sunday structure for groups of 12-25
+2026-06-05 11:00 UTC — content: add _guides/nola-cocktail-class-guide.md — mixology workshops, private bartender villa option, classic NOLA cocktails, and full-evening structure for groups of 10-30
