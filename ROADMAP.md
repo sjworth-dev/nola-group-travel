@@ -97,12 +97,17 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-casino-guide.md` — Harrah's Casino and the gambling scene for large groups: table games, poker rooms, slots vs. table strategy, how to structure a casino evening that works for a mixed group, and what's actually worth doing
+- `_guides/nola-jazz-second-line-bookings.md` — How to hire a private brass band or book a second line for a large group event: what it costs, what's included, how far in advance, and what the experience actually looks like
+- `_guides/nola-group-bar-buyout-guide.md` — How to buy out a bar or courtyard for a private group event in New Orleans: which venues do it, what it costs, what you get, and how to negotiate
+- `_guides/nola-super-bowl-lx-group-guide.md` — Super Bowl LX at Caesars Superdome in 2025: group logistics, ticket strategy, where to watch if you don't have tickets, and how to structure the full week for 15-30 people
+- `_guides/nola-airport-transfer-guide.md` — MSY airport ground transportation deep dive for groups of 10-30: charter vans, rideshare coordination, timing windows, and arrival sequencing
+- `_guides/nola-group-spa-retreat-day.md` — Full villa spa day vs. booking out a spa for 15-20 people: float tanks, mobile massage, beauty services, and a full recovery day structure
 
 ---
 
 ## Done
 
+- 2026-06-07 — `_guides/nola-casino-guide.md`
 - 2026-01-14 — `_guides/bachelorette-party.md`
 - 2026-01-14 — `_guides/corporate-retreat.md`
 - 2026-01-14 — `_guides/family-reunion.md`
@@ -384,3 +389,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-05 11:00 UTC — content: add _guides/nola-cocktail-class-guide.md — mixology workshops, private bartender villa option, classic NOLA cocktails, and full-evening structure for groups of 10-30
 2026-06-06 10:00 UTC — content: add _neighborhoods/east-new-orleans.md — Vietnamese community corridor, Village de l'Est, Mary Queen of Vietnam Church, Chef Menteur food guide, and post-Katrina resilience story for large groups
 2026-06-06 11:00 UTC — content: add _guides/nola-voodoo-fest-guide.md — Voodoo Fest group guide: festival logistics, City Park strategy, Halloween bar crawl, costume tips, and weekend structure for groups of 10-30
+2026-06-07 10:00 UTC — content: add _guides/nola-casino-guide.md — Harrah's Casino guide for large groups: table games, poker rooms, slots vs. table strategy, budget planning, and full evening structure
