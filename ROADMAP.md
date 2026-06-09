@@ -97,13 +97,18 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-airport-transfer-guide.md` — MSY airport ground transportation deep dive for groups of 10-30: charter vans, rideshare coordination, timing windows, and arrival sequencing
-- `_guides/nola-group-spa-retreat-day.md` — Full villa spa day vs. booking out a spa for 15-20 people: float tanks, mobile massage, beauty services, and a full recovery day structure
+- `_guides/nola-group-rehearsal-dinner-guide.md` — Private dining rooms, restaurant buyouts, and villa rehearsal dinners for groups of 20-40: venue types, catering logistics, menu structure, and the full evening arc
+- `_guides/nola-music-lesson-experience-guide.md` — Group music experiences in New Orleans: drum workshops, brass band clinics, second line dance lessons, and how to book a full musical half-day for 10-25 people
+- `_guides/nola-corporate-welcome-reception-guide.md` — Welcome reception planning for corporate groups of 20-50: venue options, catering formats, budget tiers, and the difference between a reception that energizes and one that doesn't
+- `_guides/nola-group-heritage-tour-guide.md` — Cultural and heritage tourism for large groups: African American history, Creole culture, jazz origins, and how to structure a meaningful half-day or full-day program that goes beyond standard attractions
+- `_guides/nola-group-nightclub-guide.md` — VIP tables, bottle service, guest lists, and private room bookings at New Orleans nightclubs for groups of 15-30: what's worth it, what to skip, and how the economics actually work
 
 ---
 
 ## Done
 
+- 2026-06-09 — `_guides/nola-airport-transfer-guide.md`
+- 2026-06-09 — `_guides/nola-group-spa-retreat-day.md`
 - 2026-06-08 — `_guides/nola-super-bowl-lx-group-guide.md`
 - 2026-06-08 — `_guides/nola-group-bar-buyout-guide.md`
 - 2026-06-07 — `_guides/nola-jazz-second-line-bookings.md`
@@ -390,6 +395,8 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-06 10:00 UTC — content: add _neighborhoods/east-new-orleans.md — Vietnamese community corridor, Village de l'Est, Mary Queen of Vietnam Church, Chef Menteur food guide, and post-Katrina resilience story for large groups
 2026-06-06 11:00 UTC — content: add _guides/nola-voodoo-fest-guide.md — Voodoo Fest group guide: festival logistics, City Park strategy, Halloween bar crawl, costume tips, and weekend structure for groups of 10-30
 2026-06-07 10:00 UTC — content: add _guides/nola-casino-guide.md — Harrah's Casino guide for large groups: table games, poker rooms, slots vs. table strategy, budget planning, and full evening structure
+2026-06-09 10:00 UTC — content: add _guides/nola-airport-transfer-guide.md — MSY ground transportation deep dive for groups of 10-30: charter vans, rideshare coordination, staggered arrivals, and departure logistics
+2026-06-09 10:15 UTC — content: add _guides/nola-group-spa-retreat-day.md — villa spa day vs. booking out a spa for groups of 15-20: float tanks, mobile massage, beauty services, and full recovery day structure
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
 2026-06-07 11:00 UTC — content: add _guides/nola-jazz-second-line-bookings.md — how to hire a brass band or book a private second line: costs, lead times, permits, what's included, and what the experience looks like
