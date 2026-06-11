@@ -97,12 +97,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-morning-routine-guide.md` — Villa mornings for large groups: coffee logistics, breakfast strategy, farmer's markets, and how to structure the first two hours before the day begins
 
 ---
 
 ## Done
 
+- 2026-06-11 — `_guides/nola-group-morning-routine-guide.md`
 - 2026-06-11 — `_guides/nola-group-late-night-food-guide.md`
 - 2026-06-11 — `_guides/nola-group-paint-night-guide.md`
 - 2026-06-11 — `_guides/nola-karaoke-guide.md`
@@ -410,6 +410,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-11 13:00 UTC — content: add _guides/nola-karaoke-guide.md — private karaoke rooms vs. public bar karaoke for groups of 10-30, booking logistics, song strategy, and full evening structure
 2026-06-11 14:00 UTC — content: add _guides/nola-group-paint-night-guide.md — paint and sip, private studio sessions, and NOLA cultural craft experiences for groups of 10-30
 2026-06-11 15:00 UTC — content: add _guides/nola-group-late-night-food-guide.md — after-midnight food for groups of 10-30: street food, 24-hour spots, delivery strategy, and villa kitchen logistics
+2026-06-11 16:00 UTC — content: add _guides/nola-group-morning-routine-guide.md — coffee logistics, breakfast tiers, morning pace management, and NOLA morning experiences for villa groups of 10-30
 2026-06-10 11:00 UTC — content: add _guides/nola-corporate-welcome-reception-guide.md — welcome reception planning for corporate groups of 20-50: venue formats, budget tiers, NOLA-specific elements, and what kills the energy
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
