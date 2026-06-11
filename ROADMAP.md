@@ -97,6 +97,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
+- `_guides/nola-group-escape-room-guide.md` — Escape rooms, murder mystery dinners, and team puzzle experiences for groups of 10-30 in New Orleans: which venues accommodate large groups, booking logistics, and how to build an evening around it
+- `_guides/nola-group-trivia-guide.md` — Bar trivia nights, private trivia events, and competitive quiz experiences for large groups in New Orleans: best venues, team structure for 15-30 people, and how to host your own
+- `_guides/nola-group-hotel-bar-guide.md` — Hotel lobby bars, rooftop bars at hotels, and when a hotel bar beats a standalone venue for groups of 15-30: CBD and French Quarter hotel bar survey with capacity notes
+- `_guides/nola-group-ghost-tour-booking-guide.md` — Private ghost tour bookings vs. joining a public tour for groups of 15-30: operators, what's actually interesting vs. theatrical, and how to combine with the cemetery and cocktail history experience
+- `_guides/nola-group-carriage-tour-guide.md` — Horse-drawn carriage tours in the French Quarter for large groups: private carriage bookings, what routes cover, and how to use a carriage tour as an arrival-day orientation activity
 
 ---
 
