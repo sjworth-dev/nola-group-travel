@@ -97,7 +97,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-booze-cruise-guide.md` — Mississippi and Lake Pontchartrain boat trips for groups of 15-30: Steamboat Natchez, private pontoon charters, sunset cruises, and full-day boat day structure
 - `_guides/nola-karaoke-guide.md` — Private karaoke rooms and public karaoke nights for large groups in New Orleans: which venues have private rooms, booking logistics, and how to structure a karaoke evening
 - `_guides/nola-group-paint-night-guide.md` — Paint and sip events, private art classes, and creative group experiences for 10-30 people in New Orleans: booking logistics, what to expect, and how to combine with dinner
 - `_guides/nola-group-late-night-food-guide.md` — Where large groups eat after midnight: open-late kitchens, 24-hour spots, delivery options, and the 2am food run logistics for 10-30 people
@@ -107,6 +106,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Done
 
+- 2026-06-11 — `_guides/nola-group-booze-cruise-guide.md`
 - 2026-06-11 — `_guides/nola-group-nightclub-guide.md`
 - 2026-06-11 — `_guides/nola-group-heritage-tour-guide.md`
 - 2026-06-10 — `_guides/nola-corporate-welcome-reception-guide.md`
@@ -406,6 +406,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-10 10:00 UTC — content: add _guides/nola-music-lesson-experience-guide.md — drum workshops, brass band clinics, second line dance lessons, and full musical half-day structure for groups of 10-25
 2026-06-11 10:00 UTC — content: add _guides/nola-group-heritage-tour-guide.md — cultural and heritage tour guide for large groups: African American history, Creole culture, jazz origins, Congo Square, the Tremé, and Whitney Plantation
 2026-06-11 11:00 UTC — content: add _guides/nola-group-nightclub-guide.md — VIP tables, bottle service, guest lists, private rooms, and what actually works for groups of 15-30 in the NOLA nightclub scene
+2026-06-11 12:00 UTC — content: add _guides/nola-group-booze-cruise-guide.md — Steamboat Natchez, private pontoon charters, sunset cruises, and full boat day structure for groups of 15-30
 2026-06-10 11:00 UTC — content: add _guides/nola-corporate-welcome-reception-guide.md — welcome reception planning for corporate groups of 20-50: venue formats, budget tiers, NOLA-specific elements, and what kills the energy
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
