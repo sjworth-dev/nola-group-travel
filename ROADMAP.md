@@ -97,13 +97,13 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-heritage-tour-guide.md` — Cultural and heritage tourism for large groups: African American history, Creole culture, jazz origins, and how to structure a meaningful half-day or full-day program that goes beyond standard attractions
 - `_guides/nola-group-nightclub-guide.md` — VIP tables, bottle service, guest lists, and private room bookings at New Orleans nightclubs for groups of 15-30: what's worth it, what to skip, and how the economics actually work
 
 ---
 
 ## Done
 
+- 2026-06-11 — `_guides/nola-group-heritage-tour-guide.md`
 - 2026-06-10 — `_guides/nola-corporate-welcome-reception-guide.md`
 - 2026-06-10 — `_guides/nola-music-lesson-experience-guide.md`
 - 2026-06-09 — `_guides/nola-airport-transfer-guide.md`
@@ -399,6 +399,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-09 11:00 UTC — content: add _guides/nola-group-rehearsal-dinner-guide.md — private dining rooms, restaurant buyouts, and villa rehearsal dinners for groups of 20-40
 2026-06-09 10:15 UTC — content: add _guides/nola-group-spa-retreat-day.md — villa spa day vs. booking out a spa for groups of 15-20: float tanks, mobile massage, beauty services, and full recovery day structure
 2026-06-10 10:00 UTC — content: add _guides/nola-music-lesson-experience-guide.md — drum workshops, brass band clinics, second line dance lessons, and full musical half-day structure for groups of 10-25
+2026-06-11 10:00 UTC — content: add _guides/nola-group-heritage-tour-guide.md — cultural and heritage tour guide for large groups: African American history, Creole culture, jazz origins, Congo Square, the Tremé, and Whitney Plantation
 2026-06-10 11:00 UTC — content: add _guides/nola-corporate-welcome-reception-guide.md — welcome reception planning for corporate groups of 20-50: venue formats, budget tiers, NOLA-specific elements, and what kills the energy
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
