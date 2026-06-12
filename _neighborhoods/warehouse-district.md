@@ -25,7 +25,7 @@ For groups, the Warehouse District is the most practical base in the city after 
 
 **Large-group rentals.** Like the French Quarter, the Warehouse District is more of a hotel neighborhood than a rental neighborhood. Large-group properties are limited. Most groups using the Warehouse District as a base will be in hotels — which means your 20 people are scattered across different floors, not together in one house.
 
-**The solution:** Stay at a large-group property nearby and treat the Warehouse District as a destination. From [Castleday Retreats](https://castledayretreats.com) in the Bywater, you're 10-15 minutes by rideshare. From [The Syd](https://thesyd.com) in the Lower Garden District, you're 10 minutes.
+**The solution:** Stay at a large-group property nearby and treat the Warehouse District as a destination. From [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater, you're 10-15 minutes by rideshare. From [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District, you're 10 minutes.
 
 **Noise and tourism.** The Warehouse District is quieter than the Quarter but busier than residential neighborhoods. Proximity to the Convention Center means you'll occasionally share the streets with large convention crowds.
 
@@ -116,9 +116,9 @@ This is the main event. The Warehouse District restaurant cluster is the best in
 
 The Warehouse District is about 10-15 minutes by rideshare from most of the city's major neighborhoods.
 
-**From the Bywater ([Castleday Retreats](https://castledayretreats.com)):** 10-15 minutes by rideshare down the riverfront. Walking is possible (~25-35 minutes along the river road) and actually scenic — the Crescent Park path gets you most of the way.
+**From the Bywater ([Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)):** 10-15 minutes by rideshare down the riverfront. Walking is possible (~25-35 minutes along the river road) and actually scenic — the Crescent Park path gets you most of the way.
 
-**From the Lower Garden District ([The Syd](https://thesyd.com)):** 8-12 minutes by rideshare along Magazine Street. Or walk Magazine — it's about 20-25 minutes and passes some good shops and bars on the way.
+**From the Lower Garden District ([The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)):** 8-12 minutes by rideshare along Magazine Street. Or walk Magazine — it's about 20-25 minutes and passes some good shops and bars on the way.
 
 **From the French Quarter:** Walk. The Warehouse District begins at the edge of the Quarter. It's 10-15 minutes on foot.
 
@@ -158,13 +158,13 @@ The Warehouse District is about 10-15 minutes by rideshare from most of the city
 
 The Warehouse District itself has limited options for groups of 15-30. Hotels can work logistically, but they scatter your group. For the best experience, stay at a large-group property nearby.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art throughout. You're 10-15 minutes from the Warehouse District by rideshare, with the Crescent Park walk as a scenic option. Book well ahead.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art throughout. You're 10-15 minutes from the Warehouse District by rideshare, with the Crescent Park walk as a scenic option. Book well ahead.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Slightly closer to the Warehouse District than Castleday, and on the same Magazine Street corridor as many Warehouse District restaurants.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Slightly closer to the Warehouse District than Castleday, and on the same Magazine Street corridor as many Warehouse District restaurants.
 
 Both options let your group stay together — in actual houses with kitchens, pools, and common space — while being close enough to the Warehouse District for any dinner, museum, or event.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa, 10-15 min from Warehouse District
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa, 8-12 min from Warehouse District
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, 10-15 min from Warehouse District
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, 8-12 min from Warehouse District

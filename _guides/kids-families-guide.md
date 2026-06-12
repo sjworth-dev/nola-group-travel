@@ -242,9 +242,9 @@ The accommodation choice is more important for family group trips than any other
 
 Hotels do not work for family reunions. The rooms are too small, there's no shared space, and the economics of booking 8-10 hotel rooms make no sense compared to a villa.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. The private pools are perfect for kids during afternoon rest periods and for adults in the evenings. The full kitchens handle family meal logistics — breakfast for the whole group, casual lunches, kids' meals when restaurant timing doesn't work. The Herald, The Cocodrie, and The Florentine all have the outdoor space and the private compound feel that makes family trip management possible. Being in the Bywater also puts you close to City Park and the bayou via the Lafitte Greenway.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The private pools are perfect for kids during afternoon rest periods and for adults in the evenings. The full kitchens handle family meal logistics — breakfast for the whole group, casual lunches, kids' meals when restaurant timing doesn't work. The Herald, The Cocodrie, and The Florentine all have the outdoor space and the private compound feel that makes family trip management possible. Being in the Bywater also puts you close to City Park and the bayou via the Lafitte Greenway.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen are excellent for family trips where different generations want to decompress in different ways. The location — one block from the St. Charles Streetcar — keeps the family close to everything without needing a car fleet. For family reunions with older kids and teenagers, the Lower Garden District walkability to Audubon Park and Magazine Street is a genuine convenience.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen are excellent for family trips where different generations want to decompress in different ways. The location — one block from the St. Charles Streetcar — keeps the family close to everything without needing a car fleet. For family reunions with older kids and teenagers, the Lower Garden District walkability to Audubon Park and Magazine Street is a genuine convenience.
 
 ---
 
@@ -254,5 +254,5 @@ New Orleans rewards families who plan it right. The city has enough for kids of 
 
 The mistake is trying to do it like an adult trip that happens to have children in tow. Plan it as a family trip with built-in adult time, and everyone gets the best version of both.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, private pools, full kitchens, up to 30 per villa
-- [The Syd](https://thesyd.com) — Lower Garden District villas, shared pool and outdoor kitchen, up to 22 per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, private pools, full kitchens, up to 30 per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, shared pool and outdoor kitchen, up to 22 per villa

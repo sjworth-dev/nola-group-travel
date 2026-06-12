@@ -29,7 +29,9 @@ We operate two properties specifically designed for large groups. Both are local
 
 ### Castleday Retreats — Private Luxury in the Bywater
 
-Three private villas in the Bywater, each sleeping up to 30 guests. Curated local art throughout—each property is a gallery of New Orleans creativity.
+![Castleday Retreats villa with private pool, lawn, and basketball court](/assets/images/castleday-villa.jpg)
+
+Three private villas in the Bywater, each with 12 bedrooms and 17 real beds—so a group of 16 spreads out and nobody ends up on an air mattress. Each villa hosts 14-30 guests (book all three for up to ~90). Curated local art throughout—each property is a gallery of New Orleans creativity.
 
 **The properties:**
 - **The Herald** – Spacious layout with large common areas
@@ -45,11 +47,21 @@ Three private villas in the Bywater, each sleeping up to 30 guests. Curated loca
 
 **Best for:** Groups who want total seclusion. Bachelorettes who want their own pool. Corporate retreats that need privacy for working sessions.
 
-[Check availability at Castleday →](https://castledayretreats.com)
+**What guests say** (4.98 average across 99 stays):
+
+> "If you're considering this property for a large gathering of any type, stop considering and just book. 10/10!"
+> — Verified guest, 15-person family reunion, July 2025
+
+> "We'd give this 10/5 stars if we could."
+> — Verified guest, 20-person wedding weekend, March 2026
+
+[Check availability at Castleday →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ---
 
 ### The Syd — Art-Filled Villas in the Lower Garden District
+
+![The Syd's colorful courtyard pool with umbrellas and loungers, seen from above](/assets/images/syd-courtyard.jpg)
 
 Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by local New Orleans artists—it's like staying inside the city's creative soul.
 
@@ -62,7 +74,7 @@ Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Eve
 
 **Best for:** Groups who want to be in the middle of everything. Wedding parties near downtown venues. Corporate groups attending conventions. Anyone who appreciates design and wants to meet other travelers.
 
-[Check availability at The Syd →](https://thesyd.com)
+[Check availability at The Syd →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ---
 
@@ -118,7 +130,7 @@ Some hotels can block rooms on the same floor.
 
 ## Our Honest Take
 
-If your group is large groups and you want everyone together in one place, book [Castleday](https://castledayretreats.com) or [The Syd](https://thesyd.com). We've been hosting large groups in New Orleans for years, and nothing else combines the capacity, quality, and location.
+If your group is large groups and you want everyone together in one place, book [Castleday](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites). We've been hosting large groups in New Orleans for years, and nothing else combines the capacity, quality, and location.
 
 Pick Castleday if you want privacy. Pick The Syd if you want to be central. Either way, you'll have a better experience than cobbling together multiple rentals or scattering everyone across hotel rooms.
 

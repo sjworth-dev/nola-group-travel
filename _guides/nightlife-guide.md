@@ -219,9 +219,9 @@ The single biggest factor in a good nightlife trip is not which bars you go to. 
 
 Twenty people scattered across hotel rooms go to bed and the night ends. Twenty people coming home to a shared villa with a pool deck, a kitchen, and a fire pit — that's where the real conversation happens. The post-bar debrief at the house is half the trip.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. You're a 15-minute walk from Frenchmen Street. The Herald, The Cocodrie, and The Florentine each have the common space and outdoor areas to handle a full group night-before prep and night-after recovery. Private pools for the next-day decompression. Full kitchens for the pre-crawl dinner. This is the base camp that makes a nightlife trip work.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. You're a 15-minute walk from Frenchmen Street. The Herald, The Cocodrie, and The Florentine each have the common space and outdoor areas to handle a full group night-before prep and night-after recovery. Private pools for the next-day decompression. Full kitchens for the pre-crawl dinner. This is the base camp that makes a nightlife trip work.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which gives you downtown access without wrestling with Ubers for every movement. Shared heated pool, hot tub, sauna, outdoor kitchen — all of which become relevant when you're reconvening at midnight or recovering the next morning. The artist-designed interiors are the kind of space that puts everyone in a good mood before they walk out the door.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which gives you downtown access without wrestling with Ubers for every movement. Shared heated pool, hot tub, sauna, outdoor kitchen — all of which become relevant when you're reconvening at midnight or recovering the next morning. The artist-designed interiors are the kind of space that puts everyone in a good mood before they walk out the door.
 
 For nightlife trips with Frenchmen Street as the primary target: Castleday's Bywater location is closer. For groups splitting time between Uptown, Magazine Street, and the Quarter: The Syd's Lower Garden District location is more central.
 
@@ -229,5 +229,5 @@ For nightlife trips with Frenchmen Street as the primary target: Castleday's Byw
 
 ## Book Your Nightlife Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa, shared pool and hot tub, one block from St. Charles Streetcar
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared pool and hot tub, one block from St. Charles Streetcar

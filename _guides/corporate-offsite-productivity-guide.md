@@ -243,9 +243,9 @@ The best offsite moments happen when the city itself becomes part of the work.
 
 The venue drives everything. The right space makes it easy to hold morning sessions, eat well at lunch, decompress by the pool at 5 PM, and gather naturally in the evenings.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. The Herald has the largest common areas and works best for all-hands sessions. The Cocodrie has the best outdoor space for informal conversations and the pool that makes 5 PM evenings excellent. The Florentine is the most polished option for groups hosting clients or presenting to external stakeholders. All three have full kitchens, private pools, and single-invoice billing with W-9 available — important for corporate reimbursement.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The Herald has the largest common areas and works best for all-hands sessions. The Cocodrie has the best outdoor space for informal conversations and the pool that makes 5 PM evenings excellent. The Florentine is the most polished option for groups hosting clients or presenting to external stakeholders. All three have full kitchens, private pools, and single-invoice billing with W-9 available — important for corporate reimbursement.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities make The Syd particularly good for companies that want a central gathering point between sessions — the outdoor kitchen becomes the place where people naturally congregate. One block from the St. Charles Streetcar, which gives easy access to the CBD, Uptown restaurants, and the French Quarter without Uber logistics.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities make The Syd particularly good for companies that want a central gathering point between sessions — the outdoor kitchen becomes the place where people naturally congregate. One block from the St. Charles Streetcar, which gives easy access to the CBD, Uptown restaurants, and the French Quarter without Uber logistics.
 
 Both properties handle corporate groups regularly. Ask about group booking logistics, invoice format, and check-in procedures when you inquire.
 
@@ -253,5 +253,5 @@ Both properties handle corporate groups regularly. Ask about group booking logis
 
 ## Make the Offsite Work
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas, up to 30 per villa, W-9 available
-- [The Syd](https://thesyd.com) — Lower Garden District, shared pool + kitchen, central location, up to 22 per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 per villa, W-9 available
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, shared pool + kitchen, central location, up to 22 per villa

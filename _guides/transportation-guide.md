@@ -66,7 +66,7 @@ The St. Charles Streetcar is one of the oldest continuously operating streetcar 
 
 ### The Lines
 
-**St. Charles Line:** Runs from Canal Street through the Central Business District, up St. Charles Avenue through the Garden District, and out to Carrollton/Uptown. This is the most useful line for visitors. One block from [The Syd](https://thesyd.com) in the Lower Garden District.
+**St. Charles Line:** Runs from Canal Street through the Central Business District, up St. Charles Avenue through the Garden District, and out to Carrollton/Uptown. This is the most useful line for visitors. One block from [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District.
 
 **Canal Street Line:** Runs along Canal Street from the river into Mid-City. Connects to the French Quarter area at the river end.
 
@@ -189,9 +189,9 @@ If your group is driving to New Orleans rather than flying:
 
 **Parking near the French Quarter:** Expensive, limited, frustrating. Use a parking garage on the CBD/Quarter border rather than searching for street parking.
 
-**Parking near [The Syd](https://thesyd.com) in the Lower Garden District:** Easier than downtown — street parking is available in the surrounding residential neighborhood.
+**Parking near [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District:** Easier than downtown — street parking is available in the surrounding residential neighborhood.
 
-**Parking near [Castleday Retreats](https://castledayretreats.com) in the Bywater:** The Bywater is a residential neighborhood with more available street parking than the tourist zones.
+**Parking near [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater:** The Bywater is a residential neighborhood with more available street parking than the tourist zones.
 
 **Game days and festival weekends:** Don't drive to the French Quarter or CBD. Seriously.
 
@@ -229,7 +229,7 @@ For groups of 15+, chartering a coach or van for day trips is usually more pract
 
 6. **Budget for surge pricing.** It's real, it's significant on weekends, and planning for it removes the stress.
 
-7. **Frenchmen Street is walkable from the Bywater.** If you're staying at [Castleday Retreats](https://castledayretreats.com), the best music scene in the city is a 10-minute walk. That fact alone changes the transportation math for music nights.
+7. **Frenchmen Street is walkable from the Bywater.** If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites), the best music scene in the city is a 10-minute walk. That fact alone changes the transportation math for music nights.
 
 ---
 
@@ -237,13 +237,13 @@ For groups of 15+, chartering a coach or van for day trips is usually more pract
 
 Where you stay determines how much you spend on transportation.
 
-**[Castleday Retreats](https://castledayretreats.com)** in the Bywater puts you walking distance from Frenchmen Street, Bacchanal Wine, and the Marigny. You'll take fewer Ubers than almost any other location in the city.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater puts you walking distance from Frenchmen Street, Bacchanal Wine, and the Marigny. You'll take fewer Ubers than almost any other location in the city.
 
-**[The Syd](https://thesyd.com)** in the Lower Garden District sits one block from the St. Charles Streetcar, which connects to Canal Street, the French Quarter, and Uptown. For groups attending events downtown or at the Convention Center, the location dramatically reduces rideshare costs.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District sits one block from the St. Charles Streetcar, which connects to Canal Street, the French Quarter, and Uptown. For groups attending events downtown or at the Convention Center, the location dramatically reduces rideshare costs.
 
 Pick your home base based on what your group plans to do. Transportation logistics will sort themselves out from there.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa. Walk to Frenchmen Street.
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa. One block from the St. Charles Streetcar.
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa. Walk to Frenchmen Street.
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa. One block from the St. Charles Streetcar.

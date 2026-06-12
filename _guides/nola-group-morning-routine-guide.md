@@ -198,13 +198,13 @@ Hotel mornings for a group of 20 are a logistics exercise: lobby coffee that run
 
 Villa mornings are the opposite. Everyone wakes up in the same space. The kitchen is there. The outdoor space is there. The morning has a natural social structure without anyone having to organize it.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). Each villa has a full kitchen with the capacity to run a real group breakfast. The private outdoor spaces — pools, covered patios, garden areas — are exactly the right morning environment for a group that wants to ease into the day rather than immediately activating. The Bywater neighborhood has a great morning bakery and coffee scene if you want to send someone out for pastries.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). Each villa has a full kitchen with the capacity to run a real group breakfast. The private outdoor spaces — pools, covered patios, garden areas — are exactly the right morning environment for a group that wants to ease into the day rather than immediately activating. The Bywater neighborhood has a great morning bakery and coffee scene if you want to send someone out for pastries.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared outdoor kitchen and courtyard area means morning coffee happens outdoors naturally. The shared heated pool is inviting in the morning even in cooler months, and the outdoor kitchen makes a morning cook-out (eggs, bacon, or even a New Orleans-style grillades and grits situation) a group activity rather than one person stuck in the kitchen. One block from the St. Charles Streetcar for the groups who want a coffee shop run.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared outdoor kitchen and courtyard area means morning coffee happens outdoors naturally. The shared heated pool is inviting in the morning even in cooler months, and the outdoor kitchen makes a morning cook-out (eggs, bacon, or even a New Orleans-style grillades and grits situation) a group activity rather than one person stuck in the kitchen. One block from the St. Charles Streetcar for the groups who want a coffee shop run.
 
 ---
 
 ## Start the Day Right
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, full kitchens, private pools, Bywater bakery and coffee scene nearby
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, shared outdoor kitchen, courtyard and pool, streetcar access for coffee runs
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, full kitchens, private pools, Bywater bakery and coffee scene nearby
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, shared outdoor kitchen, courtyard and pool, streetcar access for coffee runs

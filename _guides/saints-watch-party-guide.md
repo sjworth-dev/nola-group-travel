@@ -240,9 +240,9 @@ For groups of 15+, call ahead if you want space together. Don't walk in expectin
 
 The best watch parties happen when everyone's under one roof. Hotels don't give you that. A villa does.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Multiple living areas, full kitchens, private pools. If you want a true game-day home base — somewhere to set up the TV properly, grill outside, spread out — this is it. The Bywater also puts you about a 30-minute walk or 10-minute ride from the Superdome if you decide to go in person.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Multiple living areas, full kitchens, private pools. If you want a true game-day home base — somewhere to set up the TV properly, grill outside, spread out — this is it. The Bywater also puts you about a 30-minute walk or 10-minute ride from the Superdome if you decide to go in person.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which takes you straight to the CBD and Superdome in under 15 minutes. Great location if you're debating villa vs. stadium up until the last minute.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which takes you straight to the CBD and Superdome in under 15 minutes. Great location if you're debating villa vs. stadium up until the last minute.
 
 Both properties give you the kind of communal space where a proper watch party actually works.
 
@@ -252,5 +252,5 @@ Both properties give you the kind of communal space where a proper watch party a
 
 Whatever the Saints' schedule looks like, NOLA is the right place to watch the game.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, streetcar to the Superdome
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, streetcar to the Superdome

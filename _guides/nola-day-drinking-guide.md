@@ -229,9 +229,9 @@ NOLA in summer is 90-95°F with 80%+ humidity. You are sweating. You are drinkin
 
 Everything about a long day-drinking day is better with a villa home base you can return to.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens, outdoor spaces. When you need an hour between afternoon bars and dinner — this is where you reset. The Bywater location puts you within walking distance of Bacchanal, Frenchmen Street, and the best day-drinking infrastructure in the city.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens, outdoor spaces. When you need an hour between afternoon bars and dinner — this is where you reset. The Bywater location puts you within walking distance of Bacchanal, Frenchmen Street, and the best day-drinking infrastructure in the city.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. The St. Charles Streetcar stop is one block away, which makes it trivially easy to move between neighborhoods throughout the day without worrying about parking or rideshares.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. The St. Charles Streetcar stop is one block away, which makes it trivially easy to move between neighborhoods throughout the day without worrying about parking or rideshares.
 
 Neither option requires anyone to worry about a hotel lobby or scattered room keys at 2am.
 
@@ -239,5 +239,5 @@ Neither option requires anyone to worry about a hotel lobby or scattered room ke
 
 ## Book Your Day Drinking Base Camp
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas, private pools, walkable to everything
-- [The Syd](https://thesyd.com) — Lower Garden District, artist-designed villas, streetcar access
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, private pools, walkable to everything
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, artist-designed villas, streetcar access

@@ -229,13 +229,13 @@ For a Bywater bachelorette group, an Uber to the Uptown end of Magazine Street a
 
 For a Bywater bachelorette, you want to be in the Bywater. Full stop.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pool at each villa, full kitchens, art-filled interiors. This is the property built for exactly this trip. You're walking distance from Bacchanal Wine, a 10-minute walk to Frenchmen Street, and in the most interesting neighborhood in New Orleans. The private pool is what the whole trip is structured around.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pool at each villa, full kitchens, art-filled interiors. This is the property built for exactly this trip. You're walking distance from Bacchanal Wine, a 10-minute walk to Frenchmen Street, and in the most interesting neighborhood in New Orleans. The private pool is what the whole trip is structured around.
 
 - **The Herald** — Largest common areas; best if your group wants a big gathering space
 - **The Cocodrie** — Best outdoor space and pool; great for groups who want to spend maximum time outside
 - **The Florentine** — Most elegant design; the "fancy" pick if the bride cares about aesthetics
 
-If your group is 22 or under and you'd rather be in the Lower Garden District near Magazine Street and the St. Charles Streetcar, **[The Syd](https://thesyd.com)** is the move. Multiple villas sleeping up to 22, shared heated pool and hot tub, artist-designed interiors. One block from the streetcar line.
+If your group is 22 or under and you'd rather be in the Lower Garden District near Magazine Street and the St. Charles Streetcar, **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** is the move. Multiple villas sleeping up to 22, shared heated pool and hot tub, artist-designed interiors. One block from the streetcar line.
 
 For the Bywater bachelorette specifically, Castleday is the answer.
 
@@ -245,5 +245,5 @@ For the Bywater bachelorette specifically, Castleday is the answer.
 
 The private villa is what makes this trip work. Book it before you do anything else.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private pools, up to 30 per villa, the home base this trip deserves
-- [The Syd](https://thesyd.com) — Lower Garden District, shared pool/hot tub, up to 22 per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, up to 30 per villa, the home base this trip deserves
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, shared pool/hot tub, up to 22 per villa

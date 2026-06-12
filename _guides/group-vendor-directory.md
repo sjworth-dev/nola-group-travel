@@ -293,9 +293,9 @@ Renting furniture, linens, tableware, or lighting can significantly upgrade an o
 
 Hosting vendors at your rental—chef dinners, second line departures, welcome arrangements—requires a property that can actually handle it.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in Bywater, up to 30 guests each. Full kitchens large enough for a chef to work in. Private pools for outdoor event setup. Completely private so vendors can load in without disturbing other guests. The Bywater location is a short walk from second line parade routes in Marigny and Tremé.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in Bywater, up to 30 guests each. Full kitchens large enough for a chef to work in. Private pools for outdoor event setup. Completely private so vendors can load in without disturbing other guests. The Bywater location is a short walk from second line parade routes in Marigny and Tremé.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared outdoor kitchen, heated pool, hot tub, and sauna. One block from St. Charles Streetcar. The outdoor kitchen setup is purpose-built for catered events. Shared grounds mean vendors service the whole group from one location.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared outdoor kitchen, heated pool, hot tub, and sauna. One block from St. Charles Streetcar. The outdoor kitchen setup is purpose-built for catered events. Shared grounds mean vendors service the whole group from one location.
 
 Both properties work with large groups regularly. When you book, mention the vendors you're planning to bring—they can tell you load-in times, parking logistics, and any house rules that affect your event planning.
 
@@ -305,5 +305,5 @@ Both properties work with large groups regularly. When you book, mention the ven
 
 Every vendor interaction is easier when you already have your rental locked in. Address for deliveries. Access times for setup. Space for chefs to work.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 guests per villa
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa

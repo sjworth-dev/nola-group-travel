@@ -172,9 +172,9 @@ It's also an excellent last-day option: slower, neighborhood-paced, good for gro
 
 Riverbend and Carrollton don't have large-group private villa inventory comparable to the Bywater or Lower Garden District. For a group of 15–30, you're staying elsewhere and visiting here — not basing here.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is about 25–30 minutes from Riverbend by streetcar or Uber. Private pools, full kitchens, complete privacy. After your Riverbend afternoon, you're returning to your own pool and outdoor space.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is about 25–30 minutes from Riverbend by streetcar or Uber. Private pools, full kitchens, complete privacy. After your Riverbend afternoon, you're returning to your own pool and outdoor space.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — which means from The Syd, a Riverbend afternoon is literally a streetcar ride. Get on at Jackson Avenue, ride the full line to Carrollton Avenue, come back the same way.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — which means from The Syd, a Riverbend afternoon is literally a streetcar ride. Get on at Jackson Avenue, ride the full line to Carrollton Avenue, come back the same way.
 
 The Syd's Lower Garden District location makes Riverbend the most accessible it will ever be for a large group. The streetcar connection is direct and scenic. This is the accommodation that makes a Riverbend day the easiest version of itself.
 
@@ -202,5 +202,5 @@ The Syd's Lower Garden District location makes Riverbend the most accessible it 
 
 For groups coming to Riverbend as part of a NOLA trip, the best bases are properties with easy streetcar or rideshare access.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, three private villas up to 30 guests, private pools, full kitchens, 25–30 minutes from Riverbend
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa, one block from the St. Charles Streetcar — the direct line to Riverbend
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, three private villas up to 30 guests, private pools, full kitchens, 25–30 minutes from Riverbend
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, one block from the St. Charles Streetcar — the direct line to Riverbend

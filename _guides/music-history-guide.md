@@ -200,13 +200,13 @@ Look for bands that have a track record with private events. The NOLA music comm
 
 Location matters for a music-focused trip. You want to be close to the action without fighting for cabs at 2am.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, up to 30 guests each. You're 10-15 minutes on foot from Frenchmen Street and the Marigny — close enough to walk home after a late night. The Bywater is also the neighborhood where much of the working musician community lives. The feel of the neighborhood is right for a music trip. The Herald, The Cocodrie, and The Florentine all have the outdoor space to host a post-Frenchmen debrief with the music still in your blood.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. You're 10-15 minutes on foot from Frenchmen Street and the Marigny — close enough to walk home after a late night. The Bywater is also the neighborhood where much of the working musician community lives. The feel of the neighborhood is right for a music trip. The Herald, The Cocodrie, and The Florentine all have the outdoor space to host a post-Frenchmen debrief with the music still in your blood.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which connects you to Uptown venues like Tipitina's without a car. Rooms designed by local artists — the artistic sensibility carries through the building. For groups going to shows across multiple neighborhoods, the streetcar access is genuinely useful.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which connects you to Uptown venues like Tipitina's without a car. Rooms designed by local artists — the artistic sensibility carries through the building. For groups going to shows across multiple neighborhoods, the streetcar access is genuinely useful.
 
 ---
 
 ## Book Your Music Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, walking distance to Frenchmen Street, up to 30 per villa
-- [The Syd](https://thesyd.com) — Lower Garden District villas, streetcar access for Uptown music venues, up to 22 per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, walking distance to Frenchmen Street, up to 30 per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar access for Uptown music venues, up to 22 per villa

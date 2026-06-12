@@ -61,11 +61,11 @@ Two villas sleeping 30 each gives you 60 people in two locations. Three villas g
 
 ### The NOLA Multi-Villa Option
 
-**[Castleday Retreats](https://castledayretreats.com)** has three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each sleeping up to 30 guests. For groups of 60-90, you can book all three. For groups of 31-60, you book two. The Bywater location means your group is in the same neighborhood even if you're split across buildings. They manage all three as a property, which means a single booking contact and coordinated access.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** has three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each sleeping up to 30 guests. For groups of 60-90, you can book all three. For groups of 31-60, you book two. The Bywater location means your group is in the same neighborhood even if you're split across buildings. They manage all three as a property, which means a single booking contact and coordinated access.
 
 **The Herald** has the largest common areas — best for a full-group dinner or all-hands morning. **The Cocodrie** has the best outdoor space and pool — best as the social hub villa. **The Florentine** is the most refined — good for the more design-focused contingent or when you need an elegant space for a catered event.
 
-**[The Syd](https://thesyd.com)** operates multiple villas in the Lower Garden District, each sleeping up to 22 guests. For groups of 22-44, two villas share the property's heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities mean the whole group still has one place to gather even across multiple units. One block from the St. Charles Streetcar, which matters when you're trying to move 40 people to dinner without chartering a bus.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** operates multiple villas in the Lower Garden District, each sleeping up to 22 guests. For groups of 22-44, two villas share the property's heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities mean the whole group still has one place to gather even across multiple units. One block from the St. Charles Streetcar, which matters when you're trying to move 40 people to dinner without chartering a bus.
 
 ---
 
@@ -117,7 +117,7 @@ For 25+ people, you have two options at most restaurants: private dining room or
 
 **The catered villa option:** For groups of 30-50, a catered dinner at the villa is often the right move for at least one meal. Hire a local caterer, bring the food to your space, and eat together without the restaurant logistics. Costs less than a buyout, you control the timing, and there's room for everyone to sit down at once.
 
-**[Private chef experiences](https://castledayretreats.com)** at Castleday villas are worth considering here — a chef comes to the villa kitchen and prepares a full dinner for the group. For 25-30 people, this is often the best dinner of the trip.
+**[Private chef experiences](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** at Castleday villas are worth considering here — a chef comes to the villa kitchen and prepares a full dinner for the group. For 25-30 people, this is often the best dinner of the trip.
 
 ---
 
@@ -234,9 +234,9 @@ The group rate advantage is real. Use it.
 
 The multi-villa model is the answer here. Scattered hotel rooms don't create the communal experience that makes a very large group trip work. You need property that accommodates your full count and keeps everyone together.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Bywater. Up to 30 guests per villa, 3 villas available. For groups of 25–90, the multi-villa configuration gives you private pools, full kitchens, and enough common space to actually gather the full group. The Bywater location keeps all your villas in the same neighborhood. The villas have been designed with groups in mind — large living spaces, multiple outdoor areas, full kitchen equipment for catered events. Single booking contact for multi-villa reservations.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater. Up to 30 guests per villa, 3 villas available. For groups of 25–90, the multi-villa configuration gives you private pools, full kitchens, and enough common space to actually gather the full group. The Bywater location keeps all your villas in the same neighborhood. The villas have been designed with groups in mind — large living spaces, multiple outdoor areas, full kitchen equipment for catered events. Single booking contact for multi-villa reservations.
 
-**[The Syd](https://thesyd.com)** — Lower Garden District. Up to 22 guests per villa, multiple villas available. For groups of 22–44+, multiple Syd villas share the property's heated pool, hot tub, sauna, and outdoor kitchen — which means your full group has a common outdoor hub regardless of which villa they're sleeping in. One block from the St. Charles Streetcar for easy city access without chartering vehicles for every trip.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District. Up to 22 guests per villa, multiple villas available. For groups of 22–44+, multiple Syd villas share the property's heated pool, hot tub, sauna, and outdoor kitchen — which means your full group has a common outdoor hub regardless of which villa they're sleeping in. One block from the St. Charles Streetcar for easy city access without chartering vehicles for every trip.
 
 For the very largest groups (45–50+), reaching out to both properties directly to discuss multi-villa availability is the right move. Availability and pricing at that scale needs a direct conversation.
 
@@ -246,5 +246,5 @@ For the very largest groups (45–50+), reaching out to both properties directly
 
 The earlier you start, the better your options. For groups of 25+, last-minute booking means your best properties are gone.
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Multi-villa Bywater configuration for 25–90 guests
-- **[The Syd](https://thesyd.com)** — Shared-amenity multi-villa configuration for 22–44+ guests
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multi-villa Bywater configuration for 25–90 guests
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Shared-amenity multi-villa configuration for 22–44+ guests

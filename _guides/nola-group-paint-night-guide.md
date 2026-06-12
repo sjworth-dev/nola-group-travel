@@ -156,13 +156,13 @@ For groups at the larger end of the range, a few additional logistics apply.
 
 A creative afternoon activity benefits from a comfortable home base on either end.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is New Orleans' densest neighborhood for working artists and galleries — a walk through the Bywater on the way to or from a studio session is its own mini art tour. The Florentine villa in particular has art-filled interiors that match the aesthetic energy of a creative afternoon. Private pools for the before-session relaxation and the after-session wind-down. Castleday can help with recommendations for local instructors and studios appropriate for your group size.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is New Orleans' densest neighborhood for working artists and galleries — a walk through the Bywater on the way to or from a studio session is its own mini art tour. The Florentine villa in particular has art-filled interiors that match the aesthetic energy of a creative afternoon. Private pools for the before-session relaxation and the after-session wind-down. Castleday can help with recommendations for local instructors and studios appropriate for your group size.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's artist-designed interiors are a consistent reference point — the property was intentionally designed by local artists, which means conversations about art and aesthetics start naturally for groups staying there. The outdoor kitchen and shared common areas work well for a post-art-class wine-and-show gathering where everyone displays their paintings. One block from the St. Charles Streetcar to reach studios throughout the city.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's artist-designed interiors are a consistent reference point — the property was intentionally designed by local artists, which means conversations about art and aesthetics start naturally for groups staying there. The outdoor kitchen and shared common areas work well for a post-art-class wine-and-show gathering where everyone displays their paintings. One block from the St. Charles Streetcar to reach studios throughout the city.
 
 ---
 
 ## Plan Your Creative Evening
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, artist neighborhood setting, private pools, local studio connections
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, local artist-designed interiors, shared outdoor space for post-class gatherings
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, artist neighborhood setting, private pools, local studio connections
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, local artist-designed interiors, shared outdoor space for post-class gatherings

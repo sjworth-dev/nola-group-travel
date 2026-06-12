@@ -205,9 +205,9 @@ For volunteer groups of 10–30, private villa accommodation in New Orleans offe
 - Common space for evening reflection and discussion
 - No navigating a hotel lobby at 6 a.m. in work clothes
 
-**[Castleday Retreats](https://castledayretreats.com)** in the Bywater offers three private villas, each sleeping up to 30 guests, with private pools and full kitchens. The Bywater location — an historically working-class neighborhood that has experienced significant gentrification pressure — is itself a useful context for service-focused groups to experience and discuss.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater offers three private villas, each sleeping up to 30 guests, with private pools and full kitchens. The Bywater location — an historically working-class neighborhood that has experienced significant gentrification pressure — is itself a useful context for service-focused groups to experience and discuss.
 
-**[The Syd](https://thesyd.com)** in the Lower Garden District offers multiple villas up to 22 guests each, with a shared pool, hot tub, outdoor kitchen, and artist-designed interiors. Central location, one block from the St. Charles Streetcar, easy access to most volunteer sites and cultural destinations.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District offers multiple villas up to 22 guests each, with a shared pool, hot tub, outdoor kitchen, and artist-designed interiors. Central location, one block from the St. Charles Streetcar, easy access to most volunteer sites and cultural destinations.
 
 Both options keep your group together in one place — essential for service trips where group cohesion, shared meals, and evening debriefs are part of the program.
 
@@ -245,5 +245,5 @@ Volunteer trips often have constrained budgets. The villa math works in your fav
 
 Keep your group together, run your debriefs at the house, cook your shared meals, and make the most of the time you have.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, three private villas up to 30 guests each, private pools, full kitchens
-- [The Syd](https://thesyd.com) — Lower Garden District, multiple villas up to 22 guests, shared pool and outdoor kitchen, central location
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, three private villas up to 30 guests each, private pools, full kitchens
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, multiple villas up to 22 guests, shared pool and outdoor kitchen, central location

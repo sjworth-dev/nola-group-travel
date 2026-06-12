@@ -255,9 +255,9 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 
 A villa is the only accommodation that supports a day-drinking day properly. Hotel rooms mean a lobby return between stops. A villa means a pool, a kitchen, a place to land between phases.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools at each villa, full kitchens, local art throughout, complete privacy. The Bywater location is the ideal bachelorette neighborhood: walkable, scenic, 10 minutes from Frenchmen Street, 15 minutes from the French Quarter. Bacchanal Wine is 5 minutes away on foot. The Florentine villa in particular is designed for groups who want an elegant aesthetic.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools at each villa, full kitchens, local art throughout, complete privacy. The Bywater location is the ideal bachelorette neighborhood: walkable, scenic, 10 minutes from Frenchmen Street, 15 minutes from the French Quarter. Bacchanal Wine is 5 minutes away on foot. The Florentine villa in particular is designed for groups who want an elegant aesthetic.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Every room designed by a local New Orleans artist. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which connects to the CBD, the French Quarter, and Frenchmen in under 15 minutes. Great option if your group wants to cover a broader territory during the day.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Every room designed by a local New Orleans artist. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which connects to the CBD, the French Quarter, and Frenchmen in under 15 minutes. Great option if your group wants to cover a broader territory during the day.
 
 Both properties make the villa rest hour actually restorative — you're coming back to a beautiful space, not a generic hotel room.
 
@@ -265,5 +265,5 @@ Both properties make the villa rest hour actually restorative — you're coming 
 
 ## Plan the Bachelorette Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas up to 30, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, artist-designed villas, up to 22 guests
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, artist-designed villas, up to 22 guests

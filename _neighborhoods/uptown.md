@@ -9,7 +9,7 @@ Uptown is where New Orleans residents actually live. Big oak trees, wide porches
 
 For groups, Uptown is less of a home base and more of a full-day destination — one of the best days you'll have in New Orleans, actually. Audubon Park for the morning. Magazine Street for the afternoon. A neighborhood restaurant for dinner. The streetcar home.
 
-That said, if you're staying in the Lower Garden District at [The Syd](https://thesyd.com) — one block from the St. Charles Streetcar — you're essentially at the bottom of Uptown. The whole neighborhood is accessible without a car.
+That said, if you're staying in the Lower Garden District at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — one block from the St. Charles Streetcar — you're essentially at the bottom of Uptown. The whole neighborhood is accessible without a car.
 
 ## What Uptown Is Good For
 
@@ -154,11 +154,11 @@ The restaurants in Uptown that have been serving the same locals for 20+ years a
 
 Uptown doesn't have the inventory for groups of 15-30. The right strategy is to stay at a large-group property nearby and day-trip in.
 
-**[The Syd](https://thesyd.com)** is in the Lower Garden District — one block from the St. Charles Streetcar, which is the gateway to all of Uptown. Multiple villas sleeping up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. Artist-designed interiors. You're five minutes from the bottom of Magazine Street and directly on the streetcar line. This is the best base for groups who want easy Uptown access.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** is in the Lower Garden District — one block from the St. Charles Streetcar, which is the gateway to all of Uptown. Multiple villas sleeping up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. Artist-designed interiors. You're five minutes from the bottom of Magazine Street and directly on the streetcar line. This is the best base for groups who want easy Uptown access.
 
-**[Castleday Retreats](https://castledayretreats.com)** is in the Bywater — farther from Uptown than The Syd, but still accessible by rideshare in 15-20 minutes, or by streetcar via Canal Street. Three private villas sleeping up to 30. Private pools, full kitchens, local art throughout. The right choice if complete privacy is the priority.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** is in the Bywater — farther from Uptown than The Syd, but still accessible by rideshare in 15-20 minutes, or by streetcar via Canal Street. Three private villas sleeping up to 30. Private pools, full kitchens, local art throughout. The right choice if complete privacy is the priority.
 
 ## Book Your Stay
 
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa, one block from the St. Charles Streetcar
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa, private pools, easy rideshare to Uptown
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, one block from the St. Charles Streetcar
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools, easy rideshare to Uptown

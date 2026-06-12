@@ -188,9 +188,9 @@ On a five-night trip: you may need two recovery cycles, usually around day three
 
 A good recovery day depends enormously on where you're recovering. Hotel rooms fragment groups — there's no shared space to gather, no kitchen for real food, no outdoor space to decompress.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The private pools at The Herald, The Cocodrie, and The Florentine are the single most important wellness amenity for a group trip — full-day pool access with no strangers, no chair reservations, and complete privacy. Full kitchens mean recovery meals happen at the house. The Bywater location is quiet enough for actual rest while being walkable to coffee, pastry shops, and Frenchmen Street if the group wants to take a walk.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The private pools at The Herald, The Cocodrie, and The Florentine are the single most important wellness amenity for a group trip — full-day pool access with no strangers, no chair reservations, and complete privacy. Full kitchens mean recovery meals happen at the house. The Bywater location is quiet enough for actual rest while being walkable to coffee, pastry shops, and Frenchmen Street if the group wants to take a walk.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The hot tub and sauna specifically are recovery tools, not just amenities. Post-massage, post-float, post-yoga — ending a wellness day with an hour in the hot tub is exactly right. The artist-designed interiors mean the space itself is calming. One block from the St. Charles Streetcar for groups who want to make a low-effort move to Magazine Street for the day.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The hot tub and sauna specifically are recovery tools, not just amenities. Post-massage, post-float, post-yoga — ending a wellness day with an hour in the hot tub is exactly right. The artist-designed interiors mean the space itself is calming. One block from the St. Charles Streetcar for groups who want to make a low-effort move to Magazine Street for the day.
 
 For groups where wellness and spa access is a priority: The Syd's shared pool, hot tub, and sauna combination makes it particularly well-suited for recovery-day-focused trips.
 
@@ -198,5 +198,5 @@ For groups where wellness and spa access is a priority: The Syd's shared pool, h
 
 ## Book Your Recovery Day Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private pools at each villa, up to 30 guests, full kitchens for recovery meals
-- [The Syd](https://thesyd.com) — Lower Garden District, shared heated pool, hot tub, sauna, outdoor kitchen, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools at each villa, up to 30 guests, full kitchens for recovery meals
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, shared heated pool, hot tub, sauna, outdoor kitchen, up to 22 guests per villa

@@ -206,9 +206,9 @@ For large groups arriving together, rideshares work fine. Dropping 15–20 peopl
 
 The best home base for exploring Tremé is the Bywater or Marigny — both put you walking distance from the neighborhood.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, art-filled interiors, full kitchens. You're a 15-minute walk from Congo Square and the Backstreet Cultural Museum. If your trip is organized around New Orleans culture — music, neighborhood exploration, second lines — Castleday's location in the Bywater makes Tremé your closest cultural destination.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, art-filled interiors, full kitchens. You're a 15-minute walk from Congo Square and the Backstreet Cultural Museum. If your trip is organized around New Orleans culture — music, neighborhood exploration, second lines — Castleday's location in the Bywater makes Tremé your closest cultural destination.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, take the streetcar to Canal Street and walk or rideshare into Tremé — an easy 15-minute trip. The Syd's location puts you more centrally positioned for the whole city, with Tremé fully accessible.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, take the streetcar to Canal Street and walk or rideshare into Tremé — an easy 15-minute trip. The Syd's location puts you more centrally positioned for the whole city, with Tremé fully accessible.
 
 ---
 

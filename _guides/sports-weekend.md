@@ -46,7 +46,7 @@ For a group of 20, you'll want to buy seats in the same section — not split ac
 
 **Walking:** From the CBD and Warehouse District, the Superdome is 5-15 minutes on foot. From the French Quarter, 15-20 minutes. From the Lower Garden District, 20-30 minutes on foot or a few minutes by Uber.
 
-**Streetcar:** The St. Charles Streetcar doesn't go directly to the Superdome, but the Canal Street line gets close. For groups at [The Syd](https://thesyd.com), take the streetcar to Canal, then walk 10 minutes.
+**Streetcar:** The St. Charles Streetcar doesn't go directly to the Superdome, but the Canal Street line gets close. For groups at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites), take the streetcar to Canal, then walk 10 minutes.
 
 **Rideshare:** Works well for getting there early. After the game, expect 30-45 minute wait times and significant surge pricing. Have a post-game plan that doesn't require immediate rideshare.
 
@@ -80,11 +80,11 @@ For groups who can't get Saints tickets (or can't afford them), a Pelicans game 
 
 For groups who want the sports experience without stadium logistics, New Orleans has excellent sports bar culture. The Saints are on every TV in every bar on game day. A few worth knowing:
 
-**The Bulldog on Magazine Street** — Large outdoor space, dozens of taps, multiple TVs. Close to [The Syd](https://thesyd.com). Good for groups who want to watch without navigating the stadium.
+**The Bulldog on Magazine Street** — Large outdoor space, dozens of taps, multiple TVs. Close to [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites). Good for groups who want to watch without navigating the stadium.
 
 **Any bar in the French Quarter on Saints game day** — The Quarter takes Saints games seriously. Pat O'Brien's courtyard, bars on Bourbon Street, Cane & Table — all packed, all loud, all showing the game.
 
-**Neighborhood bars near [Castleday Retreats](https://castledayretreats.com) in the Bywater** — The Bywater's dive bars show the game. Less tourist energy, more local.
+**Neighborhood bars near [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater** — The Bywater's dive bars show the game. Less tourist energy, more local.
 
 **The house watch party:** Both Castleday and The Syd villas have full living spaces. A group of 20 watching a Saints game at the house, with the outdoor setup running, food from the kitchen, and the freedom to control the environment — sometimes this beats the bar.
 
@@ -156,9 +156,9 @@ Several excellent golf courses serve groups in the New Orleans area. TPC Louisia
 
 Sports game weekends — especially major NFL matchups — are among the most competitive booking periods in New Orleans. Plan early.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens. Game day at the house is easy: cook breakfast, watch pregame on TV, head downtown together. Walking distance to Frenchmen Street for the post-game night.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens. Game day at the house is easy: cook breakfast, watch pregame on TV, head downtown together. Walking distance to Frenchmen Street for the post-game night.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each up to 22 guests. One block from the St. Charles Streetcar, which connects to the CBD/Superdome corridor. Outdoor kitchen for pregame setups. The closest large-group accommodation to the stadium in terms of practical transit access.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each up to 22 guests. One block from the St. Charles Streetcar, which connects to the CBD/Superdome corridor. Outdoor kitchen for pregame setups. The closest large-group accommodation to the stadium in terms of practical transit access.
 
 For groups attending a Saints game, The Syd's location is particularly convenient — streetcar to Canal, short walk to the dome. For groups prioritizing the evening music scene around the game, Castleday's Bywater location puts you on Frenchmen Street after the game ends.
 
@@ -184,7 +184,7 @@ For groups attending a Saints game, The Syd's location is particularly convenien
 
 For large groups:
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests each. Full kitchens for game day spreads. Walking distance to post-game Frenchmen Street.
-- **[The Syd](https://thesyd.com)** — Art-filled villas in the Lower Garden District, up to 22 guests each. One block from the St. Charles Streetcar — the easiest transit to the Superdome and back.
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in the Bywater, up to 30 guests each. Full kitchens for game day spreads. Walking distance to post-game Frenchmen Street.
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Art-filled villas in the Lower Garden District, up to 22 guests each. One block from the St. Charles Streetcar — the easiest transit to the Superdome and back.
 
 Sports weekends sell out. Book as soon as your game date is confirmed.

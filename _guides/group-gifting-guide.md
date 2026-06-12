@@ -256,7 +256,7 @@ Send one reminder to the whole group at the deadline. Don't chase individuals—
 
 5. **Experiences outlast objects.** A second line that 20 people participate in together becomes a shared story. A framed print is carried home in a tube. Both are good gifts. The experience is the one everyone still talks about in five years.
 
-6. **Gift wrap at the rental.** Both [Castleday Retreats](https://castledayretreats.com) and [The Syd](https://thesyd.com) are set up as private homes with full kitchen space and plenty of room for setting up a gift presentation. Use the common areas—the pool deck, the dining room, the living room—for the reveal moment. The space becomes part of the gift.
+6. **Gift wrap at the rental.** Both [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) and [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) are set up as private homes with full kitchen space and plenty of room for setting up a gift presentation. Use the common areas—the pool deck, the dining room, the living room—for the reveal moment. The space becomes part of the gift.
 
 7. **Know your travel restrictions.** Alcohol and some food items have shipping and carry-on restrictions. Hot sauce in checked luggage is fine. Glass bottles in carry-on need to meet TSA size requirements. Coordinate this before anyone tries to fly home with a problematic purchase.
 
@@ -266,9 +266,9 @@ Send one reminder to the whole group at the deadline. Don't chase individuals—
 
 The moment a group gift lands—the reveal, the opening, the reaction—happens somewhere. Make sure that somewhere is worth the memory.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Private villas in Bywater, up to 30 guests. The pool decks, common rooms, and private outdoor spaces make a genuinely beautiful backdrop for a gift reveal moment. Previous guests have done everything from surprise second line departures to candlelit dinner reveals in the villa dining rooms.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in Bywater, up to 30 guests. The pool decks, common rooms, and private outdoor spaces make a genuinely beautiful backdrop for a gift reveal moment. Previous guests have done everything from surprise second line departures to candlelit dinner reveals in the villa dining rooms.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests. The shared outdoor kitchen and heated pool create a natural gathering point. The artist-designed interiors make every photo of the moment look better than it would anywhere else.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests. The shared outdoor kitchen and heated pool create a natural gathering point. The artist-designed interiors make every photo of the moment look better than it would anywhere else.
 
 Both properties are completely private—no hotel lobby, no other guests walking through, just your group in a space that's yours for the duration of the trip.
 
@@ -278,5 +278,5 @@ Both properties are completely private—no hotel lobby, no other guests walking
 
 Before you coordinate the gift, lock in where the trip is happening. The venue shapes what's possible for setup, delivery, and the reveal moment.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 guests per villa
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa

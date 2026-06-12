@@ -223,9 +223,9 @@ Cycling works well as a morning activity that sets up the rest of the day.
 
 Base camp location matters for cycling. You want to be in or near a neighborhood with direct access to your primary routes — or within easy reach of a rental shop.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is ideal for cycling: you're adjacent to Crescent Park, a short ride from Frenchmen Street, and connected to the river levee route and the Lafitte Greenway. Private pools and full kitchens mean the post-ride recovery is handled at home. The villa setting — completely private, with outdoor space — is perfect for regrouping after a long ride.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is ideal for cycling: you're adjacent to Crescent Park, a short ride from Frenchmen Street, and connected to the river levee route and the Lafitte Greenway. Private pools and full kitchens mean the post-ride recovery is handled at home. The villa setting — completely private, with outdoor space — is perfect for regrouping after a long ride.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar and within easy reach of Magazine Street's bike infrastructure. Garden District cycling routes (Route 2) are walkable from the front door. The shared heated pool, hot tub, and sauna are the right post-cycling amenities. For groups cycling the Garden District / Uptown routes, The Syd's Lower Garden District location is the natural home base.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar and within easy reach of Magazine Street's bike infrastructure. Garden District cycling routes (Route 2) are walkable from the front door. The shared heated pool, hot tub, and sauna are the right post-cycling amenities. For groups cycling the Garden District / Uptown routes, The Syd's Lower Garden District location is the natural home base.
 
 For City Park and Lafitte Greenway focused trips: Castleday's Bywater location is slightly more convenient. For Garden District and Magazine Street routes: The Syd is better positioned.
 
@@ -233,5 +233,5 @@ For City Park and Lafitte Greenway focused trips: Castleday's Bywater location i
 
 ## Plan Your Cycling Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, direct access to river levee and Crescent Park routes, private pools, up to 30 guests
-- [The Syd](https://thesyd.com) — Lower Garden District villas, Garden District and Magazine Street routes at the door, shared pool and hot tub, up to 22 guests
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, direct access to river levee and Crescent Park routes, private pools, up to 30 guests
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, Garden District and Magazine Street routes at the door, shared pool and hot tub, up to 22 guests

@@ -223,13 +223,13 @@ New Orleans festivals happen in spring and summer. Spring means afternoon thunde
 
 Both properties put you within easy transport of every major NOLA festival venue.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday's full kitchens are excellent for festival prep — stock the cooler the night before, make breakfast before the early departure, cook a real meal after a long festival day. The private pool is non-negotiable recovery for a day that ends at 3pm with sunburn and mud. The Bywater is also positioned for easy rideshares to Jazz Fest at the Fair Grounds.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday's full kitchens are excellent for festival prep — stock the cooler the night before, make breakfast before the early departure, cook a real meal after a long festival day. The private pool is non-negotiable recovery for a day that ends at 3pm with sunburn and mud. The Bywater is also positioned for easy rideshares to Jazz Fest at the Fair Grounds.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. The Syd's outdoor kitchen handles the pre-festival breakfast-for-20 efficiently. The shared pool is the correct post-festival destination. The Syd's proximity to the CBD makes it the ideal Essence Fest base — the Superdome is a short rideshare away, and the streetcar gives you an easy transit option for daytime events.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. The Syd's outdoor kitchen handles the pre-festival breakfast-for-20 efficiently. The shared pool is the correct post-festival destination. The Syd's proximity to the CBD makes it the ideal Essence Fest base — the Superdome is a short rideshare away, and the streetcar gives you an easy transit option for daytime events.
 
 ---
 
 ## Book Your Festival Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 per villa, full kitchens, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 per villa, full kitchens, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool

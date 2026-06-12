@@ -13,9 +13,13 @@ This guide covers every major event with exact dates, what to expect, and how to
 
 ---
 
+## What's Coming Up in 2026
+
+The first half of 2026 is behind us (Mardi Gras, French Quarter Fest, and Jazz Fest details for those are kept below for reference — see the [2027 calendar](#2027-event-calendar) for the next editions). Here's what's still ahead this year: Essence Fest over July 4th weekend, Satchmo Summerfest in August, Southern Decadence over Labor Day, Voodoo on Halloween weekend, and Saints season. Big-group housing for all of these books out months ahead — if your dates are set, [lock in where you're staying](/where-to-stay/) first.
+
 ## 2026 Event Calendar
 
-### Mardi Gras 2026
+### Mardi Gras 2026 *(passed — next: [Mardi Gras 2027](#mardi-gras-2027))*
 
 **Fat Tuesday: February 17, 2026**
 
@@ -38,7 +42,7 @@ Mardi Gras isn't a day—it's a season. Parades start two weeks before Fat Tuesd
 
 ---
 
-### French Quarter Festival 2026
+### French Quarter Festival 2026 *(passed — returns spring 2027)*
 
 **April 16-19, 2026**
 
@@ -52,7 +56,7 @@ The locals' favorite. Free music on 20+ stages throughout the Quarter, plus the 
 
 ---
 
-### Jazz Fest 2026
+### Jazz Fest 2026 *(passed — returns late April 2027)*
 
 **April 23 - May 3, 2026** (two weekends)
 
@@ -208,7 +212,7 @@ Festival weekends book up fast. For large groups:
 - **4+ months ahead:** Essence, Voodoo, Southern Decadence
 - **2+ months ahead:** French Quarter Fest, smaller events
 
-[Castleday Retreats](https://castledayretreats.com) and [The Syd](https://thesyd.com) both accommodate large groups and are walkable to most events.
+[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) and [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) both accommodate large groups and are walkable to most events.
 
 ### Pricing
 
@@ -270,5 +274,5 @@ During festivals, forget about driving:
 
 Large group accommodations are scarce during festivals. The earlier you book, the better your options.
 
-- [Castleday Retreats](https://castledayretreats.com) – Private villas in the Bywater, sleeps up to 30
-- [The Syd](https://thesyd.com) – Art-filled villas in Lower Garden District, sleeps up to 22
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private villas in the Bywater, sleeps up to 30
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Art-filled villas in Lower Garden District, sleeps up to 22

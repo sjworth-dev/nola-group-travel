@@ -214,9 +214,9 @@ Practical approach: designate a group tipper. One person holds a chunk of the co
 
 Music nights work best when your home base is close to the music. The Bywater and Marigny put you within walking distance of Frenchmen Street; the French Quarter puts you walking distance of Preservation Hall and Bourbon Street; the Lower Garden District puts you close to Tipitina's and the Magazine Street bar scene.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you within walking distance of Frenchmen Street — the core of New Orleans live music. Private pools and full kitchens mean the pre-show and post-show at the house are part of the night. The Herald has the best common areas for a full-group gathering; The Cocodrie has the best outdoor space for late-night decompression after the bars.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you within walking distance of Frenchmen Street — the core of New Orleans live music. Private pools and full kitchens mean the pre-show and post-show at the house are part of the night. The Herald has the best common areas for a full-group gathering; The Cocodrie has the best outdoor space for late-night decompression after the bars.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The streetcar gives you easy access to Tipitina's and Magazine Street bars; Frenchmen Street is a short Uber away. The artist-designed interiors were literally built for a music-loving city.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The streetcar gives you easy access to Tipitina's and Magazine Street bars; Frenchmen Street is a short Uber away. The artist-designed interiors were literally built for a music-loving city.
 
 For a group that wants music to be the center of the trip, Castleday's Bywater location is the closer walk home from Frenchmen Street at 1 AM.
 
@@ -226,5 +226,5 @@ For a group that wants music to be the center of the trip, Castleday's Bywater l
 
 New Orleans live music is best experienced with a private home base to leave from and return to. Scattered hotel rooms fragment the group; a shared villa keeps the night together from pre-show drinks to post-midnight debrief.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, streetcar access to the city's music corridors
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, streetcar access to the city's music corridors

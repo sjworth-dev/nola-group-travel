@@ -65,12 +65,12 @@ The house starts to fill. This is the moment the trip becomes real. Don't try to
 
 Go close. You don't need to do the French Quarter tonight.
 
-**If you're staying at [Castleday Retreats](https://castledayretreats.com) in the Bywater:**
+**If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater:**
 - Bacchanal Wine (wine garden, live jazz, no reservations needed — arrive early)
 - The Joint (BBQ, sell out early)
 - Pizza Delicious (casual, groups welcome)
 
-**If you're staying at [The Syd](https://thesyd.com) in the Lower Garden District:**
+**If you're staying at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District:**
 - Atchafalaya (neighborhood Creole, good for groups with reservations)
 - Parasol's (casual, roast beef, cash, neighborhood dive)
 - Commander's Palace if you want to go big on arrival night (reserve ahead)
@@ -97,9 +97,9 @@ One person makes coffee. Someone picks up pastries from a nearby bakery if the g
 
 Before you chase the city's big attractions, spend an hour in your home neighborhood. This is what most group trips skip and then wish they'd done.
 
-**From Bywater ([Castleday Retreats](https://castledayretreats.com)):** Walk to Crescent Park along the river. Best urban park in the city. Views of the Mississippi. Street art on the way. 1.4 miles, flat, takes an hour.
+**From Bywater ([Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)):** Walk to Crescent Park along the river. Best urban park in the city. Views of the Mississippi. Street art on the way. 1.4 miles, flat, takes an hour.
 
-**From Lower Garden District ([The Syd](https://thesyd.com)):** Walk Magazine Street toward the Garden District. Beautiful mansions, Lafayette Cemetery No. 1, coffee shops, antique stores. Catch the St. Charles Streetcar.
+**From Lower Garden District ([The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)):** Walk Magazine Street toward the Garden District. Beautiful mansions, Lafayette Cemetery No. 1, coffee shops, antique stores. Catch the St. Charles Streetcar.
 
 ### 12:00 PM — Lunch
 
@@ -304,13 +304,13 @@ Real check-out and airport timing:
 
 The 3-day itinerary works from anywhere, but having the right home base makes the logistics significantly easier.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. The Bywater is 10 minutes from Frenchmen Street, 15 minutes from the Quarter. If your group wants complete privacy and its own outdoor space, this is the property.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. The Bywater is 10 minutes from Frenchmen Street, 15 minutes from the Quarter. If your group wants complete privacy and its own outdoor space, this is the property.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors. One block from the St. Charles Streetcar — the most useful transit line in the city for this itinerary.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors. One block from the St. Charles Streetcar — the most useful transit line in the city for this itinerary.
 
 Both properties have the kitchen, outdoor space, and common areas that make the unscheduled parts of this itinerary — the Thursday pool night, the Sunday morning coffee drift — actually happen.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa, private pools
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa, streetcar access, outdoor kitchen
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, streetcar access, outdoor kitchen

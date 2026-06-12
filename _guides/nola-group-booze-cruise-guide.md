@@ -218,9 +218,9 @@ A boat trip is rarely the entire day — it's a 2-3 hour window in a larger stru
 
 The best boat trips start and end at home base. A villa gives you a kitchen for pre-boat snacks and drinks assembly, a private outdoor space for the wind-down afterward, and the flexibility to organize a group of 20 without managing hotel logistics.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is close to the river and a short Uber from the French Quarter riverfront departure points for both the Steamboat Natchez and private charters. The Cocodrie's private pool and outdoor setup makes it a natural recovery and hangout space before or after a boat day. Castleday hosts can help with booking recommendations for local charter operators.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is close to the river and a short Uber from the French Quarter riverfront departure points for both the Steamboat Natchez and private charters. The Cocodrie's private pool and outdoor setup makes it a natural recovery and hangout space before or after a boat day. Castleday hosts can help with booking recommendations for local charter operators.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool and outdoor kitchen are designed for exactly the kind of leisurely group day that a morning boat trip anchors. Post-cruise afternoons at The Syd's pool, with the outdoor kitchen available for a late lunch, are a structure that groups use repeatedly. One block from the St. Charles Streetcar, which connects easily to the riverfront.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool and outdoor kitchen are designed for exactly the kind of leisurely group day that a morning boat trip anchors. Post-cruise afternoons at The Syd's pool, with the outdoor kitchen available for a late lunch, are a structure that groups use repeatedly. One block from the St. Charles Streetcar, which connects easily to the riverfront.
 
 Both properties are 10-20 minutes from the major departure points by Uber, and both give you space to prepare (pre-trip drinks, snack assembly, sunscreen application for a group of 20) without the chaos of a hotel lobby.
 
@@ -228,5 +228,5 @@ Both properties are 10-20 minutes from the major departure points by Uber, and b
 
 ## Book Your Time on the Water
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, private pools, short Uber to riverfront charter departures
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen and shared pool, streetcar to the riverfront
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private pools, short Uber to riverfront charter departures
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen and shared pool, streetcar to the riverfront

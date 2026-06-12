@@ -263,7 +263,7 @@ Regardless of season, this is the list every person in your group should have:
 
 5. **Don't ship large packages from the city.** Art, antiques, and large purchases need to fit in your luggage. Budget space accordingly if you know your group likes to shop.
 
-6. **The pool at your rental changes packing.** If you're staying at [Castleday Retreats](https://castledayretreats.com) or [The Syd](https://thesyd.com), you'll use the pool more than you expect. Pack real swimwear. Multiple sets if you're there for multiple days.
+6. **The pool at your rental changes packing.** If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites), you'll use the pool more than you expect. Pack real swimwear. Multiple sets if you're there for multiple days.
 
 7. **Laundry is available.** Both major large-group properties have laundry access. For trips of 5+ nights, packing lighter and doing laundry mid-trip is better than overpacking.
 
@@ -273,13 +273,13 @@ Regardless of season, this is the list every person in your group should have:
 
 If your group is staying at one of the large-group villas — the kind with a real kitchen and a pool — your packing list adjusts slightly. You're not just sleeping here; you're living here for a few days.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests. Full kitchens, private pools. Bring: swimwear (you'll be in the pool), something to cook in, coffee supplies if you have a specific preference.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in the Bywater, up to 30 guests. Full kitchens, private pools. Bring: swimwear (you'll be in the pool), something to cook in, coffee supplies if you have a specific preference.
 
-**[The Syd](https://thesyd.com)** — Villas in the Lower Garden District, up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. Bring: swimwear, light clothing for outdoor kitchen dinners, comfortable house clothes for the mornings.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Villas in the Lower Garden District, up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. Bring: swimwear, light clothing for outdoor kitchen dinners, comfortable house clothes for the mornings.
 
 Both properties are in residential neighborhoods. You're not walking out the front door into a hotel lobby. You're in a house in New Orleans. Pack like you're staying at someone's house — comfortable clothes, stuff you can relax in, and the essentials for going out.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa, private pools
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa, pool/hot tub/sauna
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, pool/hot tub/sauna

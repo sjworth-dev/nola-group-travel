@@ -27,9 +27,9 @@ This guide covers everything for large groups guys—where to stay, what to do, 
 
 Most rentals cap at 10 guests. For larger groups:
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. Perfect if you want a home base away from the chaos.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. Perfect if you want a home base away from the chaos.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. One block from St. Charles streetcar. More central location.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. One block from St. Charles streetcar. More central location.
 
 ### Location Considerations
 
@@ -199,5 +199,5 @@ Three blocks of live music clubs. This is where locals actually go.
 
 For bachelor large groups, book early:
 
-- [Castleday Retreats](https://castledayretreats.com) – Private pools, Bywater location
-- [The Syd](https://thesyd.com) – Central location, shared pool/hot tub
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private pools, Bywater location
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Central location, shared pool/hot tub

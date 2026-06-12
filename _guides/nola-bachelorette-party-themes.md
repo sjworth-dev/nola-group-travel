@@ -438,9 +438,9 @@ The Classic NOLA theme makes gift bags particularly important — since the "cos
 
 The accommodation is the foundation of the whole weekend. Every theme above assumes you have a villa where the group can get dressed together, take photos together, decompress together, and establish the home-base energy that makes a themed bachelorette weekend work.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, art-filled interiors (great for themed photos), full kitchens for group meals and cocktail prep, complete privacy. The Florentine is the most elegant option and pairs particularly well with the Southern Belle or Jazz Age themes. The Cocodrie has the best outdoor and pool setup — right for the Pool Queen theme. Walking distance to Frenchmen Street.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, art-filled interiors (great for themed photos), full kitchens for group meals and cocktail prep, complete privacy. The Florentine is the most elegant option and pairs particularly well with the Southern Belle or Jazz Age themes. The Cocodrie has the best outdoor and pool setup — right for the Pool Queen theme. Walking distance to Frenchmen Street.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Every room designed by local New Orleans artists — incredible photo backdrops for any theme, especially Jazz Age and Classic NOLA. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The design-forward interiors make The Syd a standout for groups where the aesthetic of the space matters as much as the experience.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Every room designed by local New Orleans artists — incredible photo backdrops for any theme, especially Jazz Age and Classic NOLA. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The design-forward interiors make The Syd a standout for groups where the aesthetic of the space matters as much as the experience.
 
 Either property gives your group the foundation the weekend needs: one central space, private amenities, and the kind of environment that makes every theme feel intentional rather than improvised.
 
@@ -448,5 +448,5 @@ Either property gives your group the foundation the weekend needs: one central s
 
 ## Book Your Bachelorette Weekend
 
-- [Castleday Retreats](https://castledayretreats.com) — Three private villas in the Bywater, up to 30 guests each, private pools
-- [The Syd](https://thesyd.com) — Multiple artist-designed villas in the Lower Garden District, up to 22 guests each
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Three private villas in the Bywater, up to 30 guests each, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Multiple artist-designed villas in the Lower Garden District, up to 22 guests each

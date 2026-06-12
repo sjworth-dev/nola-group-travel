@@ -179,9 +179,9 @@ The visitors who get the most out of New Orleans galleries are not the ones who 
 
 The two gallery districts are on opposite ends of the relevant geography — Julia Street in the Warehouse District, St. Claude in the Marigny and Bywater.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater puts you directly adjacent to the St. Claude Arts District and a short walk from Frenchmen Street. For arts-focused groups where the St. Claude corridor and Marigny are the primary gallery zone, Castleday's location is ideal. The art-filled interiors of the villas themselves — local artists throughout — are part of the experience from the moment you arrive.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater puts you directly adjacent to the St. Claude Arts District and a short walk from Frenchmen Street. For arts-focused groups where the St. Claude corridor and Marigny are the primary gallery zone, Castleday's location is ideal. The art-filled interiors of the villas themselves — local artists throughout — are part of the experience from the moment you arrive.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room in The Syd's villas was designed by a local New Orleans artist — the building is a gallery experience in itself. One block from the St. Charles Streetcar, which connects you to both the Warehouse District (downtown toward Julia Street) and Uptown. Shared heated pool, hot tub, sauna, and outdoor kitchen. For groups doing the Warehouse District gallery circuit, the Lower Garden District is a reasonable base.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room in The Syd's villas was designed by a local New Orleans artist — the building is a gallery experience in itself. One block from the St. Charles Streetcar, which connects you to both the Warehouse District (downtown toward Julia Street) and Uptown. Shared heated pool, hot tub, sauna, and outdoor kitchen. For groups doing the Warehouse District gallery circuit, the Lower Garden District is a reasonable base.
 
 For a trip structured around St. Claude and the Marigny gallery scene: Castleday's Bywater location is the clear choice. For Warehouse District gallery days with Uptown dinners: The Syd's central location works better.
 
@@ -189,5 +189,5 @@ For a trip structured around St. Claude and the Marigny gallery scene: Castleday
 
 ## Plan Your Arts Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, local art throughout, walking distance to St. Claude Arts District and Frenchmen Street, up to 30 guests
-- [The Syd](https://thesyd.com) — Lower Garden District, every room designed by a local artist, streetcar access, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, local art throughout, walking distance to St. Claude Arts District and Frenchmen Street, up to 30 guests
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, every room designed by a local artist, streetcar access, up to 22 guests per villa

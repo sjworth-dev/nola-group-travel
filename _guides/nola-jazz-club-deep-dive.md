@@ -245,9 +245,9 @@ For when a specific act is worth the Uptown trip.
 
 The logistics of a jazz night get much easier when you're staying somewhere with space to pre-game properly and a kitchen for the late-night aftermath.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens, local art throughout. The Bywater location puts you less than 10 minutes from Frenchmen Street — either a short rideshare or a walkable distance on a temperate night. Pre-gaming on a private pool deck before a Frenchmen Street night is genuinely hard to beat. The late-night return to a villa with a pool is the right ending to a jazz crawl.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens, local art throughout. The Bywater location puts you less than 10 minutes from Frenchmen Street — either a short rideshare or a walkable distance on a temperate night. Pre-gaming on a private pool deck before a Frenchmen Street night is genuinely hard to beat. The late-night return to a villa with a pool is the right ending to a jazz crawl.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, and rooms designed by local New Orleans artists. A short rideshare to Frenchmen Street. The shared outdoor space makes pre-gaming for a large group natural — everyone gathers before the rideshares arrive. Post-jazz-night hot tub is not the worst way to end an evening.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, and rooms designed by local New Orleans artists. A short rideshare to Frenchmen Street. The shared outdoor space makes pre-gaming for a large group natural — everyone gathers before the rideshares arrive. Post-jazz-night hot tub is not the worst way to end an evening.
 
 Both properties provide the kind of private group space that makes the before and after as good as the music itself.
 
@@ -257,5 +257,5 @@ Both properties provide the kind of private group space that makes the before an
 
 Real jazz in a real city. The logistics are manageable — you just need to know the venues.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, 10 minutes from Frenchmen Street, up to 30 guests per villa
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, artist-designed interiors
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 10 minutes from Frenchmen Street, up to 30 guests per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, artist-designed interiors

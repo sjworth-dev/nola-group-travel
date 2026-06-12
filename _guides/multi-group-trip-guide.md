@@ -58,9 +58,9 @@ This is the framework that actually works.
 
 For 15-30 people, your hub options in New Orleans are limited but excellent.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in Bywater, each sleeping up to 30 guests. The largest common areas of any large-group rental in the city. Separate villa structures mean night-owl energy doesn't bleed into bedrooms where early risers are sleeping. Private pools for the pool crowd. Full kitchens for anyone who wants to cook. Five minutes from Frenchmen Street for the bar crowd.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in Bywater, each sleeping up to 30 guests. The largest common areas of any large-group rental in the city. Separate villa structures mean night-owl energy doesn't bleed into bedrooms where early risers are sleeping. Private pools for the pool crowd. Full kitchens for anyone who wants to cook. Five minutes from Frenchmen Street for the bar crowd.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared outdoor spaces become a natural gathering point across sub-groups. One block from the St. Charles Streetcar, which makes it easy for any sub-group to break off and navigate independently.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared outdoor spaces become a natural gathering point across sub-groups. One block from the St. Charles Streetcar, which makes it easy for any sub-group to break off and navigate independently.
 
 ### Anchor Moments
 
@@ -257,9 +257,9 @@ The single most important variable is a property that can absorb multiple sub-gr
 
 You need: Common space large enough for the full group. Enough bedrooms that night owls and early risers are genuinely separated. Outdoor space where people can exist without waking anyone up.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in Bywater, each sleeping up to 30. Common areas are genuinely large. The private pool becomes the natural hub point for everyone. The Bywater location puts nightlife, restaurants, and the levee walk all within walking distance, so sub-groups can scatter and return easily.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in Bywater, each sleeping up to 30. Common areas are genuinely large. The private pool becomes the natural hub point for everyone. The Bywater location puts nightlife, restaurants, and the levee walk all within walking distance, so sub-groups can scatter and return easily.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests. Shared outdoor kitchen, heated pool, and sauna create natural cross-sub-group gathering points without forcing it. One block from St. Charles Streetcar means any sub-group can independently navigate to any neighborhood without coordinating a carpool.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests. Shared outdoor kitchen, heated pool, and sauna create natural cross-sub-group gathering points without forcing it. One block from St. Charles Streetcar means any sub-group can independently navigate to any neighborhood without coordinating a carpool.
 
 Both properties accommodate the structure described in this guide: large enough to hold everyone, configured for sub-group independence, with shared outdoor spaces that pull people back together without scheduling it.
 
@@ -269,5 +269,5 @@ Both properties accommodate the structure described in this guide: large enough 
 
 Before you can organize sub-groups, you need a home base. Lock that in first, then build the rest of the plan around it.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 guests per villa
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa

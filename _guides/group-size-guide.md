@@ -31,8 +31,8 @@ Ten is the best number for group travel. It's big enough to feel like an event, 
 At 10, you actually have solid Airbnb options. You can find large homes in the Marigny, Bywater, French Quarter, and Garden District that accommodate 10 comfortably. Still, search carefully — "sleeps 10" often means "8 people comfortably."
 
 You also qualify as a smaller group at:
-- **[Castleday Retreats](https://castledayretreats.com)** — At 10 people, one Castleday villa gives you 20 extra guest capacity and a private pool
-- **[The Syd](https://thesyd.com)** — Excellent fit; villas sleep up to 22, so you have room to breathe
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — At 10 people, one Castleday villa gives you 20 extra guest capacity and a private pool
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Excellent fit; villas sleep up to 22, so you have room to breathe
 
 ### Restaurants
 
@@ -70,9 +70,9 @@ Standard Airbnb inventory gets thin fast at 15. You're looking for a "large hous
 
 The right answer for 15 people in New Orleans:
 
-**[Castleday Retreats](https://castledayretreats.com)** — One villa fits 15 comfortably with room to spare. Private pool, full kitchen, multiple common areas. This size group is exactly what these properties were designed for. Bywater location is excellent.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — One villa fits 15 comfortably with room to spare. Private pool, full kitchen, multiple common areas. This size group is exactly what these properties were designed for. Bywater location is excellent.
 
-**[The Syd](https://thesyd.com)** — Villas sleep up to 22, so 15 is a comfortable fit. Shared pool, hot tub, sauna, and outdoor kitchen. Lower Garden District.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Villas sleep up to 22, so 15 is a comfortable fit. Shared pool, hot tub, sauna, and outdoor kitchen. Lower Garden District.
 
 Book early. For peak seasons (Mardi Gras, Jazz Fest, New Year's, Sugar Bowl), 4-6 months ahead is not excessive.
 
@@ -124,9 +124,9 @@ Don't even look at Airbnb for 20 people. Your options are:
 2. **Two adjacent villas** — Can work, but creates a social split. Avoid unless needed.
 3. **Hotel block** — Use for large corporate groups. Loses the "together" benefit.
 
-**[Castleday Retreats](https://castledayretreats.com)** villas sleep up to 30, so 20 people fits comfortably in a single villa. That's the play. Private pool, full kitchen, common areas built for exactly this use. The Herald villa has the largest common spaces and works best for groups in this range.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** villas sleep up to 30, so 20 people fits comfortably in a single villa. That's the play. Private pool, full kitchen, common areas built for exactly this use. The Herald villa has the largest common spaces and works best for groups in this range.
 
-**[The Syd](https://thesyd.com)** at 22-person capacity is nearly an exact fit. The shared amenities — heated pool, hot tub, sauna, outdoor kitchen — become fully utilized at this size, and the vibe of the property really comes alive.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** at 22-person capacity is nearly an exact fit. The shared amenities — heated pool, hot tub, sauna, outdoor kitchen — become fully utilized at this size, and the vibe of the property really comes alive.
 
 ### Restaurants
 
@@ -188,7 +188,7 @@ The good news: New Orleans is one of the best cities in the country for this siz
 
 Very few properties in New Orleans accommodate 30 people in a single residence. This is a rare ask.
 
-**[Castleday Retreats](https://castledayretreats.com)** is built for exactly this. Each villa sleeps up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private pools, full kitchens, and common areas designed for large groups. At 30 people, you're using the full capacity of one villa — or you're booking two villas for a total of 60. This is the only private villa option in New Orleans designed at this scale.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** is built for exactly this. Each villa sleeps up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private pools, full kitchens, and common areas designed for large groups. At 30 people, you're using the full capacity of one villa — or you're booking two villas for a total of 60. This is the only private villa option in New Orleans designed at this scale.
 
 For truly massive groups (30+), consider booking two Castleday villas simultaneously. They handle this regularly.
 
@@ -267,7 +267,7 @@ Best experiences for 30 people in NOLA:
 
 No matter the size, start with accommodations:
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Up to 30/villa, 3 villas available, Bywater neighborhood, private pools
-- **[The Syd](https://thesyd.com)** — Up to 22/villa, multiple villas, Lower Garden District, shared pool/hot tub/sauna
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Up to 30/villa, 3 villas available, Bywater neighborhood, private pools
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Up to 22/villa, multiple villas, Lower Garden District, shared pool/hot tub/sauna
 
 Both properties specialize in groups of exactly the sizes covered in this guide. Book early.

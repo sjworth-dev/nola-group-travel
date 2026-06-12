@@ -170,19 +170,19 @@ Both of the properties we recommend have strong common areas designed for exactl
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com) has three private villas in the Bywater, each sleeping up to 30 guests. The full-kitchen setup, private pool, and generous common areas make these villas genuinely livable for a week. For a group that's not structuring the trip around going out to bars, the villa becomes more central—breakfast together, afternoons by the pool, evenings before and after dinner.
+[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) has three private villas in the Bywater, each sleeping up to 30 guests. The full-kitchen setup, private pool, and generous common areas make these villas genuinely livable for a week. For a group that's not structuring the trip around going out to bars, the villa becomes more central—breakfast together, afternoons by the pool, evenings before and after dinner.
 
 The Bywater location is ideal: walkable to Frenchmen Street music venues, walkable to Bacchanal Wine (which has a full food menu and live music—accessible without drinking), and quiet enough for early mornings.
 
-[Check Castleday availability →](https://castledayretreats.com)
+[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com) is in the Lower Garden District, one block from the St. Charles Streetcar. Each villa sleeps up to 22 guests and features artist-designed interiors, a shared heated pool, hot tub, outdoor kitchen, and sauna. The outdoor kitchen makes group cooking dinners easy. The streetcar access means music, restaurants, and neighborhoods are always accessible without car logistics.
+[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) is in the Lower Garden District, one block from the St. Charles Streetcar. Each villa sleeps up to 22 guests and features artist-designed interiors, a shared heated pool, hot tub, outdoor kitchen, and sauna. The outdoor kitchen makes group cooking dinners easy. The streetcar access means music, restaurants, and neighborhoods are always accessible without car logistics.
 
 For a sober-curious trip, the hot tub and sauna in the evening become real amenities—a legitimate evening activity at the property.
 
-[Check The Syd availability →](https://thesyd.com)
+[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ---
 
@@ -245,5 +245,5 @@ Stop treating sobriety (or sober-curious travel) as a constraint on a New Orlean
 
 Build the trip around eating well, listening to live music, and walking through neighborhoods. That's the real New Orleans anyway.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Bywater, 3 private villas up to 30 guests, private pools, full kitchens
-**[The Syd](https://thesyd.com)** — Lower Garden District, multiple villas up to 22 guests, pool, hot tub, sauna, outdoor kitchen
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas up to 30 guests, private pools, full kitchens
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas up to 22 guests, pool, hot tub, sauna, outdoor kitchen

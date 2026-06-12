@@ -53,9 +53,9 @@ You used to be inseparable. Now you're spread across the country. Time to fix th
 
 The whole point is being together. You need one rental, not scattered hotel rooms.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens. Perfect for groups who want their own space.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens. Perfect for groups who want their own space.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. Great location, more social vibe.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. Great location, more social vibe.
 
 ---
 
@@ -229,5 +229,5 @@ Get this sorted before the trip:
 
 For large groups:
 
-- [Castleday Retreats](https://castledayretreats.com) – Private villas, pools, Bywater
-- [The Syd](https://thesyd.com) – Central location, shared pool/hot tub
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private villas, pools, Bywater
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Central location, shared pool/hot tub

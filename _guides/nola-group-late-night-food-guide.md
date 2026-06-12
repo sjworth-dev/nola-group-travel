@@ -171,13 +171,13 @@ The late-night food coordination problem is real. Here's the framework that prev
 
 Most late-night food solutions for large groups lead back to the villa. Having a good one makes this the easiest part of the trip.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). Each villa has a full kitchen equipped for cooking and entertaining at scale. The Bywater location also has a neighborhood infrastructure — a few late-night spots within walking range, and delivery that works late to the neighborhood. Groups returning from Frenchmen Street pass through Bywater naturally.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). Each villa has a full kitchen equipped for cooking and entertaining at scale. The Bywater location also has a neighborhood infrastructure — a few late-night spots within walking range, and delivery that works late to the neighborhood. Groups returning from Frenchmen Street pass through Bywater naturally.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared outdoor kitchen makes late-night cooking a communal rather than chaotic event — there's space for the group to congregate, eat, and wind down outside rather than clustering in a single kitchen. The streetcar access makes delivery coordination easy (one person stays at the villa to receive orders; the rest wind down by the pool).
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared outdoor kitchen makes late-night cooking a communal rather than chaotic event — there's space for the group to congregate, eat, and wind down outside rather than clustering in a single kitchen. The streetcar access makes delivery coordination easy (one person stays at the villa to receive orders; the rest wind down by the pool).
 
 ---
 
 ## Plan Your Late Night
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, full kitchens, near Frenchmen Street, delivery-accessible location
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen, shared pool, streetcar access to the whole city
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, full kitchens, near Frenchmen Street, delivery-accessible location
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen, shared pool, streetcar access to the whole city

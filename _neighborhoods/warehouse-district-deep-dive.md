@@ -191,9 +191,9 @@ The Warehouse District is accessible from most neighborhoods in New Orleans.
 
 The Warehouse District is centrally located enough that you can reach it easily from multiple neighborhoods. The best base camps for groups doing a Warehouse District-focused day:
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Lower Garden District is directly adjacent to the Warehouse District — Magazine Street connects the two neighborhoods seamlessly. You can walk to the WWII Museum in about 15 minutes from The Syd. One block from the St. Charles Streetcar for other parts of the city. Shared heated pool, hot tub, sauna, and outdoor kitchen. The artist-designed interiors are a good conversation starter if your group is doing the gallery walk.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Lower Garden District is directly adjacent to the Warehouse District — Magazine Street connects the two neighborhoods seamlessly. You can walk to the WWII Museum in about 15 minutes from The Syd. One block from the St. Charles Streetcar for other parts of the city. Shared heated pool, hot tub, sauna, and outdoor kitchen. The artist-designed interiors are a good conversation starter if your group is doing the gallery walk.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is a 20-minute Uber from the Warehouse District — not walkable, but an easy ride. Private pools and full kitchens make the villa a complete home base for a multi-day trip that includes the Warehouse District as one day among several. The Bywater location is also ideal if your group wants to combine the museum day with a Frenchmen Street evening.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is a 20-minute Uber from the Warehouse District — not walkable, but an easy ride. Private pools and full kitchens make the villa a complete home base for a multi-day trip that includes the Warehouse District as one day among several. The Bywater location is also ideal if your group wants to combine the museum day with a Frenchmen Street evening.
 
 For Warehouse District-centric trips where you're spending most of the day there: The Syd's proximity makes it the natural choice. For multi-neighborhood trips where the Warehouse District is one stop: either property works.
 
@@ -201,5 +201,5 @@ For Warehouse District-centric trips where you're spending most of the day there
 
 ## Plan Your Trip
 
-- [The Syd](https://thesyd.com) — Lower Garden District, adjacent to the Warehouse District, streetcar access, up to 22 guests per villa
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests, private pools, short Uber to the Warehouse District
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, adjacent to the Warehouse District, streetcar access, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, short Uber to the Warehouse District

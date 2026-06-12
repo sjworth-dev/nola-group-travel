@@ -27,9 +27,9 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 ### For Large Groups
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens, multiple bedrooms. Ground-floor options for mobility needs.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens, multiple bedrooms. Ground-floor options for mobility needs.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location near the streetcar.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location near the streetcar.
 
 ### What to Look For
 
@@ -182,7 +182,7 @@ Most reunion meals should happen at your rental. Why:
 
 **6 months before:**
 - [ ] Lock in dates with key family members
-- [ ] Book accommodation ([Castleday](https://castledayretreats.com) or [The Syd](https://thesyd.com))
+- [ ] Book accommodation ([Castleday](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites))
 - [ ] Create shared document for logistics
 
 **2 months before:**
@@ -215,5 +215,5 @@ New Orleans provides the backdrop. The reunion is what you make of it.
 
 For family reunions for large groups:
 
-- [Castleday Retreats](https://castledayretreats.com) – Private villas with pools
-- [The Syd](https://thesyd.com) – Central location, shared amenities
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private villas with pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Central location, shared amenities

@@ -262,9 +262,9 @@ From Uptown accommodations, it's a 15-minute rideshare. Worth it.
 
 ## Where to Stay for Groups of 10-25
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. This is the natural home base for an Uptown girls trip. One block from the St. Charles Streetcar puts you within easy reach of Magazine Street, Garden District, and Uptown restaurants. The shared heated pool, hot tub, sauna, and outdoor kitchen mean your between-activities decompression time is excellent. Every room is designed by a different local New Orleans artist — which creates a level of aesthetic detail you don't find in a hotel or a standard rental.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. This is the natural home base for an Uptown girls trip. One block from the St. Charles Streetcar puts you within easy reach of Magazine Street, Garden District, and Uptown restaurants. The shared heated pool, hot tub, sauna, and outdoor kitchen mean your between-activities decompression time is excellent. Every room is designed by a different local New Orleans artist — which creates a level of aesthetic detail you don't find in a hotel or a standard rental.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. If your group's priority is maximum privacy — a completely private pool, your own space, no shared amenities — Castleday is the answer. The Bywater location puts you closer to Frenchmen Street and the Marigny than to Magazine Street, but a short rideshare connects you to all of Uptown easily. The private pool is the best anchor for a girls trip pool day in the city.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. If your group's priority is maximum privacy — a completely private pool, your own space, no shared amenities — Castleday is the answer. The Bywater location puts you closer to Frenchmen Street and the Marigny than to Magazine Street, but a short rideshare connects you to all of Uptown easily. The private pool is the best anchor for a girls trip pool day in the city.
 
 Both are the right answer depending on your group's priorities. Private-pool-as-anchor or central-location-plus-shared-amenities. Neither is wrong.
 
@@ -276,5 +276,5 @@ Uptown New Orleans is the version of the city that residents love most. Magazine
 
 For a girls trip that balances doing things with actually being somewhere rather than always rushing to the next stop, Uptown is the move.
 
-- [The Syd](https://thesyd.com) – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
-- [Castleday Retreats](https://castledayretreats.com) – Bywater, private pools, up to 30/villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Bywater, private pools, up to 30/villa

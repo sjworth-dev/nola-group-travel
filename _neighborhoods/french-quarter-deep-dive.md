@@ -229,9 +229,9 @@ This walk covers roughly 1.5 miles in 3 hours. Comfortable for any group.
 
 The French Quarter is walkable from most neighborhoods in the core city. You don't have to stay inside it to use it — in fact, most experienced visitors choose to stay outside it and commute in.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is a 15-minute walk or 5-minute rideshare from the lower French Quarter. You get the neighborhood's quiet, art-filled character as your home base, with the Quarter close enough to visit when you want without having to hear Bourbon Street at midnight.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is a 15-minute walk or 5-minute rideshare from the lower French Quarter. You get the neighborhood's quiet, art-filled character as your home base, with the Quarter close enough to visit when you want without having to hear Bourbon Street at midnight.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. About a 15-minute rideshare to the Quarter, one block from the St. Charles Streetcar. For groups doing the full New Orleans circuit — Magazine Street, the Garden District, the French Quarter — this location works well as a hub.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. About a 15-minute rideshare to the Quarter, one block from the St. Charles Streetcar. For groups doing the full New Orleans circuit — Magazine Street, the Garden District, the French Quarter — this location works well as a hub.
 
 ---
 
@@ -243,5 +243,5 @@ The real New Orleans — the one that locals live in, that has the best food and
 
 Visit the Quarter. Do it right. Then get out and see the rest.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, 15 minutes from the Quarter, private villas for up to 30
-- [The Syd](https://thesyd.com) — Lower Garden District, multiple villas, up to 22 guests
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 15 minutes from the Quarter, private villas for up to 30
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, multiple villas, up to 22 guests

@@ -209,9 +209,9 @@ Not every bar on this list is a cocktail bar specifically, but they're all worth
 
 A cocktail tour works best when your group has a real home base — a kitchen to stock, space to debrief, and somewhere to sleep it off without fighting for hotel elevator space at 2 AM.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens make it easy to stock the house bar with Peychaud's and Herbsaint and run your own tasting night. The Bywater location puts you 15 minutes from Frenchmen Street on foot and a short Uber from the French Quarter bars. The Herald, The Cocodrie, and The Florentine each have the common-area space to accommodate your whole group for a night-cap session when you get home.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens make it easy to stock the house bar with Peychaud's and Herbsaint and run your own tasting night. The Bywater location puts you 15 minutes from Frenchmen Street on foot and a short Uber from the French Quarter bars. The Herald, The Cocodrie, and The Florentine each have the common-area space to accommodate your whole group for a night-cap session when you get home.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which is how locals actually get around. The shared outdoor kitchen is excellent for setting up a house cocktail station. Artist-designed interiors throughout — which fits a group that cares about the aesthetic alongside the drink.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which is how locals actually get around. The shared outdoor kitchen is excellent for setting up a house cocktail station. Artist-designed interiors throughout — which fits a group that cares about the aesthetic alongside the drink.
 
 For a cocktail tour specifically: both properties are reasonable Uber distances from the key bars, but The Syd's Lower Garden District location is slightly closer to Cure in Uptown. Castleday's Bywater location is closer to Bacchanal and the Frenchmen Street end point.
 
@@ -219,5 +219,5 @@ For a cocktail tour specifically: both properties are reasonable Uber distances 
 
 ## Book Your Base
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas, up to 30 guests, full kitchens for the house bar
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, outdoor kitchen, streetcar access
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests, full kitchens for the house bar
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, outdoor kitchen, streetcar access

@@ -254,9 +254,9 @@ See the [Day Trips Guide](/guides/day-trips) for the full Cajun Country day stru
 
 A swamp tour is a half-day activity. The other half of that day is at your home base. Make the base worth coming back to.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. Coming back from a swamp tour to a private pool and a full kitchen for a group lunch is the ideal post-tour afternoon. Castleday's Bywater location also puts you walking distance from Frenchmen Street for an easy evening after a full outdoor day.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. Coming back from a swamp tour to a private pool and a full kitchen for a group lunch is the ideal post-tour afternoon. Castleday's Bywater location also puts you walking distance from Frenchmen Street for an easy evening after a full outdoor day.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Syd's shared outdoor amenities — pool, hot tub, outdoor kitchen — are perfect for a group that wants to decompress together after a day in the heat. Cook a late lunch, get in the pool, eat again. That's the move.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Syd's shared outdoor amenities — pool, hot tub, outdoor kitchen — are perfect for a group that wants to decompress together after a day in the heat. Cook a late lunch, get in the pool, eat again. That's the move.
 
 Both properties are better than hotel rooms for a group coming back sunburned and muddy from a swamp tour. You need a pool and a kitchen, not a lobby.
 
@@ -264,5 +264,5 @@ Both properties are better than hotel rooms for a group coming back sunburned an
 
 ## Plan Your Swamp Tour Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Private villas in the Bywater, up to 30 guests, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, shared pool, hot tub, sauna
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Private villas in the Bywater, up to 30 guests, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool, hot tub, sauna

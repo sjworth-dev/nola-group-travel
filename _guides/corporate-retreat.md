@@ -43,7 +43,7 @@ The venue shapes your retreat more than any other decision.
 
 The best corporate retreats happen when everyone stays together—not in adjacent hotel rooms, but actually together in one space.
 
-**Our recommendation: [Castleday Retreats](https://castledayretreats.com/corporate)**
+**Our recommendation: [Castleday Retreats](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)**
 
 Three private villas in the Bywater neighborhood, each sleeping up to 30:
 
@@ -60,7 +60,7 @@ Three private villas in the Bywater neighborhood, each sleeping up to 30:
 | Meals | Cook together or cater | Expensive hotel dining |
 | Atmosphere | Home base | Transactional |
 
-[Check Castleday availability →](https://castledayretreats.com/corporate)
+[Check Castleday availability →](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ## Structuring Your Retreat
 
@@ -174,19 +174,19 @@ Build the New Orleans experience into the schedule—don't leave it to the margi
 
 If your team is large groups, your options narrow significantly. Most rentals cap at 10 guests.
 
-[Castleday Retreats](https://castledayretreats.com/corporate) is purpose-built for this exact range:
+[Castleday Retreats](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) is purpose-built for this exact range:
 - Three villas, each sleeping up to 30
 - Private pools for informal time
 - Full kitchens for team meals
 - Single invoice, W-9 available
 
-[Check availability and get a quote →](https://castledayretreats.com/corporate)
+[Check availability and get a quote →](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ## Make It Happen
 
 **Next steps:**
 1. Lock in dates
-2. [Book accommodations](https://castledayretreats.com/corporate)
+2. [Book accommodations](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 3. Make dinner reservations
 4. Design your agenda
 5. Run the best offsite your company's ever had

@@ -173,9 +173,9 @@ Don't underestimate this. On a multi-day trip, a night where everyone stays in, 
 
 Group activities work best when you have a proper home base. A shared villa is the logistics center for pre-activity prep, storing gear, and the post-activity debrief — which is often the best part.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The outdoor spaces at The Cocodrie are purpose-built for lawn game tournaments. The Herald's common areas accommodate a full casino night setup. Full kitchens mean you can handle the catering side of any group activity without leaving the property. Private pools for the post-activity cool-down.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The outdoor spaces at The Cocodrie are purpose-built for lawn game tournaments. The Herald's common areas accommodate a full casino night setup. Full kitchens mean you can handle the catering side of any group activity without leaving the property. Private pools for the post-activity cool-down.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared outdoor kitchen, heated pool, hot tub, and sauna. The shared outdoor areas work for larger multi-activity setups. One block from the St. Charles Streetcar means you can anchor at the villa and still reach city venues quickly when the group wants to move.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared outdoor kitchen, heated pool, hot tub, and sauna. The shared outdoor areas work for larger multi-activity setups. One block from the St. Charles Streetcar means you can anchor at the villa and still reach city venues quickly when the group wants to move.
 
 Both properties have the space and infrastructure to support a full day of group activities without going anywhere — and the city when you're ready to take the games outside.
 
@@ -183,5 +183,5 @@ Both properties have the space and infrastructure to support a full day of group
 
 ## Book Your Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas up to 30 guests, private pools, full outdoor spaces
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa, shared pool and outdoor kitchen
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, private pools, full outdoor spaces
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared pool and outdoor kitchen

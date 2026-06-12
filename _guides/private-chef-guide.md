@@ -208,9 +208,9 @@ Both Castleday Retreats and The Syd villas have full kitchens — confirm specif
 
 The private chef experience only works if you have the space for it. A cramped short-term rental with one counter and a two-burner stove limits what's possible. A well-equipped villa with a proper kitchen, indoor dining, and outdoor space creates a completely different experience.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens, large common and dining areas. The space is genuinely designed for hosting. Private pools make the pre-dinner hour easy. Bywater location means local chefs know the neighborhood and many have relationships with local purveyors.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens, large common and dining areas. The space is genuinely designed for hosting. Private pools make the pre-dinner hour easy. Bywater location means local chefs know the neighborhood and many have relationships with local purveyors.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. The outdoor kitchen setup makes outdoor grilling dinners especially good. Shared amenities — pool, hot tub, sauna — create an easy flow before and after the meal. The communal outdoor kitchen is a genuine asset for group dinners.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The outdoor kitchen setup makes outdoor grilling dinners especially good. Shared amenities — pool, hot tub, sauna — create an easy flow before and after the meal. The communal outdoor kitchen is a genuine asset for group dinners.
 
 Either property is well-suited for a private chef evening. When you book your villa, let the host know you're planning a chef dinner — they can advise on kitchen setup and sometimes have chef recommendations.
 
@@ -238,5 +238,5 @@ Either property is well-suited for a private chef evening. When you book your vi
 
 A private chef dinner needs the right space. Both of these properties are built for it:
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater villas, up to 30/villa, private pools, full kitchens
-- **[The Syd](https://thesyd.com)** — Lower Garden District villas, up to 22/villa, outdoor kitchen, pool, hot tub, sauna
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater villas, up to 30/villa, private pools, full kitchens
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District villas, up to 22/villa, outdoor kitchen, pool, hot tub, sauna

@@ -191,11 +191,11 @@ Access to great restaurants and bars, slightly removed from the chaos. Streetcar
 
 NYE is the single toughest weekend to find large-group accommodation in New Orleans. Every short-term rental platform spikes on December 30-31, and options for 15+ people are genuinely limited.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Book months in advance for the NYE window. The Bywater location is excellent for NYE — you're 10 minutes from Frenchmen Street and not in the middle of the French Quarter chaos. Private pools, full kitchens, multiple common areas.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Book months in advance for the NYE window. The Bywater location is excellent for NYE — you're 10 minutes from Frenchmen Street and not in the middle of the French Quarter chaos. Private pools, full kitchens, multiple common areas.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, and sauna. The hot tub on New Year's night is a perfect cap to the evening. One block from the St. Charles Streetcar.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, and sauna. The hot tub on New Year's night is a perfect cap to the evening. One block from the St. Charles Streetcar.
 
 Don't wait. Large group properties for NYE book up faster than any other date on the calendar.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30/villa
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22/villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30/villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22/villa

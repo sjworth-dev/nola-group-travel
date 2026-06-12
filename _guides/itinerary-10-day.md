@@ -329,7 +329,7 @@ A 10-day trip requires accommodation that's actually livable. You're not checkin
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com) has three private villas in the Bywater, each sleeping up to 30 guests. For a 10-day stay, the full kitchens are genuinely used (not just for warming things up), the private pools become part of the daily rhythm, and the art-filled interiors make it a place worth coming home to every afternoon.
+[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) has three private villas in the Bywater, each sleeping up to 30 guests. For a 10-day stay, the full kitchens are genuinely used (not just for warming things up), the private pools become part of the daily rhythm, and the art-filled interiors make it a place worth coming home to every afternoon.
 
 The Bywater location gives you quick access to Frenchmen Street music, Bacchanal Wine, and the Marigny—neighborhoods that you'll visit multiple times over ten days.
 
@@ -337,15 +337,15 @@ The Bywater location gives you quick access to Frenchmen Street music, Bacchanal
 - The Cocodrie: best outdoor and pool setup
 - The Florentine: most elegant interiors
 
-[Check Castleday availability →](https://castledayretreats.com)
+[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com) is in the Lower Garden District, one block from the St. Charles Streetcar line. Multiple villas up to 22 guests each, with artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen.
+[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) is in the Lower Garden District, one block from the St. Charles Streetcar line. Multiple villas up to 22 guests each, with artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen.
 
 For a 10-day stay, the St. Charles Streetcar access is a significant quality-of-life advantage—you can get to the French Quarter, Magazine Street, and Uptown without car logistics every single day. The outdoor kitchen means real group cooking nights. The sauna is the kind of thing you don't think you'll use until you're on Day 7 and your legs are tired.
 
-[Check The Syd availability →](https://thesyd.com)
+[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ---
 
@@ -375,9 +375,9 @@ A 10-day New Orleans trip with a large group is not about checking boxes. It's a
 
 Week one is the discovery phase. Week two—or the back half—is where you actually live here for a few days. That's the experience that people talk about differently than a long weekend. That's what you're building with this guide.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Bywater, 3 private villas up to 30 guests, full kitchens, private pools, art-filled interiors
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas up to 30 guests, full kitchens, private pools, art-filled interiors
 
-**[The Syd](https://thesyd.com)** — Lower Garden District, multiple villas up to 22 guests, pool, hot tub, sauna, outdoor kitchen, streetcar access
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas up to 22 guests, pool, hot tub, sauna, outdoor kitchen, streetcar access
 
-[Check Castleday availability →](https://castledayretreats.com)
-[Check The Syd availability →](https://thesyd.com)
+[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)

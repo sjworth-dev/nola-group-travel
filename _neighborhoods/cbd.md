@@ -62,9 +62,9 @@ You give up togetherness. Twenty people in 10 hotel rooms are just acquaintances
 
 For groups where the connection is the point — not just the event — the CBD hotel model falls short. For those groups:
 
-**[Castleday Retreats](https://castledayretreats.com)** in the Bywater (15 minutes from the CBD by car) offers private villas sleeping up to 30, with private pools, full kitchens, and the kind of shared space that creates actual bonding. If your group is here for a convention but you want the trip to feel like more than a work trip, this is worth considering — commute to convention center, retreat to the villa.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater (15 minutes from the CBD by car) offers private villas sleeping up to 30, with private pools, full kitchens, and the kind of shared space that creates actual bonding. If your group is here for a convention but you want the trip to feel like more than a work trip, this is worth considering — commute to convention center, retreat to the villa.
 
-**[The Syd](https://thesyd.com)** in the Lower Garden District is even closer — 10 minutes by Uber, and the St. Charles Streetcar gets you to Canal Street in about 20 minutes. Groups of up to 22 per villa, shared pool, hot tub, and sauna.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District is even closer — 10 minutes by Uber, and the St. Charles Streetcar gets you to Canal Street in about 20 minutes. Groups of up to 22 per villa, shared pool, hot tub, and sauna.
 
 ---
 
@@ -157,8 +157,8 @@ If that's not you — if you're here for New Orleans itself, not just an event i
 
 For groups that want more than a hotel experience:
 
-**[Castleday Retreats](https://castledayretreats.com)** — Private villas in Bywater, up to 30 guests each. Private pools. Art-filled interiors. 15 minutes from the CBD.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in Bywater, up to 30 guests each. Private pools. Art-filled interiors. 15 minutes from the CBD.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in Lower Garden District, up to 22 guests each. Shared pool, hot tub, sauna. 20 minutes from the CBD via streetcar.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in Lower Garden District, up to 22 guests each. Shared pool, hot tub, sauna. 20 minutes from the CBD via streetcar.
 
 Both options give your group a real home base. You attend your convention or game, then come back to something that feels like New Orleans — not just a branded hotel room.

@@ -204,9 +204,9 @@ Trivia works as an anchor in a larger evening structure. Here's how groups typic
 
 Private trivia and DIY trivia are both significantly better at a private villa than at a hotel. In a hotel, you're in a meeting room or a common area with sound bleeding in from other guests. At a villa, you own the space.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald's large common areas are specifically well-suited for group events — enough space to run four or five teams simultaneously, with room to spread out between rounds. The villas are large enough that a private trivia host can set up properly, run AV equipment, and move through the space without crowding anyone. After trivia ends, you're already home. Frenchmen Street is walkable if the group wants to continue out.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald's large common areas are specifically well-suited for group events — enough space to run four or five teams simultaneously, with room to spread out between rounds. The villas are large enough that a private trivia host can set up properly, run AV equipment, and move through the space without crowding anyone. After trivia ends, you're already home. Frenchmen Street is walkable if the group wants to continue out.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's indoor-outdoor layout — shared pool area, outdoor kitchen, indoor living spaces — gives a trivia night visual variety between rounds. A setup that uses the outdoor kitchen area for drinks and the indoor space for play is comfortable for groups of 15-20. The St. Charles Streetcar is one block away, giving easy access to uptown bars for the post-game debrief if the group wants to leave the villa.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's indoor-outdoor layout — shared pool area, outdoor kitchen, indoor living spaces — gives a trivia night visual variety between rounds. A setup that uses the outdoor kitchen area for drinks and the indoor space for play is comfortable for groups of 15-20. The St. Charles Streetcar is one block away, giving easy access to uptown bars for the post-game debrief if the group wants to leave the villa.
 
 Both properties are significantly better trivia venues than any hotel conference room or public bar where your group is competing with ambient noise and strangers.
 
@@ -214,5 +214,5 @@ Both properties are significantly better trivia venues than any hotel conference
 
 ## Plan Your Quiz Night
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, large common areas for private hosted events, walkable to Frenchmen Street for post-trivia bar time
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, indoor-outdoor layout, St. Charles Streetcar access for post-game outings
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, large common areas for private hosted events, walkable to Frenchmen Street for post-trivia bar time
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, indoor-outdoor layout, St. Charles Streetcar access for post-game outings

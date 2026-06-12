@@ -241,9 +241,9 @@ Getting 20 people to the same club, into the same section, at the same time, is 
 
 The most overlooked factor in nightclub group trips isn't the club — it's where you go after. Nightclubs end. The group is awake. Everyone's somewhere between energized and tired. Having a private villa means the after-party is automatic: you walk in, the pool is there, the kitchen is stocked, and whoever's still going can keep going on your terms.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private outdoor space — pools, covered areas, and room for a group to decompress after a night out. The Bywater location is close to Frenchmen Street, which makes the after-club transition seamless: leave the venue, walk to Frenchmen, absorb one final set, then back to the villa. Castleday hosts also have relationships with local promoters and can help with VIP and guest list logistics for groups.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private outdoor space — pools, covered areas, and room for a group to decompress after a night out. The Bywater location is close to Frenchmen Street, which makes the after-club transition seamless: leave the venue, walk to Frenchmen, absorb one final set, then back to the villa. Castleday hosts also have relationships with local promoters and can help with VIP and guest list logistics for groups.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool, hot tub, and sauna are specifically valuable as post-club recovery infrastructure. The streetcar is one block away — accessible from anywhere downtown and a reasonable option for groups who want to avoid Uber surge after a club night. The Syd's location also puts you within reach of the CBD club district without a long return trip.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool, hot tub, and sauna are specifically valuable as post-club recovery infrastructure. The streetcar is one block away — accessible from anywhere downtown and a reasonable option for groups who want to avoid Uber surge after a club night. The Syd's location also puts you within reach of the CBD club district without a long return trip.
 
 Both properties are significantly better after-club options than 30 people trying to figure out late-night logistics from a hotel block.
 
@@ -251,5 +251,5 @@ Both properties are significantly better after-club options than 30 people tryin
 
 ## Plan Your Night Out
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street walkable, local connections for club and guest list logistics
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, shared pool and hot tub, St. Charles Streetcar access, CBD club district proximity
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street walkable, local connections for club and guest list logistics
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, shared pool and hot tub, St. Charles Streetcar access, CBD club district proximity

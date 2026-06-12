@@ -209,13 +209,13 @@ The heat is the main variable. From June through September, outdoor activities i
 
 For active groups, your home base matters. A villa with a private pool is the logical recovery space between morning activities and evening plans — it converts the afternoon downtime into something rather than nothing.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Cocodrie villa has the best outdoor space — multiple outdoor zones, pool, designed for groups who spend real time outside. The Bywater location puts you close to Bayou St. John for kayaking and City Park for cycling and the sculpture garden.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Cocodrie villa has the best outdoor space — multiple outdoor zones, pool, designed for groups who spend real time outside. The Bywater location puts you close to Bayou St. John for kayaking and City Park for cycling and the sculpture garden.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen — a full outdoor complex for recovery and socializing. One block from the St. Charles Streetcar, which runs to Audubon Park, the zoo, and Uptown golf. The artist-designed spaces are unusually good for groups who want a genuinely nice home base.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen — a full outdoor complex for recovery and socializing. One block from the St. Charles Streetcar, which runs to Audubon Park, the zoo, and Uptown golf. The artist-designed spaces are unusually good for groups who want a genuinely nice home base.
 
 ---
 
 ## Book Your Active NOLA Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private pools, up to 30 guests per villa, outdoor space built for groups
-- [The Syd](https://thesyd.com) — Lower Garden District, shared pool and hot tub, up to 22 guests, streetcar to the park
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, up to 30 guests per villa, outdoor space built for groups
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, shared pool and hot tub, up to 22 guests, streetcar to the park

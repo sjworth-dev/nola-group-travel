@@ -180,9 +180,9 @@ A few things worth stating directly:
 
 Tremé doesn't have large-group accommodation within its borders, but its closest neighbors do.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. From the Bywater, Tremé is a short rideshare or a walkable stretch through the Marigny. This is the natural home base for groups who want to spend serious time in the city's historically significant neighborhoods: Bywater, Marigny, and Tremé form a connected geography that rewards deep exploration. Private pools and full kitchens make the Bywater villa the right base for a culturally focused trip.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. From the Bywater, Tremé is a short rideshare or a walkable stretch through the Marigny. This is the natural home base for groups who want to spend serious time in the city's historically significant neighborhoods: Bywater, Marigny, and Tremé form a connected geography that rewards deep exploration. Private pools and full kitchens make the Bywater villa the right base for a culturally focused trip.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. The St. Charles Streetcar connects Lower Garden District to the CBD quickly, and from there Tremé is a short walk or rideshare. If your group's trip is anchored in Uptown activities but wants to include Tremé on a day visit, this works cleanly. Shared heated pool, hot tub, and sauna for after your neighborhood walks.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. The St. Charles Streetcar connects Lower Garden District to the CBD quickly, and from there Tremé is a short walk or rideshare. If your group's trip is anchored in Uptown activities but wants to include Tremé on a day visit, this works cleanly. Shared heated pool, hot tub, and sauna for after your neighborhood walks.
 
 ---
 
@@ -192,5 +192,5 @@ Most visitors spend their entire New Orleans trip in the French Quarter and the 
 
 That's worth 3 hours of your trip.
 
-- [Castleday Retreats](https://castledayretreats.com) – Bywater, private villas, up to 30/villa
-- [The Syd](https://thesyd.com) – Lower Garden District, streetcar access, up to 22/villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Bywater, private villas, up to 30/villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Lower Garden District, streetcar access, up to 22/villa

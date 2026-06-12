@@ -170,13 +170,13 @@ Mid-City doesn't have a streetcar line. Rideshare is the most practical option f
 
 Mid-City doesn't have large-group rental inventory. Base yourself nearby.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. About 20-25 minutes from Mid-City by rideshare. Private pools, full kitchens, art throughout. The go-to for groups that need complete privacy and their own outdoor space.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. About 20-25 minutes from Mid-City by rideshare. Private pools, full kitchens, art throughout. The go-to for groups that need complete privacy and their own outdoor space.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. About 15-20 minutes from Mid-City. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The right choice for groups who want a central location with easy access to multiple neighborhoods.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. About 15-20 minutes from Mid-City. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The right choice for groups who want a central location with easy access to multiple neighborhoods.
 
 Both properties let your group stay in one place — a real house with full kitchen, common areas, and outdoor space — while being within easy rideshare distance of Mid-City.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa, private pools
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa, streetcar access, outdoor kitchen
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, streetcar access, outdoor kitchen

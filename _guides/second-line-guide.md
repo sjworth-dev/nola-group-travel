@@ -223,9 +223,9 @@ This is the best possible use of a Sunday in New Orleans if your timing works ou
 
 For groups doing a private second line, your accommodation's starting location matters. Most brass bands can meet you at your rental and begin the parade from there — which is a spectacular way to open a corporate retreat, a wedding weekend, or a milestone birthday trip.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. The Bywater location is ideal for second lines: you're deep in the neighborhood where this tradition lives. Hiring a band to kick off from your villa and move through the Bywater and Marigny is a legitimate once-in-a-lifetime experience for a group. Private pools and full common areas mean the party continues after the parade.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The Bywater location is ideal for second lines: you're deep in the neighborhood where this tradition lives. Hiring a band to kick off from your villa and move through the Bywater and Marigny is a legitimate once-in-a-lifetime experience for a group. Private pools and full common areas mean the party continues after the parade.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Easy streetcar access means you can get to any starting neighborhood efficiently. If you're hiring a private band, Lower Garden District makes a natural starting point for a parade through Uptown streets.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Easy streetcar access means you can get to any starting neighborhood efficiently. If you're hiring a private band, Lower Garden District makes a natural starting point for a parade through Uptown streets.
 
 ---
 
@@ -235,5 +235,5 @@ A second line — public or private — belongs on every group itinerary. It is 
 
 For accommodations that put your group in the heart of the culture:
 
-- [Castleday Retreats](https://castledayretreats.com) – Bywater, private villas, up to 30/villa
-- [The Syd](https://thesyd.com) – Lower Garden District, multiple villas, up to 22/villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Bywater, private villas, up to 30/villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Lower Garden District, multiple villas, up to 22/villa

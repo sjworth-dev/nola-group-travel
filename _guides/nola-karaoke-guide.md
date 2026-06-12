@@ -170,13 +170,13 @@ A private room that holds 20 people has different energy than a room that holds 
 
 The best karaoke nights for large groups start and end at a private villa — somewhere to pre-game, somewhere to change, and somewhere to decompress after.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). A short Uber from the French Quarter and downtown venues. The villa is where your group prepares for the karaoke night — gets dressed, has a drink, establishes the playlist — and where you return after. Private pools for the next day's recovery. Castleday hosts can help point you toward private room venues that handle groups of your size.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). A short Uber from the French Quarter and downtown venues. The villa is where your group prepares for the karaoke night — gets dressed, has a drink, establishes the playlist — and where you return after. Private pools for the next day's recovery. Castleday hosts can help point you toward private room venues that handle groups of your size.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's location on the St. Charles Streetcar line and its shared outdoor space make it a flexible base for evenings that start at the villa and end anywhere in the city. The outdoor kitchen and pool area are naturally suited for pre-karaoke gatherings before the group heads out.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's location on the St. Charles Streetcar line and its shared outdoor space make it a flexible base for evenings that start at the villa and end anywhere in the city. The outdoor kitchen and pool area are naturally suited for pre-karaoke gatherings before the group heads out.
 
 ---
 
 ## Plan Your Night
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street and French Quarter accessible
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, streetcar access to the whole city, outdoor kitchen for pre-event gatherings
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street and French Quarter accessible
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, streetcar access to the whole city, outdoor kitchen for pre-event gatherings

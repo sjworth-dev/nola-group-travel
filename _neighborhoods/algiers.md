@@ -153,9 +153,9 @@ Algiers Point is not a base for a group trip — there are no large private vill
 
 For groups wanting to explore all of New Orleans including the West Bank crossing:
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you well-positioned for a Algiers Point excursion: close to the river, close to the French Quarter ferry terminal (a short Uber or bike ride), and close to Frenchmen Street for the evening. Private pools, full kitchens, complete privacy.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you well-positioned for a Algiers Point excursion: close to the river, close to the French Quarter ferry terminal (a short Uber or bike ride), and close to Frenchmen Street for the evening. Private pools, full kitchens, complete privacy.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. The Canal Street Streetcar line connects easily to the ferry terminal. The Syd's location in the Lower Garden District puts you near the streetcar lines that serve the entire East Bank, and the cross-river excursion fits naturally into a day that might also include Magazine Street, the Garden District, or Uptown.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. The Canal Street Streetcar line connects easily to the ferry terminal. The Syd's location in the Lower Garden District puts you near the streetcar lines that serve the entire East Bank, and the cross-river excursion fits naturally into a day that might also include Magazine Street, the Garden District, or Uptown.
 
 ---
 
@@ -163,5 +163,5 @@ For groups wanting to explore all of New Orleans including the West Bank crossin
 
 Algiers Point fits best into group trips that already have the French Quarter, Marigny, and main neighborhoods covered and are looking for something different on one of their days. It's the kind of thing you remember and recommend — the crossing that most visitors don't make.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 guests per villa, private pools, short ride to the ferry terminal
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, streetcar access to Canal Street and the ferry landing
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa, private pools, short ride to the ferry terminal
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, streetcar access to Canal Street and the ferry landing

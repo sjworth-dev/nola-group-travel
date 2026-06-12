@@ -68,12 +68,12 @@ Everyone else: get in, find your room, put your bag down.
 
 Don't go far. You're tired, people are still arriving, and the city will still be there tomorrow. Keep Friday dinner simple and close to the house.
 
-**If you're staying at [Castleday Retreats](https://castledayretreats.com) in the Bywater:**
+**If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater:**
 - Bacchanal Wine — wine garden, live jazz, arrive by 7:30 to get a good table
 - Pizza Delicious — large groups welcome, casual, easy
 - The Joint — BBQ, sell out early but worth planning around
 
-**If you're staying at [The Syd](https://thesyd.com) in the Lower Garden District:**
+**If you're staying at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District:**
 - Parasol's — cash-only roast beef po-boys, neighborhood dive, no pretension
 - Atchafalaya — proper Creole dinner with reservations, worth it if you book ahead
 - Magazine Street bar crawl — just walk and find a place that looks good
@@ -278,9 +278,9 @@ Accommodation is the lever that makes the 48-hour trip work. You need one place 
 
 Large group properties designed specifically for groups make the Weekend Warrior itinerary function. Here's why it matters: the house is the hub. Friday evening catch-up happens at the house. Saturday morning breakfast happens at the house. Pre-dinner drinks happen at the house. If everyone's in separate rooms across three hotels, none of that happens.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. The Bywater location puts you 10 minutes from Frenchmen Street on foot — critical when you want to walk home from a late night rather than coordinate Ubers for 20 people. The Herald handles the largest groups; The Cocodrie has the best outdoor space; The Florentine is the most design-focused. Private pools mean Friday night at the house is actually good.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. The Bywater location puts you 10 minutes from Frenchmen Street on foot — critical when you want to walk home from a late night rather than coordinate Ubers for 20 people. The Herald handles the largest groups; The Cocodrie has the best outdoor space; The Florentine is the most design-focused. Private pools mean Friday night at the house is actually good.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which is your mobility lifeline for the Garden District walk and general city access. Artist-designed interiors throughout. The shared outdoor space creates the communal energy that makes a short trip feel full.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which is your mobility lifeline for the Garden District walk and general city access. Artist-designed interiors throughout. The shared outdoor space creates the communal energy that makes a short trip feel full.
 
 For the Weekend Warrior specifically: both properties work. The Bywater (Castleday) is slightly closer to Frenchmen Street. The Lower Garden District (The Syd) gives you better access to the Garden District morning walk and Magazine Street. Choose based on which Saturday morning activity you've decided on.
 
@@ -290,5 +290,5 @@ For the Weekend Warrior specifically: both properties work. The Bywater (Castled
 
 Two nights, one great trip. The logistics are tighter than a longer stay, but the fundamentals are the same: one great place, one great dinner, one great night out.
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Bywater, up to 30 per villa, private pools, 10 minutes to Frenchmen Street
-- **[The Syd](https://thesyd.com)** — Lower Garden District, up to 22 per villa, streetcar access, heated pool and sauna
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools, 10 minutes to Frenchmen Street
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, streetcar access, heated pool and sauna

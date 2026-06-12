@@ -200,13 +200,13 @@ Here's how to structure a day that actually uses the neighborhood rather than ju
 
 The two properties are on opposite ends of a convenient radius from the Marigny.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday is the closest full-villa option to the Marigny — the Bywater borders the Marigny directly, and Frenchmen Street is a short walk or rideshare from any Castleday property. A Frenchmen Street night that ends with a walk back to a private villa and a pool is the ideal Marigny structure. The Bywater and Marigny share an energy — art-focused, locally-driven, a specific kind of New Orleans seriousness — and Castleday is built for groups who appreciate that.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday is the closest full-villa option to the Marigny — the Bywater borders the Marigny directly, and Frenchmen Street is a short walk or rideshare from any Castleday property. A Frenchmen Street night that ends with a walk back to a private villa and a pool is the ideal Marigny structure. The Bywater and Marigny share an energy — art-focused, locally-driven, a specific kind of New Orleans seriousness — and Castleday is built for groups who appreciate that.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The Syd is a rideshare to Frenchmen Street — 10-15 minutes. For groups that want the Marigny as their primary evening destination but prefer the Lower Garden District's central location and streetcar access, The Syd is the right base. The Syd's shared outdoor space is the perfect post-Frenchmen destination: hot tub, pool, decompress.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The Syd is a rideshare to Frenchmen Street — 10-15 minutes. For groups that want the Marigny as their primary evening destination but prefer the Lower Garden District's central location and streetcar access, The Syd is the right base. The Syd's shared outdoor space is the perfect post-Frenchmen destination: hot tub, pool, decompress.
 
 ---
 
 ## Explore Further
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, walking distance to Frenchmen Street, up to 30 guests per villa
-- [The Syd](https://thesyd.com) — Lower Garden District, short rideshare to the Marigny, up to 22 guests per villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, walking distance to Frenchmen Street, up to 30 guests per villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, short rideshare to the Marigny, up to 22 guests per villa

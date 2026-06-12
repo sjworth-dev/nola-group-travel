@@ -76,8 +76,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - Never delete existing pages or rewrite existing Castleday/Syd CTAs (only add new ones)
 - One commit, one focused change per run
 - No page under 400 words
-- Castleday URL is always exactly `https://castledayretreats.com`
-- The Syd URL is always exactly `https://thesyd.com`
+- Castleday links: base URL `https://castledayretreats.com`, ALWAYS with tracking params appended: `?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites`. Optional deep pages that exist (verified Jun 2026 — never use other paths): `/bachelorette-parties`, `/bachelor-parties`, `/corporate-retreats`, `/wedding-groups`, `/family-vacations`, `/milestone-birthdays`, `/friend-trips`, `/wellness-retreats`, `/occasions`, `/accommodations`, `/buyoutcastleday`. Append the same utm params after the path.
+- The Syd links: always exactly `https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites`
+- Real property photos live in `/assets/images/` (castleday-aerial, castleday-villa, castleday-pool, castleday-loungers, castleday-court, castleday-lawn, syd-courtyard = aerial umbrella pool, syd-pool = mural/cabana pool). Use them in pages with standard markdown image syntax where editorially fitting; never hotlink external images.
+- Verified Castleday facts you may cite: 12 bedrooms / 17 real beds / 8 baths per villa, 14-30 guests per villa, ~90 across all three, The Florentine is ADA-accessible, 4.98 avg rating across 99 reviews. Pitch the ~16-person organizer ("everyone gets a real bed"); never lead with "sleeps 30."
 - If `## Up Next` is empty or all items are blocked, generate 5 new on-strategy backlog items before picking one
 
 ---
@@ -430,3 +432,4 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
 2026-06-07 11:00 UTC — content: add _guides/nola-jazz-second-line-bookings.md — how to hire a brass band or book a private second line: costs, lead times, permits, what's included, and what the experience looks like
+2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).

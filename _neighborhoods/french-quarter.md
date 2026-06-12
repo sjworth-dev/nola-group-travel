@@ -123,9 +123,9 @@ Walk to Frenchmen Street. Or go to the Marigny or Bywater, where the bars are ch
 
 The Quarter is easy to reach from anywhere in the city. If you're staying at either of the large-group properties near the Quarter, you're in good shape.
 
-**From [Castleday Retreats](https://castledayretreats.com) in the Bywater:** The Bywater borders the Marigny, which borders the Quarter. About 15-20 minutes on foot along the river road or St. Claude Avenue. One of the great walks in the city. Short Uber if you don't want to walk.
+**From [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater:** The Bywater borders the Marigny, which borders the Quarter. About 15-20 minutes on foot along the river road or St. Claude Avenue. One of the great walks in the city. Short Uber if you don't want to walk.
 
-**From [The Syd](https://thesyd.com) in the Lower Garden District:** Take the St. Charles Streetcar toward Canal Street, get off at Canal, walk one block. Or Uber in about 10 minutes. Easy either way.
+**From [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District:** Take the St. Charles Streetcar toward Canal Street, get off at Canal, walk one block. Or Uber in about 10 minutes. Easy either way.
 
 ## For Large Groups
 
@@ -133,9 +133,9 @@ Here's the honest answer about the French Quarter and large groups: **don't try 
 
 The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. You're 15-20 minutes from the Quarter on foot, 5 minutes by Uber. The Bywater is also walking distance to Frenchmen Street, which is better than Bourbon Street anyway.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. You're 15-20 minutes from the Quarter on foot, 5 minutes by Uber. The Bywater is also walking distance to Frenchmen Street, which is better than Bourbon Street anyway.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors. One block from the St. Charles Streetcar, which takes you to Canal Street in 10 minutes.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors. One block from the St. Charles Streetcar, which takes you to Canal Street in 10 minutes.
 
 Both options give you a real home base—a place where 15-30 people can actually gather, relax, eat meals together, and decompress—while keeping you close enough to the Quarter for the experiences that are worth it.
 
@@ -174,5 +174,5 @@ The pattern is clear. The Quarter is where you go. The Bywater and Lower Garden 
 
 For large groups visiting the French Quarter:
 
-- **[Castleday Retreats](https://castledayretreats.com)** — Private villas in the Bywater, up to 30 guests each, 15 minutes from the Quarter on foot
-- **[The Syd](https://thesyd.com)** — Art-designed villas in the Lower Garden District, up to 22 guests each, 10 minutes from the Quarter by streetcar
+- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in the Bywater, up to 30 guests each, 15 minutes from the Quarter on foot
+- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Art-designed villas in the Lower Garden District, up to 22 guests each, 10 minutes from the Quarter by streetcar

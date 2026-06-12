@@ -199,7 +199,7 @@ A multigenerational family reunion needs one home base, not a hotel block. Scatt
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com) has three private villas in the Bywater, each sleeping up to 30 guests. The full kitchens let you handle breakfast without restaurant logistics for large multigenerational groups. The private pools are huge wins for families with kids. The common areas are large enough for everyone to be together without feeling crowded.
+[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) has three private villas in the Bywater, each sleeping up to 30 guests. The full kitchens let you handle breakfast without restaurant logistics for large multigenerational groups. The private pools are huge wins for families with kids. The common areas are large enough for everyone to be together without feeling crowded.
 
 For a reunion of 30 to 90 people, two or three villas on the same block is a workable configuration. Each sub-family gets their own villa. The whole group shares the neighborhood.
 
@@ -209,15 +209,15 @@ For a reunion of 30 to 90 people, two or three villas on the same block is a wor
 - Common space large enough for real family dinner
 - Kitchen for easy breakfasts and snack-stocking
 
-[Check Castleday availability →](https://castledayretreats.com)
+[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com) offers multiple villas up to 22 guests each in the Lower Garden District, with artist-designed interiors, a shared heated pool, hot tub, outdoor kitchen, and sauna. The Lower Garden District location is more central—closer to the Garden District walking tours, Magazine Street, and the St. Charles Streetcar.
+[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) offers multiple villas up to 22 guests each in the Lower Garden District, with artist-designed interiors, a shared heated pool, hot tub, outdoor kitchen, and sauna. The Lower Garden District location is more central—closer to the Garden District walking tours, Magazine Street, and the St. Charles Streetcar.
 
 For multigenerational groups, the outdoor kitchen is a real advantage: grill nights, communal breakfasts, and the kind of gathering that doesn't require everyone to be in a restaurant.
 
-[Check The Syd availability →](https://thesyd.com)
+[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
 
 ---
 
@@ -279,9 +279,9 @@ The reunion will be remembered by whether people actually felt together—not wh
 
 Book accommodations that keep the group in one place. Plan activities that include everyone at least once a day. Let the rest be flexible.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Bywater, 3 villas up to 30 guests, private pools, full kitchens, completely private
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 villas up to 30 guests, private pools, full kitchens, completely private
 
-**[The Syd](https://thesyd.com)** — Lower Garden District, multiple villas up to 22 guests, shared pool, hot tub, outdoor kitchen, sauna
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas up to 22 guests, shared pool, hot tub, outdoor kitchen, sauna
 
-[Check Castleday availability →](https://castledayretreats.com)
-[Check The Syd availability →](https://thesyd.com)
+[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)

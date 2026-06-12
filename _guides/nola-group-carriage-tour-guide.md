@@ -187,13 +187,13 @@ The carriage tour covers less ground than a bike tour and delivers less historic
 
 Groups taking carriage tours out of the French Quarter need a convenient base for before and after. Both the Bywater and the Lower Garden District are within a short Uber of the Quarter's Jackson Square departure points.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is a 10-15 minute Uber from Jackson Square, making Castleday a practical base for groups building arrival-day itineraries around the French Quarter carriage tour. The Herald, The Cocodrie, and The Florentine each have enough space for a full group to assemble and depart without the chaos of a hotel lobby coordination. Castleday villa hosts know the local carriage operators and can assist with multi-carriage booking logistics.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is a 10-15 minute Uber from Jackson Square, making Castleday a practical base for groups building arrival-day itineraries around the French Quarter carriage tour. The Herald, The Cocodrie, and The Florentine each have enough space for a full group to assemble and depart without the chaos of a hotel lobby coordination. Castleday villa hosts know the local carriage operators and can assist with multi-carriage booking logistics.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd is one block from the St. Charles Streetcar, which connects to Canal Street and the French Quarter edge without requiring a multi-Uber operation for 20 people. Groups at The Syd heading to an afternoon carriage tour can take the streetcar to Canal, walk three blocks to Jackson Square, and meet their carriages — a simple transit structure that keeps the group together from the start.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd is one block from the St. Charles Streetcar, which connects to Canal Street and the French Quarter edge without requiring a multi-Uber operation for 20 people. Groups at The Syd heading to an afternoon carriage tour can take the streetcar to Canal, walk three blocks to Jackson Square, and meet their carriages — a simple transit structure that keeps the group together from the start.
 
 ---
 
 ## Book Your Carriage Tour
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater villas, up to 30 guests per villa, short Uber from Jackson Square carriage departures, villa hosts with local operator connections
-- [The Syd](https://thesyd.com) — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar to the French Quarter
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, short Uber from Jackson Square carriage departures, villa hosts with local operator connections
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar to the French Quarter

@@ -150,9 +150,9 @@ This gives you 6-8 hours of structured activity without feeling rushed, and inco
 
 The Irish Channel itself doesn't have large-group private rentals in the same density as nearby neighborhoods. The best bases for groups who want Irish Channel access are:
 
-**[The Syd](https://thesyd.com)** — Lower Garden District, one stop up Magazine Street from the Irish Channel. Multiple villas sleeping up to 22, shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar. This is the closest large-group rental base to the Irish Channel, and the Magazine Street walk between the neighborhoods is part of the experience.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, one stop up Magazine Street from the Irish Channel. Multiple villas sleeping up to 22, shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar. This is the closest large-group rental base to the Irish Channel, and the Magazine Street walk between the neighborhoods is part of the experience.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Bywater neighborhood, about 10-15 minutes by Uber from the Irish Channel. Three private villas sleeping up to 30 each, private pools. Better base for groups prioritizing Bywater, Frenchmen Street, and the eastern neighborhoods, with the Irish Channel as a half-day excursion.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater neighborhood, about 10-15 minutes by Uber from the Irish Channel. Three private villas sleeping up to 30 each, private pools. Better base for groups prioritizing Bywater, Frenchmen Street, and the eastern neighborhoods, with the Irish Channel as a half-day excursion.
 
 Both properties give your group a real home base in New Orleans — not scattered hotel rooms, but one place where you can debrief, cook, pool, and actually be together between excursions.
 
@@ -164,5 +164,5 @@ For most groups: spend a half-day in the Irish Channel on your second or third d
 
 For groups here specifically for St. Patrick's Day: this is your neighborhood. Get here early, claim your parade spot, and plan for a full day on Magazine Street.
 
-- [The Syd](https://thesyd.com) — Lower Garden District, closest to the Irish Channel, up to 22/villa
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private pools, up to 30/villa
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, closest to the Irish Channel, up to 22/villa
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, up to 30/villa

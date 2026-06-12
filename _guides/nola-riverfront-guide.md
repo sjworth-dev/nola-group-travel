@@ -174,13 +174,13 @@ The riverfront is perfectly positioned to combine with adjacent neighborhoods.
 
 Both Castleday and The Syd put you within an easy rideshare of the riverfront. Neither requires long transit.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday's Bywater location is slightly closer to the downriver end of the French Quarter and the Marigny, making Frenchmen Street and the riverfront adjacent areas natural evening extensions after a day spent near the water. The private pool at Castleday is the afternoon recovery after a morning of walking the levee.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday's Bywater location is slightly closer to the downriver end of the French Quarter and the Marigny, making Frenchmen Street and the riverfront adjacent areas natural evening extensions after a day spent near the water. The private pool at Castleday is the afternoon recovery after a morning of walking the levee.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The Syd's streetcar access gives you an option for getting to and from the riverfront without rideshares — board at the foot of St. Charles and ride toward Canal Street. The shared outdoor space at The Syd is the return-home destination after a full riverfront morning.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The Syd's streetcar access gives you an option for getting to and from the riverfront without rideshares — board at the foot of St. Charles and ride toward Canal Street. The shared outdoor space at The Syd is the return-home destination after a full riverfront morning.
 
 ---
 
 ## Plan Your Riverfront Day
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 guests per villa, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, shared pool, streetcar access
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool, streetcar access

@@ -205,9 +205,9 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 Late October is one of the best weekends to be in New Orleans, which means accommodation pressure is real. Large private rentals in good neighborhoods book up well in advance.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Bywater puts you walking distance from Frenchmen Street — your primary bar crawl destination. The house becomes your costume staging area, your pre-crawl gathering space, and your post-midnight recovery zone. The Herald has the largest common areas for a group getting into costume together; The Cocodrie has the best outdoor space if the October weather is cooperating.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Bywater puts you walking distance from Frenchmen Street — your primary bar crawl destination. The house becomes your costume staging area, your pre-crawl gathering space, and your post-midnight recovery zone. The Herald has the largest common areas for a group getting into costume together; The Cocodrie has the best outdoor space if the October weather is cooperating.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. Shared heated pool, hot tub, sauna, outdoor kitchen. The artist-designed rooms have a quality that makes them a great backdrop for pre-crawl photos. The Lower Garden District location is convenient for the Krewe of Boo parade route and good dinner options nearby.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. Shared heated pool, hot tub, sauna, outdoor kitchen. The artist-designed rooms have a quality that makes them a great backdrop for pre-crawl photos. The Lower Garden District location is convenient for the Krewe of Boo parade route and good dinner options nearby.
 
 For Halloween specifically: if Frenchmen Street is your primary crawl zone, Castleday's Bywater location is the better walk home. If you're going deep on the French Quarter, either property works equally well with an Uber.
 
@@ -215,5 +215,5 @@ For Halloween specifically: if Frenchmen Street is your primary crawl zone, Cast
 
 ## Book Your Halloween Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, shared pool and hot tub, streetcar access
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and hot tub, streetcar access

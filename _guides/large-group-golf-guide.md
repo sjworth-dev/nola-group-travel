@@ -207,9 +207,9 @@ The sweet spot for a golf-centered group trip is October through May. If your tr
 
 The post-round home base is where the golf trip lives between the tee box and the bar. You want a pool, a kitchen for breakfast prep, and enough space that 16–20 people aren't on top of each other.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. The Cocodrie has the best outdoor setup — pool, outdoor seating, the kind of space where post-round beers turn into a full evening. The Herald has the largest common areas for a group that wants to spread out and debrief. For a large golf group that wants to cook breakfast before the round and come back to a real space after, Castleday is purpose-built for this.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. The Cocodrie has the best outdoor setup — pool, outdoor seating, the kind of space where post-round beers turn into a full evening. The Herald has the largest common areas for a group that wants to spread out and debrief. For a large golf group that wants to cook breakfast before the round and come back to a real space after, Castleday is purpose-built for this.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which means easy access to Audubon if you want to skip Ubers. The shared amenities make The Syd feel more like a resort compound than a rental — good for groups where the social gathering is as important as the round itself.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which means easy access to Audubon if you want to skip Ubers. The shared amenities make The Syd feel more like a resort compound than a rental — good for groups where the social gathering is as important as the round itself.
 
 Both are better than scattered hotel rooms in every respect that matters for a golf group: there's a kitchen for early breakfast, a pool for the afternoon, and one central place to gather that doesn't require tipping a bartender.
 
@@ -217,5 +217,5 @@ Both are better than scattered hotel rooms in every respect that matters for a g
 
 ## Plan Your Golf Trip
 
-- [Castleday Retreats](https://castledayretreats.com) — Private villas in the Bywater, up to 30 guests, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, shared pool and hot tub
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Private villas in the Bywater, up to 30 guests, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and hot tub

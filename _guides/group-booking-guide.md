@@ -268,9 +268,9 @@ Booking the right place is the foundation that makes all other logistics easier.
 
 For groups of 10-30 in New Orleans, two options rise above everything else:
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. Private pools, full kitchens, completely private compounds. The Herald, The Cocodrie, and The Florentine all have the space to handle your full group without crowding. Having one address for everyone, one kitchen, one pool deck — it simplifies everything else you're trying to coordinate.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. Private pools, full kitchens, completely private compounds. The Herald, The Cocodrie, and The Florentine all have the space to handle your full group without crowding. Having one address for everyone, one kitchen, one pool deck — it simplifies everything else you're trying to coordinate.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen, and rooms designed by local artists. One block from the St. Charles Streetcar, which takes you downtown without touching a rideshare app. For groups attending events at the Superdome or convention center, this location is tough to beat.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen, and rooms designed by local artists. One block from the St. Charles Streetcar, which takes you downtown without touching a rideshare app. For groups attending events at the Superdome or convention center, this location is tough to beat.
 
 Book your accommodations before you start any other coordination. The address is the anchor that makes every other decision possible.
 
@@ -287,5 +287,5 @@ Once the accommodations are locked:
 
 The hardest part of large group booking is managing the humans, not the logistics. Get the structure right and the rest follows.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 per villa, private pools
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 per villa, shared pool and hot tub
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 per villa, private pools
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 per villa, shared pool and hot tub

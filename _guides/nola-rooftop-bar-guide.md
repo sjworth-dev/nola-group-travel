@@ -176,13 +176,13 @@ This is the correct sequence. The rooftop is the aperitivo act — it builds ant
 
 The CBD and Warehouse District have the most elevated bar options — both are easy reaches from either property.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, local art throughout. The Bywater is a short rideshare from both the CBD and French Quarter elevated venues. Castleday's private pool deck is itself an excellent outdoor evening option — the kind of group outdoor space that competes favorably with any hotel rooftop. Pre-gaming on a private pool deck before a CBD rooftop sunset stop is a legitimate alternative to the full outing.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, local art throughout. The Bywater is a short rideshare from both the CBD and French Quarter elevated venues. Castleday's private pool deck is itself an excellent outdoor evening option — the kind of group outdoor space that competes favorably with any hotel rooftop. Pre-gaming on a private pool deck before a CBD rooftop sunset stop is a legitimate alternative to the full outing.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Syd is closer to the CBD and Warehouse District than Castleday — the elevated bar zone is a short rideshare. The Syd's own outdoor area (shared pool deck, sauna, outdoor kitchen) can easily serve as the elevated-evening anchor, with the rooftop bar as a secondary stop.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Syd is closer to the CBD and Warehouse District than Castleday — the elevated bar zone is a short rideshare. The Syd's own outdoor area (shared pool deck, sauna, outdoor kitchen) can easily serve as the elevated-evening anchor, with the rooftop bar as a secondary stop.
 
 ---
 
 ## Plan Your Elevated Evening
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, up to 30 guests per villa, private pool decks
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, shared pool, hot tub, outdoor kitchen
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa, private pool decks
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool, hot tub, outdoor kitchen

@@ -208,9 +208,9 @@ Be honest about this:
 
 Corporate retreats need a venue that works as both a gathering space and a home base. Scattered hotel rooms fragment the group; a shared villa keeps everyone together and eliminates hotel logistics overhead.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald's large common areas handle plenary sessions and catered dinners for a full corporate group. The Cocodrie's outdoor space is built for a post-session decompression. Private pools, full kitchens, and the kind of art-filled interiors that put people in a different headspace than a conference room. Completely private — no hotel lobby, no strangers, no interruptions.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald's large common areas handle plenary sessions and catered dinners for a full corporate group. The Cocodrie's outdoor space is built for a post-session decompression. Private pools, full kitchens, and the kind of art-filled interiors that put people in a different headspace than a conference room. Completely private — no hotel lobby, no strangers, no interruptions.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which means the whole city is accessible without constant Ubers. The outdoor kitchen and shared spaces handle group catering naturally. The artist-designed interiors are the kind of environment that produces creative thinking.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which means the whole city is accessible without constant Ubers. The outdoor kitchen and shared spaces handle group catering naturally. The artist-designed interiors are the kind of environment that produces creative thinking.
 
 For corporate groups of 20+: consider booking across multiple villas at the same property to keep the group together while giving people their own space.
 
@@ -218,5 +218,5 @@ For corporate groups of 20+: consider booking across multiple villas at the same
 
 ## Book Your Corporate Retreat
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas up to 30 guests, ideal for corporate groups needing working space and privacy
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests per villa, shared outdoor spaces, streetcar access to the city
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, ideal for corporate groups needing working space and privacy
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared outdoor spaces, streetcar access to the city

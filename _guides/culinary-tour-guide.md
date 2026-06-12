@@ -241,9 +241,9 @@ If your group prefers a guided experience to the DIY version, New Orleans has ex
 
 The most culinary-rich neighborhoods in New Orleans are walkable to each other, which means your home base matters for how much you walk versus Uber between stops.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you within walking distance of Bacchanal Wine and some of the best neighborhood eating in the city. The full kitchens in The Herald, The Cocodrie, and The Florentine mean private chef dinners and breakfast-at-the-house mornings are easy — you're not dependent on restaurants for every meal. The Bywater is also the right neighborhood to end a culinary day: a bottle of wine from Bacchanal on the porch beats the French Quarter tourist bar crawl.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you within walking distance of Bacchanal Wine and some of the best neighborhood eating in the city. The full kitchens in The Herald, The Cocodrie, and The Florentine mean private chef dinners and breakfast-at-the-house mornings are easy — you're not dependent on restaurants for every meal. The Bywater is also the right neighborhood to end a culinary day: a bottle of wine from Bacchanal on the porch beats the French Quarter tourist bar crawl.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District puts you on the streetcar line to everything — Magazine Street eating, the French Quarter, the CBD. The outdoor kitchen at The Syd creates the option for a group dinner at the house using ingredients from the local grocery store or a private chef. One block from the St. Charles Streetcar means the culinary tour can start with a ride rather than an Uber.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District puts you on the streetcar line to everything — Magazine Street eating, the French Quarter, the CBD. The outdoor kitchen at The Syd creates the option for a group dinner at the house using ingredients from the local grocery store or a private chef. One block from the St. Charles Streetcar means the culinary tour can start with a ride rather than an Uber.
 
 ---
 
@@ -251,5 +251,5 @@ The most culinary-rich neighborhoods in New Orleans are walkable to each other, 
 
 The best NOLA eating happens before and after you leave the house. Make the house worth coming back to.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, full kitchens, private pools, up to 30 guests, walking distance to Bacchanal Wine and neighborhood dining
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, outdoor kitchen, St. Charles Streetcar access to every food neighborhood in the city
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, full kitchens, private pools, up to 30 guests, walking distance to Bacchanal Wine and neighborhood dining
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, outdoor kitchen, St. Charles Streetcar access to every food neighborhood in the city

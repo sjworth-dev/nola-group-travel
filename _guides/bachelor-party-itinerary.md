@@ -254,9 +254,9 @@ Handle it: pick a departure time, pick a rally point, and leave at the stated ti
 
 A bachelor party for 12-20 guys needs a villa. Hotel rooms scatter the group, kill the communal energy, and cost more when you do the math.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, up to 30 guests each. Private pools (critical for a bachelor party). Full kitchens for the late-night snack run. Complete privacy—no hotel staff walking through, no other guests on the property. The Herald has the best common spaces for a group gathering; The Cocodrie has the best outdoor area.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. Private pools (critical for a bachelor party). Full kitchens for the late-night snack run. Complete privacy—no hotel staff walking through, no other guests on the property. The Herald has the best common spaces for a group gathering; The Cocodrie has the best outdoor area.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool and hot tub. Outdoor kitchen. One block from the St. Charles streetcar. The central location is excellent if your group plans to move between neighborhoods.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool and hot tub. Outdoor kitchen. One block from the St. Charles streetcar. The central location is excellent if your group plans to move between neighborhoods.
 
 Book early. Both properties fill for weekend dates quickly, and bachelor parties are a peak-use case for both.
 
@@ -271,5 +271,5 @@ Saturday: Slow morning, brunch, options in the afternoon, chill or out at night.
 Don't over-schedule. Leave space. The best moments won't be on the itinerary.
 
 **Lock in your villa:**
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private pool, up to 30
-- [The Syd](https://thesyd.com) — Lower Garden District, pool + hot tub, up to 22
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pool, up to 30
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, pool + hot tub, up to 22

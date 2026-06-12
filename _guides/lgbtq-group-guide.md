@@ -164,9 +164,9 @@ The Marigny and Bywater are walkable to and from the French Quarter. The streetc
 
 For large LGBTQ+ groups, the accommodation choice matters more than almost any other decision. A private villa in a welcoming neighborhood puts your group in a home base you can genuinely inhabit together.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is one of the most LGBTQ+-friendly neighborhoods in New Orleans — a genuine community, not just a marketing positioning. Private pools, full kitchens, completely private. Your group has its own space from the first night to the last. The Herald has the best common areas for a group gathering or pre-party; The Cocodrie has the best outdoor and pool space; The Florentine is the most elegant for groups that want a refined home base.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is one of the most LGBTQ+-friendly neighborhoods in New Orleans — a genuine community, not just a marketing positioning. Private pools, full kitchens, completely private. Your group has its own space from the first night to the last. The Herald has the best common areas for a group gathering or pre-party; The Cocodrie has the best outdoor and pool space; The Florentine is the most elegant for groups that want a refined home base.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by local New Orleans artists — the interiors reflect the city's creative and queer-friendly character. The Lower Garden District is broadly welcoming and puts you close to excellent dining and Magazine Street.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by local New Orleans artists — the interiors reflect the city's creative and queer-friendly character. The Lower Garden District is broadly welcoming and puts you close to excellent dining and Magazine Street.
 
 For Southern Decadence specifically: Castleday's Bywater location is the better proximity to Frenchmen Street and has a shorter Uber to the French Quarter. For groups who want a more central base, The Syd's Lower Garden District location is walkable to the St. Charles corridor and a short ride to the Quarter.
 
@@ -176,5 +176,5 @@ For Southern Decadence specifically: Castleday's Bywater location is the better 
 
 New Orleans welcomes you the way it welcomes everyone who comes here and means it. This city has been doing that for centuries.
 
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
-- [The Syd](https://thesyd.com) — Lower Garden District, up to 22 guests, artist-designed interiors, shared pool and hot tub
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, artist-designed interiors, shared pool and hot tub

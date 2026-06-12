@@ -226,9 +226,9 @@ This is real money. Build it into your per-person trip budget from the start.
 
 One reason private villas work better than hotels for large groups: the house eliminates an entire category of tipping friction. No splitting of 8 separate hotel room charges. No fighting over who pays for what. One property, one bill, split by headcount.
 
-**[Castleday Retreats](https://castledayretreats.com)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. You stay together, eat together, and split the cost together.
+**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. You stay together, eat together, and split the cost together.
 
-**[The Syd](https://thesyd.com)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, outdoor kitchen, artist-designed interiors throughout. One block from the St. Charles streetcar.
+**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, outdoor kitchen, artist-designed interiors throughout. One block from the St. Charles streetcar.
 
 Both properties make the group accounting simpler and the experience better.
 
@@ -241,5 +241,5 @@ New Orleans service workers are professionals who have chosen a demanding craft 
 Tip well. Brief your crew. The economics are clear. The expectation is clear. Groups that understand this leave better relationships and better memories behind them.
 
 **Book your NOLA villa:**
-- [Castleday Retreats](https://castledayretreats.com) — Bywater, private villas, up to 30 guests
-- [The Syd](https://thesyd.com) — Lower Garden District, artist-designed villas, up to 22 guests
+- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests
+- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, artist-designed villas, up to 22 guests
