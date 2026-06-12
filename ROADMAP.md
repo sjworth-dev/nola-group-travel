@@ -97,16 +97,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-escape-room-guide.md` — Escape rooms, murder mystery dinners, and team puzzle experiences for groups of 10-30 in New Orleans: which venues accommodate large groups, booking logistics, and how to build an evening around it
-- `_guides/nola-group-trivia-guide.md` — Bar trivia nights, private trivia events, and competitive quiz experiences for large groups in New Orleans: best venues, team structure for 15-30 people, and how to host your own
-- `_guides/nola-group-hotel-bar-guide.md` — Hotel lobby bars, rooftop bars at hotels, and when a hotel bar beats a standalone venue for groups of 15-30: CBD and French Quarter hotel bar survey with capacity notes
-- `_guides/nola-group-ghost-tour-booking-guide.md` — Private ghost tour bookings vs. joining a public tour for groups of 15-30: operators, what's actually interesting vs. theatrical, and how to combine with the cemetery and cocktail history experience
-- `_guides/nola-group-carriage-tour-guide.md` — Horse-drawn carriage tours in the French Quarter for large groups: private carriage bookings, what routes cover, and how to use a carriage tour as an arrival-day orientation activity
+- `_guides/nola-group-warehouse-district-dining-guide.md` — Restaurant row on Julia and Fulton Streets, private dining rooms, pre-event dinners near the Convention Center and Smoothie King Arena, and group logistics for the Warehouse District food scene
+- `_guides/nola-group-sports-bar-guide.md` — Best sports bars for large groups in New Orleans: private rooms, big screen reservations, Saints vs. visiting team dynamics, and how to watch multiple games simultaneously for groups of 15-30
+- `_guides/nola-group-drag-show-guide.md` — Drag shows and queer performance venues for large groups in New Orleans: booking private tables, what to expect, tipping culture, and how to build an evening around the performance
+- `_guides/nola-group-comedy-show-guide.md` — Stand-up comedy, improv, and live comedy experiences for large groups in New Orleans: venues, private event options, and how comedy fits into a multi-night trip structure
+- `_guides/nola-group-float-tank-wellness-guide.md` — Float tanks, cryotherapy, and recovery wellness experiences for groups coming off a hard night in New Orleans: booking logistics, the day-two recovery structure, and how to sequence wellness into a party trip
 
 ---
 
 ## Done
 
+- 2026-06-12 — `_guides/nola-group-escape-room-guide.md`
+- 2026-06-12 — `_guides/nola-group-trivia-guide.md`
+- 2026-06-12 — `_guides/nola-group-hotel-bar-guide.md`
+- 2026-06-12 — `_guides/nola-group-ghost-tour-booking-guide.md`
+- 2026-06-12 — `_guides/nola-group-carriage-tour-guide.md`
 - 2026-06-11 — `_guides/nola-group-morning-routine-guide.md`
 - 2026-06-11 — `_guides/nola-group-late-night-food-guide.md`
 - 2026-06-11 — `_guides/nola-group-paint-night-guide.md`
@@ -415,6 +420,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-11 13:00 UTC — content: add _guides/nola-karaoke-guide.md — private karaoke rooms vs. public bar karaoke for groups of 10-30, booking logistics, song strategy, and full evening structure
 2026-06-11 14:00 UTC — content: add _guides/nola-group-paint-night-guide.md — paint and sip, private studio sessions, and NOLA cultural craft experiences for groups of 10-30
 2026-06-11 15:00 UTC — content: add _guides/nola-group-late-night-food-guide.md — after-midnight food for groups of 10-30: street food, 24-hour spots, delivery strategy, and villa kitchen logistics
+2026-06-12 10:00 UTC — content: add _guides/nola-group-escape-room-guide.md — escape rooms, murder mystery dinners, and team puzzle experiences for groups of 10-30 with venue formats, booking logistics, and evening structure
+2026-06-12 10:30 UTC — content: add _guides/nola-group-trivia-guide.md — bar trivia, private quiz events, DIY trivia at the villa, and team structure for large groups of 15-30
+2026-06-12 11:00 UTC — content: add _guides/nola-group-hotel-bar-guide.md — hotel lobby bars, rooftop bars, CBD and French Quarter hotel bar survey with capacity notes and when they beat standalone venues
+2026-06-12 11:30 UTC — content: add _guides/nola-group-ghost-tour-booking-guide.md — private vs. public ghost tours, cemetery logistics, Voodoo history context, and the full haunted NOLA evening structure for groups of 15-30
+2026-06-12 12:00 UTC — content: add _guides/nola-group-carriage-tour-guide.md — multi-carriage private bookings, French Quarter route coverage, and arrival-day orientation strategy for groups of 15-30
 2026-06-11 16:00 UTC — content: add _guides/nola-group-morning-routine-guide.md — coffee logistics, breakfast tiers, morning pace management, and NOLA morning experiences for villa groups of 10-30
 2026-06-10 11:00 UTC — content: add _guides/nola-corporate-welcome-reception-guide.md — welcome reception planning for corporate groups of 20-50: venue formats, budget tiers, NOLA-specific elements, and what kills the energy
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
