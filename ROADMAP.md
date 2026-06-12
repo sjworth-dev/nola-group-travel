@@ -99,7 +99,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-warehouse-district-dining-guide.md` — Restaurant row on Julia and Fulton Streets, private dining rooms, pre-event dinners near the Convention Center and Smoothie King Arena, and group logistics for the Warehouse District food scene
 - `_guides/nola-group-sports-bar-guide.md` — Best sports bars for large groups in New Orleans: private rooms, big screen reservations, Saints vs. visiting team dynamics, and how to watch multiple games simultaneously for groups of 15-30
 - `_guides/nola-group-drag-show-guide.md` — Drag shows and queer performance venues for large groups in New Orleans: booking private tables, what to expect, tipping culture, and how to build an evening around the performance
 - `_guides/nola-group-comedy-show-guide.md` — Stand-up comedy, improv, and live comedy experiences for large groups in New Orleans: venues, private event options, and how comedy fits into a multi-night trip structure
@@ -109,6 +108,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Done
 
+- 2026-06-12 — `_guides/nola-group-warehouse-district-dining-guide.md`
 - 2026-06-12 — `_guides/nola-group-escape-room-guide.md`
 - 2026-06-12 — `_guides/nola-group-trivia-guide.md`
 - 2026-06-12 — `_guides/nola-group-hotel-bar-guide.md`
@@ -432,4 +432,5 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-08 10:00 UTC — content: add _guides/nola-group-bar-buyout-guide.md
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
 2026-06-07 11:00 UTC — content: add _guides/nola-jazz-second-line-bookings.md — how to hire a brass band or book a private second line: costs, lead times, permits, what's included, and what the experience looks like
+2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
