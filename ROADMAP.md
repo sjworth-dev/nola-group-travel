@@ -99,7 +99,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-drag-show-guide.md` — Drag shows and queer performance venues for large groups in New Orleans: booking private tables, what to expect, tipping culture, and how to build an evening around the performance
 - `_guides/nola-group-comedy-show-guide.md` — Stand-up comedy, improv, and live comedy experiences for large groups in New Orleans: venues, private event options, and how comedy fits into a multi-night trip structure
 - `_guides/nola-group-float-tank-wellness-guide.md` — Float tanks, cryotherapy, and recovery wellness experiences for groups coming off a hard night in New Orleans: booking logistics, the day-two recovery structure, and how to sequence wellness into a party trip
 
@@ -107,6 +106,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Done
 
+- 2026-06-13 — `_guides/nola-group-drag-show-guide.md`
 - 2026-06-13 — `_guides/nola-group-sports-bar-guide.md`
 - 2026-06-12 — `_guides/nola-group-warehouse-district-dining-guide.md`
 - 2026-06-12 — `_guides/nola-group-escape-room-guide.md`
@@ -433,5 +433,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-08 11:00 UTC — content: add _guides/nola-super-bowl-lx-group-guide.md — Super Bowl week group planning guide for 15-30 people: ticket strategy, week structure, watch party options, and accommodation logistics — how to buy out a bar or courtyard for a private group event: buyout structures, venue types, negotiation framework, and villa vs. buyout comparison
 2026-06-07 11:00 UTC — content: add _guides/nola-jazz-second-line-bookings.md — how to hire a brass band or book a private second line: costs, lead times, permits, what's included, and what the experience looks like
 2026-06-13 10:00 UTC — content: add _guides/nola-group-sports-bar-guide.md — private rooms, Saints fan dynamics, multi-game strategy, and game day logistics for groups of 15-30
+2026-06-13 11:00 UTC — content: add _guides/nola-group-drag-show-guide.md — drag shows and queer performance venues for large groups: private table booking, tipping culture, evening structure, and brunch format for groups of 10-30
 2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
