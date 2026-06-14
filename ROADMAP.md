@@ -99,16 +99,23 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-murder-mystery-dinner-guide.md` — Private and public murder mystery dinner experiences for large groups in New Orleans: operators, venue formats, in-villa show option, customization for bachelorettes and corporate groups, and full evening structure
-- `_guides/nola-group-axe-throwing-guide.md` — Axe throwing, rage rooms, and competitive physical activity venues for groups of 10-30 in New Orleans: booking logistics, group tournament formats, and how to build an evening around it
-- `_guides/nola-group-riverboat-casino-cruise-guide.md` — Casino cruises, poker nights, and waterfront gambling experiences for large groups: Harrah's vs. boat option, group poker tournament setup, and full evening structure
-- `_guides/nola-group-beer-garden-guide.md` — Beer gardens, outdoor bar courtyards, and open-air drinking spots for large groups in New Orleans: which venues can actually accommodate 20+ people comfortably, reservation logistics, and seasonal considerations
-- `_guides/nola-group-piano-bar-guide.md` — Piano bars, dueling pianos, and interactive sing-along venues for large groups: private room options, request dynamics, and how to structure an evening around participatory live music
+- `_guides/nola-group-live-music-crawl-guide.md` — A structured multi-stop live music crawl guide for large groups: how to move between Frenchmen Street venues, when to pay cover vs. when to walk, timing the night around set schedules, and keeping 20 people together across 4-5 stops
+- `_guides/nola-group-scavenger-hunt-guide.md` — Custom and app-guided city scavenger hunts for large groups of 15-30 in New Orleans: team formats, neighborhood routes, scoring logistics, NOLA-specific clue themes, and the full day structure
+- `_guides/nola-group-parade-watching-guide.md` — Viewing Mardi Gras and other parades as a large group: lining up strategy, neutral ground vs. banquette, throws logistics, what to bring, how to keep 20 people together on a parade route, and the post-parade plan
+- `_guides/nola-group-spoken-word-storytelling-guide.md` — Spoken word events, storytelling shows, and literary performance venues for large groups: NOLA's unique literary culture, private event formats, and the full evening structure around a storytelling anchor
+- `_guides/nola-group-cemetery-tour-guide.md` — Above-ground cemeteries as a group activity: St. Louis Cemetery logistics, Lafayette Cemetery in the Garden District, group entry requirements, guided vs. self-guided comparison, photography, and the half-day structure that makes cemetery visits more than a quick walk-through
+- `_guides/nola-group-second-line-umbrella-making-guide.md` — Hands-on second line umbrella and parasol making workshops for large groups: how to find operators, the craft process, how it connects to NOLA second line culture, and how to incorporate the finished parasols into an actual second line parade experience
+- `_guides/nola-group-jazz-improv-session-guide.md` — Jazz workshop and sit-in experiences for groups: music lesson providers who work with large groups, the difference between watching and participating, how to structure a music half-day, and what it means to sit in on a real New Orleans jazz session
 
 ---
 
 ## Done
 
+- 2026-06-14 — `_guides/nola-group-piano-bar-guide.md`
+- 2026-06-14 — `_guides/nola-group-beer-garden-guide.md`
+- 2026-06-14 — `_guides/nola-group-riverboat-casino-cruise-guide.md`
+- 2026-06-14 — `_guides/nola-group-axe-throwing-guide.md`
+- 2026-06-14 — `_guides/nola-group-murder-mystery-dinner-guide.md`
 - 2026-06-14 — `_guides/nola-group-comedy-show-guide.md`
 - 2026-06-14 — `_guides/nola-group-float-tank-wellness-guide.md`
 - 2026-06-13 — `_guides/nola-group-drag-show-guide.md`
@@ -441,5 +448,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-13 11:00 UTC — content: add _guides/nola-group-drag-show-guide.md — drag shows and queer performance venues for large groups: private table booking, tipping culture, evening structure, and brunch format for groups of 10-30
 2026-06-14 10:00 UTC — content: add _guides/nola-group-comedy-show-guide.md — stand-up, improv, storytelling, and private villa comedy show guide for groups of 10-30 in New Orleans
 2026-06-14 10:30 UTC — content: add _guides/nola-group-float-tank-wellness-guide.md — float tanks, cryo, infrared sauna, mobile massage, and three recovery day models for NOLA groups of 10-30
+2026-06-14 12:00 UTC — content: add _guides/nola-group-murder-mystery-dinner-guide.md — private and public murder mystery dinner guide for groups of 10-30 with in-villa format, customization, and full evening structure
+2026-06-14 12:15 UTC — content: add _guides/nola-group-axe-throwing-guide.md — axe throwing, rage rooms, and competitive activity guide for groups of 10-30 with tournament formats and evening structure
+2026-06-14 12:30 UTC — content: add _guides/nola-group-riverboat-casino-cruise-guide.md — riverboat vs. land casino decision, villa poker tournament setup, and waterfront gambling evening structure for groups of 10-30
+2026-06-14 12:45 UTC — content: add _guides/nola-group-beer-garden-guide.md — beer gardens, outdoor bar courtyards, and open-air drinking venues for groups of 20+ with neighborhood guide and seasonal reality
+2026-06-14 13:00 UTC — content: add _guides/nola-group-piano-bar-guide.md — piano bars and dueling pianos guide for groups of 10-30 with request mechanic, private section booking, and evening structure
 2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
