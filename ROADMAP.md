@@ -99,13 +99,18 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-comedy-show-guide.md` — Stand-up comedy, improv, and live comedy experiences for large groups in New Orleans: venues, private event options, and how comedy fits into a multi-night trip structure
-- `_guides/nola-group-float-tank-wellness-guide.md` — Float tanks, cryotherapy, and recovery wellness experiences for groups coming off a hard night in New Orleans: booking logistics, the day-two recovery structure, and how to sequence wellness into a party trip
+- `_guides/nola-group-murder-mystery-dinner-guide.md` — Private and public murder mystery dinner experiences for large groups in New Orleans: operators, venue formats, in-villa show option, customization for bachelorettes and corporate groups, and full evening structure
+- `_guides/nola-group-axe-throwing-guide.md` — Axe throwing, rage rooms, and competitive physical activity venues for groups of 10-30 in New Orleans: booking logistics, group tournament formats, and how to build an evening around it
+- `_guides/nola-group-riverboat-casino-cruise-guide.md` — Casino cruises, poker nights, and waterfront gambling experiences for large groups: Harrah's vs. boat option, group poker tournament setup, and full evening structure
+- `_guides/nola-group-beer-garden-guide.md` — Beer gardens, outdoor bar courtyards, and open-air drinking spots for large groups in New Orleans: which venues can actually accommodate 20+ people comfortably, reservation logistics, and seasonal considerations
+- `_guides/nola-group-piano-bar-guide.md` — Piano bars, dueling pianos, and interactive sing-along venues for large groups: private room options, request dynamics, and how to structure an evening around participatory live music
 
 ---
 
 ## Done
 
+- 2026-06-14 — `_guides/nola-group-comedy-show-guide.md`
+- 2026-06-14 — `_guides/nola-group-float-tank-wellness-guide.md`
 - 2026-06-13 — `_guides/nola-group-drag-show-guide.md`
 - 2026-06-13 — `_guides/nola-group-sports-bar-guide.md`
 - 2026-06-12 — `_guides/nola-group-warehouse-district-dining-guide.md`
@@ -434,5 +439,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-07 11:00 UTC — content: add _guides/nola-jazz-second-line-bookings.md — how to hire a brass band or book a private second line: costs, lead times, permits, what's included, and what the experience looks like
 2026-06-13 10:00 UTC — content: add _guides/nola-group-sports-bar-guide.md — private rooms, Saints fan dynamics, multi-game strategy, and game day logistics for groups of 15-30
 2026-06-13 11:00 UTC — content: add _guides/nola-group-drag-show-guide.md — drag shows and queer performance venues for large groups: private table booking, tipping culture, evening structure, and brunch format for groups of 10-30
+2026-06-14 10:00 UTC — content: add _guides/nola-group-comedy-show-guide.md — stand-up, improv, storytelling, and private villa comedy show guide for groups of 10-30 in New Orleans
+2026-06-14 10:30 UTC — content: add _guides/nola-group-float-tank-wellness-guide.md — float tanks, cryo, infrared sauna, mobile massage, and three recovery day models for NOLA groups of 10-30
 2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
