@@ -99,18 +99,23 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-live-music-crawl-guide.md` — A structured multi-stop live music crawl guide for large groups: how to move between Frenchmen Street venues, when to pay cover vs. when to walk, timing the night around set schedules, and keeping 20 people together across 4-5 stops
-- `_guides/nola-group-scavenger-hunt-guide.md` — Custom and app-guided city scavenger hunts for large groups of 15-30 in New Orleans: team formats, neighborhood routes, scoring logistics, NOLA-specific clue themes, and the full day structure
-- `_guides/nola-group-parade-watching-guide.md` — Viewing Mardi Gras and other parades as a large group: lining up strategy, neutral ground vs. banquette, throws logistics, what to bring, how to keep 20 people together on a parade route, and the post-parade plan
-- `_guides/nola-group-spoken-word-storytelling-guide.md` — Spoken word events, storytelling shows, and literary performance venues for large groups: NOLA's unique literary culture, private event formats, and the full evening structure around a storytelling anchor
-- `_guides/nola-group-cemetery-tour-guide.md` — Above-ground cemeteries as a group activity: St. Louis Cemetery logistics, Lafayette Cemetery in the Garden District, group entry requirements, guided vs. self-guided comparison, photography, and the half-day structure that makes cemetery visits more than a quick walk-through
-- `_guides/nola-group-second-line-umbrella-making-guide.md` — Hands-on second line umbrella and parasol making workshops for large groups: how to find operators, the craft process, how it connects to NOLA second line culture, and how to incorporate the finished parasols into an actual second line parade experience
-- `_guides/nola-group-jazz-improv-session-guide.md` — Jazz workshop and sit-in experiences for groups: music lesson providers who work with large groups, the difference between watching and participating, how to structure a music half-day, and what it means to sit in on a real New Orleans jazz session
+- `_guides/nola-group-plantation-tour-guide.md` — Plantation tours as a large group activity: Whitney Plantation vs. other options, the difference between a heritage tour and a romanticized plantation tour, group logistics, the ethical framing, and how to structure a meaningful full-day experience that includes Cajun Country context
+- `_guides/nola-group-mardi-gras-indian-culture-guide.md` — Mardi Gras Indians for group visitors: what they are and aren't, how to encounter the culture respectfully, Super Sunday logistics, the suit-making tradition, and what distinguishes this from a tourist attraction
+- `_guides/nola-group-food-market-guide.md` — French Market, Crescent City Farmers Market, and the St. Roch Market for large groups: the difference between tourist markets and working markets, what to buy vs. what to skip, and how to structure a morning around food discovery
+- `_guides/nola-group-architecture-tour-guide.md` — Self-guided and guided architecture tours for large groups covering Creole cottage, shotgun house, Greek Revival mansion, and cast iron balcony traditions — plus the best walking routes by neighborhood and how to read a NOLA facade
+- `_guides/nola-group-volunteer-build-day-guide.md` — One-day group volunteer builds in New Orleans: Habitat for Humanity, post-Katrina rebuilding organizations, community garden projects, and how to structure a meaningful service day that doesn't require specialized skills
 
 ---
 
 ## Done
 
+- 2026-06-15 — `_guides/nola-group-live-music-crawl-guide.md`
+- 2026-06-15 — `_guides/nola-group-scavenger-hunt-guide.md`
+- 2026-06-15 — `_guides/nola-group-parade-watching-guide.md`
+- 2026-06-15 — `_guides/nola-group-spoken-word-storytelling-guide.md`
+- 2026-06-15 — `_guides/nola-group-cemetery-tour-guide.md`
+- 2026-06-15 — `_guides/nola-group-second-line-umbrella-making-guide.md`
+- 2026-06-15 — `_guides/nola-group-jazz-improv-session-guide.md`
 - 2026-06-14 — `_guides/nola-group-piano-bar-guide.md`
 - 2026-06-14 — `_guides/nola-group-beer-garden-guide.md`
 - 2026-06-14 — `_guides/nola-group-riverboat-casino-cruise-guide.md`
@@ -452,6 +457,13 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-14 12:15 UTC — content: add _guides/nola-group-axe-throwing-guide.md — axe throwing, rage rooms, and competitive activity guide for groups of 10-30 with tournament formats and evening structure
 2026-06-14 12:30 UTC — content: add _guides/nola-group-riverboat-casino-cruise-guide.md — riverboat vs. land casino decision, villa poker tournament setup, and waterfront gambling evening structure for groups of 10-30
 2026-06-14 12:45 UTC — content: add _guides/nola-group-beer-garden-guide.md — beer gardens, outdoor bar courtyards, and open-air drinking venues for groups of 20+ with neighborhood guide and seasonal reality
+2026-06-15 10:00 UTC — content: add _guides/nola-group-live-music-crawl-guide.md — multi-stop Frenchmen Street live music crawl for groups of 10-30 with set timing, cover logistics, and group management
+2026-06-15 10:20 UTC — content: add _guides/nola-group-scavenger-hunt-guide.md — app-guided and custom city scavenger hunt guide for groups of 15-30 with team formats and NOLA-specific clue themes
+2026-06-15 10:40 UTC — content: add _guides/nola-group-parade-watching-guide.md — Mardi Gras and parade watching guide for groups of 10-30 with neutral ground strategy, throws logistics, and post-parade plan
+2026-06-15 11:00 UTC — content: add _guides/nola-group-spoken-word-storytelling-guide.md — spoken word and literary storytelling guide for large groups with private villa performance format and evening structure
+2026-06-15 11:20 UTC — content: add _guides/nola-group-cemetery-tour-guide.md — St. Louis Cemetery and Lafayette Cemetery guide for large groups with entry requirements, guided vs. self-guided comparison, and half-day structure
+2026-06-15 11:40 UTC — content: add _guides/nola-group-second-line-umbrella-making-guide.md — second line umbrella and parasol workshop guide for large groups with cultural context and integration into real second line
+2026-06-15 12:00 UTC — content: add _guides/nola-group-jazz-improv-session-guide.md — jazz workshop and sit-in guide for large groups with rhythm workshop format, sit-in etiquette, and half-day music structure
 2026-06-14 13:00 UTC — content: add _guides/nola-group-piano-bar-guide.md — piano bars and dueling pianos guide for groups of 10-30 with request mechanic, private section booking, and evening structure
 2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
