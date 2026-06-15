@@ -99,16 +99,22 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-plantation-tour-guide.md` — Plantation tours as a large group activity: Whitney Plantation vs. other options, the difference between a heritage tour and a romanticized plantation tour, group logistics, the ethical framing, and how to structure a meaningful full-day experience that includes Cajun Country context
-- `_guides/nola-group-mardi-gras-indian-culture-guide.md` — Mardi Gras Indians for group visitors: what they are and aren't, how to encounter the culture respectfully, Super Sunday logistics, the suit-making tradition, and what distinguishes this from a tourist attraction
-- `_guides/nola-group-food-market-guide.md` — French Market, Crescent City Farmers Market, and the St. Roch Market for large groups: the difference between tourist markets and working markets, what to buy vs. what to skip, and how to structure a morning around food discovery
-- `_guides/nola-group-architecture-tour-guide.md` — Self-guided and guided architecture tours for large groups covering Creole cottage, shotgun house, Greek Revival mansion, and cast iron balcony traditions — plus the best walking routes by neighborhood and how to read a NOLA facade
-- `_guides/nola-group-volunteer-build-day-guide.md` — One-day group volunteer builds in New Orleans: Habitat for Humanity, post-Katrina rebuilding organizations, community garden projects, and how to structure a meaningful service day that doesn't require specialized skills
+- `_guides/nola-group-museum-day-guide.md` — Museum day for large groups: the WWII Museum deep dive, NOMA, the Ogden Museum of Southern Art, and the Backstreet Cultural Museum — group ticket logistics, discount structures, and how to build a full museum day that doesn't exhaust everyone by noon
+- `_guides/nola-group-burlesque-show-guide.md` — Burlesque and cabaret for large groups in New Orleans: the venues, private table or room bookings, tipping culture, show formats (classic vs. neo-burlesque), and building a full evening around a show
+- `_guides/nola-group-bayou-kayak-guide.md` — Bayou St. John and City Park kayaking for large groups: rental logistics, guided vs. self-guided, the specific paddling experience on an urban bayou, wildlife, and a morning structure that pairs with City Park breakfast
+- `_guides/nola-group-cooking-competition-guide.md` — Villa cooking competition for groups of 15-30: team formats, NOLA-specific challenge themes (gumbo-off, po-boy throwdown, praline competition), judging structure, and a full evening built around the competition
+- `_guides/nola-group-brass-band-bar-crawl-guide.md` — Second line bar crawl with a hired brass band for groups of 15-30: what a private second line actually costs, permit requirements, route structure, and how to turn a bar crawl into a moving street party
+- `_guides/nola-group-airboat-deep-dive-guide.md` — Airboat swamp tours specifically for large groups: airboat vs. pontoon, wildlife reality (what you'll actually see vs. what's in the photos), guide quality indicators, charter vs. commercial tour, and a full half-day structure that includes a Cajun lunch
 
 ---
 
 ## Done
 
+- 2026-06-15 — `_guides/nola-group-plantation-tour-guide.md`
+- 2026-06-15 — `_guides/nola-group-mardi-gras-indian-culture-guide.md`
+- 2026-06-15 — `_guides/nola-group-food-market-guide.md`
+- 2026-06-15 — `_guides/nola-group-architecture-tour-guide.md`
+- 2026-06-15 — `_guides/nola-group-volunteer-build-day-guide.md`
 - 2026-06-15 — `_guides/nola-group-live-music-crawl-guide.md`
 - 2026-06-15 — `_guides/nola-group-scavenger-hunt-guide.md`
 - 2026-06-15 — `_guides/nola-group-parade-watching-guide.md`
@@ -457,6 +463,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-14 12:15 UTC — content: add _guides/nola-group-axe-throwing-guide.md — axe throwing, rage rooms, and competitive activity guide for groups of 10-30 with tournament formats and evening structure
 2026-06-14 12:30 UTC — content: add _guides/nola-group-riverboat-casino-cruise-guide.md — riverboat vs. land casino decision, villa poker tournament setup, and waterfront gambling evening structure for groups of 10-30
 2026-06-14 12:45 UTC — content: add _guides/nola-group-beer-garden-guide.md — beer gardens, outdoor bar courtyards, and open-air drinking venues for groups of 20+ with neighborhood guide and seasonal reality
+2026-06-15 13:00 UTC — content: add _guides/nola-group-plantation-tour-guide.md — Whitney Plantation, ethical heritage vs. romanticized antebellum framing, River Road options, and full-day structure for groups of 10-30
+2026-06-15 13:20 UTC — content: add _guides/nola-group-mardi-gras-indian-culture-guide.md — what Mardi Gras Indians are, respectful encounter etiquette, Super Sunday logistics, Backstreet Museum, and year-round resources for groups
+2026-06-15 13:40 UTC — content: add _guides/nola-group-food-market-guide.md — French Market, Crescent City Farmers Market, and St. Roch Market for large groups with villa supply run strategy and morning structure
+2026-06-15 14:00 UTC — content: add _guides/nola-group-architecture-tour-guide.md — Creole cottage, shotgun house, Greek Revival, and cast iron balcony traditions with walking routes for 3 neighborhoods and group logistics for 10-30
+2026-06-15 14:20 UTC — content: add _guides/nola-group-volunteer-build-day-guide.md — Habitat for Humanity, SBP, and community garden volunteer builds for groups of 10-30 with meaningful service vs. volunteer tourism framing
 2026-06-15 10:00 UTC — content: add _guides/nola-group-live-music-crawl-guide.md — multi-stop Frenchmen Street live music crawl for groups of 10-30 with set timing, cover logistics, and group management
 2026-06-15 10:20 UTC — content: add _guides/nola-group-scavenger-hunt-guide.md — app-guided and custom city scavenger hunt guide for groups of 15-30 with team formats and NOLA-specific clue themes
 2026-06-15 10:40 UTC — content: add _guides/nola-group-parade-watching-guide.md — Mardi Gras and parade watching guide for groups of 10-30 with neutral ground strategy, throws logistics, and post-parade plan
