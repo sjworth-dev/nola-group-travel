@@ -99,17 +99,23 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-museum-day-guide.md` — Museum day for large groups: the WWII Museum deep dive, NOMA, the Ogden Museum of Southern Art, and the Backstreet Cultural Museum — group ticket logistics, discount structures, and how to build a full museum day that doesn't exhaust everyone by noon
-- `_guides/nola-group-burlesque-show-guide.md` — Burlesque and cabaret for large groups in New Orleans: the venues, private table or room bookings, tipping culture, show formats (classic vs. neo-burlesque), and building a full evening around a show
-- `_guides/nola-group-bayou-kayak-guide.md` — Bayou St. John and City Park kayaking for large groups: rental logistics, guided vs. self-guided, the specific paddling experience on an urban bayou, wildlife, and a morning structure that pairs with City Park breakfast
-- `_guides/nola-group-cooking-competition-guide.md` — Villa cooking competition for groups of 15-30: team formats, NOLA-specific challenge themes (gumbo-off, po-boy throwdown, praline competition), judging structure, and a full evening built around the competition
-- `_guides/nola-group-brass-band-bar-crawl-guide.md` — Second line bar crawl with a hired brass band for groups of 15-30: what a private second line actually costs, permit requirements, route structure, and how to turn a bar crawl into a moving street party
-- `_guides/nola-group-airboat-deep-dive-guide.md` — Airboat swamp tours specifically for large groups: airboat vs. pontoon, wildlife reality (what you'll actually see vs. what's in the photos), guide quality indicators, charter vs. commercial tour, and a full half-day structure that includes a Cajun lunch
+- `_guides/nola-group-bourbon-street-cocktail-tour-guide.md` — Self-guided cocktail route specifically on and around Bourbon Street for large groups: which bars are worth the tourist tax, which are pure theatrics, how to move 20 people through the Quarter efficiently, and the 3-stop structure that ends somewhere you actually want to be
+- `_guides/nola-group-riverfront-evening-guide.md` — Woldenberg Park, the Moonwalk levee walk, and the Algiers Ferry for a large group evening: the free sunset view logistics, the ferry as a group experience, and what to do in Algiers Point before taking the ferry back
+- `_guides/nola-group-mardi-gras-costume-guide.md` — Sourcing, coordinating, and wearing group costumes for Mardi Gras: the French Quarter costume shops vs. Etsy vs. making your own, group theme coordination, what works vs. what falls apart by midnight, and storage logistics at the villa
+- `_guides/nola-group-trivia-night-guide.md` — Running a NOLA-themed trivia night at the villa for groups of 15-30: question category structure (history, food, music, geography), team formats, scoring systems, prizes, and how to source good NOLA trivia content
+- `_guides/nola-group-night-market-guide.md` — NOLA night markets, pop-up markets, and weekend vendor events for large groups: what's consistently running vs. seasonal, the French Market after dark, and how to work a group through a crowded market without losing half of them
+- `_guides/nola-group-gallery-opening-guide.md` — How to crash (and enjoy) a New Orleans gallery opening with a large group: St. Claude Second Saturdays, Julia Street openings, the etiquette of walking in, what makes a good gallery night for 15-25 people, and pairing with dinner and a neighborhood bar
 
 ---
 
 ## Done
 
+- 2026-06-16 — `_guides/nola-group-museum-day-guide.md`
+- 2026-06-16 — `_guides/nola-group-burlesque-show-guide.md`
+- 2026-06-16 — `_guides/nola-group-bayou-kayak-guide.md`
+- 2026-06-16 — `_guides/nola-group-cooking-competition-guide.md`
+- 2026-06-16 — `_guides/nola-group-brass-band-bar-crawl-guide.md`
+- 2026-06-16 — `_guides/nola-group-airboat-deep-dive-guide.md`
 - 2026-06-15 — `_guides/nola-group-plantation-tour-guide.md`
 - 2026-06-15 — `_guides/nola-group-mardi-gras-indian-culture-guide.md`
 - 2026-06-15 — `_guides/nola-group-food-market-guide.md`
@@ -463,6 +469,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-14 12:15 UTC — content: add _guides/nola-group-axe-throwing-guide.md — axe throwing, rage rooms, and competitive activity guide for groups of 10-30 with tournament formats and evening structure
 2026-06-14 12:30 UTC — content: add _guides/nola-group-riverboat-casino-cruise-guide.md — riverboat vs. land casino decision, villa poker tournament setup, and waterfront gambling evening structure for groups of 10-30
 2026-06-14 12:45 UTC — content: add _guides/nola-group-beer-garden-guide.md — beer gardens, outdoor bar courtyards, and open-air drinking venues for groups of 20+ with neighborhood guide and seasonal reality
+2026-06-16 10:00 UTC — content: add _guides/nola-group-museum-day-guide.md — WWII Museum, NOMA, Ogden, Backstreet Cultural Museum group logistics and full-day structure for groups of 10-30
+2026-06-16 10:20 UTC — content: add _guides/nola-group-burlesque-show-guide.md — burlesque and cabaret venue guide, tipping culture, show formats, and full evening structure for groups of 10-30
+2026-06-16 10:40 UTC — content: add _guides/nola-group-bayou-kayak-guide.md — Bayou St. John kayaking for large groups: rental logistics, guided vs. self-guided, wildlife, City Park morning structure
+2026-06-16 11:00 UTC — content: add _guides/nola-group-cooking-competition-guide.md — villa cooking competition formats, NOLA challenge themes (gumbo-off, po-boy throwdown, pralines), judging structure, full evening plan for groups of 15-30
+2026-06-16 11:20 UTC — content: add _guides/nola-group-brass-band-bar-crawl-guide.md — private second line bar crawl with hired brass band: costs, permits, route structure, cultural context for groups of 15-30
+2026-06-16 11:40 UTC — content: add _guides/nola-group-airboat-deep-dive-guide.md — airboat vs. pontoon comparison, wildlife reality, guide quality indicators, charter logistics, full Cajun half-day structure for groups of 10-30
 2026-06-15 13:00 UTC — content: add _guides/nola-group-plantation-tour-guide.md — Whitney Plantation, ethical heritage vs. romanticized antebellum framing, River Road options, and full-day structure for groups of 10-30
 2026-06-15 13:20 UTC — content: add _guides/nola-group-mardi-gras-indian-culture-guide.md — what Mardi Gras Indians are, respectful encounter etiquette, Super Sunday logistics, Backstreet Museum, and year-round resources for groups
 2026-06-15 13:40 UTC — content: add _guides/nola-group-food-market-guide.md — French Market, Crescent City Farmers Market, and St. Roch Market for large groups with villa supply run strategy and morning structure
