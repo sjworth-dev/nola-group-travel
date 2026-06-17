@@ -99,16 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-birthday-trip-guide.md` — Complete birthday trip planning guide for large groups celebrating one person: the birthday-centric itinerary structure, how to plan surprises in a group of 20, villa dinner vs. restaurant buyout for the birthday dinner, the birthday second line option, and how to make the honoree feel celebrated without coordinating a secret from 20 people
-- `_guides/nola-group-final-night-guide.md` — The last night of a NOLA group trip: how to structure a sendoff evening that doesn't feel like a consolation prize, where to eat the last dinner, the bar that earns a proper goodbye, whether to stay late or save energy for departure morning, and the specific last-night experiences that make people want to come back
-- `_guides/nola-group-villa-dinner-night-guide.md` — The full villa dinner night guide for groups of 15-30: when to cook vs. order vs. hire a private chef, the definitive villa dinner menu for NOLA cooking (red beans and rice, jambalaya, grillades and grits), table setting for 20 people, and the two-hour dinner structure that becomes the best night of the trip
-- `_guides/nola-group-second-line-sunday-guide.md` — Attending a neighborhood second line parade on Sunday: the social aid and pleasure club schedule, how to find which second line is happening this weekend, the route structure, what to wear, how to follow the parade as a large group, and the neighborhood context that makes each parade distinct
-- `_guides/nola-group-umbrella-drinks-guide.md` — Walk-around cup culture and the iconic NOLA umbrella drinks for groups: what's worth ordering vs. what's a tourist trap (frozen daiquiri, Hand Grenade, Hurricane), the geography of daiquiri shops, and how the walk-around cup becomes a group mobility tool on a Bourbon Street night
+- `_guides/nola-group-riverfront-picnic-guide.md` — The Woldenberg Park and Moonwalk riverfront picnic for large groups: sourcing from the French Market and grocery stores, laying out a proper riverfront spread, the sunset window, and why this is the best free afternoon in New Orleans for a group of 20
+- `_guides/nola-group-bead-throwing-etiquette-guide.md` — Mardi Gras bead culture for groups: the float rider perspective, what earns beads, how to maximize a group's catch, neutral ground positioning, parade-by-parade bead quality differences, and how to transport 50 pounds of beads home
+- `_guides/nola-group-historic-bar-guide.md` — The oldest and most storied bars in New Orleans: Lafitte's Blacksmith Shop, Old Absinthe House, Napoleon House, Carousel Bar, Tujague's — what makes each one worth visiting, group logistics, and the one-bar-per-neighborhood approach to a bar history evening
+- `_guides/nola-group-hotel-pool-day-guide.md` — Day passes and pool access for groups who don't have their own villa pool: which hotel pools allow day guests, how to navigate the day pass process for 15+ people, and the honest comparison against booking a villa with a private pool
+- `_guides/nola-group-night-before-departure-guide.md` — The final morning of a NOLA group trip: coffee logistics, villa cleanup without it feeling punitive, the slow goodbye, what to do with leftover food and alcohol, and the last group photo before everyone disperses to the airport
 
 ---
 
 ## Done
 
+- 2026-06-17 — `_guides/nola-group-birthday-trip-guide.md`
+- 2026-06-17 — `_guides/nola-group-final-night-guide.md`
+- 2026-06-17 — `_guides/nola-group-villa-dinner-night-guide.md`
+- 2026-06-17 — `_guides/nola-group-second-line-sunday-guide.md`
+- 2026-06-17 — `_guides/nola-group-umbrella-drinks-guide.md`
 - 2026-06-17 — `_guides/nola-group-jazz-funeral-culture-guide.md`
 - 2026-06-17 — `_guides/nola-group-steamboat-natchez-guide.md`
 - 2026-06-17 — `_guides/nola-group-dixie-beer-brewery-guide.md`
@@ -488,6 +493,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-17 11:00 UTC — content: add _guides/nola-group-walking-tour-guide.md — four self-guided walking tour routes for groups of 10-30: French Quarter, Garden District, Marigny/Bywater, Tremé with stop-by-stop narration guide
 2026-06-17 11:15 UTC — content: add _guides/nola-group-sunset-cocktail-hour-guide.md — villa golden hour setup guide: batch cocktail formats, pool vs. courtyard vs. rooftop setup, timing, snacks, and why this is the highest-ROI group activity of the trip
 2026-06-17 11:30 UTC — content: add _guides/nola-group-new-orleans-saints-bar-guide.md — Saints fan bar guide for out-of-town groups: finding the right bar, Who Dat etiquette for visitors, Saints culture context, bar vs. Caesars Superdome comparison
+2026-06-17 12:00 UTC — content: add _guides/nola-group-birthday-trip-guide.md — birthday trip planning guide for large groups: birthday anchor moments, surprise vs. planned trip models, private second line option, cake logistics, group celebration structure
+2026-06-17 12:15 UTC — content: add _guides/nola-group-final-night-guide.md — the last night of a NOLA group trip: sendoff dinner strategy, one-bar goodbye, departure variable, villa last night option, morning-after logistics
+2026-06-17 12:30 UTC — content: add _guides/nola-group-villa-dinner-night-guide.md — villa dinner night for groups of 15-30: cook vs. chef vs. catered decision, NOLA menu (red beans, jambalaya, grillades, bread pudding), table setup for 20, two-hour dinner structure
+2026-06-17 12:45 UTC — content: add _guides/nola-group-second-line-sunday-guide.md — neighborhood second line Sunday guide: Social Aid and Pleasure Club schedule, how to find the right parade, what to wear, large group movement strategy, respectful visitor conduct
+2026-06-17 13:00 UTC — content: add _guides/nola-group-umbrella-drinks-guide.md — walk-around cup culture and iconic NOLA drinks: frozen daiquiri, Hand Grenade, Hurricane honest breakdown, daiquiri shop geography, split-and-reconvene group mobility strategy
 2026-06-16 12:00 UTC — content: add _guides/nola-group-bourbon-street-cocktail-tour-guide.md — Bourbon Street cocktail tour for large groups: which bars are worth it, how to move 20 people through the Quarter, and the 3-stop structure that ends on Frenchmen Street
 2026-06-16 12:10 UTC — content: add _guides/nola-group-riverfront-evening-guide.md — Moonwalk levee walk, Algiers Ferry crossing, and Algiers Point for groups of 10-30: a free evening on the Mississippi most visitors miss
 2026-06-16 12:20 UTC — content: add _guides/nola-group-mardi-gras-costume-guide.md — Mardi Gras group costume guide: sourcing, theme coordination, what survives the night, and villa staging logistics for groups of 15-30
