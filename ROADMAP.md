@@ -99,18 +99,23 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-jazz-funeral-culture-guide.md` — What a jazz funeral is, how to encounter one respectfully as a visitor, the difference between a public jazz funeral and a private one, what the music means, and how this tradition connects to everything else in New Orleans culture — for groups who want to understand what they're looking at
-- `_guides/nola-group-steamboat-natchez-guide.md` — The Steamboat Natchez jazz cruise for large groups: what the experience actually is vs. what the marketing suggests, the two-hour cruise structure, live jazz on the river, group ticket booking logistics, and how to pair it with the Moonwalk and the Algiers ferry
-- `_guides/nola-group-dixie-beer-brewery-guide.md` — Brewery visits, craft beer taprooms, and the NOLA beer culture for large groups: which taprooms accommodate groups, which offer tours, the local craft beer landscape, and how to build a half-day brewery crawl for groups of 15-25
-- `_guides/nola-group-po-boy-smackdown-guide.md` — Running a po-boy smackdown at the villa: ordering from multiple spots, blind tasting format, judging criteria (bread ratio, protein, dressing), the roast beef vs. fried seafood debate, and why this beats going out for a group dinner on night two
-- `_guides/nola-group-walking-tour-guide.md` — Self-guided walking tour guide for groups of 10-30: four neighborhood routes (French Quarter, Garden District, Marigny/Bywater, Tremé), what to narrate at each stop, group pacing logistics, and how to structure a walking tour morning that doesn't feel like homework
-- `_guides/nola-group-sunset-cocktail-hour-guide.md` — The villa golden hour: setting up a proper sunset cocktail hour at the villa for 15-30 people before going out, what to serve, pool vs. rooftop deck vs. courtyard setup, how long to hold it, and why this is the highest-ROI group activity of the trip
-- `_guides/nola-group-new-orleans-saints-bar-guide.md` — The Saints fan bar experience for out-of-town groups: how to find the right sports bar for gameday, what Saints culture feels like vs. other NFL cities, who dat etiquette for visitors, and the difference between watching the Saints at a bar vs. at Caesars Superdome
+- `_guides/nola-group-birthday-trip-guide.md` — Complete birthday trip planning guide for large groups celebrating one person: the birthday-centric itinerary structure, how to plan surprises in a group of 20, villa dinner vs. restaurant buyout for the birthday dinner, the birthday second line option, and how to make the honoree feel celebrated without coordinating a secret from 20 people
+- `_guides/nola-group-final-night-guide.md` — The last night of a NOLA group trip: how to structure a sendoff evening that doesn't feel like a consolation prize, where to eat the last dinner, the bar that earns a proper goodbye, whether to stay late or save energy for departure morning, and the specific last-night experiences that make people want to come back
+- `_guides/nola-group-villa-dinner-night-guide.md` — The full villa dinner night guide for groups of 15-30: when to cook vs. order vs. hire a private chef, the definitive villa dinner menu for NOLA cooking (red beans and rice, jambalaya, grillades and grits), table setting for 20 people, and the two-hour dinner structure that becomes the best night of the trip
+- `_guides/nola-group-second-line-sunday-guide.md` — Attending a neighborhood second line parade on Sunday: the social aid and pleasure club schedule, how to find which second line is happening this weekend, the route structure, what to wear, how to follow the parade as a large group, and the neighborhood context that makes each parade distinct
+- `_guides/nola-group-umbrella-drinks-guide.md` — Walk-around cup culture and the iconic NOLA umbrella drinks for groups: what's worth ordering vs. what's a tourist trap (frozen daiquiri, Hand Grenade, Hurricane), the geography of daiquiri shops, and how the walk-around cup becomes a group mobility tool on a Bourbon Street night
 
 ---
 
 ## Done
 
+- 2026-06-17 — `_guides/nola-group-jazz-funeral-culture-guide.md`
+- 2026-06-17 — `_guides/nola-group-steamboat-natchez-guide.md`
+- 2026-06-17 — `_guides/nola-group-dixie-beer-brewery-guide.md`
+- 2026-06-17 — `_guides/nola-group-po-boy-smackdown-guide.md`
+- 2026-06-17 — `_guides/nola-group-walking-tour-guide.md`
+- 2026-06-17 — `_guides/nola-group-sunset-cocktail-hour-guide.md`
+- 2026-06-17 — `_guides/nola-group-new-orleans-saints-bar-guide.md`
 - 2026-06-16 — `_guides/nola-group-bourbon-street-cocktail-tour-guide.md`
 - 2026-06-16 — `_guides/nola-group-riverfront-evening-guide.md`
 - 2026-06-16 — `_guides/nola-group-mardi-gras-costume-guide.md`
@@ -476,6 +481,13 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-14 12:15 UTC — content: add _guides/nola-group-axe-throwing-guide.md — axe throwing, rage rooms, and competitive activity guide for groups of 10-30 with tournament formats and evening structure
 2026-06-14 12:30 UTC — content: add _guides/nola-group-riverboat-casino-cruise-guide.md — riverboat vs. land casino decision, villa poker tournament setup, and waterfront gambling evening structure for groups of 10-30
 2026-06-14 12:45 UTC — content: add _guides/nola-group-beer-garden-guide.md — beer gardens, outdoor bar courtyards, and open-air drinking venues for groups of 20+ with neighborhood guide and seasonal reality
+2026-06-17 10:00 UTC — content: add _guides/nola-group-jazz-funeral-culture-guide.md — jazz funeral culture, public vs. private, music meaning, respectful visitor guide, and full cultural morning structure for groups
+2026-06-17 10:15 UTC — content: add _guides/nola-group-steamboat-natchez-guide.md — Steamboat Natchez jazz cruise for groups: what it actually is vs. marketing, cruise vs. dinner cruise comparison, group booking logistics, and Moonwalk/Algiers Ferry pairing
+2026-06-17 10:30 UTC — content: add _guides/nola-group-dixie-beer-brewery-guide.md — NOLA craft beer taprooms for groups of 15-25: tour logistics, half-day brewery crawl structure, beer style guide, and Abita day trip option
+2026-06-17 10:45 UTC — content: add _guides/nola-group-po-boy-smackdown-guide.md — villa po-boy smackdown for groups: blind tasting format, judging criteria, roast beef vs. fried seafood debate, and full evening structure for night two
+2026-06-17 11:00 UTC — content: add _guides/nola-group-walking-tour-guide.md — four self-guided walking tour routes for groups of 10-30: French Quarter, Garden District, Marigny/Bywater, Tremé with stop-by-stop narration guide
+2026-06-17 11:15 UTC — content: add _guides/nola-group-sunset-cocktail-hour-guide.md — villa golden hour setup guide: batch cocktail formats, pool vs. courtyard vs. rooftop setup, timing, snacks, and why this is the highest-ROI group activity of the trip
+2026-06-17 11:30 UTC — content: add _guides/nola-group-new-orleans-saints-bar-guide.md — Saints fan bar guide for out-of-town groups: finding the right bar, Who Dat etiquette for visitors, Saints culture context, bar vs. Caesars Superdome comparison
 2026-06-16 12:00 UTC — content: add _guides/nola-group-bourbon-street-cocktail-tour-guide.md — Bourbon Street cocktail tour for large groups: which bars are worth it, how to move 20 people through the Quarter, and the 3-stop structure that ends on Frenchmen Street
 2026-06-16 12:10 UTC — content: add _guides/nola-group-riverfront-evening-guide.md — Moonwalk levee walk, Algiers Ferry crossing, and Algiers Point for groups of 10-30: a free evening on the Mississippi most visitors miss
 2026-06-16 12:20 UTC — content: add _guides/nola-group-mardi-gras-costume-guide.md — Mardi Gras group costume guide: sourcing, theme coordination, what survives the night, and villa staging logistics for groups of 15-30
