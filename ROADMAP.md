@@ -99,16 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-riverfront-picnic-guide.md` — The Woldenberg Park and Moonwalk riverfront picnic for large groups: sourcing from the French Market and grocery stores, laying out a proper riverfront spread, the sunset window, and why this is the best free afternoon in New Orleans for a group of 20
-- `_guides/nola-group-bead-throwing-etiquette-guide.md` — Mardi Gras bead culture for groups: the float rider perspective, what earns beads, how to maximize a group's catch, neutral ground positioning, parade-by-parade bead quality differences, and how to transport 50 pounds of beads home
-- `_guides/nola-group-historic-bar-guide.md` — The oldest and most storied bars in New Orleans: Lafitte's Blacksmith Shop, Old Absinthe House, Napoleon House, Carousel Bar, Tujague's — what makes each one worth visiting, group logistics, and the one-bar-per-neighborhood approach to a bar history evening
-- `_guides/nola-group-hotel-pool-day-guide.md` — Day passes and pool access for groups who don't have their own villa pool: which hotel pools allow day guests, how to navigate the day pass process for 15+ people, and the honest comparison against booking a villa with a private pool
-- `_guides/nola-group-night-before-departure-guide.md` — The final morning of a NOLA group trip: coffee logistics, villa cleanup without it feeling punitive, the slow goodbye, what to do with leftover food and alcohol, and the last group photo before everyone disperses to the airport
+- `_guides/nola-group-villa-bar-setup-guide.md` — Stocking and running the villa bar for groups of 15-30: spirits selection for mixed tastes, ice logistics, batch cocktail quantities, glassware reality check, and how to avoid spending $500 at Total Wine on arrival day
+- `_guides/nola-group-st-charles-streetcar-itinerary.md` — The St. Charles Streetcar as the spine of a full uptown day for large groups: boarding strategy for 20 people, the Garden District window view, Audubon Park stop, uptown restaurant stretch, and the round-trip structure
+- `_guides/nola-group-food-tour-vs-self-guided.md` — Guided food tour vs. self-guided culinary crawl for groups of 15-25: what a professional guide actually adds, how to move 20 people through tight restaurant spaces, the 8-stop eating logistics, and how to build the DIY version for a fraction of the cost
+- `_guides/nola-group-st-patricks-day-guide.md` — St. Patrick's Day in New Orleans for large groups: the Irish Channel parade, cabbage and potato throws, Magazine Street bar sequence, the Parasol's tradition, and why NOLA's St. Patrick's rivals any city in the country
+- `_guides/nola-group-cocktail-party-hosting-guide.md` — Hosting a villa cocktail party for groups of 30+: inviting locals or merging sub-groups, canapé sourcing from the French Market and Rouses, courtyard setup, bar logistics, and the 3-hour party structure that ends cleanly
 
 ---
 
 ## Done
 
+- 2026-06-18 — `_guides/nola-group-riverfront-picnic-guide.md`
+- 2026-06-18 — `_guides/nola-group-bead-throwing-etiquette-guide.md`
+- 2026-06-18 — `_guides/nola-group-historic-bar-guide.md`
+- 2026-06-18 — `_guides/nola-group-hotel-pool-day-guide.md`
+- 2026-06-18 — `_guides/nola-group-night-before-departure-guide.md`
 - 2026-06-17 — `_guides/nola-group-birthday-trip-guide.md`
 - 2026-06-17 — `_guides/nola-group-final-night-guide.md`
 - 2026-06-17 — `_guides/nola-group-villa-dinner-night-guide.md`
@@ -524,4 +529,9 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-15 12:00 UTC — content: add _guides/nola-group-jazz-improv-session-guide.md — jazz workshop and sit-in guide for large groups with rhythm workshop format, sit-in etiquette, and half-day music structure
 2026-06-14 13:00 UTC — content: add _guides/nola-group-piano-bar-guide.md — piano bars and dueling pianos guide for groups of 10-30 with request mechanic, private section booking, and evening structure
 2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
+2026-06-18 10:00 UTC — content: add _guides/nola-group-riverfront-picnic-guide.md — Woldenberg Park and Moonwalk riverfront picnic guide for groups of 20 with French Market sourcing, sunset timing, and evening transition structure
+2026-06-18 10:15 UTC — content: add _guides/nola-group-bead-throwing-etiquette-guide.md — Mardi Gras bead culture guide: float rider perspective, neutral ground positioning, parade-by-parade quality, group coordination, and bead transport logistics
+2026-06-18 10:30 UTC — content: add _guides/nola-group-historic-bar-guide.md — Oldest bars in NOLA group guide: Lafitte's, Old Absinthe House, Napoleon House, Carousel Bar, Tujague's with two route structures and group logistics
+2026-06-18 10:45 UTC — content: add _guides/nola-group-hotel-pool-day-guide.md — Honest hotel pool day pass guide for large groups with cost comparison table vs villa private pool
+2026-06-18 11:00 UTC — content: add _guides/nola-group-night-before-departure-guide.md — Departure morning guide for villa groups: coffee logistics, cleanup structure, leftover decisions, slow goodbye, and last group photo
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
