@@ -99,16 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-villa-bar-setup-guide.md` — Stocking and running the villa bar for groups of 15-30: spirits selection for mixed tastes, ice logistics, batch cocktail quantities, glassware reality check, and how to avoid spending $500 at Total Wine on arrival day
-- `_guides/nola-group-st-charles-streetcar-itinerary.md` — The St. Charles Streetcar as the spine of a full uptown day for large groups: boarding strategy for 20 people, the Garden District window view, Audubon Park stop, uptown restaurant stretch, and the round-trip structure
-- `_guides/nola-group-food-tour-vs-self-guided.md` — Guided food tour vs. self-guided culinary crawl for groups of 15-25: what a professional guide actually adds, how to move 20 people through tight restaurant spaces, the 8-stop eating logistics, and how to build the DIY version for a fraction of the cost
-- `_guides/nola-group-st-patricks-day-guide.md` — St. Patrick's Day in New Orleans for large groups: the Irish Channel parade, cabbage and potato throws, Magazine Street bar sequence, the Parasol's tradition, and why NOLA's St. Patrick's rivals any city in the country
-- `_guides/nola-group-cocktail-party-hosting-guide.md` — Hosting a villa cocktail party for groups of 30+: inviting locals or merging sub-groups, canapé sourcing from the French Market and Rouses, courtyard setup, bar logistics, and the 3-hour party structure that ends cleanly
+- `_guides/nola-group-french-quarter-festival-deep-dive.md` — French Quarter Festival logistics for groups of 15-30: the free stages, crowd movement between venues, the food vendor circuit, and why FQF is the better Jazz Fest for most groups
+- `_guides/nola-group-pool-bar-day-drinking-guide.md` — Combining the villa pool with a bar sequence: the noon-to-midnight day drinking structure that starts at the pool, transitions to afternoon bars, and ends at Frenchmen Street without anyone burning out
+- `_guides/nola-group-krewe-membership-guide.md` — How Mardi Gras krewes work, what membership means, how visiting groups can attend member-only balls and parties, and which krewes regularly welcome out-of-town guests
+- `_guides/nola-group-new-orleans-food-markets-sourcing-guide.md` — Full sourcing guide for groups cooking at the villa: Rouses vs. Whole Foods vs. Winn-Dixie vs. the farmers market, what to buy where, and which ingredients to source locally vs. stock from home
+- `_guides/nola-group-airbnb-vs-villa-honest-comparison.md` — The honest Airbnb vs. dedicated group villa comparison for groups of 15-30: what Airbnb's house rules, single-host dependency, and lack of group-specific amenities mean in practice vs. Castleday and The Syd
 
 ---
 
 ## Done
 
+- 2026-06-18 — `_guides/nola-group-villa-bar-setup-guide.md`
+- 2026-06-18 — `_guides/nola-group-st-charles-streetcar-itinerary.md`
+- 2026-06-18 — `_guides/nola-group-food-tour-vs-self-guided.md`
+- 2026-06-18 — `_guides/nola-group-st-patricks-day-guide.md`
+- 2026-06-18 — `_guides/nola-group-cocktail-party-hosting-guide.md`
 - 2026-06-18 — `_guides/nola-group-riverfront-picnic-guide.md`
 - 2026-06-18 — `_guides/nola-group-bead-throwing-etiquette-guide.md`
 - 2026-06-18 — `_guides/nola-group-historic-bar-guide.md`
@@ -529,6 +534,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-15 12:00 UTC — content: add _guides/nola-group-jazz-improv-session-guide.md — jazz workshop and sit-in guide for large groups with rhythm workshop format, sit-in etiquette, and half-day music structure
 2026-06-14 13:00 UTC — content: add _guides/nola-group-piano-bar-guide.md — piano bars and dueling pianos guide for groups of 10-30 with request mechanic, private section booking, and evening structure
 2026-06-12 14:00 UTC — content: add _guides/nola-group-warehouse-district-dining-guide.md — Julia/Fulton restaurant corridor, private dining rooms, pre-event dinner logistics for Convention Center and Caesars Superdome groups
+2026-06-18 12:00 UTC — content: add _guides/nola-group-villa-bar-setup-guide.md — villa bar setup for groups of 15-30: spirits selection, ice logistics, batch cocktails, glassware, and the full buy guide
+2026-06-18 12:15 UTC — content: add _guides/nola-group-st-charles-streetcar-itinerary.md — full Uptown streetcar day for groups of 15-30: boarding strategy, Garden District, Audubon Park, restaurant strip, round-trip structure
+2026-06-18 12:30 UTC — content: add _guides/nola-group-food-tour-vs-self-guided.md — guided vs. self-guided food tour for groups of 15-25: 8-stop DIY route, movement logistics, cost comparison, and honest tradeoffs
+2026-06-18 12:45 UTC — content: add _guides/nola-group-st-patricks-day-guide.md — St. Patrick's Day for large groups: Irish Channel parade, cabbage throws, Parasol's tradition, Magazine Street bar sequence, villa dinner plan
+2026-06-18 13:00 UTC — content: add _guides/nola-group-cocktail-party-hosting-guide.md — villa cocktail party for 30+: batch cocktails, canapé sourcing, courtyard setup, 3-hour party structure, and merging sub-groups
 2026-06-18 10:00 UTC — content: add _guides/nola-group-riverfront-picnic-guide.md — Woldenberg Park and Moonwalk riverfront picnic guide for groups of 20 with French Market sourcing, sunset timing, and evening transition structure
 2026-06-18 10:15 UTC — content: add _guides/nola-group-bead-throwing-etiquette-guide.md — Mardi Gras bead culture guide: float rider perspective, neutral ground positioning, parade-by-parade quality, group coordination, and bead transport logistics
 2026-06-18 10:30 UTC — content: add _guides/nola-group-historic-bar-guide.md — Oldest bars in NOLA group guide: Lafitte's, Old Absinthe House, Napoleon House, Carousel Bar, Tujague's with two route structures and group logistics
