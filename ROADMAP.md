@@ -99,16 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-french-quarter-festival-deep-dive.md` — French Quarter Festival logistics for groups of 15-30: the free stages, crowd movement between venues, the food vendor circuit, and why FQF is the better Jazz Fest for most groups
-- `_guides/nola-group-pool-bar-day-drinking-guide.md` — Combining the villa pool with a bar sequence: the noon-to-midnight day drinking structure that starts at the pool, transitions to afternoon bars, and ends at Frenchmen Street without anyone burning out
-- `_guides/nola-group-krewe-membership-guide.md` — How Mardi Gras krewes work, what membership means, how visiting groups can attend member-only balls and parties, and which krewes regularly welcome out-of-town guests
-- `_guides/nola-group-new-orleans-food-markets-sourcing-guide.md` — Full sourcing guide for groups cooking at the villa: Rouses vs. Whole Foods vs. Winn-Dixie vs. the farmers market, what to buy where, and which ingredients to source locally vs. stock from home
-- `_guides/nola-group-airbnb-vs-villa-honest-comparison.md` — The honest Airbnb vs. dedicated group villa comparison for groups of 15-30: what Airbnb's house rules, single-host dependency, and lack of group-specific amenities mean in practice vs. Castleday and The Syd
+- `_guides/nola-group-bywater-bar-crawl-guide.md` — The definitive Bywater bar crawl for groups of 15-30: which bars have the outdoor space, the courtyard, or the room to absorb a large group, how to move from Bacchanal through St. Claude Avenue to the Marigny border without losing anyone, and the crawl structure that works for both early arrivals and night owls
+- `_guides/nola-group-group-size-sweet-spot-guide.md` — The honest breakdown of what works and what breaks at 10, 15, 20, and 25 people: restaurant reality, transportation logistics, villa sleeping arrangements, and the activities that are genuinely better or worse at each group size
+- `_guides/nola-group-jazz-fest-survival-guide.md` — Jazz Fest survival for groups: fairgrounds navigation, the multi-stage problem, when to split up vs. stay together, the food situation, transport in and out, and how to pace a group of 20 across a full Jazz Fest day without casualties
+- `_guides/nola-group-villa-game-night-guide.md` — Full villa game night for groups of 15-30: which games work at this scale, how to run a bracket-format tournament, what to serve, the two-hour game night structure, and how to transition the group from games to going out (or not going out)
+- `_guides/nola-group-french-quarter-at-night-guide.md` — The French Quarter after dark for groups of 15-30: the three-act structure (Bourbon Street lap, cocktail bars, exit to Frenchmen), which bars have the capacity for a large group, the courtyard bars that get missed, and how to move 20 people through the Quarter without losing them at the Tropical Isle
 
 ---
 
 ## Done
 
+- 2026-06-19 — `_guides/nola-group-french-quarter-festival-deep-dive.md`
+- 2026-06-19 — `_guides/nola-group-pool-bar-day-drinking-guide.md`
+- 2026-06-19 — `_guides/nola-group-krewe-membership-guide.md`
+- 2026-06-19 — `_guides/nola-group-new-orleans-food-markets-sourcing-guide.md`
+- 2026-06-19 — `_guides/nola-group-airbnb-vs-villa-honest-comparison.md`
 - 2026-06-18 — `_guides/nola-group-villa-bar-setup-guide.md`
 - 2026-06-18 — `_guides/nola-group-st-charles-streetcar-itinerary.md`
 - 2026-06-18 — `_guides/nola-group-food-tour-vs-self-guided.md`
@@ -538,6 +543,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-18 12:15 UTC — content: add _guides/nola-group-st-charles-streetcar-itinerary.md — full Uptown streetcar day for groups of 15-30: boarding strategy, Garden District, Audubon Park, restaurant strip, round-trip structure
 2026-06-18 12:30 UTC — content: add _guides/nola-group-food-tour-vs-self-guided.md — guided vs. self-guided food tour for groups of 15-25: 8-stop DIY route, movement logistics, cost comparison, and honest tradeoffs
 2026-06-18 12:45 UTC — content: add _guides/nola-group-st-patricks-day-guide.md — St. Patrick's Day for large groups: Irish Channel parade, cabbage throws, Parasol's tradition, Magazine Street bar sequence, villa dinner plan
+2026-06-19 10:00 UTC — content: add _guides/nola-group-french-quarter-festival-deep-dive.md — FQF deep dive for groups of 15-30: free stages, crowd movement, food vendor circuit, FQF vs Jazz Fest comparison, and 4-day structure
+2026-06-19 10:15 UTC — content: add _guides/nola-group-pool-bar-day-drinking-guide.md — noon-to-midnight day drinking structure: pool phase, afternoon bar window, dinner anchor, evening bridge, Frenchmen Street finish, pacing and burn rate management
+2026-06-19 10:30 UTC — content: add _guides/nola-group-krewe-membership-guide.md — krewe type breakdown, ball experience guide, visitor access ladder from parade watching to out-of-town membership for groups of 15-30
+2026-06-19 10:45 UTC — content: add _guides/nola-group-new-orleans-food-markets-sourcing-guide.md — Rouses vs Whole Foods vs Winn-Dixie vs farmers market, master sourcing table, bring-from-home vs source-locally breakdown for villa cooking groups
+2026-06-19 11:00 UTC — content: add _guides/nola-group-airbnb-vs-villa-honest-comparison.md — honest Airbnb vs dedicated group villa comparison: house rule reality, single-host dependency, bed count vs sleeps-X, true cost comparison for groups of 15-30
 2026-06-18 13:00 UTC — content: add _guides/nola-group-cocktail-party-hosting-guide.md — villa cocktail party for 30+: batch cocktails, canapé sourcing, courtyard setup, 3-hour party structure, and merging sub-groups
 2026-06-18 10:00 UTC — content: add _guides/nola-group-riverfront-picnic-guide.md — Woldenberg Park and Moonwalk riverfront picnic guide for groups of 20 with French Market sourcing, sunset timing, and evening transition structure
 2026-06-18 10:15 UTC — content: add _guides/nola-group-bead-throwing-etiquette-guide.md — Mardi Gras bead culture guide: float rider perspective, neutral ground positioning, parade-by-parade quality, group coordination, and bead transport logistics
