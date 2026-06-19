@@ -99,7 +99,6 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-bywater-bar-crawl-guide.md` — The definitive Bywater bar crawl for groups of 15-30: which bars have the outdoor space, the courtyard, or the room to absorb a large group, how to move from Bacchanal through St. Claude Avenue to the Marigny border without losing anyone, and the crawl structure that works for both early arrivals and night owls
 - `_guides/nola-group-group-size-sweet-spot-guide.md` — The honest breakdown of what works and what breaks at 10, 15, 20, and 25 people: restaurant reality, transportation logistics, villa sleeping arrangements, and the activities that are genuinely better or worse at each group size
 - `_guides/nola-group-jazz-fest-survival-guide.md` — Jazz Fest survival for groups: fairgrounds navigation, the multi-stage problem, when to split up vs. stay together, the food situation, transport in and out, and how to pace a group of 20 across a full Jazz Fest day without casualties
 - `_guides/nola-group-villa-game-night-guide.md` — Full villa game night for groups of 15-30: which games work at this scale, how to run a bracket-format tournament, what to serve, the two-hour game night structure, and how to transition the group from games to going out (or not going out)
@@ -109,6 +108,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Done
 
+- 2026-06-19 — `_guides/nola-group-bywater-bar-crawl-guide.md`
 - 2026-06-19 — `_guides/nola-group-french-quarter-festival-deep-dive.md`
 - 2026-06-19 — `_guides/nola-group-pool-bar-day-drinking-guide.md`
 - 2026-06-19 — `_guides/nola-group-krewe-membership-guide.md`
@@ -543,6 +543,7 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-18 12:15 UTC — content: add _guides/nola-group-st-charles-streetcar-itinerary.md — full Uptown streetcar day for groups of 15-30: boarding strategy, Garden District, Audubon Park, restaurant strip, round-trip structure
 2026-06-18 12:30 UTC — content: add _guides/nola-group-food-tour-vs-self-guided.md — guided vs. self-guided food tour for groups of 15-25: 8-stop DIY route, movement logistics, cost comparison, and honest tradeoffs
 2026-06-18 12:45 UTC — content: add _guides/nola-group-st-patricks-day-guide.md — St. Patrick's Day for large groups: Irish Channel parade, cabbage throws, Parasol's tradition, Magazine Street bar sequence, villa dinner plan
+2026-06-19 11:15 UTC — content: add _guides/nola-group-bywater-bar-crawl-guide.md — Bywater bar crawl for groups of 15-30 from Bacchanal through St. Claude to the Marigny border
 2026-06-19 10:00 UTC — content: add _guides/nola-group-french-quarter-festival-deep-dive.md — FQF deep dive for groups of 15-30: free stages, crowd movement, food vendor circuit, FQF vs Jazz Fest comparison, and 4-day structure
 2026-06-19 10:15 UTC — content: add _guides/nola-group-pool-bar-day-drinking-guide.md — noon-to-midnight day drinking structure: pool phase, afternoon bar window, dinner anchor, evening bridge, Frenchmen Street finish, pacing and burn rate management
 2026-06-19 10:30 UTC — content: add _guides/nola-group-krewe-membership-guide.md — krewe type breakdown, ball experience guide, visitor access ladder from parade watching to out-of-town membership for groups of 15-30
