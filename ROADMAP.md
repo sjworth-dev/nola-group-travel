@@ -99,17 +99,22 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-hurricane-season-guide.md` — Honest hurricane season planning guide for groups: June-November risk windows, what "tropical storm watch" actually means for a trip, the insurance question, and how to make the August-October shoulder season work if you understand the tradeoffs
-- `_guides/nola-group-parade-float-rider-guide.md` — What it's actually like to ride a Mardi Gras float: how krewe memberships work, the float rider experience from the inside, throws strategy, physical demands, and how to get a group of 6-10 onto the same float
-- `_guides/nola-group-after-midnight-guide.md` — New Orleans after midnight for groups of 10-30: where the city actually goes when the tourists are asleep, the no-last-call reality, late-night food circuit, Frenchmen Street past 1am, and the bars worth staying out for
-- `_guides/nola-group-wedding-rehearsal-dinner-venues.md` — Private venue guide for rehearsal dinners in New Orleans: courtyard restaurants, rooftop options, villa dinner format vs. restaurant private room, and the full comparison for groups of 20-50
-- `_guides/nola-group-slow-morning-guide.md` — The art of the slow NOLA morning for large groups: coffee logistics for 20 people, the three-tier breakfast approach (villa, neighborhood cafe, sit-down brunch), how to use the morning as the trip's recovery infrastructure, and why this is underrated as a group activity
-- `_guides/nola-group-rainy-day-comeback-guide.md` — When the weather turns: the rainy day comeback plan for groups of 15-30 who had outdoor activities on the itinerary — indoor alternatives by neighborhood, the villa-as-activity pivot, and how to reframe the day without losing the group's energy
+- `_guides/nola-group-packing-by-group-type.md` — What to pack based on your group type: bachelorette vs. corporate vs. sports weekend vs. wedding party, with shared infrastructure items (sunscreen run, first aid, portable chargers) and the one-bag-per-subgroup collective approach
+- `_guides/nola-group-first-time-organizer-guide.md` — The first-time group trip organizer playbook: how to set the budget conversation, how to communicate without annoying people, how to handle the person who drops out at the last minute, and how to make the decisions that need to be made
+- `_guides/nola-group-split-schedule-guide.md` — The split schedule model for groups with mixed energy levels, budgets, or interests: how to plan a NOLA trip where not everyone has to do everything together, communication protocols, and how to reunite the group at the right moments
+- `_guides/nola-group-eve-of-wedding-guide.md` — The evening before the wedding: what the wedding party and close family actually do when the rehearsal dinner ends, how to get everyone home without losing anyone, what the separate pre-wedding evenings look like, and how to set up the wedding day for a good start
+- `_guides/nola-group-tipping-culture-deep-dive.md` — Tipping culture in New Orleans beyond the auto-grat question: tipping musicians, second line brass bands, bartenders, villa staff, tour guides, private chefs, and drivers — what's expected, what's exceptional, and what groups get wrong
 
 ---
 
 ## Done
 
+- 2026-06-20 — `_guides/nola-group-hurricane-season-guide.md`
+- 2026-06-20 — `_guides/nola-group-parade-float-rider-guide.md`
+- 2026-06-20 — `_guides/nola-group-after-midnight-guide.md`
+- 2026-06-20 — `_guides/nola-group-wedding-rehearsal-dinner-venues.md`
+- 2026-06-20 — `_guides/nola-group-slow-morning-guide.md`
+- 2026-06-20 — `_guides/nola-group-rainy-day-comeback-guide.md`
 - 2026-06-20 — `_guides/nola-group-group-size-sweet-spot-guide.md`
 - 2026-06-20 — `_guides/nola-group-jazz-fest-survival-guide.md`
 - 2026-06-20 — `_guides/nola-group-villa-game-night-guide.md`
@@ -559,6 +564,12 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-20 12:30 UTC — content: add _guides/nola-group-jazz-fest-survival-guide.md — fairgrounds navigation, multi-stage problem, food circuit, transport, and pacing a full Jazz Fest day for groups of 10-30
 2026-06-20 13:00 UTC — content: add _guides/nola-group-villa-game-night-guide.md — game formats that scale to 15-30, bracket tournament structure, food and batch cocktails, game-to-going-out transition
 2026-06-20 13:30 UTC — content: add _guides/nola-group-french-quarter-at-night-guide.md — three-act structure, courtyard bars, moving 20 people through the Quarter, and the Frenchmen Street exit for groups of 15-30
+2026-06-20 14:00 UTC — content: add _guides/nola-group-hurricane-season-guide.md — honest hurricane season planning guide: risk windows, watch vs. warning, travel insurance, and August-October shoulder season tradeoffs
+2026-06-20 14:15 UTC — content: add _guides/nola-group-parade-float-rider-guide.md — Mardi Gras float rider guide: krewe membership process, throws strategy, physical demands, and getting a group of 6-10 on the same float
+2026-06-20 14:30 UTC — content: add _guides/nola-group-after-midnight-guide.md — New Orleans after midnight for groups: no-last-call reality, city shift after 1am, Frenchmen Street late, late-night food circuit, two-track group movement
+2026-06-20 14:45 UTC — content: add _guides/nola-group-wedding-rehearsal-dinner-venues.md — rehearsal dinner venue guide for groups of 20-50: courtyard restaurants, rooftop options, villa dinner format, full format comparison
+2026-06-20 15:00 UTC — content: add _guides/nola-group-slow-morning-guide.md — slow NOLA morning for large groups: coffee logistics for 20, three-tier breakfast approach, morning as recovery infrastructure
+2026-06-20 15:15 UTC — content: add _guides/nola-group-rainy-day-comeback-guide.md — rainy day comeback plan for groups of 15-30: NOLA rain patterns, indoor alternatives by neighborhood, villa-as-activity pivot, evening comeback structure
 2026-06-18 13:00 UTC — content: add _guides/nola-group-cocktail-party-hosting-guide.md — villa cocktail party for 30+: batch cocktails, canapé sourcing, courtyard setup, 3-hour party structure, and merging sub-groups
 2026-06-18 10:00 UTC — content: add _guides/nola-group-riverfront-picnic-guide.md — Woldenberg Park and Moonwalk riverfront picnic guide for groups of 20 with French Market sourcing, sunset timing, and evening transition structure
 2026-06-18 10:15 UTC — content: add _guides/nola-group-bead-throwing-etiquette-guide.md — Mardi Gras bead culture guide: float rider perspective, neutral ground positioning, parade-by-parade quality, group coordination, and bead transport logistics
