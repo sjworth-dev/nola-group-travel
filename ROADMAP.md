@@ -99,15 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-group-size-sweet-spot-guide.md` — The honest breakdown of what works and what breaks at 10, 15, 20, and 25 people: restaurant reality, transportation logistics, villa sleeping arrangements, and the activities that are genuinely better or worse at each group size
-- `_guides/nola-group-jazz-fest-survival-guide.md` — Jazz Fest survival for groups: fairgrounds navigation, the multi-stage problem, when to split up vs. stay together, the food situation, transport in and out, and how to pace a group of 20 across a full Jazz Fest day without casualties
-- `_guides/nola-group-villa-game-night-guide.md` — Full villa game night for groups of 15-30: which games work at this scale, how to run a bracket-format tournament, what to serve, the two-hour game night structure, and how to transition the group from games to going out (or not going out)
-- `_guides/nola-group-french-quarter-at-night-guide.md` — The French Quarter after dark for groups of 15-30: the three-act structure (Bourbon Street lap, cocktail bars, exit to Frenchmen), which bars have the capacity for a large group, the courtyard bars that get missed, and how to move 20 people through the Quarter without losing them at the Tropical Isle
+- `_guides/nola-group-hurricane-season-guide.md` — Honest hurricane season planning guide for groups: June-November risk windows, what "tropical storm watch" actually means for a trip, the insurance question, and how to make the August-October shoulder season work if you understand the tradeoffs
+- `_guides/nola-group-parade-float-rider-guide.md` — What it's actually like to ride a Mardi Gras float: how krewe memberships work, the float rider experience from the inside, throws strategy, physical demands, and how to get a group of 6-10 onto the same float
+- `_guides/nola-group-after-midnight-guide.md` — New Orleans after midnight for groups of 10-30: where the city actually goes when the tourists are asleep, the no-last-call reality, late-night food circuit, Frenchmen Street past 1am, and the bars worth staying out for
+- `_guides/nola-group-wedding-rehearsal-dinner-venues.md` — Private venue guide for rehearsal dinners in New Orleans: courtyard restaurants, rooftop options, villa dinner format vs. restaurant private room, and the full comparison for groups of 20-50
+- `_guides/nola-group-slow-morning-guide.md` — The art of the slow NOLA morning for large groups: coffee logistics for 20 people, the three-tier breakfast approach (villa, neighborhood cafe, sit-down brunch), how to use the morning as the trip's recovery infrastructure, and why this is underrated as a group activity
+- `_guides/nola-group-rainy-day-comeback-guide.md` — When the weather turns: the rainy day comeback plan for groups of 15-30 who had outdoor activities on the itinerary — indoor alternatives by neighborhood, the villa-as-activity pivot, and how to reframe the day without losing the group's energy
 
 ---
 
 ## Done
 
+- 2026-06-20 — `_guides/nola-group-group-size-sweet-spot-guide.md`
+- 2026-06-20 — `_guides/nola-group-jazz-fest-survival-guide.md`
+- 2026-06-20 — `_guides/nola-group-villa-game-night-guide.md`
+- 2026-06-20 — `_guides/nola-group-french-quarter-at-night-guide.md`
 - 2026-06-19 — `_guides/nola-group-bywater-bar-crawl-guide.md`
 - 2026-06-19 — `_guides/nola-group-french-quarter-festival-deep-dive.md`
 - 2026-06-19 — `_guides/nola-group-pool-bar-day-drinking-guide.md`
@@ -549,6 +555,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-19 10:30 UTC — content: add _guides/nola-group-krewe-membership-guide.md — krewe type breakdown, ball experience guide, visitor access ladder from parade watching to out-of-town membership for groups of 15-30
 2026-06-19 10:45 UTC — content: add _guides/nola-group-new-orleans-food-markets-sourcing-guide.md — Rouses vs Whole Foods vs Winn-Dixie vs farmers market, master sourcing table, bring-from-home vs source-locally breakdown for villa cooking groups
 2026-06-19 11:00 UTC — content: add _guides/nola-group-airbnb-vs-villa-honest-comparison.md — honest Airbnb vs dedicated group villa comparison: house rule reality, single-host dependency, bed count vs sleeps-X, true cost comparison for groups of 15-30
+2026-06-20 12:00 UTC — content: add _guides/nola-group-group-size-sweet-spot-guide.md — logistics breakdown at 10, 15, 20, and 25 people: restaurants, transport, villa beds, activities, what breaks at scale
+2026-06-20 12:30 UTC — content: add _guides/nola-group-jazz-fest-survival-guide.md — fairgrounds navigation, multi-stage problem, food circuit, transport, and pacing a full Jazz Fest day for groups of 10-30
+2026-06-20 13:00 UTC — content: add _guides/nola-group-villa-game-night-guide.md — game formats that scale to 15-30, bracket tournament structure, food and batch cocktails, game-to-going-out transition
+2026-06-20 13:30 UTC — content: add _guides/nola-group-french-quarter-at-night-guide.md — three-act structure, courtyard bars, moving 20 people through the Quarter, and the Frenchmen Street exit for groups of 15-30
 2026-06-18 13:00 UTC — content: add _guides/nola-group-cocktail-party-hosting-guide.md — villa cocktail party for 30+: batch cocktails, canapé sourcing, courtyard setup, 3-hour party structure, and merging sub-groups
 2026-06-18 10:00 UTC — content: add _guides/nola-group-riverfront-picnic-guide.md — Woldenberg Park and Moonwalk riverfront picnic guide for groups of 20 with French Market sourcing, sunset timing, and evening transition structure
 2026-06-18 10:15 UTC — content: add _guides/nola-group-bead-throwing-etiquette-guide.md — Mardi Gras bead culture guide: float rider perspective, neutral ground positioning, parade-by-parade quality, group coordination, and bead transport logistics
