@@ -205,13 +205,13 @@ If you want some of the guided experience without the full cost or logistics: bo
 
 ## The Villas That Feed This
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Castleday's Bywater location puts you in the neighborhood that has become one of the most food-forward areas in New Orleans — within walking distance of several Marigny and Bywater stops on the self-guided route. After a full day of eating, the villa kitchen and private pool are the recovery plan. 4.98 stars across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Castleday's Bywater location puts you in the neighborhood that has become one of the most food-forward areas in New Orleans — within walking distance of several Marigny and Bywater stops on the self-guided route. After a full day of eating, the villa kitchen and private pool are the recovery plan. 4.98 stars across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's Magazine Street and streetcar access makes it easy to stage from the villa and return between stops — or to end the tour at a Magazine Street restaurant before heading back to the pool. Shared heated pool, hot tub, and sauna.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's Magazine Street and streetcar access makes it easy to stage from the villa and return between stops — or to end the tour at a Magazine Street restaurant before heading back to the pool. Shared heated pool, hot tub, and sauna.
 
 ---
 
 ## Plan the Crawl
 
-- [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool and outdoor kitchen
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool and outdoor kitchen

@@ -263,13 +263,13 @@ These are 4-day estimates. The spread reflects whether you buy handles vs. 750mL
 
 ## The Villas That Make This Work
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Castleday's full villa kitchens have the countertop space, the refrigeration, and the outdoor courtyard setup to run a real villa bar for a group of this size. The private pool and courtyard are the natural gathering point for a cocktail hour. No shared spaces means the bar is yours alone.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Castleday's full villa kitchens have the countertop space, the refrigeration, and the outdoor courtyard setup to run a real villa bar for a group of this size. The private pool and courtyard are the natural gathering point for a cocktail hour. No shared spaces means the bar is yours alone.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen that doubles perfectly as a bar station. The Syd's shared heated pool, hot tub, and courtyard create the kind of ambient social space where a villa bar becomes the center of gravity for the entire group. One block from the St. Charles Streetcar for when the group decides to move.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen that doubles perfectly as a bar station. The Syd's shared heated pool, hot tub, and courtyard create the kind of ambient social space where a villa bar becomes the center of gravity for the entire group. One block from the St. Charles Streetcar for when the group decides to move.
 
 ---
 
 ## Stock the Bar Right
 
-- [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, up to 30 guests, full kitchens, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool
+- Castleday Retreats — Bywater private villas, up to 30 guests, full kitchens, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool

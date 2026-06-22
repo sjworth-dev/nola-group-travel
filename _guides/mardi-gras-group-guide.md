@@ -128,9 +128,9 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 Hotel rooms don't work for large groups — you lose the ability to gather, cook meals together, and have a central base. During Mardi Gras, that base matters more than on a normal trip. You'll need it as a meeting point, a recovery room, and a staging area every single day.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, art-filled interiors, complete privacy. The Bywater is east of downtown — it's walkable to the Marigny and Frenchmen Street, and a reasonable Uber to the St. Charles parade route when streets are open. This is the best option for groups who want privacy and want to cook meals at the house (critical during Mardi Gras when restaurants are overwhelmed).
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, art-filled interiors, complete privacy. The Bywater is east of downtown — it's walkable to the Marigny and Frenchmen Street, and a reasonable Uber to the St. Charles parade route when streets are open. This is the best option for groups who want privacy and want to cook meals at the house (critical during Mardi Gras when restaurants are overwhelmed).
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — which puts you on the parade route in minutes. The LGD location is ideal if your group wants to be close to the main uptown parades without fighting for position on the route itself.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — which puts you on the parade route in minutes. The LGD location is ideal if your group wants to be close to the main uptown parades without fighting for position on the route itself.
 
 Both properties book out for Mardi Gras season well in advance. Don't wait.
 
@@ -192,7 +192,7 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 For large groups — book early:
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.
+- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
+- **The Syd** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.
 
 Both book out for Mardi Gras season. Check availability now.

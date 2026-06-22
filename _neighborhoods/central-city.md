@@ -169,9 +169,9 @@ Groups that understand this context visit differently than groups that don't. Th
 
 Central City doesn't have large-group accommodation on the corridor itself, but two properties close by make excellent bases for groups who want to visit Central City as part of a broader trip.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas sleeping up to 22. One block from the St. Charles Streetcar, which puts you 10-15 minutes from the OCH corridor. The streetcar also connects you to Uptown, the CBD, and back toward the French Quarter. The Syd's location is the most convenient base for Central City visits combined with Magazine Street and Garden District exploration.
+**The Syd** — Lower Garden District, multiple villas sleeping up to 22. One block from the St. Charles Streetcar, which puts you 10-15 minutes from the OCH corridor. The streetcar also connects you to Uptown, the CBD, and back toward the French Quarter. The Syd's location is the most convenient base for Central City visits combined with Magazine Street and Garden District exploration.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Further from Central City but excellent if your group wants a Bywater home base and is making Central City a half-day excursion. The Bywater and the OCH corridor represent two distinct faces of New Orleans' cultural identity — pairing them in a single trip gives you real depth.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Further from Central City but excellent if your group wants a Bywater home base and is making Central City a half-day excursion. The Bywater and the OCH corridor represent two distinct faces of New Orleans' cultural identity — pairing them in a single trip gives you real depth.
 
 Both properties handle large groups and can help you structure a visit to Central City as part of a multi-neighborhood itinerary.
 
@@ -179,5 +179,5 @@ Both properties handle large groups and can help you structure a visit to Centra
 
 ## Plan Your Visit
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater base, private villas, up to 30 per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, closest base to Central City, up to 22 per villa
+- Castleday Retreats — Bywater base, private villas, up to 30 per villa
+- The Syd — Lower Garden District, closest base to Central City, up to 22 per villa

@@ -262,9 +262,9 @@ Walk toward the French Quarter or Warehouse District from the Superdome. Stop fo
 
 Location matters on gameday. Being in the CBD or Warehouse District means you walk to the game and walk back — no Uber coordination, no surge pricing.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, about 25-30 minutes on foot from the Superdome (or 10-minute Uber). Multiple villas sleeping up to 22 each, shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which you can ride toward the CBD. Great base for groups who want Magazine Street access and are doing the Saints game as one piece of a bigger trip.
+**The Syd** — Lower Garden District, about 25-30 minutes on foot from the Superdome (or 10-minute Uber). Multiple villas sleeping up to 22 each, shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which you can ride toward the CBD. Great base for groups who want Magazine Street access and are doing the Saints game as one piece of a bigger trip.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, about 15-20 minutes by Uber from the Superdome. Three private villas sleeping up to 30 each, private pools. The post-game return to a private pool is legitimately great — the vibe of a Saints win with your whole group in one space is a top-10 experience. Bywater's restaurant and bar scene (Frenchmen Street) is a 10-minute walk for the post-game evening.
+**Castleday Retreats** — Bywater, about 15-20 minutes by Uber from the Superdome. Three private villas sleeping up to 30 each, private pools. The post-game return to a private pool is legitimately great — the vibe of a Saints win with your whole group in one space is a top-10 experience. Bywater's restaurant and bar scene (Frenchmen Street) is a 10-minute walk for the post-game evening.
 
 Both properties give your group a genuine home base — the place you return to after the game, where the recap happens, where the highlights get watched.
 
@@ -274,5 +274,5 @@ Both properties give your group a genuine home base — the place you return to 
 
 The Saints game is the centerpiece of the trip. Do it right.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, up to 30/villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, streetcar access to the CBD, up to 22/villa
+- Castleday Retreats — Bywater, private pools, up to 30/villa
+- The Syd — Lower Garden District, streetcar access to the CBD, up to 22/villa

@@ -133,9 +133,9 @@ Lakeview is not walking distance from the French Quarter or most major hotel are
 
 Most groups visiting New Orleans are based in Bywater, Lower Garden District, French Quarter, or Garden District — which are all 15–20 minutes from Lakeview and City Park by car. You don't need to stay in Lakeview to make good use of it; you need a reliable way to get there and back.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. From the Bywater, City Park is a 15-minute Uber north — an easy day trip. The private pools at each villa (The Herald, The Cocodrie, The Florentine) mean you don't need to travel far for the outdoor pool experience the lakefront trip provides. Bywater puts you between Frenchmen Street (10 minutes west) and City Park (15 minutes north), which is a good base for a multi-day itinerary that covers both.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. From the Bywater, City Park is a 15-minute Uber north — an easy day trip. The private pools at each villa (The Herald, The Cocodrie, The Florentine) mean you don't need to travel far for the outdoor pool experience the lakefront trip provides. Bywater puts you between Frenchmen Street (10 minutes west) and City Park (15 minutes north), which is a good base for a multi-day itinerary that covers both.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. From the Lower Garden District, City Park is a 15-minute drive north. The St. Charles Streetcar connection is worth knowing for this trip — the Canal Street streetcar from downtown gets you to City Park, which is a reasonable adventure for groups who want to navigate transit rather than Ubers. The Syd's shared heated pool, hot tub, and sauna mean the outdoor amenity at the villa competes well with the lakefront — use both.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. From the Lower Garden District, City Park is a 15-minute drive north. The St. Charles Streetcar connection is worth knowing for this trip — the Canal Street streetcar from downtown gets you to City Park, which is a reasonable adventure for groups who want to navigate transit rather than Ubers. The Syd's shared heated pool, hot tub, and sauna mean the outdoor amenity at the villa competes well with the lakefront — use both.
 
 ---
 
@@ -143,5 +143,5 @@ Most groups visiting New Orleans are based in Bywater, Lower Garden District, Fr
 
 Lakeview and City Park are the parts of New Orleans that most visitors miss and most residents love. If your group has a day with some flexibility — especially a recovery day where you want to be outside without being in the tourist circuit — this is the right call. City Park alone justifies the trip. The lakefront at sunset makes it worth writing home about.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, 15 minutes from City Park, private pools, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, streetcar access to the Canal Street line north to City Park
+- Castleday Retreats — Bywater villas, 15 minutes from City Park, private pools, up to 30 guests
+- The Syd — Lower Garden District, up to 22 guests, streetcar access to the Canal Street line north to City Park

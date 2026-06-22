@@ -173,13 +173,13 @@ New Orleans markets are best in the cooler months (October through April). The s
 
 ## Where to Base Your Market Evening
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you closest to the St. Claude Arts District markets, the Marigny pop-up market scene, and Frenchmen Street's weekend art market. The French Market is a 15-minute rideshare. The Bywater is also the neighborhood where local markets announce and operate most frequently — your neighbors are the people running these events. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you closest to the St. Claude Arts District markets, the Marigny pop-up market scene, and Frenchmen Street's weekend art market. The French Market is a 15-minute rideshare. The Bywater is also the neighborhood where local markets announce and operate most frequently — your neighbors are the people running these events. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the St. Charles Streetcar reaches the CBD and the French Market in under 20 minutes. The Lower Garden District and Garden District neighborhoods also host their own seasonal markets and neighborhood events that are worth monitoring.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the St. Charles Streetcar reaches the CBD and the French Market in under 20 minutes. The Lower Garden District and Garden District neighborhoods also host their own seasonal markets and neighborhood events that are worth monitoring.
 
 ---
 
 ## Plan Your Market Night
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, St. Claude Arts District walkable, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, St. Charles Streetcar one block
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, St. Claude Arts District walkable, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, St. Charles Streetcar one block

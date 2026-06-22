@@ -189,9 +189,9 @@ Twenty people at a music venue is genuinely logistically harder than two people.
 
 The best music neighborhoods to stay in are the Bywater and the Marigny — walking distance to Frenchmen Street, 15 minutes to the French Quarter. The Lower Garden District puts you close to Tipitina's and Magazine Street.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts Frenchmen Street within walking distance — you leave the house when the music starts and walk home when it ends. No Ubers, no logistics. The Herald, The Cocodrie, and The Florentine each have the outdoor space for a proper pre-show gathering. Private pools for the next-morning recovery.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts Frenchmen Street within walking distance — you leave the house when the music starts and walk home when it ends. No Ubers, no logistics. The Herald, The Cocodrie, and The Florentine each have the outdoor space for a proper pre-show gathering. Private pools for the next-morning recovery.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which gives you direct access to Tipitina's uptown and easy connections to the French Quarter and Frenchmen Street. The artist-designed interiors fit a city that takes music this seriously.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which gives you direct access to Tipitina's uptown and easy connections to the French Quarter and Frenchmen Street. The artist-designed interiors fit a city that takes music this seriously.
 
 For a group where Frenchmen Street and Preservation Hall are the primary targets: Castleday's Bywater location is closer. For groups building a full-city music tour that includes Tipitina's and Magazine Street: The Syd's Lower Garden District location is the better anchor.
 
@@ -199,5 +199,5 @@ For a group where Frenchmen Street and Preservation Hall are the primary targets
 
 ## Book Your Music Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, St. Charles Streetcar access, artist-designed villas
+- Castleday Retreats — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests
+- The Syd — Lower Garden District, up to 22 guests, St. Charles Streetcar access, artist-designed villas

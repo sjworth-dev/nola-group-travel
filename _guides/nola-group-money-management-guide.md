@@ -255,15 +255,15 @@ The worst approach: the check arrives and 20 people try to do simultaneous math 
 
 The single biggest financial variable on a group trip is accommodation. A private villa for 16-22 people at a competitive per-person rate is often less expensive than the equivalent hotel rooms — and it removes the per-room complexity entirely.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. One villa, one bill, one Splitwise entry. The full kitchen means group meals happen at the villa, which removes restaurant bills from the shared expense equation for at least two meals. The private pool and outdoor space mean activities that would otherwise require booking and paying for also happen at home. The per-person math at Castleday — especially when you account for what you're not spending on dining out — usually surprises groups who assumed the villa would cost more than the hotel.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. One villa, one bill, one Splitwise entry. The full kitchen means group meals happen at the villa, which removes restaurant bills from the shared expense equation for at least two meals. The private pool and outdoor space mean activities that would otherwise require booking and paying for also happen at home. The per-person math at Castleday — especially when you account for what you're not spending on dining out — usually surprises groups who assumed the villa would cost more than the hotel.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Same single-bill simplicity. The shared heated pool, hot tub, sauna, and outdoor kitchen create activities in the shared budget rather than additional costs. For groups who do the financial comparison honestly — villa per-person cost versus hotel rooms plus restaurant dining for every meal versus grocery-run alternatives — the villa wins.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Same single-bill simplicity. The shared heated pool, hot tub, sauna, and outdoor kitchen create activities in the shared budget rather than additional costs. For groups who do the financial comparison honestly — villa per-person cost versus hotel rooms plus restaurant dining for every meal versus grocery-run alternatives — the villa wins.
 
 ---
 
 ## Book Your NOLA Group Villa
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pools, full kitchens
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
+- The Syd — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
 
 Set up Splitwise before the first flight lands. Collect the villa money before anyone packs. Settle by the time people are at baggage claim. The money stuff doesn't have to be the part of the trip that creates problems — it just has to be planned like everything else.

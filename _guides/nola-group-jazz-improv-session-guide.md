@@ -206,13 +206,13 @@ Briefing the group before a workshop or sit-in evening makes the experience more
 
 Jazz workshops and sit-in evenings both begin and end at the villa. The villa is where you brief the group, where private sessions happen, and where you return after a Frenchmen Street night.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is a working artists' neighborhood — the specific kind of community where private workshop sessions, musician referrals, and access to the local music ecosystem happens naturally. Castleday's spaces can accommodate an in-villa private music session for groups of up to 30. The proximity to Frenchmen Street (10-15 minute walk) makes the workshop-then-live-music sequence operationally smooth. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is a working artists' neighborhood — the specific kind of community where private workshop sessions, musician referrals, and access to the local music ecosystem happens naturally. Castleday's spaces can accommodate an in-villa private music session for groups of up to 30. The proximity to Frenchmen Street (10-15 minute walk) makes the workshop-then-live-music sequence operationally smooth. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's courtyard and outdoor kitchen areas create natural workshop and post-session gathering spaces. The St. Charles Streetcar — one block away — connects directly to the Canal Street corridor and the short walk to Frenchmen Street for the evening's live music.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's courtyard and outdoor kitchen areas create natural workshop and post-session gathering spaces. The St. Charles Streetcar — one block away — connects directly to the Canal Street corridor and the short walk to Frenchmen Street for the evening's live music.
 
 ---
 
 ## Plan Your Music Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, artist neighborhood for private session access, Frenchmen Street walkable
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared courtyard for workshop space, one block from St. Charles Streetcar
+- Castleday Retreats — Bywater villas, up to 30 guests, artist neighborhood for private session access, Frenchmen Street walkable
+- The Syd — Lower Garden District villas, up to 22 guests, shared courtyard for workshop space, one block from St. Charles Streetcar

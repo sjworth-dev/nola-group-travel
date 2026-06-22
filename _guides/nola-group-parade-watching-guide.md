@@ -176,13 +176,13 @@ This is where groups fail. The parade ends. Everyone is simultaneously hungry, t
 
 Long parade days require a real base. Somewhere to stage the supplies, store the beads, and return to when the parade is done.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is close enough to major parade routes that you can walk to the neutral ground, spend the day at the parade, and walk back with your beads. The villa private pools are the best post-parade recovery option in the city — the group returns, drops the beads, and collapses into the pool before dinner. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is close enough to major parade routes that you can walk to the neutral ground, spend the day at the parade, and walk back with your beads. The villa private pools are the best post-parade recovery option in the city — the group returns, drops the beads, and collapses into the pool before dinner. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's Lower Garden District location puts you close to the Uptown parade route and Magazine Street — the neighborhood is parade-proximate without being in the thickest of the crowd. The shared outdoor kitchen handles the post-parade spread without requiring a restaurant reservation.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's Lower Garden District location puts you close to the Uptown parade route and Magazine Street — the neighborhood is parade-proximate without being in the thickest of the crowd. The shared outdoor kitchen handles the post-parade spread without requiring a restaurant reservation.
 
 ---
 
 ## Book Your Parade Season Base
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, parade-route-accessible, private pools for post-parade recovery
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, proximity to Uptown parade route, shared outdoor kitchen and pool
+- Castleday Retreats — Bywater villas, up to 30 guests, parade-route-accessible, private pools for post-parade recovery
+- The Syd — Lower Garden District villas, up to 22 guests, proximity to Uptown parade route, shared outdoor kitchen and pool

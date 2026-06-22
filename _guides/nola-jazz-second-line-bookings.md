@@ -266,9 +266,9 @@ The afternoon format works better for groups that want the rest of the evening f
 
 The neighborhood context matters for a second line. The Bywater and Tremé are the historical heartland of this tradition — performing or parading through these streets has cultural weight that a second line in a hotel corridor does not.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine sit in the neighborhood where this tradition lives. A villa second line that starts at the Castleday courtyard gate and parades through the surrounding blocks is the most contextually appropriate format available to a private group in New Orleans. The Cocodrie's outdoor space handles a 6-8 piece band comfortably for a villa performance before or after the parade. The Bywater location also puts you walking distance from Frenchmen Street for the natural evening continuation.
+**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine sit in the neighborhood where this tradition lives. A villa second line that starts at the Castleday courtyard gate and parades through the surrounding blocks is the most contextually appropriate format available to a private group in New Orleans. The Cocodrie's outdoor space handles a 6-8 piece band comfortably for a villa performance before or after the parade. The Bywater location also puts you walking distance from Frenchmen Street for the natural evening continuation.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District has its own musical history and is a legitimate setting for a brass band event. The outdoor kitchen and shared common areas at The Syd provide the gathering space for a villa performance, and the shared pool and hot tub make the post-second-line recovery natural. One block from the St. Charles Streetcar for groups that want to extend into the French Quarter after.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District has its own musical history and is a legitimate setting for a brass band event. The outdoor kitchen and shared common areas at The Syd provide the gathering space for a villa performance, and the shared pool and hot tub make the post-second-line recovery natural. One block from the St. Charles Streetcar for groups that want to extend into the French Quarter after.
 
 Both properties have hosted groups who've hired brass bands and organized second line events. The hosts know the vendors, know the neighborhoods, and can make introductions. This is worth asking about when you book.
 
@@ -276,5 +276,5 @@ Both properties have hosted groups who've hired brass bands and organized second
 
 ## Plan Your Second Line
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private outdoor space, heartland of the second line tradition
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, shared outdoor kitchen and pool, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests per villa, private outdoor space, heartland of the second line tradition
+- The Syd — Lower Garden District villas, up to 22 guests per villa, shared outdoor kitchen and pool, streetcar access

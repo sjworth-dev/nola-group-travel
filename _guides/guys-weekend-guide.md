@@ -215,9 +215,9 @@ This is where it either comes together or falls apart. Twenty guys in five separ
 
 You need one place. One kitchen. One common area. Ideally, one pool.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. The Herald has the largest common areas — good for a crew that wants space to spread out. The Cocodrie has the best outdoor setup. No neighbors to worry about, no noise complaints. Walking distance to Frenchmen Street. This is the move for guys trips that want a real base camp.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. The Herald has the largest common areas — good for a crew that wants space to spread out. The Cocodrie has the best outdoor setup. No neighbors to worry about, no noise complaints. Walking distance to Frenchmen Street. This is the move for guys trips that want a real base camp.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The artist-designed rooms are a talking point — everyone notices them. Slightly smaller capacity per villa, but multiple villas available. Good location if your group is more sports-and-nightlife focused (closer to CBD, Superdome).
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The artist-designed rooms are a talking point — everyone notices them. Slightly smaller capacity per villa, but multiple villas available. Good location if your group is more sports-and-nightlife focused (closer to CBD, Superdome).
 
 For a true large-group guys weekend — especially if you're cooking meals, running poker nights, or want pool time built into the itinerary — a private villa is not a luxury, it's logistics. You need the space.
 
@@ -225,5 +225,5 @@ For a true large-group guys weekend — especially if you're cooking meals, runn
 
 ## Book Your Guys Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Private villas, Bywater, up to 30 guests, private pools
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and hot tub, streetcar access
+- Castleday Retreats — Private villas, Bywater, up to 30 guests, private pools
+- The Syd — Lower Garden District, up to 22 guests, shared pool and hot tub, streetcar access

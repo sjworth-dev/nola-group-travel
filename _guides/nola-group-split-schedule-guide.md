@@ -194,15 +194,15 @@ Don't try to reunite the group mid-day when two subgroups are in different parts
 
 The hub needs to be a real hub — space enough for 20 people to disperse within it, come and go, be social or be alone, and feel like the full group is together even when half of them are out on their own track.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The design of each villa has the common areas to accommodate a full group and the private pool, courtyard, and kitchen to be a genuinely good base. When Track A comes back at 5pm from the museum, they can find the pool going and the kitchen open and have a full hour before Track B gets back from the golf course. That's what a good hub produces.
+**Castleday Retreats** — Three private villas in Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The design of each villa has the common areas to accommodate a full group and the private pool, courtyard, and kitchen to be a genuinely good base. When Track A comes back at 5pm from the museum, they can find the pool going and the kitchen open and have a full hour before Track B gets back from the golf course. That's what a good hub produces.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The shared heated pool, hot tub, sauna, and outdoor kitchen are built for exactly the kind of "some people are back, some people are still out" informal gathering that makes the split schedule's reunions work. The Syd's central location also makes it easy for subgroups to get back from wherever they've been — one block from the St. Charles Streetcar, easy rideshare access from anywhere in the city.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The shared heated pool, hot tub, sauna, and outdoor kitchen are built for exactly the kind of "some people are back, some people are still out" informal gathering that makes the split schedule's reunions work. The Syd's central location also makes it easy for subgroups to get back from wherever they've been — one block from the St. Charles Streetcar, easy rideshare access from anywhere in the city.
 
 ---
 
 ## Book Your NOLA Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pool, private space
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, heated pool and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, private pool, private space
+- The Syd — Lower Garden District, up to 22 guests, heated pool and outdoor kitchen
 
 Plan around your group's actual composition. Let the sub-schedules breathe. Come back together at the moments that matter.

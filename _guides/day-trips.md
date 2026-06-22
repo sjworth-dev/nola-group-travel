@@ -198,8 +198,8 @@ Search for "New Orleans plantation tour group" and "New Orleans day trip group c
 
 The best day trips start and end at a great home base. Large groups in New Orleans stay at:
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Art-filled, private pools, full kitchens. Come back from a long day trip and decompress by the pool.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Art-filled, private pools, full kitchens. Come back from a long day trip and decompress by the pool.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. Return from a hot day trip and get in the hot tub.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. Return from a hot day trip and get in the hot tub.
 
 Both properties are 20-30 minutes from the departure points for most day trips via highway — you're not losing time commuting before you even get started.

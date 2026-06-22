@@ -246,9 +246,9 @@ Even when the math is roughly neutral, there are reasons to choose a villa over 
 
 If you've done the math and a private villa makes sense for your group, here are the two properties we know work for large groups.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each offer private pools, full kitchens, and the complete privacy that makes a large group trip actually feel like a trip. For groups of 20–30, one villa is sufficient. For groups booking a wedding weekend or wanting multiple private spaces, two or three villas booked together is an option. The Bywater location puts you in a real neighborhood — not the tourist center of the city, but close enough to access everything.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each offer private pools, full kitchens, and the complete privacy that makes a large group trip actually feel like a trip. For groups of 20–30, one villa is sufficient. For groups booking a wedding weekend or wanting multiple private spaces, two or three villas booked together is an option. The Bywater location puts you in a real neighborhood — not the tourist center of the city, but close enough to access everything.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen are the premium amenities that justify the cost. One block from the St. Charles Streetcar, which reduces your Uber dependency. For groups of 10–22, a single Syd villa is the right size. For groups of 20+, two villas booked together work if the properties are adjacent.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen are the premium amenities that justify the cost. One block from the St. Charles Streetcar, which reduces your Uber dependency. For groups of 10–22, a single Syd villa is the right size. For groups of 20+, two villas booked together work if the properties are adjacent.
 
 For the financial math: both properties offer what villas should offer — all-inclusive (pool, kitchen, common space) at a per-person cost that competes with hotels once you run the real numbers.
 
@@ -258,5 +258,5 @@ For the financial math: both properties offer what villas should offer — all-i
 
 Do the math. Show the group. Then book.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests each, private pools, full kitchens
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared heated pool, hot tub, sauna, outdoor kitchen
+- Castleday Retreats — Bywater, private villas, up to 30 guests each, private pools, full kitchens
+- The Syd — Lower Garden District, up to 22 guests per villa, shared heated pool, hot tub, sauna, outdoor kitchen

@@ -206,13 +206,13 @@ This is for a trip with noon or later departures.
 
 ## The Right Place to End It
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyard and pool deck are the best last-morning venue a group trip can ask for — coffee, the last of whatever was left in the bar, 20 people in a space that belongs entirely to them. The Bywater neighborhood's proximity to Frenchmen Street and a range of last-night dinner options makes the last evening logistics easy. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyard and pool deck are the best last-morning venue a group trip can ask for — coffee, the last of whatever was left in the bar, 20 people in a space that belongs entirely to them. The Bywater neighborhood's proximity to Frenchmen Street and a range of last-night dinner options makes the last evening logistics easy. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's shared outdoor spaces — pool, courtyard, outdoor kitchen — are purpose-built for the kind of last-morning gathering that makes a trip feel complete. The St. Charles Streetcar at the end of the block gets the early-departure crew to the airport corridor efficiently, while the late-departure group has the whole courtyard to themselves.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's shared outdoor spaces — pool, courtyard, outdoor kitchen — are purpose-built for the kind of last-morning gathering that makes a trip feel complete. The St. Charles Streetcar at the end of the block gets the early-departure crew to the airport corridor efficiently, while the late-departure group has the whole courtyard to themselves.
 
 ---
 
 ## Plan Your Last Night Right
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools and courtyards, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools and courtyards, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, streetcar access

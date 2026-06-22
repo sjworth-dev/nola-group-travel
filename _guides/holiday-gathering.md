@@ -179,9 +179,9 @@ Bourbon Street drops a giant fleur-de-lis at midnight. The entire city becomes a
 
 ### For Large Groups
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens perfect for holiday cooking. Space for the whole extended family.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens perfect for holiday cooking. Space for the whole extended family.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location.
 
 ### What Matters for Holidays
 
@@ -239,5 +239,5 @@ Holidays are about being together. New Orleans just gives you a better backdrop 
 
 For holiday large groups:
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Full kitchens for holiday cooking, private pools
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Central location, art-filled spaces
+- Castleday Retreats – Full kitchens for holiday cooking, private pools
+- The Syd – Central location, art-filled spaces

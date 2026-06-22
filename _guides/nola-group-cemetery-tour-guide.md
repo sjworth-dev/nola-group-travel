@@ -173,13 +173,13 @@ The above-ground tomb tradition isn't just a visual curiosity. It tells you some
 
 Cemetery visits pair well with a Garden District base or a Bywater base — both neighborhoods have walking distance to cultural context.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, St. Louis No. 1 is a short rideshare to the French Quarter, and Lafayette Cemetery is 15-20 minutes by streetcar or rideshare through the Garden District. The villa's intimate atmosphere — art-filled interiors, private pool — provides a different kind of contemplative environment to return to after the cemetery half-day. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, St. Louis No. 1 is a short rideshare to the French Quarter, and Lafayette Cemetery is 15-20 minutes by streetcar or rideshare through the Garden District. The villa's intimate atmosphere — art-filled interiors, private pool — provides a different kind of contemplative environment to return to after the cemetery half-day. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, and outdoor kitchen. The Syd's Lower Garden District location puts Lafayette Cemetery within a 5-10 minute walk — the closest major group accommodation to the Garden District cemetery corridor. Walk out of The Syd, cross through the neighborhood, and you're at the cemetery gate.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, and outdoor kitchen. The Syd's Lower Garden District location puts Lafayette Cemetery within a 5-10 minute walk — the closest major group accommodation to the Garden District cemetery corridor. Walk out of The Syd, cross through the neighborhood, and you're at the cemetery gate.
 
 ---
 
 ## Plan Your Cemetery Visit
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, art-filled interiors, private pools, easy access to both cemetery districts
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, walking distance to Lafayette Cemetery, shared outdoor kitchen and heated pool
+- Castleday Retreats — Bywater villas, up to 30 guests, art-filled interiors, private pools, easy access to both cemetery districts
+- The Syd — Lower Garden District villas, up to 22 guests, walking distance to Lafayette Cemetery, shared outdoor kitchen and heated pool

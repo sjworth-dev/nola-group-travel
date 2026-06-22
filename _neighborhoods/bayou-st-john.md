@@ -166,9 +166,9 @@ Bayou St. John is a half-day destination, not a full day. Build it into a larger
 
 From Bayou St. John, rideshares are easy and cost-effective during the day. Budget 15-20 minutes to any major neighborhood.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater is roughly 20 minutes by rideshare from Bayou St. John — close enough that you can do the bayou as a morning activity and be back at the villa pool by early afternoon. The Bywater's proximity to the Marigny also means Frenchmen Street live music is minutes away for the evening.
+**Castleday Retreats** in the Bywater is roughly 20 minutes by rideshare from Bayou St. John — close enough that you can do the bayou as a morning activity and be back at the villa pool by early afternoon. The Bywater's proximity to the Marigny also means Frenchmen Street live music is minutes away for the evening.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District is 20-25 minutes from Bayou St. John. The St. Charles Streetcar can also get you within a few blocks — ride the streetcar to the Canal Street stop, transfer to the Canal Street streetcar line toward Mid-City, and you're close to the bayou's southern end. It's slower but more local than ridesharing.
+**The Syd** in the Lower Garden District is 20-25 minutes from Bayou St. John. The St. Charles Streetcar can also get you within a few blocks — ride the streetcar to the Canal Street stop, transfer to the Canal Street streetcar line toward Mid-City, and you're close to the bayou's southern end. It's slower but more local than ridesharing.
 
 ---
 

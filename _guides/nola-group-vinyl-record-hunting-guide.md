@@ -171,7 +171,7 @@ Three years later, someone pulls out a $4 New Orleans R&B record they found on F
 
 A group that comes home from an afternoon crate dig wants somewhere to play what they found. The right villa has a turntable, a common area with good speakers, and outdoor space to extend the evening after the records get played.
 
-### [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### Castleday Retreats
 
 Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with local art throughout, private pools, and full common areas. The Bywater location is ideal for a record crawl: the Marigny and its record culture are adjacent, the Frenchmen Street music scene is a short walk, and the arts-focused neighborhood means the stores are within the area the group will already be exploring.
 
@@ -179,7 +179,7 @@ Three private villas in the Bywater — The Herald, The Cocodrie, and The Floren
 
 The Bywater's evening culture — Bacchanal, St. Claude bars, the levee — gives the record crawl a natural second act when the afternoon digging ends.
 
-### [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### The Syd
 
 Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by a local New Orleans artist.
 
@@ -191,7 +191,7 @@ The Syd's artist-designed rooms mean the property itself reflects the same cultu
 
 The afternoon costs almost nothing and produces some of the trip's most memorable moments.
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas, Marigny record stores adjacent, 14-30 guests, 4.98-star average
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, artist-designed villas, outdoor kitchen and pool for the evening playback session, up to 22 guests per villa
+- **Castleday Retreats** — Bywater, 3 private villas, Marigny record stores adjacent, 14-30 guests, 4.98-star average
+- **The Syd** — Lower Garden District, artist-designed villas, outdoor kitchen and pool for the evening playback session, up to 22 guests per villa
 
 Find something. Bring it home. Play it at the villa. That's the move.

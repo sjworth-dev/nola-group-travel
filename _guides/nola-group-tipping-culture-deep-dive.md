@@ -209,15 +209,15 @@ If your group has hired a private chef to cook at the villa — for a cooking cl
 
 Villa-based group travel changes the tipping calculus in some useful ways. You control the bar, you manage the overnight situation without hotel room service, and your private space means fewer incidental service interactions. But the world outside the villa — the musicians, the tour guides, the restaurants, the brass bands — still requires the full range of tipping engagement.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Villa-based group travel means the pool bar, the kitchen cocktails, and the late-night snack session happen in your space without a server. The money you save on those interactions can go toward tipping the musicians on Frenchmen Street and the second line band you hired for Tuesday afternoon.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Villa-based group travel means the pool bar, the kitchen cocktails, and the late-night snack session happen in your space without a server. The money you save on those interactions can go toward tipping the musicians on Frenchmen Street and the second line band you hired for Tuesday afternoon.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The outdoor kitchen and shared pool means villa cocktail hour happens privately, but The Syd's one-block proximity to the St. Charles Streetcar puts you five minutes from the Garden District dining scene, where group dinners and their associated service economics play out. Budget for tips when you budget for the restaurant.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The outdoor kitchen and shared pool means villa cocktail hour happens privately, but The Syd's one-block proximity to the St. Charles Streetcar puts you five minutes from the Garden District dining scene, where group dinners and their associated service economics play out. Budget for tips when you budget for the restaurant.
 
 ---
 
 ## Book Your NOLA Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pools, full kitchens
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
+- The Syd — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
 
 Come with cash. Pre-pool the tips. Acknowledge the people who make the city work. That's what being a good group in New Orleans looks like.

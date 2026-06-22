@@ -47,9 +47,9 @@ Smaller weddings where the entire guest list stays together in one large rental.
 
 ### For Large Wedding Parties
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, multiple bedrooms. Perfect for bridesmaids getting ready together or groomsmen hosting the pre-wedding party.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, multiple bedrooms. Perfect for bridesmaids getting ready together or groomsmen hosting the pre-wedding party.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from St. Charles streetcar, easy access to everything. Shared pool and hot tub for group gatherings.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from St. Charles streetcar, easy access to everything. Shared pool and hot tub for group gatherings.
 
 ### Bridesmaids vs. Groomsmen
 
@@ -302,5 +302,5 @@ Send them to hotels, or book multiple rentals on the same property. The Syd's mu
 
 For wedding large groups:
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private pools, perfect for getting-ready photos
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Central location, multiple units for large wedding groups
+- Castleday Retreats – Private pools, perfect for getting-ready photos
+- The Syd – Central location, multiple units for large wedding groups

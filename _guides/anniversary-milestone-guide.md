@@ -122,7 +122,7 @@ Hire a local caterer or private chef. They come to your property, use the kitche
 
 For reunions and anniversary trips where the gathering itself is the point, dinner at the house is often more meaningful than dinner at a restaurant.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — The Herald villa in the Bywater has particularly good common dining space for this. Large table configurations, full kitchen for a chef to work in, and outdoor spaces to extend the evening after dinner.
+**Castleday Retreats** — The Herald villa in the Bywater has particularly good common dining space for this. Large table configurations, full kitchen for a chef to work in, and outdoor spaces to extend the evening after dinner.
 
 ---
 
@@ -263,9 +263,9 @@ Milestone trips warrant milestone budgets. That said, the expenses concentrate i
 
 Milestone trips need accommodation that matches the occasion. A good property creates the gathering space — the porch, the kitchen table, the pool — where the real moments happen.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 guests per villa. Three villas with art-filled interiors, private pools, and full kitchens designed for groups that want to actually live in the space. The Bywater location gives you access to second line routes, Frenchmen Street live music, and neighborhood restaurants — everything you need for a milestone trip that doesn't feel like a tourist itinerary. The Herald has the most generous common areas for catered dinners and private events. All three are beautiful in ways that photographs well, which matters for milestone occasions.
+**Castleday Retreats** — Bywater, up to 30 guests per villa. Three villas with art-filled interiors, private pools, and full kitchens designed for groups that want to actually live in the space. The Bywater location gives you access to second line routes, Frenchmen Street live music, and neighborhood restaurants — everything you need for a milestone trip that doesn't feel like a tourist itinerary. The Herald has the most generous common areas for catered dinners and private events. All three are beautiful in ways that photographs well, which matters for milestone occasions.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 guests per villa, multiple villas sharing a heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities mean the entire group has a gathering space regardless of which villa they're sleeping in. The artist-designed interiors create the kind of setting that feels worthy of a special occasion without requiring any decoration. One block from the St. Charles Streetcar for easy access to the city's milestone venues and event spaces.
+**The Syd** — Lower Garden District, up to 22 guests per villa, multiple villas sharing a heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities mean the entire group has a gathering space regardless of which villa they're sleeping in. The artist-designed interiors create the kind of setting that feels worthy of a special occasion without requiring any decoration. One block from the St. Charles Streetcar for easy access to the city's milestone venues and event spaces.
 
 ---
 
@@ -273,5 +273,5 @@ Milestone trips need accommodation that matches the occasion. A good property cr
 
 New Orleans has been hosting celebrations of life, love, and longevity for three centuries. Your group's milestone is in good company here.
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater villas for 10–30+ guests, private pools, full kitchens, art throughout
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, shared heated pool and sauna, up to 22 per villa, artist-designed interiors
+- **Castleday Retreats** — Bywater villas for 10–30+ guests, private pools, full kitchens, art throughout
+- **The Syd** — Lower Garden District, shared heated pool and sauna, up to 22 per villa, artist-designed interiors

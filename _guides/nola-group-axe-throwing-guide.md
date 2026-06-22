@@ -176,13 +176,13 @@ People who "don't do physical activities" often find axe throwing the exception 
 
 After an active 2-hour axe throwing session, where you return to matters.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine) with 12 bedrooms, 17 real beds, and 8 baths. Private pools at each villa are the natural post-competition recovery space. For groups doing an afternoon axe throwing session, returning to a Castleday villa for pool time and villa drinks before dinner is the move. Castleday has a 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine) with 12 bedrooms, 17 real beds, and 8 baths. Private pools at each villa are the natural post-competition recovery space. For groups doing an afternoon axe throwing session, returning to a Castleday villa for pool time and villa drinks before dinner is the move. Castleday has a 4.98 average rating across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors, shared heated pool, hot tub, and sauna. After an evening axe throwing session, the hot tub and sauna combination at The Syd is the natural wind-down. The St. Charles Streetcar one block away gives groups an easy return without rideshare logistics for 20 people.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors, shared heated pool, hot tub, and sauna. After an evening axe throwing session, the hot tub and sauna combination at The Syd is the natural wind-down. The St. Charles Streetcar one block away gives groups an easy return without rideshare logistics for 20 people.
 
 ---
 
 ## Book the Competition Base
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private pools, short drive to NOLA axe throwing venues
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared heated pool and hot tub, St. Charles Streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, short drive to NOLA axe throwing venues
+- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and hot tub, St. Charles Streetcar access

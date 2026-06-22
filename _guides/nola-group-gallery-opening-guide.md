@@ -204,13 +204,13 @@ Gallery openings run from about 6pm to 10pm, with peak energy in the first two h
 
 ## Where to Stay for Gallery Night Access
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you within walking distance of the St. Claude Arts District and the Second Saturday gallery corridor. The Frenchmen Art Market is a 10-minute walk. For groups with any interest in the local arts scene, this is the right neighborhood to be based in. The private villas accommodate art conversations that continue after the gallery night — common areas large enough for a group to debrief and decompress without the noise of a bar. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you within walking distance of the St. Claude Arts District and the Second Saturday gallery corridor. The Frenchmen Art Market is a 10-minute walk. For groups with any interest in the local arts scene, this is the right neighborhood to be based in. The private villas accommodate art conversations that continue after the gallery night — common areas large enough for a group to debrief and decompress without the noise of a bar. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's artist-designed interiors are themselves worth engaging with as an orientation to New Orleans visual arts before going out to the galleries — each room in these villas is an original commissioned work. The St. Charles Streetcar connects you to the Warehouse District and Julia Street galleries in under 20 minutes.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's artist-designed interiors are themselves worth engaging with as an orientation to New Orleans visual arts before going out to the galleries — each room in these villas is an original commissioned work. The St. Charles Streetcar connects you to the Warehouse District and Julia Street galleries in under 20 minutes.
 
 ---
 
 ## Plan Your Gallery Night
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, St. Claude gallery corridor walkable, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, artist-designed interiors throughout, St. Charles Streetcar one block
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, St. Claude gallery corridor walkable, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors throughout, St. Charles Streetcar one block

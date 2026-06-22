@@ -201,9 +201,9 @@ Offshore is the full-day commitment. Budget nothing else for that day.
 
 After a 5am departure, you need a home base worth coming back to. That means a kitchen for a fish fry, a pool for the afternoon, and space for the whole group to gather.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. If you're cooking your catch at home — and you should — Castleday's full villa kitchens are the right setup. Private pool for the afternoon recovery. Castleday's Bywater location also puts you close to the best spots for a fishing-day evening out.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. If you're cooking your catch at home — and you should — Castleday's full villa kitchens are the right setup. Private pool for the afternoon recovery. Castleday's Bywater location also puts you close to the best spots for a fishing-day evening out.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. For a group doing a fish fry or cookout after a fishing day, The Syd's outdoor kitchen is the perfect venue. Come back from the marina, clean up, get the grill going, and feed 20 people by 3pm.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. For a group doing a fish fry or cookout after a fishing day, The Syd's outdoor kitchen is the perfect venue. Come back from the marina, clean up, get the grill going, and feed 20 people by 3pm.
 
 Both properties give you the private space, kitchen access, and outdoor areas that make a fishing day complete — from the pre-dawn departure to the post-fish meal.
 
@@ -211,5 +211,5 @@ Both properties give you the private space, kitchen access, and outdoor areas th
 
 ## Book Your Fishing Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 per villa, full kitchens for the post-catch cook
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool
+- Castleday Retreats — Bywater, up to 30 per villa, full kitchens for the post-catch cook
+- The Syd — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool

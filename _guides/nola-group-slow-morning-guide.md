@@ -167,15 +167,15 @@ The tradition of beignets and chicory coffee at Café Du Monde, which opens earl
 
 A slow morning at a villa is different from a slow morning at a hotel in the ways that matter. Common space. A real kitchen. Outdoor space that belongs exclusively to your group. No checkout pressure. No hotel breakfast logistics.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths for 14-30 guests. Full kitchens equipped for a group's coffee and breakfast operation, large common areas where the group can spread out in the morning without crowding each other, and private courtyard and pool space for the people who want morning outdoor time. The Bywater neighborhood in the morning is one of the more pleasant walking experiences in the city — tree-lined streets, not yet tourist-heavy, the neighborhood going about its actual morning.
+**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths for 14-30 guests. Full kitchens equipped for a group's coffee and breakfast operation, large common areas where the group can spread out in the morning without crowding each other, and private courtyard and pool space for the people who want morning outdoor time. The Bywater neighborhood in the morning is one of the more pleasant walking experiences in the city — tree-lined streets, not yet tourist-heavy, the neighborhood going about its actual morning.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool and outdoor kitchen courtyard in the morning — before the afternoon sun hits directly, with the pool quiet and the outdoor kitchen available for the coffee spread — is one of The Syd's underappreciated qualities. One block from the St. Charles Streetcar for the contingent who wants to go find beignets on their own.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool and outdoor kitchen courtyard in the morning — before the afternoon sun hits directly, with the pool quiet and the outdoor kitchen available for the coffee spread — is one of The Syd's underappreciated qualities. One block from the St. Charles Streetcar for the contingent who wants to go find beignets on their own.
 
 ---
 
 ## Book Your Slow NOLA Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, full kitchens, private pool
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, courtyard and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, full kitchens, private pool
+- The Syd — Lower Garden District, up to 22 guests, courtyard and outdoor kitchen
 
 Schedule at least one slow morning. Don't let the optimizer in the group take it away.

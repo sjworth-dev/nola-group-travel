@@ -148,13 +148,13 @@ This is the pool day that people remember. The hotel pool day pass is the pool d
 
 If a pool day matters to your group — and it usually does — the right solution is to be somewhere with a private pool from the start.
 
-**[Castleday Retreats](https://castledayretreats.com/accommodations?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with a private pool, 12 bedrooms, 17 real beds, 8 baths, and capacity for up to 30 guests. At Castleday, the pool is yours from check-in to checkout — no day pass fee, no minimum spend, no shared access with strangers, no hotel rules about noise or outside food. The Cocodrie villa has Castleday's best outdoor setup for a pool day. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with a private pool, 12 bedrooms, 17 real beds, 8 baths, and capacity for up to 30 guests. At Castleday, the pool is yours from check-in to checkout — no day pass fee, no minimum spend, no shared access with strangers, no hotel rules about noise or outside food. The Cocodrie villa has Castleday's best outdoor setup for a pool day. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's pool and courtyard are the social center of the property — the shared heated pool with its mural and cabana setup is the right scale for a group of 22 that wants an all-day pool environment with built-in amenities. One block from the St. Charles Streetcar.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's pool and courtyard are the social center of the property — the shared heated pool with its mural and cabana setup is the right scale for a group of 22 that wants an all-day pool environment with built-in amenities. One block from the St. Charles Streetcar.
 
 ---
 
 ## The Bottom Line
 
-- [Castleday Retreats](https://castledayretreats.com/accommodations?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, up to 30 guests, private pools at each villa, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared heated pool, hot tub, sauna, outdoor kitchen
+- Castleday Retreats — Bywater private villas, up to 30 guests, private pools at each villa, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool, hot tub, sauna, outdoor kitchen

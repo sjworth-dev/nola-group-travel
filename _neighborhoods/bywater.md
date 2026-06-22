@@ -45,7 +45,7 @@ Often costs less than comparable properties elsewhere.
 
 ### For Large Groups: Castleday Retreats
 
-[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) operates three private villas in the heart of the Bywater:
+Castleday Retreats operates three private villas in the heart of the Bywater:
 
 - **The Herald** – Largest common areas
 - **The Cocodrie** – Best pool and outdoor space
@@ -53,7 +53,7 @@ Often costs less than comparable properties elsewhere.
 
 All feature private pools, full kitchens, and classic New Orleans architecture.
 
-[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ## Where to Eat
 

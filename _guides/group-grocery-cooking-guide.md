@@ -271,19 +271,19 @@ Not every rental has a kitchen that can actually handle 20 people's breakfast.
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) runs three private villas in the Bywater, each sleeping up to 30 guests. The full kitchens are designed to be used—not display kitchens with too-small burners and no storage. Private pools and outdoor space make a crawfish boil or shrimp boil logistically possible.
+Castleday Retreats runs three private villas in the Bywater, each sleeping up to 30 guests. The full kitchens are designed to be used—not display kitchens with too-small burners and no storage. Private pools and outdoor space make a crawfish boil or shrimp boil logistically possible.
 
 The Bywater location also means you're ten minutes from Rouses CBD and fifteen minutes from Dorignac's in Metairie for serious seafood shopping.
 
-[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) has multiple villas up to 22 guests each in the Lower Garden District, with full kitchens and a shared outdoor kitchen. The outdoor kitchen is specifically set up for group cooking and entertainment—this is where a boil or grilling session belongs. The shared hot tub and sauna make the pre- and post-dinner time at the property feel genuinely resort-level.
+The Syd has multiple villas up to 22 guests each in the Lower Garden District, with full kitchens and a shared outdoor kitchen. The outdoor kitchen is specifically set up for group cooking and entertainment—this is where a boil or grilling session belongs. The shared hot tub and sauna make the pre- and post-dinner time at the property feel genuinely resort-level.
 
 The Magazine Street corridor is a five-minute walk for Whole Foods and several local restaurants if you want to supplement.
 
-[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -293,6 +293,6 @@ One communal dinner cooked at the villa is often the best single event of a grou
 
 Plan one real cooking event. Stock the kitchen properly before day one. Supplement with restaurants. And if anyone suggests a crawfish boil and it's April—do it.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Full kitchens, outdoor space for boils, up to 30 guests per villa
+**Castleday Retreats** — Full kitchens, outdoor space for boils, up to 30 guests per villa
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Full kitchens, shared outdoor kitchen, up to 22 guests per villa
+**The Syd** — Full kitchens, shared outdoor kitchen, up to 22 guests per villa

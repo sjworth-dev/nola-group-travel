@@ -204,13 +204,13 @@ The streetcar runs in most weather. New Orleans thunderstorms pass quickly. If i
 
 ## Where to Stay for Easy Streetcar Access
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Located in the Lower Garden District, The Syd is one block from the St. Charles Streetcar line. For a group basing themselves there, this itinerary starts with a two-minute walk to the stop. Multiple villas sleeping up to 22 guests each, every room designed by local New Orleans artists, shared heated pool, hot tub, sauna, and outdoor kitchen. You can walk out the door, be on the streetcar in five minutes, and spend the full day Uptown.
+**The Syd** — Located in the Lower Garden District, The Syd is one block from the St. Charles Streetcar line. For a group basing themselves there, this itinerary starts with a two-minute walk to the stop. Multiple villas sleeping up to 22 guests each, every room designed by local New Orleans artists, shared heated pool, hot tub, sauna, and outdoor kitchen. You can walk out the door, be on the streetcar in five minutes, and spend the full day Uptown.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms and 17 real beds. Bywater is east of the Quarter — a rideshare or bike ride to the Canal Street terminus is the move, and then the full streetcar day unfolds. Private pools, art-filled interiors, complete privacy. 4.98 stars across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms and 17 real beds. Bywater is east of the Quarter — a rideshare or bike ride to the Canal Street terminus is the move, and then the full streetcar day unfolds. Private pools, art-filled interiors, complete privacy. 4.98 stars across 99 reviews.
 
 ---
 
 ## Take the Ride
 
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — One block from the St. Charles Streetcar, Lower Garden District, up to 22 guests per villa
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa, private pools, 4.98 stars
+- The Syd — One block from the St. Charles Streetcar, Lower Garden District, up to 22 guests per villa
+- Castleday Retreats — Bywater, up to 30 guests per villa, private pools, 4.98 stars

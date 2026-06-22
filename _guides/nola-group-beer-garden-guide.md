@@ -165,13 +165,13 @@ The specific problem large groups face at outdoor bars: dispersion. Without wall
 
 For groups that want outdoor drinking without venue logistics, the villa pool deck is the answer.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with a private pool, outdoor seating areas, and a full kitchen stocked for outdoor entertaining. The Cocodrie in particular has outdoor spaces built for extended socializing — covered outdoor areas, pool deck seating, and complete privacy for a group of up to 30. No table minimum, no closing time, no minimum bar spend. Stock the cooler, set up the speakers, and you have a private beer garden available at any hour. Each Castleday villa has 12 bedrooms, 17 real beds, and 8 baths; the 4.98 average rating across 99 reviews speaks to what consistently works.
+**Castleday Retreats** — Three private villas in the Bywater, each with a private pool, outdoor seating areas, and a full kitchen stocked for outdoor entertaining. The Cocodrie in particular has outdoor spaces built for extended socializing — covered outdoor areas, pool deck seating, and complete privacy for a group of up to 30. No table minimum, no closing time, no minimum bar spend. Stock the cooler, set up the speakers, and you have a private beer garden available at any hour. Each Castleday villa has 12 bedrooms, 17 real beds, and 8 baths; the 4.98 average rating across 99 reviews speaks to what consistently works.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen, heated pool, hot tub, and sauna in the courtyard. The Syd's shared outdoor spaces are built for exactly this use: a group that wants outdoor socializing with its own infrastructure, designed by local New Orleans artists, with a streetcar stop one block away for when you want to venture out.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen, heated pool, hot tub, and sauna in the courtyard. The Syd's shared outdoor spaces are built for exactly this use: a group that wants outdoor socializing with its own infrastructure, designed by local New Orleans artists, with a streetcar stop one block away for when you want to venture out.
 
 ---
 
 ## Plan Your Outdoor Session
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private pool and outdoor areas, the city's best private outdoor setting for groups of 14-30
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and heated pool, one block from St. Charles Streetcar
+- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pool and outdoor areas, the city's best private outdoor setting for groups of 14-30
+- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and heated pool, one block from St. Charles Streetcar

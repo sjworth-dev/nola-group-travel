@@ -195,13 +195,13 @@ The departure morning is the last impression of the trip. It shapes how the whol
 
 The departure morning that lands well is almost always rooted in the right accommodation. A villa with a good courtyard, a real kitchen, and enough space for 20 people to gather is what makes the slow goodbye possible. A collection of hotel rooms does not.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyards and common spaces are built for the departure morning gathering — coffee in the courtyard, luggage staged by the door, everyone together before the dispersal starts. The full kitchen handles the departure morning coffee production for 20 people without drama. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyards and common spaces are built for the departure morning gathering — coffee in the courtyard, luggage staged by the door, everyone together before the dispersal starts. The full kitchen handles the departure morning coffee production for 20 people without drama. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen and shared courtyard are the right scale for a departure morning that extends the trip an extra two hours before anyone has to leave. The St. Charles Streetcar one block away gets the early-departure crew moving without requiring a rideshare at 7am.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen and shared courtyard are the right scale for a departure morning that extends the trip an extra two hours before anyone has to leave. The St. Charles Streetcar one block away gets the early-departure crew moving without requiring a rideshare at 7am.
 
 ---
 
 ## Plan the Trip That Earns This Morning
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private courtyards, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private courtyards, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, streetcar access

@@ -227,9 +227,9 @@ For casual group photos on personal phones:
 
 Location matters for photo access. Two neighborhoods have the best density of photogenic material within walking distance.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The Bywater is one of the most visually rich neighborhoods in New Orleans — painted shotgun houses in every direction, the bayou nearby, street art throughout, and the architecture that defines the city. Staying at The Herald, The Cocodrie, or The Florentine puts you within walking distance of the Marigny's colorful blocks, Frenchmen Street, and the Tremé. The private pool areas at each villa also provide a beautiful setting for group photos in a controlled environment — no crowds, good light, relaxed group.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater is one of the most visually rich neighborhoods in New Orleans — painted shotgun houses in every direction, the bayou nearby, street art throughout, and the architecture that defines the city. Staying at The Herald, The Cocodrie, or The Florentine puts you within walking distance of the Marigny's colorful blocks, Frenchmen Street, and the Tremé. The private pool areas at each villa also provide a beautiful setting for group photos in a controlled environment — no crowds, good light, relaxed group.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests, every room designed by local New Orleans artists. The artistic interiors double as photography backdrops — especially for bachelorette groups who want polished indoor shots. One block from the St. Charles Streetcar means quick access to the Garden District's antebellum mansions, The Columns Hotel porch, and Magazine Street. For groups focused on architecture and refined visual character, this neighborhood has its own exceptional character.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests, every room designed by local New Orleans artists. The artistic interiors double as photography backdrops — especially for bachelorette groups who want polished indoor shots. One block from the St. Charles Streetcar means quick access to the Garden District's antebellum mansions, The Columns Hotel porch, and Magazine Street. For groups focused on architecture and refined visual character, this neighborhood has its own exceptional character.
 
 ---
 
@@ -237,5 +237,5 @@ Location matters for photo access. Two neighborhoods have the best density of ph
 
 New Orleans photographs itself. Your job is showing up at the right places at the right time with a willing group. The rest the city handles.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas with photogenic grounds, up to 30 per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Artist-designed interiors in the Lower Garden District, up to 22 per villa
+- Castleday Retreats — Bywater villas with photogenic grounds, up to 30 per villa
+- The Syd — Artist-designed interiors in the Lower Garden District, up to 22 per villa

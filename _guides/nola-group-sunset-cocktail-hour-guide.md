@@ -236,13 +236,13 @@ The cocktail hour music should be present but not dominant. The goal is ambient 
 
 ## The Villa That Makes This Possible
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private outdoor spaces — pool deck and courtyard at each villa — are designed for exactly this kind of gathering. The outdoor setting, the private pool, the Bywater sky going gold before the evening begins: this is the environment a sunset cocktail hour needs. The fact that it's completely private — no other guests, no shared spaces — means the golden hour belongs entirely to your group. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private outdoor spaces — pool deck and courtyard at each villa — are designed for exactly this kind of gathering. The outdoor setting, the private pool, the Bywater sky going gold before the evening begins: this is the environment a sunset cocktail hour needs. The fact that it's completely private — no other guests, no shared spaces — means the golden hour belongs entirely to your group. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's shared outdoor space — the heated pool, the hot tub, the courtyard, the outdoor kitchen — is purpose-built for the kind of evening gathering a cocktail hour produces. Setting up a batch cocktail on the outdoor kitchen counter, having the pool lit and the hot tub running, watching the sky change over the Lower Garden District: this is the move.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's shared outdoor space — the heated pool, the hot tub, the courtyard, the outdoor kitchen — is purpose-built for the kind of evening gathering a cocktail hour produces. Setting up a batch cocktail on the outdoor kitchen counter, having the pool lit and the hot tub running, watching the sky change over the Lower Garden District: this is the move.
 
 ---
 
 ## Make This Happen
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools and courtyards, 12 bedrooms, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared heated pool, hot tub, sauna
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools and courtyards, 12 bedrooms, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared heated pool, hot tub, sauna

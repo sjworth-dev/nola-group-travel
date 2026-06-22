@@ -215,9 +215,9 @@ From Lower Garden District (The Syd area): about 15 minutes by Uber.
 
 Mid-City is a destination for day visits — not the best base for a large group, since accommodations there don't have the capacity or amenities that make a large rental work. The neighborhoods that work best as home base give you easy access to Mid-City while keeping you close to the nightlife and dining density of other neighborhoods.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The Bywater puts you close to the Lafitte Greenway, which is your walking/biking corridor into Mid-City. From The Herald, The Cocodrie, or The Florentine, you can bike the Greenway to City Park in under an hour. The private pools are the recovery infrastructure you need after a full day of outdoor activity.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater puts you close to the Lafitte Greenway, which is your walking/biking corridor into Mid-City. From The Herald, The Cocodrie, or The Florentine, you can bike the Greenway to City Park in under an hour. The private pools are the recovery infrastructure you need after a full day of outdoor activity.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests. The Canal Street streetcar stops near the Syd's neighborhood and runs directly into Mid-City. For groups using public transit as part of the experience, this is a useful connection. The outdoor kitchen and shared pool make it easy to decompress after a day of walking City Park.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests. The Canal Street streetcar stops near the Syd's neighborhood and runs directly into Mid-City. For groups using public transit as part of the experience, this is a useful connection. The outdoor kitchen and shared pool make it easy to decompress after a day of walking City Park.
 
 ---
 
@@ -225,5 +225,5 @@ Mid-City is a destination for day visits — not the best base for a large group
 
 Mid-City pairs naturally with the Tremé for a music and culture day, and with the Bywater for a bayou-connected neighborhood immersion. If Mid-City is on your list, those two neighborhoods should be too.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater base camp, up to 30 per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, streetcar access, up to 22 per villa
+- Castleday Retreats — Bywater base camp, up to 30 per villa
+- The Syd — Lower Garden District, streetcar access, up to 22 per villa

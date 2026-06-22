@@ -298,9 +298,9 @@ This is why you took photos on arrival. Present your timestamped photos. If the 
 
 Checkout and check-in complexity scales with property quality. Properties designed for large groups have better systems, better communication, and fewer surprises.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. Designed specifically for large groups — the check-in and checkout processes are structured for groups of 15-30, not retrofitted for them. Each villa is a full home with a single-property entry point.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. Designed specifically for large groups — the check-in and checkout processes are structured for groups of 15-30, not retrofitted for them. Each villa is a full home with a single-property entry point.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, all rooms designed by local artists. One block from the St. Charles Streetcar. Same professional group-oriented operations.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, all rooms designed by local artists. One block from the St. Charles Streetcar. Same professional group-oriented operations.
 
 Both properties are set up to handle the group logistics questions before you have to ask them.
 
@@ -312,5 +312,5 @@ The groups that have the best villa experiences aren't the ones who spent the mo
 
 Group check-in and checkout is logistics, not glamour. Do it right and it's invisible. Do it wrong and it defines the trip's end.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, designed for large groups
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, artist-designed villas
+- Castleday Retreats — Bywater villas, up to 30 guests, designed for large groups
+- The Syd — Lower Garden District, up to 22 guests, artist-designed villas

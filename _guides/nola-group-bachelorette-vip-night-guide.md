@@ -205,7 +205,7 @@ The right villa changes the math on everything in this guide. A private property
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) operates three private villas in the Bywater neighborhood — The Herald, The Cocodrie, and The Florentine. Each villa runs 12 bedrooms, 17 real beds, and 8 bathrooms, accommodating 14-30 guests. The "17 real beds" detail matters: this is not an inflated air mattress count. Everyone sleeps well, and that affects the whole weekend.
+Castleday Retreats operates three private villas in the Bywater neighborhood — The Herald, The Cocodrie, and The Florentine. Each villa runs 12 bedrooms, 17 real beds, and 8 bathrooms, accommodating 14-30 guests. The "17 real beds" detail matters: this is not an inflated air mattress count. Everyone sleeps well, and that affects the whole weekend.
 
 For a group of around 16, this is the pitch: everyone gets a real bed, you have a private villa with room to host the cocktail hour and the getting-ready session, and the Bywater neighborhood gives you an authentically New Orleans backdrop without the tourist-clogged French Quarter experience.
 
@@ -213,7 +213,7 @@ Castleday holds a 4.98 average rating across 99 reviews. That is not a marketing
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) sits in the Lower Garden District and accommodates up to 22 guests per villa. The shared amenities include a heated pool, hot tub, sauna, and outdoor kitchen — all of which become the cocktail hour and the day-before decompression simultaneously.
+The Syd sits in the Lower Garden District and accommodates up to 22 guests per villa. The shared amenities include a heated pool, hot tub, sauna, and outdoor kitchen — all of which become the cocktail hour and the day-before decompression simultaneously.
 
 Every room was designed by a local New Orleans artist. This is not a generic rental property reskinned for the short-term market. The one-block walk to the St. Charles Streetcar line means you're in the city without needing a car for every move.
 
@@ -229,4 +229,4 @@ The best bachelorette nights we've seen in this city follow a pattern: a beautif
 
 That pattern starts with the right accommodation.
 
-Book your villa: [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites). Get the private space locked in first. Build from there.
+Book your villa: Castleday Retreats or The Syd. Get the private space locked in first. Build from there.

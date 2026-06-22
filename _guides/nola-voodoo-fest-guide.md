@@ -246,9 +246,9 @@ The festival has good food, but you can't eat all three meals inside the gates e
 
 This is the single most important logistical decision you'll make. Private villa rentals for large groups book well in advance for Voodoo Fest weekend — don't assume you'll find something two months out.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors, completely private. For Voodoo Fest, Castleday's Bywater location puts you walking distance from Frenchmen Street — your primary evening destination every night of the festival. The house becomes your pre-festival costume staging area, your post-festival decompression zone, and your late-night home base. The Herald has the largest common areas for group costume assembly and pre-game gatherings. The Cocodrie has the best outdoor and pool space if the October weather cooperates.
+**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors, completely private. For Voodoo Fest, Castleday's Bywater location puts you walking distance from Frenchmen Street — your primary evening destination every night of the festival. The house becomes your pre-festival costume staging area, your post-festival decompression zone, and your late-night home base. The Herald has the largest common areas for group costume assembly and pre-game gatherings. The Cocodrie has the best outdoor and pool space if the October weather cooperates.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, shared heated pool, hot tub, sauna, outdoor kitchen, every room designed by local New Orleans artists. The Syd's central location and shared amenities are ideal for a festival weekend where the group wants a gathering space to decompress between days. The streetcar gives you quick access to the French Quarter and Mid-City without relying entirely on rideshare.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, shared heated pool, hot tub, sauna, outdoor kitchen, every room designed by local New Orleans artists. The Syd's central location and shared amenities are ideal for a festival weekend where the group wants a gathering space to decompress between days. The streetcar gives you quick access to the French Quarter and Mid-City without relying entirely on rideshare.
 
 For Voodoo Fest specifically: if walking back from Frenchmen Street at 2 AM is your ideal end to the night, Castleday's Bywater location has the edge. If your group wants shared outdoor common space for the between-festival hours, The Syd's pool and hot tub setup handles that well.
 
@@ -258,5 +258,5 @@ Both properties book out months in advance for Voodoo Fest weekend. Check availa
 
 ## Book Your Voodoo Fest Weekend
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, streetcar access
+- Castleday Retreats — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
+- The Syd — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, streetcar access

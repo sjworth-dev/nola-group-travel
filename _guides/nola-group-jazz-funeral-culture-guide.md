@@ -194,13 +194,13 @@ This is not a performance. It is a living tradition. New Orleans will show it to
 
 ## Base Camp for a Cultural Deep Dive
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group in the neighborhood adjacent to the Tremé — the walk to Congo Square, Armstrong Park, and the Backstreet Cultural Museum is reasonable on foot. Returning from a morning of cultural context to the Bywater means proximity to the local music and art scene that carries the same tradition forward. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group in the neighborhood adjacent to the Tremé — the walk to Congo Square, Armstrong Park, and the Backstreet Cultural Museum is reasonable on foot. Returning from a morning of cultural context to the Bywater means proximity to the local music and art scene that carries the same tradition forward. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location gives direct streetcar access to the French Quarter and adjacent neighborhoods for groups building a cultural touring day that includes the cemetery, Congo Square, and the Tremé.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location gives direct streetcar access to the French Quarter and adjacent neighborhoods for groups building a cultural touring day that includes the cemetery, Congo Square, and the Tremé.
 
 ---
 
 ## Plan Your NOLA Cultural Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access

@@ -224,9 +224,9 @@ The group anchor moments — the dinners together, the one big activity — shou
 
 For mixed groups, accommodation choice is even more important than for a homogenous group. You need enough private space that people can retreat, plus enough common space that togetherness happens naturally.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The combination of private rooms, a full kitchen, a private pool, and sprawling common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. This is the move for mixed groups where togetherness and privacy have to coexist. The Bywater location keeps you close to Frenchmen Street, Bacchanal, and the neighborhood walks without being inside the chaos of the French Quarter.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The combination of private rooms, a full kitchen, a private pool, and sprawling common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. This is the move for mixed groups where togetherness and privacy have to coexist. The Bywater location keeps you close to Frenchmen Street, Bacchanal, and the neighborhood walks without being inside the chaos of the French Quarter.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared amenities — heated pool, hot tub, sauna, outdoor kitchen — mean there are multiple outdoor spaces to drift between. One block from the St. Charles Streetcar makes independent movement easy: the non-drinker who wants to do the Garden District while the group bar-hops can get there and back without a car. Good choice for groups where some members want to be close to uptown dining and Magazine Street.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared amenities — heated pool, hot tub, sauna, outdoor kitchen — mean there are multiple outdoor spaces to drift between. One block from the St. Charles Streetcar makes independent movement easy: the non-drinker who wants to do the Garden District while the group bar-hops can get there and back without a car. Good choice for groups where some members want to be close to uptown dining and Magazine Street.
 
 Both properties give you the critical thing: everyone under one roof, with enough room to not be on top of each other.
 
@@ -238,5 +238,5 @@ The best mixed-group trip isn't the one where you dragged everyone to the same t
 
 New Orleans is generous that way. The city meets people where they are.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Bywater, private villas, up to 30/villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Lower Garden District, shared amenities, up to 22/villa
+- Castleday Retreats – Bywater, private villas, up to 30/villa
+- The Syd – Lower Garden District, shared amenities, up to 22/villa

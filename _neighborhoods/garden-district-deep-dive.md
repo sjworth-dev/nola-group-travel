@@ -210,9 +210,9 @@ A full Garden District day adds Uptown Magazine Street extension, Audubon Park, 
 
 If you're running a Garden District day as part of a longer trip, where you stay affects how easy it is.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District is the closest base for a Garden District day. You're walking distance to the Magazine Street corridor and a short streetcar ride from Commander's. Multiple villas with shared heated pool, hot tub, outdoor kitchen—and Artist-designed interiors throughout. Up to 22 guests per villa.
+**The Syd** in the Lower Garden District is the closest base for a Garden District day. You're walking distance to the Magazine Street corridor and a short streetcar ride from Commander's. Multiple villas with shared heated pool, hot tub, outdoor kitchen—and Artist-designed interiors throughout. Up to 22 guests per villa.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater is a 15-20 minute Uber or a scenic streetcar-from-Canal-Street trip. Not a problem at all for a day trip to the Garden District. Three private villas up to 30 guests each, with private pools.
+**Castleday Retreats** in the Bywater is a 15-20 minute Uber or a scenic streetcar-from-Canal-Street trip. Not a problem at all for a day trip to the Garden District. Three private villas up to 30 guests each, with private pools.
 
 Both give you the full-villa experience that works best for a group of 15-30.
 
@@ -223,5 +223,5 @@ Both give you the full-villa experience that works best for a group of 15-30.
 The Garden District is a residential neighborhood. Mansions are private residences. Look, appreciate, photograph the architecture from the street — but don't walk up driveways, don't peer in windows, and don't treat it like a theme park. Be respectful. This is someone's home, and it's also a genuinely beautiful part of this city.
 
 **Book your NOLA base:**
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, closest to the Garden District walk
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 3 private villas up to 30 guests
+- The Syd — Lower Garden District, closest to the Garden District walk
+- Castleday Retreats — Bywater, 3 private villas up to 30 guests

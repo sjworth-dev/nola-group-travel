@@ -88,7 +88,7 @@ Within easy walking distance of the Garden District:
 
 The northern boundary of the Garden District is St. Charles Avenue, where the world's oldest continuously operating streetcar still runs.
 
-The St. Charles Streetcar connects downtown/CBD to Canal Street at one end and to Carrollton/Uptown at the other. For groups staying in the Garden District area (or nearby at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District), the Streetcar is practical transport and a genuine New Orleans experience.
+The St. Charles Streetcar connects downtown/CBD to Canal Street at one end and to Carrollton/Uptown at the other. For groups staying in the Garden District area (or nearby at The Syd in the Lower Garden District), the Streetcar is practical transport and a genuine New Orleans experience.
 
 **Riding it:** $1.25 per ride. Slow — it stops at every block. Extremely beautiful.
 
@@ -116,9 +116,9 @@ Book Commander's Palace as the centerpiece. Everything else builds around it. A 
 
 ## Getting to the Garden District
 
-**From [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District:** Walk. The two neighborhoods share a border. Lafayette Cemetery and Commander's Palace are 15-20 minutes on foot from The Syd.
+**From The Syd in the Lower Garden District:** Walk. The two neighborhoods share a border. Lafayette Cemetery and Commander's Palace are 15-20 minutes on foot from The Syd.
 
-**From [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater:** Take the St. Charles Streetcar from Canal Street (short Uber to the Streetcar, then board). Or Uber directly — about 20 minutes.
+**From Castleday Retreats in the Bywater:** Take the St. Charles Streetcar from Canal Street (short Uber to the Streetcar, then board). Or Uber directly — about 20 minutes.
 
 **From the French Quarter:** Walk down Magazine Street (20-25 minutes) or take the Streetcar toward Uptown.
 
@@ -143,9 +143,9 @@ The Garden District is best as a daytime experience combined with a home base ne
 
 The Garden District itself has almost no large-group rental inventory. If you want the Garden District experience, the two best home bases are:
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Just one neighborhood over in the Lower Garden District, multiple villas sleeping up to 22 guests each. Shared heated pool, hot tub, sauna. You can walk to Commander's Palace, Lafayette Cemetery, and Magazine Street from The Syd. This is the closest large-group accommodation to the Garden District in the city.
+**The Syd** — Just one neighborhood over in the Lower Garden District, multiple villas sleeping up to 22 guests each. Shared heated pool, hot tub, sauna. You can walk to Commander's Palace, Lafayette Cemetery, and Magazine Street from The Syd. This is the closest large-group accommodation to the Garden District in the city.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. Further from the Garden District but unbeatable for groups who need more capacity or want full seclusion. Easy Uber or Streetcar to the Garden District.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. Further from the Garden District but unbeatable for groups who need more capacity or want full seclusion. Easy Uber or Streetcar to the Garden District.
 
 ---
 
@@ -169,5 +169,5 @@ The Garden District itself has almost no large-group rental inventory. If you wa
 
 ## Book Your Stay Near the Garden District
 
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, walking distance from Commander's Palace and Magazine Street. Up to 22 guests per villa, heated pool, hot tub, sauna, local artist-designed rooms.
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 guests per villa. Private pools, full kitchens. 15-20 minutes by car from the Garden District.
+- **The Syd** — Lower Garden District, walking distance from Commander's Palace and Magazine Street. Up to 22 guests per villa, heated pool, hot tub, sauna, local artist-designed rooms.
+- **Castleday Retreats** — Bywater, up to 30 guests per villa. Private pools, full kitchens. 15-20 minutes by car from the Garden District.

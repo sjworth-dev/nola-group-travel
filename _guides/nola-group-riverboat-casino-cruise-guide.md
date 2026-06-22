@@ -201,13 +201,13 @@ For groups who want the water experience separately from any gambling component:
 
 A waterfront or gambling evening typically ends at a specific time, and where you land after matters.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts the group within a short rideshare of Harrah's, the French Quarter waterfront, and the Steamboat Natchez dock at the Canal Street Wharf. For villa poker nights, the indoor living spaces at each Castleday villa handle two poker tables comfortably, and the outdoor areas — particularly The Cocodrie — work for late-night cash game continuation. Castleday has a 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts the group within a short rideshare of Harrah's, the French Quarter waterfront, and the Steamboat Natchez dock at the Canal Street Wharf. For villa poker nights, the indoor living spaces at each Castleday villa handle two poker tables comfortably, and the outdoor areas — particularly The Cocodrie — work for late-night cash game continuation. Castleday has a 4.98 average rating across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's St. Charles Streetcar connection makes getting to and from the Canal Street area easy without rideshare surge pricing on weekend nights. For villa poker nights, The Syd's common spaces support a full tournament setup.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's St. Charles Streetcar connection makes getting to and from the Canal Street area easy without rideshare surge pricing on weekend nights. For villa poker nights, The Syd's common spaces support a full tournament setup.
 
 ---
 
 ## Plan Your Gambling Night
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, spacious indoor areas for villa poker setups, private pools, short rideshare to Harrah's and the waterfront
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to Canal Street, shared heated pool and hot tub for post-casino recovery
+- Castleday Retreats — Bywater villas, up to 30 guests per villa, spacious indoor areas for villa poker setups, private pools, short rideshare to Harrah's and the waterfront
+- The Syd — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to Canal Street, shared heated pool and hot tub for post-casino recovery

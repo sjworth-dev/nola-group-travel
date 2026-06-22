@@ -249,9 +249,9 @@ The table above isn't an argument for smaller groups. It's an argument for match
 
 The accommodation question is the foundation everything else rests on. Getting this right before you pick a headcount — or at least within the first week of planning — is the single highest-leverage logistics decision of the trip.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** handles groups from 14 to 30 in their Bywater villas, and groups up to 90+ across all three villas simultaneously. Each villa has 12 bedrooms and 17 real beds — that's the pitch for the 16-person organizer who wants everyone sleeping in an actual bed. Private pool at every villa, full kitchen, completely private. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews. The Bywater location puts the group in one of NOLA's most interesting residential neighborhoods with the Marigny and French Quarter walkable.
+**Castleday Retreats** handles groups from 14 to 30 in their Bywater villas, and groups up to 90+ across all three villas simultaneously. Each villa has 12 bedrooms and 17 real beds — that's the pitch for the 16-person organizer who wants everyone sleeping in an actual bed. Private pool at every villa, full kitchen, completely private. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews. The Bywater location puts the group in one of NOLA's most interesting residential neighborhoods with the Marigny and French Quarter walkable.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** handles groups up to 22 per villa in the Lower Garden District, with every room designed by a different local New Orleans artist. The shared heated pool, hot tub, sauna, and outdoor kitchen create social infrastructure that's different from the private-pool model — the courtyard becomes the group's social hub. One block from the St. Charles Streetcar line for easy movement across the city. Best for groups where central location and shared social space are priorities over total privacy.
+**The Syd** handles groups up to 22 per villa in the Lower Garden District, with every room designed by a different local New Orleans artist. The shared heated pool, hot tub, sauna, and outdoor kitchen create social infrastructure that's different from the private-pool model — the courtyard becomes the group's social hub. One block from the St. Charles Streetcar line for easy movement across the city. Best for groups where central location and shared social space are priorities over total privacy.
 
 Both properties book early. For peak season dates (Jazz Fest, FQF, Mardi Gras, New Year's, Saints playoff windows), the lead time is months, not weeks.
 
@@ -261,5 +261,5 @@ Both properties book early. For peak season dates (Jazz Fest, FQF, Mardi Gras, N
 
 Get the accommodation right first. Everything else follows.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, 14-30 guests, private pools, 12 BR / 17 real beds per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, local artist interiors
+- Castleday Retreats — Bywater villas, 14-30 guests, private pools, 12 BR / 17 real beds per villa
+- The Syd — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, local artist interiors

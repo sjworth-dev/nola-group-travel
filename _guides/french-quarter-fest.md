@@ -249,9 +249,9 @@ The French Quarter is walkable from almost any city-center accommodation. You do
 
 April is competitive. If you're going to French Quarter Fest with a group of 10-30, you need accommodations that can actually hold your group — and that means not counting on hotel rooms to work out.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The Bywater location puts you close enough to walk to FQF or take a short rideshare, and far enough from the chaos that your home base stays peaceful. Private pools become the decompression chamber at the end of festival days — which, after 6 hours of crowds and sound, is exactly what a large group needs. Book early; they fill up for FQF well in advance.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater location puts you close enough to walk to FQF or take a short rideshare, and far enough from the chaos that your home base stays peaceful. Private pools become the decompression chamber at the end of festival days — which, after 6 hours of crowds and sound, is exactly what a large group needs. Book early; they fill up for FQF well in advance.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. The St. Charles Streetcar gets you to the French Quarter quickly, and the shared heated pool, hot tub, and outdoor kitchen make the between-festival hours genuinely comfortable. If your group wants a central location with easy access to Uptown restaurants for evening dining, this is a strong option.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. The St. Charles Streetcar gets you to the French Quarter quickly, and the shared heated pool, hot tub, and outdoor kitchen make the between-festival hours genuinely comfortable. If your group wants a central location with easy access to Uptown restaurants for evening dining, this is a strong option.
 
 Both properties give you a home base that's genuinely comfortable — not a hotel corridor of rooms where the group fragments the moment the door closes.
 
@@ -263,5 +263,5 @@ French Quarter Festival doesn't require a lot of planning. It rewards being pres
 
 For a large group, having one great home base changes the entire experience.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Bywater, private villas, up to 30/villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
+- Castleday Retreats – Bywater, private villas, up to 30/villa
+- The Syd – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa

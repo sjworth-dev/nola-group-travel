@@ -205,13 +205,13 @@ The second line is not a performance for visitors. The club members in costume, 
 
 ## Where to Stay for Second Line Sunday
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is adjacent to the St. Claude arts corridor and a short rideshare from the Tremé, Central City, and 7th Ward neighborhoods where many second lines run. After the parade, the villa pool and a return to quiet is the correct structure. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is adjacent to the St. Claude arts corridor and a short rideshare from the Tremé, Central City, and 7th Ward neighborhoods where many second lines run. After the parade, the villa pool and a return to quiet is the correct structure. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District location gives easy rideshare access to second line starting points across the city, and the villa's shared outdoor space is the perfect post-second-line recovery environment — hydrate, change, pool time, then an easy Sunday evening.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District location gives easy rideshare access to second line starting points across the city, and the villa's shared outdoor space is the perfect post-second-line recovery environment — hydrate, change, pool time, then an easy Sunday evening.
 
 ---
 
 ## Plan Your Second Line Sunday
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, hot tub
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, hot tub

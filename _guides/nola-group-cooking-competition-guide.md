@@ -200,13 +200,13 @@ The prize's actual value is secondary to its existence as a declared stake. The 
 
 A cooking competition of this scope requires a real kitchen — full-size range, significant counter space, multiple burners, adequate prep area for 3-5 teams operating simultaneously. Not every group rental has this.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's full kitchen infrastructure and spacious indoor common areas make cooking competitions genuinely feasible for groups of 20-30. The kitchen is designed to support groups cooking real meals, not just reheating takeout. The private, enclosed nature of the villa means the competition energy stays contained — no other guests to disturb, no venue curfew to manage around. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's full kitchen infrastructure and spacious indoor common areas make cooking competitions genuinely feasible for groups of 20-30. The kitchen is designed to support groups cooking real meals, not just reheating takeout. The private, enclosed nature of the villa means the competition energy stays contained — no other guests to disturb, no venue curfew to manage around. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with full kitchens and a shared outdoor kitchen, heated pool, hot tub, sauna, and local artist-designed interiors. The Syd's outdoor kitchen extends the cooking competition into the exterior space — jambalaya competitions, crawfish boil throwdowns, and grill-based competitions translate naturally to the outdoor kitchen format. The indoor/outdoor kitchen combination at The Syd is ideal for groups of 15-22 doing a cooking evening.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with full kitchens and a shared outdoor kitchen, heated pool, hot tub, sauna, and local artist-designed interiors. The Syd's outdoor kitchen extends the cooking competition into the exterior space — jambalaya competitions, crawfish boil throwdowns, and grill-based competitions translate naturally to the outdoor kitchen format. The indoor/outdoor kitchen combination at The Syd is ideal for groups of 15-22 doing a cooking evening.
 
 ---
 
 ## Ready to Cook?
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, full kitchens, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, indoor kitchen + outdoor kitchen, shared heated pool and hot tub
+- Castleday Retreats — Bywater villas, up to 30 guests, full kitchens, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, indoor kitchen + outdoor kitchen, shared heated pool and hot tub

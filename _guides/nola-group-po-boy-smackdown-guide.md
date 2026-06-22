@@ -191,13 +191,13 @@ It also generates content the group will reference for the rest of the trip. "Re
 
 The po-boy smackdown requires outdoor or indoor table space for 20 people, a surface for the judging setup, and a kitchen for logistics. The private villa format is the only group accommodation type that makes this consistently workable.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's common areas and private outdoor spaces — pool deck, courtyard — are designed to accommodate groups of 20-30 as an actual group. A long table, an outdoor courtyard, and a kitchen for the runner's return: this is what a po-boy smackdown requires. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's common areas and private outdoor spaces — pool deck, courtyard — are designed to accommodate groups of 20-30 as an actual group. A long table, an outdoor courtyard, and a kitchen for the runner's return: this is what a po-boy smackdown requires. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's outdoor kitchen and shared common areas make the villa-as-competition-venue model work for groups of 15-22. Setting up the tasting table at the outdoor kitchen and doing the reveal under the lights is the move.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's outdoor kitchen and shared common areas make the villa-as-competition-venue model work for groups of 15-22. Setting up the tasting table at the outdoor kitchen and doing the reveal under the lights is the move.
 
 ---
 
 ## Ready to Smackdown
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, 12 bedrooms, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared pool and hot tub
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared pool and hot tub

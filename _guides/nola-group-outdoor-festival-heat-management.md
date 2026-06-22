@@ -201,9 +201,9 @@ The most important thing: don't minimize symptoms and don't wait.
 
 The villa rotation model works because the villa is worth coming back to.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. On a Jazz Fest day, the Bywater location puts you about 15 minutes from the Fair Grounds. The private pool at each villa — The Herald, The Cocodrie, and The Florentine — is the midday recovery asset. Air conditioning, full kitchen for a real lunch, private outdoor space that isn't a festival crowd. Groups that rotate back to Castleday in the afternoon arrive at the evening headliner set in far better shape than groups who white-knuckled the full day.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. On a Jazz Fest day, the Bywater location puts you about 15 minutes from the Fair Grounds. The private pool at each villa — The Herald, The Cocodrie, and The Florentine — is the midday recovery asset. Air conditioning, full kitchen for a real lunch, private outdoor space that isn't a festival crowd. Groups that rotate back to Castleday in the afternoon arrive at the evening headliner set in far better shape than groups who white-knuckled the full day.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The shared heated pool (available even in summer — temperature adjustable), hot tub, sauna, and outdoor kitchen create a full recovery environment. The Syd's Lower Garden District location is a 20-minute ride from Essence Fest's Superdome cluster, making it a practical rotation base for groups attending Essence.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The shared heated pool (available even in summer — temperature adjustable), hot tub, sauna, and outdoor kitchen create a full recovery environment. The Syd's Lower Garden District location is a 20-minute ride from Essence Fest's Superdome cluster, making it a practical rotation base for groups attending Essence.
 
 Both properties give you what a hotel room cannot: a real kitchen to rehydrate and eat properly, outdoor space that isn't shared with strangers, and the freedom to recover on your schedule without hotel policy complications.
 
@@ -211,7 +211,7 @@ Both properties give you what a hotel room cannot: a real kitchen to rehydrate a
 
 ## Book Your Festival Base Camp
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pools, full kitchens — 15 minutes from Jazz Fest
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and sauna — 20 minutes from Essence Fest
+- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens — 15 minutes from Jazz Fest
+- The Syd — Lower Garden District, up to 22 guests, shared pool and sauna — 20 minutes from Essence Fest
 
 Plan the heat management the way you plan the festival. The groups that come home talking about the best day of their lives are the ones who planned the break in the middle, drank the water, and came back for the evening set.

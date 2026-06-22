@@ -206,9 +206,9 @@ The trap of being the trip organizer is spending the entire trip managing logist
 
 One of the biggest logistical advantages of a single private villa over scattered hotel rooms is that you have one address, one check-in, one management relationship, and one common space where the whole group is together. For a first-time organizer, that reduction in moving parts is significant.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. 4.98 average rating across 99 reviews. Every villa has a private pool, full kitchen, and the common space where your group can actually be together in between activities. The property team has handled hundreds of large groups — the check-in process is designed for this.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. 4.98 average rating across 99 reviews. Every villa has a private pool, full kitchen, and the common space where your group can actually be together in between activities. The property team has handled hundreds of large groups — the check-in process is designed for this.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen are communal infrastructure for the group — not just sleeping space, but the actual gathering point that makes the trip cohere. One block from the St. Charles Streetcar.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen are communal infrastructure for the group — not just sleeping space, but the actual gathering point that makes the trip cohere. One block from the St. Charles Streetcar.
 
 Both properties make the accommodation piece of a large group trip significantly more manageable than trying to coordinate scattered hotel rooms. For a first-time organizer, that's worth something.
 
@@ -216,7 +216,7 @@ Both properties make the accommodation piece of a large group trip significantly
 
 ## Start Here
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pool, full kitchen
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool, outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, private pool, full kitchen
+- The Syd — Lower Garden District, up to 22 guests, shared pool, outdoor kitchen
 
 You've got this. Make the budget call early, set the communication rules, and make the decisions. The rest follows from there.

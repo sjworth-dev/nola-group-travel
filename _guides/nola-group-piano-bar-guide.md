@@ -203,13 +203,13 @@ The difference between a great and mediocre piano bar night is mostly performer 
 
 Piano bar evenings typically run in the French Quarter or nearby. Where you stay shapes the start and end of the night.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater's location puts the group 10-15 minutes from the French Quarter piano bar scene by rideshare. The pre-show prep — getting dressed, doing group photos, collecting the request fund — happens at the villa. After the piano bar, a natural extension to Frenchmen Street is walking distance from Castleday's neighborhood. Castleday has a 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater's location puts the group 10-15 minutes from the French Quarter piano bar scene by rideshare. The pre-show prep — getting dressed, doing group photos, collecting the request fund — happens at the villa. After the piano bar, a natural extension to Frenchmen Street is walking distance from Castleday's neighborhood. Castleday has a 4.98 average rating across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms, shared heated pool, hot tub, sauna, and outdoor kitchen. The St. Charles Streetcar one block from The Syd runs to Canal Street, which puts the French Quarter piano bar corridor about a 5-minute walk from the streetcar stop. The Syd's late-night return — pool, hot tub, outdoor kitchen, speakers on — is one of the better ways to end a music evening in the city.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms, shared heated pool, hot tub, sauna, and outdoor kitchen. The St. Charles Streetcar one block from The Syd runs to Canal Street, which puts the French Quarter piano bar corridor about a 5-minute walk from the streetcar stop. The Syd's late-night return — pool, hot tub, outdoor kitchen, speakers on — is one of the better ways to end a music evening in the city.
 
 ---
 
 ## Book Your Music Night Base
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, 10-15 minutes from French Quarter piano bars, Frenchmen Street walkable, private pools
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to Canal Street, shared pool and hot tub for the post-show return
+- Castleday Retreats — Bywater villas, up to 30 guests per villa, 10-15 minutes from French Quarter piano bars, Frenchmen Street walkable, private pools
+- The Syd — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to Canal Street, shared pool and hot tub for the post-show return

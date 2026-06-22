@@ -188,13 +188,13 @@ A group dinner at the villa or a sit-down restaurant is the right call. The conv
 
 Both properties have the kitchen and common space that makes pre-day preparation and post-day decompression work well for a service-oriented group.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The full kitchens mean you can cook a real breakfast before the build and a real dinner after — not logistics to underestimate when your group is doing physical work. The Bywater is also one of the neighborhoods that went through significant post-Katrina recovery, which provides meaningful context for a service-focused visit. Rated 4.98 across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The full kitchens mean you can cook a real breakfast before the build and a real dinner after — not logistics to underestimate when your group is doing physical work. The Bywater is also one of the neighborhoods that went through significant post-Katrina recovery, which provides meaningful context for a service-focused visit. Rated 4.98 across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen and heated pool. After a full day of physical work, the pool matters. So does the outdoor kitchen for a group dinner that doesn't require anyone to change out of construction clothes before eating.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen and heated pool. After a full day of physical work, the pool matters. So does the outdoor kitchen for a group dinner that doesn't require anyone to change out of construction clothes before eating.
 
 ---
 
 ## Plan Your Service Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, full kitchens, Bywater's post-Katrina context blocks from the villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool for post-build recovery, outdoor kitchen for group dinners
+- Castleday Retreats — Bywater villas, up to 30 guests, full kitchens, Bywater's post-Katrina context blocks from the villa
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool for post-build recovery, outdoor kitchen for group dinners

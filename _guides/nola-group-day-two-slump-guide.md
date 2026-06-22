@@ -203,7 +203,7 @@ The day two slump is much easier to manage when the group's base camp is actuall
 
 A hotel — even a nice one — doesn't give you this. You can't have 18 people in a hotel common area recovering at their own pace without paying for it in the lobby or the bar, which introduces cost pressure and a time clock. The villa eliminates both.
 
-### [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### Castleday Retreats
 
 Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with 12 bedrooms, 17 real beds, and 8 baths, accommodating 14 to 30 guests. For a group of around 16, everyone gets a real bed. Not a couch. Not a shared sleeping situation that compounds day two fatigue. A real bed.
 
@@ -213,7 +213,7 @@ The Bywater is also the right neighborhood for a slow day two. It's walkable, it
 
 4.98 average rating across 99 reviews. Groups are not being nice when they leave those ratings.
 
-### [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### The Syd
 
 Multiple villas in the Lower Garden District, each up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room was designed by a local New Orleans artist, which is either a nice detail or a genuinely distinctive experience depending on the group — but in practice, it gives the rooms more personality than typical villa rentals.
 
@@ -227,7 +227,7 @@ One block from the St. Charles Streetcar for the contingent who has enough energ
 
 Day two is coming. Every group hits it. The difference between a group that recovers and a group that limps through the rest of the trip is usually the accommodation.
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas, 14-30 guests, 17 real beds per villa, 4.98-star average
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 guests, heated pool + hot tub + sauna + outdoor kitchen, locally designed rooms
+- **Castleday Retreats** — Bywater, 3 private villas, 14-30 guests, 17 real beds per villa, 4.98-star average
+- **The Syd** — Lower Garden District, up to 22 guests, heated pool + hot tub + sauna + outdoor kitchen, locally designed rooms
 
 Give your group a base it can actually recover in. The rest of the trip will be better for it.

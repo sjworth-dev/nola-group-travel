@@ -188,7 +188,7 @@ Two properties that are built for exactly this kind of trip.
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com/family-vacations?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) operates three private villas in the Bywater—The Herald, The Cocodrie, and The Florentine—each with 12 bedrooms, 17 real beds, and 8 bathrooms. Capacity is 14-30 guests per villa, and the full kitchens are the reason you're here.
+Castleday Retreats operates three private villas in the Bywater—The Herald, The Cocodrie, and The Florentine—each with 12 bedrooms, 17 real beds, and 8 bathrooms. Capacity is 14-30 guests per villa, and the full kitchens are the reason you're here.
 
 **For a Thanksgiving group of around 16:** Everyone gets a real bed. Not a pullout, not a cot. A real bed. That's a rarity at this group size and it matters after a long holiday weekend.
 
@@ -196,17 +196,17 @@ The Florentine is ADA-accessible. The Bywater location is one of the best neighb
 
 With a 4.98 average rating across 99 reviews, this is a property that delivers.
 
-[Browse Castleday Retreats villas →](https://castledayretreats.com/family-vacations?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) runs multiple villas in the Lower Garden District, each accommodating up to 22 guests. The shared amenities—heated pool, hot tub, sauna, and outdoor kitchen—make this a strong option for groups who want more than just a place to sleep.
+The Syd runs multiple villas in the Lower Garden District, each accommodating up to 22 guests. The shared amenities—heated pool, hot tub, sauna, and outdoor kitchen—make this a strong option for groups who want more than just a place to sleep.
 
 Every room is designed by a local New Orleans artist. The aesthetic is distinctive and genuinely local in a way most rentals aren't. The outdoor kitchen is relevant for Thanksgiving specifically—more cooking surface, more options for overflow prep, and a great space for the post-meal hangout.
 
 One block from the St. Charles Streetcar means the whole city is accessible without needing to organize rides for every outing.
 
-[Explore The Syd →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -216,9 +216,8 @@ Thanksgiving weekend in New Orleans books up. If the dates work for your group, 
 
 Both properties are built for the kind of gathering this is: multiple bedrooms, real kitchens, space to be a group rather than a collection of hotel rooms scattered across different floors.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 14-30 guests per villa, 12 bedrooms / 17 real beds / 8 baths, full kitchens, The Florentine is ADA-accessible, 4.98 rating across 99 reviews
+**Castleday Retreats** — Bywater, 14-30 guests per villa, 12 bedrooms / 17 real beds / 8 baths, full kitchens, The Florentine is ADA-accessible, 4.98 rating across 99 reviews
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 guests per villa, heated pool + hot tub + sauna + outdoor kitchen, artist-designed rooms, one block from the streetcar
+**The Syd** — Lower Garden District, up to 22 guests per villa, heated pool + hot tub + sauna + outdoor kitchen, artist-designed rooms, one block from the streetcar
 
-[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
-[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)

@@ -212,7 +212,7 @@ Festival weekends book up fast. For large groups:
 - **4+ months ahead:** Essence, Voodoo, Southern Decadence
 - **2+ months ahead:** French Quarter Fest, smaller events
 
-[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) and [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) both accommodate large groups and are walkable to most events.
+Castleday Retreats and The Syd both accommodate large groups and are walkable to most events.
 
 ### Pricing
 
@@ -274,5 +274,5 @@ During festivals, forget about driving:
 
 Large group accommodations are scarce during festivals. The earlier you book, the better your options.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private villas in the Bywater, sleeps up to 30
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Art-filled villas in Lower Garden District, sleeps up to 22
+- Castleday Retreats – Private villas in the Bywater, sleeps up to 30
+- The Syd – Art-filled villas in Lower Garden District, sleeps up to 22

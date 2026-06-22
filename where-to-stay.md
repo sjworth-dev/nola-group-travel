@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Where to Stay in New Orleans With Large Groups"
-description: "Finding accommodations for large groups in New Orleans is hard. Most rentals cap at 10. Here are your actual options from locals who've solved this problem."
+description: "Finding accommodations for large groups in New Orleans is hard—most rentals cap at 10. Here are your real options, explained by locals who plan group trips."
 category: "Accommodations"
 date: 2026-01-14
 permalink: /where-to-stay/
@@ -19,11 +19,11 @@ In 2019, New Orleans passed strict short-term rental regulations. Among the rule
 
 The result? Hundreds of options for groups of 10 or fewer. Cross that threshold to 11, and your choices drop to almost nothing.
 
-We know this problem well—because we're the ones who solved it.
+Once you understand it, you can stop wasting time on listings that were never going to work and focus on the handful of properties built for groups this size.
 
 ## Your Best Options for Large Groups
 
-We operate two properties specifically designed for large groups. Both are locally owned, professionally managed, and actually permitted for the guest counts we advertise (no sneaking around regulations).
+A few properties are purpose-built for large groups. Two stand out—both locally owned, professionally managed, and actually permitted for the guest counts they advertise (no sneaking around regulations). Here's how they compare and how to book each one.
 
 ---
 
@@ -55,7 +55,7 @@ Three private villas in the Bywater, each with 12 bedrooms and 17 real beds—so
 > "We'd give this 10/5 stars if we could."
 > — Verified guest, 20-person wedding weekend, March 2026
 
-[Check availability at Castleday →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+*Booking it: search "Castleday Retreats" to reach its direct booking site for current availability and rates. For the full compound (all three villas, up to ~90 guests), ask for a single multi-villa reservation.*
 
 ---
 
@@ -74,7 +74,7 @@ Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Eve
 
 **Best for:** Groups who want to be in the middle of everything. Wedding parties near downtown venues. Corporate groups attending conventions. Anyone who appreciates design and wants to meet other travelers.
 
-[Check availability at The Syd →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+*Booking it: search "The Syd New Orleans" to reach its direct booking site for current availability and rates across its villas.*
 
 ---
 
@@ -91,7 +91,17 @@ Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Eve
 
 ---
 
-## Other Options (If We're Booked)
+## How to Book a Large-Group Villa
+
+Both properties take reservations directly—search each one by name to reach its booking site. Some large villas also appear on Airbnb and VRBO. Whatever you book, confirm three things in writing before you pay a deposit:
+
+- **The permitted guest count.** New Orleans caps most short-term rental permits at 10. Make sure the property is actually licensed for your group's size—not just listed as "sleeps 20."
+- **What "sleeps X" really means.** Ask for a bed breakdown: how many real beds versus pullouts and air mattresses.
+- **Whether it's one connected property** or several separate units. A listing that "sleeps 24" across three apartments on different blocks is not the same as everyone under one roof.
+
+---
+
+## Other Options (If These Are Booked)
 
 ### Multiple Adjacent Rentals
 
@@ -130,7 +140,7 @@ Some hotels can block rooms on the same floor.
 
 ## Our Honest Take
 
-If your group is large groups and you want everyone together in one place, book [Castleday](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites). We've been hosting large groups in New Orleans for years, and nothing else combines the capacity, quality, and location.
+If you have a big group and you want everyone together in one place, Castleday or The Syd are the two properties built for it. For groups this size, nothing else in the city reliably combines the capacity, quality, and location.
 
 Pick Castleday if you want privacy. Pick The Syd if you want to be central. Either way, you'll have a better experience than cobbling together multiple rentals or scattering everyone across hotel rooms.
 
@@ -145,7 +155,7 @@ New Orleans city regulations limit most short-term rental permits to 10 guests m
 Technically some people try this, but it violates the rental agreement, risks your deposit, and could get you kicked out mid-trip. Not worth it.
 
 **How far in advance should I book?**
-For our properties, book 2-3 months ahead for regular weekends, 4-6 months for Mardi Gras, Jazz Fest, and Essence Fest.
+For these large-group villas, book 2-3 months ahead for regular weekends, 4-6 months for Mardi Gras, Jazz Fest, and Essence Fest.
 
 **What if both Castleday and The Syd are booked?**
-Contact us anyway. Sometimes we have cancellations, or we can point you to other legitimate options we trust.
+Fall back to the options above—a few adjacent Airbnb/VRBO rentals or a hotel room block. Booking early (3+ months out, 6+ for festival weekends) is the best way to avoid the squeeze in the first place.

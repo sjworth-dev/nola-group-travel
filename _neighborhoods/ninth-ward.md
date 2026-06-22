@@ -162,13 +162,13 @@ Transportation: plan for 2-3 Ubers or a van rental. Don't underestimate the logi
 
 The neighborhoods most adjacent to the Ninth Ward — Bywater, Marigny — are also some of the most interesting for large-group accommodations.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. The Bywater is immediately adjacent to the Upper Ninth Ward and a short drive from the Lower Ninth. Staying here places your group in a neighborhood with its own complex post-Katrina story — the Bywater gentrified significantly after the storm, with complicated dynamics between longtime residents and newcomers. That context is part of understanding the broader narrative of post-Katrina New Orleans. Private pools, full kitchens, complete privacy.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater is immediately adjacent to the Upper Ninth Ward and a short drive from the Lower Ninth. Staying here places your group in a neighborhood with its own complex post-Katrina story — the Bywater gentrified significantly after the storm, with complicated dynamics between longtime residents and newcomers. That context is part of understanding the broader narrative of post-Katrina New Orleans. Private pools, full kitchens, complete privacy.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. A bit further from the Ninth Ward geographically but excellent if your group's itinerary combines the Ninth Ward with Garden District, Magazine Street, or Uptown activities. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. A bit further from the Ninth Ward geographically but excellent if your group's itinerary combines the Ninth Ward with Garden District, Magazine Street, or Uptown activities. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar.
 
 ---
 
 ## Book Your Stay
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, up to 30 guests — right next door to the neighborhoods you're visiting
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared amenities, good access to the whole city
+- Castleday Retreats — Bywater, private villas, up to 30 guests — right next door to the neighborhoods you're visiting
+- The Syd — Lower Garden District, up to 22 guests, shared amenities, good access to the whole city

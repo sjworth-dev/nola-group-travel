@@ -237,13 +237,13 @@ For a group planning a significant villa dinner — red beans and rice on Monday
 
 Group villa cooking only works if the kitchen is actually equipped for 15-30 people. This means a full-size refrigerator (at minimum), counter space for prep, a stove with enough burners to run two pots simultaneously, and outdoor space to set up the crawfish boil operation if that's happening.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests. Castleday's full villa kitchens are equipped for group cooking: full-size appliances, counter space, and the kind of setup that supports an actual jambalaya for 20 rather than just a microwave reheating operation. The outdoor courtyard and private pool area at each villa support the crawfish boil or the grill setup that can't happen inside. The Bywater location puts the group within easy reach of the Marigny and the Crescent City Farmers Market pickup route.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. Castleday's full villa kitchens are equipped for group cooking: full-size appliances, counter space, and the kind of setup that supports an actual jambalaya for 20 rather than just a microwave reheating operation. The outdoor courtyard and private pool area at each villa support the crawfish boil or the grill setup that can't happen inside. The Bywater location puts the group within easy reach of the Marigny and the Crescent City Farmers Market pickup route.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with shared outdoor kitchen facilities that are genuinely designed for group cooking at scale. The Syd's outdoor kitchen adjacent to the shared pool area is where a 25-person crawfish boil makes sense — the outdoor burner setup, the hose access, the table space. The Magazine Street corridor is walkable for last-minute grocery runs at stores you'll pass along the way.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with shared outdoor kitchen facilities that are genuinely designed for group cooking at scale. The Syd's outdoor kitchen adjacent to the shared pool area is where a 25-person crawfish boil makes sense — the outdoor burner setup, the hose access, the table space. The Magazine Street corridor is walkable for last-minute grocery runs at stores you'll pass along the way.
 
 ---
 
 ## Stock the Villa Right
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, 14-30 guests, full kitchens, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared heated pool
+- Castleday Retreats — Bywater private villas, 14-30 guests, full kitchens, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared heated pool

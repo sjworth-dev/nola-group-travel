@@ -188,9 +188,9 @@ This is one of the things that can't be planned and shouldn't be. The structure 
 
 The closer you are to Frenchmen Street, the better the music crawl experience. Walking home at midnight beats waiting for a rideshare at 1am.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you within a 10-15 minute walk of Frenchmen Street — close enough to walk there, close enough to walk home. After the crawl, the villa pool deck is the natural landing spot: music on the speakers, drinks from the kitchen, everyone together recapping the night. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you within a 10-15 minute walk of Frenchmen Street — close enough to walk there, close enough to walk home. After the crawl, the villa pool deck is the natural landing spot: music on the speakers, drinks from the kitchen, everyone together recapping the night. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a rideshare or streetcar ride from Frenchmen — the St. Charles Streetcar to Canal Street, then a short walk into the Quarter and over to the Marigny. The Syd's post-crawl infrastructure — outdoor kitchen, pool, hot tub at night — is the right landing spot for a group returning from a long music night.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a rideshare or streetcar ride from Frenchmen — the St. Charles Streetcar to Canal Street, then a short walk into the Quarter and over to the Marigny. The Syd's post-crawl infrastructure — outdoor kitchen, pool, hot tub at night — is the right landing spot for a group returning from a long music night.
 
 Both properties are built for groups who want to own the space before and after the night out, not just pass through a hotel lobby.
 
@@ -198,5 +198,5 @@ Both properties are built for groups who want to own the space before and after 
 
 ## Ready to Plan Your Music Night?
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, Frenchmen Street walkable, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool and outdoor kitchen, one block from St. Charles Streetcar
+- Castleday Retreats — Bywater villas, up to 30 guests, Frenchmen Street walkable, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool and outdoor kitchen, one block from St. Charles Streetcar

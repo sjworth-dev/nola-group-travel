@@ -191,13 +191,13 @@ Rampart Street is the historical boundary of the French Quarter on the Tremé si
 
 ## Home Base for a Walking Morning
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group within walking distance of the Marigny/Bywater route and a short walk or rideshare from the French Quarter and Tremé routes. Starting a morning walk from Castleday's courtyard with coffee before heading out is the right rhythm. Returning to the private pool after 90 minutes on foot in NOLA heat is the right recovery. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group within walking distance of the Marigny/Bywater route and a short walk or rideshare from the French Quarter and Tremé routes. Starting a morning walk from Castleday's courtyard with coffee before heading out is the right rhythm. Returning to the private pool after 90 minutes on foot in NOLA heat is the right recovery. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location is natural for the Garden District route — the route essentially starts in the blocks around The Syd's neighborhood. Walk out the front door and you're in the Garden District walking tour already.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location is natural for the Garden District route — the route essentially starts in the blocks around The Syd's neighborhood. Walk out the front door and you're in the Garden District walking tour already.
 
 ---
 
 ## Plan Your Walking Morning
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access

@@ -170,15 +170,15 @@ For Mardi Gras season and Jazz Fest weekends: add 3-6 months to all timelines. T
 
 The most intimate rehearsal dinner format is often the right call for smaller wedding parties. If your wedding party and immediate family is 25-35 people, a villa dinner avoids the minimum spend mechanics of private restaurant rooms, gives you complete control over timing and atmosphere, and creates a genuinely personal experience.
 
-**[Castleday Retreats](https://castledayretreats.com/wedding-groups?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood, each with full kitchens, large dining and common areas, and private outdoor courtyard and pool spaces. The Florentine is noted as the most elegant of the three villas and is ADA-accessible — relevant if your wedding party includes guests with mobility considerations. At 12 bedrooms and 17 real beds per villa, housing the core wedding party and immediate family in one location makes rehearsal dinner logistics considerably simpler. Castleday has hosted wedding groups specifically and can advise on catering and chef referrals.
+**Castleday Retreats** — Three private villas in the Bywater neighborhood, each with full kitchens, large dining and common areas, and private outdoor courtyard and pool spaces. The Florentine is noted as the most elegant of the three villas and is ADA-accessible — relevant if your wedding party includes guests with mobility considerations. At 12 bedrooms and 17 real beds per villa, housing the core wedding party and immediate family in one location makes rehearsal dinner logistics considerably simpler. Castleday has hosted wedding groups specifically and can advise on catering and chef referrals.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, outdoor kitchen, and courtyard make The Syd's outdoor spaces a natural setting for a pre-dinner cocktail hour followed by a villa dinner. One block from the St. Charles Streetcar, making the transition to and from the ceremony venue easy if the rehearsal is nearby.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, outdoor kitchen, and courtyard make The Syd's outdoor spaces a natural setting for a pre-dinner cocktail hour followed by a villa dinner. One block from the St. Charles Streetcar, making the transition to and from the ceremony venue easy if the rehearsal is nearby.
 
 ---
 
 ## Plan Your Rehearsal Dinner
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, The Florentine is ADA-accessible and most elegant
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, outdoor kitchen and courtyard
+- Castleday Retreats — Bywater, 14-30 guests, The Florentine is ADA-accessible and most elegant
+- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen and courtyard
 
 New Orleans is one of the best cities in the country to have a rehearsal dinner. Don't let logistics get between you and that fact.

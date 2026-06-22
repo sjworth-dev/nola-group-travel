@@ -164,13 +164,13 @@ This is NOLA. People want to drink during the cooking class.
 
 Private instruction works best at a property with a real kitchen. Both Castleday and The Syd have the kind of full residential kitchens that make villa cooking instruction practical.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. Castleday's full villa kitchens are set up for real cooking — not hotel-room kitchenettes. A private chef instruction class in a Castleday kitchen, followed by eating what you made around a large table, is the ideal villa cooking experience. The Bywater location also puts you close to some of the city's best food shops and markets for the post-class grocery run.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. Castleday's full villa kitchens are set up for real cooking — not hotel-room kitchenettes. A private chef instruction class in a Castleday kitchen, followed by eating what you made around a large table, is the ideal villa cooking experience. The Bywater location also puts you close to some of the city's best food shops and markets for the post-class grocery run.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Rooms designed by local New Orleans artists. Shared outdoor kitchen, heated pool, hot tub, sauna. The Syd's outdoor kitchen extends the cooking experience beyond the villa interior — the outdoor space is designed for group meals and gatherings. After a morning class, The Syd's pool and outdoor kitchen area is the natural place to decompress and eat.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Rooms designed by local New Orleans artists. Shared outdoor kitchen, heated pool, hot tub, sauna. The Syd's outdoor kitchen extends the cooking experience beyond the villa interior — the outdoor space is designed for group meals and gatherings. After a morning class, The Syd's pool and outdoor kitchen area is the natural place to decompress and eat.
 
 ---
 
 ## Plan Your Cooking Class
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 per villa, full kitchens, private pools
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool
+- Castleday Retreats — Bywater, up to 30 per villa, full kitchens, private pools
+- The Syd — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool

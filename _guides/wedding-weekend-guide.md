@@ -179,9 +179,9 @@ Hotels work for couples; they fail for groups. When 30 people are in 15 differen
 
 The right answer for large wedding weekends is one or two private villas where the group can gather, cook breakfast, debrief over coffee, and feel like they're actually in this together.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine can be booked individually or together. The Herald has the best large common areas for welcome parties and group gatherings. The Cocodrie has the best pool and outdoor space for warm-weather events. The Florentine is the most elegant interior — good for a couple who wants a beautiful space to wake up in on their wedding morning. Private pools at each villa mean guests have something to do all day Thursday and Friday that doesn't require logistics.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine can be booked individually or together. The Herald has the best large common areas for welcome parties and group gatherings. The Cocodrie has the best pool and outdoor space for warm-weather events. The Florentine is the most elegant interior — good for a couple who wants a beautiful space to wake up in on their wedding morning. Private pools at each villa mean guests have something to do all day Thursday and Friday that doesn't require logistics.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen make it easy to gather the group without organizing an event. One block from the St. Charles Streetcar — which means guests can get anywhere in the city without Ubers. The Lower Garden District location is close to most Garden District and Magazine Street wedding venues, making transportation logistics simpler.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen make it easy to gather the group without organizing an event. One block from the St. Charles Streetcar — which means guests can get anywhere in the city without Ubers. The Lower Garden District location is close to most Garden District and Magazine Street wedding venues, making transportation logistics simpler.
 
 For a wedding with 25–30 guests: booking two villas at Castleday (or one large Castleday villa plus The Syd for overflow) handles the group while keeping everyone in the same neighborhood. Both properties are experienced hosting wedding groups — they understand the flow of a multi-day event.
 
@@ -191,5 +191,5 @@ For a wedding with 25–30 guests: booking two villas at Castleday (or one large
 
 The accommodation is the thing to lock in first. Everything else — rehearsal dinner reservations, transportation, activity planning — follows from where your group is based.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, three villas up to 30 guests each, private pools, perfect for the full wedding group
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, multiple villas up to 22 guests, shared pool and hot tub, St. Charles Streetcar access
+- Castleday Retreats — Bywater, three villas up to 30 guests each, private pools, perfect for the full wedding group
+- The Syd — Lower Garden District, multiple villas up to 22 guests, shared pool and hot tub, St. Charles Streetcar access

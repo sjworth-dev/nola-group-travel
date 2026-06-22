@@ -61,9 +61,9 @@ For groups of 10+, a private villa almost always beats a hotel on both cost and 
 
 For groups of 15-30, these are the two main large-group villa options in New Orleans.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. Complete privacy. Contact directly for rates and availability.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. Complete privacy. Contact directly for rates and availability.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Contact directly for rates.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Contact directly for rates.
 
 Both properties are significantly cheaper per person than booking equivalent hotel rooms when you hit group sizes of 15+.
 
@@ -87,7 +87,7 @@ Food is where New Orleans trips diverge most dramatically by budget. You can eat
 
 One or two meals at the rental house dramatically reduces food costs and often produces the most memorable meals of the trip. A group grocery run at Rouse's or Whole Foods, a crawfish boil or red beans and rice, drinks from a cooler on the porch — this costs $15-25/person and is often better than dinner out.
 
-**Groups staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** both have full kitchens (or outdoor kitchen at The Syd). Use them.
+**Groups staying at Castleday Retreats or The Syd** both have full kitchens (or outdoor kitchen at The Syd). Use them.
 
 ### 3-Day Food Budget Summary
 
@@ -280,13 +280,13 @@ Incremental cost for 5 nights vs. 3 nights (per person, additional 2 nights):
 
 The biggest decision that shapes your budget is where you stay. Getting this right is worth more attention than any other line item.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens. Complete privacy. For groups who want to own their own space entirely.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens. Complete privacy. For groups who want to own their own space entirely.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. Central location, one block from the St. Charles Streetcar.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. Central location, one block from the St. Charles Streetcar.
 
 At maximum capacity, both properties offer competitive per-person rates versus hotels — often significantly cheaper once you factor in the kitchen, outdoor space, and the logistics savings of everyone being in one place.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, full kitchen
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, outdoor kitchen and amenities
+- **Castleday Retreats** — Bywater, up to 30 per villa, full kitchen
+- **The Syd** — Lower Garden District, up to 22 per villa, outdoor kitchen and amenities

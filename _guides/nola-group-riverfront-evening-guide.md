@@ -164,13 +164,13 @@ The ferry itself imposes a small constraint — the schedule — but that constr
 
 ## Where to Base This Evening
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. From Castleday's Bywater location, the riverfront and the Moonwalk are a short rideshare or a pleasant 20-minute walk along the levee. The Bywater levee itself — accessible from the Bywater neighborhood — connects to the same riverfront promenade, and the Algiers Ferry terminal is reachable without ever entering the French Quarter proper. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. From Castleday's Bywater location, the riverfront and the Moonwalk are a short rideshare or a pleasant 20-minute walk along the levee. The Bywater levee itself — accessible from the Bywater neighborhood — connects to the same riverfront promenade, and the Algiers Ferry terminal is reachable without ever entering the French Quarter proper. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, outdoor kitchen, and local artist-designed interiors, one block from the St. Charles Streetcar. From The Syd, the St. Charles Streetcar connects you efficiently to the CBD and then a short walk to the riverfront. The Lower Garden District location also means you can walk to the river via the Garden District riverfront — a quieter, more residential approach to the same waterway that French Quarter visitors crowd.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, outdoor kitchen, and local artist-designed interiors, one block from the St. Charles Streetcar. From The Syd, the St. Charles Streetcar connects you efficiently to the CBD and then a short walk to the riverfront. The Lower Garden District location also means you can walk to the river via the Garden District riverfront — a quieter, more residential approach to the same waterway that French Quarter visitors crowd.
 
 ---
 
 ## Plan Your Riverfront Evening
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, levee-walkable, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, St. Charles Streetcar one block
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, levee-walkable, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, St. Charles Streetcar one block

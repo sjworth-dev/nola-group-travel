@@ -178,13 +178,13 @@ The structural gift of the wellness morning is that it creates a gathering point
 
 A wellness morning at scale requires specific infrastructure: outdoor space for movement, a kitchen capable of running a smoothie bar, a pool for the cold plunge phase, and enough common area for the group to gather communally without crowding.
 
-### [Castleday Retreats](https://castledayretreats.com/wellness-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### Castleday Retreats
 
 Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with private pools, outdoor spaces, and full kitchens. The lawn and pool areas at these villas are designed for exactly this use: morning yoga on the grass, pool for the post-movement session, the kitchen handling the smoothie bar.
 
 For wellness-focused groups, the private pool is not a luxury — it's the infrastructure that makes the cold plunge and post-movement pool session work without coordination overhead or public space logistics. 12 bedrooms, 17 real beds, 8 baths per villa, accommodating 14-30 guests. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
 
-### [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### The Syd
 
 Multiple villas in the Lower Garden District, up to 22 guests per villa. The shared amenity stack at The Syd — heated pool, hot tub, sauna, outdoor kitchen — is purpose-built for wellness mornings. The sauna is a legitimate recovery tool that most group villas don't offer. A 20-minute sauna session post-yoga, followed by a cool pool dip, is a full contrast therapy protocol that doesn't require leaving the property.
 
@@ -196,7 +196,7 @@ The outdoor kitchen means smoothie bar setup doesn't compete with the main kitch
 
 The right villa is the one with the right outdoor infrastructure for what you're planning. Both properties deliver it.
 
-- **[Castleday Retreats](https://castledayretreats.com/wellness-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas, private pools and lawns, 14-30 guests per villa, 4.98-star average
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, heated pool + hot tub + sauna + outdoor kitchen, up to 22 guests per villa
+- **Castleday Retreats** — Bywater, 3 private villas, private pools and lawns, 14-30 guests per villa, 4.98-star average
+- **The Syd** — Lower Garden District, heated pool + hot tub + sauna + outdoor kitchen, up to 22 guests per villa
 
 The group that hits their third late night and then recovers with a structured morning is the group that still has energy on day four. Set up the infrastructure for that recovery.

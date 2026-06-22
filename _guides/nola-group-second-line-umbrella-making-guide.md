@@ -174,13 +174,13 @@ When exploring workshop operators, ask specifically: "Do you do private villa wo
 
 ## The Right Base for a Second Line Workshop Day
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater neighborhood is directly adjacent to the communities where second line culture lives — the Tremé and the Seventh Ward are minutes away. The villa's outdoor spaces and large dining areas can accommodate an in-villa workshop setup for groups of up to 30. After the workshop, the neighborhood provides immediate access to real second line routes. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater neighborhood is directly adjacent to the communities where second line culture lives — the Tremé and the Seventh Ward are minutes away. The villa's outdoor spaces and large dining areas can accommodate an in-villa workshop setup for groups of up to 30. After the workshop, the neighborhood provides immediate access to real second line routes. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's courtyard and outdoor spaces work well for in-villa workshop setups — the outdoor kitchen and courtyard are designed for exactly this kind of group-gathering-around-a-shared-activity energy. Post-workshop, the St. Charles Streetcar is one block away for easy transit to second line neighborhoods.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's courtyard and outdoor spaces work well for in-villa workshop setups — the outdoor kitchen and courtyard are designed for exactly this kind of group-gathering-around-a-shared-activity energy. Post-workshop, the St. Charles Streetcar is one block away for easy transit to second line neighborhoods.
 
 ---
 
 ## Book Your Workshop Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, adjacent to second line culture neighborhoods, large outdoor spaces for in-villa workshops
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, courtyard workshop space, one block from St. Charles Streetcar to second line neighborhoods
+- Castleday Retreats — Bywater villas, up to 30 guests, adjacent to second line culture neighborhoods, large outdoor spaces for in-villa workshops
+- The Syd — Lower Garden District villas, up to 22 guests, courtyard workshop space, one block from St. Charles Streetcar to second line neighborhoods

@@ -223,9 +223,9 @@ Keep prizes experiential rather than physical:
 
 Scavenger hunts need a home base — the briefing point, the finish line, and the celebration space.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts the hunt launch point within walking distance of the Marigny and French Quarter — two of the best hunting neighborhoods in the city. The villa's outdoor spaces handle the briefing, the return, and the post-hunt celebration without any venue logistics. Pool access on the return makes the prize for the winners even better. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts the hunt launch point within walking distance of the Marigny and French Quarter — two of the best hunting neighborhoods in the city. The villa's outdoor spaces handle the briefing, the return, and the post-hunt celebration without any venue logistics. Pool access on the return makes the prize for the winners even better. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's shared courtyard spaces are ideal for pre-hunt briefings and post-hunt celebrations with the whole group together. The outdoor kitchen means the celebration meal can happen right there rather than requiring a restaurant reservation.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's shared courtyard spaces are ideal for pre-hunt briefings and post-hunt celebrations with the whole group together. The outdoor kitchen means the celebration meal can happen right there rather than requiring a restaurant reservation.
 
 Both properties give the organizer a real base of operations and give the group a genuine communal space for the debrief and celebration — which is where half the day's value lives.
 
@@ -233,5 +233,5 @@ Both properties give the organizer a real base of operations and give the group 
 
 ## Plan Your NOLA Hunt
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, walking distance to Marigny and French Quarter hunt zones, private pools
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and courtyard for hunt HQ
+- Castleday Retreats — Bywater villas, up to 30 guests, walking distance to Marigny and French Quarter hunt zones, private pools
+- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and courtyard for hunt HQ

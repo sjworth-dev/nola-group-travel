@@ -295,9 +295,9 @@ Crowds are significantly larger. Lines form at popular spots. Factor in extra ti
 
 This is where most groups struggle. You need 20 people together in one place during the most popular travel stretch of the year.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, three private villas sleeping up to 30 each. Bywater is a 15-minute walk from the Jazz Fest fairgrounds and close enough to Mardi Gras parade routes uptown via streetcar or Uber. Private pools make festival recovery days exceptional. Book 6-12 months ahead for Mardi Gras and Jazz Fest.
+**Castleday Retreats** — Bywater, three private villas sleeping up to 30 each. Bywater is a 15-minute walk from the Jazz Fest fairgrounds and close enough to Mardi Gras parade routes uptown via streetcar or Uber. Private pools make festival recovery days exceptional. Book 6-12 months ahead for Mardi Gras and Jazz Fest.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas sleeping up to 22. One block from the St. Charles Streetcar, which is the key artery during Mardi Gras parade season. The shared heated pool, hot tub, and sauna make it a natural hub between festival outings. Strong location for groups attending the Garden District and Uptown parades.
+**The Syd** — Lower Garden District, multiple villas sleeping up to 22. One block from the St. Charles Streetcar, which is the key artery during Mardi Gras parade season. The shared heated pool, hot tub, and sauna make it a natural hub between festival outings. Strong location for groups attending the Garden District and Uptown parades.
 
 Both properties are accustomed to festival-season groups. They know the logistics. They can advise on parade routes, parking, and coordination.
 
@@ -307,5 +307,5 @@ Both properties are accustomed to festival-season groups. They know the logistic
 
 Festival-season accommodations for large groups are a limited resource. The 30-person villas that work for your group don't have hundreds of listings. There are a handful.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Check availability early; festival dates go first
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, near streetcar lines for parade season
+- Castleday Retreats — Check availability early; festival dates go first
+- The Syd — Lower Garden District, near streetcar lines for parade season

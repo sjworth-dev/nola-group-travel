@@ -252,13 +252,13 @@ That's the thing worth doing.
 
 ## The Villas That Make This Possible
 
-**[Castleday Retreats](https://castledayretreats.com/occasions?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyards and pool decks are purpose-built for exactly this use — completely private, no shared outdoor space with other guests, full control of the environment. The Florentine, The Cocodrie, and The Herald each have distinct outdoor configurations; The Cocodrie's pool and outdoor space is the strongest for large cocktail parties. For multi-group events or occasions where you want to buy out all three villas (capacity: ~90 guests), the option exists. 4.98 stars across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyards and pool decks are purpose-built for exactly this use — completely private, no shared outdoor space with other guests, full control of the environment. The Florentine, The Cocodrie, and The Herald each have distinct outdoor configurations; The Cocodrie's pool and outdoor space is the strongest for large cocktail parties. For multi-group events or occasions where you want to buy out all three villas (capacity: ~90 guests), the option exists. 4.98 stars across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared outdoor spaces — a heated pool, hot tub, sauna, outdoor kitchen, and courtyard — create a larger communal outdoor environment that naturally accommodates cocktail parties of 30-50 people across multiple villa bookings. The outdoor kitchen is the bar station; the pool area is the party zone; the courtyard is the extended space when the event grows.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared outdoor spaces — a heated pool, hot tub, sauna, outdoor kitchen, and courtyard — create a larger communal outdoor environment that naturally accommodates cocktail parties of 30-50 people across multiple villa bookings. The outdoor kitchen is the bar station; the pool area is the party zone; the courtyard is the extended space when the event grows.
 
 ---
 
 ## Host the Party
 
-- [Castleday Retreats](https://castledayretreats.com/occasions?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, up to 30 guests each (~90 across all three), private pool, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared outdoor kitchen and pool, artist-designed interiors
+- Castleday Retreats — Bywater private villas, up to 30 guests each (~90 across all three), private pool, 4.98 stars
+- The Syd — Lower Garden District, up to 22 guests per villa, shared outdoor kitchen and pool, artist-designed interiors

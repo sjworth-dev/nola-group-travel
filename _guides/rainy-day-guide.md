@@ -217,8 +217,8 @@ If you're based in a specific neighborhood, here's what's close:
 
 The best buffer against a bad rain day is a great property. If you're stuck inside, the difference between a cramped Airbnb and a well-designed villa with large common areas, a kitchen, and good outdoor/indoor flow is enormous.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater. Full kitchens, large common areas, indoor space that fits your whole group comfortably. Private pools are still usable in warm rain. Bywater location puts you minutes from Frenchmen Street and Bacchanal.
+**Castleday Retreats** — Three private villas in the Bywater. Full kitchens, large common areas, indoor space that fits your whole group comfortably. Private pools are still usable in warm rain. Bywater location puts you minutes from Frenchmen Street and Bacchanal.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District. Indoor and outdoor kitchen, sauna (perfect for a rainy afternoon), hot tub. The sauna on a rainy day is genuinely excellent. Walking distance to Magazine Street, Uptown bars, the streetcar.
+**The Syd** — Multiple villas in the Lower Garden District. Indoor and outdoor kitchen, sauna (perfect for a rainy afternoon), hot tub. The sauna on a rainy day is genuinely excellent. Walking distance to Magazine Street, Uptown bars, the streetcar.
 
 Both properties give you a real home base. When rain scraps your outdoor plans, a well-designed villa turns the day into a feature instead of a bug.

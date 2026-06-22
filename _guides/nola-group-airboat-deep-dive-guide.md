@@ -214,13 +214,13 @@ Every swamp tour half-day should end with a Cajun lunch. The wetlands geography,
 
 ## Home Base for a Swamp Morning
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. A swamp tour morning departing from Castleday's Bywater location follows a natural rhythm: early coffee in the villa kitchen, departure to the launch site, two hours on the water, Cajun lunch on the road, and return to the Bywater by early afternoon. Castleday's private pool becomes the decompression option after a hot morning in the sun. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. A swamp tour morning departing from Castleday's Bywater location follows a natural rhythm: early coffee in the villa kitchen, departure to the launch site, two hours on the water, Cajun lunch on the road, and return to the Bywater by early afternoon. Castleday's private pool becomes the decompression option after a hot morning in the sun. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District base offers easy access to the highway corridors leading south to the Barataria Preserve. Return from the swamp to The Syd puts the group at the shared outdoor kitchen and pool for the afternoon recovery session — the right end to a morning that started in the Louisiana marshes.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District base offers easy access to the highway corridors leading south to the Barataria Preserve. Return from the swamp to The Syd puts the group at the shared outdoor kitchen and pool for the afternoon recovery session — the right end to a morning that started in the Louisiana marshes.
 
 ---
 
 ## Plan Your Swamp Morning
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen

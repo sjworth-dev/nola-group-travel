@@ -204,9 +204,9 @@ If you're using rideshare, split into sub-groups of 4-5, each calling their own 
 
 The best French Quarter nights happen when the group has a proper base to return to — somewhere they can grab a drink before going out, change and freshen up mid-evening, and decompress after the night ends without dealing with hotel lobbies or split rooms across multiple floors.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, a 10-15 minute rideshare from the heart of the French Quarter. The Bywater location puts the group in a neighborhood that connects naturally to the Marigny and the Frenchmen Street end-of-night option. Return to the villa after Frenchmen, pool is open, kitchen is stocked, the night continues or winds down on the group's terms. 14-30 guests per villa, private pools, full kitchens, 12 BR / 17 real beds.
+**Castleday Retreats** — Three private villas in the Bywater, a 10-15 minute rideshare from the heart of the French Quarter. The Bywater location puts the group in a neighborhood that connects naturally to the Marigny and the Frenchmen Street end-of-night option. Return to the villa after Frenchmen, pool is open, kitchen is stocked, the night continues or winds down on the group's terms. 14-30 guests per villa, private pools, full kitchens, 12 BR / 17 real beds.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, one block from the St. Charles Streetcar. The streetcar runs to Canal Street and puts the group at the edge of the Quarter in 15-20 minutes without rideshare cost. The shared courtyard — heated pool, hot tub, outdoor kitchen — is the debrief space after the Quarter night. Up to 22 guests per villa, local artist-designed interiors.
+**The Syd** — Multiple villas in the Lower Garden District, one block from the St. Charles Streetcar. The streetcar runs to Canal Street and puts the group at the edge of the Quarter in 15-20 minutes without rideshare cost. The shared courtyard — heated pool, hot tub, outdoor kitchen — is the debrief space after the Quarter night. Up to 22 guests per villa, local artist-designed interiors.
 
 Both properties give the group a home base that is meaningfully better than a hotel room floor as the French Quarter social debrief location.
 
@@ -214,5 +214,5 @@ Both properties give the group a home base that is meaningfully better than a ho
 
 ## Plan Your French Quarter Evening
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, 10-15 minutes from the Quarter, private pools, 14-30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, streetcar to Canal Street, up to 22 guests, shared pool and hot tub
+- Castleday Retreats — Bywater villas, 10-15 minutes from the Quarter, private pools, 14-30 guests
+- The Syd — Lower Garden District, streetcar to Canal Street, up to 22 guests, shared pool and hot tub

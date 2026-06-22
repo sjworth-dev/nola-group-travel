@@ -233,9 +233,9 @@ These drinks weren't invented at a single bar that still exists, but they're wor
 
 The cocktail history tour route runs through the French Quarter and CBD. The best base for a tour like this depends on how you're getting around.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District is close to the Sazerac Bar and puts the whole French Quarter in easy Uber range. Multiple villas with shared heated pool, hot tub, and outdoor kitchen designed by local New Orleans artists. One block from the St. Charles streetcar. After the tour ends, the streetcar gets you home.
+**The Syd** in the Lower Garden District is close to the Sazerac Bar and puts the whole French Quarter in easy Uber range. Multiple villas with shared heated pool, hot tub, and outdoor kitchen designed by local New Orleans artists. One block from the St. Charles streetcar. After the tour ends, the streetcar gets you home.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater gives you private villas with pools and full kitchens—perfect for ending the evening with a nightcap at the villa rather than fighting for bar space. Three villas up to 30 guests each. Post-tour pool time is a legitimate plan.
+**Castleday Retreats** in the Bywater gives you private villas with pools and full kitchens—perfect for ending the evening with a nightcap at the villa rather than fighting for bar space. Three villas up to 30 guests each. Post-tour pool time is a legitimate plan.
 
 ---
 
@@ -246,5 +246,5 @@ New Orleans gave the world the cocktail. Every drink on this tour has a specific
 That's the difference between this city and everywhere else. The history isn't reconstructed. You're sitting in the actual room.
 
 **Book your villa base:**
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, artist-designed villas
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests, private pools
+- The Syd — Lower Garden District, up to 22 guests, artist-designed villas
+- Castleday Retreats — Bywater, up to 30 guests, private pools

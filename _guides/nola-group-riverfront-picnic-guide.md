@@ -158,13 +158,13 @@ The picnic wins on cost and flexibility, and the group bonding score is genuinel
 
 If you're running a riverfront picnic as part of a larger trip, where you're based matters for logistics. The closer to the French Quarter and riverfront, the easier the afternoon becomes.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is an easy rideshare or a 20-minute walk from the French Market — close enough that the sourcing run is practical, and the villa's full kitchen and outdoor space make it easy to stage supplies and debrief after the picnic. The private pool at each villa handles the pre-picnic afternoon just as well. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is an easy rideshare or a 20-minute walk from the French Market — close enough that the sourcing run is practical, and the villa's full kitchen and outdoor space make it easy to stage supplies and debrief after the picnic. The private pool at each villa handles the pre-picnic afternoon just as well. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a straight shot on the St. Charles Streetcar to the Canal Street end of the French Quarter, putting the sourcing team at Rouses within 20 minutes of departure. Groups staging at The Syd can run the picnic, transition to Frenchmen Street for the evening, and return via streetcar without ever needing a rideshare.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a straight shot on the St. Charles Streetcar to the Canal Street end of the French Quarter, putting the sourcing team at Rouses within 20 minutes of departure. Groups staging at The Syd can run the picnic, transition to Frenchmen Street for the evening, and return via streetcar without ever needing a rideshare.
 
 ---
 
 ## Go Get the Picnic
 
-- [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, streetcar access

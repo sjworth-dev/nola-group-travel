@@ -207,15 +207,15 @@ If you're 10-12 months out, you may still have opportunities with some krewes th
 
 Returning from a parade with a group of 8-10 tired riders plus bags of leftover throws is a logistical moment that separates hotel stays from villa stays pretty clearly. You want space, showers, somewhere to dump the throws, and a kitchen where someone can start making food while everyone else cleans up.
 
-**[Castleday Retreats](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The Bywater location puts you outside the major parade route traffic, which means you can actually get home after the parade rather than waiting for gridlock to clear. Full kitchens, private pools, and large common areas where the post-parade debrief naturally happens. The art-filled interiors are also an interesting backdrop for the mountain of beads and throws you'll be sorting through.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The Bywater location puts you outside the major parade route traffic, which means you can actually get home after the parade rather than waiting for gridlock to clear. Full kitchens, private pools, and large common areas where the post-parade debrief naturally happens. The art-filled interiors are also an interesting backdrop for the mountain of beads and throws you'll be sorting through.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Uptown parade routes pass near the LGD, making the walk or ride back after a Garden District parade manageable. The shared outdoor courtyard is the natural gathering point for the post-parade wind-down — heated pool, hot tub, outdoor kitchen.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Uptown parade routes pass near the LGD, making the walk or ride back after a Garden District parade manageable. The shared outdoor courtyard is the natural gathering point for the post-parade wind-down — heated pool, hot tub, outdoor kitchen.
 
 ---
 
 ## Make It Happen
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, 12 bedrooms, 8 baths per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared courtyard and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, 12 bedrooms, 8 baths per villa
+- The Syd — Lower Garden District, up to 22 guests, shared courtyard and outdoor kitchen
 
 Start the krewe conversation now. The groups that ride next Mardi Gras started planning 18 months ago.

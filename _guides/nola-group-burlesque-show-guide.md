@@ -173,13 +173,13 @@ The answer to most of these is yes, but you have to ask in advance. Showing up o
 
 ## Where to Stay for a Burlesque Night
 
-**[Castleday Retreats](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts you close to the Marigny and Frenchmen Street performance corridor — short rideshare to most burlesque venues, walkable from some. For bachelorette groups using burlesque as the night's anchor, the Castleday villa is the ideal pre-show staging ground (getting ready together, pre-game in the kitchen, the pool on return) and post-show landing spot. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts you close to the Marigny and Frenchmen Street performance corridor — short rideshare to most burlesque venues, walkable from some. For bachelorette groups using burlesque as the night's anchor, the Castleday villa is the ideal pre-show staging ground (getting ready together, pre-game in the kitchen, the pool on return) and post-show landing spot. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. The Syd's access to the St. Charles Streetcar and its central position make it efficient to reach burlesque venues across the city. The shared outdoor kitchen and pool become the evening's post-show destination — the right environment for a group returning from a high-energy performance night.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. The Syd's access to the St. Charles Streetcar and its central position make it efficient to reach burlesque venues across the city. The shared outdoor kitchen and pool become the evening's post-show destination — the right environment for a group returning from a high-energy performance night.
 
 ---
 
 ## Plan Your Burlesque Night
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, perfect Marigny/Frenchmen access, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, outdoor kitchen, central location
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, perfect Marigny/Frenchmen access, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, outdoor kitchen, central location

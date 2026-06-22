@@ -90,9 +90,9 @@ New Orleans is perfect for this. It's celebratory by nature—a city that knows 
 
 You need one place where everyone can gather. Not scattered hotel rooms.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space for the big celebration dinner.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space for the big celebration dinner.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared pool and hot tub, central location.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared pool and hot tub, central location.
 
 ### Why a Private Villa Beats a Hotel
 
@@ -230,5 +230,5 @@ Cost: $100-200/person including food and service.
 
 For birthday large groups:
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Private villas perfect for celebrations
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Central location, art-filled, festive
+- Castleday Retreats – Private villas perfect for celebrations
+- The Syd – Central location, art-filled, festive

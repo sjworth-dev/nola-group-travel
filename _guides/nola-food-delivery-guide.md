@@ -259,9 +259,9 @@ When you're at a villa and the food situation is urgent:
 
 A villa with a real kitchen and a grill eliminates most of these logistics problems.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens at every villa, private pools, outdoor spaces with grill areas. The kitchens are real — range, oven, full refrigerator, counter space. Cooking for 20 people is actually viable. The Bywater also puts you close to several excellent grocery options and specialty food shops for the arrival-day stock-up run.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens at every villa, private pools, outdoor spaces with grill areas. The kitchens are real — range, oven, full refrigerator, counter space. Cooking for 20 people is actually viable. The Bywater also puts you close to several excellent grocery options and specialty food shops for the arrival-day stock-up run.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared outdoor kitchen in addition to villa kitchens. Heated pool, hot tub, sauna. The shared outdoor kitchen is purpose-built for the group cookout situation — it's a real outdoor cooking setup, not just a grill. One block from the St. Charles Streetcar for easy grocery runs.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared outdoor kitchen in addition to villa kitchens. Heated pool, hot tub, sauna. The shared outdoor kitchen is purpose-built for the group cookout situation — it's a real outdoor cooking setup, not just a grill. One block from the St. Charles Streetcar for easy grocery runs.
 
 Both properties are designed around groups actually cooking and eating together — not just sleeping in adjacent rooms.
 
@@ -269,5 +269,5 @@ Both properties are designed around groups actually cooking and eating together 
 
 ## Feeding Your Group
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, full kitchens, private pools, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, outdoor kitchen, artist-designed villas, up to 22 guests
+- Castleday Retreats — Bywater, full kitchens, private pools, up to 30 guests
+- The Syd — Lower Garden District, outdoor kitchen, artist-designed villas, up to 22 guests

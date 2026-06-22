@@ -215,9 +215,9 @@ ATMs on Bourbon Street exist at high density and charge fees that add up. Withdr
 
 The accommodation conversation for large groups on a Bourbon Street trip is actually not about being close to Bourbon. You don't need to be a two-minute walk from the strip. You need a base camp that handles 15-30 people comfortably and is an easy Uber or walk from the Quarter.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine. You're about 25 minutes on foot from Bourbon Street, 10 minutes by Uber. More importantly, you're a 15-minute walk from Frenchmen Street — which is where your group should end up after Bourbon anyway. Private pools for the recovery day. Full kitchens for the pre-night dinner. Complete privacy for the group.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine. You're about 25 minutes on foot from Bourbon Street, 10 minutes by Uber. More importantly, you're a 15-minute walk from Frenchmen Street — which is where your group should end up after Bourbon anyway. Private pools for the recovery day. Full kitchens for the pre-night dinner. Complete privacy for the group.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which takes you directly into the French Quarter area. Shared heated pool, hot tub, sauna, and outdoor kitchen. The artist-designed rooms set the right mood before you even leave for the night. For groups doing more of a Bourbon Street plus Warehouse District night, the Lower Garden District location is slightly more convenient.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which takes you directly into the French Quarter area. Shared heated pool, hot tub, sauna, and outdoor kitchen. The artist-designed rooms set the right mood before you even leave for the night. For groups doing more of a Bourbon Street plus Warehouse District night, the Lower Garden District location is slightly more convenient.
 
 For a first-timer trip where Bourbon Street is on the checklist: either property works. For groups wanting to use the night structure above (Bourbon then Frenchmen): Castleday's Bywater location is ideal — you end Frenchmen Street and walk home.
 
@@ -225,5 +225,5 @@ For a first-timer trip where Bourbon Street is on the checklist: either property
 
 ## Plan Your Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, walking distance to Frenchmen Street, private pools, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar to the Quarter, shared pool and hot tub, up to 22 guests
+- Castleday Retreats — Bywater villas, walking distance to Frenchmen Street, private pools, up to 30 guests
+- The Syd — Lower Garden District villas, streetcar to the Quarter, shared pool and hot tub, up to 22 guests

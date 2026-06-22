@@ -249,15 +249,15 @@ This doesn't need to be orchestrated. But it does need to not be completely impr
 
 The best departure morning is one where you don't want to leave — which means the property made that possible.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The morning-of-departure dynamic at Castleday is genuinely good: full kitchen for the last coffee, a courtyard where people can sit at their own pace, and enough common area that the group isn't on top of each other while they pack. The Bywater location puts you about 20-25 minutes from MSY — enough buffer for most flight windows.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The morning-of-departure dynamic at Castleday is genuinely good: full kitchen for the last coffee, a courtyard where people can sit at their own pace, and enough common area that the group isn't on top of each other while they pack. The Bywater location puts you about 20-25 minutes from MSY — enough buffer for most flight windows.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The Syd's central location is a genuine advantage on departure day: quick access to the airport via the highway from the LGD, within easy range of the French Quarter for a final morning walk, and the shared outdoor space works well for the slow last morning that turns checkout from a stressful event into a proper send-off.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The Syd's central location is a genuine advantage on departure day: quick access to the airport via the highway from the LGD, within easy range of the French Quarter for a final morning walk, and the shared outdoor space works well for the slow last morning that turns checkout from a stressful event into a proper send-off.
 
 ---
 
 ## Book Your NOLA Group Villa
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pools, full kitchens
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, outdoor kitchen, central location
+- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
+- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, central location
 
 Departure day doesn't have to be the worst part of the trip. Plan it the way you planned the arrival day, and it can actually be the close the trip deserves.

@@ -231,15 +231,15 @@ New Orleans weather is not like anywhere else. The temperature is high. The humi
 
 A large group with coordinated packing and shared supplies needs a base of operations that has the space to actually store and access all of it. Hotel rooms don't have that space. A villa does.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Full kitchens with the equipment a group actually needs, large common areas where you can stage supplies, organize, and distribute shared items, and private pools and courtyards where the group can spread out. The [bachelorette parties](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) at Castleday are specifically set up for the group getting-ready infrastructure — large bathrooms, mirrors, and space for the pre-night ritual that a bachelorette group needs.
+**Castleday Retreats** — Three private villas in Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Full kitchens with the equipment a group actually needs, large common areas where you can stage supplies, organize, and distribute shared items, and private pools and courtyards where the group can spread out. The bachelorette parties at Castleday are specifically set up for the group getting-ready infrastructure — large bathrooms, mirrors, and space for the pre-night ritual that a bachelorette group needs.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, outdoor kitchen, and courtyard at The Syd give a wedding party or corporate group a central staging area. The outdoor kitchen is where the group's shared food supplies actually get used. One block from the St. Charles Streetcar for anyone who needs to make a supply run.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, outdoor kitchen, and courtyard at The Syd give a wedding party or corporate group a central staging area. The outdoor kitchen is where the group's shared food supplies actually get used. One block from the St. Charles Streetcar for anyone who needs to make a supply run.
 
 ---
 
 ## Book Your NOLA Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pools, full kitchens
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
+- The Syd — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
 
 Pack right for your group type. Share the load on infrastructure. Arrive ready.

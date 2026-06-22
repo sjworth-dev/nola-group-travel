@@ -224,9 +224,9 @@ Things worth having that most groups forget:
 
 Not every villa pool is equal. The pool's size, privacy, and outdoor setup determines how good the day actually is.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with its own private pool. Up to 30 guests per villa. The private pool situation means your group isn't sharing with other guests, managing pool time, or coordinating around anyone else's schedule. The Cocodrie villa is specifically designed around outdoor and pool experience with the most expansive outdoor setup of the three. Full kitchen for the cookout setup.
+**Castleday Retreats** — Three private villas in the Bywater, each with its own private pool. Up to 30 guests per villa. The private pool situation means your group isn't sharing with other guests, managing pool time, or coordinating around anyone else's schedule. The Cocodrie villa is specifically designed around outdoor and pool experience with the most expansive outdoor setup of the three. Full kitchen for the cookout setup.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District with a shared heated pool, hot tub, sauna, and outdoor kitchen. Up to 22 guests per villa. The outdoor kitchen is a genuine asset for the cookout option — it's purpose-built for group cooking, not just a grill bolted to the deck. The shared pool means some coordination if multiple groups are in residence, but the setup is excellent and the hot tub adds a recovery dimension at the end of the day.
+**The Syd** — Multiple villas in the Lower Garden District with a shared heated pool, hot tub, sauna, and outdoor kitchen. Up to 22 guests per villa. The outdoor kitchen is a genuine asset for the cookout option — it's purpose-built for group cooking, not just a grill bolted to the deck. The shared pool means some coordination if multiple groups are in residence, but the setup is excellent and the hot tub adds a recovery dimension at the end of the day.
 
 Both properties are designed for exactly the scenario described in this guide. Real pools, real outdoor space, real kitchens.
 
@@ -234,5 +234,5 @@ Both properties are designed for exactly the scenario described in this guide. R
 
 ## Your Pool Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Private pools, Bywater, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Shared pool, outdoor kitchen, Lower Garden District, up to 22 guests
+- Castleday Retreats — Private pools, Bywater, up to 30 guests
+- The Syd — Shared pool, outdoor kitchen, Lower Garden District, up to 22 guests

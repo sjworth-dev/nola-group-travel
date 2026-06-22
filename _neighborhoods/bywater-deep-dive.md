@@ -9,7 +9,7 @@ Most visitors to New Orleans see the French Quarter. A smaller number make it to
 
 That's exactly why the Bywater works for groups. It's a neighborhood full of actual New Orleanians doing their actual lives. The restaurants are excellent and uncrowded. The bars are real. The streets feel alive without feeling like a production.
 
-For large groups, there's an added dimension: the Bywater is home to [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites), three private villas that sleep up to 30 guests each. Groups staying in Bywater aren't just visiting the neighborhood—they're living in it for a few days. This guide tells you everything you need to know to use it well.
+For large groups, there's an added dimension: the Bywater is home to Castleday Retreats, three private villas that sleep up to 30 guests each. Groups staying in Bywater aren't just visiting the neighborhood—they're living in it for a few days. This guide tells you everything you need to know to use it well.
 
 ---
 
@@ -208,7 +208,7 @@ For large groups specifically, the choice is easy: the Bywater has what the Fren
 
 ## Large Group Accommodations in the Bywater
 
-For groups of 11-30, [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) is the anchor of the Bywater's large-group accommodation scene.
+For groups of 11-30, Castleday Retreats is the anchor of the Bywater's large-group accommodation scene.
 
 Three private villas, each sleeping up to 30 guests:
 
@@ -220,7 +220,7 @@ Three private villas, each sleeping up to 30 guests:
 
 All three: private pool, full kitchen, local art throughout, completely private.
 
-If you're staying in the Bywater with a smaller group (up to 22), [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District offers a similar private villa experience with shared outdoor amenities and excellent location—it's worth knowing about even if you're researching the Bywater specifically.
+If you're staying in the Bywater with a smaller group (up to 22), The Syd in the Lower Garden District offers a similar private villa experience with shared outdoor amenities and excellent location—it's worth knowing about even if you're researching the Bywater specifically.
 
 ---
 
@@ -228,4 +228,4 @@ If you're staying in the Bywater with a smaller group (up to 22), [The Syd](http
 
 It's the neighborhood where people who've been to New Orleans five times start staying, once they realize the French Quarter was just the beginning.
 
-[Stay in the Bywater with Castleday Retreats →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)

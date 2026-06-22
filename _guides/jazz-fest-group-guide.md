@@ -135,9 +135,9 @@ Hotels in New Orleans fill up for Jazz Fest weekends well in advance. For large 
 
 ### For Large Groups
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. The Bywater is a short Uber from the Fair Grounds and walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinating Ubers is a genuine quality-of-life improvement.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. The Bywater is a short Uber from the Fair Grounds and walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinating Ubers is a genuine quality-of-life improvement.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which connects to Canal Street for shuttle pickups. The LGD location is ideal for groups who also want easy access to Magazine Street restaurants and the downtown evening show venues.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which connects to Canal Street for shuttle pickups. The LGD location is ideal for groups who also want easy access to Magazine Street restaurants and the downtown evening show venues.
 
 Both book out for Jazz Fest weekends. Six months out is the minimum; twelve months is safer if you have 20+ people.
 
@@ -186,7 +186,7 @@ Neither is better. They're different experiences. Many groups do both in the sam
 
 For large groups — book well in advance:
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Private villas in the Bywater, up to 30 guests each. Walk to Frenchmen Street for evening music. Private pool for post-festival recovery.
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Art-filled villas in the Lower Garden District, up to 22 guests. Streetcar access to festival shuttles. Shared pool and outdoor kitchen.
+- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Walk to Frenchmen Street for evening music. Private pool for post-festival recovery.
+- **The Syd** — Art-filled villas in the Lower Garden District, up to 22 guests. Streetcar access to festival shuttles. Shared pool and outdoor kitchen.
 
 Jazz Fest weekend is the most popular booking period of the year for both properties. Check availability early.

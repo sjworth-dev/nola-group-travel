@@ -191,13 +191,13 @@ This is the real logistics challenge. Here's what kills museum days:
 
 The WWII Museum and the Ogden are in the Warehouse District. NOMA is in City Park (Mid-City). The Backstreet Cultural Museum is in the Tremé. The most efficient base depends on which museums anchor your day.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, the Backstreet Cultural Museum and the Tremé are a short rideshare north, the WWII Museum and Ogden are 15 minutes into the Warehouse District, and NOMA is accessible via City Park. After a full museum day, returning to a private villa with a pool and full kitchen — rather than a hotel lobby — gives the group space to decompress and talk through what they experienced. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, the Backstreet Cultural Museum and the Tremé are a short rideshare north, the WWII Museum and Ogden are 15 minutes into the Warehouse District, and NOMA is accessible via City Park. After a full museum day, returning to a private villa with a pool and full kitchen — rather than a hotel lobby — gives the group space to decompress and talk through what they experienced. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District location puts the Warehouse District museums within a 10-minute rideshare, and the streetcar connects to Uptown and Mid-City. Groups based at The Syd returning from a museum day have immediate access to the outdoor kitchen, heated pool, and evening spaces for the natural post-museum decompression.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District location puts the Warehouse District museums within a 10-minute rideshare, and the streetcar connects to Uptown and Mid-City. Groups based at The Syd returning from a museum day have immediate access to the outdoor kitchen, heated pool, and evening spaces for the natural post-museum decompression.
 
 ---
 
 ## Plan Your Museum Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen, St. Charles Streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen, St. Charles Streetcar access

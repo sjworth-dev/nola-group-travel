@@ -197,9 +197,9 @@ A four-day festival run requires a home base that functions as a proper recovery
 
 For groups of 15-30 attending FQF, the villa model is the obvious solution — and the question is which property fits your group's rhythm.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests. The Bywater location puts you in the neighborhood directly adjacent to the Marigny and the edge of the Quarter — walkable to the festival in 15-20 minutes without entering the tourist core of the Quarter itself. After a long FQF evening, returning to a private pool and a full kitchen is the festival survival strategy. The Herald, The Cocodrie, and The Florentine each sleep up to 30 with 12 bedrooms and 17 real beds — everyone gets a real bed, not a pullout. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. The Bywater location puts you in the neighborhood directly adjacent to the Marigny and the edge of the Quarter — walkable to the festival in 15-20 minutes without entering the tourist core of the Quarter itself. After a long FQF evening, returning to a private pool and a full kitchen is the festival survival strategy. The Herald, The Cocodrie, and The Florentine each sleep up to 30 with 12 bedrooms and 17 real beds — everyone gets a real bed, not a pullout. 4.98 average rating across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's streetcar access makes festival movement easier: one block from the St. Charles Streetcar line, 10 minutes to the Quarter on the car. The shared heated pool, hot tub, and outdoor kitchen are the post-festival infrastructure your group will use every single day. Central location means the group can be out the door and in the Quarter within 20 minutes of deciding to go.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's streetcar access makes festival movement easier: one block from the St. Charles Streetcar line, 10 minutes to the Quarter on the car. The shared heated pool, hot tub, and outdoor kitchen are the post-festival infrastructure your group will use every single day. Central location means the group can be out the door and in the Quarter within 20 minutes of deciding to go.
 
 Both properties book early for Jazz Fest and FQF season. This is not a last-minute reservation situation.
 
@@ -207,5 +207,5 @@ Both properties book early for Jazz Fest and FQF season. This is not a last-minu
 
 ## Plan Your FQF Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, 14-30 guests per villa, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, one block from streetcar
+- Castleday Retreats — Bywater villas, 14-30 guests per villa, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, one block from streetcar

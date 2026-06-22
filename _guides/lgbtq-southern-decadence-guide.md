@@ -144,9 +144,9 @@ The accommodation problem at Southern Decadence is real. Labor Day weekend in th
 
 The better move for large groups is a private villa property slightly outside the French Quarter core — close enough that you're 10-20 minutes from the action, private enough that you can recover between events.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 guests per villa, multiple villas available. One block from the St. Charles Streetcar to the French Quarter. During Southern Decadence, the shared heated pool and outdoor kitchen become the communal space where your group decompresses between the events. Artist-designed interiors throughout — it sets the mood right before you head out. The LGD also has its own bar scene if you want to warm up closer to home before heading into the Quarter.
+**The Syd** — Lower Garden District, up to 22 guests per villa, multiple villas available. One block from the St. Charles Streetcar to the French Quarter. During Southern Decadence, the shared heated pool and outdoor kitchen become the communal space where your group decompresses between the events. Artist-designed interiors throughout — it sets the mood right before you head out. The LGD also has its own bar scene if you want to warm up closer to home before heading into the Quarter.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 guests per villa, 3 villas available. The Bywater is 15-20 minutes from the French Quarter by rideshare or streetcar and has a strong LGBTQ+-welcoming community of its own. The private pools at each villa mean you have your own recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Castleday location delivers both.
+**Castleday Retreats** — Bywater, up to 30 guests per villa, 3 villas available. The Bywater is 15-20 minutes from the French Quarter by rideshare or streetcar and has a strong LGBTQ+-welcoming community of its own. The private pools at each villa mean you have your own recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Castleday location delivers both.
 
 **Booking note:** Both properties book out for Labor Day weekend well in advance. If you're planning a Southern Decadence trip, reach out in March or April for a September stay.
 
@@ -200,5 +200,5 @@ New Orleans is one of the most welcoming cities in the South for LGBTQ+ traveler
 
 For large groups, the key is having a home base that works with the energy of the weekend rather than against it.
 
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, one block from the St. Charles Streetcar, shared pool and outdoor kitchen, up to 22 guests per villa
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, private pools, up to 30 guests per villa, 3 villas available for large groups
+- **The Syd** — Lower Garden District, one block from the St. Charles Streetcar, shared pool and outdoor kitchen, up to 22 guests per villa
+- **Castleday Retreats** — Bywater, private pools, up to 30 guests per villa, 3 villas available for large groups

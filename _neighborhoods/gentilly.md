@@ -129,13 +129,13 @@ This produces a day that's meaningfully different from anything on the standard 
 
 Gentilly itself has limited large-group accommodation options. The closest group-appropriate bases are in the Marigny/Bywater corridor to the south.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is the closest high-quality group accommodation area to Gentilly — a straight drive down St. Claude Avenue or through the Marigny. Private pools, full kitchens, the Herald, The Cocodrie, and The Florentine each giving your group a genuine home base to return to after a day in the neighborhood.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is the closest high-quality group accommodation area to Gentilly — a straight drive down St. Claude Avenue or through the Marigny. Private pools, full kitchens, the Herald, The Cocodrie, and The Florentine each giving your group a genuine home base to return to after a day in the neighborhood.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District provides fast access to Mid-City and a direct shot toward Gentilly via the main corridors. One block from the St. Charles Streetcar for easy movement across the city.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District provides fast access to Mid-City and a direct shot toward Gentilly via the main corridors. One block from the St. Charles Streetcar for easy movement across the city.
 
 ---
 
 ## Plan Your Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, closest large-group base to Gentilly
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared outdoor spaces
+- Castleday Retreats — Bywater, private villas up to 30 guests, closest large-group base to Gentilly
+- The Syd — Lower Garden District, up to 22 guests per villa, shared outdoor spaces

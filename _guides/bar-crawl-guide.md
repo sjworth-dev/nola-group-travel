@@ -183,9 +183,9 @@ If you're moving between zones, you need multiple Ubers or a party bus. You cann
 
 This is where large groups hit the wall. Standard bars have no problem with 20 people walking in. The problem is where 20 people sleep, cook breakfast, and debrief the next morning.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, sleeping up to 30 guests each. You're 15 minutes from Frenchmen Street on foot. Private pools for the recovery day. Full kitchens for the pre-crawl dinner. This is the base camp that makes the crawl work — everyone leaves from the same place, everyone comes home to the same place. The Herald, The Cocodrie, and The Florentine each have the space to handle your whole group without feeling cramped.
+**Castleday Retreats** — Three private villas in the Bywater, sleeping up to 30 guests each. You're 15 minutes from Frenchmen Street on foot. Private pools for the recovery day. Full kitchens for the pre-crawl dinner. This is the base camp that makes the crawl work — everyone leaves from the same place, everyone comes home to the same place. The Herald, The Cocodrie, and The Florentine each have the space to handle your whole group without feeling cramped.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which gets you downtown without wrestling with Ubers. Shared heated pool, hot tub, outdoor kitchen — perfect for the next-day debrief. The artist-designed rooms mean your group is already in a good mood before you leave the house.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which gets you downtown without wrestling with Ubers. Shared heated pool, hot tub, outdoor kitchen — perfect for the next-day debrief. The artist-designed rooms mean your group is already in a good mood before you leave the house.
 
 For a bar crawl trip specifically: if your primary route is Frenchmen Street and the Marigny, Castleday's Bywater location is a short walk home. If you're doing more of a French Quarter / Warehouse District crawl, The Syd's Lower Garden District location keeps you closer to the action.
 
@@ -203,5 +203,5 @@ This is why staying together in a large private rental beats scattered hotel roo
 
 ## Book Your Base Camp
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, walking distance to Frenchmen Street, private pools, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar access, shared pool and hot tub, up to 22 guests
+- Castleday Retreats — Bywater villas, walking distance to Frenchmen Street, private pools, up to 30 guests
+- The Syd — Lower Garden District villas, streetcar access, shared pool and hot tub, up to 22 guests

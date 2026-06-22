@@ -164,13 +164,13 @@ The groups that try to hit all five historic bars in one evening typically do no
 
 The French Quarter bar history walk is easiest from a base in or near the French Quarter. Both properties below put you in the right position for an evening that doesn't require significant transport.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is a 15-minute walk or short rideshare from the French Quarter, putting all five historic bars within easy reach. After a historic bar evening, the route home goes through or near Frenchmen Street — a natural add-on before the group calls it a night. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is a 15-minute walk or short rideshare from the French Quarter, putting all five historic bars within easy reach. After a historic bar evening, the route home goes through or near Frenchmen Street — a natural add-on before the group calls it a night. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a St. Charles Streetcar ride from Canal Street — 20 minutes to the edge of the French Quarter, putting the historic bars 5-15 minutes' walk from the Canal Street stop. The streetcar back at night is the right way to end a history-focused evening.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a St. Charles Streetcar ride from Canal Street — 20 minutes to the edge of the French Quarter, putting the historic bars 5-15 minutes' walk from the Canal Street stop. The streetcar back at night is the right way to end a history-focused evening.
 
 ---
 
 ## Plan Your Historic Bar Evening
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, heated pool, outdoor kitchen, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, heated pool, outdoor kitchen, streetcar access

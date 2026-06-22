@@ -158,9 +158,9 @@ That's worth planning around.
 
 St. Patrick's Day in New Orleans falls around March 17, which is in the shoulder season between Mardi Gras (February) and Jazz Fest (late April/early May). This makes it one of the better windows for large group bookings — not peak pricing, but the weather is excellent (mid-60s to low 70s, dry) and the city is in event mode without being at maximum capacity.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — The Syd is in the Lower Garden District, adjacent to the Magazine Street corridor and a 10-15 minute walk from the Irish Channel parade zone. Multiple villas sleeping up to 22 guests each, every room designed by local New Orleans artists. The shared heated pool and outdoor kitchen are the recovery plan after a full day on Magazine Street. The Syd's location puts you one block from the St. Charles Streetcar and walking distance to everything on the Irish Channel route.
+**The Syd** — The Syd is in the Lower Garden District, adjacent to the Magazine Street corridor and a 10-15 minute walk from the Irish Channel parade zone. Multiple villas sleeping up to 22 guests each, every room designed by local New Orleans artists. The shared heated pool and outdoor kitchen are the recovery plan after a full day on Magazine Street. The Syd's location puts you one block from the St. Charles Streetcar and walking distance to everything on the Irish Channel route.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is a rideshare away from the Irish Channel, but the private nature of the property — private pool, complete privacy, full kitchen — makes it ideal for hosting the post-parade villa dinner with parade-caught vegetables, a large-format meal, and no neighbors to consider. 4.98 stars across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is a rideshare away from the Irish Channel, but the private nature of the property — private pool, complete privacy, full kitchen — makes it ideal for hosting the post-parade villa dinner with parade-caught vegetables, a large-format meal, and no neighbors to consider. 4.98 stars across 99 reviews.
 
 ---
 
@@ -200,5 +200,5 @@ St. Patrick's Day in New Orleans falls around March 17, which is in the shoulder
 
 ## Plan the Trip
 
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, walkable to the Irish Channel, up to 22 guests per villa, shared pool
-- [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa, private pool, perfect for the post-parade villa dinner
+- The Syd — Lower Garden District, walkable to the Irish Channel, up to 22 guests per villa, shared pool
+- Castleday Retreats — Bywater, up to 30 guests per villa, private pool, perfect for the post-parade villa dinner

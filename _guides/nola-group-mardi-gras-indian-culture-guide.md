@@ -159,13 +159,13 @@ The groups that come away from this encounter understanding something are the on
 
 The Tremé is a short walk or rideshare from either major property. Having a villa gives the group a place to gather, brief, and decompress around a cultural encounter that deserves more than a quick lap.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, a short drive from the Tremé and Central City. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater's own deep cultural roots — the Backstreet Museum is minutes away — make Castleday the right base for a trip that includes meaningful cultural engagement. Rated 4.98 across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, a short drive from the Tremé and Central City. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater's own deep cultural roots — the Backstreet Museum is minutes away — make Castleday the right base for a trip that includes meaningful cultural engagement. Rated 4.98 across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Designed by local New Orleans artists. The Syd's St. Charles Streetcar access makes transit easy — one block to the streetcar line that connects Lower Garden District to the entire city corridor.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Designed by local New Orleans artists. The Syd's St. Charles Streetcar access makes transit easy — one block to the streetcar line that connects Lower Garden District to the entire city corridor.
 
 ---
 
 ## Plan Your Visit
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, 14-30 guests, private pools, close to the Tremé cultural corridor
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, streetcar access to every major neighborhood
+- Castleday Retreats — Bywater villas, 14-30 guests, private pools, close to the Tremé cultural corridor
+- The Syd — Lower Garden District villas, up to 22 guests, streetcar access to every major neighborhood

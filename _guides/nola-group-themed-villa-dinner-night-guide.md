@@ -221,15 +221,15 @@ The themed dinner night works best when the cooking is part of the evening rathe
 
 One night of a NOLA group trip, the best meal you eat is the one you make together. That's the proposition.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The full kitchens at The Herald, The Cocodrie, and The Florentine are equipped for real cooking — not just reheating. Large common areas for communal dining. Private courtyards at each villa that work beautifully for oyster roasts and crawfish boils with tables dragged outside and music playing. The Bywater location puts you within easy reach of Rouses Markets for a sourcing run.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The full kitchens at The Herald, The Cocodrie, and The Florentine are equipped for real cooking — not just reheating. Large common areas for communal dining. Private courtyards at each villa that work beautifully for oyster roasts and crawfish boils with tables dragged outside and music playing. The Bywater location puts you within easy reach of Rouses Markets for a sourcing run.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared outdoor kitchen that was built for this kind of use. The outdoor kitchen at The Syd is not an afterthought — it's a real cooking space with a grill and prep surfaces in the courtyard. An oyster roast at The Syd's outdoor kitchen, with the pool visible and the sauna available for later, is a night that doesn't need to go anywhere after dinner.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared outdoor kitchen that was built for this kind of use. The outdoor kitchen at The Syd is not an afterthought — it's a real cooking space with a grill and prep surfaces in the courtyard. An oyster roast at The Syd's outdoor kitchen, with the pool visible and the sauna available for later, is a night that doesn't need to go anywhere after dinner.
 
 ---
 
 ## Book Your Group Villa
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, full kitchens, private courtyards
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, outdoor kitchen, shared pool
+- Castleday Retreats — Bywater, 14-30 guests, full kitchens, private courtyards
+- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, shared pool
 
 The best dinner of a New Orleans group trip doesn't have to happen at a restaurant. Sometimes it happens because someone started a roux at 3:30pm and the whole group was paying attention.

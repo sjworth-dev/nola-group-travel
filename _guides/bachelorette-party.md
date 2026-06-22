@@ -39,7 +39,7 @@ This is the hardest part for large groups. Most New Orleans rentals cap at 10 gu
 
 ### For Large Groups: Castleday Retreats
 
-If your bachelorette party is 11 or more people, your options are limited. We recommend [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)—three private villas in the Bywater, each sleeping up to 30 guests.
+If your bachelorette party is 11 or more people, your options are limited. We recommend Castleday Retreats—three private villas in the Bywater, each sleeping up to 30 guests.
 
 **Why it works for bach parties:**
 - Private pool for day drinking and group photos
@@ -48,7 +48,7 @@ If your bachelorette party is 11 or more people, your options are limited. We re
 - Bywater location—cool neighborhood, 10 min to French Quarter
 - Space to spread out when you need a break
 
-[Check Castleday availability →](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ### For Groups of 10 or Fewer
 
@@ -205,7 +205,7 @@ Not every New Orleans restaurant can seat 15 people. These can:
 
 If you cross into the large-group range, logistics change:
 
-- **Accommodations:** [Castleday Retreats](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) is one of the only options that fits everyone
+- **Accommodations:** Castleday Retreats is one of the only options that fits everyone
 - **Restaurants:** Call ahead. Groups this size need private dining or reserved sections.
 - **Transportation:** Two Ubers minimum. Consider a party bus for the big night.
 
@@ -213,7 +213,7 @@ If you cross into the large-group range, logistics change:
 
 Ready to start? Here's the order:
 
-1. [Book accommodations](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+1. [See where to stay for large groups →](/where-to-stay/)
 2. Make dinner reservations
 3. Book 1-2 activities
 4. Share itinerary with the group

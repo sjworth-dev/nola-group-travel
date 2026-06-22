@@ -255,9 +255,9 @@ The biggest logistical challenge for first-time large group visitors is accommod
 
 For groups of 10-30, private group villas are the answer.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. You're a 20-minute walk from the French Quarter, right next to Frenchmen Street. The Herald, The Cocodrie, and The Florentine each have the common space to make your group feel at home from night one. For first-timers, the Bywater location puts you in the middle of real New Orleans — not the tourist bubble of the Quarter.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. You're a 20-minute walk from the French Quarter, right next to Frenchmen Street. The Herald, The Cocodrie, and The Florentine each have the common space to make your group feel at home from night one. For first-timers, the Bywater location puts you in the middle of real New Orleans — not the tourist bubble of the Quarter.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which is itself a New Orleans experience. The artist-designed interiors — every room done by a different local New Orleans artist — give first-timers an immediate sense of the city's creative culture. Excellent location if your group wants easy access to the Garden District, CBD, and Warehouse District.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which is itself a New Orleans experience. The artist-designed interiors — every room done by a different local New Orleans artist — give first-timers an immediate sense of the city's creative culture. Excellent location if your group wants easy access to the Garden District, CBD, and Warehouse District.
 
 Both options put your group in livable neighborhoods rather than the tourist strip. That's the right call for a first visit — you'll see a more genuine version of the city.
 
@@ -265,5 +265,5 @@ Both options put your group in livable neighborhoods rather than the tourist str
 
 ## Book Your First NOLA Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, up to 30 guests per villa, private pools, art-filled interiors
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool and hot tub, local artist-designed rooms
+- Castleday Retreats — Bywater, up to 30 guests per villa, private pools, art-filled interiors
+- The Syd — Lower Garden District, up to 22 guests, shared pool and hot tub, local artist-designed rooms

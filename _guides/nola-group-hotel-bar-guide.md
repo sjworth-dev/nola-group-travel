@@ -197,13 +197,13 @@ Hotel bars make sense for groups at private villas in specific situations:
 
 Outside those use cases, your private villa is the better bar.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, Cocodrie, and Florentine each have full kitchens, private outdoor spaces, and enough indoor room to host a full group. For groups who want to build their pre-evening gathering at home before heading out to the French Quarter or CBD hotel bar scene, Castleday is the right base. The Bywater-to-CBD trip is a 10-15 minute Uber.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, Cocodrie, and Florentine each have full kitchens, private outdoor spaces, and enough indoor room to host a full group. For groups who want to build their pre-evening gathering at home before heading out to the French Quarter or CBD hotel bar scene, Castleday is the right base. The Bywater-to-CBD trip is a 10-15 minute Uber.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is one block from the St. Charles Streetcar, which connects directly to the CBD and French Quarter. Groups using The Syd can easily route to CBD hotel bars for a pre-event drink and return without dealing with surge pricing from a late Uber. The Syd's outdoor kitchen and pool area is the better pre-event gathering point for most occasions.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is one block from the St. Charles Streetcar, which connects directly to the CBD and French Quarter. Groups using The Syd can easily route to CBD hotel bars for a pre-event drink and return without dealing with surge pricing from a late Uber. The Syd's outdoor kitchen and pool area is the better pre-event gathering point for most occasions.
 
 ---
 
 ## Plan Your Bar Night
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests per villa, private pools, short Uber from CBD and French Quarter hotel bar districts
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar access to CBD and French Quarter
+- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, short Uber from CBD and French Quarter hotel bar districts
+- The Syd — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar access to CBD and French Quarter

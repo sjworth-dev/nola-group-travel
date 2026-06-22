@@ -208,11 +208,11 @@ A private villa for 20 people gives you:
 
 For bachelorette parties, family reunions, birthday celebrations, and corporate retreats that don't require a specific venue aesthetic, the villa often beats the private event space on both experience and cost.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools at every villa, full kitchens, local art throughout, complete privacy. No minimums. No time limits. You can host a dinner party, a cocktail hour, a pool party, or a quiet evening in the same space, on the same day.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools at every villa, full kitchens, local art throughout, complete privacy. No minimums. No time limits. You can host a dinner party, a cocktail hour, a pool party, or a quiet evening in the same space, on the same day.
 
 The Herald villa has the largest common areas and is specifically well-suited for all-hands group events. The Cocodrie has the best outdoor pool and patio setup for cocktail parties and outdoor celebrations. The Florentine is the most elegantly designed for hosting.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared outdoor space functions naturally as a communal party area. All rooms designed by local New Orleans artists. One block from the St. Charles Streetcar.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared outdoor space functions naturally as a communal party area. All rooms designed by local New Orleans artists. One block from the St. Charles Streetcar.
 
 Both properties eliminate the venue sourcing problem entirely for groups that are traveling together.
 
@@ -256,5 +256,5 @@ For a group that's staying together for multiple nights, the villa wins on almos
 
 Whether you're booking a venue or setting up your villa as the event space:
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, private pools
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, artist-designed villas, up to 22 guests, shared pool and outdoor kitchen
+- Castleday Retreats — Bywater, private villas up to 30 guests, private pools
+- The Syd — Lower Garden District, artist-designed villas, up to 22 guests, shared pool and outdoor kitchen

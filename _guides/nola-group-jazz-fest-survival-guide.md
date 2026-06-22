@@ -202,9 +202,9 @@ The villa beats the hotel for Jazz Fest attendance in every meaningful way. Afte
 
 The villa is that infrastructure. For Jazz Fest specifically, proximity matters — the closer to the Fair Grounds (or to the streets with easy transport), the less friction on the daily in-and-out.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with private pools, full kitchens, 12 bedrooms, and 17 real beds per villa. Groups of 14-30 fit cleanly in a single villa; groups up to 90 can take all three. The Bywater location puts the group a rideshare ride from the Fair Grounds, in a neighborhood with its own restaurant and bar scene for the evening. The private pool is the Jazz Fest daily recovery tool — arrive back from the grounds, pool, decompress, dinner. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each with private pools, full kitchens, 12 bedrooms, and 17 real beds per villa. Groups of 14-30 fit cleanly in a single villa; groups up to 90 can take all three. The Bywater location puts the group a rideshare ride from the Fair Grounds, in a neighborhood with its own restaurant and bar scene for the evening. The private pool is the Jazz Fest daily recovery tool — arrive back from the grounds, pool, decompress, dinner. 4.98 average rating across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen in the courtyard make The Syd's post-festival recovery setup hard to beat for social groups. One block from the St. Charles Streetcar line — you can take the streetcar toward Mid-City and cut the rideshare costs for the festival transport. Local artist-designed interiors make the villa itself worth spending time in, not just a place to sleep.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen in the courtyard make The Syd's post-festival recovery setup hard to beat for social groups. One block from the St. Charles Streetcar line — you can take the streetcar toward Mid-City and cut the rideshare costs for the festival transport. Local artist-designed interiors make the villa itself worth spending time in, not just a place to sleep.
 
 Both properties book quickly for Jazz Fest weekends. Four to six months out is not too early. The attendees who wait until February for a late-April Jazz Fest weekend are doing a different kind of festival experience: hotels, multiple bookings, logistics sprawl.
 
@@ -212,5 +212,5 @@ Both properties book quickly for Jazz Fest weekends. Four to six months out is n
 
 ## Book Your Jazz Fest Base
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests per villa, private pool, 12 BR / 17 real beds
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, streetcar access
+- Castleday Retreats — Bywater, 14-30 guests per villa, private pool, 12 BR / 17 real beds
+- The Syd — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, streetcar access

@@ -152,13 +152,13 @@ A group that's been briefed arrives ready to receive the content. A group that a
 
 A plantation tour is a day-trip activity — you return to New Orleans in the evening. Having a villa to come back to matters more after this kind of day than after a night at a bar.
 
-**[Castleday Retreats](https://castledayretreats.com/family-vacations?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's art-filled interiors and private pool give the group a space to gather and decompress after a heavy day. The Bywater neighborhood itself — Black-owned restaurants, local galleries, the levee walk — provides a meaningful contemporary counterpoint to what you've spent the day learning. Rated 4.98 across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's art-filled interiors and private pool give the group a space to gather and decompress after a heavy day. The Bywater neighborhood itself — Black-owned restaurants, local galleries, the levee walk — provides a meaningful contemporary counterpoint to what you've spent the day learning. Rated 4.98 across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The Syd's shared outdoor kitchen and heated pool are perfect for a quiet group dinner after a full-day excursion — cook together, debrief, stay in for the night.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The Syd's shared outdoor kitchen and heated pool are perfect for a quiet group dinner after a full-day excursion — cook together, debrief, stay in for the night.
 
 ---
 
 ## Plan Your Plantation Day Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, art-filled interiors, close to Bywater's living Black cultural heritage
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, walkable to the Garden District's antebellum architectural corridor
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, art-filled interiors, close to Bywater's living Black cultural heritage
+- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, walkable to the Garden District's antebellum architectural corridor

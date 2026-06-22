@@ -167,13 +167,13 @@ None of this is inaccessible. It just requires knowing it exists.
 
 Large group Mardi Gras requires a home base that can absorb 20 people, all their costumes, and whatever they caught today. A hotel room doesn't do this. A villa does.
 
-**[Castleday Retreats](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is an easy position for accessing both the Uptown St. Charles route (via rideshare) and the Marigny/Bywater neighborhood parades that roll closer to home. The private pool at each villa doubles as a pre-parade staging area and a post-parade decompression zone. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is an easy position for accessing both the Uptown St. Charles route (via rideshare) and the Marigny/Bywater neighborhood parades that roll closer to home. The private pool at each villa doubles as a pre-parade staging area and a post-parade decompression zone. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District sits directly adjacent to the Uptown parade route — getting to St. Charles Avenue from The Syd is a 10-minute walk. For groups prioritizing parade positioning over all else, this is the move.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District sits directly adjacent to the Uptown parade route — getting to St. Charles Avenue from The Syd is a 10-minute walk. For groups prioritizing parade positioning over all else, this is the move.
 
 ---
 
 ## Plan Your Mardi Gras Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com/bachelorette-parties?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, walkable to St. Charles parade route, heated pool, outdoor kitchen
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, walkable to St. Charles parade route, heated pool, outdoor kitchen

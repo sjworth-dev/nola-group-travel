@@ -58,10 +58,10 @@ Early arrivals handle groceries. Buy for 3 breakfasts minimum, house snacks, and
 
 First night: go close, go easy.
 
-**From Bywater ([Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)):**
+**From Bywater (Castleday Retreats):**
 Bacchanal Wine is the answer. Wine shop, courtyard, live jazz, no reservations needed — arrive before 6:30 PM with your group. Order wine by the bottle. Food comes from the kitchen. This is the New Orleans experience.
 
-**From Lower Garden District ([The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)):**
+**From Lower Garden District (The Syd):**
 Walk Magazine Street for options. Atchafalaya for a full dinner, Parasol's if the group wants casual and cheap, or Commander's Palace if you want to start big (reserve ahead).
 
 ### 9:00 PM — House Night
@@ -275,13 +275,13 @@ After 5 days, your group will have a genuine sense of each neighborhood and how 
 
 For a 5-day trip, having the right property matters even more than on a 3-day trip. You're spending more time at home base. The kitchen gets used more. The pool gets used more. The common space matters.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, local art throughout, complete privacy. Five nights at Castleday means five evenings with your whole group in one space. The Bywater is one of the best neighborhoods in the city for groups — walking distance to Frenchmen Street, 15 minutes to the Quarter.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, local art throughout, complete privacy. Five nights at Castleday means five evenings with your whole group in one space. The Bywater is one of the best neighborhoods in the city for groups — walking distance to Frenchmen Street, 15 minutes to the Quarter.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Five nights here means easy access to every neighborhood in this itinerary. The outdoor kitchen makes the at-home dinners easy and excellent.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Five nights here means easy access to every neighborhood in this itinerary. The outdoor kitchen makes the at-home dinners easy and excellent.
 
 For a 5-day group trip, the at-home meals and pool evenings are not just logistics savings — they're the most important parts of the trip. Choose your property accordingly.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, outdoor kitchen and amenities
+- **Castleday Retreats** — Bywater, up to 30 per villa, private pools
+- **The Syd** — Lower Garden District, up to 22 per villa, outdoor kitchen and amenities

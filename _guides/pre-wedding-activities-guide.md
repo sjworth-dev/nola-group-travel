@@ -226,9 +226,9 @@ The single most important logistical decision for a large wedding party weekend 
 
 When the bridesmaids are in one hotel, the groomsmen in another, the couple in a third, and the family in a fourth, the coordinator spends all weekend managing transportation between four buildings. When everyone is in one villa, the common space becomes the home base, the logistics collapse to manageable, and the morning-of getting-ready situation actually works.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine can be booked individually for a wedding party of up to 30, or in combination for multiple associated groups (party A in one villa, families in another). Private pools, full kitchens, art-filled interiors, complete privacy. Bywater is close to the Marigny and the French Quarter — great wedding weekend neighborhood.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine can be booked individually for a wedding party of up to 30, or in combination for multiple associated groups (party A in one villa, families in another). Private pools, full kitchens, art-filled interiors, complete privacy. Bywater is close to the Marigny and the French Quarter — great wedding weekend neighborhood.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. For wedding parties where the ceremony is downtown or in the Garden District, the Lower Garden District location is exceptionally convenient. Multiple villas at The Syd can house larger wedding parties across adjacent properties.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. For wedding parties where the ceremony is downtown or in the Garden District, the Lower Garden District location is exceptionally convenient. Multiple villas at The Syd can house larger wedding parties across adjacent properties.
 
 Both properties are the kind of place where the wedding photos happen. The private pool, the courtyard, the beautiful interiors — guests will be taking photos at the villa all weekend.
 
@@ -256,5 +256,5 @@ Both properties are the kind of place where the wedding photos happen. The priva
 
 The ceremony is just one day. The weekend is four days.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, three private villas up to 30 guests, private pools, full kitchens, art-filled interiors
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, shared pool, hot tub, sauna, one block from the streetcar
+- Castleday Retreats — Bywater, three private villas up to 30 guests, private pools, full kitchens, art-filled interiors
+- The Syd — Lower Garden District, up to 22 guests per villa, shared pool, hot tub, sauna, one block from the streetcar

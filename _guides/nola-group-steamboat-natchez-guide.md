@@ -193,13 +193,13 @@ Algiers Point itself has a walkable riverfront park, a levee path, and a small n
 
 ## Base Camp for a Riverfront Day
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, a riverfront afternoon works as a natural half-day outing — take a rideshare or the Rampart streetcar toward the Quarter, spend the afternoon on the river, and return to Bywater for the evening. The private pool at Castleday is the right decompression option after a hot afternoon on the water. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, a riverfront afternoon works as a natural half-day outing — take a rideshare or the Rampart streetcar toward the Quarter, spend the afternoon on the river, and return to Bywater for the evening. The private pool at Castleday is the right decompression option after a hot afternoon on the water. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location gives direct streetcar access to the Canal Street riverfront terminal — a natural transit route for a riverfront afternoon that includes the ferry crossing.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location gives direct streetcar access to the Canal Street riverfront terminal — a natural transit route for a riverfront afternoon that includes the ferry crossing.
 
 ---
 
 ## Plan Your Riverfront Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access

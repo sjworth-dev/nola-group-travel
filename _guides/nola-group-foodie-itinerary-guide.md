@@ -243,11 +243,11 @@ Do not collapse the gaps. The gaps are what make the meals possible.
 
 A food-focused trip to New Orleans needs a villa with a kitchen that's actually equipped for it — not a single-burner situation, but a real kitchen that can run a villa dinner for 20. Both of these properties deliver.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds (everyone gets an actual bed, not a couch), and 8 bathrooms. The full villa kitchens are purpose-built for serious group cooking — multiple burners, the right cookware, the counter space to run a real mise en place for a dinner of 20. Bywater location puts you close to the neighborhood markets and an excellent cluster of local restaurants. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds (everyone gets an actual bed, not a couch), and 8 bathrooms. The full villa kitchens are purpose-built for serious group cooking — multiple burners, the right cookware, the counter space to run a real mise en place for a dinner of 20. Bywater location puts you close to the neighborhood markets and an excellent cluster of local restaurants. 4.98 average rating across 99 reviews.
 
 The organizer pitch for Castleday: when you're planning a trip where food is the primary activity, "everyone gets a real bed" is a significant selling point. People who slept well eat better, stay out later, and complain less. 17 real beds per villa across a group of 16-20 is the math that makes that happen.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by a local New Orleans artist, shared heated pool, hot tub, and sauna, and a full outdoor kitchen that is a genuinely useful amenity for a food-focused trip. The outdoor kitchen means the villa cooking night can happen outside — cooking in the courtyard, eating under the open sky, the pool available after dinner. One block from the St. Charles Streetcar, which is the correct way to move around New Orleans if you're full.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by a local New Orleans artist, shared heated pool, hot tub, and sauna, and a full outdoor kitchen that is a genuinely useful amenity for a food-focused trip. The outdoor kitchen means the villa cooking night can happen outside — cooking in the courtyard, eating under the open sky, the pool available after dinner. One block from the St. Charles Streetcar, which is the correct way to move around New Orleans if you're full.
 
 ---
 
@@ -255,5 +255,5 @@ The organizer pitch for Castleday: when you're planning a trip where food is the
 
 Both properties have full kitchens, sleep large groups, and are set up for the kind of food-centered villa night that defines this itinerary.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 3 private villas, 14-30 guests, 17 real beds, full kitchens, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, outdoor kitchen, heated pool, artist-designed rooms
+- Castleday Retreats — Bywater, 3 private villas, 14-30 guests, 17 real beds, full kitchens, 4.98 stars
+- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, heated pool, artist-designed rooms

@@ -276,9 +276,9 @@ A welcome packet only works because everyone is arriving at the same place. The 
 
 For groups of 15-30, that means a villa.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens, private pools, large common spaces. A single property with one address in the packet, one key procedure, one set of house rules. They handle group bookings routinely and can walk you through check-in logistics before you send the packet.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens, private pools, large common spaces. A single property with one address in the packet, one key procedure, one set of house rules. They handle group bookings routinely and can walk you through check-in logistics before you send the packet.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Designed by local artists — the space itself is worth a section in the packet. Centrally located, which simplifies the neighborhood overview section significantly.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Designed by local artists — the space itself is worth a section in the packet. Centrally located, which simplifies the neighborhood overview section significantly.
 
 Both properties are designed for groups. They've seen the arrival-day chaos before. Talk to them when you book — they'll give you details that belong in your packet.
 
@@ -286,5 +286,5 @@ Both properties are designed for groups. They've seen the arrival-day chaos befo
 
 ## Start Here
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, up to 30 per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, central location, up to 22 per villa
+- Castleday Retreats — Bywater, private pools, up to 30 per villa
+- The Syd — Lower Garden District, central location, up to 22 per villa

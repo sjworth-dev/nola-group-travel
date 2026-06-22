@@ -181,13 +181,13 @@ Best for groups where the crawl ends near a restaurant the organizer has already
 
 ## Home Base for a Brewery Afternoon
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group in proximity to the St. Claude corridor taprooms and a short ride from the Warehouse District cluster. Returning to a Castleday villa after a 5-hour brewery crawl means a private pool, a full kitchen for a late snack, and no need to manage a hotel lobby in a tired, beer-happy state. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group in proximity to the St. Claude corridor taprooms and a short ride from the Warehouse District cluster. Returning to a Castleday villa after a 5-hour brewery crawl means a private pool, a full kitchen for a late snack, and no need to manage a hotel lobby in a tired, beer-happy state. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's Uptown-adjacent location gives easy access to the Magazine Street corridor and the Freret Street area, where some of the city's newer taprooms have taken root. Post-crawl, the shared outdoor kitchen and pool at The Syd is exactly the right recovery environment.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's Uptown-adjacent location gives easy access to the Magazine Street corridor and the Freret Street area, where some of the city's newer taprooms have taken root. Post-crawl, the shared outdoor kitchen and pool at The Syd is exactly the right recovery environment.
 
 ---
 
 ## Plan Your Brewery Crawl
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen

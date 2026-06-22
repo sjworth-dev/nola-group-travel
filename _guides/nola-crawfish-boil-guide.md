@@ -239,9 +239,9 @@ You cannot do a proper crawfish boil without outdoor space and a propane setup. 
 
 This is not an activity you can do in a hotel room or a parking lot. It's a backyard activity — you need a table area, outdoor access, somewhere to run a propane burner safely, and space for the group to crowd around.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private outdoor pools and outdoor spaces at each villa. Castleday properties have the private outdoor footprint that makes a crawfish boil practical: you can set up a propane burner, spread tables with butcher paper, and do a full 100-lb boil for the whole group without any coordination or noise complaints. The Herald, The Cocodrie, and The Florentine each have distinct outdoor areas — contact them directly to confirm the best setup for your boil logistics.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private outdoor pools and outdoor spaces at each villa. Castleday properties have the private outdoor footprint that makes a crawfish boil practical: you can set up a propane burner, spread tables with butcher paper, and do a full 100-lb boil for the whole group without any coordination or noise complaints. The Herald, The Cocodrie, and The Florentine each have distinct outdoor areas — contact them directly to confirm the best setup for your boil logistics.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's shared outdoor kitchen space is built for group meals — it's designed around exactly this kind of communal cooking and eating. For a crawfish boil, the outdoor kitchen area gives you the infrastructure (utilities, surface area, shared space) to make the activity happen. One block from the St. Charles Streetcar if you need to make a grocery run.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's shared outdoor kitchen space is built for group meals — it's designed around exactly this kind of communal cooking and eating. For a crawfish boil, the outdoor kitchen area gives you the infrastructure (utilities, surface area, shared space) to make the activity happen. One block from the St. Charles Streetcar if you need to make a grocery run.
 
 For a crawfish boil specifically, both properties work. Castleday gives you fully private space at each villa; The Syd gives you a shared outdoor kitchen designed for this kind of group cooking activity. Confirm logistics with the property when you book.
 
@@ -261,5 +261,5 @@ This is the centerpiece of a New Orleans group trip that nobody forgets.
 
 The setup matters as much as the food.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, outdoor space, up to 30 guests per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, shared outdoor kitchen, up to 22 guests per villa
+- Castleday Retreats — Bywater private villas, outdoor space, up to 30 guests per villa
+- The Syd — Lower Garden District, shared outdoor kitchen, up to 22 guests per villa

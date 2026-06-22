@@ -59,9 +59,9 @@ This is where Essence Festival trips succeed or fail for groups.
 
 **The options:**
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. During Essence Festival, having your own pool and private outdoor space is a significant quality-of-life upgrade. The Bywater is also 15-20 minutes from the Superdome and close to Frenchmen Street, which runs at high energy during Essence weekend.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. During Essence Festival, having your own pool and private outdoor space is a significant quality-of-life upgrade. The Bywater is also 15-20 minutes from the Superdome and close to Frenchmen Street, which runs at high energy during Essence weekend.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — useful when rideshares are at surge pricing during peak Essence hours. The Lower Garden District puts you about 10-15 minutes from the Superdome.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — useful when rideshares are at surge pricing during peak Essence hours. The Lower Garden District puts you about 10-15 minutes from the Superdome.
 
 **Contact either property as early as possible.** Essence Festival weekend rates are higher than standard pricing. This is standard for all New Orleans Essence weekend inventory. Budget accordingly.
 
@@ -108,7 +108,7 @@ This is where most groups get surprised.
 
 **Solutions:**
 
-**The St. Charles Streetcar:** If you're staying at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District, the streetcar is one block away. The streetcar runs to Canal Street, putting you walking distance from the Convention Center and a short distance from the Superdome. It doesn't surge. It's slow but reliable.
+**The St. Charles Streetcar:** If you're staying at The Syd in the Lower Garden District, the streetcar is one block away. The streetcar runs to Canal Street, putting you walking distance from the Convention Center and a short distance from the Superdome. It doesn't surge. It's slow but reliable.
 
 **Walking:** For groups with energy, the walk from the French Quarter area to the Superdome is about 20-25 minutes. After concerts, walking in a large group is sometimes faster than waiting for rideshares.
 
@@ -221,13 +221,13 @@ Essence Festival is the weekend when your choice of accommodation matters most. 
 
 With a large-group villa, you come back to your house. Everyone's there. The pool is going. Music is playing. You debrief the show, you stay up late talking, you have one of the best nights of the trip — and none of it was planned.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. For groups who want their own space during one of the busiest weekends of the year, this is the answer. Book as far in advance as possible.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. For groups who want their own space during one of the busiest weekends of the year, this is the answer. Book as far in advance as possible.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — the most useful transit option during a weekend when rideshares are strained. Book as far in advance as possible.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — the most useful transit option during a weekend when rideshares are strained. Book as far in advance as possible.
 
 Both properties can accommodate the kind of group living that makes a 4-night Essence Festival weekend something your group talks about for years. But both will book out early. Don't wait.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa, private pools. Book 3-6 months out for Essence weekend.
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa, pool/hot tub/sauna, streetcar access. Book early.
+- **Castleday Retreats** — Bywater, up to 30 per villa, private pools. Book 3-6 months out for Essence weekend.
+- **The Syd** — Lower Garden District, up to 22 per villa, pool/hot tub/sauna, streetcar access. Book early.

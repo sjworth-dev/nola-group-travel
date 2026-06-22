@@ -183,13 +183,13 @@ A villa crawfish boil or shrimp boil using Gulf shrimp bought from a market vend
 
 A villa with a real kitchen makes the market morning actually matter — what you buy gets cooked.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater with full kitchens. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater location puts Castleday close to the farmers market in the Warehouse District (short rideshare), the French Market in the French Quarter (15 minutes), and St. Roch Market (blocks away in the same neighborhood corridor). Buy at the market, cook at the villa. Rated 4.98 across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater with full kitchens. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater location puts Castleday close to the farmers market in the Warehouse District (short rideshare), the French Market in the French Quarter (15 minutes), and St. Roch Market (blocks away in the same neighborhood corridor). Buy at the market, cook at the villa. Rated 4.98 across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District with full kitchens and a shared outdoor kitchen. Up to 22 guests per villa. The Syd's outdoor kitchen is the destination for what you buy at the market — shrimp boils, crawfish boils, and laid-back weekend cooking happen best around a proper outdoor setup.
+**The Syd** — Multiple villas in the Lower Garden District with full kitchens and a shared outdoor kitchen. Up to 22 guests per villa. The Syd's outdoor kitchen is the destination for what you buy at the market — shrimp boils, crawfish boils, and laid-back weekend cooking happen best around a proper outdoor setup.
 
 ---
 
 ## Plan Your Market Morning
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, full kitchens, up to 30 guests, close to all three markets
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, shared outdoor kitchen, up to 22 guests, one block to St. Charles Streetcar
+- Castleday Retreats — Bywater villas, full kitchens, up to 30 guests, close to all three markets
+- The Syd — Lower Garden District villas, shared outdoor kitchen, up to 22 guests, one block to St. Charles Streetcar

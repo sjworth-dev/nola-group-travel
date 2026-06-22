@@ -198,15 +198,15 @@ Stock this before you arrive. These items take 20 minutes to acquire at any larg
 
 A rain day is when the difference between a villa and a hotel room is most apparent. In a hotel, a rained-out afternoon means 30 people scattered across individual rooms watching TV in isolation. In a villa, it means the group is in a shared common space with a kitchen, an outdoor area (even if wet), and the resources to actually do something together.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms, 17 real beds, and 8 baths. The Cocodrie villa has been noted for its pool and outdoor space — and the private pool in a warm NOLA summer rain is, genuinely, a different and excellent experience. Large kitchen for the impromptu cooking project, large common areas for the afternoon card game or movie. Walking distance from the St. Claude corridor's indoor bar options.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms, 17 real beds, and 8 baths. The Cocodrie villa has been noted for its pool and outdoor space — and the private pool in a warm NOLA summer rain is, genuinely, a different and excellent experience. Large kitchen for the impromptu cooking project, large common areas for the afternoon card game or movie. Walking distance from the St. Claude corridor's indoor bar options.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The heated pool and outdoor kitchen at The Syd have covered portions, making a warm-rain afternoon at the courtyard more viable than it sounds. One block from the St. Charles Streetcar — the streetcar in the rain, heading uptown through the Garden District, is one of the more pleasant NOLA weather experiences. Villas designed by local artists mean the interior spaces are genuinely interesting to spend time in, not just functional.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The heated pool and outdoor kitchen at The Syd have covered portions, making a warm-rain afternoon at the courtyard more viable than it sounds. One block from the St. Charles Streetcar — the streetcar in the rain, heading uptown through the Garden District, is one of the more pleasant NOLA weather experiences. Villas designed by local artists mean the interior spaces are genuinely interesting to spend time in, not just functional.
 
 ---
 
 ## Ready for Whatever Weather Brings
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pool, full kitchen
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, heated pool and outdoor kitchen
+- Castleday Retreats — Bywater, 14-30 guests, private pool, full kitchen
+- The Syd — Lower Garden District, up to 22 guests, heated pool and outdoor kitchen
 
 Have the plan. When the rain comes, execute it confidently. The groups who adapt well have better trips than the groups who never needed to.

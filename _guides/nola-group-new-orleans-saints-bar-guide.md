@@ -181,9 +181,9 @@ The bar will quiet quickly after a loss. The emotional deflation is real. This i
 
 ## Base Camp for Gameday
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location gives easy rideshare access to the sports bars near the French Quarter and CBD. A gameday morning at the villa — coffee, villa breakfast, group getting ready — before heading out to the bar is a comfortable and efficient structure. After the game, the Bywater's music scene is the natural evening destination. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location gives easy rideshare access to the sports bars near the French Quarter and CBD. A gameday morning at the villa — coffee, villa breakfast, group getting ready — before heading out to the bar is a comfortable and efficient structure. After the game, the Bywater's music scene is the natural evening destination. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's Lower Garden District location is directly on the streetcar line — take the St. Charles Streetcar toward downtown for gameday bars, and take it back after the game. The shared outdoor space at The Syd is perfect for post-game debrief before the evening begins.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's Lower Garden District location is directly on the streetcar line — take the St. Charles Streetcar toward downtown for gameday bars, and take it back after the game. The shared outdoor space at The Syd is perfect for post-game debrief before the evening begins.
 
 For groups that want to watch the Saints at the villa instead of at a bar, both Castleday and The Syd have the TV infrastructure and common area space for a full villa watch party. See the separate Saints watch party villa guide for that format.
 
@@ -191,5 +191,5 @@ For groups that want to watch the Saints at the villa instead of at a bar, both 
 
 ## Plan Your Saints Gameday
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access

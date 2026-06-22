@@ -145,7 +145,7 @@ A villa solves all of this.
 
 ### Castleday Retreats — Bywater
 
-[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) runs three private villas in the Bywater neighborhood, each sleeping up to 30 guests. For a wedding party that wants to be together—getting ready together, rehearsal dinner the night before, post-wedding brunch the morning after—this is the move.
+Castleday Retreats runs three private villas in the Bywater neighborhood, each sleeping up to 30 guests. For a wedding party that wants to be together—getting ready together, rehearsal dinner the night before, post-wedding brunch the morning after—this is the move.
 
 **Why it works for weddings:**
 - Pre-ceremony getting-ready space for the whole party
@@ -158,11 +158,11 @@ A villa solves all of this.
 
 For groups using two or three villas, the whole wedding party can be on the same block.
 
-[Check availability at Castleday Retreats →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ### The Syd — Lower Garden District
 
-[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) is in the Lower Garden District, one block from the St. Charles Streetcar. Each villa sleeps up to 22 guests and features rooms designed by local New Orleans artists—which matters when you're taking getting-ready photos.
+The Syd is in the Lower Garden District, one block from the St. Charles Streetcar. Each villa sleeps up to 22 guests and features rooms designed by local New Orleans artists—which matters when you're taking getting-ready photos.
 
 **Why it works for weddings:**
 - Local-artist-designed rooms make beautiful backdrops
@@ -170,7 +170,7 @@ For groups using two or three villas, the whole wedding party can be on the same
 - Lower Garden District puts you walking distance from many Garden District ceremony venues
 - Streetcar access to downtown venues without car rental
 
-[Check availability at The Syd →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)
 
 ### Venue Proximity Comparison
 
@@ -286,9 +286,8 @@ For groups using two or three villas, the whole wedding party can be on the same
 
 The best NOLA weddings keep the whole group together. A villa gives you a home base for the entire weekend—getting ready, welcome party, post-wedding wind-down, Sunday brunch.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 villas up to 30 guests each, private pools, full kitchens, art-filled interiors. The best option for complete privacy and the full private-villa experience.
+**Castleday Retreats** — Bywater, 3 villas up to 30 guests each, private pools, full kitchens, art-filled interiors. The best option for complete privacy and the full private-villa experience.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas up to 22 guests each, artist-designed rooms, shared heated pool, hot tub, outdoor kitchen. Walking distance to Garden District venues, one block from the St. Charles Streetcar.
+**The Syd** — Lower Garden District, multiple villas up to 22 guests each, artist-designed rooms, shared heated pool, hot tub, outdoor kitchen. Walking distance to Garden District venues, one block from the St. Charles Streetcar.
 
-[Check Castleday availability →](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
-[Check The Syd availability →](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+[See where to stay for large groups →](/where-to-stay/)

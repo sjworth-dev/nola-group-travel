@@ -203,9 +203,9 @@ The absence of a major festival doesn't mean the city feels flat — it means it
 
 Shoulder season rates apply to villas the same way they apply to hotels — often more so, since villa owners have more rate flexibility. The accommodation cost savings are a core part of the shoulder season value proposition.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. In shoulder season, the per-person cost at full occupancy becomes genuinely accessible budget-wise. The private pools are especially valuable in August — midday heat is best spent at the house. Full kitchens, the Herald, The Cocodrie, and The Florentine each providing the private space that makes a longer, less-structured trip work.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. In shoulder season, the per-person cost at full occupancy becomes genuinely accessible budget-wise. The private pools are especially valuable in August — midday heat is best spent at the house. Full kitchens, the Herald, The Cocodrie, and The Florentine each providing the private space that makes a longer, less-structured trip work.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The hot tub and sauna become relevant in January when outdoor temperatures drop. One block from the St. Charles Streetcar — in any weather, you're connected to the city without needing Ubers constantly.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The hot tub and sauna become relevant in January when outdoor temperatures drop. One block from the St. Charles Streetcar — in any weather, you're connected to the city without needing Ubers constantly.
 
 In shoulder season, both properties are worth reaching out to directly for dates and availability. The flexibility around non-peak bookings can work in both directions.
 
@@ -213,5 +213,5 @@ In shoulder season, both properties are worth reaching out to directly for dates
 
 ## Book Your Shoulder Season Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, private pools, full kitchens
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, heated pool, hot tub, sauna, streetcar access
+- Castleday Retreats — Bywater, private villas up to 30 guests, private pools, full kitchens
+- The Syd — Lower Garden District, up to 22 guests per villa, heated pool, hot tub, sauna, streetcar access

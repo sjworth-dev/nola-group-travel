@@ -250,9 +250,9 @@ Clarify the late-flight option with the property when you book. They may or may 
 
 The arrival-day experience is shaped entirely by your property. A well-organized rental with clear key pickup, enough space for everyone's luggage, and a kitchen to grab a drink makes arrival day smooth. A cramped, confusing property with a complicated check-in procedure makes it stressful.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Single-address check-in, private pool at each villa, full kitchens stocked for a group. The property team handles group arrivals regularly and can coordinate logistics with you before departure day. The Bywater location puts you 15-20 minutes from MSY by rideshare and 20 minutes from the French Quarter on foot or by short rideshare.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Single-address check-in, private pool at each villa, full kitchens stocked for a group. The property team handles group arrivals regularly and can coordinate logistics with you before departure day. The Bywater location puts you 15-20 minutes from MSY by rideshare and 20 minutes from the French Quarter on foot or by short rideshare.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — meaning you can send the early arrivals to the Streetcar stop with their bags and have them be exploring Magazine Street or the Garden District within 10 minutes rather than killing time at a random coffee shop. Centrally located between Uptown and the CBD.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — meaning you can send the early arrivals to the Streetcar stop with their bags and have them be exploring Magazine Street or the Garden District within 10 minutes rather than killing time at a random coffee shop. Centrally located between Uptown and the CBD.
 
 Both properties have handled the logistics of 15-30 people arriving and departing. Talk to them when you book — they've seen the edge cases and can help you plan for the specific configuration of your group.
 
@@ -260,5 +260,5 @@ Both properties have handled the logistics of 15-30 people arriving and departin
 
 ## Arrive Well, Leave Well
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, three private villas, up to 30 per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, shared amenities, central location, up to 22 per villa
+- Castleday Retreats — Bywater, three private villas, up to 30 per villa
+- The Syd — Lower Garden District, shared amenities, central location, up to 22 per villa

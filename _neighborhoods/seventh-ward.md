@@ -151,9 +151,9 @@ The Seventh Ward sits alongside the Tremé as the two neighborhoods that most re
 
 The closer your home base is to the Seventh Ward and Tremé, the easier this visit becomes.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. The Bywater sits just downriver from the Seventh Ward — the St. Claude corridor runs continuously between the two neighborhoods. A Seventh Ward afternoon is walkable or a short rideshare from Castleday, and the cultural and architectural thread continues right into the Bywater itself. Private pools, full kitchens.
+**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. The Bywater sits just downriver from the Seventh Ward — the St. Claude corridor runs continuously between the two neighborhoods. A Seventh Ward afternoon is walkable or a short rideshare from Castleday, and the cultural and architectural thread continues right into the Bywater itself. Private pools, full kitchens.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The Garden District puts you on the other side of the city from the Seventh Ward, so visiting requires a rideshare or the Canal Streetcar. Worth doing regardless — the cultural weight of the Seventh Ward justifies the 15-minute trip. Shared pool, hot tub, sauna.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The Garden District puts you on the other side of the city from the Seventh Ward, so visiting requires a rideshare or the Canal Streetcar. Worth doing regardless — the cultural weight of the Seventh Ward justifies the 15-minute trip. Shared pool, hot tub, sauna.
 
 ---
 
@@ -161,5 +161,5 @@ The closer your home base is to the Seventh Ward and Tremé, the easier this vis
 
 The Seventh Ward is where the real New Orleans reveals itself. Buildings that haven't changed. Families that have been here for generations. Culture that didn't develop for tourists and doesn't perform for them.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, closest to the Seventh Ward corridor
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, artist-designed villas, central location
+- Castleday Retreats — Bywater, private pools, closest to the Seventh Ward corridor
+- The Syd — Lower Garden District, artist-designed villas, central location

@@ -184,9 +184,9 @@ New Orleans is excellent for client entertainment. The food quality is genuine, 
 
 Convention groups have specific needs: proximity to the Convention Center is a factor, but so is the quality of the evening and off-hours experience. Private villas in the Warehouse District and Lower Garden District strike the best balance.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Bywater is 15-20 minutes by rideshare from the Convention Center — not walking distance, but a straightforward Uber. The trade-off is a completely private home base for your team's off-hours: no hotel lobby, no other convention attendees, a pool for the evening debrief. The Herald villa has the best common areas for working team sessions after hours. For corporate groups at conventions who want to actually bond as a team outside the conference sessions, this format works significantly better than scattered hotel rooms.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Bywater is 15-20 minutes by rideshare from the Convention Center — not walking distance, but a straightforward Uber. The trade-off is a completely private home base for your team's off-hours: no hotel lobby, no other convention attendees, a pool for the evening debrief. The Herald villa has the best common areas for working team sessions after hours. For corporate groups at conventions who want to actually bond as a team outside the conference sessions, this format works significantly better than scattered hotel rooms.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. Shared heated pool, hot tub, sauna, outdoor kitchen. The Lower Garden District is 10-15 minutes by rideshare from the Convention Center — closer than the Bywater, and with streetcar access to Canal Street and the CBD. Artist-designed interiors, full private compound. This is the right option for convention groups that want a closer base without sacrificing the private villa dynamic.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. Shared heated pool, hot tub, sauna, outdoor kitchen. The Lower Garden District is 10-15 minutes by rideshare from the Convention Center — closer than the Bywater, and with streetcar access to Canal Street and the CBD. Artist-designed interiors, full private compound. This is the right option for convention groups that want a closer base without sacrificing the private villa dynamic.
 
 ---
 
@@ -194,5 +194,5 @@ Convention groups have specific needs: proximity to the Convention Center is a f
 
 Don't rely on finding availability when the convention announcements go out. Private villa availability during convention weeks is limited — the demand exists, the supply is finite.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, private pools, best team bonding option
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, streetcar to the CBD, shared outdoor complex
+- Castleday Retreats — Bywater, private villas up to 30 guests, private pools, best team bonding option
+- The Syd — Lower Garden District, up to 22 guests, streetcar to the CBD, shared outdoor complex

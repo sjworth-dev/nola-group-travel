@@ -1,6 +1,6 @@
 # New Orleans Group Travel Guide
 
-A Jekyll site designed to capture organic search traffic for New Orleans group travel queries and funnel visitors to Castleday Retreats.
+An independent Jekyll guide that captures organic search traffic for New Orleans group-travel queries and helps large groups plan their trip — where to stay, how to get around, and what's worth doing. It is not a booking funnel for any single property.
 
 ## Quick Deploy to GitHub Pages
 
@@ -194,4 +194,4 @@ Future articles to add:
 
 ## Questions?
 
-This site funnels to [castledayretreats.com](https://castledayretreats.com)
+This is an independent group-travel guide. It does not link out to or funnel bookings to any specific property. Accommodation guidance lives on the `/where-to-stay/` page; properties may be named as editorial examples but are never linked as booking CTAs.

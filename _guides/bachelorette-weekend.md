@@ -222,9 +222,9 @@ Every bach trip that tries to do 6 activities in 3 days fails. Pick 2. Do them w
 
 The venue defines your trip more than any single activity. For groups over 10, your options in New Orleans are narrower than you'd expect.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pool, full kitchen, art-filled interiors. The private pool is the anchor point for the whole trip — morning recovery, afternoon hangs, late-night dips. Bywater location puts you 10 minutes from Frenchmen Street on foot.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pool, full kitchen, art-filled interiors. The private pool is the anchor point for the whole trip — morning recovery, afternoon hangs, late-night dips. Bywater location puts you 10 minutes from Frenchmen Street on foot.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Great if your group wants central access to uptown restaurants and Magazine Street shopping, or if you're attending a wedding nearby.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Great if your group wants central access to uptown restaurants and Magazine Street shopping, or if you're attending a wedding nearby.
 
 Both properties let the whole group stay together — no splitting across multiple Airbnbs or coordinating hotel rooms across the street from each other. That togetherness is what makes a bach trip a bach trip.
 
@@ -234,5 +234,5 @@ Both properties let the whole group stay together — no splitting across multip
 
 Don't wait on accommodations. For groups of 12+, good options book fast.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Bywater, private pools, up to 30/villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
+- Castleday Retreats – Bywater, private pools, up to 30/villa
+- The Syd – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa

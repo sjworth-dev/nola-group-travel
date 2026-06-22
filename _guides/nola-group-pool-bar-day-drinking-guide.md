@@ -205,13 +205,13 @@ Groups that maintain all three have members who can actually make midnight. Grou
 
 The pool-to-bar structure only functions if the home base is actually built for it. A hotel lobby does not have a pool deck with music and a cooler. A cramped Airbnb does not have a courtyard where 20 people can spread out for two hours before heading out.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests. The private pools at Castleday are the actual start of this structure — the Cocodrie in particular has an outdoor space designed for a group pool day. The Bywater location puts the group within walking distance of Frenchmen Street and the Marigny afternoon bar scene, so the entire noon-to-midnight arc can be executed with a short cab ride or walk for the farthest legs. 12 bedrooms, 17 real beds, 8 baths per villa — everyone gets a real bed to crash in when the evening ends. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. The private pools at Castleday are the actual start of this structure — the Cocodrie in particular has an outdoor space designed for a group pool day. The Bywater location puts the group within walking distance of Frenchmen Street and the Marigny afternoon bar scene, so the entire noon-to-midnight arc can be executed with a short cab ride or walk for the farthest legs. 12 bedrooms, 17 real beds, 8 baths per villa — everyone gets a real bed to crash in when the evening ends. 4.98 average rating across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared heated pool, hot tub, sauna, and outdoor kitchen are built for the pool phase of this structure — the outdoor kitchen means the group can make the noon drinks without anyone having to be inside at the counter alone. One block from the St. Charles Streetcar makes the afternoon bar phase easy to stage without everyone piling into Ubers.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared heated pool, hot tub, sauna, and outdoor kitchen are built for the pool phase of this structure — the outdoor kitchen means the group can make the noon drinks without anyone having to be inside at the counter alone. One block from the St. Charles Streetcar makes the afternoon bar phase easy to stage without everyone piling into Ubers.
 
 ---
 
 ## Start the Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, 14-30 guests, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, sauna
+- Castleday Retreats — Bywater private villas, 14-30 guests, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, sauna

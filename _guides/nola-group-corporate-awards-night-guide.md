@@ -197,7 +197,7 @@ After the ceremony, the trip is individual time. Corporate groups often benefit 
 
 A corporate awards night requires space that can hold the ceremony and the dinner in the same property, without the institutional feel of a hotel venue.
 
-### [Castleday Retreats](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### Castleday Retreats
 
 Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each sleeping 14 to 30 guests across 12 bedrooms and 17 real beds. For corporate retreats, Castleday is the infrastructure answer: full kitchens, significant common areas that can be arranged for a seated ceremony, private pools for the evening wind-down, and completely private properties with no hotel staff foot traffic.
 
@@ -205,7 +205,7 @@ The Herald has the largest common areas of the three villas, making it the stron
 
 For a group of around 16 people, pitch the math specifically: 12 bedrooms and 17 real beds means everyone gets a real bed, not a couch or a shared setup that produces a tired team for the next morning's working sessions.
 
-### [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### The Syd
 
 Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by a local New Orleans artist.
 
@@ -217,7 +217,7 @@ For the ceremony itself, The Syd's outdoor kitchen and pool area creates an awar
 
 An awards night that people remember requires an environment that's worth remembering.
 
-- **[Castleday Retreats](https://castledayretreats.com/corporate-retreats?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas, 14-30 guests, large common areas, private pools, 4.98-star average
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 guests, courtyard, outdoor kitchen, artist-designed rooms
+- **Castleday Retreats** — Bywater, 3 private villas, 14-30 guests, large common areas, private pools, 4.98-star average
+- **The Syd** — Lower Garden District, up to 22 guests, courtyard, outdoor kitchen, artist-designed rooms
 
 The recognition matters. The environment it happens in matters too.

@@ -199,13 +199,13 @@ The birthday cake that arrives perfectly is a small thing that lands outsized. T
 
 The birthday trip is one occasion where accommodation matters more than usual. The villa is not just a place to sleep — it's the backdrop for the cake, the morning toast, the late-night conversations, and the arrival moment when the birthday person walks in and sees 20 people waiting.
 
-**[Castleday Retreats](https://castledayretreats.com/milestone-birthdays?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. With 12 bedrooms, 17 real beds, and 8 baths per villa, Castleday is built for the sweet spot: groups of around 16-22 where everyone gets a real bed and the villa feels full without feeling crowded. The private pool at each villa, the full kitchen for a birthday dinner, and the complete privacy (no other guests) make Castleday the right home base for a birthday trip that happens at the villa as much as out in the city. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. With 12 bedrooms, 17 real beds, and 8 baths per villa, Castleday is built for the sweet spot: groups of around 16-22 where everyone gets a real bed and the villa feels full without feeling crowded. The private pool at each villa, the full kitchen for a birthday dinner, and the complete privacy (no other guests) make Castleday the right home base for a birthday trip that happens at the villa as much as out in the city. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared heated pool, hot tub, sauna, and outdoor kitchen are the birthday villa courtyard at their best — a gathering space for the whole group that feels celebratory without requiring any setup. The outdoor kitchen is purpose-built for a birthday dinner. One block from the St. Charles Streetcar.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared heated pool, hot tub, sauna, and outdoor kitchen are the birthday villa courtyard at their best — a gathering space for the whole group that feels celebratory without requiring any setup. The outdoor kitchen is purpose-built for a birthday dinner. One block from the St. Charles Streetcar.
 
 ---
 
 ## Plan the Birthday Trip
 
-- [Castleday Retreats](https://castledayretreats.com/milestone-birthdays?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, artist-designed interiors
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, artist-designed interiors

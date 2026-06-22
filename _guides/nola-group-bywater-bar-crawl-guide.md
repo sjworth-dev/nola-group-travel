@@ -230,11 +230,11 @@ The Bywater bar crawl is one of the great advantages of staying in the Bywater n
 
 For groups of 15-30 looking for that kind of integration between home base and nightlife, two properties make the Bywater work at group scale.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** is the Bywater group villa property. Three private villas — The Herald, The Cocodrie, and The Florentine — each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths per villa. Private pool at each villa. Art-filled interiors built around local artists and makers. The Cocodrie has the best outdoor pool and courtyard space for a group who wants to do a pool morning before the bar crawl. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
+**Castleday Retreats** is the Bywater group villa property. Three private villas — The Herald, The Cocodrie, and The Florentine — each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths per villa. Private pool at each villa. Art-filled interiors built around local artists and makers. The Cocodrie has the best outdoor pool and courtyard space for a group who wants to do a pool morning before the bar crawl. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
 
 The pitch for the Bywater crawl: you walk out of Castleday, you walk to Bacchanal, you do the crawl, you walk home. No logistics. No Uber wait at 1am. The crawl ends where you started — which is a private pool, a full kitchen, and a courtyard where the group can debrief the evening.
 
-For groups that want a more central location with easy access to multiple neighborhoods, **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District sleeps up to 22 guests per villa, with artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the Bywater crawl is an Uber or a streetcar ride — still very doable as a dedicated evening.
+For groups that want a more central location with easy access to multiple neighborhoods, **The Syd** in the Lower Garden District sleeps up to 22 guests per villa, with artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the Bywater crawl is an Uber or a streetcar ride — still very doable as a dedicated evening.
 
 ---
 
@@ -246,5 +246,5 @@ Bourbon Street handles its own logistics. Frenchmen Street handles its own logis
 
 For groups who want to do it from the best possible home base:
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, 14-30 guests, 12BR/17 real beds per villa, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared heated pool, hot tub, sauna, one block from streetcar
+- Castleday Retreats — Bywater private villas, 14-30 guests, 12BR/17 real beds per villa, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared heated pool, hot tub, sauna, one block from streetcar

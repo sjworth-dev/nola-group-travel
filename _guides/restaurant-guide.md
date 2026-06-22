@@ -109,7 +109,7 @@ The Magazine Street corridor has strong options that are more neighborhood-focus
 
 ### Bywater / Marigny
 
-If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater, you're in one of the best restaurant neighborhoods in the city for a low-key, high-quality meal.
+If you're staying at Castleday Retreats in the Bywater, you're in one of the best restaurant neighborhoods in the city for a low-key, high-quality meal.
 
 | Restaurant | What It Is | Group Notes |
 |------------|------------|-------------|
@@ -199,7 +199,7 @@ Most New Orleans restaurants don't have a great online system for groups of 15+.
 
 ## Eating at the House
 
-For groups staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) or [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites), one or two meals at the house often make the whole trip run more smoothly. Not every meal needs to be a restaurant production.
+For groups staying at Castleday Retreats or The Syd, one or two meals at the house often make the whole trip run more smoothly. Not every meal needs to be a restaurant production.
 
 Grocery stores in New Orleans are well-stocked and local grocery culture is strong. For a group cooking at home:
 
@@ -230,11 +230,11 @@ A backyard crawfish boil or a big pot of red beans and rice at the house is ofte
 
 ## For Large Groups: Home Base Matters
 
-Having a good kitchen changes how you eat during a trip. Groups at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — private villas in the Bywater, up to 30 guests — have full kitchens and outdoor spaces that make at-home meals practical and enjoyable. Groups at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District have an outdoor kitchen, plus Magazine Street restaurants within easy walking distance.
+Having a good kitchen changes how you eat during a trip. Groups at Castleday Retreats — private villas in the Bywater, up to 30 guests — have full kitchens and outdoor spaces that make at-home meals practical and enjoyable. Groups at The Syd in the Lower Garden District have an outdoor kitchen, plus Magazine Street restaurants within easy walking distance.
 
 Both properties put you close to neighborhoods with genuinely excellent food. You're not fighting tourist-trap menus. You're a short walk or Uber from some of the best food in the country.
 
 ## Book Your Stay
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, up to 30 per villa. Full kitchen, private pool, walking distance to Bacchanal and Frenchmen Street.
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 per villa. Outdoor kitchen, streetcar access, Magazine Street restaurants nearby.
+- **Castleday Retreats** — Bywater, up to 30 per villa. Full kitchen, private pool, walking distance to Bacchanal and Frenchmen Street.
+- **The Syd** — Lower Garden District, up to 22 per villa. Outdoor kitchen, streetcar access, Magazine Street restaurants nearby.

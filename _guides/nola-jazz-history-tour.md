@@ -218,9 +218,9 @@ You don't need to be a music scholar to enjoy what you're hearing. But knowing t
 
 The jazz history tour starts in the Tremé, moves through the Quarter, and ends in the Marigny. Where you're based determines how far you're walking and how easily you can finish the night on Frenchmen Street.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is one block from Frenchmen Street — you walk home from the last stop of the tour without an Uber. The private pool at each villa is perfect for a late-night debrief after a full evening at Frenchmen Street. The art-filled interiors match the neighborhood's character; the kitchen works for a group breakfast before the day tour begins.
+**Castleday Retreats** — Three private villas in Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is one block from Frenchmen Street — you walk home from the last stop of the tour without an Uber. The private pool at each villa is perfect for a late-night debrief after a full evening at Frenchmen Street. The art-filled interiors match the neighborhood's character; the kitchen works for a group breakfast before the day tour begins.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The St. Charles Streetcar runs from the front of the neighborhood to Canal Street, where you can walk into the Quarter or catch a cab to the Tremé. The shared heated pool, hot tub, and outdoor kitchen give the group a landing spot after the evening's music. For groups combining the jazz tour with the Garden District and Uptown, The Syd's position is better.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The St. Charles Streetcar runs from the front of the neighborhood to Canal Street, where you can walk into the Quarter or catch a cab to the Tremé. The shared heated pool, hot tub, and outdoor kitchen give the group a landing spot after the evening's music. For groups combining the jazz tour with the Garden District and Uptown, The Syd's position is better.
 
 Both properties put you close enough to walk or take a short ride to every stop on this tour. The Castleday Bywater location is the natural choice for groups centering the trip on music.
 
@@ -228,5 +228,5 @@ Both properties put you close enough to walk or take a short ride to every stop 
 
 ## Plan Your Jazz History Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas one block from Frenchmen Street, private pools, art throughout, up to 30 guests per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar access to the French Quarter and music corridor, shared pool and outdoor kitchen, up to 22 guests per villa
+- Castleday Retreats — Bywater villas one block from Frenchmen Street, private pools, art throughout, up to 30 guests per villa
+- The Syd — Lower Garden District villas, streetcar access to the French Quarter and music corridor, shared pool and outdoor kitchen, up to 22 guests per villa

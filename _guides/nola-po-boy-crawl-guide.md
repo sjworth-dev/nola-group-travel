@@ -172,9 +172,9 @@ A po-boy crawl works well as the anchor activity for a day structured around eat
 
 A food crawl trip in New Orleans is best anchored in a neighborhood that gives you walkable access to the Bywater, Marigny, and French Quarter — the main po-boy geography.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is prime po-boy territory — neighborhood shops, minimal tourist density, and you're a 20-minute walk from the French Quarter starting points. The Herald, The Cocodrie, and The Florentine each have full kitchens, which matters when half your group wants to cook the evening after a big food day. Private pools for the post-crawl recovery.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is prime po-boy territory — neighborhood shops, minimal tourist density, and you're a 20-minute walk from the French Quarter starting points. The Herald, The Cocodrie, and The Florentine each have full kitchens, which matters when half your group wants to cook the evening after a big food day. Private pools for the post-crawl recovery.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar, which connects you to Uptown and Magazine Street neighborhood shops. Shared heated pool, hot tub, sauna, and outdoor kitchen. If your food day includes Magazine Street or Uptown stops, the Lower Garden District location is well positioned.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar, which connects you to Uptown and Magazine Street neighborhood shops. Shared heated pool, hot tub, sauna, and outdoor kitchen. If your food day includes Magazine Street or Uptown stops, the Lower Garden District location is well positioned.
 
 For food-focused trips where the Bywater and Marigny are your primary neighborhoods: Castleday's Bywater location is ideal. For groups wanting more flexibility across the whole city: either property works.
 
@@ -182,5 +182,5 @@ For food-focused trips where the Bywater and Marigny are your primary neighborho
 
 ## Plan Your Food Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, walkable to French Quarter and Marigny, full kitchens, private pools, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar access, shared pool and outdoor kitchen, up to 22 guests
+- Castleday Retreats — Bywater villas, walkable to French Quarter and Marigny, full kitchens, private pools, up to 30 guests
+- The Syd — Lower Garden District villas, streetcar access, shared pool and outdoor kitchen, up to 22 guests

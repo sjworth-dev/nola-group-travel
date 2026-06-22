@@ -181,9 +181,9 @@ Second Saturdays occur monthly, year-round. The art walk is not affected by weat
 
 The St. Claude Arts District is deepest in the Bywater and the Marigny. Proximity to these neighborhoods means you can walk to the art walk and to Frenchmen Street without any transportation.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Castleday properties sit within the arts district itself — the Bywater is the heart of the St. Claude scene. Walking to galleries and back to the villa, sending groups in different directions during a Second Saturday, ending the night at the private pool after Frenchmen Street: this is the ideal setup. The art-filled interiors of the villas are in conversation with the neighborhood — Castleday was built with the same local-art sensibility as the spaces you'll be visiting.
+**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Castleday properties sit within the arts district itself — the Bywater is the heart of the St. Claude scene. Walking to galleries and back to the villa, sending groups in different directions during a Second Saturday, ending the night at the private pool after Frenchmen Street: this is the ideal setup. The art-filled interiors of the villas are in conversation with the neighborhood — Castleday was built with the same local-art sensibility as the spaces you'll be visiting.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd is a 15-20 minute Uber from the St. Claude core, which is entirely manageable. For groups combining a St. Claude Second Saturday with other Lower Garden District activities — the Oretha Castle Haley corridor, Magazine Street, the streetcar line — The Syd's position makes sense. The shared heated pool, hot tub, sauna, and outdoor kitchen are excellent recovery amenities after a full evening of gallery-hopping.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd is a 15-20 minute Uber from the St. Claude core, which is entirely manageable. For groups combining a St. Claude Second Saturday with other Lower Garden District activities — the Oretha Castle Haley corridor, Magazine Street, the streetcar line — The Syd's position makes sense. The shared heated pool, hot tub, sauna, and outdoor kitchen are excellent recovery amenities after a full evening of gallery-hopping.
 
 If St. Claude is the central activity of your trip, Castleday's Bywater location is the natural home base. If St. Claude is one stop among several neighborhoods, either property works.
 
@@ -191,5 +191,5 @@ If St. Claude is the central activity of your trip, Castleday's Bywater location
 
 ## Plan Your St. Claude Visit
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas inside the arts district, private pools, art throughout, up to 30 guests per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar and rideshare access to St. Claude, shared pool and outdoor kitchen, up to 22 guests per villa
+- Castleday Retreats — Bywater villas inside the arts district, private pools, art throughout, up to 30 guests per villa
+- The Syd — Lower Garden District villas, streetcar and rideshare access to St. Claude, shared pool and outdoor kitchen, up to 22 guests per villa

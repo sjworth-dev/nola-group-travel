@@ -269,9 +269,9 @@ Assign this before the party ends. "We'll deal with it tomorrow" produces a disa
 
 Not every rental can run a proper pool party. You need a real pool, real outdoor space, and a kitchen that can support batch cocktail prep and a cookout.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each with its own private pool. Up to 30 guests per villa. The Cocodrie villa has the most expansive outdoor setup for exactly this kind of event. Private pools mean your group has the space without sharing with other guests or managing access times. Full kitchens for batch cocktail prep and food setup.
+**Castleday Retreats** — Three private villas in the Bywater, each with its own private pool. Up to 30 guests per villa. The Cocodrie villa has the most expansive outdoor setup for exactly this kind of event. Private pools mean your group has the space without sharing with other guests or managing access times. Full kitchens for batch cocktail prep and food setup.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, and an outdoor kitchen purpose-built for the kind of cooking-for-groups scenario that makes pool parties work. The outdoor kitchen is a real asset — it's not a supplementary grill, it's a full outdoor cooking setup.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, and an outdoor kitchen purpose-built for the kind of cooking-for-groups scenario that makes pool parties work. The outdoor kitchen is a real asset — it's not a supplementary grill, it's a full outdoor cooking setup.
 
 Both properties are designed to support exactly this type of event.
 
@@ -279,5 +279,5 @@ Both properties are designed to support exactly this type of event.
 
 ## Ready to Party
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Private pools, Bywater, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Outdoor kitchen, shared pool, Lower Garden District, up to 22 guests
+- Castleday Retreats — Private pools, Bywater, up to 30 guests
+- The Syd — Outdoor kitchen, shared pool, Lower Garden District, up to 22 guests

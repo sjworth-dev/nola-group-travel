@@ -222,9 +222,9 @@ The right move: One person books a restaurant for the group in advance. Or the g
 
 Private villas are built for this kind of setup. You have full kitchen, full bar area, and common space designed for exactly this—a group of 15-30 people landing and making the space their own.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater gives you private villas (The Herald, The Cocodrie, The Florentine) with full kitchens, private pools, and the kind of common space where the bar setup actually works. Up to 30 guests per villa. The Bywater neighborhood is also excellent for a walk-to-dinner first night.
+**Castleday Retreats** in the Bywater gives you private villas (The Herald, The Cocodrie, The Florentine) with full kitchens, private pools, and the kind of common space where the bar setup actually works. Up to 30 guests per villa. The Bywater neighborhood is also excellent for a walk-to-dinner first night.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District offers multiple villas around a shared heated pool, hot tub, and outdoor kitchen. One block from the St. Charles streetcar. Welcome drinks by the pool with that outdoor kitchen fired up? That's a first night done right.
+**The Syd** in the Lower Garden District offers multiple villas around a shared heated pool, hot tub, and outdoor kitchen. One block from the St. Charles streetcar. Welcome drinks by the pool with that outdoor kitchen fired up? That's a first night done right.
 
 Neither property has a hotel-check-in vibe. You get the whole villa. You can set up the bar exactly how you want it. That's the point.
 
@@ -237,5 +237,5 @@ Groups that nail the first two hours have a better trip. Not because of luck—b
 Handle the setup. The rest takes care of itself.
 
 **Ready to lock in your NOLA villa?**
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Private villas in Bywater, up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool
+- Castleday Retreats — Private villas in Bywater, up to 30 guests
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool

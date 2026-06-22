@@ -209,13 +209,13 @@ Make enough for the group plus 20%. You will always run low if you estimate exac
 
 A game night for 20 people requires space: a table for teams, a TV or visible scoring surface, enough floor room for people not playing to stand or sit without being on top of the game. Most hotel rooms and short-term apartment rentals don't have this. Villa common areas do.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests, with large indoor common areas and private outdoor courtyard and pool spaces. The Herald is specifically noted for its expansive common areas — the right choice if game night is going to be a significant part of your trip. Full kitchens for the batch cocktail setup, private enough that the noise doesn't matter, and no checkout time pressure. The pool deck works for outdoor bracket games (cornhole, bocce) during the day and transforms into the post-game social space in the evening.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests, with large indoor common areas and private outdoor courtyard and pool spaces. The Herald is specifically noted for its expansive common areas — the right choice if game night is going to be a significant part of your trip. Full kitchens for the batch cocktail setup, private enough that the noise doesn't matter, and no checkout time pressure. The pool deck works for outdoor bracket games (cornhole, bocce) during the day and transforms into the post-game social space in the evening.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with rooms designed by local New Orleans artists and a shared outdoor courtyard with heated pool, hot tub, and outdoor kitchen. The courtyard setup at The Syd is especially good for bracket game formats — enough space for parallel activity, social seating at the edges, and the outdoor kitchen for the food spread. One block from the St. Charles Streetcar if the group decides to head out after games.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with rooms designed by local New Orleans artists and a shared outdoor courtyard with heated pool, hot tub, and outdoor kitchen. The courtyard setup at The Syd is especially good for bracket game formats — enough space for parallel activity, social seating at the edges, and the outdoor kitchen for the food spread. One block from the St. Charles Streetcar if the group decides to head out after games.
 
 ---
 
 ## Make It Happen
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, The Herald has the best common areas for large-group game nights
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared courtyard perfect for outdoor bracket games
+- Castleday Retreats — Bywater, 14-30 guests, The Herald has the best common areas for large-group game nights
+- The Syd — Lower Garden District, up to 22 guests, shared courtyard perfect for outdoor bracket games

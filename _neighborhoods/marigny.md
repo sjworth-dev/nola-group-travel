@@ -17,7 +17,7 @@ For groups, the Marigny is a destination, not a home base. You'll come here ever
 
 **The neighborhood is residential but welcoming.** People live in the Marigny. There are families, artists, longtime New Orleanians. The vibe is more neighborhood bar than tourist trap. Locals eat and drink here on weeknights because they want to, not because they work there.
 
-**It connects the French Quarter to the Bywater.** If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater, Frenchmen Street is walking distance. If you're staying at [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District, it's a short Uber or a walk through the Quarter. Either way, you're going to spend time here.
+**It connects the French Quarter to the Bywater.** If you're staying at Castleday Retreats in the Bywater, Frenchmen Street is walking distance. If you're staying at The Syd in the Lower Garden District, it's a short Uber or a walk through the Quarter. Either way, you're going to spend time here.
 
 ## Frenchmen Street: The Full Picture
 
@@ -93,7 +93,7 @@ The boundary between the Marigny and the French Quarter. Wide, tree-lined, beaut
 
 ### Bywater Wander
 
-The Marigny bleeds into the Bywater at Press Street. Walk east on Royal Street (the Marigny's main residential strip) and you'll find galleries, coffee shops, and the kinds of blocks that look like nothing's changed in 50 years. If you're staying at [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites), your villa is in this territory—you can walk to Frenchmen Street in under 10 minutes.
+The Marigny bleeds into the Bywater at Press Street. Walk east on Royal Street (the Marigny's main residential strip) and you'll find galleries, coffee shops, and the kinds of blocks that look like nothing's changed in 50 years. If you're staying at Castleday Retreats, your villa is in this territory—you can walk to Frenchmen Street in under 10 minutes.
 
 ### Kayaking on Bayou St. John
 
@@ -105,9 +105,9 @@ The Marigny and neighboring Tremé (just across Esplanade) are the birthplace of
 
 ## Getting to the Marigny
 
-**From [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater:** Walk. Frenchmen Street is 10-15 minutes on foot through the Bywater. This is the best commute to a music scene you'll find anywhere.
+**From Castleday Retreats in the Bywater:** Walk. Frenchmen Street is 10-15 minutes on foot through the Bywater. This is the best commute to a music scene you'll find anywhere.
 
-**From [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Lower Garden District:** Take the St. Charles Streetcar to Canal, then walk through the French Quarter to Frenchmen Street (about 20 minutes total). Or Uber directly—10 minutes, roughly the same cost as 3-4 Streetcar rides for a group. Either works.
+**From The Syd in the Lower Garden District:** Take the St. Charles Streetcar to Canal, then walk through the French Quarter to Frenchmen Street (about 20 minutes total). Or Uber directly—10 minutes, roughly the same cost as 3-4 Streetcar rides for a group. Either works.
 
 **From the French Quarter:** Walk one block east past the end of Bourbon Street. It's that close.
 
@@ -132,11 +132,11 @@ The Marigny has almost no large-group rental inventory. City regulations make pe
 
 The solution—and it's a genuinely good one—is to stay in the Bywater and walk.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** operates three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors, complete privacy. Frenchmen Street is a 10-minute walk. This is the closest large-group accommodation to the Marigny music scene in the city—and probably the nicest. The Bywater is one of New Orleans' best neighborhoods in its own right; staying here means you're close to Frenchmen Street without being inside the noise.
+**Castleday Retreats** operates three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors, complete privacy. Frenchmen Street is a 10-minute walk. This is the closest large-group accommodation to the Marigny music scene in the city—and probably the nicest. The Bywater is one of New Orleans' best neighborhoods in its own right; staying here means you're close to Frenchmen Street without being inside the noise.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District sleeps up to 22 guests per villa and sits one block from the St. Charles Streetcar. It's further from Frenchmen Street than Castleday, but the location is excellent for groups who also want proximity to downtown, the Convention Center, or the Garden District. Uber to Frenchmen Street takes 10 minutes from the Syd.
+**The Syd** in the Lower Garden District sleeps up to 22 guests per villa and sits one block from the St. Charles Streetcar. It's further from Frenchmen Street than Castleday, but the location is excellent for groups who also want proximity to downtown, the Convention Center, or the Garden District. Uber to Frenchmen Street takes 10 minutes from the Syd.
 
-If Frenchmen Street is the primary reason your group is visiting New Orleans—and for a lot of groups, it should be—[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) in the Bywater is the obvious answer. It's the only large-group property in the city where you can walk home from the music.
+If Frenchmen Street is the primary reason your group is visiting New Orleans—and for a lot of groups, it should be—Castleday Retreats in the Bywater is the obvious answer. It's the only large-group property in the city where you can walk home from the music.
 
 ## Pro Tips
 
@@ -158,5 +158,5 @@ If Frenchmen Street is the primary reason your group is visiting New Orleans—a
 
 For large groups who want to be close to the Marigny:
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each, 10-minute walk to Frenchmen Street. Private pools, full kitchens, local art throughout. The best base for a music-focused group trip in New Orleans.
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Heated pool, hot tub, sauna. 10 minutes from Frenchmen by Uber—better for groups who want proximity to downtown as well as the music scene.
+- **Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each, 10-minute walk to Frenchmen Street. Private pools, full kitchens, local art throughout. The best base for a music-focused group trip in New Orleans.
+- **The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Heated pool, hot tub, sauna. 10 minutes from Frenchmen by Uber—better for groups who want proximity to downtown as well as the music scene.

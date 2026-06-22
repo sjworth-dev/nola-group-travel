@@ -168,13 +168,13 @@ Start at Washington Square Park in the Marigny. Walk toward Bywater on Dauphine 
 
 The Bywater and Lower Garden District both sit in neighborhoods with dense architectural fabric — walkable, residential, historically rich.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is one of the best-preserved vernacular neighborhoods in the city — Creole cottages, double shotguns, and early 20th-century buildings all on the same residential blocks. Staying at Castleday puts you in the middle of a living architectural museum before the formal walk even starts. Rated 4.98 across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is one of the best-preserved vernacular neighborhoods in the city — Creole cottages, double shotguns, and early 20th-century buildings all on the same residential blocks. Staying at Castleday puts you in the middle of a living architectural museum before the formal walk even starts. Rated 4.98 across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The Syd's location — one block from the St. Charles Streetcar — puts the Garden District mansion walk within minutes by streetcar, and the Irish Channel and Magazine Street corridors are walkable from the villa.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The Syd's location — one block from the St. Charles Streetcar — puts the Garden District mansion walk within minutes by streetcar, and the Irish Channel and Magazine Street corridors are walkable from the villa.
 
 ---
 
 ## Plan Your Architecture Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, surrounded by some of the city's best-preserved residential vernacular architecture
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, streetcar to Garden District mansions, artist-designed interiors that reflect the city's living design culture
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, surrounded by some of the city's best-preserved residential vernacular architecture
+- The Syd — Lower Garden District villas, up to 22 guests, streetcar to Garden District mansions, artist-designed interiors that reflect the city's living design culture

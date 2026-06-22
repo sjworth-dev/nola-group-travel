@@ -244,13 +244,13 @@ This produces groups that go out well-fed, well-rested, and actually looking for
 
 Being in the right neighborhood puts brunch within walking distance or a short rideshare.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. The Bywater and Marigny are adjacent, putting the neighborhood brunch scene — including Bacchanal Wine — at walking distance. For the morning when the group wants to stay home, the kitchen supports a full villa brunch for 30. The villa cookout and brunch situations are equally strong here.
+**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. The Bywater and Marigny are adjacent, putting the neighborhood brunch scene — including Bacchanal Wine — at walking distance. For the morning when the group wants to stay home, the kitchen supports a full villa brunch for 30. The villa cookout and brunch situations are equally strong here.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. One block from St. Charles Streetcar for easy access to Garden District and Uptown brunch spots. The shared outdoor kitchen works for the villa brunch option. The neighborhood puts you within walking distance of Magazine Street and some of the best mid-tier brunch spots in the city.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. One block from St. Charles Streetcar for easy access to Garden District and Uptown brunch spots. The shared outdoor kitchen works for the villa brunch option. The neighborhood puts you within walking distance of Magazine Street and some of the best mid-tier brunch spots in the city.
 
 ---
 
 ## Plan the Best Meal of the Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, within walking range of top neighborhood brunch
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, close to Garden District and Uptown brunch spots, up to 22 guests
+- Castleday Retreats — Bywater, private pools, within walking range of top neighborhood brunch
+- The Syd — Lower Garden District, close to Garden District and Uptown brunch spots, up to 22 guests

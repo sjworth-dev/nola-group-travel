@@ -212,13 +212,13 @@ For a group of 20, you need 3-4 rapid burst shots minimum to get one frame where
 
 The villa is not just a sleeping arrangement — it's a photography location. The private courtyards, pools, lawns, and balconies of a well-designed villa provide backgrounds that are more photogenic and more personal than any public New Orleans landmark.
 
-### [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### Castleday Retreats
 
 Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with local art throughout, private pools, and outdoor spaces that are consistently more photogenic than the group expects. The art-filled interiors mean that even indoor shots have visual interest. The private pool and outdoor space means the morning or afternoon photo session can happen before the group leaves the property.
 
 14-30 guests per villa, 12 bedrooms, 17 real beds. The Bywater's proximity to the levee and the Marigny's walking corridors makes it the right home base for the photo spots described above. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
 
-### [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### The Syd
 
 Multiple villas in the Lower Garden District, up to 22 guests per villa. Every room designed by a local New Orleans artist — meaning the interior photography is genuinely distinctive. The courtyard and pool area, with the mural-painted walls and designed outdoor furniture, is a photography location in itself.
 
@@ -230,7 +230,7 @@ The Lower Garden District puts you within easy walking distance of the Garden Di
 
 The right villa anchors the morning-of getting-ready shots and provides the first photogenic backdrop before your group ever hits the street.
 
-- **[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, art-filled private villas, private pools, 14-30 guests, 4.98-star average
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, artist-designed rooms and courtyard, up to 22 guests, streetcar access to Garden District photo spots
+- **Castleday Retreats** — Bywater, art-filled private villas, private pools, 14-30 guests, 4.98-star average
+- **The Syd** — Lower Garden District, artist-designed rooms and courtyard, up to 22 guests, streetcar access to Garden District photo spots
 
 The city is photogenic. Show up at the right time in the right place with someone to wrangle the group, and you'll get the photos.

@@ -244,9 +244,9 @@ Give people 7 days after the trip to settle Splitwise balances. Send one reminde
 
 The foundation of any group trip is staying in the same place. Scattered hotel rooms break everything this guide is trying to build — shared mornings, natural gathering points, the kitchen where the first night recap happens.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, three private villas sleeping up to 30 each. Full kitchens, private pools, large common areas. The kind of space where your morning debrief and your late-night pool conversation both happen naturally. Book through their site with one contact and one invoice — no coordinating multiple bookings.
+**Castleday Retreats** — Bywater, three private villas sleeping up to 30 each. Full kitchens, private pools, large common areas. The kind of space where your morning debrief and your late-night pool conversation both happen naturally. Book through their site with one contact and one invoice — no coordinating multiple bookings.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Designed by local artists — the space itself is a conversation. Centrally located for groups who want to be close to the Garden District, CBD, and Magazine Street.
+**The Syd** — Lower Garden District, multiple villas sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Designed by local artists — the space itself is a conversation. Centrally located for groups who want to be close to the Garden District, CBD, and Magazine Street.
 
 Both properties handle group bookings routinely. They understand the logistics of getting 20 people in and out, and the spaces are designed to make groups work — not just sleep.
 
@@ -254,5 +254,5 @@ Both properties handle group bookings routinely. They understand the logistics o
 
 ## Start Here
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private pools, up to 30 per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, central location, up to 22 per villa
+- Castleday Retreats — Bywater, private pools, up to 30 per villa
+- The Syd — Lower Garden District, central location, up to 22 per villa

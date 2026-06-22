@@ -197,13 +197,13 @@ These are real historical touchpoints worth knowing before a literary evening in
 
 The villa is the natural home for a literary evening, whether as the base of operations for an evening out or as the venue for a private performance.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is NOLA's most literary neighborhood — the concentration of artists, writers, and performers is higher here than anywhere else in the city. Several Castleday villas have living spaces that can accommodate a private performance for 20-30 people seated. The post-performance pool deck is one of the better literary evening endings the city offers. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is NOLA's most literary neighborhood — the concentration of artists, writers, and performers is higher here than anywhere else in the city. Several Castleday villas have living spaces that can accommodate a private performance for 20-30 people seated. The post-performance pool deck is one of the better literary evening endings the city offers. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's location is one block from the St. Charles Streetcar — which runs directly to the French Quarter and the literary bar culture clustered there. The Syd's shared courtyard also works as an outdoor performance space for private events on warm evenings.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's location is one block from the St. Charles Streetcar — which runs directly to the French Quarter and the literary bar culture clustered there. The Syd's shared courtyard also works as an outdoor performance space for private events on warm evenings.
 
 ---
 
 ## Plan Your Literary Evening
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private performance space, pool deck for post-show conversation
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to literary bar culture, outdoor courtyard for events
+- Castleday Retreats — Bywater villas, up to 30 guests, private performance space, pool deck for post-show conversation
+- The Syd — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to literary bar culture, outdoor courtyard for events

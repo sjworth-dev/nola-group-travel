@@ -224,15 +224,15 @@ Designate someone's role as "room check" — they knock on doors or text people 
 
 The villa is the best wedding-eve accommodation model for a wedding party that needs to be in the same place in the morning. One address, one kitchen, one gathering space, and the getting-ready infrastructure that makes morning-of logistics manageable.
 
-**[Castleday Retreats](https://castledayretreats.com/wedding-groups?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Full kitchens equipped for the getting-ready morning. Large common areas that work for hair and makeup stations. Private pools for the wedding eve wind-down that doesn't have to be a night out to be memorable. The Florentine is the most elegant of the three villas and is ADA accessible. All three have 4.98 average ratings across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Full kitchens equipped for the getting-ready morning. Large common areas that work for hair and makeup stations. Private pools for the wedding eve wind-down that doesn't have to be a night out to be memorable. The Florentine is the most elegant of the three villas and is ADA accessible. All three have 4.98 average ratings across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. One block from the St. Charles Streetcar, within easy reach of many NOLA wedding venues. The shared heated pool, hot tub, and outdoor kitchen make the wedding eve gathering space something more than a hotel lobby. The Syd's central location makes the post-rehearsal-dinner return logistics straightforward from almost anywhere in the city.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. One block from the St. Charles Streetcar, within easy reach of many NOLA wedding venues. The shared heated pool, hot tub, and outdoor kitchen make the wedding eve gathering space something more than a hotel lobby. The Syd's central location makes the post-rehearsal-dinner return logistics straightforward from almost anywhere in the city.
 
 ---
 
 ## Book Your Wedding Group Villa
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pool, full kitchen, getting-ready ready
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool, central location
+- Castleday Retreats — Bywater, 14-30 guests, private pool, full kitchen, getting-ready ready
+- The Syd — Lower Garden District, up to 22 guests, shared pool, central location
 
 Plan the night before the way you planned the ceremony. The 18 hours before the wedding determine more than most couples expect.

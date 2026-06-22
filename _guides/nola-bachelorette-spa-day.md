@@ -206,9 +206,9 @@ The bride-to-be should drive this decision, not the loudest person in the group.
 
 A villa is not just the overnight accommodation for a spa day bachelorette — it is the spa's day lounge. The pool, the outdoor kitchen, the common areas, the robes-on-the-couch morning: this is what makes the spa day flow.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. Every villa has a private pool — the pool deck at The Cocodrie in particular is designed for exactly this: an afternoon of people horizontal on loungers after a morning of spa services. The full kitchens support a villa brunch without catering complications. The completely private setting means your group can be in robes all day without managing a hotel lobby.
+**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. Every villa has a private pool — the pool deck at The Cocodrie in particular is designed for exactly this: an afternoon of people horizontal on loungers after a morning of spa services. The full kitchens support a villa brunch without catering complications. The completely private setting means your group can be in robes all day without managing a hotel lobby.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd adds a shared heated pool, hot tub, and sauna to the formula — which is genuinely exceptional for a spa day. The hot tub and sauna are built-in spa amenities that no hotel adds to your room rate. The local artist-designed interiors give the villa an aesthetic that matches the tone of a luxury spa day without the institutional feel of a hotel. One block from the St. Charles Streetcar for any appointments that require transportation.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd adds a shared heated pool, hot tub, and sauna to the formula — which is genuinely exceptional for a spa day. The hot tub and sauna are built-in spa amenities that no hotel adds to your room rate. The local artist-designed interiors give the villa an aesthetic that matches the tone of a luxury spa day without the institutional feel of a hotel. One block from the St. Charles Streetcar for any appointments that require transportation.
 
 For groups who want the private pool experience: Castleday's villa setup is the match. For groups who want the hot tub and sauna as part of the villa day: The Syd wins.
 
@@ -216,5 +216,5 @@ For groups who want the private pool experience: Castleday's villa setup is the 
 
 ## Plan Your Bachelorette Spa Day
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas with pool decks perfect for spa day recovery, full kitchens for villa brunch, up to 30 guests per villa
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas with shared heated pool, hot tub, and sauna, up to 22 guests per villa
+- Castleday Retreats — Bywater private villas with pool decks perfect for spa day recovery, full kitchens for villa brunch, up to 30 guests per villa
+- The Syd — Lower Garden District villas with shared heated pool, hot tub, and sauna, up to 22 guests per villa

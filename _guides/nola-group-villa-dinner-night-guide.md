@@ -194,13 +194,13 @@ The dinner music should support conversation, not compete with it.
 
 ## The Villas That Make This Work
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's full villa kitchens are stocked with the equipment a serious group dinner requires: multiple burners, large-format cookware, and the countertop space to stage a real mise en place. With complete privacy — no other guests, no shared spaces — the entire property is yours for the evening. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's full villa kitchens are stocked with the equipment a serious group dinner requires: multiple burners, large-format cookware, and the countertop space to stage a real mise en place. With complete privacy — no other guests, no shared spaces — the entire property is yours for the evening. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists, plus a shared outdoor kitchen that is purpose-built for exactly this kind of communal group dinner. The Syd's outdoor kitchen setup — with cooking equipment, prep space, and the courtyard as the dining space — produces a different kind of villa dinner: the one where you cook outside, eat under the open sky, and the outdoor kitchen becomes the gathering point for the whole evening. Shared heated pool, hot tub, and sauna round out the villa.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists, plus a shared outdoor kitchen that is purpose-built for exactly this kind of communal group dinner. The Syd's outdoor kitchen setup — with cooking equipment, prep space, and the courtyard as the dining space — produces a different kind of villa dinner: the one where you cook outside, eat under the open sky, and the outdoor kitchen becomes the gathering point for the whole evening. Shared heated pool, hot tub, and sauna round out the villa.
 
 ---
 
 ## Host the Villa Dinner
 
-- [Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, full villa kitchens, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared pool, artist-designed interiors
+- Castleday Retreats — Bywater villas, up to 30 guests, full villa kitchens, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared pool, artist-designed interiors

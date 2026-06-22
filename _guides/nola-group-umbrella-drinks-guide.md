@@ -170,13 +170,13 @@ For a summer visit, the frozen daiquiri is the correct walk-around cup vehicle. 
 
 ## The Villa as Your Walk-Around Base
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location means you're walking distance from the Marigny and a short rideshare from the French Quarter — the walk-around cup corridor begins at your door. Pre-mix a batch cocktail in the villa, pour into go-cups, and start the evening already in motion. 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location means you're walking distance from the Marigny and a short rideshare from the French Quarter — the walk-around cup corridor begins at your door. Pre-mix a batch cocktail in the villa, pour into go-cups, and start the evening already in motion. 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen and shared courtyard is the natural pre-Bourbon Street staging point: the batch cocktail goes in the dispenser, go-cups are filled, and the group walks out already equipped. One block from the St. Charles Streetcar for downtown access.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen and shared courtyard is the natural pre-Bourbon Street staging point: the batch cocktail goes in the dispenser, go-cups are filled, and the group walks out already equipped. One block from the St. Charles Streetcar for downtown access.
 
 ---
 
 ## Book Your NOLA Base
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, streetcar access
+- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, streetcar access

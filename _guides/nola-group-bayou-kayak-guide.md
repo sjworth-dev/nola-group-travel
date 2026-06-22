@@ -159,13 +159,13 @@ Do both if you have the time. They don't overlap.
 
 ## Home Base for a Bayou Morning
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bayou St. John is a short rideshare north from Castleday's Bywater location — 10-15 minutes to the launch point. The morning structure works particularly well from Castleday: wake up, coffee in the kitchen, rideshare to the bayou for the morning paddle and City Park breakfast, back at the villa by early afternoon for pool time. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bayou St. John is a short rideshare north from Castleday's Bywater location — 10-15 minutes to the launch point. The morning structure works particularly well from Castleday: wake up, coffee in the kitchen, rideshare to the bayou for the morning paddle and City Park breakfast, back at the villa by early afternoon for pool time. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed rooms and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. From The Syd, Bayou St. John is a 10-15 minute rideshare through Mid-City. The natural return rhythm — bayou morning, City Park breakfast, back to The Syd for afternoon pool time — builds one of the better group day structures in New Orleans.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed rooms and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. From The Syd, Bayou St. John is a 10-15 minute rideshare through Mid-City. The natural return rhythm — bayou morning, City Park breakfast, back to The Syd for afternoon pool time — builds one of the better group day structures in New Orleans.
 
 ---
 
 ## Plan Your Bayou Morning
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared heated pool, hot tub, sauna, outdoor kitchen
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool, hot tub, sauna, outdoor kitchen

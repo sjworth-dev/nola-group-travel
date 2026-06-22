@@ -249,9 +249,9 @@ The challenge is keeping the group coherent enough to still feel like a group. H
 
 For a casino evening, the question isn't just proximity to Harrah's — it's what kind of home base your group wants to return to at 1am.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). A 10-minute Uber from Harrah's and about 15 minutes on foot from Frenchmen Street — which means your casino evening naturally flows into live music if the group wants to extend the night. Private pools for the next-day recovery. Full kitchens for the pre-casino dinner.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). A 10-minute Uber from Harrah's and about 15 minutes on foot from Frenchmen Street — which means your casino evening naturally flows into live music if the group wants to extend the night. Private pools for the next-day recovery. Full kitchens for the pre-casino dinner.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which takes you to Canal Street and a short walk from Harrah's. The shared heated pool, hot tub, and sauna at The Syd are particularly useful after a late casino night — the recovery infrastructure is already there.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which takes you to Canal Street and a short walk from Harrah's. The shared heated pool, hot tub, and sauna at The Syd are particularly useful after a late casino night — the recovery infrastructure is already there.
 
 For groups who want Harrah's to be the centerpiece of one night in a larger trip: both properties handle the logistics easily. For groups whose primary reason for visiting New Orleans is the casino, The Syd's location is slightly more convenient.
 
@@ -259,5 +259,5 @@ For groups who want Harrah's to be the centerpiece of one night in a larger trip
 
 ## Plan Your Casino Night
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, private pools, up to 30 guests per villa, easy Uber to Harrah's
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, streetcar to Canal Street, shared pool and hot tub, up to 22 guests
+- Castleday Retreats — Bywater villas, private pools, up to 30 guests per villa, easy Uber to Harrah's
+- The Syd — Lower Garden District villas, streetcar to Canal Street, shared pool and hot tub, up to 22 guests

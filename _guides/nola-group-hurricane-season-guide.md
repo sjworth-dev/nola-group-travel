@@ -162,9 +162,9 @@ Both Castleday Retreats and The Syd are purpose-built group properties with esta
 
 The advantage of a private group villa over individual hotel rooms during hurricane season is coordination. When a watch or warning develops, you're not trying to reach 30 people in 15 different hotel rooms on different floors. You're in one property with one communication chain.
 
-**[Castleday Retreats](https://castledayretreats.com/family-vacations?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood, each with 12 bedrooms, 17 real beds, and 8 baths. Capacity of 14-30 guests per villa. If you need to stage a rapid departure, having the whole group under one roof means one call to the van, one conversation about the plan. Castleday's team has dealt with storm seasons before and has clear protocols. Ask them directly when you book.
+**Castleday Retreats** — Three private villas in the Bywater neighborhood, each with 12 bedrooms, 17 real beds, and 8 baths. Capacity of 14-30 guests per villa. If you need to stage a rapid departure, having the whole group under one roof means one call to the van, one conversation about the plan. Castleday's team has dealt with storm seasons before and has clear protocols. Ask them directly when you book.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. If conditions require an early departure, you're centrally located and well-connected to transportation. The shared courtyard gives the group a natural gathering point for updates and decisions.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. If conditions require an early departure, you're centrally located and well-connected to transportation. The shared courtyard gives the group a natural gathering point for updates and decisions.
 
 For shoulder season shoulder season groups specifically: ask about rate structures for August-October dates. The value proposition is real.
 
@@ -172,7 +172,7 @@ For shoulder season shoulder season groups specifically: ask about rate structur
 
 ## Book Your September or October NOLA Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests per villa, private pools, established storm protocols
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, central location, shared outdoor spaces
+- Castleday Retreats — Bywater, 14-30 guests per villa, private pools, established storm protocols
+- The Syd — Lower Garden District, up to 22 guests, central location, shared outdoor spaces
 
 Buy your travel insurance before a storm has a name. Then go enjoy the best rates and the least-crowded version of one of the world's great cities.

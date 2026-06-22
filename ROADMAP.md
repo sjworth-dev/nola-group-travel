@@ -2,10 +2,8 @@
 
 ## Site Goals
 
-1. Be the ultimate online resource for planning large group trips to New Orleans.
-2. Drive bookings to two property brands owned by the site operator:
-   - **Castleday Retreats** — [castledayretreats.com](https://castledayretreats.com) — Bywater neighborhood, 3 private villas (The Herald, The Cocodrie, The Florentine), up to 30 guests each, art-filled interiors, private pools, completely private
-   - **The Syd** — [thesyd.com](https://thesyd.com) — Lower Garden District, multiple villas, up to 22 guests each, every room designed by local New Orleans artists, shared heated pool + hot tub + sauna + outdoor kitchen, one block from St. Charles Streetcar
+1. Be the ultimate independent online resource for planning large group trips to New Orleans.
+2. Stay independent. This is an editorial guide, not a booking funnel — it does not link out to or drive bookings for any specific property. All accommodation guidance lives on the on-site `/where-to-stay/` page.
 
 ---
 
@@ -34,8 +32,8 @@ Every new page must have:
 4. **Main sections** — Practical content: itineraries, activities, restaurants, budget, logistics
 5. **At least one comparison or reference table**
 6. **Pro Tips** — 5–7 numbered tips
-7. **Large Group Section** — Explicit section calling out the large-group accommodation challenge, featuring both Castleday and The Syd with working links
-8. **Final CTA** — Short close with links to both properties
+7. **Large Group Section** — Explicit section calling out the large-group accommodation challenge. Name properties only as unlinked editorial examples; never add external booking links.
+8. **Final CTA** — Short close pointing readers to the on-site guide: `[See where to stay for large groups →](/where-to-stay/)`. Never link to an external property/booking site.
 
 Minimum length: 400 words. Target: 200–300 lines of markdown.
 
@@ -43,28 +41,18 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ---
 
-## Castleday / Syd Integration Rules
+## Property Reference Rules
 
-**Castleday Retreats**
-- URL: `https://castledayretreats.com`
-- Location: Bywater neighborhood
-- Capacity: Up to 30 guests per villa, 3 villas
-- Villa names: The Herald (largest common areas), The Cocodrie (best pool/outdoor), The Florentine (most elegant)
-- Features: Private pool at each villa, local art throughout, full kitchens, complete privacy
-- Best for: Privacy seekers, bachelorettes who want their own pool, corporate groups needing private working space
+This is an independent guide. Properties may be described editorially as examples, but are NEVER linked as booking CTAs.
 
-**The Syd**
-- URL: `https://thesyd.com`
-- Location: Lower Garden District
-- Capacity: Up to 22 guests per villa, multiple villas
-- Features: Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors, one block from St. Charles Streetcar
-- Best for: Groups who want central location, wedding parties near downtown venues, convention attendees, design lovers
+**Castleday Retreats** — Bywater, 3 private villas, up to 30 guests each (~90 across all three). Private pool at each villa, local art, full kitchens, complete privacy. Best for privacy seekers.
+
+**The Syd** — Lower Garden District, multiple villas, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors, one block from St. Charles Streetcar. Best for groups who want a central location.
 
 **Rules:**
-- Every new page must mention BOTH properties at least once with working links
-- Primary CTA placement is the Large Group section
-- Secondary CTA at the end of the page
-- Never delete or rewrite existing CTAs — only add new ones
+- Name properties only as plain-text editorial examples. Do NOT hyperlink to castledayretreats.com, thesyd.com, or any other booking site.
+- Every accommodation CTA points to the on-site guide: `[See where to stay for large groups →](/where-to-stay/)`.
+- Keep accommodation depth on the `/where-to-stay/` page; other pages reference it rather than re-pitching a property.
 
 ---
 
@@ -73,11 +61,10 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 - Never invent businesses, prices, hours, capacities, restaurant names, or specific events. Write generally when uncertain.
 - Never modify `_config.yml` (Jekyll build settings)
 - `_layouts/`, `_includes/`, and `assets/` may be edited to add navigation links, homepage sections, and surfacing of new content — do not change core design, CSS variables, or structural HTML patterns
-- Never delete existing pages or rewrite existing Castleday/Syd CTAs (only add new ones)
+- Never delete existing pages
 - One commit, one focused change per run
 - No page under 400 words
-- Castleday links: base URL `https://castledayretreats.com`, ALWAYS with tracking params appended: `?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites`. Optional deep pages that exist (verified Jun 2026 — never use other paths): `/bachelorette-parties`, `/bachelor-parties`, `/corporate-retreats`, `/wedding-groups`, `/family-vacations`, `/milestone-birthdays`, `/friend-trips`, `/wellness-retreats`, `/occasions`, `/accommodations`, `/buyoutcastleday`. Append the same utm params after the path.
-- The Syd links: always exactly `https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites`
+- Never add external booking or affiliate links. No `castledayretreats.com`, no `thesyd.com`, no UTM tracking params. The only accommodation CTA is the internal `[See where to stay for large groups →](/where-to-stay/)`.
 - Real property photos live in `/assets/images/` (castleday-aerial, castleday-villa, castleday-pool, castleday-loungers, castleday-court, castleday-lawn, syd-courtyard = aerial umbrella pool, syd-pool = mural/cabana pool). Use them in pages with standard markdown image syntax where editorially fitting; never hotlink external images.
 - Verified Castleday facts you may cite: 12 bedrooms / 17 real beds / 8 baths per villa, 14-30 guests per villa, ~90 across all three, The Florentine is ADA-accessible, 4.98 avg rating across 99 reviews. Pitch the ~16-person organizer ("everyone gets a real bed"); never lead with "sleeps 30."
 - If `## Up Next` is empty or all items are blocked, generate 5 new on-strategy backlog items before picking one

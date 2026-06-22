@@ -195,7 +195,7 @@ The afternoon of January 1 is often one of the best moments of the whole trip. T
 
 Finding private accommodation for a group of 15-30 on New Year's Eve is the hardest part of the logistics. Shared spaces — hotels, Airbnbs with fragmented rooms across multiple units — don't give you the midnight-moment infrastructure that makes a villa NYE work.
 
-### [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### Castleday Retreats
 
 Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each accommodating 14 to 30 guests across 12 bedrooms and 17 real beds. For a group of around 16, everyone gets a real bed on a night when sleep matters more than usual.
 
@@ -203,7 +203,7 @@ The Bywater location is a specific asset for NYE. The levee fireworks walk is sh
 
 For a private outdoor countdown, the Cocodrie's pool and outdoor space is the setup. The Herald's common areas handle the pre-midnight gathering. The Florentine's elegance makes the midnight champagne moment feel appropriately celebratory.
 
-### [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)
+### The Syd
 
 Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by a local New Orleans artist. One block from the St. Charles Streetcar.
 
@@ -215,7 +215,7 @@ For NYE, The Syd's outdoor amenity stack is the asset. A heated pool is usable e
 
 New Year's accommodation in New Orleans fills up faster than any other date on the calendar. Don't wait.
 
-- **[Castleday Retreats](https://castledayretreats.com/milestone-birthdays?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, 3 private villas, 14-30 guests, private pools, levee access nearby, 4.98 stars
-- **[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, up to 22 guests per villa, heated pool + hot tub + sauna, streetcar access, local artist interiors
+- **Castleday Retreats** — Bywater, 3 private villas, 14-30 guests, private pools, levee access nearby, 4.98 stars
+- **The Syd** — Lower Garden District, up to 22 guests per villa, heated pool + hot tub + sauna, streetcar access, local artist interiors
 
 The midnight moment is coming regardless. Make sure your group has the right place to be for it.

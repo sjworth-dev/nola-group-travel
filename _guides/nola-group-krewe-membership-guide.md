@@ -185,9 +185,9 @@ A group renting a villa in a neighborhood on or near a parade route gets this ex
 
 A group trip centered on Mardi Gras balls, parades, and krewe events needs accommodations that function as a staging ground: space to change into formal wear, refrigeration for pre-party food and drinks, easy access to parade routes, and the kind of space where 20 people getting ready for a ball doesn't feel like a disaster.
 
-**[Castleday Retreats](https://castledayretreats.com/occasions?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests. The Bywater location puts the group in a neighborhood with its own Mardi Gras character — close to the Marigny and accessible to the major parade routes. The full kitchens and large common areas function as a getting-ready space, a pre-party staging area, and a recovery base for the post-ball return at 2am. 12 bedrooms, 17 real beds per villa — everyone gets a real bed to crash in after a ball that may run until 3am.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. The Bywater location puts the group in a neighborhood with its own Mardi Gras character — close to the Marigny and accessible to the major parade routes. The full kitchens and large common areas function as a getting-ready space, a pre-party staging area, and a recovery base for the post-ball return at 2am. 12 bedrooms, 17 real beds per villa — everyone gets a real bed to crash in after a ball that may run until 3am.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Lower Garden District location provides straightforward access to major parade routes and to the venues where most large krewe events take place. The Syd's shared outdoor kitchen and courtyard is the pre-parade or post-parade gathering point; the heated pool is the recovery option for the morning after. One block from the St. Charles Streetcar — useful on nights when the streets near major parade routes are closed to vehicles.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Lower Garden District location provides straightforward access to major parade routes and to the venues where most large krewe events take place. The Syd's shared outdoor kitchen and courtyard is the pre-parade or post-parade gathering point; the heated pool is the recovery option for the morning after. One block from the St. Charles Streetcar — useful on nights when the streets near major parade routes are closed to vehicles.
 
 Both properties book out for Mardi Gras season months in advance. This is not a last-minute accommodation situation.
 
@@ -195,5 +195,5 @@ Both properties book out for Mardi Gras season months in advance. This is not a 
 
 ## Plan the Krewe Experience
 
-- [Castleday Retreats](https://castledayretreats.com/occasions?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, 14-30 guests, full kitchens, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, artist-designed interiors, one block from streetcar
+- Castleday Retreats — Bywater private villas, 14-30 guests, full kitchens, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors, one block from streetcar

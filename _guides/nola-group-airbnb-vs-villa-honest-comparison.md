@@ -172,15 +172,15 @@ There are situations where a large-group Airbnb booking works well:
 
 ## The Properties
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each sleeps 14-30 guests, with 12 bedrooms and 17 real beds per villa. Private pool at each villa. Art-filled interiors. Full kitchens. The outdoor courtyard and pool areas are sized for a group, not for a household. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews — the kind of rating that comes from a property management operation that handles problems before guests experience them.
+**Castleday Retreats** — Three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each sleeps 14-30 guests, with 12 bedrooms and 17 real beds per villa. Private pool at each villa. Art-filled interiors. Full kitchens. The outdoor courtyard and pool areas are sized for a group, not for a household. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews — the kind of rating that comes from a property management operation that handles problems before guests experience them.
 
 For groups in the 16-person range: the "everyone gets a real bed" math works cleanly. Each of the 17 real beds is a real bed, in a real room, with a door that closes. No one is on a pull-out in a hallway.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by a local New Orleans artist — the interiors are genuinely distinctive, not generic rental furniture. Shared heated pool, hot tub, sauna, and outdoor kitchen across the property. One block from the St. Charles Streetcar. The shared amenity model means the pool and hot tub space is generous relative to any single villa's guest count. For groups that want to be in a walkable, central neighborhood with easy access to the Garden District, Magazine Street, and downtown, The Syd's location is a specific advantage.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by a local New Orleans artist — the interiors are genuinely distinctive, not generic rental furniture. Shared heated pool, hot tub, sauna, and outdoor kitchen across the property. One block from the St. Charles Streetcar. The shared amenity model means the pool and hot tub space is generous relative to any single villa's guest count. For groups that want to be in a walkable, central neighborhood with easy access to the Garden District, Magazine Street, and downtown, The Syd's location is a specific advantage.
 
 ---
 
 ## Make the Right Call for Your Group
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater private villas, 14-30 guests, 12BR/17 real beds per villa, private pools, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared pool, hot tub, sauna, one block from streetcar
+- Castleday Retreats — Bywater private villas, 14-30 guests, 12BR/17 real beds per villa, private pools, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared pool, hot tub, sauna, one block from streetcar

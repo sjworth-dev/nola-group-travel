@@ -208,9 +208,9 @@ What doesn't work is the approach where the outdoor party continues without modi
 
 The properties that work for large groups long-term in these neighborhoods have thought carefully about the indoor/outdoor balance and have built properties that support both.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The Herald, The Cocodrie, and The Florentine are designed around private outdoor space that works well for groups — pools, courtyards, outdoor furniture — and large interior common areas that are genuinely good for indoor gatherings. The indoor/outdoor transition at Castleday isn't a downgrade. The interior spaces are where the trip continues after the outdoor phase ends. Castleday's house rules reflect the neighborhood context and are worth reading carefully before arrival.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The Herald, The Cocodrie, and The Florentine are designed around private outdoor space that works well for groups — pools, courtyards, outdoor furniture — and large interior common areas that are genuinely good for indoor gatherings. The indoor/outdoor transition at Castleday isn't a downgrade. The interior spaces are where the trip continues after the outdoor phase ends. Castleday's house rules reflect the neighborhood context and are worth reading carefully before arrival.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. The Syd's shared courtyard with heated pool, hot tub, and sauna is the outdoor phase. The individual villa interiors — each designed by a local New Orleans artist — are where the evening continues. The LGD location puts The Syd one block from the St. Charles Streetcar, which means if the group wants to extend the night, the option is to leave the property rather than push the property's outdoor space past its appropriate window.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The Syd's shared courtyard with heated pool, hot tub, and sauna is the outdoor phase. The individual villa interiors — each designed by a local New Orleans artist — are where the evening continues. The LGD location puts The Syd one block from the St. Charles Streetcar, which means if the group wants to extend the night, the option is to leave the property rather than push the property's outdoor space past its appropriate window.
 
 Both properties have 4.98 average ratings across 99 reviews. That rating reflects groups that are fun, that respect the property, and that treat the neighborhood appropriately. The rating depends on that continued.
 
@@ -218,7 +218,7 @@ Both properties have 4.98 average ratings across 99 reviews. That rating reflect
 
 ## Book Your Group Villa
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, private pools, large interior common areas
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, shared pool, hot tub, sauna
+- Castleday Retreats — Bywater, 14-30 guests, private pools, large interior common areas
+- The Syd — Lower Garden District, up to 22 guests, shared pool, hot tub, sauna
 
 The groups that have the best villa experience in New Orleans are the ones who treat the neighborhood the way they'd want their own neighborhood treated. It's not a complicated calculation. And it turns out that keeping the music inside after 10pm doesn't actually end the party — it just moves it to the room with better acoustics.

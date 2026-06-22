@@ -177,15 +177,15 @@ Ask locals — your villa host, a bartender early in the evening, anyone who cle
 
 Coming back from a late NOLA night to a hotel room is fine. Coming back to a villa with a pool, a kitchen, and 20 of your friends is better. The geography matters too — a villa in the Bywater or Lower Garden District puts you close to the neighborhoods where the best late-night scenes unfold.
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater. Walking distance from the St. Claude corridor, a short rideshare from Frenchmen Street. Each villa sleeps 14-30 guests across 12 bedrooms and 8 baths. The private pool and courtyard become the natural late-night decompression zone when the group starts filtering back from wherever the night went. Full kitchens for the mandatory late-night fridge raid.
+**Castleday Retreats** — Three private villas in the Bywater. Walking distance from the St. Claude corridor, a short rideshare from Frenchmen Street. Each villa sleeps 14-30 guests across 12 bedrooms and 8 baths. The private pool and courtyard become the natural late-night decompression zone when the group starts filtering back from wherever the night went. Full kitchens for the mandatory late-night fridge raid.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, and outdoor kitchen. The courtyard at The Syd at 2am — pool lit, hot tub running, half the group back and the other half still out — is exactly the kind of group travel moment that doesn't happen in hotel rooms. One block from the St. Charles Streetcar for anyone who wants to come home via streetcar rather than rideshare.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, and outdoor kitchen. The courtyard at The Syd at 2am — pool lit, hot tub running, half the group back and the other half still out — is exactly the kind of group travel moment that doesn't happen in hotel rooms. One block from the St. Charles Streetcar for anyone who wants to come home via streetcar rather than rideshare.
 
 ---
 
 ## Start Here
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, 14-30 guests, walking distance to St. Claude
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests, heated pool and hot tub
+- Castleday Retreats — Bywater, 14-30 guests, walking distance to St. Claude
+- The Syd — Lower Garden District, up to 22 guests, heated pool and hot tub
 
 The city doesn't close. Stay as long as you want.

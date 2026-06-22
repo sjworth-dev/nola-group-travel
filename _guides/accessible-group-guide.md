@@ -132,9 +132,9 @@ The group dynamic question: when one guest has significant mobility limitations,
 
 ### Properties Worth Investigating
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Bywater offers three private villas — The Herald, The Cocodrie, and The Florentine — each sleeping up to 30 guests. Contact them directly with your specific access requirements. Villa properties of this scale often have configurations that work for mixed-ability groups, and the team can speak to which villa best meets your needs. Having your entire group of 20–30 in one property with a private pool and full kitchen eliminates much of the external logistics that tire mobility-limited guests.
+**Castleday Retreats** in the Bywater offers three private villas — The Herald, The Cocodrie, and The Florentine — each sleeping up to 30 guests. Contact them directly with your specific access requirements. Villa properties of this scale often have configurations that work for mixed-ability groups, and the team can speak to which villa best meets your needs. Having your entire group of 20–30 in one property with a private pool and full kitchen eliminates much of the external logistics that tire mobility-limited guests.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** in the Lower Garden District offers multiple villas up to 22 guests each, designed by local artists, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar line. Contact them with your specifics — the Lower Garden District is one of the flatter, more accessible neighborhoods in the city, and having your home base here simplifies transportation for the whole group.
+**The Syd** in the Lower Garden District offers multiple villas up to 22 guests each, designed by local artists, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar line. Contact them with your specifics — the Lower Garden District is one of the flatter, more accessible neighborhoods in the city, and having your home base here simplifies transportation for the whole group.
 
 ---
 
@@ -246,8 +246,8 @@ Know before you plan how far your guests can comfortably walk. A 10,000-step day
 
 For mixed-ability large groups, both properties below offer the one-villa model that keeps everyone together and eliminates the hotel hallway/elevator logistics that complicate mixed-ability travel.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pool, full kitchen, all-private. Contact directly to discuss which villa best accommodates your group's specific needs — these are substantial properties and the team can speak to ground-floor layout and access details.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pool, full kitchen, all-private. Contact directly to discuss which villa best accommodates your group's specific needs — these are substantial properties and the team can speak to ground-floor layout and access details.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, up to 22 guests each, designed by local New Orleans artists. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Lower Garden District is one of the flatter, more accessible neighborhoods in the city, with good transportation connections.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, designed by local New Orleans artists. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Lower Garden District is one of the flatter, more accessible neighborhoods in the city, with good transportation connections.
 
 For both properties: contact them with your specific access requirements before booking. Don't guess. A two-minute conversation with the property manager will tell you whether the layout works for your group.

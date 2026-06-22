@@ -189,13 +189,13 @@ A decorated parasol or second line umbrella can be purchased at various NOLA ven
 
 ## Where to Stage Your Second Line Night
 
-**[Castleday Retreats](https://castledayretreats.com/friend-trips?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location places you at the doorstep of the Marigny and Frenchmen Street second line corridor — the most culturally appropriate geography for a private second line experience. Pre-second line dinner logistics, post-second line villa return (pool, outdoor space, music), and the short walking and rideshare distances all work in your favor from a Bywater base. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location places you at the doorstep of the Marigny and Frenchmen Street second line corridor — the most culturally appropriate geography for a private second line experience. Pre-second line dinner logistics, post-second line villa return (pool, outdoor space, music), and the short walking and rideshare distances all work in your favor from a Bywater base. Castleday holds a 4.98 average across 99 reviews.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. From The Syd in the Lower Garden District, a second line route through the Garden District corridor or into the Warehouse District is accessible. The St. Charles Streetcar connection makes the route logistics flexible. Post-second line return to The Syd — outdoor kitchen for late-night food, heated pool, the full group together — is the right landing structure.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. From The Syd in the Lower Garden District, a second line route through the Garden District corridor or into the Warehouse District is accessible. The St. Charles Streetcar connection makes the route logistics flexible. Post-second line return to The Syd — outdoor kitchen for late-night food, heated pool, the full group together — is the right landing structure.
 
 ---
 
 ## Plan Your Second Line Night
 
-- [Castledayretreats.com](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater villas, up to 30 guests, private pools, Frenchmen Street walkable, 4.98 stars
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool, St. Charles Streetcar access
+- Castledayretreats.com — Bywater villas, up to 30 guests, private pools, Frenchmen Street walkable, 4.98 stars
+- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool, St. Charles Streetcar access

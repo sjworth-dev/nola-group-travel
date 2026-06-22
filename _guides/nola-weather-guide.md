@@ -297,9 +297,9 @@ Having this conversation before you arrive—not the night a storm forms—saves
 
 Weather shapes where you'll spend time. If you're visiting in summer, you want a property with excellent outdoor space for morning and evening, and shade and water for the afternoon. In cooler months, you want walkability and common spaces where the group can gather.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Bywater, three private villas, up to 30 guests each. Each villa has a private pool, which in summer becomes the center of the day. The Bywater's walkable restaurant and bar scene means evening activities don't require transportation. The Herald villa's large common areas work particularly well in cold or rainy weather when the group needs to be inside together.
+**Castleday Retreats** — Bywater, three private villas, up to 30 guests each. Each villa has a private pool, which in summer becomes the center of the day. The Bywater's walkable restaurant and bar scene means evening activities don't require transportation. The Herald villa's large common areas work particularly well in cold or rainy weather when the group needs to be inside together.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Lower Garden District, multiple villas, up to 22 guests. Shared heated pool, hot tub, and sauna—excellent for year-round use. The outdoor kitchen works for outdoor dining in good weather. One block from St. Charles Streetcar means any sub-group can easily navigate to indoor activities during hot or rainy stretches.
+**The Syd** — Lower Garden District, multiple villas, up to 22 guests. Shared heated pool, hot tub, and sauna—excellent for year-round use. The outdoor kitchen works for outdoor dining in good weather. One block from St. Charles Streetcar means any sub-group can easily navigate to indoor activities during hot or rainy stretches.
 
 Both properties are operational year-round and regularly host large groups across all seasons. When you inquire, mention your travel month—they can share what past guests have found to work well at that time of year.
 
@@ -311,5 +311,5 @@ Weather is the one variable you can completely control by choosing the right dat
 
 Book your dates around the weather, not the other way around.
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Check availability for your target window
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Multiple villas, year-round booking
+- Castleday Retreats — Check availability for your target window
+- The Syd — Multiple villas, year-round booking

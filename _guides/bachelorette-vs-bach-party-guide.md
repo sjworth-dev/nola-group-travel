@@ -206,9 +206,9 @@ If you're doing a fully combined trip, structure it like any large group trip �
 
 Both parties need the same thing: a private rental where everyone can gather, with enough space to not step on each other, and a pool that makes the in-between time good.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30. Private pool at each villa. Art-filled interiors. The bachelorette groups love the aesthetic; the bachelor groups love the privacy. If both parties are in town at the same time, two groups can book two separate villas at the same complex. This is actually ideal — both groups have their own space, with a natural geographic proximity if you want crossover moments.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pool at each villa. Art-filled interiors. The bachelorette groups love the aesthetic; the bachelor groups love the privacy. If both parties are in town at the same time, two groups can book two separate villas at the same complex. This is actually ideal — both groups have their own space, with a natural geographic proximity if you want crossover moments.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The shared pool and outdoor kitchen make it particularly good for groups who want a central gathering point. If one party is there for the weekend, the shared amenities become the social hub.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The shared pool and outdoor kitchen make it particularly good for groups who want a central gathering point. If one party is there for the weekend, the shared amenities become the social hub.
 
 Both properties handle group bookings regularly. They understand what both bachelorette and bachelor groups need and can advise on logistics.
 
@@ -216,5 +216,5 @@ Both properties handle group bookings regularly. They understand what both bache
 
 ## Book Your Party
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas, each up to 30 guests
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, villas up to 22, shared pool + hot tub
+- Castleday Retreats — Bywater, private villas, each up to 30 guests
+- The Syd — Lower Garden District, villas up to 22, shared pool + hot tub

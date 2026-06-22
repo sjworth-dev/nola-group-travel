@@ -251,9 +251,9 @@ New Orleans drinking is surprisingly affordable if you don't drink at tourist ba
 
 The budget math only works if you use it. Here's where 20+ people get the per-person rate down to something workable.
 
-**[Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Three private villas in the Bywater, each sleeping up to 30 guests. The per-person cost at 20–30 guests brings accommodation into range for budget travelers. Private pools, full kitchens (cook 2–3 meals at home; that alone saves $50+ per person), and the Bywater location puts Frenchmen Street within walking distance. No Uber needed for your music nights.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The per-person cost at 20–30 guests brings accommodation into range for budget travelers. Private pools, full kitchens (cook 2–3 meals at home; that alone saves $50+ per person), and the Bywater location puts Frenchmen Street within walking distance. No Uber needed for your music nights.
 
-**[The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites)** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar — $1.25 per ride covers all your Garden District runs instead of Uber. Artist-designed interiors that make the villa itself a destination.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar — $1.25 per ride covers all your Garden District runs instead of Uber. Artist-designed interiors that make the villa itself a destination.
 
 The kitchen access at both properties is not incidental to the budget strategy. It's central to it.
 
@@ -261,5 +261,5 @@ The kitchen access at both properties is not incidental to the budget strategy. 
 
 ## Book Your Budget Group Trip
 
-- [Castleday Retreats](https://castledayretreats.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Bywater, private villas up to 30 guests, full kitchen, walking distance to Frenchmen Street
-- [The Syd](https://thesyd.com?utm_source=nolagrouptravel.com&utm_medium=referral&utm_campaign=group-microsites) — Lower Garden District, up to 22 guests per villa, outdoor kitchen, streetcar access
+- Castleday Retreats — Bywater, private villas up to 30 guests, full kitchen, walking distance to Frenchmen Street
+- The Syd — Lower Garden District, up to 22 guests per villa, outdoor kitchen, streetcar access
