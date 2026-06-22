@@ -99,16 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-new-years-villa-guide.md` — New Year's Eve at a NOLA villa: the case for staying in vs. going out, the midnight balcony moment, batch cocktail countdowns, fireworks viewing from Bywater rooftops and the levee, and why NYE is one of NOLA's most underrated group trip dates
-- `_guides/nola-group-corporate-awards-night-guide.md` — Villa awards night for corporate retreats: recognition ceremony formats, trophy logistics, toasting structure, NOLA-themed award names, catering vs. cook-in, and how to make a group recognition event feel genuinely memorable rather than obligatory
-- `_guides/nola-group-wellness-morning-guide.md` — Structured wellness morning for villa groups: yoga on the lawn, group meditation, cold plunge vs. pool, smoothie bar setup, the recovery science behind a slow active morning, and how to sell a 7am wellness session to a group that was out until 2am
-- `_guides/nola-group-photography-session-guide.md` — Group photo session planning: the NOLA backdrops that actually photograph well, golden hour timing by season, how to coordinate 20 people for shots without losing 45 minutes, getting-ready shots at the villa, and the one phone-holder rotation system that works
-- `_guides/nola-group-vinyl-record-hunting-guide.md` — Crate digging and vinyl record hunting for large groups in New Orleans: the neighborhoods with the best record stores, how to structure a group dig without everyone buying the same five records, and why a record crawl makes an unexpectedly great group afternoon activity
+- `_guides/nola-group-villa-morning-market-run-guide.md` — The group morning market run: who goes, what to buy, how to source a villa breakfast for 20 from the Crescent City Farmers Market or Rouses before anyone else is awake, and the logistics of turning a grocery run into a bonding activity rather than a chore
+- `_guides/nola-group-live-music-tipping-protocol-guide.md` — How to tip musicians, brass bands, second line performers, and club staff as a large group: the per-song model, the collective tip hat, when to tip the whole band vs. individual players, and what the musicians actually want from a group of 20 tourists
+- `_guides/nola-group-saint-josephs-day-guide.md` — St. Joseph's Day and Super Sunday guide for large groups: the Mardi Gras Indian processions on Super Sunday, neighborhood altars on March 19, what to wear, where to be, and how to engage respectfully as an out-of-town group with these living traditions
+- `_guides/nola-group-villa-karaoke-night-guide.md` — Villa karaoke night for groups of 15-30: speaker and mic setup, song rotation system, NOLA-themed song bracket, avoiding the five people who dominate the queue, and how to transition karaoke into an actual going-out night if the group has energy left
+- `_guides/nola-group-new-orleans-cemetery-picnic-guide.md` — Lafayette Cemetery picnic and garden social for large groups: what Lafayette Cemetery actually allows, the Garden District morning walk that pairs with it, where to source the picnic from Magazine Street, and the right framing for groups who want something between a cemetery tour and a park day
 
 ---
 
 ## Done
 
+- 2026-06-22 — `_guides/nola-group-new-years-villa-guide.md`
+- 2026-06-22 — `_guides/nola-group-corporate-awards-night-guide.md`
+- 2026-06-22 — `_guides/nola-group-wellness-morning-guide.md`
+- 2026-06-22 — `_guides/nola-group-photography-session-guide.md`
+- 2026-06-22 — `_guides/nola-group-vinyl-record-hunting-guide.md`
 - 2026-06-22 — `_guides/nola-group-day-two-slump-guide.md`
 - 2026-06-22 — `_guides/nola-group-villa-thanksgiving-guide.md`
 - 2026-06-22 — `_guides/nola-group-foodie-itinerary-guide.md`
@@ -598,6 +603,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-22 12:10 UTC — content: add _guides/nola-group-foodie-itinerary-guide.md — food-focused 3-day group itinerary for NOLA
 2026-06-22 12:15 UTC — content: add _guides/nola-group-villa-cocktail-competition-guide.md — villa cocktail competition for groups of 15-30
 2026-06-22 12:20 UTC — content: add _guides/nola-group-bachelorette-vip-night-guide.md — VIP bachelorette night reality check for groups of 10-25
+2026-06-22 13:00 UTC — content: add _guides/nola-group-new-years-villa-guide.md — NYE at a NOLA villa: staying in vs. going out, midnight balcony moment, batch cocktail countdowns, levee fireworks, and why NYE is one of NOLA's most underrated group trip dates
+2026-06-22 13:10 UTC — content: add _guides/nola-group-corporate-awards-night-guide.md — villa awards night for corporate retreats: ceremony formats, NOLA-themed award names, toasting structure, catering vs. cook-in, and making recognition feel genuinely memorable
+2026-06-22 13:20 UTC — content: add _guides/nola-group-wellness-morning-guide.md — structured wellness morning for villa groups: yoga on the lawn, cold plunge, smoothie bar setup, recovery science, and how to sell a 7am session to a group that was out until 2am
+2026-06-22 13:30 UTC — content: add _guides/nola-group-photography-session-guide.md — group photo session planning: NOLA backdrops that photograph well, golden hour by season, coordinating 20 people for shots, getting-ready shots at the villa, phone-holder rotation system
+2026-06-22 13:40 UTC — content: add _guides/nola-group-vinyl-record-hunting-guide.md — crate digging and vinyl record hunting for large groups: neighborhoods with best stores, group crawl structure, and why a record dig makes an unexpectedly great group afternoon
 2026-06-21 01:40 UTC — content: add _guides/nola-group-noise-neighbors-villa-guide.md — villa noise and the social contract in Bywater and the LGD: the 10pm outdoor transition, NOLA ordinance reality, and managing group members who don't self-regulate
 2026-06-20 15:15 UTC — content: add _guides/nola-group-rainy-day-comeback-guide.md — rainy day comeback plan for groups of 15-30: NOLA rain patterns, indoor alternatives by neighborhood, villa-as-activity pivot, evening comeback structure
 2026-06-18 13:00 UTC — content: add _guides/nola-group-cocktail-party-hosting-guide.md — villa cocktail party for 30+: batch cocktails, canapé sourcing, courtyard setup, 3-hour party structure, and merging sub-groups
