@@ -99,16 +99,21 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 
 ## Up Next
 
-- `_guides/nola-group-day-two-slump-guide.md` — Managing the mid-trip energy dip: why day two and three of a NOLA group trip often have the most friction, how to read the group's energy, and the programmatic vs. spontaneous balance that keeps everyone engaged
-- `_guides/nola-group-villa-thanksgiving-guide.md` — Large group Thanksgiving in a NOLA villa: the case for spending Thanksgiving in New Orleans instead of flying home, NOLA holiday food traditions, cooking for 20-30 guests, and why late November in New Orleans is exceptional
-- `_guides/nola-group-foodie-itinerary-guide.md` — Food-focused 3-day group trip itinerary: restaurant prioritization strategy, market mornings, villa cooking night, private chef dinner, and how to build a trip where eating is the primary activity without burning out
-- `_guides/nola-group-villa-cocktail-competition-guide.md` — Villa cocktail competition for groups of 15-30: NOLA classics vs. originals format, judging criteria, prizes, batch cocktail infrastructure, and why this is the best single evening activity for corporate groups and bachelorette parties alike
-- `_guides/nola-group-bachelorette-vip-night-guide.md` — VIP treatment for bachelorette groups in New Orleans: what "VIP" actually means vs. the marketing reality, private table vs. guest list comparison, where the upgrade money is actually worth spending, and what impresses vs. what disappoints
+- `_guides/nola-group-new-years-villa-guide.md` — New Year's Eve at a NOLA villa: the case for staying in vs. going out, the midnight balcony moment, batch cocktail countdowns, fireworks viewing from Bywater rooftops and the levee, and why NYE is one of NOLA's most underrated group trip dates
+- `_guides/nola-group-corporate-awards-night-guide.md` — Villa awards night for corporate retreats: recognition ceremony formats, trophy logistics, toasting structure, NOLA-themed award names, catering vs. cook-in, and how to make a group recognition event feel genuinely memorable rather than obligatory
+- `_guides/nola-group-wellness-morning-guide.md` — Structured wellness morning for villa groups: yoga on the lawn, group meditation, cold plunge vs. pool, smoothie bar setup, the recovery science behind a slow active morning, and how to sell a 7am wellness session to a group that was out until 2am
+- `_guides/nola-group-photography-session-guide.md` — Group photo session planning: the NOLA backdrops that actually photograph well, golden hour timing by season, how to coordinate 20 people for shots without losing 45 minutes, getting-ready shots at the villa, and the one phone-holder rotation system that works
+- `_guides/nola-group-vinyl-record-hunting-guide.md` — Crate digging and vinyl record hunting for large groups in New Orleans: the neighborhoods with the best record stores, how to structure a group dig without everyone buying the same five records, and why a record crawl makes an unexpectedly great group afternoon activity
 
 ---
 
 ## Done
 
+- 2026-06-22 — `_guides/nola-group-day-two-slump-guide.md`
+- 2026-06-22 — `_guides/nola-group-villa-thanksgiving-guide.md`
+- 2026-06-22 — `_guides/nola-group-foodie-itinerary-guide.md`
+- 2026-06-22 — `_guides/nola-group-villa-cocktail-competition-guide.md`
+- 2026-06-22 — `_guides/nola-group-bachelorette-vip-night-guide.md`
 - 2026-06-21 — `_guides/nola-group-outdoor-festival-heat-management.md`
 - 2026-06-21 — `_guides/nola-group-themed-villa-dinner-night-guide.md`
 - 2026-06-21 — `_guides/nola-group-departure-day-guide.md`
@@ -588,6 +593,11 @@ New guides go in `_guides/<slug>.md`. New neighborhood pages go in `_neighborhoo
 2026-06-21 01:10 UTC — content: add _guides/nola-group-themed-villa-dinner-night-guide.md — themed NOLA dinner nights at the villa: gumbo cook-off, oyster roast, crawfish night, shrimp boil — sourcing, setup, execution for groups of 15-30
 2026-06-21 01:20 UTC — content: add _guides/nola-group-departure-day-guide.md — departure day for groups with different flight windows: baggage logistics, staggered checkouts, the bridge window strategy, and MSY airport timing
 2026-06-21 01:30 UTC — content: add _guides/nola-group-money-management-guide.md — Splitwise logistics, cash float system, who fronts what, when to settle, and how to handle the person who never Venmos back
+2026-06-22 12:00 UTC — content: add _guides/nola-group-day-two-slump-guide.md — managing the mid-trip energy dip for groups of 10-30
+2026-06-22 12:05 UTC — content: add _guides/nola-group-villa-thanksgiving-guide.md — large group Thanksgiving in a NOLA villa guide
+2026-06-22 12:10 UTC — content: add _guides/nola-group-foodie-itinerary-guide.md — food-focused 3-day group itinerary for NOLA
+2026-06-22 12:15 UTC — content: add _guides/nola-group-villa-cocktail-competition-guide.md — villa cocktail competition for groups of 15-30
+2026-06-22 12:20 UTC — content: add _guides/nola-group-bachelorette-vip-night-guide.md — VIP bachelorette night reality check for groups of 10-25
 2026-06-21 01:40 UTC — content: add _guides/nola-group-noise-neighbors-villa-guide.md — villa noise and the social contract in Bywater and the LGD: the 10pm outdoor transition, NOLA ordinance reality, and managing group members who don't self-regulate
 2026-06-20 15:15 UTC — content: add _guides/nola-group-rainy-day-comeback-guide.md — rainy day comeback plan for groups of 15-30: NOLA rain patterns, indoor alternatives by neighborhood, villa-as-activity pivot, evening comeback structure
 2026-06-18 13:00 UTC — content: add _guides/nola-group-cocktail-party-hosting-guide.md — villa cocktail party for 30+: batch cocktails, canapé sourcing, courtyard setup, 3-hour party structure, and merging sub-groups
