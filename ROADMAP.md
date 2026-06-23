@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-villa-movie-night-guide.md` — Outdoor movie night at the villa for groups of 15-30: projector and screen setup, NOLA film list (Treme, A Love Song for Bobby Long, Bad Lieutenant, Beasts of the Southern Wild), the pizza-or-popcorn sourcing question, and transitioning from movie night to a late bar run for whoever still has energy
-- `_guides/nola-group-new-orleans-wedding-anniversary-guide.md` — Celebrating a milestone wedding anniversary as a large group in NOLA: private second line through the French Quarter, dinner at a historically significant restaurant, the toasting structure that works for 25 people, and why New Orleans is the right city for this
-- `_guides/nola-group-jazz-fest-camping-alternative-guide.md` — The Jazz Fest camping vs. villa question: what the campgrounds actually look like, what a Bywater or Marigny villa gives you instead, the transport comparison, and the case for using a private villa as Jazz Fest base camp with a commute
-- `_guides/nola-group-portrait-session-bywater-guide.md` — The Bywater as a backdrop for a group portrait session: the murals, the shotgun house blocks, the golden hour timing, what to wear so 20 people don't clash with the palette, and the cost comparison between hiring a local NOLA photographer vs. a national service
-- `_guides/nola-group-voodoo-history-culture-guide.md` — Voodoo and rootwork in New Orleans: what it actually is vs. what the tourist shops sell, the serious cultural and religious tradition behind it, where to engage respectfully (museums, cultural organizations), and how to present this morning to a group that ranges from curious to skeptical
+- `_guides/nola-group-french-quarter-jazz-club-late-night-guide.md` — The late-night French Quarter jazz club circuit for groups of 15-30: Preservation Hall last set strategy, Bourbon Street jazz vs. Frenchmen Street authenticity, which clubs handle large groups gracefully, and the 11pm-2am structure that actually works
+- `_guides/nola-group-red-beans-and-rice-monday-guide.md` — Monday red beans and rice culture in New Orleans: why Monday, the tradition behind it, how to make a proper pot for 20 people at the villa, sourcing dried beans and andouille, and the restaurants where groups can experience the real thing
+- `_guides/nola-group-essence-festival-base-camp-guide.md` — Using a private villa as Essence Fest base camp: shuttle and rideshare logistics from Bywater and Lower Garden District, midday return strategy, evening pre-game structure, and how the villa solves the hotel-block coordination problem for groups of 15-30
+- `_guides/nola-group-mardi-gras-day-guide.md` — Mardi Gras Day (Fat Tuesday) for large groups: the Zulu parade route, the Rex parade timing, navigating the streets with 20 people, the St. Charles neutral ground strategy, and what happens at midnight when the city goes quiet
+- `_guides/nola-group-villa-cocktail-hour-upgrade-guide.md` — Upgrading the villa happy hour from "drinks in the kitchen" to an actual event: a bartender hire vs. self-serve comparison, the batch cocktail formats that look expensive but aren't, light bites that don't require cooking, and the 90-minute structure that makes the villa feel like a destination rather than a staging area
 
 ---
 
 ## Done
 
+- 2026-06-23 — `_guides/nola-group-villa-movie-night-guide.md`
+- 2026-06-23 — `_guides/nola-group-new-orleans-wedding-anniversary-guide.md`
+- 2026-06-23 — `_guides/nola-group-jazz-fest-camping-alternative-guide.md`
+- 2026-06-23 — `_guides/nola-group-portrait-session-bywater-guide.md`
+- 2026-06-23 — `_guides/nola-group-voodoo-history-culture-guide.md`
 - 2026-06-23 — `_guides/nola-group-villa-morning-market-run-guide.md`
 - 2026-06-23 — `_guides/nola-group-live-music-tipping-protocol-guide.md`
 - 2026-06-23 — `_guides/nola-group-saint-josephs-day-guide.md`
@@ -613,4 +618,9 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-18 10:30 UTC — content: add _guides/nola-group-historic-bar-guide.md — Oldest bars in NOLA group guide: Lafitte's, Old Absinthe House, Napoleon House, Carousel Bar, Tujague's with two route structures and group logistics
 2026-06-18 10:45 UTC — content: add _guides/nola-group-hotel-pool-day-guide.md — Honest hotel pool day pass guide for large groups with cost comparison table vs villa private pool
 2026-06-18 11:00 UTC — content: add _guides/nola-group-night-before-departure-guide.md — Departure morning guide for villa groups: coffee logistics, cleanup structure, leftover decisions, slow goodbye, and last group photo
+2026-06-23 11:15 UTC — content: add _guides/nola-group-villa-movie-night-guide.md — outdoor movie night for groups of 15-30: projector setup, NOLA film list, pizza vs. popcorn, and transitioning to a late bar run
+2026-06-23 11:30 UTC — content: add _guides/nola-group-new-orleans-wedding-anniversary-guide.md — milestone anniversary as a large group: private second line, anniversary dinner, toast structure for 25 people, and why NOLA is the right city
+2026-06-23 11:45 UTC — content: add _guides/nola-group-jazz-fest-camping-alternative-guide.md — Jazz Fest camping vs. villa: what campgrounds actually look like, villa advantages, transport comparison, base camp strategy
+2026-06-23 12:00 UTC — content: add _guides/nola-group-portrait-session-bywater-guide.md — Bywater group portrait session: mural backdrops, golden hour by season, color coordination for 20 people, local vs. national photographer comparison
+2026-06-23 12:15 UTC — content: add _guides/nola-group-voodoo-history-culture-guide.md — Voodoo and rootwork in NOLA: the real tradition vs. tourist shops, where to engage respectfully, presenting this to a mixed group
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
