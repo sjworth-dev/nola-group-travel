@@ -49,6 +49,15 @@ Wireless speakers that pair in stereo mode (many JBL and Sony portable options d
 
 **Power and cables:** Run your extension cord before dark. Every outdoor movie setup has a moment where someone realizes the projector is 40 feet from the nearest exterior outlet. Solve that before the group is seated and watching you crawl behind a potted plant.
 
+**Connectivity and streaming:** Confirm how you are getting the film to the projector before the day of the event. Options in order of reliability:
+
+- Downloaded file on a laptop, HDMI to projector — most reliable, no dependency on wifi
+- Streaming service (Netflix, Max, Amazon) via laptop HDMI — reliable if the villa wifi is stable; have a backup download ready
+- Phone screen mirroring via adapter or Chromecast — works but introduces more failure points than a laptop
+- USB drive directly to a projector with a media player — works well if your projector supports this format
+
+Villa wifi is often adequate for streaming but not always adequate for streaming to 25 people who are simultaneously on their phones. If you are streaming, either ask your group to stay off wifi during the film or download the film in advance. A buffering pause at the 90-minute mark of Beasts of the Southern Wild is not acceptable.
+
 ---
 
 ## Picking the Right Space
@@ -87,6 +96,12 @@ This is not a comprehensive survey. These are the films that work for a group wa
 **On Bad Lieutenant:** Know your group before you program this one. It is violent, strange, and genuinely funny in ways that depend on understanding why it is absurd. Not a film for groups with low chaos tolerance. Very much a film for groups who want to spend the following 45 minutes talking about what they just watched.
 
 **On Beasts of the Southern Wild:** The shortest film on this list with the longest emotional aftertaste. Groups that respond to this film will want to talk afterward. It is not a light-night film. Program it earlier in the trip if you are using it, when people are not carrying a week of accumulated decisions and fatigue.
+
+**On A Love Song for Bobby Long:** This film is underrated and rarely lands on NOLA lists because it is not spectacular in the way Bad Lieutenant is spectacular. It is quiet, Southern, and genuinely located — the Garden District and the riverfront appear as working-class neighborhoods rather than tourist destinations, which is disorienting in the best way for visitors who have spent time on Bourbon Street. The film works for groups that read, that like character-driven drama, that are willing to sit with something slow. It does not work as a film for a restless group that needs plot.
+
+**On The Big Easy:** The French Quarter in this film looks nothing like the French Quarter now, and that gap is itself interesting if your group has been walking around the neighborhood. Worth watching just for the contrast. The music is accurate. Dennis Quaid's accent is not. Both facts are part of the experience.
+
+**Programming note:** One film per movie night. The groups that plan a double feature almost never complete the double feature. Plan one film, plan a complete evening around it, and let the second film be a hypothetical for the trip that never happened.
 
 ---
 
@@ -129,6 +144,10 @@ The logistics of 20-30 people watching a film together are not complicated. They
 
 Do not seat people at side angles to the screen. Side-angle seating produces disengagement faster than any other configuration — the person in the off-axis chair is uncomfortable, half-watching, and the first to start a side conversation.
 
+**Furniture logistics:** Villa outdoor furniture is not designed for an audience orientation. The chaise lounges, wrought iron chairs, and bistro tables that make a courtyard look good are designed for socializing — scattered groups, various directions, close quarters. For a movie night you are reconfiguring them into a theater orientation, and this takes 15 minutes if you start before the group assembles. Do not try to rearrange furniture with 25 people standing around and watching. Set the seating configuration before anyone is expecting to sit in it.
+
+**Blankets and cushion logistics:** NOLA evenings in fall and early spring drop into the 60s. People who are cold check out of a film faster than people who are comfortable. Have a stack of blankets accessible — not hidden in a closet people have to ask about, but visible and available. Pool towels work fine as lap blankets if the villa has enough of them.
+
 **Phones:** Set a norm before the film starts, not during it. "We're keeping phones face-down — put them on do-not-disturb for the next two hours" said once, warmly, before the film starts, is usually sufficient. Said in the middle of the film when someone's brightness is already bothering people, it becomes a conflict. The window to establish norms is before the film starts, not after.
 
 You will not achieve 100% phone compliance with a group of 25 people. You do not need to. You need the phones that are being used to be face-down, brightness off, not disrupting the people around them.
@@ -138,6 +157,10 @@ You will not achieve 100% phone compliance with a group of 25 people. You do not
 **The bathroom intermission:** For films over 100 minutes, announce a 10-minute break at the logical midpoint. Nobody breaks for the bathroom in the middle of a film they are genuinely watching if there is a sanctioned break coming. Without the announced break, bathroom departures happen randomly, often at the wrong moment, and occasionally cascade into multiple people leaving at once.
 
 **Side conversations:** Some level of group commentary during a film is acceptable and even part of the villa movie experience. Constant commentary that talks over dialogue is not. Establish a basic norm — "we're watching, not MST3K-ing this" — unless you have specifically programmed a film for the MST3K treatment (in which case Bad Lieutenant is the correct choice and everyone should be encouraged to participate).
+
+**The person who has seen it before:** Every group watching a well-known film has at least one person who has seen it and wants to comment on what is about to happen. Establish one rule before the film starts: no plot spoilers, no "watch what happens next," no advance commentary. Comments after the scene, fine. Comments before the scene, not fine. This rule is easy to enforce because it is obviously reasonable.
+
+**Seating for groups with very different heights or sight lines:** If you are using a low-profile screen setup — tripod screen at 5-6 feet — the back rows will not be able to see over the front rows if the front rows are in tall chairs. Either stagger the heights intentionally (tall chairs in back, low seating in front) or elevate the screen. A tripod screen at maximum extension, combined with front-row seating on blankets or low chairs, solves the sight line problem for 25 people.
 
 ---
 
@@ -154,6 +177,8 @@ The outdoor movie night has a natural structure for the two-track end: the film 
 The failure mode here is the 20-minute group decision about where to go. Kill this in advance. Identify one bar before the film starts and announce it as the plan: "If people want to go out after the movie, we're going to [specific bar]." Anyone who wants to go knows where they are going. Anyone who doesn't want to go doesn't need to participate in the decision.
 
 Frenchmen Street from a Bywater villa is a 10-15 minute walk and has the highest concentration of live music per block of any street in the country on any given night. The St. Charles Streetcar from the Lower Garden District connects the group to the French Quarter or Uptown in 20 minutes for under two dollars per person. Neither of these requires a rideshare convoy.
+
+**Drinks before departure:** The group heading out does not need to pre-drink heavily — they have been sitting and watching a film for two hours, which is its own form of pacing. One drink at the villa, assembled while the going-out group confirms the plan, and then leave. The bar will have drinks. The momentum from the film is the asset, not the BAC.
 
 The group that goes out does not need to be large. Five people who want to go to one live music bar is a better bar night than fifteen people who half-want to go and are negotiating about it until midnight. The two-track end works because it removes pressure from the track-two participants to recruit and removes pressure from the track-one participants to justify their departure. Everyone has a clear path. No one has to convince anyone.
 
