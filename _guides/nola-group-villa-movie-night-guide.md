@@ -74,6 +74,10 @@ The advantage of the pool area is space. Pool decks hold 30 people comfortably w
 
 **The gallery or upper porch:** If the villa has a second-floor gallery or covered porch with sightlines to a lower wall or courtyard, this is worth considering as the projection surface location even if the audience sits below. Less common, but the elevation difference gives the screen height that makes a large image work at reasonable projection distances.
 
+**What to avoid:** Spaces with significant light pollution directly behind the screen. Streetlights or illuminated signage behind the projection surface will destroy contrast and make the image appear washed out. If the best available wall faces a lit street, orient the setup the other way and find a different surface, or hang a dark cloth to block the ambient light source. Projector images work by contrast — the ambient light you cannot eliminate sets the floor on how good the image can look.
+
+**Indoor as backup:** Always have the indoor option ready. NOLA weather — especially from June through October — can change quickly. A passing shower at 8pm does not have to end the evening if the living room can be configured as a secondary screening space. The image quality is better indoors. The experience is different. Having the option ready means a brief rain delay does not become a full cancellation.
+
 ---
 
 ## The NOLA Film List
@@ -183,6 +187,10 @@ Frenchmen Street from a Bywater villa is a 10-15 minute walk and has the highest
 The group that goes out does not need to be large. Five people who want to go to one live music bar is a better bar night than fifteen people who half-want to go and are negotiating about it until midnight. The two-track end works because it removes pressure from the track-two participants to recruit and removes pressure from the track-one participants to justify their departure. Everyone has a clear path. No one has to convince anyone.
 
 Give the going-out group a loose return time. "Last call is 2am, plan accordingly." This is not a curfew — it is a coordination tool that tells people how long the night has the potential to be.
+
+**The staying-in track is not a consolation prize.** Make the villa end-of-night feel intentional for the people who are staying. Pool lights on after the film ends. Music on the speaker at a level that is social but not demanding. The popcorn station repurposed as a snack situation for the late-night pool crowd. People who opt out of going to bars are not failing at New Orleans. They are having a different part of the trip, and the villa should enable it rather than just being the place people land when they do not want to go out.
+
+**Ride logistics for the going-out group:** If the bar destination requires a rideshare, coordinate the departure so one group orders vehicles together rather than five separate rides ordered individually. A group of eight fits in two large vehicles. Eight individually-ordered rides means eight different pickup points, eight different wait times, and half the group arriving 15 minutes behind the other half. Book as a group.
 
 ---
 
