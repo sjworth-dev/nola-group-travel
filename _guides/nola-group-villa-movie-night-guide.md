@@ -140,6 +140,32 @@ Do both if there is any ambiguity. Pizza before the film, popcorn during. This c
 
 ---
 
+## The Pre-Film Window
+
+The 30 minutes before the film starts is when movie nights succeed or fail. Everything that makes the actual screening go well — the seating, the food, the expectations, the equipment — has to be in place before the first frame. That window is not the time to still be troubleshooting the projector or deciding what to order for food.
+
+Here is a workable sequence for an 8:30pm film start:
+
+**5:00pm** — Confirm the film. If you have not done this already, it needs to happen at least three hours before the screening. Verify it is available on the platform you plan to use, or that the download is complete.
+
+**6:00pm** — Place the pizza order if pizza is the food call. For delivery to a villa in a residential neighborhood, plan for a 60-90 minute window. 6pm order for a 7:30pm delivery, film at 8:30pm.
+
+**7:00pm** — Set up the projector and run the equipment test. Image, audio, and connectivity. Find any problems now while there is an hour to solve them.
+
+**7:30pm** — Arrange seating. Move the furniture before anyone is trying to sit in it. Front zone, back zone, no side-angle positions.
+
+**8:00pm** — Set up the food and drinks. Popcorn station assembled, drinks out, extra napkins, trash bags accessible. The setup should look finished before the group arrives at it.
+
+**8:15pm** — Announce the start time to the group: "Movie starts at 8:30, find a spot." Give people a 15-minute window to use the bathroom, get their drinks, and get settled.
+
+**8:25pm** — Do a quick audio and image check with the actual content loaded, not just the home screen of the projector. The volume level that felt appropriate when you were alone may be wrong with 25 people sitting in the space absorbing sound.
+
+**8:30pm** — Start the film. Not 8:35. Not "when everyone is settled." 8:30.
+
+Groups that watch you troubleshoot the setup for 20 minutes while they wait are a harder audience than groups that arrive to a setup that is already working. The invisible labor is what makes the evening feel effortless.
+
+---
+
 ## Managing 20 People Through a Movie
 
 The logistics of 20-30 people watching a film together are not complicated. They are also not automatic. The difference between a movie night that holds the group and one that fragments into a scatter of people wandering off is mostly about seating and expectations set before the film starts.
@@ -210,6 +236,10 @@ Give the going-out group a loose return time. "Last call is 2am, plan accordingl
 
 7. **Let the film do the work.** The host's job for a movie night is setup and logistics, not entertainment. Once the film starts, stop optimizing and watch the movie. A host who is visibly monitoring the group's enjoyment of the film is a distraction. Trust the programming.
 
+8. **Have a post-film debrief drink.** The 20-30 minutes after a good film ends is some of the best conversation a group will have on the trip. The film gives everyone a shared reference point. Have the drinks ready and let the conversation happen. This period is valuable; do not rush people out of it or into the next activity before they have processed what they just watched.
+
+9. **Protect the equipment from the environment.** NOLA humidity is not a projector's friend. Keep the projector and speaker off direct dew surfaces, keep cables from running through puddles or pooled condensation, and when the evening ends, bring the equipment inside rather than leaving it outside overnight. A projector left out in a humid NOLA courtyard overnight will have condensation issues.
+
 ---
 
 ## Large Group Accommodation
@@ -222,7 +252,11 @@ Three private villas in the Bywater — The Herald, The Cocodrie, and The Floren
 
 The private courtyard and pool areas at Castleday's villas work naturally as outdoor movie venues. The enclosed courtyard provides the acoustic containment that outdoor movie setups need — sound does not bleed to the street the way it does from a more exposed deck. The pool area provides enough square footage for 25-30 people to sit with actual sightlines to a projection surface.
 
-The Bywater location is relevant for the going-out track. Frenchmen Street's live music corridor is close enough to reach on foot, and the St. Claude Arts District bars are accessible without a rideshare. Groups that finish a movie night and want to keep going have genuine options within walking distance. 4.98 average rating across 99 reviews.
+The outdoor kitchen and gathering areas mean the villa can produce a full evening sequence: dinner at the villa, movie night in the courtyard, late-night pool for whoever stays, and a short walk to Frenchmen Street for whoever still has energy. All of that happens without a single rideshare.
+
+The Bywater is also the neighborhood that Treme spent three seasons depicting in detail. Watching Treme from a Bywater villa is the most location-specific version of this film list — the neighborhood you are in, on screen, from a courtyard within walking distance of the streets shown. That has a resonance that is specific to these villas and this neighborhood.
+
+4.98 average rating across 99 reviews.
 
 ### The Syd
 
@@ -230,7 +264,29 @@ Multiple villas in the Lower Garden District, accommodating up to 22 guests per 
 
 The outdoor kitchen and pool area at The Syd can be configured as a movie setup — the kitchen structure provides a natural screen-end boundary, the pool deck provides audience space, and the shared amenities mean the group has options before and after the film without leaving the property. The sauna and hot tub are available for the contingent that is not going out.
 
+The shared amenities at The Syd create a specific dynamic for the staying-in track: the group that opts out of the bar run has a heated pool, a sauna, and outdoor kitchen access. That is not a consolation; it is a legitimate competing option that makes the two-track end of night an actual choice between two good things rather than a choice between going out and sitting in a living room.
+
 For the going-out track, the St. Charles Streetcar is one block away — a 20-minute ride to the French Quarter for well under two dollars, no rideshare coordination required. This is one of the cleanest post-movie bar transitions available in New Orleans: the film ends, the group splits, five people are on the streetcar within 20 minutes.
+
+---
+
+## What Goes Wrong (And How to Avoid It)
+
+Most outdoor movie nights that fail do so in predictable ways. These are the common failure modes and the prevention for each.
+
+**The projector image is too dim.** Prevention: lumen rating above 3,000, full equipment test at actual ambient light level before the group assembles. If you discover this problem after the film starts, the best solution is turning off any nearby light sources — the pool lights, the string lights, any interior lights visible through windows or doors facing the screen. Dim the environment before blaming the projector.
+
+**The audio cuts out or drops.** Bluetooth audio dropout happens when devices disconnect or interfere. Prevention: use a wired connection where possible, and if using Bluetooth, keep the source device close to the speaker and verify the connection before the group sits down. Have a backup — if the primary speaker fails, know what the backup option is. A phone playing audio directly at reasonable volume is a bad movie experience. Know this in advance and have a plan B.
+
+**The wifi is too slow for streaming.** Prevention: download the film before the evening begins. Rental villa wifi is a shared resource across however many guests are connected. A group of 25 people on the network simultaneously will slow any connection significantly. If you plan to stream, either coordinate everyone off wifi for the duration of the film or use a downloaded copy. Buffering is the version of this problem you discover at the worst possible moment.
+
+**The group cannot agree on a film.** Prevention: decide three days in advance, not the night of. Group film selection in real time with 25 people involved takes longer than the film itself and almost always ends in a compromise that nobody wanted. One person makes the call. Announce it in advance. If people have opinions, they can share them in the two days between the announcement and the screening; they do not get to relitigate it at 8pm.
+
+**People wander off before the film ends.** Prevention: shorter films over longer ones for large groups, announced intermission for films over 100 minutes, and a post-film event worth staying for — the debrief drink, the decision about going out, something that makes finishing the film the gateway to the next thing rather than the last event of the evening.
+
+**The sound is too loud for the neighbors.** NOLA residential neighborhoods are dense. The Bywater, the Lower Garden District, and the Garden District all have properties close enough that outdoor audio at high volume reaches adjacent houses. A reasonable movie-watching volume — loud enough for the back row to hear dialogue clearly — is well within what residential neighborhoods absorb without issue. The problem is the setup test at full volume or the people who keep cranking it. Set a volume that works for the back row and leave it there.
+
+**It rains.** This is not a failure; it is a weather event. If the film has not started, move inside. If the film has started and the rain is brief, pause and wait it out. If the rain is sustained, move inside — carry the projector, reconnect inside, and continue. A group of 25 people who have already been watching a film for an hour will continue watching it indoors. Outdoor movie night becomes indoor movie night. The film still works.
 
 ---
 
@@ -239,3 +295,7 @@ For the going-out track, the St. Charles Streetcar is one block away — a 20-mi
 [See where to stay for large groups →](/where-to-stay/)
 
 The outdoor movie night works because the villa gives you the space and the control that a bar or a rented event room cannot. You set the start time. You pick the film. You control the audio. You manage the end of the night in a way that works for people with different amounts of energy left. None of that is available anywhere else for a group this size.
+
+The equipment cost is minimal. The logistics are finite. And the film list, if you choose correctly, gives the group something to take with them — a shared experience, a specific image of New Orleans, a conversation that will come up again on the second day and the third and long after the trip ends.
+
+The right villa is the other half of the equation. The space makes or breaks this activity more than any other variable.
