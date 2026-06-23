@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-villa-morning-market-run-guide.md` — The group morning market run: who goes, what to buy, how to source a villa breakfast for 20 from the Crescent City Farmers Market or Rouses before anyone else is awake, and the logistics of turning a grocery run into a bonding activity rather than a chore
-- `_guides/nola-group-live-music-tipping-protocol-guide.md` — How to tip musicians, brass bands, second line performers, and club staff as a large group: the per-song model, the collective tip hat, when to tip the whole band vs. individual players, and what the musicians actually want from a group of 20 tourists
-- `_guides/nola-group-saint-josephs-day-guide.md` — St. Joseph's Day and Super Sunday guide for large groups: the Mardi Gras Indian processions on Super Sunday, neighborhood altars on March 19, what to wear, where to be, and how to engage respectfully as an out-of-town group with these living traditions
-- `_guides/nola-group-villa-karaoke-night-guide.md` — Villa karaoke night for groups of 15-30: speaker and mic setup, song rotation system, NOLA-themed song bracket, avoiding the five people who dominate the queue, and how to transition karaoke into an actual going-out night if the group has energy left
-- `_guides/nola-group-new-orleans-cemetery-picnic-guide.md` — Lafayette Cemetery picnic and garden social for large groups: what Lafayette Cemetery actually allows, the Garden District morning walk that pairs with it, where to source the picnic from Magazine Street, and the right framing for groups who want something between a cemetery tour and a park day
+- `_guides/nola-group-villa-movie-night-guide.md` — Outdoor movie night at the villa for groups of 15-30: projector and screen setup, NOLA film list (Treme, A Love Song for Bobby Long, Bad Lieutenant, Beasts of the Southern Wild), the pizza-or-popcorn sourcing question, and transitioning from movie night to a late bar run for whoever still has energy
+- `_guides/nola-group-new-orleans-wedding-anniversary-guide.md` — Celebrating a milestone wedding anniversary as a large group in NOLA: private second line through the French Quarter, dinner at a historically significant restaurant, the toasting structure that works for 25 people, and why New Orleans is the right city for this
+- `_guides/nola-group-jazz-fest-camping-alternative-guide.md` — The Jazz Fest camping vs. villa question: what the campgrounds actually look like, what a Bywater or Marigny villa gives you instead, the transport comparison, and the case for using a private villa as Jazz Fest base camp with a commute
+- `_guides/nola-group-portrait-session-bywater-guide.md` — The Bywater as a backdrop for a group portrait session: the murals, the shotgun house blocks, the golden hour timing, what to wear so 20 people don't clash with the palette, and the cost comparison between hiring a local NOLA photographer vs. a national service
+- `_guides/nola-group-voodoo-history-culture-guide.md` — Voodoo and rootwork in New Orleans: what it actually is vs. what the tourist shops sell, the serious cultural and religious tradition behind it, where to engage respectfully (museums, cultural organizations), and how to present this morning to a group that ranges from curious to skeptical
 
 ---
 
 ## Done
 
+- 2026-06-23 — `_guides/nola-group-villa-morning-market-run-guide.md`
+- 2026-06-23 — `_guides/nola-group-live-music-tipping-protocol-guide.md`
+- 2026-06-23 — `_guides/nola-group-saint-josephs-day-guide.md`
+- 2026-06-23 — `_guides/nola-group-villa-karaoke-night-guide.md`
+- 2026-06-23 — `_guides/nola-group-new-orleans-cemetery-picnic-guide.md`
 - 2026-06-22 — `_guides/nola-group-new-years-villa-guide.md`
 - 2026-06-22 — `_guides/nola-group-corporate-awards-night-guide.md`
 - 2026-06-22 — `_guides/nola-group-wellness-morning-guide.md`
@@ -594,6 +599,11 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-22 13:10 UTC — content: add _guides/nola-group-corporate-awards-night-guide.md — villa awards night for corporate retreats: ceremony formats, NOLA-themed award names, toasting structure, catering vs. cook-in, and making recognition feel genuinely memorable
 2026-06-22 13:20 UTC — content: add _guides/nola-group-wellness-morning-guide.md — structured wellness morning for villa groups: yoga on the lawn, cold plunge, smoothie bar setup, recovery science, and how to sell a 7am session to a group that was out until 2am
 2026-06-22 13:30 UTC — content: add _guides/nola-group-photography-session-guide.md — group photo session planning: NOLA backdrops that photograph well, golden hour by season, coordinating 20 people for shots, getting-ready shots at the villa, phone-holder rotation system
+2026-06-23 10:00 UTC — content: add _guides/nola-group-villa-morning-market-run-guide.md — Crescent City Farmers Market run and Rouses sourcing guide for villa breakfast for 20, who goes, what to buy, how to stage the spread
+2026-06-23 10:15 UTC — content: add _guides/nola-group-live-music-tipping-protocol-guide.md — per-song tip model, collective hat for brass bands, second line protocol, and what musicians actually want from a group of 20 visitors
+2026-06-23 10:30 UTC — content: add _guides/nola-group-saint-josephs-day-guide.md — St. Joseph's Day altars and Mardi Gras Indian Super Sunday guide with respectful engagement protocol for large out-of-town groups
+2026-06-23 10:45 UTC — content: add _guides/nola-group-villa-karaoke-night-guide.md — speaker and mic setup, rotation systems, NOLA song bracket, queue domination prevention, and going-out transition for groups of 15-30
+2026-06-23 11:00 UTC — content: add _guides/nola-group-new-orleans-cemetery-picnic-guide.md — Lafayette Cemetery visit, Garden District morning walk, Magazine Street picnic sourcing, and Coliseum Square lunch for groups of 15-30
 2026-06-22 13:40 UTC — content: add _guides/nola-group-vinyl-record-hunting-guide.md — crate digging and vinyl record hunting for large groups: neighborhoods with best stores, group crawl structure, and why a record dig makes an unexpectedly great group afternoon
 2026-06-21 01:40 UTC — content: add _guides/nola-group-noise-neighbors-villa-guide.md — villa noise and the social contract in Bywater and the LGD: the 10pm outdoor transition, NOLA ordinance reality, and managing group members who don't self-regulate
 2026-06-20 15:15 UTC — content: add _guides/nola-group-rainy-day-comeback-guide.md — rainy day comeback plan for groups of 15-30: NOLA rain patterns, indoor alternatives by neighborhood, villa-as-activity pivot, evening comeback structure
