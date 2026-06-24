@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-carnival-season-parade-calendar.md` — The full Mardi Gras parade season calendar (not just Fat Tuesday): which parades to prioritize across the two-week season, family-friendly vs. wild night parades, and how to structure a 3-day Mardi Gras trip around the calendar for groups of 15-30
-- `_guides/nola-group-villa-farewell-breakfast-guide.md` — The last-morning villa breakfast for groups of 15-30: who cooks, what to make (pain perdu, grillades and grits, or the simple route), how to slow the checkout morning down, and the group photo ritual before everyone disperses
-- `_guides/nola-group-oak-street-po-boy-festival-guide.md` — The Oak Street Po-Boy Festival for large groups: the block party format, vendor strategy, crowd navigation, and why this works better for groups than Jazz Fest for a first NOLA festival experience
-- `_guides/nola-group-bookshop-literary-tour-guide.md` — Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit for literary groups: route structure, author connections, and pairing with neighborhood bars and restaurants
-- `_guides/nola-group-mid-city-city-park-full-day-guide.md` — City Park full-day guide for large groups: NOMA, Sculpture Garden, Storyland, Carousel Gardens, Bayou St. John kayak launch, Popp's Bandstand, and the neighborhood restaurant corridor for a complete mid-city day without touching the tourist district
+- `_guides/nola-group-superdome-tailgate-guide.md` — Pre-game tailgate culture for groups attending events at Caesars Superdome: parking lot vs. nearby bar vs. villa pre-game structure, Saints-specific tailgate traditions, timing, and logistics for groups of 15-30
+- `_guides/nola-group-french-market-morning-guide.md` — Full French Market morning for large groups: the indoor market, the flea market, the produce corridor, Café Du Monde integration, and how to structure 3 hours in the Quarter's oldest public market for 15-25 people
+- `_guides/nola-group-bike-share-neighborhood-hop-guide.md` — Blue Bikes group rides for 10-20 people: station logistics, best cross-neighborhood routes, helmet culture, and pairing the bike share with neighborhood brunch or lunch stops
+- `_guides/nola-group-jazz-clubs-vs-music-bars-guide.md` — The difference between jazz clubs and music bars in New Orleans for groups: sit-down vs. stand-and-listen, cover charges vs. donation jars, reservation mechanics, and which format works for a group of 20 that doesn't want to split up
+- `_guides/nola-group-lake-pontchartrain-guide.md` — Lake Pontchartrain for large groups: the lakefront seawall at sunset, fishing off the pier, Pontchartrain Beach area, and the Bucktown seafood corridor as a full lakefront afternoon for groups of 15-30
 
 ---
 
 ## Done
 
+- 2026-06-24 — `_guides/nola-group-mid-city-city-park-full-day-guide.md`
+- 2026-06-24 — `_guides/nola-group-bookshop-literary-tour-guide.md`
+- 2026-06-24 — `_guides/nola-group-oak-street-po-boy-festival-guide.md`
+- 2026-06-24 — `_guides/nola-group-villa-farewell-breakfast-guide.md`
+- 2026-06-24 — `_guides/nola-group-carnival-season-parade-calendar.md`
 - 2026-06-24 — `_guides/nola-group-french-quarter-jazz-club-late-night-guide.md`
 - 2026-06-24 — `_guides/nola-group-red-beans-and-rice-monday-guide.md`
 - 2026-06-24 — `_guides/nola-group-essence-festival-base-camp-guide.md`
@@ -634,3 +639,8 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-24 10:30 UTC — content: add _guides/nola-group-essence-festival-base-camp-guide.md — private villa as Essence Fest base camp: transport logistics, midday return strategy, evening pre-game structure, hotel-block problem solved
 2026-06-24 10:45 UTC — content: add _guides/nola-group-mardi-gras-day-guide.md — Fat Tuesday for groups: Zulu and Rex routes, neutral ground strategy, moving 20 people through crowds, midnight transition guide
 2026-06-24 11:00 UTC — content: add _guides/nola-group-villa-cocktail-hour-upgrade-guide.md — bartender vs. self-serve comparison, 4 batch cocktail formats, three-station light bites, 90-minute structure for the best hour of the trip
+2026-06-24 12:00 UTC — content: add _guides/nola-group-carnival-season-parade-calendar.md — full two-week Mardi Gras parade season calendar, family-friendly vs. night parades, 3-day trip structure for groups of 15-30
+2026-06-24 12:15 UTC — content: add _guides/nola-group-villa-farewell-breakfast-guide.md — pain perdu, grillades and grits, and the simple route for the last morning with groups of 15-30, slow morning protocol, group photo ritual
+2026-06-24 12:30 UTC — content: add _guides/nola-group-oak-street-po-boy-festival-guide.md — Oak Street Po-Boy Festival block party format, vendor strategy, crowd navigation, and vs-Jazz-Fest comparison for first-time NOLA groups
+2026-06-24 12:45 UTC — content: add _guides/nola-group-bookshop-literary-tour-guide.md — Faulkner House Books, Crescent City Books, Garden District Book Shop circuit with author connections and neighborhood bar and restaurant pairings
+2026-06-24 13:00 UTC — content: add _guides/nola-group-mid-city-city-park-full-day-guide.md — City Park full-day guide with NOMA, Sculpture Garden, Bayou St. John kayaking, Popp's Bandstand, and Mid-City restaurant corridor for groups of 10-30
