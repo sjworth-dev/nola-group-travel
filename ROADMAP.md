@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-french-quarter-jazz-club-late-night-guide.md` — The late-night French Quarter jazz club circuit for groups of 15-30: Preservation Hall last set strategy, Bourbon Street jazz vs. Frenchmen Street authenticity, which clubs handle large groups gracefully, and the 11pm-2am structure that actually works
-- `_guides/nola-group-red-beans-and-rice-monday-guide.md` — Monday red beans and rice culture in New Orleans: why Monday, the tradition behind it, how to make a proper pot for 20 people at the villa, sourcing dried beans and andouille, and the restaurants where groups can experience the real thing
-- `_guides/nola-group-essence-festival-base-camp-guide.md` — Using a private villa as Essence Fest base camp: shuttle and rideshare logistics from Bywater and Lower Garden District, midday return strategy, evening pre-game structure, and how the villa solves the hotel-block coordination problem for groups of 15-30
-- `_guides/nola-group-mardi-gras-day-guide.md` — Mardi Gras Day (Fat Tuesday) for large groups: the Zulu parade route, the Rex parade timing, navigating the streets with 20 people, the St. Charles neutral ground strategy, and what happens at midnight when the city goes quiet
-- `_guides/nola-group-villa-cocktail-hour-upgrade-guide.md` — Upgrading the villa happy hour from "drinks in the kitchen" to an actual event: a bartender hire vs. self-serve comparison, the batch cocktail formats that look expensive but aren't, light bites that don't require cooking, and the 90-minute structure that makes the villa feel like a destination rather than a staging area
+- `_guides/nola-group-carnival-season-parade-calendar.md` — The full Mardi Gras parade season calendar (not just Fat Tuesday): which parades to prioritize across the two-week season, family-friendly vs. wild night parades, and how to structure a 3-day Mardi Gras trip around the calendar for groups of 15-30
+- `_guides/nola-group-villa-farewell-breakfast-guide.md` — The last-morning villa breakfast for groups of 15-30: who cooks, what to make (pain perdu, grillades and grits, or the simple route), how to slow the checkout morning down, and the group photo ritual before everyone disperses
+- `_guides/nola-group-oak-street-po-boy-festival-guide.md` — The Oak Street Po-Boy Festival for large groups: the block party format, vendor strategy, crowd navigation, and why this works better for groups than Jazz Fest for a first NOLA festival experience
+- `_guides/nola-group-bookshop-literary-tour-guide.md` — Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit for literary groups: route structure, author connections, and pairing with neighborhood bars and restaurants
+- `_guides/nola-group-mid-city-city-park-full-day-guide.md` — City Park full-day guide for large groups: NOMA, Sculpture Garden, Storyland, Carousel Gardens, Bayou St. John kayak launch, Popp's Bandstand, and the neighborhood restaurant corridor for a complete mid-city day without touching the tourist district
 
 ---
 
 ## Done
 
+- 2026-06-24 — `_guides/nola-group-french-quarter-jazz-club-late-night-guide.md`
+- 2026-06-24 — `_guides/nola-group-red-beans-and-rice-monday-guide.md`
+- 2026-06-24 — `_guides/nola-group-essence-festival-base-camp-guide.md`
+- 2026-06-24 — `_guides/nola-group-mardi-gras-day-guide.md`
+- 2026-06-24 — `_guides/nola-group-villa-cocktail-hour-upgrade-guide.md`
 - 2026-06-23 — `_guides/nola-group-villa-movie-night-guide.md`
 - 2026-06-23 — `_guides/nola-group-new-orleans-wedding-anniversary-guide.md`
 - 2026-06-23 — `_guides/nola-group-jazz-fest-camping-alternative-guide.md`
@@ -624,3 +629,8 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-23 12:00 UTC — content: add _guides/nola-group-portrait-session-bywater-guide.md — Bywater group portrait session: mural backdrops, golden hour by season, color coordination for 20 people, local vs. national photographer comparison
 2026-06-23 12:15 UTC — content: add _guides/nola-group-voodoo-history-culture-guide.md — Voodoo and rootwork in NOLA: the real tradition vs. tourist shops, where to engage respectfully, presenting this to a mixed group
 2026-06-12 02:50 UTC — seo+fix+assets (user-approved session, not the routine): added GA4 (G-2C43B728E6) to default layout; removed duplicate <title>/<meta description> (jekyll-seo-tag now sole emitter); default og:image via _config.yml defaults; UTM-tagged all 739 outbound Castleday/Syd links across 168 files; fixed 8 dead deep links (/corporate → /corporate-retreats, /bachelorette → /bachelorette-parties); added 8 real property photos to /assets/images/ + homepage photo hero; where-to-stay: property photos, 12BR/17-bed framing, 2 verified review quotes; events.md: marked passed 2026 events, added what's-ahead intro; updated Hard Rules (UTM format, valid deep slugs, photo inventory, verified facts).
+2026-06-24 10:00 UTC — content: add _guides/nola-group-french-quarter-jazz-club-late-night-guide.md — late-night jazz circuit for groups of 15-30: Preservation Hall last-set strategy, Bourbon vs. Frenchmen settled, which clubs handle large groups, 11pm-2am structure
+2026-06-24 10:15 UTC — content: add _guides/nola-group-red-beans-and-rice-monday-guide.md — Monday red beans tradition, villa cook-for-20 recipe with sourcing, andouille guide, restaurants for groups
+2026-06-24 10:30 UTC — content: add _guides/nola-group-essence-festival-base-camp-guide.md — private villa as Essence Fest base camp: transport logistics, midday return strategy, evening pre-game structure, hotel-block problem solved
+2026-06-24 10:45 UTC — content: add _guides/nola-group-mardi-gras-day-guide.md — Fat Tuesday for groups: Zulu and Rex routes, neutral ground strategy, moving 20 people through crowds, midnight transition guide
+2026-06-24 11:00 UTC — content: add _guides/nola-group-villa-cocktail-hour-upgrade-guide.md — bartender vs. self-serve comparison, 4 batch cocktail formats, three-station light bites, 90-minute structure for the best hour of the trip
