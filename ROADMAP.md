@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-superdome-tailgate-guide.md` — Pre-game tailgate culture for groups attending events at Caesars Superdome: parking lot vs. nearby bar vs. villa pre-game structure, Saints-specific tailgate traditions, timing, and logistics for groups of 15-30
-- `_guides/nola-group-french-market-morning-guide.md` — Full French Market morning for large groups: the indoor market, the flea market, the produce corridor, Café Du Monde integration, and how to structure 3 hours in the Quarter's oldest public market for 15-25 people
-- `_guides/nola-group-bike-share-neighborhood-hop-guide.md` — Blue Bikes group rides for 10-20 people: station logistics, best cross-neighborhood routes, helmet culture, and pairing the bike share with neighborhood brunch or lunch stops
-- `_guides/nola-group-jazz-clubs-vs-music-bars-guide.md` — The difference between jazz clubs and music bars in New Orleans for groups: sit-down vs. stand-and-listen, cover charges vs. donation jars, reservation mechanics, and which format works for a group of 20 that doesn't want to split up
-- `_guides/nola-group-lake-pontchartrain-guide.md` — Lake Pontchartrain for large groups: the lakefront seawall at sunset, fishing off the pier, Pontchartrain Beach area, and the Bucktown seafood corridor as a full lakefront afternoon for groups of 15-30
+- `_guides/nola-group-sazerac-house-distillery-tour-guide.md` — Sazerac House tour logistics, the craft distillery scene, and a full spirits history afternoon for groups of 15-25 with cocktail-making context and tasting room protocols
+- `_guides/nola-group-rooftop-brunch-guide.md` — The case for rooftop brunch over ground-level for groups of 15-25: which venues have rooftop or elevated access, reservation realities, and the Sunday morning structure that makes this the trip's best late start
+- `_guides/nola-group-treme-culture-immersion-guide.md` — Deep cultural immersion in the Tremé for groups of 10-20: Congo Square origins, Backstreet Cultural Museum deep dive, neighborhood eating, brass band encounter protocol, and respectful engagement framework for out-of-town visitors
+- `_guides/nola-group-coffee-shop-work-morning-guide.md` — The group work morning at a NOLA coffee shop for corporate retreats and remote teams: which neighborhoods have the right café infrastructure for 10-15 people, WiFi reality, capacity notes, and the work-then-walk transition to afternoon activities
+- `_guides/nola-group-sunday-second-line-chase-guide.md` — How to find and follow a neighborhood second line on Sunday: Social Aid and Pleasure Club parade logistics, real-time tracking, what to wear, where to stand in the crowd, tip culture, and the after-parade bar that the regulars go to
 
 ---
 
 ## Done
 
+- 2026-06-25 — `_guides/nola-group-superdome-tailgate-guide.md`
+- 2026-06-25 — `_guides/nola-group-french-market-morning-guide.md`
+- 2026-06-25 — `_guides/nola-group-bike-share-neighborhood-hop-guide.md`
+- 2026-06-25 — `_guides/nola-group-jazz-clubs-vs-music-bars-guide.md`
+- 2026-06-25 — `_guides/nola-group-lake-pontchartrain-guide.md`
 - 2026-06-24 — `_guides/nola-group-mid-city-city-park-full-day-guide.md`
 - 2026-06-24 — `_guides/nola-group-bookshop-literary-tour-guide.md`
 - 2026-06-24 — `_guides/nola-group-oak-street-po-boy-festival-guide.md`
@@ -643,4 +648,9 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-24 12:15 UTC — content: add _guides/nola-group-villa-farewell-breakfast-guide.md — pain perdu, grillades and grits, and the simple route for the last morning with groups of 15-30, slow morning protocol, group photo ritual
 2026-06-24 12:30 UTC — content: add _guides/nola-group-oak-street-po-boy-festival-guide.md — Oak Street Po-Boy Festival block party format, vendor strategy, crowd navigation, and vs-Jazz-Fest comparison for first-time NOLA groups
 2026-06-24 12:45 UTC — content: add _guides/nola-group-bookshop-literary-tour-guide.md — Faulkner House Books, Crescent City Books, Garden District Book Shop circuit with author connections and neighborhood bar and restaurant pairings
+2026-06-25 10:00 UTC — content: add _guides/nola-group-superdome-tailgate-guide.md — parking lot vs. bar vs. villa pre-game for groups of 15-30 at Caesars Superdome with Saints traditions, timing, and post-game regroup
+2026-06-25 10:15 UTC — content: add _guides/nola-group-french-market-morning-guide.md — indoor market, flea market, produce corridor, and Café Du Monde morning structure for groups of 15-25
+2026-06-25 10:30 UTC — content: add _guides/nola-group-bike-share-neighborhood-hop-guide.md — Blue Bikes station logistics, 4 cross-neighborhood routes, helmet culture, and food stop pairings for groups of 10-20
+2026-06-25 10:45 UTC — content: add _guides/nola-group-jazz-clubs-vs-music-bars-guide.md — sit-down vs. stand-and-listen, cover charges vs. donation jars, reservation mechanics, and which format keeps 20 people together
+2026-06-25 11:00 UTC — content: add _guides/nola-group-lake-pontchartrain-guide.md — lakefront seawall at sunset, fishing piers, Pontchartrain Beach area, and Bucktown seafood corridor for groups of 15-30
 2026-06-24 13:00 UTC — content: add _guides/nola-group-mid-city-city-park-full-day-guide.md — City Park full-day guide with NOMA, Sculpture Garden, Bayou St. John kayaking, Popp's Bandstand, and Mid-City restaurant corridor for groups of 10-30
