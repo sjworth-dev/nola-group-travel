@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-sazerac-house-distillery-tour-guide.md` — Sazerac House tour logistics, the craft distillery scene, and a full spirits history afternoon for groups of 15-25 with cocktail-making context and tasting room protocols
-- `_guides/nola-group-rooftop-brunch-guide.md` — The case for rooftop brunch over ground-level for groups of 15-25: which venues have rooftop or elevated access, reservation realities, and the Sunday morning structure that makes this the trip's best late start
-- `_guides/nola-group-treme-culture-immersion-guide.md` — Deep cultural immersion in the Tremé for groups of 10-20: Congo Square origins, Backstreet Cultural Museum deep dive, neighborhood eating, brass band encounter protocol, and respectful engagement framework for out-of-town visitors
-- `_guides/nola-group-coffee-shop-work-morning-guide.md` — The group work morning at a NOLA coffee shop for corporate retreats and remote teams: which neighborhoods have the right café infrastructure for 10-15 people, WiFi reality, capacity notes, and the work-then-walk transition to afternoon activities
-- `_guides/nola-group-sunday-second-line-chase-guide.md` — How to find and follow a neighborhood second line on Sunday: Social Aid and Pleasure Club parade logistics, real-time tracking, what to wear, where to stand in the crowd, tip culture, and the after-parade bar that the regulars go to
+- `_guides/nola-group-magazine-street-full-day-guide.md` — Magazine Street end-to-end for groups of 10-20: six-mile corridor breakdown by neighborhood character (LGD to Audubon), the best lunch anchors by section, boutique cluster strategy, and the St. Charles Streetcar return structure
+- `_guides/nola-group-abita-brewery-day-trip.md` — Abita Springs brewery day trip from NOLA: 45-minute drive north of the lake, tour and tasting format, the Old Brewery Museum, combining with a north shore lunch, and Causeway return structure for groups of 15-25
+- `_guides/nola-group-jazz-historical-park-guide.md` — New Orleans Jazz National Historical Park: free NPS ranger programs, the visitor center on Bourbon Street, the walk from Armstrong Park to Frenchmen Street as a living jazz history half-day, and how to use it as the cultural anchor for a first-time music group of 10-20
+- `_guides/nola-group-landmark-restaurant-booking-guide.md` — Commander's Palace, Galatoire's, Antoine's, and Dooky Chase: navigating the reservation systems, private dining rooms, dress code reality, prix fixe logistics, and what each experience actually delivers for groups of 15-25
+- `_guides/nola-group-nola-art-scene-immersion-guide.md` — Beyond the Warehouse District: the living NOLA art scene across St. Claude, Bywater studios, the Irish Channel, and the Frenchmen Art Market for groups of 10-20 — with Second Saturday logistics and studio visit protocol
 
 ---
 
 ## Done
 
+- 2026-06-25 — `_guides/nola-group-sazerac-house-distillery-tour-guide.md`
+- 2026-06-25 — `_guides/nola-group-rooftop-brunch-guide.md`
+- 2026-06-25 — `_guides/nola-group-treme-culture-immersion-guide.md`
+- 2026-06-25 — `_guides/nola-group-coffee-shop-work-morning-guide.md`
+- 2026-06-25 — `_guides/nola-group-sunday-second-line-chase-guide.md`
 - 2026-06-25 — `_guides/nola-group-superdome-tailgate-guide.md`
 - 2026-06-25 — `_guides/nola-group-french-market-morning-guide.md`
 - 2026-06-25 — `_guides/nola-group-bike-share-neighborhood-hop-guide.md`
@@ -653,4 +658,9 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-25 10:30 UTC — content: add _guides/nola-group-bike-share-neighborhood-hop-guide.md — Blue Bikes station logistics, 4 cross-neighborhood routes, helmet culture, and food stop pairings for groups of 10-20
 2026-06-25 10:45 UTC — content: add _guides/nola-group-jazz-clubs-vs-music-bars-guide.md — sit-down vs. stand-and-listen, cover charges vs. donation jars, reservation mechanics, and which format keeps 20 people together
 2026-06-25 11:00 UTC — content: add _guides/nola-group-lake-pontchartrain-guide.md — lakefront seawall at sunset, fishing piers, Pontchartrain Beach area, and Bucktown seafood corridor for groups of 15-30
+2026-06-25 12:00 UTC — content: add _guides/nola-group-sazerac-house-distillery-tour-guide.md — Sazerac House tour logistics, craft distillery scene, and full spirits history afternoon for groups of 15-25
+2026-06-25 12:15 UTC — content: add _guides/nola-group-rooftop-brunch-guide.md — rooftop and elevated brunch for groups of 15-25 with reservation realities and Sunday morning structure
+2026-06-25 12:30 UTC — content: add _guides/nola-group-treme-culture-immersion-guide.md — Congo Square, Backstreet Cultural Museum, brass band protocol, and respectful engagement framework for groups of 10-20
+2026-06-25 12:45 UTC — content: add _guides/nola-group-coffee-shop-work-morning-guide.md — café infrastructure for 10-15 corporate group members, WiFi reality, capacity notes, and work-then-walk transition
+2026-06-25 13:00 UTC — content: add _guides/nola-group-sunday-second-line-chase-guide.md — Social Aid and Pleasure Club logistics, real-time tracking, tip culture, crowd protocol, and after-parade bar for groups of 10-20
 2026-06-24 13:00 UTC — content: add _guides/nola-group-mid-city-city-park-full-day-guide.md — City Park full-day guide with NOMA, Sculpture Garden, Bayou St. John kayaking, Popp's Bandstand, and Mid-City restaurant corridor for groups of 10-30
