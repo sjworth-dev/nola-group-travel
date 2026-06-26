@@ -86,12 +86,17 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-super-sunday-mardi-gras-indian-guide.md` — Super Sunday (third Sunday in March) for large groups: Mardi Gras Indian gathering logistics, the A.L. Davis Park location, respectful visitor protocol, photography etiquette, and how to structure the day around the gathering for groups of 10-20
+- `_guides/nola-group-oak-street-neighborhood-guide.md` — Oak Street and Riverbend for groups of 10-25: the Maple Street Patisserie, the Maple Leaf Bar, the Carrollton corridor, and how to structure a full afternoon in the residential Uptown neighborhood farthest from the tourist circuit
+- `_guides/nola-group-nola-food-hall-guide.md` — Food hall and market hall guide for groups of 10-30: St. Roch Market, Auction House Market, the Central Grocery and Deli block, and how to use market-format spaces to keep groups of 15-25 eating together without a reservation
+- `_guides/nola-group-uptown-magazine-bar-crawl-guide.md` — Uptown and Magazine Street bar crawl for groups of 15-30: the stretch from Louisiana Avenue to Nashville Avenue, the dive bar corridor, the neighborhood sports bars, and the Magazine Street return that most groups miss
+- `_guides/nola-group-nola-day-trip-river-road-guide.md` — River Road day trip for groups of 15-25: the Whitney Plantation, the drive structure, the lunch logistics, and the ethical framework for engaging plantation tourism honestly
+- `_guides/nola-group-night-two-energy-management-guide.md` — Managing the group's energy arc across a 3-5 day trip: the night two peak, the night three crash, the day four recalibration, and the structures that keep 20 people cohesive through a full New Orleans trip
 
 ---
 
 ## Done
 
+- 2026-06-26 — `_guides/nola-group-super-sunday-mardi-gras-indian-guide.md`
 - 2026-06-26 — `_guides/nola-group-crescent-park-riverside-guide.md`
 - 2026-06-26 — `_guides/nola-group-treme-brass-band-morning-guide.md`
 - 2026-06-26 — `_guides/nola-group-garden-district-walking-tour-guide.md`
@@ -669,6 +674,7 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-25 12:45 UTC — content: add _guides/nola-group-coffee-shop-work-morning-guide.md — café infrastructure for 10-15 corporate group members, WiFi reality, capacity notes, and work-then-walk transition
 2026-06-25 13:00 UTC — content: add _guides/nola-group-sunday-second-line-chase-guide.md — Social Aid and Pleasure Club logistics, real-time tracking, tip culture, crowd protocol, and after-parade bar for groups of 10-20
 2026-06-24 13:00 UTC — content: add _guides/nola-group-mid-city-city-park-full-day-guide.md — City Park full-day guide with NOMA, Sculpture Garden, Bayou St. John kayaking, Popp's Bandstand, and Mid-City restaurant corridor for groups of 10-30
+2026-06-26 14:00 UTC — content: add _guides/nola-group-super-sunday-mardi-gras-indian-guide.md — Super Sunday guide for groups of 10-20: Mardi Gras Indian tradition context, A.L. Davis Park logistics, photography protocol, day structure, and respectful visitor framework
 2026-06-26 13:45 UTC — content: add _guides/nola-group-crescent-park-riverside-guide.md — Crescent Park and Bywater riverfront for groups of 15-25: Piety Street wharf, ship watching, half-day structure, sunset ritual, and the park as daily reset infrastructure
 2026-06-26 13:30 UTC — content: add _guides/nola-group-treme-brass-band-morning-guide.md — brass band morning in the Tremé for groups of 10-20: Congo Square, Backstreet Cultural Museum, corner bar informal jam protocol, tipping guide, and Frenchmen Street transition
 2026-06-26 13:15 UTC — content: add _guides/nola-group-garden-district-walking-tour-guide.md — self-guided Garden District walking tour for groups of 10-30: Lafayette Cemetery, Commander's Palace exterior, Prytania mansion blocks, Magazine Street transition, and 3-hour circuit structure
