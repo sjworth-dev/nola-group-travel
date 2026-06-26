@@ -86,7 +86,6 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-garden-district-walking-tour-guide.md` — Self-guided Garden District walking tour for large groups: the best mansion blocks, Lafayette Cemetery entry requirements, the Commander's Palace exterior, and the Magazine Street transition — 3-hour structure for groups of 10-30
 - `_guides/nola-group-treme-brass-band-morning-guide.md` — Morning in the Tremé with a brass band focus: Congo Square at opening, the Backstreet Cultural Museum early hours, the corner bars that host informal brass band jams, and the mid-morning transition to Frenchmen Street for groups of 10-20
 - `_guides/nola-group-crescent-park-riverside-guide.md` — Crescent Park and the Bywater riverfront for groups of 15-25: the elevated riverwalk, the Piety Street wharf, morning coffee logistics, and the park as the group's daily reset point
 - `_guides/nola-group-super-sunday-mardi-gras-indian-guide.md` — Super Sunday (third Sunday in March) for large groups: Mardi Gras Indian gathering logistics, the A.L. Davis Park location, respectful visitor protocol, photography etiquette, and how to structure the day around the gathering for groups of 10-20
@@ -95,6 +94,7 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Done
 
+- 2026-06-26 — `_guides/nola-group-garden-district-walking-tour-guide.md`
 - 2026-06-26 — `_guides/nola-group-bywater-art-walk-guide.md`
 - 2026-06-26 — `_guides/nola-group-magazine-street-full-day-guide.md`
 - 2026-06-26 — `_guides/nola-group-abita-brewery-day-trip.md`
@@ -669,6 +669,7 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-25 12:45 UTC — content: add _guides/nola-group-coffee-shop-work-morning-guide.md — café infrastructure for 10-15 corporate group members, WiFi reality, capacity notes, and work-then-walk transition
 2026-06-25 13:00 UTC — content: add _guides/nola-group-sunday-second-line-chase-guide.md — Social Aid and Pleasure Club logistics, real-time tracking, tip culture, crowd protocol, and after-parade bar for groups of 10-20
 2026-06-24 13:00 UTC — content: add _guides/nola-group-mid-city-city-park-full-day-guide.md — City Park full-day guide with NOMA, Sculpture Garden, Bayou St. John kayaking, Popp's Bandstand, and Mid-City restaurant corridor for groups of 10-30
+2026-06-26 13:15 UTC — content: add _guides/nola-group-garden-district-walking-tour-guide.md — self-guided Garden District walking tour for groups of 10-30: Lafayette Cemetery, Commander's Palace exterior, Prytania mansion blocks, Magazine Street transition, and 3-hour circuit structure
 2026-06-26 13:00 UTC — content: add _guides/nola-group-bywater-art-walk-guide.md — Bywater self-guided art walk for groups of 10-20: four-zone mural guide, St. Claude corridor, Second Saturday gallery night, Bacchanal midpoint anchor, and group movement logistics
 2026-06-26 10:00 UTC — content: add _guides/nola-group-magazine-street-full-day-guide.md — Magazine Street end-to-end for groups of 10-20: six-mile corridor breakdown, lunch anchors by section, boutique cluster strategy, and St. Charles Streetcar return
 2026-06-26 10:30 UTC — content: add _guides/nola-group-abita-brewery-day-trip.md — Abita Springs brewery day trip for groups of 15-25: 45-minute Causeway drive, tour and tasting, Old Brewery Museum, north shore lunch, and Causeway return
