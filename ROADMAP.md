@@ -86,15 +86,20 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-nola-food-hall-guide.md` — Food hall and market hall guide for groups of 10-30: St. Roch Market, Auction House Market, the Central Grocery and Deli block, and how to use market-format spaces to keep groups of 15-25 eating together without a reservation
-- `_guides/nola-group-uptown-magazine-bar-crawl-guide.md` — Uptown and Magazine Street bar crawl for groups of 15-30: the stretch from Louisiana Avenue to Nashville Avenue, the dive bar corridor, the neighborhood sports bars, and the Magazine Street return that most groups miss
-- `_guides/nola-group-nola-day-trip-river-road-guide.md` — River Road day trip for groups of 15-25: the Whitney Plantation, the drive structure, the lunch logistics, and the ethical framework for engaging plantation tourism honestly
-- `_guides/nola-group-night-two-energy-management-guide.md` — Managing the group's energy arc across a 3-5 day trip: the night two peak, the night three crash, the day four recalibration, and the structures that keep 20 people cohesive through a full New Orleans trip
+- `_guides/nola-group-hidden-bar-speakeasy-guide.md` — Hidden bars, reservation-required cocktail rooms, and off-menu discovery bars for groups of 8-20: the NOLA speakeasy-adjacent scene and how to structure a group night around intimate, difficult-to-find venues
+- `_guides/nola-group-arrival-day-orientation-walk.md` — The first two hours in the city: neighborhood orientation walk for groups of 15-30 based on which neighborhood they're staying in (Bywater/Marigny circuit vs. Lower Garden District circuit), what to point out, where to grab the first round
+- `_guides/nola-group-shopping-guide.md` — Shopping strategy for large NOLA groups: Magazine Street boutiques by section, French Market sourcing vs. souvenir reality, what actually travels home, group coordination logistics, and shipping strategy for groups that over-buy
+- `_guides/nola-group-spring-crawfish-festival-season-guide.md` — Spring outdoor festival season for groups beyond Jazz Fest: the crawfish festival circuit, neighborhood block parties, what the March-May calendar looks like, and how to structure a weekend around a mid-tier spring festival rather than the headline events
+- `_guides/nola-group-craft-cocktail-bar-strategy-guide.md` — Craft cocktail bars in NOLA for groups of 15-25: the small-capacity problem, how to split and reconvene across multiple intimate bars in the same neighborhood, what to order, and how to structure a serious cocktail evening that isn't Bourbon Street
 
 ---
 
 ## Done
 
+- 2026-06-27 — `_guides/nola-group-night-two-energy-management-guide.md`
+- 2026-06-27 — `_guides/nola-group-nola-day-trip-river-road-guide.md`
+- 2026-06-27 — `_guides/nola-group-uptown-magazine-bar-crawl-guide.md`
+- 2026-06-27 — `_guides/nola-group-nola-food-hall-guide.md`
 - 2026-06-27 — `_guides/nola-group-oak-street-neighborhood-guide.md`
 - 2026-06-26 — `_guides/nola-group-super-sunday-mardi-gras-indian-guide.md`
 - 2026-06-26 — `_guides/nola-group-crescent-park-riverside-guide.md`
@@ -684,4 +689,8 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-26 11:00 UTC — content: add _guides/nola-group-jazz-historical-park-guide.md — Jazz National Historical Park half-day for music groups of 10-20: ranger programs, Congo Square, Tremé walk, and Frenchmen Street transition
 2026-06-26 11:30 UTC — content: add _guides/nola-group-landmark-restaurant-booking-guide.md — Commander's Palace, Galatoire's, Antoine's, and Dooky Chase booking guide for groups of 15-25: reservation systems, private rooms, dress codes, prix fixe logistics
 2026-06-27 10:00 UTC — content: add _guides/nola-group-oak-street-neighborhood-guide.md — Oak Street and Riverbend half-day guide for groups of 10-25: Maple Street Patisserie, Maple Leaf Bar, Carrollton corridor, and streetcar arrival structure
+2026-06-27 11:00 UTC — content: add _guides/nola-group-nola-food-hall-guide.md — food hall and market hall guide for groups of 10-30: St. Roch Market, Auction House Market, Central Grocery, and how to use market-format spaces to feed large groups without the reservation problem
+2026-06-27 11:15 UTC — content: add _guides/nola-group-uptown-magazine-bar-crawl-guide.md — Uptown Magazine Street bar crawl for groups of 15-30: Louisiana to Nashville corridor, dive bars, neighborhood sports bars, and the return route most groups miss
+2026-06-27 11:30 UTC — content: add _guides/nola-group-nola-day-trip-river-road-guide.md — River Road day trip for groups of 15-25: Whitney Plantation, ethical framework for plantation tourism, drive structure, and lunch logistics
+2026-06-27 11:45 UTC — content: add _guides/nola-group-night-two-energy-management-guide.md — managing the group energy arc across a 3-5 day NOLA trip: night two peak, night three crash, day four recalibration, and structures that keep 20 people cohesive
 2026-06-26 12:00 UTC — content: add _guides/nola-group-nola-art-scene-immersion-guide.md — NOLA art scene immersion beyond the Warehouse District: St. Claude, Bywater studios, Frenchmen Art Market, and Second Saturday logistics for groups of 10-20
