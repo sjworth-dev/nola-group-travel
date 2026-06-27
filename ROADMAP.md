@@ -86,7 +86,6 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-oak-street-neighborhood-guide.md` — Oak Street and Riverbend for groups of 10-25: the Maple Street Patisserie, the Maple Leaf Bar, the Carrollton corridor, and how to structure a full afternoon in the residential Uptown neighborhood farthest from the tourist circuit
 - `_guides/nola-group-nola-food-hall-guide.md` — Food hall and market hall guide for groups of 10-30: St. Roch Market, Auction House Market, the Central Grocery and Deli block, and how to use market-format spaces to keep groups of 15-25 eating together without a reservation
 - `_guides/nola-group-uptown-magazine-bar-crawl-guide.md` — Uptown and Magazine Street bar crawl for groups of 15-30: the stretch from Louisiana Avenue to Nashville Avenue, the dive bar corridor, the neighborhood sports bars, and the Magazine Street return that most groups miss
 - `_guides/nola-group-nola-day-trip-river-road-guide.md` — River Road day trip for groups of 15-25: the Whitney Plantation, the drive structure, the lunch logistics, and the ethical framework for engaging plantation tourism honestly
@@ -96,6 +95,7 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Done
 
+- 2026-06-27 — `_guides/nola-group-oak-street-neighborhood-guide.md`
 - 2026-06-26 — `_guides/nola-group-super-sunday-mardi-gras-indian-guide.md`
 - 2026-06-26 — `_guides/nola-group-crescent-park-riverside-guide.md`
 - 2026-06-26 — `_guides/nola-group-treme-brass-band-morning-guide.md`
@@ -683,4 +683,5 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-26 10:30 UTC — content: add _guides/nola-group-abita-brewery-day-trip.md — Abita Springs brewery day trip for groups of 15-25: 45-minute Causeway drive, tour and tasting, Old Brewery Museum, north shore lunch, and Causeway return
 2026-06-26 11:00 UTC — content: add _guides/nola-group-jazz-historical-park-guide.md — Jazz National Historical Park half-day for music groups of 10-20: ranger programs, Congo Square, Tremé walk, and Frenchmen Street transition
 2026-06-26 11:30 UTC — content: add _guides/nola-group-landmark-restaurant-booking-guide.md — Commander's Palace, Galatoire's, Antoine's, and Dooky Chase booking guide for groups of 15-25: reservation systems, private rooms, dress codes, prix fixe logistics
+2026-06-27 10:00 UTC — content: add _guides/nola-group-oak-street-neighborhood-guide.md — Oak Street and Riverbend half-day guide for groups of 10-25: Maple Street Patisserie, Maple Leaf Bar, Carrollton corridor, and streetcar arrival structure
 2026-06-26 12:00 UTC — content: add _guides/nola-group-nola-art-scene-immersion-guide.md — NOLA art scene immersion beyond the Warehouse District: St. Claude, Bywater studios, Frenchmen Art Market, and Second Saturday logistics for groups of 10-20
