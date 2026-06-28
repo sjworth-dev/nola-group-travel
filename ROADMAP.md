@@ -86,7 +86,6 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-nola-saints-season-full-guide.md` — Full Saints season planning guide for groups of 15-30: gameday logistics, Caesars Superdome experience, the tailgate-to-kickoff timeline, bar vs. stadium decision framework, and off-season NOLA sports culture
 - `_guides/nola-group-wedding-weekend-day-of-guide.md` — Day-of wedding logistics for large groups staying together: transportation from villa to ceremony, getting-ready schedule for 20+ people, hair and makeup coordination, and the hour-by-hour structure that keeps the group from being late
 - `_guides/nola-group-film-location-tour-guide.md` — New Orleans film and TV locations for groups of 10-25: NOLA's role as a filming destination, the self-guided tour circuit, which neighborhoods concentrate the most recognizable locations, and pairing the tour with a neighborhood meal
 - `_guides/nola-group-late-night-food-crawl-structure.md` — Structure a late-night food crawl for groups of 10-25 returning from Frenchmen Street or a bar night: the three-stop format, what's actually open after 1am, how to move a group that's split between eating and going home, and the villa kitchen backup
@@ -96,6 +95,7 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Done
 
+- 2026-06-28 — `_guides/nola-group-nola-saints-season-full-guide.md`
 - 2026-06-28 — `_guides/nola-group-hidden-bar-speakeasy-guide.md`
 - 2026-06-28 — `_guides/nola-group-arrival-day-orientation-walk.md`
 - 2026-06-28 — `_guides/nola-group-shopping-guide.md`
@@ -704,3 +704,4 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-28 10:30 UTC — content: add _guides/nola-group-shopping-guide.md — NOLA group shopping strategy: Magazine Street by section, French Market reality, what to buy, group coordination logistics, and shipping strategy
 2026-06-28 10:45 UTC — content: add _guides/nola-group-spring-crawfish-festival-season-guide.md — spring festival circuit beyond Jazz Fest: crawfish season, neighborhood block parties, March-May calendar, and mid-tier festival weekend structure for groups of 10-30
 2026-06-28 11:00 UTC — content: add _guides/nola-group-craft-cocktail-bar-strategy-guide.md — craft cocktail bar strategy for groups of 15-25: small-capacity problem, split-and-reconvene model, NOLA cocktail heritage, what to order
+2026-06-28 11:15 UTC — content: add _guides/nola-group-nola-saints-season-full-guide.md — full Saints season guide for groups of 15-30: gameday logistics, Superdome experience, tailgate-to-kickoff timeline, bar vs. stadium decision framework, and off-season NOLA sports culture
