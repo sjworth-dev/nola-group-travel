@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-hidden-bar-speakeasy-guide.md` — Hidden bars, reservation-required cocktail rooms, and off-menu discovery bars for groups of 8-20: the NOLA speakeasy-adjacent scene and how to structure a group night around intimate, difficult-to-find venues
-- `_guides/nola-group-arrival-day-orientation-walk.md` — The first two hours in the city: neighborhood orientation walk for groups of 15-30 based on which neighborhood they're staying in (Bywater/Marigny circuit vs. Lower Garden District circuit), what to point out, where to grab the first round
-- `_guides/nola-group-shopping-guide.md` — Shopping strategy for large NOLA groups: Magazine Street boutiques by section, French Market sourcing vs. souvenir reality, what actually travels home, group coordination logistics, and shipping strategy for groups that over-buy
-- `_guides/nola-group-spring-crawfish-festival-season-guide.md` — Spring outdoor festival season for groups beyond Jazz Fest: the crawfish festival circuit, neighborhood block parties, what the March-May calendar looks like, and how to structure a weekend around a mid-tier spring festival rather than the headline events
-- `_guides/nola-group-craft-cocktail-bar-strategy-guide.md` — Craft cocktail bars in NOLA for groups of 15-25: the small-capacity problem, how to split and reconvene across multiple intimate bars in the same neighborhood, what to order, and how to structure a serious cocktail evening that isn't Bourbon Street
+- `_guides/nola-group-nola-saints-season-full-guide.md` — Full Saints season planning guide for groups of 15-30: gameday logistics, Caesars Superdome experience, the tailgate-to-kickoff timeline, bar vs. stadium decision framework, and off-season NOLA sports culture
+- `_guides/nola-group-wedding-weekend-day-of-guide.md` — Day-of wedding logistics for large groups staying together: transportation from villa to ceremony, getting-ready schedule for 20+ people, hair and makeup coordination, and the hour-by-hour structure that keeps the group from being late
+- `_guides/nola-group-film-location-tour-guide.md` — New Orleans film and TV locations for groups of 10-25: NOLA's role as a filming destination, the self-guided tour circuit, which neighborhoods concentrate the most recognizable locations, and pairing the tour with a neighborhood meal
+- `_guides/nola-group-late-night-food-crawl-structure.md` — Structure a late-night food crawl for groups of 10-25 returning from Frenchmen Street or a bar night: the three-stop format, what's actually open after 1am, how to move a group that's split between eating and going home, and the villa kitchen backup
+- `_guides/nola-group-local-live-music-residency-guide.md` — Standing gigs and weekly residencies in NOLA: the musicians who play the same venue on the same night every week, which clubs have reliable schedules, and how to plan a music night around a consistent anchor without festival timing dependency
 
 ---
 
 ## Done
 
+- 2026-06-28 — `_guides/nola-group-hidden-bar-speakeasy-guide.md`
+- 2026-06-28 — `_guides/nola-group-arrival-day-orientation-walk.md`
+- 2026-06-28 — `_guides/nola-group-shopping-guide.md`
+- 2026-06-28 — `_guides/nola-group-spring-crawfish-festival-season-guide.md`
+- 2026-06-28 — `_guides/nola-group-craft-cocktail-bar-strategy-guide.md`
 - 2026-06-27 — `_guides/nola-group-night-two-energy-management-guide.md`
 - 2026-06-27 — `_guides/nola-group-nola-day-trip-river-road-guide.md`
 - 2026-06-27 — `_guides/nola-group-uptown-magazine-bar-crawl-guide.md`
@@ -694,3 +699,8 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-27 11:30 UTC — content: add _guides/nola-group-nola-day-trip-river-road-guide.md — River Road day trip for groups of 15-25: Whitney Plantation, ethical framework for plantation tourism, drive structure, and lunch logistics
 2026-06-27 11:45 UTC — content: add _guides/nola-group-night-two-energy-management-guide.md — managing the group energy arc across a 3-5 day NOLA trip: night two peak, night three crash, day four recalibration, and structures that keep 20 people cohesive
 2026-06-26 12:00 UTC — content: add _guides/nola-group-nola-art-scene-immersion-guide.md — NOLA art scene immersion beyond the Warehouse District: St. Claude, Bywater studios, Frenchmen Art Market, and Second Saturday logistics for groups of 10-20
+2026-06-28 10:00 UTC — content: add _guides/nola-group-hidden-bar-speakeasy-guide.md — hidden bars and reservation-required cocktail rooms for groups of 8-20: NOLA speakeasy-adjacent scene, split-and-reconvene model, what to order
+2026-06-28 10:15 UTC — content: add _guides/nola-group-arrival-day-orientation-walk.md — arrival day orientation walk for groups of 15-30: Bywater/Marigny circuit and LGD circuit, what to point out, first-drink landing point
+2026-06-28 10:30 UTC — content: add _guides/nola-group-shopping-guide.md — NOLA group shopping strategy: Magazine Street by section, French Market reality, what to buy, group coordination logistics, and shipping strategy
+2026-06-28 10:45 UTC — content: add _guides/nola-group-spring-crawfish-festival-season-guide.md — spring festival circuit beyond Jazz Fest: crawfish season, neighborhood block parties, March-May calendar, and mid-tier festival weekend structure for groups of 10-30
+2026-06-28 11:00 UTC — content: add _guides/nola-group-craft-cocktail-bar-strategy-guide.md — craft cocktail bar strategy for groups of 15-25: small-capacity problem, split-and-reconvene model, NOLA cocktail heritage, what to order
