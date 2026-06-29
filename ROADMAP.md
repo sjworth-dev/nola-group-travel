@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-jazz-fest-day-two-pivot-guide.md` — When Jazz Fest day two energy drops: how to restructure the group's second fairgrounds day, which stages to prioritize based on day-one learnings, the half-day option for people who are done, and the villa recovery plan
-- `_guides/nola-group-crawfish-etiquette-guide.md` — Crawfish eating technique for first-timers in a group setting: how to peel, the suck-the-head debate, ordering volume, and what to drink with them — briefing your group before they arrive at a crawfish boil
-- `_guides/nola-group-neighborhood-comparison-guide.md` — Side-by-side comparison of Bywater, Marigny, Lower Garden District, and French Quarter as group trip bases: nightlife access, food density, walking character, noise, and accommodation options
-- `_guides/nola-group-private-second-line-vs-public-guide.md` — Private hired second line vs. joining a public parade: what each experience actually feels like, cost comparison, how to book, what to expect from the band, and which is right for your group
-- `_guides/nola-group-morning-after-strategy-guide.md` — The morning after a hard night: recovery foods, who leads the slow start, when to skip a planned activity without guilt, and how to recalibrate the group for the afternoon and evening ahead
+- `_guides/nola-group-brass-band-hire-logistics-guide.md` — Step-by-step logistics for hiring a brass band in New Orleans: what to ask vendors, band size decisions, permit reality, what happens on the day, and how to brief your group on what to expect
+- `_guides/nola-group-bywater-vs-lgd-deep-comparison.md` — Head-to-head deep comparison of Bywater and Lower Garden District specifically for large group accommodation: villa inventory, neighborhood feel, walkability scores, noise, and which suits which trip type
+- `_guides/nola-group-budget-tracking-mid-trip-guide.md` — Mid-trip money management when the group's spending has drifted from the plan: real-time Splitwise audits, the conversation no one wants to have, and how to right-size the remaining days without killing the energy
+- `_guides/nola-group-sober-activities-after-dark-guide.md` — Late-night NOLA for group members who aren't drinking: live music without alcohol, late-night food without bar logistics, and how the non-drinker fits into a group trip built around bar culture
+- `_guides/nola-group-sunday-structure-guide.md` — The full Sunday structure for a NOLA group trip: second line possibility, jazz brunch, City Park or Crescent Park afternoon, Frenchmen Street evening — the best single-day itinerary in the city for groups of 10-30
 
 ---
 
 ## Done
 
+- 2026-06-29 — `_guides/nola-group-jazz-fest-day-two-pivot-guide.md`
+- 2026-06-29 — `_guides/nola-group-crawfish-etiquette-guide.md`
+- 2026-06-29 — `_guides/nola-group-neighborhood-comparison-guide.md`
+- 2026-06-29 — `_guides/nola-group-private-second-line-vs-public-guide.md`
+- 2026-06-29 — `_guides/nola-group-morning-after-strategy-guide.md`
 - 2026-06-29 — `_guides/nola-group-wedding-weekend-day-of-guide.md`
 - 2026-06-29 — `_guides/nola-group-film-location-tour-guide.md`
 - 2026-06-29 — `_guides/nola-group-late-night-food-crawl-structure.md`
@@ -714,3 +719,8 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-29 10:30 UTC — content: add _guides/nola-group-late-night-food-crawl-structure.md — late-night food crawl structure for groups of 10-25: three-stop format, what's open after 1am, split logistics, and villa kitchen backup
 2026-06-29 10:45 UTC — content: add _guides/nola-group-local-live-music-residency-guide.md — standing gigs and weekly residencies for groups of 10-25: which nights to target, how to research, group tipping, and residency vs. festival comparison
 2026-06-28 11:15 UTC — content: add _guides/nola-group-nola-saints-season-full-guide.md — full Saints season guide for groups of 15-30: gameday logistics, Superdome experience, tailgate-to-kickoff timeline, bar vs. stadium decision framework, and off-season NOLA sports culture
+2026-06-29 11:00 UTC — content: add _guides/nola-group-jazz-fest-day-two-pivot-guide.md — Jazz Fest day two pivot: energy management, stage prioritization, half-day option, and villa recovery plan for groups
+2026-06-29 11:15 UTC — content: add _guides/nola-group-crawfish-etiquette-guide.md — crawfish eating technique for first-timers: peel method, suck-the-head question, ordering volume, and group briefing guide
+2026-06-29 11:30 UTC — content: add _guides/nola-group-neighborhood-comparison-guide.md — Bywater vs. Marigny vs. Lower Garden District vs. French Quarter side-by-side comparison for groups of 10-30
+2026-06-29 11:45 UTC — content: add _guides/nola-group-private-second-line-vs-public-guide.md — private hired second line vs. joining a public parade: costs, booking, cultural context, and which is right for your group
+2026-06-29 12:00 UTC — content: add _guides/nola-group-morning-after-strategy-guide.md — morning-after recovery guide: foods, slow-start leadership, when to cancel, and recalibrating the group for afternoon and evening
