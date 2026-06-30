@@ -86,7 +86,6 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-brass-band-hire-logistics-guide.md` — Step-by-step logistics for hiring a brass band in New Orleans: what to ask vendors, band size decisions, permit reality, what happens on the day, and how to brief your group on what to expect
 - `_guides/nola-group-bywater-vs-lgd-deep-comparison.md` — Head-to-head deep comparison of Bywater and Lower Garden District specifically for large group accommodation: villa inventory, neighborhood feel, walkability scores, noise, and which suits which trip type
 - `_guides/nola-group-budget-tracking-mid-trip-guide.md` — Mid-trip money management when the group's spending has drifted from the plan: real-time Splitwise audits, the conversation no one wants to have, and how to right-size the remaining days without killing the energy
 - `_guides/nola-group-sober-activities-after-dark-guide.md` — Late-night NOLA for group members who aren't drinking: live music without alcohol, late-night food without bar logistics, and how the non-drinker fits into a group trip built around bar culture
@@ -96,6 +95,7 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Done
 
+- 2026-06-30 — `_guides/nola-group-brass-band-hire-logistics-guide.md`
 - 2026-06-29 — `_guides/nola-group-jazz-fest-day-two-pivot-guide.md`
 - 2026-06-29 — `_guides/nola-group-crawfish-etiquette-guide.md`
 - 2026-06-29 — `_guides/nola-group-neighborhood-comparison-guide.md`
@@ -724,3 +724,4 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-29 11:30 UTC — content: add _guides/nola-group-neighborhood-comparison-guide.md — Bywater vs. Marigny vs. Lower Garden District vs. French Quarter side-by-side comparison for groups of 10-30
 2026-06-29 11:45 UTC — content: add _guides/nola-group-private-second-line-vs-public-guide.md — private hired second line vs. joining a public parade: costs, booking, cultural context, and which is right for your group
 2026-06-29 12:00 UTC — content: add _guides/nola-group-morning-after-strategy-guide.md — morning-after recovery guide: foods, slow-start leadership, when to cancel, and recalibrating the group for afternoon and evening
+2026-06-30 00:00 UTC — content: add _guides/nola-group-brass-band-hire-logistics-guide.md — step-by-step brass band hire guide: band size decisions, permits, what to ask vendors, day-of structure, group briefing, and tipping protocol
