@@ -86,14 +86,19 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-budget-tracking-mid-trip-guide.md` — Mid-trip money management when the group's spending has drifted from the plan: real-time Splitwise audits, the conversation no one wants to have, and how to right-size the remaining days without killing the energy
-- `_guides/nola-group-sober-activities-after-dark-guide.md` — Late-night NOLA for group members who aren't drinking: live music without alcohol, late-night food without bar logistics, and how the non-drinker fits into a group trip built around bar culture
-- `_guides/nola-group-sunday-structure-guide.md` — The full Sunday structure for a NOLA group trip: second line possibility, jazz brunch, City Park or Crescent Park afternoon, Frenchmen Street evening — the best single-day itinerary in the city for groups of 10-30
+- `_guides/nola-group-first-night-structure-guide.md` — The optimal first-night structure for a NOLA group trip: arrival window management, orientation walk, first dinner choice, and setting the tone without burning everyone out before night two
+- `_guides/nola-group-saturday-night-peak-guide.md` — Saturday night peak management for groups of 10-30: how to structure the biggest night of the trip, which neighborhoods handle large groups well, and what happens if you don't plan the 11pm–2am window
+- `_guides/nola-group-private-chef-vs-villa-cooking-guide.md` — Private chef vs. cooking for yourselves at the villa: decision matrix, cost comparison at different group sizes, what a private chef actually looks like vs. the marketing, and which occasion warrants which
+- `_guides/nola-group-large-group-seating-strategy-guide.md` — Large group restaurant seating reality: how auto-grat works, private room negotiation, what 20 people looks like at a table vs. three tables of 6, and the restaurants that actually want large groups vs. the ones that tolerate them
+- `_guides/nola-group-trip-roles-assignment-guide.md` — How to assign trip roles in a group of 10-30 before you arrive: the logistics lead, the food researcher, the transport coordinator, the camera person, the treasurer — what each role prevents and how to avoid one person doing everything
 
 ---
 
 ## Done
 
+- 2026-07-01 — `_guides/nola-group-sunday-structure-guide.md`
+- 2026-07-01 — `_guides/nola-group-sober-activities-after-dark-guide.md`
+- 2026-07-01 — `_guides/nola-group-budget-tracking-mid-trip-guide.md`
 - 2026-06-30 — `_guides/nola-group-bywater-vs-lgd-deep-comparison.md`
 - 2026-06-30 — `_guides/nola-group-brass-band-hire-logistics-guide.md`
 - 2026-06-29 — `_guides/nola-group-jazz-fest-day-two-pivot-guide.md`
@@ -724,5 +729,8 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-29 11:30 UTC — content: add _guides/nola-group-neighborhood-comparison-guide.md — Bywater vs. Marigny vs. Lower Garden District vs. French Quarter side-by-side comparison for groups of 10-30
 2026-06-29 11:45 UTC — content: add _guides/nola-group-private-second-line-vs-public-guide.md — private hired second line vs. joining a public parade: costs, booking, cultural context, and which is right for your group
 2026-06-29 12:00 UTC — content: add _guides/nola-group-morning-after-strategy-guide.md — morning-after recovery guide: foods, slow-start leadership, when to cancel, and recalibrating the group for afternoon and evening
+2026-07-01 00:00 UTC — content: add _guides/nola-group-budget-tracking-mid-trip-guide.md — mid-trip Splitwise audit, the budget conversation, and right-sizing the remaining days
+2026-07-01 00:10 UTC — content: add _guides/nola-group-sober-activities-after-dark-guide.md — late-night NOLA for non-drinkers: live music, food, and after-dark without the bar track
+2026-07-01 00:20 UTC — content: add _guides/nola-group-sunday-structure-guide.md — complete Sunday structure for groups of 10-30: jazz brunch, second line, park, Frenchmen Street
 2026-06-30 00:00 UTC — content: add _guides/nola-group-brass-band-hire-logistics-guide.md
 2026-06-30 01:00 UTC — content: add _guides/nola-group-bywater-vs-lgd-deep-comparison.md — head-to-head Bywater vs. LGD deep comparison for large group accommodation decisions — step-by-step brass band hire guide: band size decisions, permits, what to ask vendors, day-of structure, group briefing, and tipping protocol
