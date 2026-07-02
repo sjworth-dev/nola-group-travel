@@ -86,15 +86,20 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-saturday-night-peak-guide.md` — Saturday night peak management for groups of 10-30: how to structure the biggest night of the trip, which neighborhoods handle large groups well, and what happens if you don't plan the 11pm–2am window
-- `_guides/nola-group-private-chef-vs-villa-cooking-guide.md` — Private chef vs. cooking for yourselves at the villa: decision matrix, cost comparison at different group sizes, what a private chef actually looks like vs. the marketing, and which occasion warrants which
-- `_guides/nola-group-large-group-seating-strategy-guide.md` — Large group restaurant seating reality: how auto-grat works, private room negotiation, what 20 people looks like at a table vs. three tables of 6, and the restaurants that actually want large groups vs. the ones that tolerate them
-- `_guides/nola-group-trip-roles-assignment-guide.md` — How to assign trip roles in a group of 10-30 before you arrive: the logistics lead, the food researcher, the transport coordinator, the camera person, the treasurer — what each role prevents and how to avoid one person doing everything
+- `_guides/nola-group-rain-delay-bar-strategy-guide.md` — What to do when outdoor plans get rained out mid-afternoon: which bar districts absorb large groups unplanned, interior venues with room, and the two-hour pivot playbook for groups of 10-30
+- `_guides/nola-group-villa-morning-yoga-guide.md` — How to run a sunrise yoga or morning stretch session in a villa courtyard or lawn for groups of 10-30: instructor vs. self-guided, equipment logistics, and setting the tone for the day
+- `_guides/nola-group-drink-pace-management-guide.md` — Managing drink pace across a 3-5 day NOLA group trip: recognizing the burn rate, hydration logistics, the 2pm reset, and how organizers protect group members without being the fun police
+- `_guides/nola-group-souvenir-strategy-guide.md` — Souvenir and gift buying for large groups: when to shop, what's actually worth buying vs. tourist junk, local vs. chain, and how to handle group members who want to spend two hours in every shop
+- `_guides/nola-group-night-photography-guide.md` — Shooting NOLA at night with a large group: the Frenchmen Art Market golden hour, lit balconies in the Quarter, mural backdrops in the Bywater, group logistics for after-dark photo sessions
 
 ---
 
 ## Done
 
+- 2026-07-02 — `_guides/nola-group-saturday-night-peak-guide.md`
+- 2026-07-02 — `_guides/nola-group-private-chef-vs-villa-cooking-guide.md`
+- 2026-07-02 — `_guides/nola-group-large-group-seating-strategy-guide.md`
+- 2026-07-02 — `_guides/nola-group-trip-roles-assignment-guide.md`
 - 2026-07-01 — `_guides/nola-group-first-night-structure-guide.md`
 - 2026-07-01 — `_guides/nola-group-sunday-structure-guide.md`
 - 2026-07-01 — `_guides/nola-group-sober-activities-after-dark-guide.md`
@@ -729,6 +734,10 @@ This is an independent guide. Properties may be described editorially as example
 2026-06-29 11:30 UTC — content: add _guides/nola-group-neighborhood-comparison-guide.md — Bywater vs. Marigny vs. Lower Garden District vs. French Quarter side-by-side comparison for groups of 10-30
 2026-06-29 11:45 UTC — content: add _guides/nola-group-private-second-line-vs-public-guide.md — private hired second line vs. joining a public parade: costs, booking, cultural context, and which is right for your group
 2026-06-29 12:00 UTC — content: add _guides/nola-group-morning-after-strategy-guide.md — morning-after recovery guide: foods, slow-start leadership, when to cancel, and recalibrating the group for afternoon and evening
+2026-07-02 10:00 UTC — content: add _guides/nola-group-saturday-night-peak-guide.md — Saturday night three-act structure, neighborhood capacity breakdown, and 11pm–2am window management for groups of 10-30
+2026-07-02 10:15 UTC — content: add _guides/nola-group-private-chef-vs-villa-cooking-guide.md — decision matrix, cost comparison, and what private chef actually delivers vs. marketing for groups of 10-30
+2026-07-02 10:30 UTC — content: add _guides/nola-group-large-group-seating-strategy-guide.md — auto-grat, private room negotiation, seating configurations, and restaurants that want vs. tolerate large groups
+2026-07-02 10:45 UTC — content: add _guides/nola-group-trip-roles-assignment-guide.md — logistics lead, food researcher, transport coordinator, camera person, treasurer roles for groups of 10-30
 2026-07-01 10:00 UTC — content: add _guides/nola-group-first-night-structure-guide.md — arrival window management, orientation walk, first dinner strategy, and tone-setting for groups of 10-30
 2026-07-01 00:00 UTC — content: add _guides/nola-group-budget-tracking-mid-trip-guide.md — mid-trip Splitwise audit, the budget conversation, and right-sizing the remaining days
 2026-07-01 00:10 UTC — content: add _guides/nola-group-sober-activities-after-dark-guide.md — late-night NOLA for non-drinkers: live music, food, and after-dark without the bar track
