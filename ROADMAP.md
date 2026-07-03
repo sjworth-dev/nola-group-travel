@@ -86,7 +86,6 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-pool-day-etiquette-guide.md` — Running a private villa pool day for groups of 10-30: float rotation, the kids vs. adults dynamic, music logistics, sunscreen and towel math, and how to keep the pool deck from becoming a logistics nightmare
 - `_guides/nola-group-festival-pre-game-guide.md` — How to structure the three hours before a major NOLA festival (Jazz Fest, French Quarter Fest, Voodoo): hydration load, sunscreen, what to carry, the group meeting protocol, and the pre-festival villa meal
 - `_guides/nola-group-hotel-bar-strategy-guide.md` — Using NOLA hotel bars strategically for large groups: which hotel bars have capacity, when they're worth the premium, and when to use them as the group's 11pm landing point vs. a dedicated venue
 - `_guides/nola-group-group-text-burnout-guide.md` — Managing group communication fatigue across a 4-5 day NOLA trip: when to go silent on the main thread, how to run sub-group channels without fracturing the trip, and the role of the daily brief
@@ -96,6 +95,7 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Done
 
+- 2026-07-03 — `_guides/nola-group-pool-day-etiquette-guide.md`
 - 2026-07-02 — `_guides/nola-group-night-photography-guide.md`
 - 2026-07-02 — `_guides/nola-group-souvenir-strategy-guide.md`
 - 2026-07-02 — `_guides/nola-group-drink-pace-management-guide.md`
@@ -752,5 +752,6 @@ This is an independent guide. Properties may be described editorially as example
 2026-07-02 11:30 UTC — content: add _guides/nola-group-drink-pace-management-guide.md — burn rate reality, 2pm reset infrastructure, day-by-day pacing arc, and how to manage pace without being the fun police
 2026-07-02 11:45 UTC — content: add _guides/nola-group-souvenir-strategy-guide.md — what's worth buying vs. tourist junk, neighborhood shopping breakdown, group shopping logistics, and the group gift framework
 2026-07-02 12:00 UTC — content: add _guides/nola-group-night-photography-guide.md — blue hour windows, best locations by neighborhood, camera reality check, and after-dark group shot coordination for groups of 10-30
+2026-07-03 10:00 UTC — content: add _guides/nola-group-pool-day-etiquette-guide.md — float rotation, music logistics, sunscreen and towel math, food timing, and pool deck logistics for groups of 10-30
 2026-06-30 00:00 UTC — content: add _guides/nola-group-brass-band-hire-logistics-guide.md
 2026-06-30 01:00 UTC — content: add _guides/nola-group-bywater-vs-lgd-deep-comparison.md — head-to-head Bywater vs. LGD deep comparison for large group accommodation decisions — step-by-step brass band hire guide: band size decisions, permits, what to ask vendors, day-of structure, group briefing, and tipping protocol
