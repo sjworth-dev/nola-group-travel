@@ -86,16 +86,21 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-villa-hangover-recovery-guide.md` — The morning-after recovery playbook for the group that went too hard: electrolytes, timing the re-feed, pool vs. AC decision, and how to recalibrate for the afternoon without losing the day
-- `_guides/nola-group-second-night-momentum-guide.md` — Night two of a NOLA group trip is different from night one: expectations are higher, energy is lower, and the pressure to top the first night kills it. How to plan for the second night specifically and why lower-key wins
-- `_guides/nola-group-festival-exit-strategy-guide.md` — Getting 20 people out of Jazz Fest, Voodoo Fest, or French Quarter Fest without a 90-minute Uber queue: rideshare timing, exit points, split-and-reconvene logistics, and the post-festival transition plan
-- `_guides/nola-group-villa-sound-system-guide.md` — Music infrastructure for a villa group of 15-30: speaker placement, playlist architecture, the DJ rotation model vs. single-curator model, and the outdoor-to-indoor transition as the night progresses
-- `_guides/nola-group-mixed-diet-restaurant-strategy-guide.md` — Planning group meals when someone is vegan, someone is gluten-free, someone keeps kosher, and the rest want fried everything: which NOLA restaurants handle dietary diversity, how to communicate it, and the villa meal as the fallback
+- `_guides/nola-group-villa-hot-tub-protocol-guide.md` — Hot tub logistics for groups of 15-30: capacity reality, rotation etiquette, the 10pm outdoor sound cutoff, soaking as a recovery tool, and why the 11pm hot tub session is often the best conversation of the trip
+- `_guides/nola-group-pre-trip-survey-guide.md` — The one survey every group organizer should send 3 weeks before the trip: dietary restrictions, arrival times, budget floor, activity preferences, and the four questions that prevent mid-trip conflict
+- `_guides/nola-group-ride-share-master-guide.md` — Rideshare for groups of 10-30 in New Orleans: XL logistics, surge pricing windows, the split-and-reconvene model, airport coordination, and when a charter van beats Uber every time
+- `_guides/nola-group-leftover-food-management-guide.md` — Managing food waste, leftovers, and the end-of-trip fridge at a villa for 15-30 people: what to cook early, what to buy day-by-day, and the morning-of-departure fridge clear strategy
+- `_guides/nola-group-villa-photography-backdrop-guide.md` — The best photo backdrops at a NOLA group villa: pool compositions for large groups, courtyard golden hour, front stoop architecture shots, and how to coordinate a group of 20 for a clean group photo without a photographer
 
 ---
 
 ## Done
 
+- 2026-07-04 — `_guides/nola-group-villa-hangover-recovery-guide.md`
+- 2026-07-04 — `_guides/nola-group-second-night-momentum-guide.md`
+- 2026-07-04 — `_guides/nola-group-festival-exit-strategy-guide.md`
+- 2026-07-04 — `_guides/nola-group-villa-sound-system-guide.md`
+- 2026-07-04 — `_guides/nola-group-mixed-diet-restaurant-strategy-guide.md`
 - 2026-07-03 — `_guides/nola-group-day-drinking-vs-nightlife-guide.md`
 - 2026-07-03 — `_guides/nola-group-group-text-burnout-guide.md`
 - 2026-07-03 — `_guides/nola-group-hotel-bar-strategy-guide.md`
@@ -761,6 +766,11 @@ This is an independent guide. Properties may be described editorially as example
 2026-07-03 11:15 UTC — content: add _guides/nola-group-hotel-bar-strategy-guide.md — hotel bar strategy for large groups: when they work, the 11pm landing point, and honest comparison vs. standalone bars
 2026-07-03 11:30 UTC — content: add _guides/nola-group-group-text-burnout-guide.md — managing group communication fatigue across a 4-5 day NOLA trip with daily brief, sub-channels, and silence windows
 2026-07-03 11:45 UTC — content: add _guides/nola-group-day-drinking-vs-nightlife-guide.md — day drinking vs nightlife comparison for large groups with pacing arcs, cost breakdown, and blend formats
+2026-07-04 10:00 UTC — content: add _guides/nola-group-villa-hangover-recovery-guide.md — morning-after recovery playbook for groups of 15-30: electrolytes, re-feed sequence, pool vs. AC decision, group spectrum management
+2026-07-04 10:15 UTC — content: add _guides/nola-group-second-night-momentum-guide.md — night two planning guide: energy arc, the top-night-one pressure trap, format options, and villa-anchored night two structure
+2026-07-04 10:30 UTC — content: add _guides/nola-group-festival-exit-strategy-guide.md — Jazz Fest, Voodoo Fest, and FQF exit strategy for groups of 15-30: rideshare timing, pickup zones, group text protocol, and post-festival transition plan
+2026-07-04 10:45 UTC — content: add _guides/nola-group-villa-sound-system-guide.md — music infrastructure for villa groups of 15-30: zone assessment, speaker placement, playlist architecture, DJ rotation vs. curator model, and 10pm outdoor transition
+2026-07-04 11:00 UTC — content: add _guides/nola-group-mixed-diet-restaurant-strategy-guide.md — mixed diet restaurant strategy for groups of 15-30: restriction tiers, NOLA dietary landscape, communication protocol, and villa meal as the correct fallback
 2026-07-03 10:00 UTC — content: add _guides/nola-group-pool-day-etiquette-guide.md — float rotation, music logistics, sunscreen and towel math, food timing, and pool deck logistics for groups of 10-30
 2026-06-30 00:00 UTC — content: add _guides/nola-group-brass-band-hire-logistics-guide.md
 2026-06-30 01:00 UTC — content: add _guides/nola-group-bywater-vs-lgd-deep-comparison.md — head-to-head Bywater vs. LGD deep comparison for large group accommodation decisions — step-by-step brass band hire guide: band size decisions, permits, what to ask vendors, day-of structure, group briefing, and tipping protocol
