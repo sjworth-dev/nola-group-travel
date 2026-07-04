@@ -86,7 +86,6 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Up Next
 
-- `_guides/nola-group-villa-hot-tub-protocol-guide.md` — Hot tub logistics for groups of 15-30: capacity reality, rotation etiquette, the 10pm outdoor sound cutoff, soaking as a recovery tool, and why the 11pm hot tub session is often the best conversation of the trip
 - `_guides/nola-group-pre-trip-survey-guide.md` — The one survey every group organizer should send 3 weeks before the trip: dietary restrictions, arrival times, budget floor, activity preferences, and the four questions that prevent mid-trip conflict
 - `_guides/nola-group-ride-share-master-guide.md` — Rideshare for groups of 10-30 in New Orleans: XL logistics, surge pricing windows, the split-and-reconvene model, airport coordination, and when a charter van beats Uber every time
 - `_guides/nola-group-leftover-food-management-guide.md` — Managing food waste, leftovers, and the end-of-trip fridge at a villa for 15-30 people: what to cook early, what to buy day-by-day, and the morning-of-departure fridge clear strategy
@@ -96,6 +95,7 @@ This is an independent guide. Properties may be described editorially as example
 
 ## Done
 
+- 2026-07-04 — `_guides/nola-group-villa-hot-tub-protocol-guide.md`
 - 2026-07-04 — `_guides/nola-group-villa-hangover-recovery-guide.md`
 - 2026-07-04 — `_guides/nola-group-second-night-momentum-guide.md`
 - 2026-07-04 — `_guides/nola-group-festival-exit-strategy-guide.md`
@@ -766,6 +766,7 @@ This is an independent guide. Properties may be described editorially as example
 2026-07-03 11:15 UTC — content: add _guides/nola-group-hotel-bar-strategy-guide.md — hotel bar strategy for large groups: when they work, the 11pm landing point, and honest comparison vs. standalone bars
 2026-07-03 11:30 UTC — content: add _guides/nola-group-group-text-burnout-guide.md — managing group communication fatigue across a 4-5 day NOLA trip with daily brief, sub-channels, and silence windows
 2026-07-03 11:45 UTC — content: add _guides/nola-group-day-drinking-vs-nightlife-guide.md — day drinking vs nightlife comparison for large groups with pacing arcs, cost breakdown, and blend formats
+2026-07-04 12:00 UTC — content: add _guides/nola-group-villa-hot-tub-protocol-guide.md — hot tub capacity reality, rotation protocol, 10pm noise rule, recovery science, and the 11pm session for groups of 15-30
 2026-07-04 10:00 UTC — content: add _guides/nola-group-villa-hangover-recovery-guide.md — morning-after recovery playbook for groups of 15-30: electrolytes, re-feed sequence, pool vs. AC decision, group spectrum management
 2026-07-04 10:15 UTC — content: add _guides/nola-group-second-night-momentum-guide.md — night two planning guide: energy arc, the top-night-one pressure trap, format options, and villa-anchored night two structure
 2026-07-04 10:30 UTC — content: add _guides/nola-group-festival-exit-strategy-guide.md — Jazz Fest, Voodoo Fest, and FQF exit strategy for groups of 15-30: rideshare timing, pickup zones, group text protocol, and post-festival transition plan
