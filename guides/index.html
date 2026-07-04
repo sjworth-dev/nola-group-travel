@@ -1,0 +1,58 @@
+---
+layout: default
+title: "All Group Travel Guides — New Orleans"
+description: "Every guide on the site, organized by category: planning, activities, nightlife, food, festivals, and more — all written for groups of 10-30 in New Orleans."
+permalink: /guides/
+---
+
+{% assign category_order = "Planning & Logistics|Activities & Day Trips|Nightlife & Music|Festivals & Events|Food & Drink|Culture & History|Villa Life|Weddings & Celebrations|Bachelorette & Bachelor|Corporate Retreats|Friends & Family" | split: "|" %}
+
+<section class="hero">
+  <div class="container">
+    <h1>
+      <span>{{ site.guides | size }} Guides</span>
+      All Group Travel Guides
+    </h1>
+    <p class="hero-subtitle">Every guide we've written for planning a large-group trip to New Orleans, organized by category. All of it free, all of it local.</p>
+  </div>
+  <div class="hero-fleur">⚜</div>
+</section>
+
+<section class="guides-grid">
+  <div class="container">
+    <p class="section-subtitle">
+      {% for cat in category_order %}<a href="#{{ cat | slugify }}">{{ cat }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+    </p>
+  </div>
+</section>
+
+{% for cat in category_order %}
+{% assign cat_guides = site.guides | where: "category", cat | sort: "title" %}
+{% if cat_guides.size > 0 %}
+<section class="guides-grid" id="{{ cat | slugify }}" {% cycle 'guide-index-bg': '', 'style="background: var(--color-cream);"' %}>
+  <div class="container">
+    <h2>{{ cat }}</h2>
+    <p class="section-subtitle">{{ cat_guides.size }} guide{% if cat_guides.size != 1 %}s{% endif %}</p>
+    <div class="card-grid">
+      {% for g in cat_guides %}
+      <a href="{{ g.url | relative_url }}" class="card">
+        <h3>{{ g.card_title | default: g.title }}</h3>
+        <p>{{ g.card_description | default: g.description | truncate: 140 }}</p>
+        <div class="card-arrow">→</div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+{% endfor %}
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Need Accommodations for Large Groups?</h2>
+    <p>Most New Orleans rentals cap at 10 guests. A small number of villas are purpose-built for large groups—here's where to find them, what to look for, and how to book.</p>
+    <div class="cta-buttons">
+      <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where to Stay With Large Groups</a>
+    </div>
+  </div>
+</section>

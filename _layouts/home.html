@@ -11,7 +11,7 @@ layout: default
     <p class="hero-subtitle">Real advice from locals who've helped plan hundreds of group trips. Not a travel blog—actual help for large groups.</p>
     <div class="hero-cta">
       <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Find Accommodations</a>
-      <a href="{{ '/guides/bachelorette-party/' | relative_url }}" class="btn btn-secondary">Browse Guides</a>
+      <a href="{{ '/guides/' | relative_url }}" class="btn btn-secondary">Browse All {{ site.guides | size }} Guides</a>
     </div>
   </div>
   <div class="hero-fleur">⚜</div>
@@ -123,6 +123,7 @@ layout: default
         <div class="card-arrow">→</div>
       </a>
     </div>
+    <p class="section-subtitle" style="margin-top: 2.5rem; text-align: center;"><a href="{{ '/guides/' | relative_url }}">Browse the full library — {{ site.guides | size }} guides, organized by category →</a></p>
   </div>
 </section>
 
@@ -162,6 +163,7 @@ layout: default
         <div class="card-arrow">→</div>
       </a>
     </div>
+    <p class="section-subtitle" style="margin-top: 2.5rem; text-align: center;"><a href="{{ '/neighborhoods/' | relative_url }}">See all {{ site.neighborhoods | size }} neighborhood guides →</a></p>
   </div>
 </section>
 
