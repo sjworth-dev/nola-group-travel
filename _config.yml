@@ -50,6 +50,8 @@ defaults:
 
 # Exclude from build
 exclude:
+  - ROADMAP.md
+  - ROADMAP-ARCHIVE.md
   - README.md
   - Gemfile
   - Gemfile.lock
