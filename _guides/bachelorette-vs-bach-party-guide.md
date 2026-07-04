@@ -1,7 +1,7 @@
 ---
 title: "Bachelorette vs. Bachelor Party in New Orleans: A Side-by-Side Guide"
 description: "Planning a bachelorette and a bachelor party in New Orleans at the same time? Here's where they diverge, what they share, and how to coordinate a combined group trip."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Bachelorette vs. Bachelor Party"
 card_description: "Planning both at once? Where they diverge, what they share, and how to pull off the combined trip without chaos."
 date: 2026-05-30

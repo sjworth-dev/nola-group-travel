@@ -1,7 +1,7 @@
 ---
 title: "Hidden Bars and Reservation-Required Cocktail Rooms for Groups"
 description: "The NOLA speakeasy-adjacent scene for groups of 8-20: hidden entrances, reservation-required cocktail lounges, off-menu discovery bars, and how to structure a night around intimate, difficult-to-find venues without losing half the group."
-category: "Bars & Nightlife"
+category: "Nightlife & Music"
 card_title: "Hidden Bars & Speakeasy Guide"
 card_description: "NOLA's speakeasy-adjacent scene — reservation-required cocktail rooms, unmarked entrances, and off-menu bars — and how to run a group of 8-20 through it without chaos."
 date: 2026-06-28

@@ -1,7 +1,7 @@
 ---
 title: "Group Photo Session Planning in New Orleans: Backdrops, Timing, and Moving 20 People"
 description: "The NOLA backdrops that actually photograph well, golden hour timing by season, how to coordinate 20 people for shots without losing 45 minutes, getting-ready shots at the villa, and the phone-holder rotation system that works."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Group Photo Session Guide"
 card_description: "The NOLA backdrops that photograph best, golden hour by season, how to move 20 people through shots without losing an hour, getting-ready shots at the villa, and the rotation system that actually works."
 date: 2026-06-22

@@ -1,7 +1,7 @@
 ---
 title: "NOLA Group Size Guide: 10, 15, 20, and 30 People"
 description: "Specific logistics, restaurant options, accommodation strategies, and budget breakdowns for groups of 10, 15, 20, and 30 people in New Orleans."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Size Guide"
 card_description: "The logistics change at every threshold. Here's exactly what to do with 10, 15, 20, and 30 people."
 date: 2026-05-24

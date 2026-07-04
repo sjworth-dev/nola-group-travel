@@ -1,7 +1,7 @@
 ---
 title: "French Quarter Festival: Group Guide"
 description: "How to plan a large group trip around French Quarter Festival — New Orleans' free music festival every April. What it is, how it differs from Jazz Fest, and how to make it work for 10-30 people."
-category: "Events"
+category: "Festivals & Events"
 card_title: "French Quarter Festival"
 card_description: "New Orleans' free music festival every April. How it's different from Jazz Fest and how to do it right with a large group."
 date: 2026-05-24

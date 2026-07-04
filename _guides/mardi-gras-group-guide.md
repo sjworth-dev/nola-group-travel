@@ -1,7 +1,7 @@
 ---
 title: "Mardi Gras Group Guide: Planning for Large Groups"
 description: "The complete logistics guide for bringing a large group to New Orleans for Mardi Gras. Parades, accommodation, transportation, and everything that goes wrong when you don't plan."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Mardi Gras"
 card_description: "The biggest party in America. Here's how to do it right with large groups."
 date: 2026-05-22

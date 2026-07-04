@@ -1,7 +1,7 @@
 ---
 title: "How to Assign Trip Roles Before You Arrive in New Orleans"
 description: "The logistics lead, the food researcher, the transport coordinator, the camera person, the treasurer — what each role prevents for groups of 10-30 and how to avoid one person doing everything."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Assign Trip Roles Before You Arrive"
 card_description: "Every group trip has someone doing everything and everyone else doing nothing. Here's how to distribute the five key roles before you arrive so no one person carries the whole trip."
 date: 2026-07-02

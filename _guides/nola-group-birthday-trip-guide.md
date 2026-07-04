@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Birthday Trip Guide for Large Groups"
 description: "Planning a large group trip to New Orleans for someone's birthday: the birthday-centric itinerary, how to make the honoree feel celebrated without coordinating secrets from 20 people, villa dinner vs. restaurant buyout, and the private second line option."
-category: "Special Occasions"
+category: "Weddings & Celebrations"
 card_title: "Group Birthday Trip"
 card_description: "Making one person feel celebrated in a group of 20 in New Orleans: the structure, the surprises, the dinner decision, and the private second line option."
 date: 2026-06-17

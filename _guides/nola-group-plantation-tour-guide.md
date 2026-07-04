@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Plantation Tour Guide for Large Groups"
 description: "Plantation tours as a large group activity near New Orleans: the difference between heritage tours and romanticized plantation tours, Whitney Plantation logistics, Cajun Country context, and how to structure a meaningful full-day experience for groups of 10-30."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Plantation Tour Guide"
 card_description: "Whitney Plantation and heritage tours for large groups — the ethical framing, logistics from New Orleans, Cajun Country context, and full-day structure for 10-30 people."
 date: 2026-06-15

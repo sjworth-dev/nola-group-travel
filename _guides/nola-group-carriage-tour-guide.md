@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Carriage Tour Guide for Large Groups"
 description: "Horse-drawn carriage tours in the French Quarter for large groups: private carriage bookings, what routes cover, how to use a carriage tour as an arrival-day orientation, and group logistics for 15-30 people."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Carriage Tours for Groups"
 card_description: "Private horse-drawn carriage tours in the French Quarter for groups of 15-30. What routes cover, booking logistics, and why it works as an arrival-day orientation activity."
 date: 2026-06-12

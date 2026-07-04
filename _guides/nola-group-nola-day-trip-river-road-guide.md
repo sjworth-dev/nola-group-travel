@@ -1,7 +1,7 @@
 ---
 title: "River Road Day Trip from New Orleans for Large Groups"
 description: "The Whitney Plantation day trip for groups of 15-25: the drive structure, the ethical framework for engaging plantation tourism honestly, lunch logistics on River Road, and what to do with what you experience."
-category: "Day Trips"
+category: "Activities & Day Trips"
 card_title: "River Road Day Trip"
 card_description: "The Whitney Plantation day trip for groups of 15-25: honest plantation tourism, River Road logistics, and how to structure a full day outside the city."
 date: 2026-06-27

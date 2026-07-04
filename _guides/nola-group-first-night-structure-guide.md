@@ -1,7 +1,7 @@
 ---
 title: "The First Night Structure for a Large NOLA Group Trip"
 description: "How to land 10-30 people in New Orleans and set the trip up correctly: arrival window management, the orientation walk, first dinner strategy, and what not to do before night two."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "First Night Done Right"
 card_description: "The first night sets the tone for everything that follows. Here's how to land 10-30 people in NOLA without burning everyone out before night two actually starts."
 date: 2026-07-01

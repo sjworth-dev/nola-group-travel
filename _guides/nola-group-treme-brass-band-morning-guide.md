@@ -1,7 +1,7 @@
 ---
 title: "Morning in the Tremé with Brass Bands for Large Groups in New Orleans"
 description: "A brass band-focused morning in the Tremé for groups of 10-20: Congo Square at opening, the Backstreet Cultural Museum early hours, corner bars that host informal brass band jams, and the mid-morning transition to Frenchmen Street."
-category: "Culture & Music"
+category: "Culture & History"
 card_title: "Tremé Brass Band Morning"
 card_description: "Congo Square, Backstreet Cultural Museum, informal brass band jams, and the walk to Frenchmen — the essential music morning in the neighborhood where American music began."
 date: 2026-06-26

@@ -1,7 +1,7 @@
 ---
 title: "Accessible New Orleans: Planning a Group Trip for All Abilities"
 description: "How to plan a large group trip to New Orleans when some guests have mobility limitations, wheelchair needs, or hearing and vision considerations. The real talk on French Quarter cobblestones, accessible restaurants, villa vs. hotel, and how to build a trip where everyone participates fully."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Accessible Group Travel"
 card_description: "Mobility, wheelchair access, and how to plan a NOLA trip where everyone actually participates."
 date: 2026-05-27

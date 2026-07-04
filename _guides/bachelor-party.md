@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Bachelor Party Guide"
 description: "Plan an epic New Orleans bachelor party for large groups. Where to stay, what to do, and how to make it legendary."
-category: "Bachelor"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelor Parties"
 card_description: "Golf, gambling, live music, and legendary nights. The complete guide for large groups."
 date: 2026-01-14

@@ -1,7 +1,7 @@
 ---
 title: "The Perfect NOLA Sunday for Large Groups: Full Day Structure, Hour by Hour"
 description: "The best single-day group itinerary in New Orleans: jazz brunch, second line possibility, City Park or Crescent Park afternoon, Frenchmen Street evening — a complete Sunday structure for groups of 10-30."
-category: "Itineraries"
+category: "Planning & Logistics"
 card_title: "The Perfect NOLA Sunday"
 card_description: "Sunday in New Orleans is the best day of the week if you do it right: jazz brunch, a second line or a long afternoon in the park, Frenchmen Street in the evening. Here's the full structure for groups of 10-30."
 date: 2026-07-01

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Family Reunion Guide"
 description: "Plan a multi-generational family reunion in New Orleans. Accommodations, activities, and dining for large groups."
-category: "Reunions"
+category: "Friends & Family"
 card_title: "Family Reunions"
 card_description: "Bring three generations together in one place. Activities and dining that work for everyone."
 date: 2026-01-14

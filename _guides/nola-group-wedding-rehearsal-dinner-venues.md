@@ -1,7 +1,7 @@
 ---
 title: "Rehearsal Dinner Venues in New Orleans for Large Groups"
 description: "Private venue guide for rehearsal dinners in New Orleans: courtyard restaurants, rooftop options, villa dinner format vs. restaurant private room, and the full comparison for groups of 20-50."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "Rehearsal Dinner Venues"
 card_description: "Courtyard restaurants, private rooms, rooftop options, and the villa dinner format — full comparison for groups of 20-50."
 date: 2026-06-20

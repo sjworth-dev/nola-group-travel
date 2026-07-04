@@ -1,7 +1,7 @@
 ---
 title: "The French Quarter After Dark for Large Groups"
 description: "The French Quarter at night for groups of 15-30: the three-act structure, which bars have capacity for a large group, the courtyard bars everyone misses, and how to move 20 people through the Quarter without losing them at the Tropical Isle."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "French Quarter After Dark"
 card_description: "How to do the French Quarter at night with 15-30 people: which bars work, which to skip, and the three-act structure that ends on Frenchmen Street."
 date: 2026-06-20

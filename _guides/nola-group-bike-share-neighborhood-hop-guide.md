@@ -1,7 +1,7 @@
 ---
 title: "Blue Bikes Group Rides in New Orleans for 10-20 People"
 description: "Station logistics, best cross-neighborhood routes for large groups, helmet culture, and how to pair New Orleans bike share rides with neighborhood brunch or lunch stops for groups of 10-20."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "Blue Bikes Group Ride Guide"
 card_description: "Station logistics, best cross-neighborhood routes, helmet culture, and pairing the bike share with neighborhood food stops for groups of 10-20 in New Orleans."
 date: 2026-06-25

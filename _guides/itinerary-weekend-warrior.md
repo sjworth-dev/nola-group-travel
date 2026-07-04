@@ -1,7 +1,7 @@
 ---
 title: "48-Hour New Orleans Group Itinerary: The Weekend Warrior"
 description: "Fly in Friday night, leave Sunday afternoon. The tightest NOLA group itinerary that still hits everything worth hitting — Frenchmen Street, one great dinner, a real morning, and a clean exit."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Weekend Warrior Itinerary"
 card_description: "48 hours in New Orleans. Arrive Friday night, leave Sunday. Here's how to make it count."
 date: 2026-05-28

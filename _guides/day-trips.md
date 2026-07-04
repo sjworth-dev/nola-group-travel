@@ -1,7 +1,7 @@
 ---
 title: "Day Trips from New Orleans for Large Groups"
 description: "Plantation tours, Cajun Country, the Gulf Coast, and Lafayette — day trip options from New Orleans with transportation logistics for groups of 10-30."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Day Trips from NOLA"
 card_description: "Plantations, swamps, Cajun Country, and the Gulf Coast. Day trips for groups of 10-30."
 date: 2026-05-24

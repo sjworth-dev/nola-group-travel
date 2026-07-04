@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Boat Trip & Booze Cruise Guide for Large Groups"
 description: "Mississippi River and Lake Pontchartrain boat trips for groups of 15-30: Steamboat Natchez, private pontoon charters, sunset cruises, and how to structure a full boat day in New Orleans."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Booze Cruises & Boat Trips"
 card_description: "From Steamboat Natchez dinner cruises to private pontoon charters — how to get your group of 15-30 on the water in New Orleans."
 date: 2026-06-11

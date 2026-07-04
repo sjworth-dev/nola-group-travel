@@ -1,7 +1,7 @@
 ---
 title: "Late-Night NOLA for Non-Drinkers: How to Do the City After Dark Without the Bar Track"
 description: "Live music without the alcohol, late-night food without bar logistics, and how the non-drinker — whether sober, sober-curious, or just not in that mode — actually fits into a NOLA group trip built around bar culture."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Late-Night NOLA Without Drinking"
 card_description: "NOLA's after-dark culture runs deep enough that you don't need alcohol to be in it. Live music, late-night food, the streets themselves — here's how to be fully present at 1am without a drink in your hand."
 date: 2026-07-01

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Rooftop and Elevated Bar Guide for Large Groups"
 description: "Best rooftop and elevated outdoor bars for large groups in New Orleans: sunset views, CBD skyline spots, pool deck bars, and how to coordinate 15+ people at venues with limited outdoor space."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Rooftop Bar Guide"
 card_description: "Sunset views, CBD skyline spots, and pool deck bars. How to do elevated drinking with 15+ people in New Orleans without losing half the group."
 date: 2026-06-02

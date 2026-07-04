@@ -1,7 +1,7 @@
 ---
 title: "Private Dining and Group Dinners for Corporate Groups in New Orleans"
 description: "How to plan group dinners for corporate retreats and large parties in New Orleans: private dining rooms, restaurant buyouts, negotiating group menus, and the NOLA restaurants that handle 20-30 people without the experience falling apart."
-category: "Corporate"
+category: "Corporate Retreats"
 card_title: "Corporate Dinner Planning Guide"
 card_description: "Private dining rooms, buyout restaurants, group menu negotiation, and the NOLA spots that handle 20-30 people without collapsing under the volume."
 date: 2026-06-04

@@ -1,7 +1,7 @@
 ---
 title: "New Year's Eve at a NOLA Villa: The Case for Staying In (And Going Out)"
 description: "Why NYE in New Orleans is more underrated than people think, the midnight balcony moment, batch cocktail countdowns, fireworks from the Bywater levee, and how to structure a private villa NYE for groups of 15-30."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "NYE at a NOLA Villa"
 card_description: "Staying in vs. going out for New Year's in New Orleans — the midnight balcony moment, batch cocktail countdowns, levee fireworks, and why NYE is one of NOLA's most underrated group trip dates."
 date: 2026-06-22

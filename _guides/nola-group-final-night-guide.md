@@ -1,7 +1,7 @@
 ---
 title: "The Last Night of a NOLA Group Trip: Getting the Sendoff Right"
 description: "How to structure the final night of a New Orleans group trip so it doesn't feel like a consolation prize: where to eat the last dinner, which bar earns a proper goodbye, whether to stay late or save energy for departure morning, and how to end on a note that makes people want to come back."
-category: "Trip Planning"
+category: "Planning & Logistics"
 card_title: "The Last Night"
 card_description: "The final night of a NOLA group trip done right: the sendoff dinner, the bar that earns a proper goodbye, and how to end in a way that makes people want to come back."
 date: 2026-06-17

@@ -1,7 +1,7 @@
 ---
 title: "Ordering Food Delivery for Your NOLA Villa Group"
 description: "Which delivery platforms work, best large-order restaurants, how to coordinate multiple orders, and what to order for a villa cookout with 15-30 people in New Orleans."
-category: "Food"
+category: "Food & Drink"
 card_title: "Villa Food Delivery Guide"
 card_description: "Feeding 15-30 people at a New Orleans villa: delivery logistics, what to order, and when to skip delivery entirely."
 date: 2026-05-31

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Packing Guide by Trip Type"
 description: "What to pack for your NOLA group trip depends on why you're going — bachelorette, corporate retreat, sports weekend, or wedding party each have different requirements. Plus shared infrastructure items and the one-bag-per-subgroup collective approach."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Packing by Group Type"
 card_description: "Bachelorette, corporate, sports weekend, or wedding party — what your group actually needs to pack, and how to share the infrastructure."
 date: 2026-06-21

@@ -1,7 +1,7 @@
 ---
 title: "Rain Delay Bar Strategy for Large NOLA Groups"
 description: "What to do when outdoor plans get rained out mid-afternoon in New Orleans: which bar districts absorb large groups unplanned, interior venues with space, and the two-hour pivot playbook for groups of 10-30."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "The Rain Delay Pivot"
 card_description: "NOLA rain hits fast and hard. Here's the two-hour pivot playbook for groups of 10-30 when outdoor plans evaporate mid-afternoon."
 date: 2026-07-02

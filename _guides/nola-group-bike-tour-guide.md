@@ -1,7 +1,7 @@
 ---
 title: "Cycling New Orleans with Large Groups"
 description: "Guided tours vs. self-guided, City Park circuits, Garden District and Uptown routes, managing 15+ bikes on flat streets, and rental logistics for large groups cycling New Orleans."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Group Bike Tour Guide"
 card_description: "Guided vs. self-guided, the best routes for large groups, rental logistics, and how to actually keep 20+ bikes together on flat NOLA streets."
 date: 2026-06-03

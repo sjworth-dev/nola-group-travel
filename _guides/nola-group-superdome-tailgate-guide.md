@@ -1,7 +1,7 @@
 ---
 title: "Pre-Game Tailgate Guide for Large Groups at Caesars Superdome"
 description: "Parking lot tailgate, nearby bar pre-game, and villa pre-game for groups of 15-30 attending Saints games or events at Caesars Superdome: timing, logistics, and the three formats that actually work at scale."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "Superdome Pre-Game Tailgate Guide"
 card_description: "Parking lot vs. nearby bar vs. villa pre-game for groups of 15-30 at Caesars Superdome: timing, format comparison, Saints traditions, and group logistics that keep everyone together."
 date: 2026-06-25

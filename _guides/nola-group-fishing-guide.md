@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Fishing Guide"
 description: "Inshore marsh, offshore Gulf, and Lake Pontchartrain fishing for large groups: how to book charter boats, split groups across multiple vessels, what species to target by season, and the full fishing-day structure for a NOLA guys trip."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Group Fishing Guide"
 card_description: "Inshore, offshore, Pontchartrain. How to book charters for 15-25 people, split across boats, and build a full fishing day around it."
 date: 2026-06-02

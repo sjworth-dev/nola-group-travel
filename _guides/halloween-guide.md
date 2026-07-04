@@ -1,7 +1,7 @@
 ---
 title: "Halloween in New Orleans: Group Guide"
 description: "How to do Halloween in New Orleans with a large group: the best events, costume logistics, bar crawls, and why NOLA is one of the top Halloween cities in the country."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Halloween in NOLA"
 card_description: "One of the best Halloween cities in the country. Here's how to do it with a large group."
 date: 2026-05-25

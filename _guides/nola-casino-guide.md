@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Casino Guide for Large Groups"
 description: "Harrah's Casino, poker rooms, table strategy, and how to structure a casino evening that actually works for a mixed group of 10-30 people in New Orleans."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Casino Night Guide"
 card_description: "How to do a casino evening right with a large group — table strategy, poker rooms, who plays what, and how to keep everyone engaged."
 date: 2026-06-07

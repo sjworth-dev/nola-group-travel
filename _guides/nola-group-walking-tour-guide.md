@@ -1,7 +1,7 @@
 ---
 title: "Self-Guided Walking Tour Guide for Groups of 10-30 in New Orleans"
 description: "Self-guided walking tours for large groups in New Orleans: four neighborhood routes (French Quarter, Garden District, Marigny/Bywater, Tremé), what to narrate at each stop, group pacing logistics, and how to structure a walking tour morning that doesn't feel like homework."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Self-Guided Walking Tour Guide"
 card_description: "Four self-guided walking tour routes for groups of 10-30: French Quarter, Garden District, Marigny/Bywater, and Tremé. What to narrate, how to pace a large group, and how to make a walking tour morning actually fun."
 date: 2026-06-17

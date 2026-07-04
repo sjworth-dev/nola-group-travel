@@ -1,7 +1,7 @@
 ---
 title: "New Orleans First-Timer Guide for Large Groups"
 description: "Everything a large group needs to know before their first trip to New Orleans: the must-dos, common mistakes, what's real vs. tourist trap, and how to actually experience the city."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "First-Timer Guide"
 card_description: "What to know, what to skip, and how to see the real New Orleans with your group."
 date: 2026-05-25

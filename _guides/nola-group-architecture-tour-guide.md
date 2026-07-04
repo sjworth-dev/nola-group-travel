@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Architecture Tour Guide for Large Groups"
 description: "Self-guided and guided architecture tours for large groups — Creole cottage, shotgun house, Greek Revival mansion, and cast iron balcony traditions, the best walking routes by neighborhood, and how to read a New Orleans facade for groups of 10-30."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Architecture Tour Guide"
 card_description: "NOLA architecture for large groups — Creole cottages, shotgun houses, Greek Revival mansions, cast iron balconies, the best walking routes by neighborhood, and how to read a NOLA facade."
 date: 2026-06-15

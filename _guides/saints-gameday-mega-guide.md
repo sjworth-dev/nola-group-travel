@@ -1,7 +1,7 @@
 ---
 title: "Saints Gameday Mega-Guide: 15-30 People at Caesars Superdome"
 description: "Deep Saints gameday logistics for large groups at Caesars Superdome. Ticket strategy, tailgate options, pre-game bar routes, the walk to and from the dome, and how to structure a full gameday for 15-30 people."
-category: "Sports"
+category: "Festivals & Events"
 card_title: "Saints Gameday Mega-Guide"
 card_description: "Full gameday logistics for large groups: tickets, tailgates, pre-game routes, getting home, and how to structure 8 hours for 20 people."
 date: 2026-05-29

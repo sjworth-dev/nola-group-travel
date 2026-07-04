@@ -1,7 +1,7 @@
 ---
 title: "How to Tip Live Musicians as a Large Group in New Orleans"
 description: "The per-song tip model, the collective hat for brass bands, when to tip the whole band vs. individual players, second line performer protocol, and what New Orleans musicians actually want from a group of 20 tourists."
-category: "Culture & Etiquette"
+category: "Culture & History"
 card_title: "NOLA Live Music Tipping Protocol"
 card_description: "Per-song tips, the collective hat for brass bands, when to tip the whole band vs. individual players, and what musicians actually want from a group of 20 visitors."
 date: 2026-06-23

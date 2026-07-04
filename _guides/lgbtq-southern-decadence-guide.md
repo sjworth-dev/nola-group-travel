@@ -1,7 +1,7 @@
 ---
 title: "Southern Decadence: The Large Group LGBTQ+ Planning Guide"
 description: "Plan a large LGBTQ+ group trip to Southern Decadence in New Orleans. Event schedule, neighborhood logistics, accommodation strategy for Labor Day weekend, and how to get the most out of the biggest queer event in the South."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Southern Decadence Group Guide"
 card_description: "The biggest queer event in the South. How to plan Southern Decadence for large groups — where to stay, what to expect, and how to not waste the weekend."
 date: 2026-05-28

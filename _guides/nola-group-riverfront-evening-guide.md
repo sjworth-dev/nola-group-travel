@@ -1,7 +1,7 @@
 ---
 title: "Riverfront Evening for Large Groups: Moonwalk, Algiers Ferry, and Woldenberg Park"
 description: "Woldenberg Park, the Moonwalk levee walk, and the Algiers Ferry for a large group evening: the free sunset view logistics, the ferry as a group experience, and what to do in Algiers Point before taking the ferry back."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Riverfront Evening Guide"
 card_description: "The Moonwalk levee walk, Algiers Ferry crossing, and Algiers Point for groups of 10-30: a free evening on the Mississippi that most visitors completely miss."
 date: 2026-06-16

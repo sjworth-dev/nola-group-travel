@@ -1,7 +1,7 @@
 ---
 title: "St. Charles Streetcar Itinerary for Large Groups in New Orleans"
 description: "The St. Charles Streetcar as the spine of a full Uptown day for groups of 15-30: boarding strategy for 20 people, the Garden District window view, Audubon Park, the Uptown restaurant stretch, and the round-trip structure."
-category: "Itineraries"
+category: "Planning & Logistics"
 card_title: "St. Charles Streetcar Day"
 card_description: "The best free (almost) day in NOLA: ride the historic streetcar through the Garden District and Uptown, stop at Audubon Park, eat well, and ride back. The full group itinerary."
 date: 2026-06-18

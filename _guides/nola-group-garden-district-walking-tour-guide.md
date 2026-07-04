@@ -1,7 +1,7 @@
 ---
 title: "Garden District Walking Tour for Large Groups in New Orleans"
 description: "Self-guided Garden District walking tour for large groups of 10-30: the best mansion blocks, Lafayette Cemetery entry requirements, the Commander's Palace exterior, and the Magazine Street transition — a 3-hour structure for groups."
-category: "Neighborhoods & Walks"
+category: "Activities & Day Trips"
 card_title: "Garden District Walking Tour"
 card_description: "Historic mansions, Lafayette Cemetery, Commander's Palace, and the Magazine Street transition — the definitive 3-hour self-guided walking tour for large groups of 10-30."
 date: 2026-06-26

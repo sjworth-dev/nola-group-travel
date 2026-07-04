@@ -1,7 +1,7 @@
 ---
 title: "Running a Productive Corporate Offsite in a New Orleans Villa"
 description: "How to run focused, productive work sessions during a NOLA corporate offsite. WiFi requirements, meeting room setup, agenda design, and the work-experience balance."
-category: "Corporate"
+category: "Corporate Retreats"
 card_title: "Corporate Offsite Productivity"
 card_description: "WiFi requirements, meeting setup, agenda design, and the 60/40 rule for making villa offsites actually productive."
 date: 2026-05-30

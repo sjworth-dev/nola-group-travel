@@ -1,7 +1,7 @@
 ---
 title: "Attending a Neighborhood Second Line Parade on Sunday in New Orleans"
 description: "A guide to attending authentic neighborhood second line parades on Sunday in New Orleans: what second lines are, how to find which one is happening this weekend, the route structure, what to wear, how to move as a large group, and the neighborhood context that makes each parade distinct."
-category: "Culture"
+category: "Culture & History"
 card_title: "Second Line Sunday"
 card_description: "How to find and follow a real New Orleans neighborhood second line on Sunday: the Social Aid and Pleasure Club schedule, what to wear, how to move as a large group, and why this is the most authentic thing you can do in New Orleans."
 date: 2026-06-17

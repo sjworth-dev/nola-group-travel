@@ -1,7 +1,7 @@
 ---
 title: "Voodoo Fest Group Guide: Music, Halloween, and New Orleans"
 description: "How to do the Voodoo Music + Arts Experience with a large group. Tickets, City Park logistics, costume strategy, the French Quarter Halloween scene, and how to structure a multi-day music and Halloween weekend."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Voodoo Fest"
 card_description: "Halloween weekend music festival at City Park. Here's how to do it with a large group."
 date: 2026-06-06

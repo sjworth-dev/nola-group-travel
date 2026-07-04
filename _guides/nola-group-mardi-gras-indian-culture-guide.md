@@ -1,7 +1,7 @@
 ---
 title: "Mardi Gras Indians Guide for Large Groups Visiting New Orleans"
 description: "What Mardi Gras Indians actually are, how to encounter the culture respectfully, Super Sunday logistics for groups, the suit-making tradition, and what distinguishes this living tradition from a tourist attraction — for groups of 10-30."
-category: "Culture"
+category: "Culture & History"
 card_title: "Mardi Gras Indians Guide"
 card_description: "Mardi Gras Indians for large groups — what the culture is, how to encounter it respectfully, Super Sunday logistics, the suit-making tradition, and what to expect."
 date: 2026-06-15

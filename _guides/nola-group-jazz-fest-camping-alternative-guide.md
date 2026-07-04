@@ -1,7 +1,7 @@
 ---
 title: "Jazz Fest Camping vs. Villa: The Honest Comparison for Large Groups"
 description: "The straight answer on Jazz Fest camping versus renting a private villa in Bywater or Marigny — what each option actually looks like, how the commute compares, and why most large groups are better off with a villa as base camp."
-category: "Jazz Fest"
+category: "Festivals & Events"
 card_title: "Jazz Fest Camping vs. Villa"
 card_description: "What Jazz Fest camping actually looks like, what a Bywater villa gives you instead, and the honest case for each."
 date: 2026-06-23

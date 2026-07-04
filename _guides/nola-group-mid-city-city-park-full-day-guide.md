@@ -1,7 +1,7 @@
 ---
 title: "City Park Full-Day Guide for Large Groups in New Orleans"
 description: "City Park full-day guide for large groups of 10-30: NOMA, the Sculpture Garden, Storyland, Carousel Gardens, Bayou St. John kayak launch, Popp's Bandstand, and the Mid-City restaurant corridor for a complete day without touching the tourist district."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "City Park Full-Day Guide"
 card_description: "NOMA, Sculpture Garden, Storyland, the kayak launch, Popp's Bandstand, and the Mid-City restaurant corridor — a complete day in New Orleans without the tourist district."
 date: 2026-06-24

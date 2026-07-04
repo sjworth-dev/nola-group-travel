@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Multigenerational Family Reunion Guide"
 description: "Planning a multigenerational family reunion in New Orleans for ages 5 to 75. Activities that span generations, restaurants with wide menus, mobility considerations, and the split-schedule model."
-category: "Family"
+category: "Friends & Family"
 card_title: "Family Reunions (All Ages)"
 card_description: "Ages 5 to 75 in the same city. How to plan a multigenerational family reunion in New Orleans without losing anyone."
 date: 2026-05-29

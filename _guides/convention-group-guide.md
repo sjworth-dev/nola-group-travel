@@ -1,7 +1,7 @@
 ---
 title: "Convention Groups in New Orleans: The Practical Guide"
 description: "Attending a convention or conference in New Orleans with a large group: using the Convention Center, hotel vs. villa strategy, getting around the CBD, and making the most of free time."
-category: "Corporate"
+category: "Corporate Retreats"
 card_title: "Convention Groups"
 card_description: "Attending a conference in New Orleans with your team? Here's the hotel vs. villa calculation, the CBD logistics, and how to actually enjoy the city."
 date: 2026-05-25

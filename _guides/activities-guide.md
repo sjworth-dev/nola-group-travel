@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Activities: The Complete Guide"
 description: "Every activity worth doing in New Orleans with a large group—swamp tours, cooking classes, ghost tours, second lines, plantation tours, biking, golf, and more. With group logistics for each."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Activities Guide"
 card_description: "Everything worth doing in New Orleans with a large group, with real logistics for each."
 date: 2026-05-23

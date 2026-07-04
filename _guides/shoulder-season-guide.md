@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Shoulder Season Guide for Groups"
 description: "The case for visiting New Orleans in October, January, February, and late August: lower rates, smaller crowds, what you give up, what you gain, and the experiences that are actually better outside peak season."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Shoulder Season Guide"
 card_description: "October, January, February, late August — lower rates, smaller crowds, and some genuinely better experiences. Here's the honest breakdown."
 date: 2026-05-27

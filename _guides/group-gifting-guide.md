@@ -1,7 +1,7 @@
 ---
 title: "How to Organize Group Gifts on a NOLA Trip"
 description: "Coordinating group gifts for a bachelorette, milestone birthday, or celebration trip to New Orleans. Local vendors, group experiences, and logistics for 10-30 people."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Gifting Guide"
 card_description: "Group gifts for bachelorettes, milestone birthdays, and celebration trips—what to buy, where to get it, and how to coordinate the money."
 date: 2026-05-30

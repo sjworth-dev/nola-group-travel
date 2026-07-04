@@ -1,7 +1,7 @@
 ---
 title: "Hot Tub Logistics for Large NOLA Groups"
 description: "Hot tub capacity reality, rotation etiquette, the 10pm outdoor sound cutoff, soaking as active recovery, and why the 11pm hot tub session is often the best conversation of the trip—for groups of 15-30 in a New Orleans villa."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Villa Hot Tub Protocol"
 card_description: "A hot tub shared by 20 people needs a rotation plan, a noise plan, and someone who knows when to get out. Here's the protocol that prevents the small frustrations and sets up the best conversation of the trip."
 date: 2026-07-04

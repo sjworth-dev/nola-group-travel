@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Cemetery Tour Guide for Large Groups"
 description: "Above-ground cemeteries as a group activity in New Orleans: St. Louis Cemetery logistics, Lafayette Cemetery in the Garden District, group entry requirements, guided vs. self-guided comparison, photography, and structuring a cemetery half-day."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Cemetery Tour Guide"
 card_description: "New Orleans's above-ground cemeteries for groups — St. Louis Cemetery entry requirements, Lafayette Cemetery logistics, guided vs. self-guided, photography tips, and the full half-day structure."
 date: 2026-06-15

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Second Line Parades: A Complete Group Guide"
 description: "What second line parades are, how to find them, how to hire a brass band for your own private second line, and how to act when you're in one."
-category: "Culture"
+category: "Culture & History"
 card_title: "Second Line Parades"
 card_description: "What they are, how to find them, and how to book one for your own group. The definitive guide."
 date: 2026-05-24

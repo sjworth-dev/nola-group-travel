@@ -1,7 +1,7 @@
 ---
 title: "Corporate Team Building in New Orleans"
 description: "Team-building activities and experiences for corporate groups in New Orleans: cooking classes, second lines, scavenger hunts, community service half-days, and how to plan a retreat that isn't just PowerPoints."
-category: "Corporate"
+category: "Corporate Retreats"
 card_title: "Corporate Team Building"
 card_description: "Cooking classes, second lines, scavenger hunts, service half-days, and retreat structures that actually work. No trust falls."
 date: 2026-05-27

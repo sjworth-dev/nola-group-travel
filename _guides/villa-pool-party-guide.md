@@ -1,7 +1,7 @@
 ---
 title: "Running a Private Pool Party at Your NOLA Villa"
 description: "Music setup, inflatable gear, food and drinks, safety logistics, and the night-after pool party structure for groups of 15-30 at a New Orleans villa."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Villa Pool Party Guide"
 card_description: "How to run a proper private pool party for 15-30 people. Music, gear, food, safety, and the post-party night-out structure."
 date: 2026-06-01

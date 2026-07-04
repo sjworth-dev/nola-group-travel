@@ -1,7 +1,7 @@
 ---
 title: "How to Run a Pool Day at Your NOLA Villa"
 description: "Morning setup, day-drinking pacing, food vs. cookout, music logistics, sunscreen reality, and the afternoon nap strategy for groups of 10-30."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "NOLA Villa Pool Day"
 card_description: "How to actually run a pool day without it collapsing by 3pm. Setup, pacing, food, music, and the nap pivot."
 date: 2026-06-01

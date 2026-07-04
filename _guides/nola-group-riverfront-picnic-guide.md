@@ -1,7 +1,7 @@
 ---
 title: "The NOLA Riverfront Picnic: Woldenberg Park and the Moonwalk for Groups of 20"
 description: "The best free afternoon in New Orleans for a large group: how to source a proper picnic spread from the French Market and nearby grocery stores, when the sunset window opens over the Mississippi, how to set up on the Moonwalk levee, and why this beats any paid activity for pure group quality time."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Riverfront Picnic"
 card_description: "The best free afternoon in NOLA for a group of 20: sourcing from the French Market, the sunset window on the Moonwalk levee, and how to set up a spread that feels intentional."
 date: 2026-06-18

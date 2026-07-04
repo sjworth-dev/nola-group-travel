@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Spoken Word & Storytelling Guide for Large Groups"
 description: "Spoken word events, storytelling shows, and literary performance venues for large groups in New Orleans: NOLA's unique literary culture, private event formats, and the full evening structure around a storytelling anchor."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Spoken Word & Storytelling"
 card_description: "Literary performance, spoken word, and storytelling events for groups in New Orleans — NOLA's literary culture, private event formats, and how to build an evening around a storytelling anchor."
 date: 2026-06-15

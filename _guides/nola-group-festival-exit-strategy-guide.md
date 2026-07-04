@@ -1,7 +1,7 @@
 ---
 title: "NOLA Festival Exit Strategy for Large Groups"
 description: "Getting 20 people out of Jazz Fest, Voodoo Fest, or French Quarter Fest without a 90-minute Uber queue: rideshare timing, exit points, split-and-reconvene logistics, and the post-festival transition plan."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Festival Exit Strategy"
 card_description: "The festival was great. Now you need to get 20 people out. The Uber queue is 90 minutes long and growing. Here's how to avoid this entirely—and what to do when you're already in it."
 date: 2026-07-04

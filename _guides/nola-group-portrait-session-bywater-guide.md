@@ -1,7 +1,7 @@
 ---
 title: "The Bywater as a Group Portrait Backdrop: A Practical Guide for 15-30 People"
 description: "The Bywater neighborhood is one of the best places in the country to shoot a large group portrait — if you know exactly when to show up and what to wear. Here's how to pull it off."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Bywater Group Portrait Session"
 card_description: "When to shoot, what to wear, and how to hire the right photographer for a group portrait session in the Bywater."
 date: 2026-06-23

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Spa and Wellness Guide for Large Groups"
 description: "Spa, wellness, and recovery options for large groups in New Orleans: day spas, group bookings, yoga, float tanks, and how to build a recovery day into a big group trip."
-category: "Wellness"
+category: "Activities & Day Trips"
 card_title: "Spa & Wellness Guide"
 card_description: "Recovery days, group spa bookings, yoga, float tanks, and how to decompress in New Orleans."
 date: 2026-05-26

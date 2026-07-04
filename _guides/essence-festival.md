@@ -1,7 +1,7 @@
 ---
 title: "Essence Festival Group Guide: New Orleans"
 description: "How to plan a large group trip to Essence Festival in New Orleans. The biggest weekend in the city—here's how to do it right with 10-30 people."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Essence Festival"
 card_description: "The biggest weekend in New Orleans. How to plan a group trip to Essence Fest the right way."
 date: 2026-05-23

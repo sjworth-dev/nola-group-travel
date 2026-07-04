@@ -1,7 +1,7 @@
 ---
 title: "New Orleans DIY Culinary Tour Guide for Large Groups"
 description: "DIY culinary tour of New Orleans for large groups: po-boys, gumbo, beignets, boudin, red beans and rice — a neighborhood-by-neighborhood eating itinerary covering the full range of Louisiana food culture."
-category: "Food"
+category: "Food & Drink"
 card_title: "Culinary Tour Guide"
 card_description: "Po-boys, gumbo, beignets, boudin, red beans. A real eating tour by neighborhood, for groups of 10-30."
 date: 2026-05-26

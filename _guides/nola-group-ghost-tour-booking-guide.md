@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Ghost Tour Guide for Large Groups"
 description: "Private ghost tour bookings vs. joining a public tour for groups of 15-30 in New Orleans. What's actually interesting, what's theatrical, and how to combine it with cemetery visits and cocktail history."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Ghost Tours for Large Groups"
 card_description: "Private vs. public ghost tours for groups of 15-30. What's genuinely compelling, what's theatrical, and how to build the full haunted NOLA evening."
 date: 2026-06-12

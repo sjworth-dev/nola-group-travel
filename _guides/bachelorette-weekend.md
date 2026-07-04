@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Bachelorette Weekend: Hour-by-Hour"
 description: "A tactical 3-day bachelorette weekend itinerary for groups of 10-25 in New Orleans. Day-by-day, with real logistics."
-category: "Bachelorette"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Weekend Itinerary"
 card_description: "Hour-by-hour, day-by-day bachelorette planning for groups of 10-25. The tactical version."
 date: 2026-05-24

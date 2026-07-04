@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Drag Shows for Large Groups: The Complete Guide"
 description: "Drag shows and queer performance venues for large groups in New Orleans: how to book private tables, what to expect, tipping culture, and how to structure a full evening around the performance."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Drag Shows for Large Groups"
 card_description: "Private table booking, tipping culture, what to expect, and how to structure a full NOLA evening around drag performance for groups of 10-30."
 date: 2026-06-13

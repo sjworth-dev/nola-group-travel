@@ -1,7 +1,7 @@
 ---
 title: "Airbnb vs. Dedicated Group Villa in New Orleans: The Honest Comparison"
 description: "The honest Airbnb vs. dedicated group villa comparison for groups of 15-30: what Airbnb's house rules, single-host dependency, and lack of group-specific amenities mean in practice vs. Castleday and The Syd."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Airbnb vs. Villa Comparison"
 card_description: "The honest breakdown for groups of 15-30: what you're actually getting with Airbnb vs. a dedicated group villa, and why the math changes above 15 people."
 date: 2026-06-19

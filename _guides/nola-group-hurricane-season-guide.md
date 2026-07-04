@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Travel During Hurricane Season"
 description: "Honest hurricane season planning guide for large groups: June-November risk windows, what 'tropical storm watch' actually means for your trip, the travel insurance question, and how to make August-October shoulder season work."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Hurricane Season Guide"
 card_description: "The honest risk breakdown, what watches and warnings actually mean, and how to use shoulder season to your advantage."
 date: 2026-06-20

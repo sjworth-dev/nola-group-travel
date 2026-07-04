@@ -1,7 +1,7 @@
 ---
 title: "Arrival Day Orientation Walk for Large Groups"
 description: "The first two hours in New Orleans: neighborhood orientation walks for groups of 15-30 based on where you're staying. The Bywater and Marigny circuit, the Lower Garden District circuit, what to point out, and where to grab the first round."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Arrival Day Orientation Walk"
 card_description: "The first two hours in NOLA are the ones that set the tone for the whole trip. Here's how to run a neighborhood orientation walk for groups of 15-30, with two circuits based on where you're staying."
 date: 2026-06-28

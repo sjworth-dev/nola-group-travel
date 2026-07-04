@@ -1,7 +1,7 @@
 ---
 title: "Group Arrival and Departure Guide: Coordinating 15-30 People in New Orleans"
 description: "How to coordinate arrivals and departures for a large group in New Orleans. Airport logistics, early arrivals, late checkouts, bag storage, and structuring the first and last 4 hours of a trip."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Arrival & Departure Guide"
 card_description: "Airport logistics, early arrivals, late checkouts, and how to structure the first and last 4 hours so your trip starts and ends right."
 date: 2026-05-30

@@ -1,7 +1,7 @@
 ---
 title: "Craft Cocktail Bars in NOLA for Groups of 15-25"
 description: "Craft cocktail bars in New Orleans for groups of 15-25: the small-capacity problem, how to split and reconvene across multiple intimate bars, what to order, and how to structure a serious cocktail evening that isn't Bourbon Street."
-category: "Bars & Nightlife"
+category: "Nightlife & Music"
 card_title: "Craft Cocktail Bar Strategy for Groups"
 card_description: "Serious cocktail bars in New Orleans are built for six, not sixty. Here's how groups of 15-25 actually navigate the craft cocktail scene — what to order, how to split, when to reconvene, and how to make a serious cocktail evening work."
 date: 2026-06-28

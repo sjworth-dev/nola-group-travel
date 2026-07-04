@@ -1,7 +1,7 @@
 ---
 title: "Planning a NOLA Trip With Multiple Sub-Groups"
 description: "How to plan a New Orleans group trip when your group has different budgets, schedules, and preferences. The hub-and-spoke model for 15-30 people."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Multi-Sub-Group Trips"
 card_description: "Different budgets, different schedules, different interests—same trip. How to make it work."
 date: 2026-05-30

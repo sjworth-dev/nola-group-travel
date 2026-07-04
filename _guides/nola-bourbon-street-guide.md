@@ -1,7 +1,7 @@
 ---
 title: "Bourbon Street Group Guide: What's Worth It and What to Skip"
 description: "The frank guide to Bourbon Street for large groups: what's actually worth your time, what's a tourist trap, when to go, how to use it as one act in a larger night, and what first-timers need to see."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Bourbon Street Guide"
 card_description: "What's worth the detour, what to skip, and how to use Bourbon Street as one act in a bigger night — not the whole thing."
 date: 2026-06-03

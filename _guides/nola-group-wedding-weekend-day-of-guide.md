@@ -1,7 +1,7 @@
 ---
 title: "Day-of Wedding Logistics for Large Groups in New Orleans"
 description: "Day-of wedding logistics for large groups staying together in New Orleans: transportation from villa to ceremony, getting-ready schedules for 20+ people, hair and makeup coordination, and the hour-by-hour structure that keeps the group from being late."
-category: "Wedding & Celebrations"
+category: "Weddings & Celebrations"
 card_title: "Wedding Day Logistics for Large Groups"
 card_description: "Getting 20+ people ready, transported, and on time for a wedding ceremony in New Orleans is a logistics problem that requires a plan. Here's the hour-by-hour structure that actually works."
 date: 2026-06-29

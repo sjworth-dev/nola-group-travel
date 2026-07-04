@@ -1,7 +1,7 @@
 ---
 title: "NOLA Night Markets and Pop-Up Vendor Events for Large Groups"
 description: "NOLA night markets, pop-up markets, and weekend vendor events for large groups: what's consistently running vs. seasonal, the French Market after dark, and how to work a group through a crowded market without losing half of them."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "NOLA Night Market Guide"
 card_description: "Night markets, pop-up vendor events, and weekend markets for groups of 10-30: what's reliably open, how to navigate them with a large group, and what to actually buy."
 date: 2026-06-16

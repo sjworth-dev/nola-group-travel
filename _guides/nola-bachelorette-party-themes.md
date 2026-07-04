@@ -1,7 +1,7 @@
 ---
 title: "5 NOLA Bachelorette Party Themes for Groups of 10–25"
 description: "Five complete bachelorette party theme concepts for New Orleans groups: the Southern Belle, the Jazz Age, the Pool Queen, the Witch/Voodoo, and the Classic NOLA — each with costume direction, venue list, activity schedule, and decoration logistics."
-category: "Bachelorette"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Party Themes"
 card_description: "Five complete NOLA bachelorette themes — costume direction, venues, schedule, and decor for groups of 10–25."
 date: 2026-06-02

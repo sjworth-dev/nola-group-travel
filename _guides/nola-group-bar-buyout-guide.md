@@ -1,7 +1,7 @@
 ---
 title: "How to Buy Out a Bar or Courtyard in New Orleans"
 description: "The complete guide to booking a private bar or courtyard buyout for your large group in New Orleans: how to find venues, what it costs, what you actually get, and how to negotiate the deal."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Bar & Courtyard Buyouts"
 card_description: "Get exclusive use of a bar, courtyard, or jazz club for your group. What it costs, how to negotiate, and when a villa beats a buyout."
 date: 2026-06-08

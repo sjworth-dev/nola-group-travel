@@ -1,7 +1,7 @@
 ---
 title: "Bywater Bachelorette: The Alternative to Bourbon Street"
 description: "A Bywater-specific bachelorette itinerary for groups of 10-25. Bacchanal Wine, the neighborhood bar scene, vintage shopping, and why basing in the Bywater beats the French Quarter."
-category: "Bachelorette"
+category: "Bachelorette & Bachelor"
 card_title: "Bywater Bachelorette Itinerary"
 card_description: "Skip Bourbon Street. The Bywater bachelorette—Bacchanal, the neighborhood bar scene, vintage shopping, and your own private pool."
 date: 2026-05-29

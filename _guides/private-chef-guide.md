@@ -1,7 +1,7 @@
 ---
 title: "Hiring a Private Chef for Your Group in New Orleans"
 description: "How to hire a private chef for a group trip to New Orleans: what to expect, cost ranges, caterers vs. private chefs, and when it makes sense."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Private Chef Guide"
 card_description: "How private chefs work, what they cost, and when hiring one makes more sense than going out."
 date: 2026-05-24

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Weather Guide for Group Trips"
 description: "Month-by-month weather reality for planning a large group trip to New Orleans: heat, humidity, hurricane season, Mardi Gras cold snaps, and how weather shapes every decision."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Weather Guide"
 card_description: "The honest month-by-month weather breakdown for NOLA group trips—heat, humidity, hurricanes, and what to actually expect."
 date: 2026-05-30

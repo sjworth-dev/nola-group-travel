@@ -1,7 +1,7 @@
 ---
 title: "MSY Airport Transfers for Large Groups — 10 to 30 People"
 description: "The complete ground transportation guide for getting your group of 10-30 from Louis Armstrong International Airport to New Orleans: charter vans, rideshare coordination, arrival sequencing, and the staggered-arrival problem nobody warns you about."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "MSY Airport Transfer Guide"
 card_description: "Charter vans, rideshare staging, arrival sequencing, and departure logistics for groups of 10-30 flying into New Orleans."
 date: 2026-06-09

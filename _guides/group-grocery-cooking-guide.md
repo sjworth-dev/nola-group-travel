@@ -1,7 +1,7 @@
 ---
 title: "Cooking for 15-30 People in a New Orleans Villa"
 description: "Group grocery shopping strategy, New Orleans ingredient sourcing, recipes that scale, and the private chef vs. DIY decision framework for villa trips."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Cooking Guide"
 card_description: "How to grocery shop, cook, and eat well for 15-30 people in a villa kitchen. The private chef vs. DIY breakdown."
 date: 2026-05-29

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Parade Watching Guide for Large Groups"
 description: "Viewing Mardi Gras and other parades as a large group: lining up strategy, neutral ground vs. banquette, throws logistics, what to bring, how to keep 20 people together on a parade route, and the post-parade plan."
-category: "Events"
+category: "Festivals & Events"
 card_title: "NOLA Parade Watching Guide"
 card_description: "Mardi Gras and parade watching for groups of 10-30: where to stand, neutral ground vs. sidewalk, throws strategy, what to bring, and how to keep everyone together on a parade route."
 date: 2026-06-15

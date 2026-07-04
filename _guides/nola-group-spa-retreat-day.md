@@ -1,7 +1,7 @@
 ---
 title: "Group Spa Retreat Day in New Orleans — Villa vs. Booking Out a Spa"
 description: "How to run a full spa and recovery day for a group of 15-20 in New Orleans: float tanks, mobile massage at the villa, booking out a spa, beauty services, and the complete structure for a day that actually restores people."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Group Spa Retreat Day"
 card_description: "Float tanks, mobile massage, beauty services, and the full recovery day structure for groups of 15-20. Villa spa day vs. booking out a spa — what works and what doesn't."
 date: 2026-06-09

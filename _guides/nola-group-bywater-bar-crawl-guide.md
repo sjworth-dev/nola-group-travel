@@ -1,7 +1,7 @@
 ---
 title: "The Bywater Bar Crawl for Large Groups in New Orleans"
 description: "The definitive Bywater bar crawl for groups of 15-30: which bars absorb a large group, how to move from Bacchanal through St. Claude Avenue to the Marigny border, and the crawl structure that works for both early arrivals and night owls."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Bywater Bar Crawl Guide"
 card_description: "From Bacchanal to the Marigny border: the complete Bywater bar crawl for groups of 15-30, with outdoor space intel, movement strategy, and both early-arrival and night-owl structures."
 date: 2026-06-19

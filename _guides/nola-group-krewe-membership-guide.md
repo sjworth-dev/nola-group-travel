@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Krewe Membership Guide for Groups"
 description: "How Mardi Gras krewes work, what membership means, how visiting groups can attend member-only balls and parties, and which krewes regularly welcome out-of-town guests."
-category: "Culture & Festivals"
+category: "Culture & History"
 card_title: "Krewe Membership Guide"
 card_description: "Balls, throws, and member-only parties. How visiting groups can actually access the insider Mardi Gras experience."
 date: 2026-06-19

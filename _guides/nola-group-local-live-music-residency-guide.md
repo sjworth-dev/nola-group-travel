@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Live Music Residencies and Standing Gigs for Groups"
 description: "Standing gigs and weekly residencies in New Orleans for groups of 10-25: the musicians who play the same venue on the same night every week, which clubs have reliable schedules, and how to plan a music night around a consistent anchor without festival timing dependency."
-category: "Music & Culture"
+category: "Nightlife & Music"
 card_title: "NOLA Live Music Residencies Guide"
 card_description: "The best live music nights in New Orleans happen on the same night every week at the same venue. Here's how groups plan around standing gigs, who plays where, and why this approach beats festival timing."
 date: 2026-06-29

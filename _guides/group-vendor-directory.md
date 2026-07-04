@@ -1,7 +1,7 @@
 ---
 title: "NOLA Group Travel Vendor Directory"
 description: "Curated categories of New Orleans vendors that work with large groups: charter transport, private chefs, photographers, brass bands, florists, and event rentals."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Vendor Directory"
 card_description: "Who to hire for a large group trip: transport, chefs, photographers, brass bands, florists, and event rentals."
 date: 2026-05-30

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans New Year's Eve Group Guide"
 description: "How to plan New Year's Eve in New Orleans for a large group: Sugar Bowl, midnight on Frenchmen Street, where to stay, and what actually happens."
-category: "Events"
+category: "Festivals & Events"
 card_title: "New Year's Eve Guide"
 card_description: "Sugar Bowl, midnight on Frenchmen Street, and how to actually plan NYE in NOLA for a large group."
 date: 2026-05-24

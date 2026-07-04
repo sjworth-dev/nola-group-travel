@@ -1,7 +1,7 @@
 ---
 title: "Steamboat Natchez Jazz Cruise Guide for Large Groups"
 description: "The Steamboat Natchez jazz cruise for large groups: what the experience actually is vs. what the marketing suggests, the two-hour cruise structure, live jazz on the river, group ticket booking logistics, and how to pair it with the Moonwalk and Algiers Ferry."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Steamboat Natchez Guide"
 card_description: "The Steamboat Natchez for large groups: what the two-hour jazz cruise actually delivers, group booking logistics, honest expectations, and how to build a full riverfront afternoon around it."
 date: 2026-06-17

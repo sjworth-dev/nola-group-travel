@@ -1,7 +1,7 @@
 ---
 title: "Villa Cooking Competition Guide for Large Groups in New Orleans"
 description: "Villa cooking competition for groups of 15-30: team formats, NOLA-specific challenge themes (gumbo-off, po-boy throwdown, praline competition), judging structure, and a full evening built around the competition."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Villa Cooking Competition"
 card_description: "How to run a full cooking competition at the villa for groups of 15-30: team formats, NOLA challenge themes (gumbo-off, po-boy throwdown, praline competition), judging logistics, and the full evening structure."
 date: 2026-06-16

@@ -1,7 +1,7 @@
 ---
 title: "NOLA Craft Beer and Brewery Guide for Large Groups"
 description: "Brewery visits, craft beer taprooms, and NOLA beer culture for large groups: which taprooms can handle groups of 15-25, which offer tours, the local craft beer landscape, and how to build a half-day brewery crawl."
-category: "Bars & Nightlife"
+category: "Nightlife & Music"
 card_title: "Craft Beer & Brewery Guide"
 card_description: "The NOLA craft beer taproom scene for large groups: which breweries accommodate groups, tours, private buyouts, and building a half-day brewery crawl for 15-25 people."
 date: 2026-06-17

@@ -1,7 +1,7 @@
 ---
 title: "Lafayette Cemetery Picnic and Garden District Morning Walk for Large Groups"
 description: "What Lafayette Cemetery actually allows for visiting groups, the Garden District morning walk that pairs with it, where to source the picnic from Magazine Street, and the right framing for groups who want something between a cemetery tour and a park day."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Lafayette Cemetery Picnic & Garden District Walk"
 card_description: "What Lafayette Cemetery allows for group visits, the Garden District morning walk that pairs naturally with it, Magazine Street sourcing for the picnic, and how to frame this for groups who want something more cultural than a park day."
 date: 2026-06-23

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Live Music Guide for Large Groups"
 description: "How to experience New Orleans live music with a group of 10-30: every major venue type, Frenchmen Street vs. Preservation Hall, jazz clubs, brass bands, and how to structure a full music trip."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Live Music Guide"
 card_description: "Preservation Hall, Frenchmen Street, Tipitina's, second lines. Here's how to actually experience NOLA music with a large group."
 date: 2026-05-25

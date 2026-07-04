@@ -1,7 +1,7 @@
 ---
 title: "Music Infrastructure for a Villa Group of 15-30"
 description: "Speaker placement, playlist architecture, the DJ rotation model vs. single-curator model, and the outdoor-to-indoor transition as the night progresses—how to run the music for a large group villa stay."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Villa Sound System Guide"
 card_description: "The music is either the best or worst thing about a villa group trip. Bad speaker placement, playlist fights, and the 10pm outdoor volume cliff all ruin it. Here's how to run it correctly."
 date: 2026-07-04

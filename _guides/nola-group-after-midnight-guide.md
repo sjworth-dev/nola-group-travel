@@ -1,7 +1,7 @@
 ---
 title: "New Orleans After Midnight for Large Groups"
 description: "Where New Orleans actually goes when the tourists are asleep: the no-last-call reality, late-night food circuit, Frenchmen Street past 1am, and the bars worth staying out for with groups of 10-30."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "After Midnight"
 card_description: "No last call, late-night food, Frenchmen past 1am. Where the city actually goes when tourists are asleep."
 date: 2026-06-20

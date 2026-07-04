@@ -1,7 +1,7 @@
 ---
 title: "The Three Hours Before a NOLA Festival: A Large Group Pre-Game Guide"
 description: "How to structure the three hours before Jazz Fest, French Quarter Fest, or Voodoo Fest with a large group: the pre-festival meal, hydration loading, sunscreen protocol, what to carry, and getting everyone out the door on time."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Festival Pre-Game for Large Groups"
 card_description: "Most groups waste the three hours before a NOLA festival. Here's how to use them: the meal, the hydration load, the carrier debate, and the only way to get 20 people out the door at the same time."
 date: 2026-07-03

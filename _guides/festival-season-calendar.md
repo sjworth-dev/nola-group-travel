@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Festival Calendar: Group Planning Guide"
 description: "Every major New Orleans festival and event season, with group planning windows, accommodation lead times, and logistics for groups of 10-30."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Festival Season Calendar"
 card_description: "Mardi Gras, Jazz Fest, Essence, Southern Decadence, and every major event — when to go, when to book, what to expect."
 date: 2026-05-29

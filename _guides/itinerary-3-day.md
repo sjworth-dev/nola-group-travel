@@ -1,7 +1,7 @@
 ---
 title: "New Orleans 3-Day Group Itinerary"
 description: "A fully built 3-day New Orleans group itinerary for groups of 10-30. Morning, afternoon, and evening slots. Real logistics included."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "3-Day Itinerary"
 card_description: "A complete 3-day New Orleans group itinerary with real logistics for large groups."
 date: 2026-05-23

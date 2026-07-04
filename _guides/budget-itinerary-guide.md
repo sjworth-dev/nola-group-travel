@@ -1,7 +1,7 @@
 ---
 title: "Budget Group Trip Itinerary for New Orleans"
 description: "A complete low-budget NOLA group trip itinerary: what's free, what's cheap, how to cut accommodation costs, where to eat without spending much, and how to have a great trip for under $150 per person per day."
-category: "Budget"
+category: "Planning & Logistics"
 card_title: "Budget Group Itinerary"
 card_description: "Free music, cheap eats, smart accommodation, and a complete day-by-day plan for under $150 per person per day."
 date: 2026-05-27

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Cocktail Culture Guide for Groups"
 description: "The complete guide to New Orleans cocktail culture for large groups: the classic drinks, where they were invented, the best craft cocktail bars, and how to run a group cocktail tour."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Cocktail Culture"
 card_description: "Classic drinks, their origins, the best craft bars, and how to run a group cocktail tour."
 date: 2026-05-25

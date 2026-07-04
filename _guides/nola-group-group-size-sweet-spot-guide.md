@@ -1,7 +1,7 @@
 ---
 title: "Group Size Sweet Spot Guide: What Works at 10, 15, 20, and 25 People"
 description: "The honest breakdown of what works and what breaks at every group size in New Orleans: restaurant reality, transportation logistics, villa sleeping arrangements, and which activities are genuinely better or worse at scale."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Size Sweet Spot"
 card_description: "What works at 10, 15, 20, and 25 people. The honest logistics breakdown before you finalize your headcount."
 date: 2026-06-20

@@ -1,7 +1,7 @@
 ---
 title: "Shopping in New Orleans for Large Groups"
 description: "Shopping strategy for large NOLA groups: Magazine Street boutiques by section, French Market reality check, what actually travels home, group coordination logistics, and the shipping strategy for groups that over-buy."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "NOLA Group Shopping Guide"
 card_description: "How large groups actually shop in New Orleans — Magazine Street by section, what's worth buying vs. what's tourist filler, group logistics, and how to handle the person who bought a ceramic gator and now has a logistics problem."
 date: 2026-06-28

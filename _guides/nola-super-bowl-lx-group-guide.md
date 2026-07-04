@@ -1,7 +1,7 @@
 ---
 title: "Super Bowl in New Orleans: The Large-Group Planning Guide"
 description: "Complete planning guide for groups of 15-30 attending or experiencing the Super Bowl in New Orleans: ticket strategy, where to watch without tickets, full week structure, accommodation logistics, and how to make the most of one of the most electric weeks in American sports."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Super Bowl Group Guide"
 card_description: "Super Bowl week in NOLA for groups of 15-30. Ticket strategy, watch party options, full week structure, and accommodation logistics when the city triples in size."
 date: 2026-06-08

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Haunted History and Ghost Tour Guide for Large Groups"
 description: "Ghost tours, cemeteries, voodoo history, and haunted bars: the real history behind New Orleans' macabre reputation and how to experience it with a large group beyond the tourist-trap ghost tour."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Haunted History Guide"
 card_description: "Real history behind the legends: cemeteries, voodoo, haunted bars, and ghost tours worth doing."
 date: 2026-05-26

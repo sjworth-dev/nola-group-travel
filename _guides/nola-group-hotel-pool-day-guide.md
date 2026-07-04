@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pool Day Passes for Large Groups: The Honest Guide"
 description: "Which NOLA hotels sell pool day passes, how the day pass process actually works for groups of 15 or more, what you'll actually pay and deal with, and the direct cost and convenience comparison against booking a villa with a private pool for your group."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Hotel Pool Day Pass Guide"
 card_description: "Day passes and pool access for large groups who don't have their own villa pool: what's available, what it costs, and the honest comparison against booking a villa."
 date: 2026-06-18

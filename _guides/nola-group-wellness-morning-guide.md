@@ -1,7 +1,7 @@
 ---
 title: "Structured Wellness Morning for Villa Groups in New Orleans"
 description: "Yoga on the lawn, group meditation, cold plunge vs. pool, smoothie bar setup, the recovery science behind a slow active morning, and how to sell a 7am wellness session to a group that was out until 2am."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Villa Wellness Morning Guide"
 card_description: "How to run a structured wellness morning at the villa — yoga on the lawn, cold plunge, smoothie bar, and the real case for a 7am session when your group was out until 2am."
 date: 2026-06-22

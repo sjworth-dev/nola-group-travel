@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Music Venues Guide for Large Groups"
 description: "The real New Orleans music venues beyond Frenchmen Street: Tipitina's, Preservation Hall, Maple Leaf Bar, Rock 'n' Bowl, Snug Harbor, Howlin' Wolf, and how to build a music-centered group itinerary."
-category: "Music"
+category: "Nightlife & Music"
 card_title: "Music Venues Guide"
 card_description: "Tipitina's, Preservation Hall, Maple Leaf, Rock 'n' Bowl, Snug Harbor, Howlin' Wolf. Where the music actually lives."
 date: 2026-05-27

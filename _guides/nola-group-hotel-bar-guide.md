@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Hotel Bar Guide for Large Groups"
 description: "Hotel lobby bars, rooftop bars, and when a hotel bar beats a standalone venue for groups of 15-30 in New Orleans. CBD and French Quarter hotel bar survey with capacity and group logistics."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "NOLA Hotel Bar Guide"
 card_description: "When a hotel bar beats a standalone venue for your group. CBD and French Quarter hotel bars with capacity notes and group logistics for groups of 15-30."
 date: 2026-06-12

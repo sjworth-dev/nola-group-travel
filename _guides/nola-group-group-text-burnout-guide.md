@@ -1,7 +1,7 @@
 ---
 title: "Managing Group Text Burnout on a Multi-Day NOLA Trip"
 description: "How to manage group communication fatigue across a 4-5 day New Orleans trip: when to go quiet on the main thread, how to run sub-group channels without fracturing the trip, and the role of the daily brief."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Group Text Burnout"
 card_description: "By day three, the main group chat is 300 unread messages and nobody's reading it. Here's how to manage communication infrastructure across a 4-5 day NOLA trip without losing people or fracturing the group."
 date: 2026-07-03

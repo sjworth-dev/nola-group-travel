@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Friends Trip Guide"
 description: "Plan a friends getaway to New Orleans. Girls trips, guys weekends, friend reunions for large groups."
-category: "Friends"
+category: "Friends & Family"
 card_title: "Friends Trips"
 card_description: "Girls trips, guys weekends, college reunions, the annual crew getaway. All of it."
 date: 2026-01-14

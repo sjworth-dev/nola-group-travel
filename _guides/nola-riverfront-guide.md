@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Riverfront Guide for Large Groups"
 description: "Everything on or near the Mississippi River for large groups: the Moonwalk, Algiers Ferry crossing, Woldenberg Park, Steamboat Natchez, and how to build a half-day around the riverfront."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Riverfront Guide"
 card_description: "The Moonwalk, Algiers Ferry, Woldenberg Park, Steamboat Natchez. How to build a half-day on the Mississippi with 15-25 people."
 date: 2026-06-02

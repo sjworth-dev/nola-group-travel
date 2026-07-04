@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Holiday Gathering Guide"
 description: "Thanksgiving, Christmas, and New Year's in New Orleans. Plan a holiday gathering for large groups."
-category: "Holidays"
+category: "Festivals & Events"
 card_title: "Holiday Gatherings"
 card_description: "Thanksgiving, Christmas, New Year's—celebrate the holidays somewhere special."
 date: 2026-01-14

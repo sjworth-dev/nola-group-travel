@@ -1,7 +1,7 @@
 ---
 title: "The Morning Before You Leave: How to End a NOLA Group Trip Right"
 description: "Coffee logistics, villa cleanup without it feeling like punishment, the slow goodbye, what to do with leftover food and alcohol, and the last group photo before everyone disperses to the airport. The final morning of a New Orleans group trip done properly."
-category: "Trip Planning"
+category: "Planning & Logistics"
 card_title: "Departure Morning"
 card_description: "The last morning of a NOLA group trip: coffee logistics, villa cleanup without drama, leftover food and alcohol, the slow goodbye, and the last photo before everyone leaves."
 date: 2026-06-18

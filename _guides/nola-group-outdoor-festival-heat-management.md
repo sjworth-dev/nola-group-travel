@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Festival Heat Management for NOLA Groups"
 description: "The medical reality of a group in 95°F+ heat at Jazz Fest, Essence Fest, or any outdoor NOLA event. Hydration logistics, shade strategy, rotation schedules, and what to do when someone goes down."
-category: "Festivals"
+category: "Festivals & Events"
 card_title: "Festival Heat Management"
 card_description: "95°F, 85% humidity, direct sun, and a group of 20 who haven't eaten since this morning. Heat management at outdoor NOLA festivals isn't optional — it's the logistics challenge that determines whether you have a great day or a medical emergency."
 date: 2026-06-21

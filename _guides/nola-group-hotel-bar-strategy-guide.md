@@ -1,7 +1,7 @@
 ---
 title: "Using NOLA Hotel Bars Strategically for Large Groups"
 description: "When hotel bars in New Orleans are worth it for large groups, when they aren't, and how to use them as a late-night landing point, a pre-dinner gathering spot, or a high-capacity venue when standalone bars fail."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Hotel Bar Strategy for Large Groups"
 card_description: "Hotel bars get written off as tourist traps or dismissed as overpriced. The truth is more useful: some are genuinely great venues for large groups, and knowing which ones and when changes your evening options considerably."
 date: 2026-07-03

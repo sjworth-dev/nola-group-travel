@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Museum Day Guide for Large Groups"
 description: "The WWII Museum deep dive, NOMA, the Ogden, and the Backstreet Cultural Museum — group ticket logistics, discount structures, and how to build a full museum day that doesn't exhaust everyone by noon."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Museum Day Guide"
 card_description: "WWII Museum, NOMA, the Ogden Museum, and the Backstreet Cultural Museum — group ticket logistics, discount structures, and how to structure a full museum day without burning out your group by noon."
 date: 2026-06-16

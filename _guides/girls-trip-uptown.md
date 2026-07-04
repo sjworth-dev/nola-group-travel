@@ -1,7 +1,7 @@
 ---
 title: "Girls Trip: Uptown New Orleans"
 description: "The ultimate girls trip guide for Uptown New Orleans — Magazine Street shopping, Garden District brunch, spa options, and the best bars for a group night out."
-category: "Girls Trip"
+category: "Bachelorette & Bachelor"
 card_title: "Girls Trip: Uptown"
 card_description: "Magazine Street, Garden District brunch, spas, and night out — the Uptown girls trip playbook."
 date: 2026-05-24

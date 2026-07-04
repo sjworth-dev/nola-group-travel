@@ -1,7 +1,7 @@
 ---
 title: "Managing the Day Two (and Day Three) Slump on a NOLA Group Trip"
 description: "Why the middle days of a New Orleans group trip have the most friction, how to read the group's energy before it breaks down, and the programmatic vs. spontaneous balance that keeps everyone engaged through the end."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "The Day Two Slump Guide"
 card_description: "Why day two of every NOLA group trip hits differently, how to read the group's energy before it goes sideways, and what actually works when everyone's running low."
 date: 2026-06-22

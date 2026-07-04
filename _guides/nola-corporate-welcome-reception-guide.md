@@ -1,7 +1,7 @@
 ---
 title: "Corporate Welcome Receptions in New Orleans: A Planning Guide for Groups of 20-50"
 description: "How to plan a corporate welcome reception in New Orleans that actually sets the right tone — venue options, catering formats, budget tiers, timing, and the common mistakes that kill the energy before the retreat even starts."
-category: "Corporate"
+category: "Corporate Retreats"
 card_title: "Corporate Welcome Reception Guide"
 card_description: "Venue options, catering formats, and budget tiers for welcome receptions that energize your group instead of just checking a box."
 date: 2026-06-10

@@ -1,7 +1,7 @@
 ---
 title: "Group Music Experiences in New Orleans: Workshops, Clinics & Dance Lessons"
 description: "How to book drum workshops, brass band clinics, second line dance lessons, and full musical half-days for groups of 10-25 in New Orleans. What it costs, how far in advance, and what each format actually delivers."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Music Workshops & Lessons"
 card_description: "Book a drum workshop, brass band clinic, or second line dance lesson for your group. What's available, how to book, and how to build a full musical half-day."
 date: 2026-06-10

@@ -1,7 +1,7 @@
 ---
 title: "Managing Your Group's Energy Arc Across a 3-5 Day NOLA Trip"
 description: "The night two peak, the night three crash, and the day four recalibration — plus the structures that keep 20 people cohesive through a full New Orleans group trip without burning out early or losing the thread."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Group Energy Management"
 card_description: "Night two peaks. Night three crashes. Day four, half the group wants to nap and the other half wants brunch. Here's how to structure a NOLA group trip so it actually holds together through the end."
 date: 2026-06-27

@@ -1,7 +1,7 @@
 ---
 title: "Jazz Funeral Culture Guide for Large Groups Visiting New Orleans"
 description: "What a jazz funeral is, how to encounter one respectfully as a visitor, the difference between a public and private jazz funeral, what the music means, and how this tradition connects to everything else in New Orleans culture."
-category: "Culture"
+category: "Culture & History"
 card_title: "Jazz Funeral Culture Guide"
 card_description: "What jazz funerals actually are, how to encounter one respectfully as a visitor, the difference between public and private, and why this tradition is the key to understanding everything else about New Orleans."
 date: 2026-06-17

@@ -1,7 +1,7 @@
 ---
 title: "Group Tipping Etiquette in New Orleans"
 description: "Automatic gratuity on large party tabs, how to prep your group before arrival, how service economics change for groups of 15-30, and how to handle the bill split without ruining the trip."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Tipping Guide"
 card_description: "Automatic gratuity, bill splits, and how service economics change when you're a group of 15-30. Brief your crew before arrival."
 date: 2026-05-31

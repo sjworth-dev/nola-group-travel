@@ -1,7 +1,7 @@
 ---
 title: "The NOLA Group Villa Hangover Recovery Guide"
 description: "The morning-after playbook for the large group that went too hard: electrolytes, timing the re-feed, pool vs. AC decision, and how to recalibrate for the afternoon without losing the rest of the day."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Villa Hangover Recovery Guide"
 card_description: "The group went too hard. Half of them are horizontal. Here's how to triage, refuel, and get at least 70% of your people back in the game by 2pm without making it worse."
 date: 2026-07-04

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Karaoke Guide for Large Groups"
 description: "Private karaoke rooms and public karaoke nights for large groups in New Orleans: which venues have private rooms, booking logistics, what it costs, and how to structure a karaoke evening for 10-30 people."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Karaoke for Large Groups"
 card_description: "Private karaoke rooms and public karaoke nights for groups of 10-30 in New Orleans. What exists, what it costs, and how to make it work."
 date: 2026-06-11

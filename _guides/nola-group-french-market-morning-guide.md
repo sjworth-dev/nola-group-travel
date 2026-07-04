@@ -1,7 +1,7 @@
 ---
 title: "French Market Morning Guide for Large Groups in New Orleans"
 description: "The full French Market morning for large groups of 15-25: the indoor market, the flea market, the produce corridor, Café Du Monde integration, and how to structure 3 hours in the Quarter's oldest public market."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "French Market Morning Guide"
 card_description: "Indoor market, flea market, produce corridor, and Café Du Monde — how to structure 3 hours in the Quarter's oldest public market for groups of 15-25."
 date: 2026-06-25

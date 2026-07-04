@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Rainy Day Guide for Groups"
 description: "It's raining in New Orleans. Here's exactly what to do — indoor activities, bars, museums, and restaurants that work perfectly when your outdoor plans fall apart."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Rainy Day Guide"
 card_description: "When outdoor plans fall apart, here's what to do instead. Indoor activities, bars, and restaurants for groups."
 date: 2026-05-24

@@ -1,7 +1,7 @@
 ---
 title: "Sazerac House Distillery Tour and NOLA Spirits History for Large Groups"
 description: "The Sazerac House tour logistics, the craft distillery scene, and a full spirits history afternoon for groups of 15-25 — cocktail-making context, tasting room protocols, and how to structure a NOLA spirits education that actually sticks."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "Sazerac House & Distillery Tour Guide"
 card_description: "Sazerac House tour logistics, craft distillery stops, and a full spirits history afternoon for groups of 15-25 — with the cocktail context that makes every NOLA drink taste better afterward."
 date: 2026-06-25

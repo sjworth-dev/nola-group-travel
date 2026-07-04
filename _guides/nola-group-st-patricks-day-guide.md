@@ -1,7 +1,7 @@
 ---
 title: "St. Patrick's Day in New Orleans for Large Groups"
 description: "St. Patrick's Day in New Orleans for large groups: the Irish Channel parade, cabbage and potato throws, Magazine Street bar sequence, the Parasol's tradition, and why NOLA's St. Patrick's rivals any city in the country."
-category: "Seasonal & Festivals"
+category: "Festivals & Events"
 card_title: "St. Patrick's Day"
 card_description: "The Irish Channel parade, cabbage throws, the Parasol's tradition, Magazine Street all afternoon. NOLA's St. Patrick's Day is not a bar holiday — it's a neighborhood event."
 date: 2026-06-18

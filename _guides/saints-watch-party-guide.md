@@ -1,7 +1,7 @@
 ---
 title: "Saints Watch Party at Your NOLA Villa"
 description: "Running a Saints watch party from your New Orleans villa: streaming setup, game-day food, delivery logistics, and when to go to Caesars Superdome vs. staying home."
-category: "Experiences"
+category: "Activities & Day Trips"
 card_title: "Saints Villa Watch Party"
 card_description: "Game day from your villa: streaming, food, drinks, and the honest Superdome vs. villa comparison."
 date: 2026-05-31

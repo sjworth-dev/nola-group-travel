@@ -1,7 +1,7 @@
 ---
 title: "Vinyl Record Hunting in New Orleans: Crate Digging for Large Groups"
 description: "The neighborhoods with the best record stores, how to structure a group dig without everyone buying the same five records, and why a record crawl makes an unexpectedly great group afternoon activity for 10-30 people."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "NOLA Vinyl Record Hunting"
 card_description: "Crate digging in New Orleans for large groups: the neighborhoods worth hitting, how to structure a record crawl without losing the group, and why this makes a surprisingly good afternoon activity."
 date: 2026-06-22

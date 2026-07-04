@@ -1,7 +1,7 @@
 ---
 title: "The Complete Group Booking Playbook for New Orleans"
 description: "How to organize reservations, manage deposits, coordinate logistics, and actually get 10-30 people somewhere on time in New Orleans."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Booking Playbook"
 card_description: "Reservations, deposits, cancellations, and the logistics of getting everyone to show up on time."
 date: 2026-05-26

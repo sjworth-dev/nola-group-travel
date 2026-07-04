@@ -1,7 +1,7 @@
 ---
 title: "Pre-Wedding Activities in New Orleans: Everything Except the Ceremony"
 description: "The complete guide to rehearsal dinners, bridesmaids and groomsmen outings, welcome parties, post-wedding brunches, and the day-by-day logistics of keeping a wedding party of 15–30 in one piece for a long weekend in New Orleans."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "Pre-Wedding Activities"
 card_description: "Rehearsal dinners, welcome parties, bridesmaid outings, groomsmen mornings — the whole weekend, planned."
 date: 2026-05-27

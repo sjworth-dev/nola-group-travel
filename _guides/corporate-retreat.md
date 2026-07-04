@@ -1,7 +1,7 @@
 ---
 title: "How to Plan a Corporate Retreat in New Orleans"
 description: "Plan a company offsite that people actually want to attend. Where to stay, what to do, and how to run a productive retreat for large teams."
-category: "Corporate"
+category: "Corporate Retreats"
 card_title: "Corporate Retreats"
 card_description: "Skip the hotel conference room. How to run a productive offsite in New Orleans."
 date: 2026-01-14

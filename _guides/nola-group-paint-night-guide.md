@@ -1,7 +1,7 @@
 ---
 title: "Paint & Sip and Group Art Experiences in New Orleans"
 description: "Paint and sip events, private art classes, and creative group experiences for 10-30 people in New Orleans. How to book, what to expect, and how to combine with dinner or villa time."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Paint & Sip for Large Groups"
 card_description: "Private art classes, paint and sip events, and creative experiences for groups of 10-30. How to book and what to expect."
 date: 2026-06-11

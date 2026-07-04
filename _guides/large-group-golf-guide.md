@@ -1,7 +1,7 @@
 ---
 title: "Golf in New Orleans: The Large Group Guide"
 description: "TPC Louisiana, Audubon, City Park, English Turn — how to book tee times for 16+ players, set up a scramble, and structure a full golf day for a NOLA group trip."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Large Group Golf"
 card_description: "TPC Louisiana, Audubon, City Park. How to book 16+ players and build the perfect golf day."
 date: 2026-06-02

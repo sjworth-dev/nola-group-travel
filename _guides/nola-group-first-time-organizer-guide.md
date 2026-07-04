@@ -1,7 +1,7 @@
 ---
 title: "The First-Time Group Trip Organizer Playbook"
 description: "How to set the budget conversation, communicate without losing your mind or your friends, handle the person who drops out at the last minute, and make the decisions that actually need to be made. The playbook for first-time NOLA group trip organizers."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "First-Time Organizer Guide"
 card_description: "Budget conversations, communication infrastructure, the person who drops out last minute, and how to make the decisions that need to be made. The full playbook for first-time group trip organizers."
 date: 2026-06-21

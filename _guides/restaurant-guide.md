@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Restaurants for Large Groups: The Complete Guide"
 description: "Where to eat in New Orleans with large groups. Organized by neighborhood, occasion, and group size—with booking strategy and the restaurants that actually handle large parties well."
-category: "Food"
+category: "Food & Drink"
 card_title: "Restaurant Guide"
 card_description: "Where to eat with large groups. The restaurants that handle large groups well—and the ones to skip."
 date: 2026-05-22

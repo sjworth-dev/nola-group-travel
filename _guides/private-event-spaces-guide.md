@@ -1,7 +1,7 @@
 ---
 title: "Private Event Spaces in New Orleans for Large Groups"
 description: "Private event space options for groups of 15-30 in New Orleans: buyout bars, rooftops, courtyards, and private dining rooms — what's available, what to ask before booking, and how costs break down."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Private Event Spaces Guide"
 card_description: "Buyout bars, rooftops, courtyards, and private dining rooms for groups of 15-30. What to ask and what to expect."
 date: 2026-05-31

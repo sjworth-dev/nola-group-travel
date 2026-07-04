@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Bookshop Literary Tour for Large Groups"
 description: "Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit for literary groups: route structure, author connections, and pairing with neighborhood bars and restaurants for groups of 10-25."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "NOLA Bookshop Literary Tour"
 card_description: "Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit with author connections, route structure, and neighborhood bar and restaurant pairings for groups of 10-25."
 date: 2026-06-24

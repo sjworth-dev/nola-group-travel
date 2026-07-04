@@ -1,7 +1,7 @@
 ---
 title: "Group Games & Competitive Activities in New Orleans"
 description: "Trivia nights, scavenger hunts, escape rooms, villa lawn games, casino nights, and how to structure competitive group fun for 10–30 people in New Orleans."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Group Games & Activities"
 card_description: "Trivia, scavenger hunts, escape rooms, casino nights, lawn games, and competitive group fun for 10–30 people."
 date: 2026-05-27

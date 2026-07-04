@@ -1,7 +1,7 @@
 ---
 title: "Mardi Gras Bead Culture for Groups: How to Catch (and Get Home With) 50 Pounds of Beads"
 description: "The float rider's perspective on who gets the good throws, what actually earns beads from experienced krewe members, neutral ground positioning strategy, how parade-by-parade bead quality varies, group coordination tactics for catching as a unit, and the honest logistics of getting 50 pounds of beads back to wherever you came from."
-category: "Mardi Gras"
+category: "Festivals & Events"
 card_title: "Bead Culture for Groups"
 card_description: "What float riders actually throw and why, neutral ground positioning, parade-by-parade bead quality, and what to do with 50 pounds of beads at the end of the night."
 date: 2026-06-18

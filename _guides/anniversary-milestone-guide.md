@@ -1,7 +1,7 @@
 ---
 title: "Planning a Milestone Celebration in New Orleans: Anniversaries, Reunions, and Landmark Moments"
 description: "How to plan a meaningful milestone celebration in New Orleans for groups of 10-30. Private event spaces, personalized experiences, private chef dinners, second line parades, and how to make a group milestone feel like more than just another trip."
-category: "Occasions"
+category: "Weddings & Celebrations"
 card_title: "Milestone Celebrations"
 card_description: "Significant anniversaries, reunions, and landmark occasions. How to make the trip feel like the moment deserves."
 date: 2026-05-28

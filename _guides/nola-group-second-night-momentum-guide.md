@@ -1,7 +1,7 @@
 ---
 title: "Night Two of a NOLA Group Trip: How to Nail It"
 description: "Night two of a New Orleans group trip is different from night one—expectations are set, energy is lower, the pressure to top the first night kills it. Here's why lower-key wins and how to plan night two specifically."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Night Two Momentum Guide"
 card_description: "Night two is where most group trips peak or collapse. The expectations are higher. The energy is lower. And trying to top night one is the mistake that defines mediocre trips. Here's what actually works."
 date: 2026-07-04

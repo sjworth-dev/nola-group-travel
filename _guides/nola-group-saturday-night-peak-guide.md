@@ -1,7 +1,7 @@
 ---
 title: "Saturday Night Peak Management for Large NOLA Groups"
 description: "How to structure the biggest night of a New Orleans group trip for 10-30 people: which neighborhoods handle large groups well, what to do in the 11pm–2am window, and what happens when you don't plan it."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Saturday Night: The Peak"
 card_description: "Saturday night is the highest-stakes night of a NOLA group trip. Here's how to structure it, which neighborhoods absorb large groups well, and how to survive the 11pm–2am window."
 date: 2026-07-02

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Comedy Shows for Large Groups: Stand-Up, Improv & Live Comedy"
 description: "Stand-up comedy, improv, and live comedy experiences for large groups in New Orleans: venue formats, private show options, booking logistics, and how to fit comedy into a multi-night trip."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Comedy Shows for Large Groups"
 card_description: "Stand-up, improv, and private comedy experiences for groups of 10-30 — venue formats, booking logistics, and how to build an evening around live comedy in NOLA."
 date: 2026-06-14

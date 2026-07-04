@@ -1,7 +1,7 @@
 ---
 title: "Mardi Gras Group Costume Guide: Sourcing, Coordinating, and Wearing It"
 description: "Sourcing, coordinating, and wearing group costumes for Mardi Gras: the French Quarter costume shops vs. Etsy vs. making your own, group theme coordination, what works vs. what falls apart by midnight, and storage logistics at the villa."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Mardi Gras Costume Guide"
 card_description: "Group costume planning for Mardi Gras: sourcing options, theme coordination, what survives the night, and how to store everything at the villa."
 date: 2026-06-16

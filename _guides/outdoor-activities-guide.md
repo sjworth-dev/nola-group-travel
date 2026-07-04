@@ -1,7 +1,7 @@
 ---
 title: "Outdoor and Active Activities for Large Groups in New Orleans"
 description: "Best outdoor activities for groups of 10-30 in New Orleans: kayaking, swamp tours, golf, fishing, bike tours, City Park, and how to structure an active day in NOLA."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Outdoor Activities"
 card_description: "Kayaking, swamp tours, golf, fishing, bike tours, City Park. The active side of a NOLA group trip."
 date: 2026-05-25

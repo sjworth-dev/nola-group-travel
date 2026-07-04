@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Sports Bars for Large Groups: The Honest Guide"
 description: "Best strategies for large groups watching sports in New Orleans: private rooms, big screen reservations, Saints fan dynamics, and how to split a group of 15-30 across multiple games at the same time."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Sports Bars for Large Groups"
 card_description: "Private rooms, big screen reservations, Saints vs. visiting team dynamics, and how to watch multiple games for groups of 15-30 in New Orleans."
 date: 2026-06-13

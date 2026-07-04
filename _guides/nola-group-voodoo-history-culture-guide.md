@@ -1,7 +1,7 @@
 ---
 title: "Voodoo and Rootwork in New Orleans: What It Actually Is (And What It Isn't)"
 description: "A direct, culturally accurate guide to Louisiana Voodoo and rootwork for groups visiting New Orleans — the history, the living tradition, where to engage respectfully, and how to prepare your group for a meaningful morning."
-category: "Culture"
+category: "Culture & History"
 card_title: "Voodoo and Rootwork in New Orleans"
 card_description: "The real tradition behind the tourist shops: what Louisiana Voodoo actually is, where to engage respectfully, and how to prepare a mixed group."
 date: 2026-06-23

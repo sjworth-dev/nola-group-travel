@@ -1,7 +1,7 @@
 ---
 title: "Oak Street and Riverbend for Large Groups in New Orleans"
 description: "The Oak Street and Riverbend afternoon for groups of 10-25: the Maple Leaf Bar, Maple Street corridor, the Carrollton commercial stretch, and how to structure a full afternoon in the residential Uptown neighborhood that most NOLA visitors never reach."
-category: "Neighborhoods & Walks"
+category: "Activities & Day Trips"
 card_title: "Oak Street & Riverbend"
 card_description: "The Maple Leaf Bar, Maple Street Patisserie, and the Carrollton corridor — a full afternoon in the Uptown neighborhood farthest from the tourist circuit, structured for groups of 10-25."
 date: 2026-06-27

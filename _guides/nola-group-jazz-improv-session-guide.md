@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Jazz Workshop & Sit-In Guide for Large Groups"
 description: "Jazz workshop and sit-in experiences for large groups in New Orleans: music lesson providers who work with large groups, the difference between watching and participating, how to structure a music half-day, and what it means to sit in on a real New Orleans jazz session."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Jazz Workshop & Sit-In Guide"
 card_description: "Jazz workshops and sit-in experiences for groups of 10-25 — music lesson providers, participation vs. spectatorship, half-day structure, and what a real NOLA jazz sit-in looks like."
 date: 2026-06-15

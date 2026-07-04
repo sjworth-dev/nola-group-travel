@@ -1,7 +1,7 @@
 ---
 title: "Drink Pace Management on a Multi-Day NOLA Group Trip"
 description: "Managing drink pace across a 3-5 day New Orleans group trip: recognizing the burn rate, hydration logistics, the 2pm reset, and how organizers protect group members without being the fun police."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Managing Drink Pace Across the Trip"
 card_description: "NOLA is a marathon, not a sprint. Here's the drink pace reality for a 3-5 day group trip, how burn rate works, and how the organizer protects the group without becoming the fun police."
 date: 2026-07-02

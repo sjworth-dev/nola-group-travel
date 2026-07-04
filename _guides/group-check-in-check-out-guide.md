@@ -1,7 +1,7 @@
 ---
 title: "Group Check-In and Checkout Logistics"
 description: "The full playbook for villa check-in and checkout with 15-30 people: early arrivals, key distribution, late checkouts, cleaning the villa, and leaving on time without chaos."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Check-In & Checkout Playbook"
 card_description: "The logistics of getting 15-30 people in and out of a villa without chaos. Read this before arrival day."
 date: 2026-05-31

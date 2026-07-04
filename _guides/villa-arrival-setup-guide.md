@@ -1,7 +1,7 @@
 ---
 title: "Villa Arrival Setup Guide: First Two Hours in Your NOLA Villa"
 description: "The exact playbook for the first two hours at your New Orleans villa—grocery run, bar setup, room assignments, and the moves that set the tone for your whole trip."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Villa Arrival Setup"
 card_description: "Don't wing the first two hours. Here's the exact move order for setting up your NOLA villa and making the trip launch right."
 date: 2026-05-31

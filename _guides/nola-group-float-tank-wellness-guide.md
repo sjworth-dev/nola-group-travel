@@ -1,7 +1,7 @@
 ---
 title: "Float Tanks, Cryo & Recovery Wellness for NOLA Groups"
 description: "Float tanks, cryotherapy, and recovery wellness experiences for groups coming off a hard night in New Orleans: booking logistics, the Day 2 recovery structure, and how to sequence wellness into a party trip."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Float Tanks & Recovery Wellness"
 card_description: "Float tanks, cryo, and recovery wellness experiences for groups of 8-20 — how to build a Day 2 recovery structure and sequence wellness into a New Orleans party trip."
 date: 2026-06-14

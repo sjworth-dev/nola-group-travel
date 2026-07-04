@@ -1,7 +1,7 @@
 ---
 title: "Riding a Mardi Gras Float: What It's Actually Like"
 description: "What it's actually like to ride a Mardi Gras float: how krewe memberships work, the float rider experience from the inside, throws strategy, physical demands, and how to get a group of 6-10 onto the same float."
-category: "Mardi Gras"
+category: "Festivals & Events"
 card_title: "Riding a Float"
 card_description: "The inside view of float riding: memberships, throws, physical demands, and how to get your group on the same float."
 date: 2026-06-20

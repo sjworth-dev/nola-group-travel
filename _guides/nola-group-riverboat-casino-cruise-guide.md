@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Riverboat Casino Cruise & Waterfront Gambling Guide for Large Groups"
 description: "Casino cruises, poker nights, and waterfront gambling experiences for large groups in New Orleans: the riverboat vs. Harrah's decision, villa poker tournament setup, and full evening structure for 10-30 people."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Riverboat Cruises & Casino Nights"
 card_description: "Waterfront gambling, the Steamboat Natchez dinner cruise, and villa poker tournaments for groups of 10-30 — what's real, what's worth it, and how to structure the evening."
 date: 2026-06-14

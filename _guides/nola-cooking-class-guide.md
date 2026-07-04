@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Cooking Classes for Large Groups"
 description: "Cooking classes for large groups in New Orleans: the New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun distinctions, what you'll make, and how to turn a 2-hour class into a full morning activity."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Cooking Class Guide"
 card_description: "The New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun — how to do a real cooking class with 15-25 people."
 date: 2026-06-02

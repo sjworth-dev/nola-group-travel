@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Music Festival Packing Guide for Large Groups"
 description: "What to pack specifically for Jazz Fest, Essence Fest, French Quarter Fest, and outdoor festival days with a large group: logistics, rain gear, cooler strategy, and the items most groups forget."
-category: "Festivals"
+category: "Festivals & Events"
 card_title: "Festival Packing Guide"
 card_description: "What to bring to Jazz Fest, Essence Fest, French Quarter Fest — the real list. Cooler strategy, rain gear, and the stuff 20 groups forget every year."
 date: 2026-06-02

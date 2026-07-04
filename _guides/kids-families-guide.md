@@ -1,7 +1,7 @@
 ---
 title: "Family Reunion and Group Travel Guide: New Orleans with Kids"
 description: "How to plan a New Orleans group trip that works for families with children: child-friendly activities, mixed-age restaurants, safety logistics, and how adults still have a real trip."
-category: "Families"
+category: "Friends & Family"
 card_title: "Families & Kids Guide"
 card_description: "Family reunions, multigenerational trips, and group travel with kids of all ages in New Orleans."
 date: 2026-05-26

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Guys Weekend Guide"
 description: "The complete playbook for a guys trip to New Orleans: golf, fishing, sports bars, Saints gameday, and the bars that actually work for large all-male groups."
-category: "Friends"
+category: "Friends & Family"
 card_title: "Guys Weekend"
 card_description: "Golf, fishing, Saints gameday, great bars. The NOLA guys trip done right."
 date: 2026-05-25

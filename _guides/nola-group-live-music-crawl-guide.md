@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Live Music Crawl Guide for Large Groups"
 description: "How to move a group of 10-30 through Frenchmen Street and NOLA's live music corridors: timing sets, paying cover vs. walking, keeping everyone together, and structuring the full night."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Live Music Crawl Guide"
 card_description: "Move your group of 10-30 through Frenchmen Street and NOLA's live music venues: set timing, cover logistics, keeping everyone together, and the full evening structure."
 date: 2026-06-15

@@ -1,7 +1,7 @@
 ---
 title: "Large Group Restaurant Seating in New Orleans: The Real Guide"
 description: "How auto-grat works, how to negotiate for a private room, what 20 people looks like at one table vs. three tables of six, and how to find restaurants that actually want large groups versus the ones that just tolerate them."
-category: "Food & Dining"
+category: "Food & Drink"
 card_title: "Large Group Seating: The Real Guide"
 card_description: "Most NOLA restaurants weren't designed for twenty people. Some handle it well, most tolerate it, and a few are genuinely built for it. Here's how to tell the difference and how to navigate the ones that aren't."
 date: 2026-07-02

@@ -1,7 +1,7 @@
 ---
 title: "Crescent Park and the Bywater Riverfront for Large Groups in New Orleans"
 description: "Crescent Park and the Bywater riverfront for groups of 15-25: the elevated riverwalk, the Piety Street wharf, morning coffee logistics, and using the park as the group's daily reset point."
-category: "Outdoor & Active"
+category: "Activities & Day Trips"
 card_title: "Crescent Park & Bywater Riverfront"
 card_description: "The elevated riverwalk, the Piety Street wharf, and the best river views in New Orleans — the Bywater's park as your group's daily reset."
 date: 2026-06-26

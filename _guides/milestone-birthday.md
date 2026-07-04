@@ -1,7 +1,7 @@
 ---
 title: "Milestone Birthday Trips to New Orleans"
 description: "Celebrate a 30th, 40th, 50th, or 60th birthday in New Orleans. How to plan a memorable trip for large groups."
-category: "Birthdays"
+category: "Weddings & Celebrations"
 card_title: "Milestone Birthdays"
 card_description: "30th, 40th, 50th, 60th—whatever the number, celebrate it right. For large groups."
 date: 2026-01-14

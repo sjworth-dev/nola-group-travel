@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Bar Trivia & Group Quiz Night Guide"
 description: "Bar trivia nights, private trivia events, and competitive quiz experiences for large groups in New Orleans. Best venues, team structure for 15-30 people, and how to host your own."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "NOLA Group Trivia Guide"
 card_description: "Bar trivia, private quiz nights, and competitive team experiences for groups of 15-30. How to structure teams, find the right venue, and run your own."
 date: 2026-06-12

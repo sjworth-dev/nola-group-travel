@@ -1,7 +1,7 @@
 ---
 title: "Villa Mornings: The Large Group Morning Routine in New Orleans"
 description: "Coffee logistics, breakfast strategy, farmer's markets, and how to structure the first two hours of a villa morning before your day begins — for groups of 10-30 in New Orleans."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Villa Morning Routine"
 card_description: "Coffee, breakfast, and morning structure for groups of 10-30 at a NOLA villa. How the first two hours set the tone for the whole day."
 date: 2026-06-11

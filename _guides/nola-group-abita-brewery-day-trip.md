@@ -1,7 +1,7 @@
 ---
 title: "Abita Springs Brewery Day Trip for Groups"
 description: "The 45-minute drive north of the lake to Abita Springs, the tour and tasting format, the Old Brewery Museum, north shore lunch options, and the Lake Pontchartrain Causeway return structure for groups of 15-25."
-category: "Day Trips"
+category: "Activities & Day Trips"
 card_title: "Abita Brewery Day Trip"
 card_description: "45 minutes north of the lake: Abita Springs brewery tour, the Old Brewery Museum, north shore lunch, and Causeway return for groups of 15-25."
 date: 2026-06-26

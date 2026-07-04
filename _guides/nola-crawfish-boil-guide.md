@@ -1,7 +1,7 @@
 ---
 title: "How to Host a Villa Crawfish Boil for 20+ People in New Orleans"
 description: "Everything your group needs to pull off a proper NOLA crawfish boil: sourcing live crawfish, the right equipment, the boil technique, timing, and how to make it the centerpiece of the whole trip."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Villa Crawfish Boil Guide"
 card_description: "Sourcing live crawfish, equipment, the boil technique, and how to make it the centerpiece of your NOLA trip."
 date: 2026-06-03

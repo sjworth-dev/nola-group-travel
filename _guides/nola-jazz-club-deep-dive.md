@@ -1,7 +1,7 @@
 ---
 title: "NOLA Jazz Club Deep Dive for Large Groups"
 description: "Club-by-club breakdown of every major New Orleans jazz venue for large groups of 15-25: Frenchmen Street, Preservation Hall, Snug Harbor, Tipitina's, standing room strategy, cover charges, and how to structure a full music night."
-category: "Music"
+category: "Nightlife & Music"
 card_title: "Jazz Club Deep Dive"
 card_description: "How to do a real New Orleans jazz night with 15-25 people. Every major venue, cover charge logistics, standing room strategy, and late-night timing."
 date: 2026-06-01

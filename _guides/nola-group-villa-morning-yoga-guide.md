@@ -1,7 +1,7 @@
 ---
 title: "Villa Morning Yoga for Large NOLA Groups"
 description: "How to run a sunrise yoga or morning stretch session in a villa courtyard or lawn for groups of 10-30: instructor vs. self-guided, equipment logistics, and setting the right tone before a full day in New Orleans."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Villa Morning Yoga"
 card_description: "A villa courtyard yoga session before a packed day in NOLA is one of the better decisions your group can make. Here's how to set it up — instructor vs. self-guided, equipment, timing, and who actually shows up."
 date: 2026-07-02

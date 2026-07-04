@@ -1,7 +1,7 @@
 ---
 title: "Souvenir Strategy for Large NOLA Groups"
 description: "Souvenir and gift buying for large groups in New Orleans: what's actually worth buying vs. tourist junk, local vs. chain, when to shop, and how to handle group members who want to spend two hours in every store."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "NOLA Souvenir Strategy"
 card_description: "Not all NOLA souvenirs are worth the bag space. Here's what's actually worth buying, what's tourist junk, when to shop, and how to manage the group member who turns every block into a shopping detour."
 date: 2026-07-02

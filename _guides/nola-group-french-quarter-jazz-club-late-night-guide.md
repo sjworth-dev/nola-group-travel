@@ -1,7 +1,7 @@
 ---
 title: "French Quarter Jazz Club Late-Night Guide for Groups of 15-30"
 description: "The late-night French Quarter jazz club circuit for large groups: Preservation Hall last-set strategy, the Bourbon Street jazz vs. Frenchmen Street debate settled, which clubs actually accommodate 20 people, and the 11pm–2am structure that holds a group together without losing anyone."
-category: "Live Music"
+category: "Nightlife & Music"
 card_title: "French Quarter Jazz Club Late-Night Circuit"
 card_description: "Preservation Hall last-set strategy, the Bourbon-vs-Frenchmen debate settled, and the 11pm–2am structure that keeps 20 people together in the French Quarter."
 date: 2026-06-24

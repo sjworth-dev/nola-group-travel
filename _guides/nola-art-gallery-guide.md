@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Art Gallery Guide for Large Groups"
 description: "The NOLA gallery scene for large groups: Warehouse District galleries, St. Claude Arts District, how to structure a group gallery walk without losing half your group to boredom, and what to actually look for."
-category: "Arts & Culture"
+category: "Culture & History"
 card_title: "Art Gallery Guide"
 card_description: "Warehouse District, St. Claude Arts District, gallery walk logistics, and what to actually look for. The group gallery guide that doesn't assume everyone is an art person."
 date: 2026-06-03

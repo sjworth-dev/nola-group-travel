@@ -1,7 +1,7 @@
 ---
 title: "The Morning After a Hard Night in NOLA: Group Recovery Strategy"
 description: "The morning after a big night on a NOLA group trip: recovery foods that actually work, who leads when everyone is slow, when to cancel a planned activity without guilt, and how to recalibrate the group's energy for the afternoon and evening ahead."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Morning-After Strategy for NOLA Groups"
 card_description: "At some point on every group trip, the morning after arrives. Someone is still asleep at 11am. Someone else is claiming they're fine when they're not. Here's how to manage it without losing half the day."
 date: 2026-06-29

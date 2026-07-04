@@ -1,7 +1,7 @@
 ---
 title: "How to Crash a New Orleans Gallery Opening with a Large Group"
 description: "How to attend a New Orleans gallery opening with a large group: St. Claude Second Saturdays, Julia Street openings, the etiquette of walking in, what makes a good gallery night for 15-25 people, and pairing with dinner and a neighborhood bar."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Gallery Opening Guide"
 card_description: "How to do a NOLA gallery opening night with a large group: Second Saturdays on St. Claude, Julia Street Fridays, walk-in etiquette, and what to do after."
 date: 2026-06-16

@@ -1,7 +1,7 @@
 ---
 title: "Group Communication Guide: Managing 15-30 People Before and During Your NOLA Trip"
 description: "How to communicate across a large group before, during, and after a New Orleans trip. WhatsApp structure, pre-trip packets, shared itinerary tools, day-of coordination, and money management."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Communication Guide"
 card_description: "WhatsApp setup, pre-trip packets, Splitwise, day-of coordination — the logistics of managing 15-30 people who all have opinions."
 date: 2026-05-29

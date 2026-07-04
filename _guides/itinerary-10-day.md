@@ -1,7 +1,7 @@
 ---
 title: "New Orleans 10-Day Group Itinerary"
 description: "A complete 10-day itinerary for large groups visiting New Orleans. All major neighborhoods, a day trip, festival timing guidance, and how to structure a longer stay without running out of great experiences."
-category: "Itineraries"
+category: "Planning & Logistics"
 card_title: "10-Day Itinerary"
 card_description: "A full 10 days in New Orleans with a group. Neighborhoods, day trips, pacing strategy, and how to keep 15-30 people engaged the whole time."
 date: 2026-05-29

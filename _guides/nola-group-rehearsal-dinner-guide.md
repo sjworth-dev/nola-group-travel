@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Rehearsal Dinner Guide for Large Groups"
 description: "How to plan a rehearsal dinner in New Orleans for groups of 20-40: private dining rooms, restaurant buyouts, villa dinners, catering logistics, menu structure, and the full evening arc."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "Rehearsal Dinner Planning"
 card_description: "Private dining rooms, restaurant buyouts, and villa rehearsal dinners for groups of 20-40. Venue types, catering logistics, menu structure, and how to run the full evening arc."
 date: 2026-06-09

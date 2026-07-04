@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Cultural & Heritage Tours for Large Groups"
 description: "How to plan a meaningful cultural and heritage experience for groups of 10-30 in New Orleans: African American history, Creole culture, jazz origins, and the real city beyond the tourist circuit."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Heritage & Culture Tours"
 card_description: "African American history, Creole culture, jazz origins, the Tremé, Congo Square, and how to structure a half-day or full-day program that goes deeper than the standard tour."
 date: 2026-06-11

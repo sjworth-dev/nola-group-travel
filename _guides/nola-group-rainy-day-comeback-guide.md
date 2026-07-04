@@ -1,7 +1,7 @@
 ---
 title: "The Rainy Day Comeback Plan for NOLA Groups"
 description: "When the weather turns: the rainy day comeback plan for groups of 15-30 who had outdoor activities on the itinerary — indoor alternatives by neighborhood, the villa-as-activity pivot, and how to reframe the day without losing the group's energy."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Rainy Day Comeback"
 card_description: "When the weather turns on your outdoor plans: indoor alternatives by neighborhood, the villa pivot, and how to reframe the day without losing the group."
 date: 2026-06-20

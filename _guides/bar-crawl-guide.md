@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Bar Crawl Guide for Large Groups"
 description: "How to plan a bar crawl in New Orleans for groups of 15-30: the best routes, classic bars, Frenchmen Street, French Quarter, and logistics that actually work at scale."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Bar Crawl Guide"
 card_description: "Route planning, bar picks, and group logistics for crawling NOLA with 15-30 people."
 date: 2026-05-23

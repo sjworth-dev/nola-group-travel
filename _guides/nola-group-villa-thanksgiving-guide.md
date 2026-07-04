@@ -1,7 +1,7 @@
 ---
 title: "NOLA Villa Thanksgiving for Large Groups"
 description: "The case for spending Thanksgiving in New Orleans with 20-30 people: Bayou Classic weekend, villa kitchens, Cajun traditions, and why late November is the city's best-kept secret."
-category: "Holidays"
+category: "Festivals & Events"
 card_title: "Villa Thanksgiving in NOLA"
 card_description: "Skip the flight home. Spend Thanksgiving in New Orleans with 20-30 people and actually enjoy it."
 date: 2026-06-22

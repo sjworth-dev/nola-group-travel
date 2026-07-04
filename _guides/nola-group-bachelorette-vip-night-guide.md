@@ -1,7 +1,7 @@
 ---
 title: "VIP Bachelorette Nights in New Orleans: What You're Actually Buying"
 description: "The honest breakdown of VIP treatment for bachelorette groups in New Orleans — what the tiers actually mean, where the upgrade money is worth spending, and what makes a night genuinely feel special vs. what looks good on a promoter's website."
-category: "Bachelorette"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelorette VIP Night Guide"
 card_description: "Guest list vs. table vs. buyout — the honest NOLA VIP breakdown, plus where $2,000 actually gets you further than club bottle service."
 date: 2026-06-22

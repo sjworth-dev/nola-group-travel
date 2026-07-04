@@ -1,7 +1,7 @@
 ---
 title: "Mid-Trip Budget Reality Check: Group Money Management When the Plan Has Slipped"
 description: "When your group's spending has drifted from the plan by day two or three, here's how to run a real-time audit, have the conversation no one wants to have, and right-size the remaining days without killing the energy."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Mid-Trip Budget Reality Check"
 card_description: "By day two or three, most groups are over-budget and under-talking-about-it. Here's how to run the audit, have the conversation, and fix the remaining days before the person who can't afford it stops showing up."
 date: 2026-07-01

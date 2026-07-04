@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Wedding Weekend Guide for Large Groups"
 description: "Full wedding weekend planning for large out-of-town groups: rehearsal dinner options, welcome party ideas, group transportation for the wedding day, post-wedding brunch, and keeping 30 guests happy across 4 days."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "Wedding Weekend Guide"
 card_description: "Rehearsal dinners, welcome parties, day-of transportation, brunch. Four days with 30 guests, done right."
 date: 2026-05-26

@@ -1,7 +1,7 @@
 ---
 title: "Airboat Swamp Tour Deep Dive for Large Groups"
 description: "Airboat swamp tours for large groups: airboat vs. pontoon, wildlife reality (what you'll actually see vs. what's in the photos), guide quality indicators, charter vs. commercial tour, and a full half-day structure that includes a Cajun lunch."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Airboat Swamp Tour Guide"
 card_description: "Swamp tours for groups of 10-30: airboat vs. pontoon boat, what you'll actually see vs. what's in the photos, how to find a good guide, and building a full half-day around the swamp experience."
 date: 2026-06-16

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Piano Bars & Dueling Pianos Guide for Large Groups"
 description: "Piano bars, dueling pianos, and interactive sing-along venues for large groups in New Orleans: private sections, how the request mechanic works, and how to structure a full evening around participatory live music for 10-30 people."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Piano Bars & Dueling Pianos"
 card_description: "Piano bars, dueling pianos, and sing-along venues for groups of 10-30 — private sections, request mechanics, and the full evening structure around participatory live music."
 date: 2026-06-14

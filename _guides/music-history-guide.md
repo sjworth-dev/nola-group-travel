@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Music History for Large Groups"
 description: "Congo Square to jazz to brass bands to funk: the real story of New Orleans music and how to experience it with a group of 10-30 people."
-category: "Music"
+category: "Nightlife & Music"
 card_title: "Music History Guide"
 card_description: "Congo Square, jazz origins, brass band tradition, funk lineage, and how to experience the living history with a large group."
 date: 2026-05-26

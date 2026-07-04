@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Murder Mystery Dinner Guide for Large Groups"
 description: "Private and public murder mystery dinner experiences for groups of 10-30 in New Orleans: formats, operators, in-villa shows, bachelorette and corporate customization, and full evening structure."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Murder Mystery Dinners"
 card_description: "Private shows, in-villa experiences, and public murder mystery dinners for groups of 10-30 — how to book, what to customize, and how to build a full evening around it."
 date: 2026-06-14

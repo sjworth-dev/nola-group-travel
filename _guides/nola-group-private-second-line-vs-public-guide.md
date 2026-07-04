@@ -1,7 +1,7 @@
 ---
 title: "Private Second Line vs. Joining a Public Parade for Groups"
 description: "Private hired second line vs. joining a neighborhood Social Aid and Pleasure Club parade: what each experience actually feels like, how much each costs, how to book, what to expect from the band, and which option is right for a group of 10-30."
-category: "Music & Culture"
+category: "Nightlife & Music"
 card_title: "Private vs. Public Second Line for Groups"
 card_description: "A private second line with a hired brass band is one of the great large-group experiences in New Orleans. So is joining a public parade as a respectful visitor. They're completely different experiences. Here's how to choose."
 date: 2026-06-29

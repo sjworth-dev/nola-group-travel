@@ -1,7 +1,7 @@
 ---
 title: "Bachelorette Spa Day in New Orleans — Groups of 10-20"
 description: "Full spa day and self-care itinerary for bachelorette groups of 10-20: float tanks, group massage logistics, nail studios that handle large groups, recovery brunch, and how to structure a full day before the evening begins."
-category: "Bachelorette"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Spa Day Guide"
 card_description: "Float tanks, group massages, nail studios for 12+, recovery brunch timing, and the full structure for a spa-forward bachelorette day in NOLA."
 date: 2026-06-04

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Second Line Umbrella Making Workshop Guide for Large Groups"
 description: "Hands-on second line umbrella and parasol making workshops for large groups: how to find operators, the craft process, how it connects to NOLA second line culture, and how to incorporate finished parasols into an actual second line experience."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Second Line Umbrella Making"
 card_description: "Parasol and second line umbrella making workshops for groups of 10-30 — craft process, cultural context, how to find operators, and how to use finished umbrellas in an actual second line."
 date: 2026-06-15

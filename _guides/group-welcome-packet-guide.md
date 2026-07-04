@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Group Trip Welcome Packet for New Orleans"
 description: "The complete guide to building a pre-trip welcome packet for your NOLA group: neighborhood map, house rules, grocery list, restaurant recs, emergency contacts, and what to pack."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Welcome Packet"
 card_description: "The exact welcome packet your group needs: neighborhood map, house rules, grocery list, restaurant recs, packing list, and emergency contacts."
 date: 2026-05-30

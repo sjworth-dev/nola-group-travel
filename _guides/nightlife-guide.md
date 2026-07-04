@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Nightlife Guide for Large Groups"
 description: "Every major bar district, how to run a group bar crawl, cover charges, walk-around cups, no-last-call logistics, and the real difference between Bourbon Street and Frenchmen Street."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Nightlife Guide"
 card_description: "Bar districts, crawl logistics, walk-around cups, and where locals actually go. The full picture."
 date: 2026-05-26

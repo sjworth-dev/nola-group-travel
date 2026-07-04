@@ -1,7 +1,7 @@
 ---
 title: "Private Chef vs. Cooking Yourselves at the Villa: The Full Decision Guide"
 description: "Decision matrix, cost comparison at different group sizes, what a private chef actually delivers versus what the marketing says, and which occasion warrants which option for NOLA groups of 10-30."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Private Chef vs. Cook Yourselves"
 card_description: "Should you hire a private chef for your villa dinner or cook yourselves? The math and the experience are different at every group size. Here's how to decide."
 date: 2026-07-02

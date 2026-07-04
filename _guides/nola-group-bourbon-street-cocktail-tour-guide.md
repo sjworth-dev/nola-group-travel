@@ -1,7 +1,7 @@
 ---
 title: "Bourbon Street Cocktail Tour for Large Groups"
 description: "Self-guided cocktail route on and around Bourbon Street for groups of 10-30: which bars are worth the tourist tax, which are pure theater, how to move 20 people through the Quarter efficiently, and the 3-stop structure that ends somewhere you actually want to be."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Bourbon Street Cocktail Tour"
 card_description: "The honest Bourbon Street cocktail guide for large groups: which bars are worth it, which are theater, and the 3-stop structure that ends somewhere real."
 date: 2026-06-16

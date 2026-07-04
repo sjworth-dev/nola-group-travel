@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Escape Room & Team Puzzle Guide for Large Groups"
 description: "Escape rooms, murder mystery dinners, and team puzzle experiences for groups of 10-30 in New Orleans: venue formats, large-group booking logistics, and how to build a full evening around it."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Escape Rooms & Team Puzzles"
 card_description: "Escape rooms, murder mystery dinners, and competitive team experiences for groups of 10-30 — booking logistics, what actually works, and how to build an evening around it."
 date: 2026-06-12

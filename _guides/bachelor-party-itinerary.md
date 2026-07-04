@@ -1,7 +1,7 @@
 ---
 title: "3-Day Bachelor Party Itinerary for New Orleans"
 description: "The complete 3-day bachelor party itinerary for New Orleans—golf, fishing, sports bars, bar crawl, group dinners, and large-group logistics from airport to Uber."
-category: "Bachelor Party"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelor Party Itinerary"
 card_description: "Full 3-day playbook: golf or fishing morning, sports bar afternoon, structured bar crawl, group dinners. Everything from airport pickup to last call."
 date: 2026-05-31

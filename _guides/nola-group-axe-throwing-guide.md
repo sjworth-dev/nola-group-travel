@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Axe Throwing & Competitive Activity Guide for Large Groups"
 description: "Axe throwing, rage rooms, and competitive physical activity venues for groups of 10-30 in New Orleans: booking logistics, tournament formats, and how to build an evening around it."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Axe Throwing & Competitive Activities"
 card_description: "Axe throwing, rage rooms, and competitive physical venues for groups of 10-30 — booking logistics, tournament formats, and the full evening structure."
 date: 2026-06-14

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Nightclub Guide for Large Groups"
 description: "VIP tables, bottle service, guest lists, and private room bookings at New Orleans nightclubs for groups of 15-30. What's worth the money, what to skip, and how the economics actually work."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "NOLA Nightclub Guide"
 card_description: "VIP tables, bottle service, guest lists, and private rooms for groups of 15-30. The real economics and what's actually worth doing."
 date: 2026-06-11

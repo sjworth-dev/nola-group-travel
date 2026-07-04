@@ -1,7 +1,7 @@
 ---
 title: "NOLA Day Drinking vs. Nightlife: An Honest Comparison for Large Groups"
 description: "The honest comparison between structuring a New Orleans group trip around day drinking (10am Bloody Mary through sunset) versus a pure nightlife trip—who each format works for, how to blend them for a mixed group, and the pacing implications of each."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Day Drinking vs. Nightlife"
 card_description: "Day drinking and nightlife are not the same trip. They have different pacing arcs, different physical demands, different costs, and they suit different groups. Here's how to choose—or how to blend them."
 date: 2026-07-03

@@ -1,7 +1,7 @@
 ---
 title: "Self-Guided Jazz History Tour for Large Groups"
 description: "The real jazz history tour for large groups: Congo Square origins, the French Quarter clubs, Preservation Hall, Rampart Street, the Tremé, and how to experience living history instead of just sitting in a bar."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "NOLA Jazz History Tour"
 card_description: "Congo Square to Frenchmen Street — a self-guided jazz history tour that's actual history, not a bar crawl with a soundtrack."
 date: 2026-06-04

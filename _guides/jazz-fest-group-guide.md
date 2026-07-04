@@ -1,7 +1,7 @@
 ---
 title: "Jazz Fest Group Guide: Planning for Large Groups"
 description: "How to do New Orleans Jazz & Heritage Festival with a large group. Tickets, logistics, fairgrounds strategy, evening shows, and the best places to stay during Jazz Fest weekend."
-category: "Events"
+category: "Festivals & Events"
 card_title: "Jazz Fest"
 card_description: "Two weekends in late April and May. Music, food, heat. Here's how to actually do it."
 date: 2026-05-22

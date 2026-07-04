@@ -1,7 +1,7 @@
 ---
 title: "NOLA Swamp Tour Guide for Large Groups"
 description: "Everything large groups need to know about New Orleans swamp tours: private vs. group departures, airboat vs. covered pontoon, alligator encounter reality, what to wear, and how to build a full day trip around the tour."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Swamp Tour Guide"
 card_description: "Private vs. group, airboat vs. pontoon, what to actually expect. The complete swamp tour playbook."
 date: 2026-06-02

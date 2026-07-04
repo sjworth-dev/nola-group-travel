@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Film and TV Location Tour for Groups"
 description: "New Orleans film and TV locations for groups of 10-25: NOLA's role as a filming destination, the self-guided tour circuit, which neighborhoods concentrate the most recognizable locations, and pairing the tour with a neighborhood meal."
-category: "Activities & Tours"
+category: "Activities & Day Trips"
 card_title: "NOLA Film Location Tour for Groups"
 card_description: "New Orleans has hosted more film and TV productions than almost any other American city. Here's how groups of 10-25 do the self-guided tour — which locations to hit, what to actually look for, and how to build a half-day around it."
 date: 2026-06-29

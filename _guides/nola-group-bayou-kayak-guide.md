@@ -1,7 +1,7 @@
 ---
 title: "Bayou St. John and City Park Kayaking Guide for Large Groups"
 description: "Kayaking Bayou St. John and City Park lagoons for large groups: rental logistics, guided vs. self-guided, the specific paddling experience on an urban bayou, wildlife, and a morning structure that pairs with City Park breakfast."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Bayou Kayaking Guide"
 card_description: "Kayak Bayou St. John and the City Park lagoons with your group of 10-30: rental logistics, guided vs. self-guided options, wildlife reality, and a complete morning structure."
 date: 2026-06-16

@@ -1,7 +1,7 @@
 ---
 title: "What to Pack for a New Orleans Group Trip"
 description: "Season-by-season packing guide for New Orleans group trips. What to bring, what to leave home, and the NOLA-specific items most visitors forget."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Packing Guide"
 card_description: "What to pack for New Orleans, season by season. The items most visitors forget—and the ones to leave home."
 date: 2026-05-23

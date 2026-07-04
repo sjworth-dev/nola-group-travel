@@ -1,7 +1,7 @@
 ---
 title: "NOLA-Themed Trivia Night at the Villa for Large Groups"
 description: "Running a New Orleans-themed trivia night at the villa for groups of 15-30: question category structure (history, food, music, geography), team formats, scoring systems, prizes, and how to source good NOLA trivia content."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Villa Trivia Night Guide"
 card_description: "How to run a proper NOLA-themed trivia night at the villa for groups of 15-30: category structure, team formats, scoring, prizes, and where to find good questions."
 date: 2026-06-16

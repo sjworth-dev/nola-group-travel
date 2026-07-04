@@ -1,7 +1,7 @@
 ---
 title: "Villa Cocktail Competition Guide for Large Groups in New Orleans"
 description: "NOLA villa cocktail competition for groups of 15-30: NOLA classics bracket vs. originals round, team formats, judging criteria, batch infrastructure, shopping list, and a full 2-hour competition timeline."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Villa Cocktail Competition"
 card_description: "How to run a full cocktail competition at the villa for groups of 15-30: NOLA classics bracket (Sazerac, Ramos Gin Fizz, Vieux Carré, Daiquiri), originals round, judging structure, and the full evening timeline."
 date: 2026-06-22

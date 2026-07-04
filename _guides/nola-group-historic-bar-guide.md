@@ -1,7 +1,7 @@
 ---
 title: "The Oldest Bars in New Orleans: A Group Evening Through NOLA's Most Storied Watering Holes"
 description: "The bars with actual history behind them — Lafitte's Blacksmith Shop, Old Absinthe House, Napoleon House, the Carousel Bar, and Tujague's — what makes each one genuinely worth visiting, how to manage a group of 15-25 in these spaces, and the one-bar-per-neighborhood approach to a bar history evening."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Historic Bar Tour"
 card_description: "The oldest and most storied bars in New Orleans: what makes them worth visiting, how to move a group through them, and the route structure for a proper bar history evening."
 date: 2026-06-18

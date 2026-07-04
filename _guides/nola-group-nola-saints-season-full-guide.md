@@ -1,7 +1,7 @@
 ---
 title: "Saints Season Group Guide: Gameday Logistics for Groups of 15-30"
 description: "Full planning guide for taking a large group to a New Orleans Saints home game: Caesars Superdome logistics, the tailgate-to-kickoff timeline, bar vs. stadium decision framework, and the NOLA sports culture that makes a Saints weekend worth the trip."
-category: "Sports & Events"
+category: "Festivals & Events"
 card_title: "Saints Season Full Guide"
 card_description: "Everything a group of 15-30 needs for a Saints home game: Superdome logistics, tailgate structure, the bar vs. stadium decision, and the NOLA sports culture that makes this more than just a football game."
 date: 2026-06-28

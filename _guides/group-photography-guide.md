@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Photography Guide: Best Spots, Timing, and Logistics for Large Groups"
 description: "The best photo spots in New Orleans for groups of 10-30: iconic shots, lesser-known locations, lighting and timing advice, and how to coordinate without losing two hours."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Photography Guide"
 card_description: "The best photo spots, lighting windows, and coordination tricks for photographing large groups in New Orleans."
 date: 2026-05-26

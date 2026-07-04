@@ -1,7 +1,7 @@
 ---
 title: "The Split Schedule Model for Large NOLA Group Trips"
 description: "How to plan a New Orleans group trip where not everyone has to do everything together — the split schedule model for mixed energy levels, different budgets, and different interests, with communication protocols and the right moments to bring the group back together."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Split Schedule Guide"
 card_description: "Not everyone in your group has the same energy, budget, or interests. The split schedule model lets people go their own direction and brings the group back together at the moments that actually matter."
 date: 2026-06-21

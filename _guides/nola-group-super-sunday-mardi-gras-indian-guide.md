@@ -1,7 +1,7 @@
 ---
 title: "Super Sunday: Mardi Gras Indians for Large Groups in New Orleans"
 description: "Super Sunday (third Sunday in March) for large groups of 10-20: Mardi Gras Indian gathering logistics, the A.L. Davis Park location, respectful visitor protocol, photography etiquette, and how to structure the day around the gathering."
-category: "Culture & Events"
+category: "Culture & History"
 card_title: "Super Sunday Mardi Gras Indian Guide"
 card_description: "The third Sunday in March, A.L. Davis Park, and one of the most extraordinary cultural gatherings in America — a respectful visitor guide for groups of 10-20."
 date: 2026-06-26

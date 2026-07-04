@@ -1,7 +1,7 @@
 ---
 title: "Bachelorette Day-Drinking Itinerary: Hour by Hour"
 description: "Hour-by-hour day-drinking itinerary for bachelorette groups of 12-20 in New Orleans — Bloody Mary brunch, afternoon outdoor bar, the signature drink stop, French Quarter timing, and how to pace for a full night after."
-category: "Bachelorette"
+category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Day Drinking Itinerary"
 card_description: "Hour-by-hour itinerary for 12-20 women: Bloody Mary brunch to Frenchmen Street, timed for a full night at the end."
 date: 2026-05-31

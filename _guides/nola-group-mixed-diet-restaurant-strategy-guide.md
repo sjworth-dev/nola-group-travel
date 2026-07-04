@@ -1,7 +1,7 @@
 ---
 title: "Group Restaurant Strategy When Everyone Has a Different Diet"
 description: "Planning group meals in New Orleans when someone is vegan, someone is gluten-free, someone keeps kosher, and the rest want fried everything: which NOLA restaurants handle dietary diversity, how to communicate it, and the villa meal as the fallback."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Mixed Diet Restaurant Strategy"
 card_description: "One person is vegan. One is gluten-free. One keeps kosher. Twelve want fried everything. This guide explains which NOLA restaurants handle dietary diversity well—and what to do when none of them do."
 date: 2026-07-04

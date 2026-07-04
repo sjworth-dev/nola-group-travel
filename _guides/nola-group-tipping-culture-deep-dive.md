@@ -1,7 +1,7 @@
 ---
 title: "Tipping Culture in New Orleans: The Group Travel Deep Dive"
 description: "Beyond the auto-grat question — tipping musicians, second line brass bands, bartenders, villa staff, tour guides, private chefs, and drivers in New Orleans. What's expected, what's exceptional, and what large groups consistently get wrong."
-category: "Culture"
+category: "Culture & History"
 card_title: "Tipping Culture Deep Dive"
 card_description: "Musicians, brass bands, bartenders, villa staff, tour guides, private chefs, and drivers. What's expected, what's exceptional, and what groups consistently get wrong."
 date: 2026-06-21

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Beer Gardens & Outdoor Bar Courtyards for Large Groups"
 description: "Beer gardens, outdoor bar courtyards, and open-air drinking spots for large groups in New Orleans: which venues actually accommodate 20+ people comfortably, reservation logistics, and seasonal reality."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Beer Gardens & Outdoor Bars"
 card_description: "Which NOLA outdoor drinking venues actually work for groups of 20+, how to book them, and when outdoor drinking is and isn't the move seasonally."
 date: 2026-06-14

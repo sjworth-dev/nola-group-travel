@@ -1,7 +1,7 @@
 ---
 title: "New Orleans for LGBTQ+ Groups"
 description: "New Orleans for LGBTQ+ large groups: the gay scene on Bourbon Street, Southern Decadence, Pride events, welcoming venues, and why NOLA is one of the most inclusive cities in the South."
-category: "LGBTQ+"
+category: "Friends & Family"
 card_title: "LGBTQ+ Group Guide"
 card_description: "One of the most LGBTQ-friendly cities in the South — and one of the best anywhere. Here's how to experience it with a large group."
 date: 2026-05-25

@@ -1,7 +1,7 @@
 ---
 title: "Coffee Shop Work Morning for Corporate Groups in New Orleans"
 description: "The group work morning at a NOLA coffee shop for corporate retreats and remote teams: which neighborhoods have the right café infrastructure for 10-15 people, WiFi reality, capacity notes, and the work-then-walk transition to afternoon activities."
-category: "Corporate & Retreats"
+category: "Corporate Retreats"
 card_title: "Coffee Shop Work Morning Guide"
 card_description: "Which NOLA café neighborhoods work for 10-15 people, WiFi reality, capacity limits, and the work-then-walk transition that makes a coffee shop morning the best start for a corporate retreat day."
 date: 2026-06-25

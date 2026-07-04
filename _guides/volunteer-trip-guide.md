@@ -1,7 +1,7 @@
 ---
 title: "Group Volunteer Trips to New Orleans: Service, Culture, and How to Do Both"
 description: "How to plan a meaningful group volunteer or service trip to New Orleans: community organizations, rebuilding and restoration work, how to structure a trip that combines real service with authentic cultural experience, and logistics for groups of 10–30."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Volunteer & Service Trips"
 card_description: "Service trips to NOLA that actually matter — community orgs, rebuilding work, and how to do it right."
 date: 2026-05-27

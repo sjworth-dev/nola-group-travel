@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a Milestone Wedding Anniversary as a Large Group in New Orleans"
 description: "How to plan a milestone wedding anniversary for 20-25 people in New Orleans: private second line through the French Quarter, dinner at a historically significant restaurant, and a toast structure that actually works."
-category: "Occasions"
+category: "Weddings & Celebrations"
 card_title: "Group Wedding Anniversary in NOLA"
 card_description: "Private second lines, historic dining rooms, and a city that takes celebration seriously. The guide for milestone anniversaries with a large group."
 date: 2026-06-23

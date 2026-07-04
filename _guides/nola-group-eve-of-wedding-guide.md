@@ -1,7 +1,7 @@
 ---
 title: "The Night Before the Wedding in New Orleans"
 description: "What the wedding party and close family actually do when the rehearsal dinner ends — how to get everyone home without losing anyone, what the separate pre-wedding evenings look like, and how to set up the wedding day for a good start."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "Eve of Wedding Guide"
 card_description: "What wedding parties and close family actually do when the rehearsal dinner ends. The night before is the most underplanned 18 hours of a New Orleans wedding weekend."
 date: 2026-06-21

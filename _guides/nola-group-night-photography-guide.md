@@ -1,7 +1,7 @@
 ---
 title: "Night Photography for Large Groups in New Orleans"
 description: "Shooting NOLA after dark with a group of 10-30: the Frenchmen Art Market golden hour, lit balconies in the Quarter, mural backdrops in the Bywater, and the logistics of coordinating after-dark group photo sessions."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "NOLA Night Photography Guide"
 card_description: "NOLA at night is visually spectacular and deeply undershot by most group trips. Here's where to be, when, and how to actually coordinate a large group photo session after dark."
 date: 2026-07-02

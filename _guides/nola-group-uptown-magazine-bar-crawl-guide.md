@@ -1,7 +1,7 @@
 ---
 title: "Uptown and Magazine Street Bar Crawl for Large Groups"
 description: "The Magazine Street bar crawl from Louisiana Avenue to Nashville Avenue for groups of 15-30: the dive bar corridor, the neighborhood sports bars, and the return route most groups never discover."
-category: "Bars & Nightlife"
+category: "Nightlife & Music"
 card_title: "Uptown Magazine Street Bar Crawl"
 card_description: "The Magazine Street corridor from Louisiana to Nashville: dive bars, sports bars, and neighborhood spots that groups of 15-30 can actually move through without destroying the vibe."
 date: 2026-06-27

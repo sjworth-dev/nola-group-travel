@@ -1,7 +1,7 @@
 ---
 title: "Walk-Around Cups and NOLA Umbrella Drinks: What's Worth It for Groups"
 description: "Walk-around cup culture and the iconic New Orleans umbrella drinks for groups: what's worth ordering vs. what's a tourist trap, the geography of daiquiri shops, and how the walk-around cup becomes a group mobility tool on a night out."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Walk-Around Cups & Umbrella Drinks"
 card_description: "Frozen daiquiri, Hand Grenade, Hurricane — what's worth it vs. what's a tourist trap, the walk-around cup law, and how to use outdoor drinking culture as a group mobility tool in New Orleans."
 date: 2026-06-17

@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Money Management on a NOLA Group Trip"
 description: "Splitwise logistics, who fronts what, when to settle, how to handle the person who never Venmos back, and the cash float system for 15-30 people in New Orleans for four days."
-category: "Logistics"
+category: "Planning & Logistics"
 card_title: "Group Money Management"
 card_description: "Splitwise logistics, who fronts what, when to settle, the cash float system, and how to handle the person who never Venmos back. Group money management is the logistical challenge most organizers ignore until it's a social problem."
 date: 2026-06-21

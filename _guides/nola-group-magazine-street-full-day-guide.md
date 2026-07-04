@@ -1,7 +1,7 @@
 ---
 title: "Magazine Street Full-Day Guide for Groups"
 description: "Six miles of Magazine Street from the Lower Garden District to Audubon Park — the best lunch anchors by section, boutique cluster strategy, and the St. Charles Streetcar return structure for groups of 10-20."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "Magazine Street Full-Day Guide"
 card_description: "Six miles, four distinct neighborhoods, and the best walk in the city — boutique clusters, lunch anchors by section, and the streetcar return for groups of 10-20."
 date: 2026-06-26

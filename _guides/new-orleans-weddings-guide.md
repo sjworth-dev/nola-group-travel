@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Wedding Guide for Large Groups"
 description: "Plan a New Orleans wedding with a wedding party of 15-30. Venues, second lines, NOLA traditions, rehearsal dinners, and where everyone stays."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "New Orleans Weddings"
 card_description: "Venues, second lines, rehearsal dinners, and where to house 15-30 people for a NOLA wedding."
 date: 2026-05-29

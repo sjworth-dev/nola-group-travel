@@ -1,7 +1,7 @@
 ---
 title: "How to Hire a Brass Band in New Orleans: Full Group Logistics Guide"
 description: "Step-by-step logistics for hiring a brass band in New Orleans for your group trip: band size decisions, what to ask vendors, permit reality, day-of structure, and how to brief 20 people on what to expect when the music starts."
-category: "Music & Culture"
+category: "Nightlife & Music"
 card_title: "Hiring a Brass Band"
 card_description: "Hiring a brass band isn't complicated once you know what to ask. This is the full logistics guide: band size, permits, day-of structure, and how to brief your group before the tuba player shows up."
 date: 2026-06-30

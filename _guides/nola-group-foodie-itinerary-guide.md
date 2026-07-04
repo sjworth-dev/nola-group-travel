@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Food-First Group Trip: A 3-Day Itinerary"
 description: "A food-obsessed 3-day group itinerary for New Orleans: how to pick the must-eats, pace the days, navigate group restaurant logistics, cook a villa dinner for 20, and build a trip where eating is the entire point."
-category: "Itineraries"
+category: "Planning & Logistics"
 card_title: "NOLA Foodie Group Itinerary"
 card_description: "A 3-day group itinerary where eating is the point: market mornings, must-eat categories, villa cooking night, private chef option, and how to pace a food-heavy trip without burning out."
 date: 2026-06-22

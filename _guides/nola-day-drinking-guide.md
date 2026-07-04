@@ -1,7 +1,7 @@
 ---
 title: "How to Structure a Full Day-Drinking Day in New Orleans"
 description: "The complete playbook for large-group day drinking in NOLA: Bloody Mary brunch, afternoon bars with outdoor space, early happy hours, pacing, and the hydration reality."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Day Drinking Playbook"
 card_description: "Bloody Mary brunch to sunset — how to structure a full NOLA day-drinking day without wrecking your group by 7pm."
 date: 2026-05-31

@@ -1,7 +1,7 @@
 ---
 title: "Bywater vs. Lower Garden District for Large Groups: The Deep Comparison"
 description: "Head-to-head comparison of Bywater and Lower Garden District for groups of 10-30: villa inventory, neighborhood feel, walkability, noise, and which trip type belongs in which neighborhood."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Bywater vs. LGD: Deep Group Comparison"
 card_description: "Both neighborhoods have the villa infrastructure to house a large group. The question is which one actually fits your trip. Here's the honest side-by-side — villa inventory, noise, morning character, nightlife access, and which group type wins where."
 date: 2026-06-30

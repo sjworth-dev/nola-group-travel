@@ -1,7 +1,7 @@
 ---
 title: "Large Group Logistics in New Orleans: The 25–50 Person Playbook"
 description: "How the logistics math changes when your group hits 25, 30, 40, or 50 people. Multi-villa strategy, private event buyouts, charter transportation, split-group scheduling, and everything that breaks at scale."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Very Large Groups (25–50)"
 card_description: "When your group outgrows a single rental: multi-villa strategy, private buyouts, charter transport, split scheduling."
 date: 2026-05-28

@@ -1,7 +1,7 @@
 ---
 title: "How to Hire a Private Brass Band or Second Line in New Orleans"
 description: "The complete booking guide for hiring a brass band or organizing a private second line for a large group: what it costs, how far in advance, what's included, permits, and what the experience actually looks like."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Hire a Brass Band"
 card_description: "Book a private brass band or second line for your group — costs, lead times, what's included, and what actually happens on the day."
 date: 2026-06-07

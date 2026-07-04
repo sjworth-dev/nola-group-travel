@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Scavenger Hunt Guide for Large Groups"
 description: "Custom and app-guided city scavenger hunts for large groups of 15-30 in New Orleans: team formats, neighborhood routes, scoring logistics, NOLA-specific clue themes, and the full day structure."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "NOLA Group Scavenger Hunt"
 card_description: "City scavenger hunts for groups of 15-30 in New Orleans: app-guided vs. custom, team formats, neighborhood routes, NOLA-specific themes, and full day structure."
 date: 2026-06-15

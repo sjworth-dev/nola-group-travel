@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Group Volunteer Build Day Guide"
 description: "One-day group volunteer builds in New Orleans for groups of 10-30 — Habitat for Humanity, post-Katrina rebuilding organizations, community garden projects, and how to structure a meaningful service day that doesn't require specialized skills."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Group Volunteer Build Day"
 card_description: "Group volunteer builds in New Orleans for 10-30 people — Habitat for Humanity, post-Katrina rebuilding orgs, community gardens, and how to structure a real service day."
 date: 2026-06-15

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans 5-Day Group Itinerary"
 description: "A complete 5-day New Orleans group itinerary for groups of 10-30. Neighborhood rotation, dining anchors, and full logistics for an extended group trip."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "5-Day Itinerary"
 card_description: "A full 5-day group itinerary with neighborhood rotation and dining anchors."
 date: 2026-05-23

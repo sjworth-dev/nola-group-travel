@@ -1,7 +1,7 @@
 ---
 title: "New Orleans for Sober and Sober-Curious Groups"
 description: "Planning a large group trip to NOLA when some or all of your group doesn't drink. What makes New Orleans exceptional beyond alcohol."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Sober Group Travel"
 card_description: "NOLA is one of the best food and music cities on earth. Here's how to plan a trip where alcohol isn't the activity."
 date: 2026-05-29

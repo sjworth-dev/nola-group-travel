@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Wedding Party & Guest Guide"
 description: "Plan wedding parties, guest accommodations, and wedding weekend activities in New Orleans for large groups."
-category: "Weddings"
+category: "Weddings & Celebrations"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
 date: 2026-01-14

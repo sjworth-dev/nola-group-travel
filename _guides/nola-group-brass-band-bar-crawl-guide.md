@@ -1,7 +1,7 @@
 ---
 title: "Second Line Bar Crawl with a Hired Brass Band for Large Groups"
 description: "Private second line bar crawl with a hired brass band for groups of 15-30: what a private second line costs, permit requirements, route structure, and how to turn a bar crawl into a moving street party."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Brass Band Bar Crawl Guide"
 card_description: "How to hire a brass band and run a second line bar crawl for groups of 15-30: costs, permits, route structure, and turning a bar crawl into a moving street party."
 date: 2026-06-16
@@ -197,5 +197,5 @@ A decorated parasol or second line umbrella can be purchased at various NOLA ven
 
 ## Plan Your Second Line Night
 
-- Castledayretreats.com — Bywater villas, up to 30 guests, private pools, Frenchmen Street walkable, 4.98 stars
+- Castleday Retreats — Bywater villas, up to 30 guests, private pools, Frenchmen Street walkable, 4.98 stars
 - The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool, St. Charles Streetcar access

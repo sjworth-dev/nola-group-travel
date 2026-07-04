@@ -1,7 +1,7 @@
 ---
 title: "Departure Day for NOLA Group Trips"
 description: "Baggage logistics, staggered flight windows, what to do with 4 hours between checkout and a 6pm flight, and the surprisingly manageable problem of getting 20+ people out of New Orleans without losing anyone on the last day."
-category: "Logistics"
+category: "Planning & Logistics"
 card_title: "Departure Day Guide"
 card_description: "The last day of a NOLA group trip is the one nobody planned. Different flight times, bags in the lobby, uncertain weather, and a group that's tired and emotionally ready to go home but practically can't yet. Here's how to manage it."
 date: 2026-06-21

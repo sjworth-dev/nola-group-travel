@@ -1,7 +1,7 @@
 ---
 title: "Mixed Groups in New Orleans: Solo Travelers, Partners, and Different Interests"
 description: "How to plan a NOLA group trip when some people are solo travelers, some are couples, and everyone wants something different."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Mixed Group Planning"
 card_description: "Solo travelers, tag-along partners, introverts, extroverts. How to make one trip work for everyone."
 date: 2026-05-24

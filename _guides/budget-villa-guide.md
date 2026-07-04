@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Private Villa Work on a Group Budget"
 description: "How to make a private villa work on a group budget: splitting costs, what's included vs. extra, when a villa beats a hotel financially, and how to present the math to a skeptical group organizer."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Budget Villa Guide"
 card_description: "The math, the split, what's included vs. extra. When a villa actually costs less than hotels."
 date: 2026-05-26

@@ -1,7 +1,7 @@
 ---
 title: "Large Group Brunch Guide for New Orleans"
 description: "Best brunch spots by neighborhood, reservation strategy for groups of 12-20, what to order, and how to turn brunch into the anchor event for your whole day in NOLA."
-category: "Food"
+category: "Food & Drink"
 card_title: "NOLA Group Brunch Guide"
 card_description: "Brunch is a New Orleans institution. How to actually do it with 12-20 people: where to go, how to book, what to order, and how to build your day around it."
 date: 2026-06-01

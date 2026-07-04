@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Burlesque and Cabaret Guide for Large Groups"
 description: "Burlesque and cabaret for large groups in New Orleans: the venues, private table or room bookings, tipping culture, show formats (classic vs. neo-burlesque), and building a full evening around a show."
-category: "Nightlife"
+category: "Nightlife & Music"
 card_title: "Burlesque & Cabaret Guide"
 card_description: "The New Orleans burlesque scene for groups of 10-30: venue formats, private table bookings, tipping culture, classic vs. neo-burlesque, and building a full evening around a show."
 date: 2026-06-16

@@ -1,7 +1,7 @@
 ---
 title: "New Orleans Cocktail Classes for Large Groups"
 description: "Group cocktail-making classes and mixology workshops in New Orleans: what's available, group sizes, what you actually make, the private bartender option for villa groups, and how to turn a 2-hour class into a full evening activity."
-category: "Activities"
+category: "Activities & Day Trips"
 card_title: "Cocktail Class Guide"
 card_description: "Mixology workshops, private bartender sessions at the villa, and classic NOLA cocktails you'll actually make — how to run a cocktail class for 10-30 people."
 date: 2026-06-05

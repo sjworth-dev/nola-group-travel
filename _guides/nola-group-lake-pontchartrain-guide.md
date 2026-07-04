@@ -1,7 +1,7 @@
 ---
 title: "Lake Pontchartrain for Large Groups in New Orleans"
 description: "The lakefront seawall at sunset, fishing off the pier, the Pontchartrain Beach area, and the Bucktown seafood corridor — a full lakefront afternoon for groups of 15-30 that most NOLA visitors never take."
-category: "Activities & Experiences"
+category: "Activities & Day Trips"
 card_title: "Lake Pontchartrain Group Guide"
 card_description: "Lakefront seawall at sunset, fishing off the pier, Pontchartrain Beach, and the Bucktown seafood corridor — a full lakefront afternoon for groups of 15-30 that most visitors miss entirely."
 date: 2026-06-25

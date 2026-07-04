@@ -1,7 +1,7 @@
 ---
 title: "How to Run a Villa Pool Day for Large NOLA Groups"
 description: "Running a private pool day for 10-30 people in New Orleans: float rotation, music logistics, sunscreen and towel math, food timing, and how to keep the pool deck from becoming a logistics disaster."
-category: "Group Trip Planning"
+category: "Planning & Logistics"
 card_title: "Running the Villa Pool Day"
 card_description: "A private pool day for 10-30 people sounds simple until it isn't. Float rotation, towel math, speaker placement, and the 2pm food decision all require a plan. Here's the one that works."
 date: 2026-07-03

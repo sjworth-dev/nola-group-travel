@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Custom NOLA Group Itinerary"
 description: "The decision framework, how to handle mixed interests, the scheduling order, and what to lock first for large group trips to New Orleans."
-category: "Planning"
+category: "Planning & Logistics"
 card_title: "Group Itinerary Builder"
 card_description: "Build your custom NOLA group itinerary from scratch — the decision framework, what to lock first, and how to handle a group with mixed interests."
 date: 2026-06-01
