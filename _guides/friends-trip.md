@@ -11,6 +11,8 @@ The group chat has been talking about "doing a trip" for years. Someone finally 
 
 New Orleans is perfect for this. It's the rare city where you can do absolutely nothing and still have a great time—or pack every hour with activities. The vibe adjusts to whatever your group wants.
 
+Before you do anything else, send a [pre-trip survey to the group](/guides/nola-group-pre-trip-survey-guide/) about three weeks out. NOLA has specific variables — heat, walkability, French Quarter tolerance, dietary restrictions — that surface mid-trip friction if you don't ask upfront. It takes ten minutes to build and saves you five days of competing preferences.
+
 ## What Kind of Friends Trip?
 
 ### Girls Trip
@@ -193,7 +195,7 @@ The whole point is being together. You need one rental, not scattered hotel room
 Get this sorted before the trip:
 
 1. **Assign one person** to handle the rental payment and reservations
-2. **Use Splitwise or Venmo** to track shared expenses
+2. **Use Splitwise or Venmo** to track shared expenses — our [mid-trip budget tracking guide](/guides/nola-group-budget-tracking-mid-trip-guide/) covers the mid-trip Splitwise audit and how to handle the inevitable "can we recalibrate?" conversation
 3. **Agree on budget level** upfront (bougie vs. budget)
 4. **Handle individual extras separately** (spa treatments, shopping, etc.)
 
@@ -217,7 +219,7 @@ Get this sorted before the trip:
 
 4. **Eat real meals.** Don't just drink. New Orleans food is too good to skip.
 
-5. **One person = point person.** Someone needs to make final decisions or nothing gets done.
+5. **One person = point person.** Someone needs to make final decisions or nothing gets done. The [trip roles assignment guide](/guides/nola-group-trip-roles-assignment-guide/) breaks down the logistics lead, restaurant lead, and finance lead so one person isn't drowning in everything.
 
 6. **Leave buffer time.** People are always late. Build in slack.
 
@@ -227,7 +229,6 @@ Get this sorted before the trip:
 
 ## Book Your Friends Trip
 
-For large groups:
+For large groups, you need one private house — not hotel rooms. Properties like Castleday Retreats (Bywater, private pools, up to 30 per villa) and The Syd (Lower Garden District, shared pool and hot tub, up to 22 per villa) keep everyone together and give you a real home base.
 
-- Castleday Retreats – Private villas, pools, Bywater
-- The Syd – Central location, shared pool/hot tub
+[See where to stay for large groups →](/where-to-stay/)
