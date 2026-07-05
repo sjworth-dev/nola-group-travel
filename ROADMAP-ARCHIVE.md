@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-05 — `_guides/nola-group-pre-trip-survey-guide.md`
 - 2026-07-04 — `_guides/nola-group-villa-hot-tub-protocol-guide.md`
 - 2026-07-04 — `_guides/nola-group-villa-hangover-recovery-guide.md`
 - 2026-07-04 — `_guides/nola-group-second-night-momentum-guide.md`
@@ -681,6 +682,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-04 10:30 UTC — content: add _guides/nola-group-festival-exit-strategy-guide.md — Jazz Fest, Voodoo Fest, and FQF exit strategy for groups of 15-30: rideshare timing, pickup zones, group text protocol, and post-festival transition plan
 2026-07-04 10:45 UTC — content: add _guides/nola-group-villa-sound-system-guide.md — music infrastructure for villa groups of 15-30: zone assessment, speaker placement, playlist architecture, DJ rotation vs. curator model, and 10pm outdoor transition
 2026-07-04 11:00 UTC — content: add _guides/nola-group-mixed-diet-restaurant-strategy-guide.md — mixed diet restaurant strategy for groups of 15-30: restriction tiers, NOLA dietary landscape, communication protocol, and villa meal as the correct fallback
+2026-07-05 10:00 UTC — content: add _guides/nola-group-pre-trip-survey-guide.md — NOLA-specific pre-trip survey guide with 10 questions covering heat tolerance, French Quarter attitude, parade disruption, dietary restrictions, and pacing for groups of 10-30
 2026-07-03 10:00 UTC — content: add _guides/nola-group-pool-day-etiquette-guide.md — float rotation, music logistics, sunscreen and towel math, food timing, and pool deck logistics for groups of 10-30
 2026-06-30 00:00 UTC — content: add _guides/nola-group-brass-band-hire-logistics-guide.md
 2026-06-30 01:00 UTC — content: add _guides/nola-group-bywater-vs-lgd-deep-comparison.md — head-to-head Bywater vs. LGD deep comparison for large group accommodation decisions — step-by-step brass band hire guide: band size decisions, permits, what to ask vendors, day-of structure, group briefing, and tipping protocol

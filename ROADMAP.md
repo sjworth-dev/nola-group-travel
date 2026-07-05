@@ -111,7 +111,6 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 
 ## Up Next
 
-- `_guides/nola-group-pre-trip-survey-guide.md` — targets "group trip planning survey questions" / "bachelorette trip planning questionnaire" — The one survey every group organizer should send 3 weeks before the trip, with the NOLA-specific questions (parade dates, walkability tolerance, budget floor) that prevent mid-trip conflict
 - `_guides/nola-group-ride-share-master-guide.md` — targets "uber for large groups new orleans" / "new orleans airport shuttle group" — XL logistics, surge windows around parades and games, the split-and-reconvene model, MSY coordination, and when a charter van beats Uber
 - `_guides/nola-group-essence-fest-guide.md` — targets "essence festival group trip" / "where to stay essence fest new orleans" — early-July logistics for groups of 10-30: Superdome strategy, daytime events, booking timeline, neighborhood bases
 - `_guides/nola-group-french-quarter-vs-garden-district-guide.md` — targets "french quarter vs garden district where to stay" — the comparison every first-time group organizer googles, answered for groups over 10
