@@ -4,7 +4,7 @@ description: "Plan a multi-generational family reunion in New Orleans. Accommoda
 category: "Friends & Family"
 card_title: "Family Reunions"
 card_description: "Bring three generations together in one place. Activities and dining that work for everyone."
-date: 2026-01-14
+date: 2026-07-05
 ---
 
 Planning a family reunion is complicated enough without the logistics nightmare. Where can 20 people actually stay together? What do you do with toddlers and grandparents in the same group? How do you feed everyone without going broke?
@@ -37,7 +37,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 - **Full kitchen:** Cook family meals together, save thousands on restaurants
 - **Multiple bathrooms:** Trust us on this one
 - **Common space:** Room for everyone to actually gather
-- **Ground-floor bedrooms:** For older family members with mobility needs
+- **Ground-floor bedrooms:** For older family members with mobility needs — see the [accessible group travel guide](/guides/accessible-group-guide/) for what to specifically ask when booking
 
 ---
 
@@ -161,6 +161,8 @@ Most reunion meals should happen at your rental. Why:
 - Grill night (steaks, burgers, easy)
 - Breakfast buffet (everyone pitches in)
 
+Not sure whether to hire a private chef or cook yourselves? The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) breaks down when each makes sense for a group of 15-30.
+
 ---
 
 ## Budget Tips
@@ -186,7 +188,8 @@ Most reunion meals should happen at your rental. Why:
 - [ ] Create shared document for logistics
 
 **2 months before:**
-- [ ] Book any restaurant reservations (large groups need advance notice)
+- [ ] Book any restaurant reservations — large groups need advance notice, and some restaurants won't seat parties over 12 without a private room deposit. See the [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) for what to ask when you call.
+- [ ] Send a [pre-trip survey to your family](/guides/nola-group-pre-trip-survey-guide/) — dietary restrictions, mobility needs, activity preferences, and pacing expectations surface mid-trip friction if you don't ask upfront
 - [ ] Plan activity schedule (leave lots of free time)
 - [ ] Assign meal responsibilities
 - [ ] Collect deposits
@@ -213,7 +216,6 @@ New Orleans provides the backdrop. The reunion is what you make of it.
 
 ## Book Your Reunion
 
-For family reunions for large groups:
+For family reunions, a private villa keeps everyone under one roof — the single biggest factor in whether a reunion feels like a gathering or just a vacation people happened to take at the same time. Properties like Castleday Retreats (Bywater, private pools, ADA-accessible options, up to 30 per villa) and The Syd (Lower Garden District, shared pool and hot tub, up to 22 per villa) are built for this.
 
-- Castleday Retreats – Private villas with pools
-- The Syd – Central location, shared amenities
+[See where to stay for large groups →](/where-to-stay/)
