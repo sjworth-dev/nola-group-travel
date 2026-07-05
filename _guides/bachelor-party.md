@@ -4,12 +4,12 @@ description: "Plan an epic New Orleans bachelor party for large groups. Where to
 category: "Bachelorette & Bachelor"
 card_title: "Bachelor Parties"
 card_description: "Golf, gambling, live music, and legendary nights. The complete guide for large groups."
-date: 2026-01-14
+date: 2026-07-05
 ---
 
 New Orleans might be the best bachelor party city in America. No last call. World-class food. Live music everywhere. And unlike Vegas, it has actual soul.
 
-This guide covers everything for large groups guys—where to stay, what to do, and how to send the groom off properly.
+This guide covers everything for large groups — where to stay, what to do, and how to send the groom off properly.
 
 ## Why New Orleans for a Bachelor Party
 
@@ -120,6 +120,8 @@ Most rentals cap at 10 guests. For larger groups:
 
 ### Dinner
 
+Make reservations at least three weeks out for groups of 10+. Our [large-group restaurant seating guide](/guides/nola-group-large-group-seating-strategy-guide/) covers which spots have private rooms, how to handle auto-grat, and which places actually want your business vs. tolerate it.
+
 | Restaurant | Vibe | Good for |
 |------------|------|----------|
 | Cochon | Southern, meat-focused | Carnivores |
@@ -150,7 +152,7 @@ It's trashy, loud, and touristy. You're still going. Get it out of your system n
 
 ### Frenchmen Street (The Real Move)
 
-Three blocks of live music clubs. This is where locals actually go.
+Three blocks of live music clubs. This is where locals actually go. For a structured multi-stop night, see the [Bywater and Frenchmen bar crawl guide](/guides/nola-group-bywater-bar-crawl-guide/) for group movement logistics.
 
 **Spots:**
 - The Spotted Cat – Tiny, sweaty, incredible jazz
@@ -189,15 +191,14 @@ Three blocks of live music clubs. This is where locals actually go.
 
 5. **Book the activity first thing.** If you're golfing or fishing, do it morning of day 2 before anyone is too wrecked.
 
-6. **Assign a point person.** One guy handles reservations, logistics, Venmo collections.
+6. **Assign a point person.** One guy handles reservations, logistics, Venmo collections. See the [trip roles assignment guide](/guides/nola-group-trip-roles-assignment-guide/) for how to structure this before the trip.
 
 7. **Tip well.** Service industry runs this city. Don't be those guys.
 
 ---
 
-## Book Your Stay
+## Large Groups (15–30)
 
-For bachelor large groups, book early:
+Most rentals cap at 10 guests. For groups of 15-30, options narrow fast. Properties like Castleday Retreats (Bywater, private pools, up to 30 per villa) and The Syd (Lower Garden District, shared heated pool and hot tub, up to 22 per villa) are purpose-built for this size. Book 2-3 months out for peak weekends.
 
-- Castleday Retreats – Private pools, Bywater location
-- The Syd – Central location, shared pool/hot tub
+[See where to stay for large groups →](/where-to-stay/)
