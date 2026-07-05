@@ -140,6 +140,8 @@ Build the New Orleans experience into the schedule—don't leave it to the margi
 - Cater from local restaurants
 - Cook together (team activity + meal in one)
 
+The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) breaks down the real cost difference and what a private chef actually delivers for a group of 15-30.
+
 ## Budget Planning
 
 ### Per-Person Estimates (3 days, 2 nights)
@@ -163,9 +165,9 @@ Build the New Orleans experience into the schedule—don't leave it to the margi
 ## Logistics Checklist
 
 - Book accommodations 2-3 months ahead
-- Make dinner reservations 3-4 weeks ahead
+- Make dinner reservations 3-4 weeks ahead — large groups need private rooms or dedicated sections; see the [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) for what to ask when you call
 - Confirm WiFi speed at venue
-- Arrange airport transfers
+- Arrange airport transfers — for teams of 12+, a pre-arranged van beats coordinating 4 rideshares at MSY; the [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the decision
 - Send pre-trip email with packing list and agenda
 - Bring backup chargers, cables, extension cords
 - Plan for dietary restrictions
@@ -188,5 +190,6 @@ Castleday Retreats is purpose-built for this exact range:
 1. Lock in dates
 2. [See where to stay for large groups →](/where-to-stay/)
 3. Make dinner reservations
-4. Design your agenda
-5. Run the best offsite your company's ever had
+4. Assign a [logistics lead and restaurant lead](/guides/nola-group-trip-roles-assignment-guide/) — one person who owns the operational overhead so everyone else can focus on the work
+5. Design your agenda
+6. Run the best offsite your company's ever had
