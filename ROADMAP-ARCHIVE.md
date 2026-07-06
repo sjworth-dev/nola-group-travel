@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-06 — `_guides/nola-group-spring-break-guide.md`
 - 2026-07-06 — `_guides/nola-group-french-quarter-vs-garden-district-guide.md`
 - 2026-07-05 — `_guides/nola-group-pre-trip-survey-guide.md`
 - 2026-07-04 — `_guides/nola-group-villa-hot-tub-protocol-guide.md`
@@ -694,3 +695,6 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-05 11:30 UTC — seo: _guides/corporate-retreat.md — added 3 internal links (large-group-seating-strategy, ride-share-master-guide, trip-roles-assignment) woven into logistics checklist, at-house meals, and next-steps sections
 
 2026-07-06 10:00 UTC — content: add _guides/nola-group-french-quarter-vs-garden-district-guide.md — FQ vs. Garden District comparison for group organizers of 10-30, covering STR reality, neighborhood tradeoffs, and the real Bywater-vs-LGD decision beneath the FQ/GD frame
+2026-07-06 11:00 UTC — content: add _guides/nola-group-spring-break-guide.md — spring break group guide for groups of 10-30: late-March timing, French Quarter reality, budget math, 4-night itinerary, Bourbon vs. Frenchmen Street breakdown, and drink pace management
+2026-07-06 11:15 UTC — expand: _guides/milestone-birthday.md — added 3 internal links (private-chef-vs-villa-cooking, large-group-seating-strategy, pre-trip-survey), fixed final CTA to /where-to-stay/, bumped date to 2026-07-06
+2026-07-06 11:30 UTC — seo: _guides/wedding-party.md — added 4 internal links (bachelorette-party, bachelor-party, pre-wedding-activities-guide, ride-share-master-guide), fixed final CTA to /where-to-stay/
