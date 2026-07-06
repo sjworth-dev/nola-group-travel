@@ -162,7 +162,7 @@ Much simpler. Need showers, mirrors, and somewhere to put suits.
 
 ### Bachelor/Bachelorette
 
-Often done as separate trips, but sometimes combined with the wedding weekend.
+Often done as separate trips, but sometimes combined with the wedding weekend. The [bachelorette party guide](/guides/bachelorette-party/) and [bachelor party guide](/guides/bachelor-party/) cover both in full — best for groups planning separate activities within the same wedding weekend.
 
 **Bachelor options:**
 - Golf at TPC Louisiana or City Park
@@ -184,6 +184,8 @@ Often done as separate trips, but sometimes combined with the wedding weekend.
 - Walking tour of the French Quarter
 - Beignets at Café Du Monde
 - Jazz at Preservation Hall
+
+The [pre-wedding activities guide](/guides/pre-wedding-activities-guide/) has a full list of group-friendly options for the day before the ceremony, organized by energy level and group size.
 
 ---
 
@@ -276,6 +278,8 @@ Assign someone to arrive early with:
 - Charter a van for larger groups moving together
 - Coordinate rides to ceremony/reception
 
+For groups moving 15+ people between venues, the [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the van charter vs. rideshare decision and how to handle MSY airport pickups when arrivals are staggered.
+
 ---
 
 ## Common Questions
@@ -300,7 +304,6 @@ Send them to hotels, or book multiple rentals on the same property. The Syd's mu
 
 ## Book Your Wedding Weekend
 
-For wedding large groups:
+For wedding party groups of 15-30, you need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools — good for getting-ready photos) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, easy transport to venues citywide) are both built for exactly this.
 
-- Castleday Retreats – Private pools, perfect for getting-ready photos
-- The Syd – Central location, multiple units for large wedding groups
+[See where to stay for large groups →](/where-to-stay/)
