@@ -4,7 +4,7 @@ description: "Celebrate a 30th, 40th, 50th, or 60th birthday in New Orleans. How
 category: "Weddings & Celebrations"
 card_title: "Milestone Birthdays"
 card_description: "30th, 40th, 50th, 60th—whatever the number, celebrate it right. For large groups."
-date: 2026-01-14
+date: 2026-07-06
 ---
 
 Milestone birthdays deserve more than a dinner reservation. They deserve a destination.
@@ -170,11 +170,13 @@ For milestone birthdays, consider hiring a local chef to cook at the house. It's
 - Lets you control the timeline
 - Creates a special experience
 
-Cost: $100-200/person including food and service.
+Cost: $100-200/person including food and service. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) breaks down exactly what you get and whether the premium is worth it for your group size.
 
 ---
 
 ## Restaurant Options
+
+For groups over 15, a private dining room or pre-arranged large-group seating isn't optional — it's the difference between a real celebration dinner and a chaotic table-cramming situation. The [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) covers exactly what to ask when you call ahead.
 
 ### Upscale (The Big Night)
 
@@ -212,7 +214,7 @@ Cost: $100-200/person including food and service.
 
 1. **Book early.** Milestone birthdays get planned 6-12 months ahead. Accommodate everyone's schedules.
 
-2. **Designate a planner.** One person (not the birthday person) handles logistics.
+2. **Designate a planner.** One person (not the birthday person) handles logistics. Send a [pre-trip survey](/guides/nola-group-pre-trip-survey-guide/) to the group 4 weeks out — dietary restrictions, mobility needs, and heat tolerance all matter more at milestone ages.
 
 3. **Collect money upfront.** Don't let the planner float costs.
 
@@ -228,7 +230,6 @@ Cost: $100-200/person including food and service.
 
 ## Book Your Milestone Celebration
 
-For birthday large groups:
+For milestone birthday groups of 15-30, you need one private space where everyone gathers — not scattered hotel rooms. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, outdoor kitchen) are both purpose-built for exactly this kind of trip.
 
-- Castleday Retreats – Private villas perfect for celebrations
-- The Syd – Central location, art-filled, festive
+[See where to stay for large groups →](/where-to-stay/)
