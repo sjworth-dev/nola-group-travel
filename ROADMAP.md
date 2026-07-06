@@ -111,7 +111,6 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 
 ## Up Next
 
-- `_guides/nola-group-french-quarter-vs-garden-district-guide.md` — targets "french quarter vs garden district where to stay" — the comparison every first-time group organizer googles, answered for groups over 10
 - `_guides/nola-group-spring-break-guide.md` — targets "spring break new orleans group trip" / "new orleans spring break large group" — late-March timing, French Quarter reality for college-aged groups, budget structure, what to do vs. skip; distinct from general friends-trip guide in demographic, timing, and pacing expectations
 - `_guides/nola-group-last-minute-booking-guide.md` — targets "last minute group trip new orleans" / "book new orleans large group 2 weeks out" — what's actually available 7-14 days out, villa market reality, restaurant backup strategies, when NOLA is surprisingly doable last-minute
 - `_guides/nola-group-luxury-weekend-guide.md` — targets "luxury new orleans group trip" / "upscale weekend new orleans large group" — premium NOLA experiences for groups with $400-600/person/day budgets; what's worth the money vs. overpriced tourist traps at that price point

@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-06 — `_guides/nola-group-french-quarter-vs-garden-district-guide.md`
 - 2026-07-05 — `_guides/nola-group-pre-trip-survey-guide.md`
 - 2026-07-04 — `_guides/nola-group-villa-hot-tub-protocol-guide.md`
 - 2026-07-04 — `_guides/nola-group-villa-hangover-recovery-guide.md`
@@ -691,3 +692,5 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-05 11:00 UTC — content: add _guides/nola-group-ride-share-master-guide.md — rideshare master guide for groups of 10-30: XL math, surge windows by event, MSY airport strategy, split-and-reconvene model, and charter van decision matrix
 2026-07-05 11:15 UTC — expand: _guides/family-reunion.md — added 4 internal links (accessible-group-guide, private-chef-vs-villa-cooking, large-group-seating-strategy, pre-trip-survey), fixed final CTA to /where-to-stay/, bumped date
 2026-07-05 11:30 UTC — seo: _guides/corporate-retreat.md — added 3 internal links (large-group-seating-strategy, ride-share-master-guide, trip-roles-assignment) woven into logistics checklist, at-house meals, and next-steps sections
+
+2026-07-06 10:00 UTC — content: add _guides/nola-group-french-quarter-vs-garden-district-guide.md — FQ vs. Garden District comparison for group organizers of 10-30, covering STR reality, neighborhood tradeoffs, and the real Bywater-vs-LGD decision beneath the FQ/GD frame
