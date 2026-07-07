@@ -707,3 +707,4 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-07 10:45 UTC — seo: _guides/bachelorette-party.md — added 4 internal links (trip-roles-assignment, nightlife-guide, large-group-seating-strategy, drink-pace-management)
 2026-07-07 11:00 UTC — content: add _guides/nola-group-girls-trip-guide.md — large group girls trip guide for 10-25 women: spa-brunch-pool-shopping-Frenchmen arc, neighborhood breakdown, sample 3-night itinerary, restaurant planning for large groups, and large-group accommodation section
 2026-07-07 11:15 UTC — expand: _guides/friends-trip.md — added neighborhood-selection section with comparison table and Bywater-vs-LGD link, added specific guide links in Girls Trip and Guys Weekend subsections, bumped date to 2026-07-07
+2026-07-07 11:30 UTC — seo: _guides/girls-trip-uptown.md — added inline link to nola-group-girls-trip-guide in the Why Uptown section for groups still choosing their base neighborhood

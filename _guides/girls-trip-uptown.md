@@ -29,6 +29,8 @@ Here's the playbook.
 
 Most New Orleans girls trips anchor in the French Quarter or the Bywater/Marigny. Both are great. Uptown is different.
 
+If your group hasn't picked a neighborhood yet, start with the [large group girls trip overview](/guides/nola-group-girls-trip-guide/) — it compares all four main neighborhoods side by side before committing to one. This page assumes you're going Uptown.
+
 **What Uptown has that the Quarter doesn't:**
 
 - Slower pace, genuinely residential feel — you're inside the city, not at its most performative
