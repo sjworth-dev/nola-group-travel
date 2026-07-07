@@ -111,8 +111,11 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 
 ## Up Next
 
-- `_guides/nola-group-last-minute-booking-guide.md` — targets "last minute group trip new orleans" / "book new orleans large group 2 weeks out" — what's actually available 7-14 days out, villa market reality, restaurant backup strategies, when NOLA is surprisingly doable last-minute
-- `_guides/nola-group-luxury-weekend-guide.md` — targets "luxury new orleans group trip" / "upscale weekend new orleans large group" — premium NOLA experiences for groups with $400-600/person/day budgets; what's worth the money vs. overpriced tourist traps at that price point
+- `_guides/nola-group-girls-trip-guide.md` — targets "new orleans girls trip large group" / "girls weekend new orleans 15-20 people" — spa, brunch, pool days, shopping, Frenchmen Street nights; distinct from generic friends-trip guide; specific activity mix and neighborhood recommendations for all-female groups of 10-25
+- `_guides/nola-group-guys-weekend-guide.md` — targets "guys trip new orleans large group" / "guys weekend new orleans group 15-20" — sports, golf, fishing, daytime activities, bar strategy, food-heavy; non-bachelor framing for the annual crew or milestone trip
+- `_guides/nola-group-october-guide.md` — targets "new orleans group trip october" / "halloween weekend new orleans large group" — Voodoo Fest timing, Halloween in the French Quarter, fall weather advantage, shoulder-season pricing, event-specific villa booking windows
+- `_guides/nola-group-food-focused-itinerary-guide.md` — targets "new orleans food trip group" / "best food experiences new orleans large group" — trip built entirely around eating: multi-restaurant days, how to pace a food-heavy itinerary, cooking class placement, private chef vs. landmark restaurant allocation; distinct from culinary-tour-guide which covers organized tours
+- `_guides/nola-group-summer-trip-guide.md` — targets "new orleans group trip summer" / "visiting new orleans summer large group heat" — honest heat guide, when to be outside vs. inside, pool/AC strategy, Essence Fest window, why summer villa pricing is the best deal in NOLA; distinct from shoulder-season-guide which covers timing generally
 
 <!-- BLOCKED: nola-group-essence-fest-guide.md — 70%+ covered by essence-festival.md and nola-group-essence-festival-base-camp-guide.md -->
 

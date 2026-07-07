@@ -4,6 +4,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-07 — `_guides/nola-group-last-minute-booking-guide.md`
+- 2026-07-07 — `_guides/nola-group-luxury-weekend-guide.md`
 - 2026-07-06 — `_guides/nola-group-spring-break-guide.md`
 - 2026-07-06 — `_guides/nola-group-french-quarter-vs-garden-district-guide.md`
 - 2026-07-05 — `_guides/nola-group-pre-trip-survey-guide.md`
@@ -698,3 +700,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-06 11:00 UTC — content: add _guides/nola-group-spring-break-guide.md — spring break group guide for groups of 10-30: late-March timing, French Quarter reality, budget math, 4-night itinerary, Bourbon vs. Frenchmen Street breakdown, and drink pace management
 2026-07-06 11:15 UTC — expand: _guides/milestone-birthday.md — added 3 internal links (private-chef-vs-villa-cooking, large-group-seating-strategy, pre-trip-survey), fixed final CTA to /where-to-stay/, bumped date to 2026-07-06
 2026-07-06 11:30 UTC — seo: _guides/wedding-party.md — added 4 internal links (bachelorette-party, bachelor-party, pre-wedding-activities-guide, ride-share-master-guide), fixed final CTA to /where-to-stay/
+2026-07-07 10:00 UTC — content: add _guides/nola-group-last-minute-booking-guide.md — last-minute group booking guide: 7-14 day booking reality, villa market, restaurant backup strategies, when NOLA works last-minute and when it doesn't
+2026-07-07 10:15 UTC — content: add _guides/nola-group-luxury-weekend-guide.md — luxury group weekend guide: premium NOLA for groups of 10-30 at $400-600/person/day, what's worth the spend, overpriced-tourist-trap warnings, private chef and private second line options
+2026-07-07 10:30 UTC — expand: _guides/holiday-gathering.md — added 3 internal links (private-chef, large-group-seating-strategy, mixed-diet-restaurant-strategy), fixed final CTA with /where-to-stay/, bumped date to 2026-07-07
+2026-07-07 10:45 UTC — seo: _guides/bachelorette-party.md — added 4 internal links (trip-roles-assignment, nightlife-guide, large-group-seating-strategy, drink-pace-management)
