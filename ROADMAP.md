@@ -9,16 +9,16 @@
 
 ## Voice
 
-Direct. Opinionated. Local expert. Short paragraphs. No travel-blog fluff.
+Wry, opinionated, verdict-first. Think Powderhounds (the ski-resort review site): dry humor, honest verdicts, zero fluff, speaks directly to "you."
 
-"We live here. We've done this hundreds of times."
-
-- Write like a knowledgeable friend, not a travel magazine
-- Opinions are welcome ("This is the move." "Skip this.")
+- Lead with a verdict, then earn it with specifics ("Skip the carriage tour. Here's the hour Bourbon Street is actually worth.")
+- NEVER flex credentials. No "we live here," "we've planned hundreds of trips," "as locals we know." Authority comes from being specific and right, not from claiming experience.
+- NEVER use clinical group-size ranges in prose ("groups of 11-30", "10-25 people"). Say it naturally: "a big group," "the whole crew," "twenty people," "when the trip goes double-digit." Numbers are fine as data (capacities, prices, headcount math).
+- Dry humor over enthusiasm. "Groups that only sort of like each other" beats "perfect for everyone!"
+- Honest comparisons build credibility: name real hotels/restaurants/alternatives and say when they beat a villa. State the bias plainly when there is one.
 - Short punchy paragraphs, never long walls of text
 - Tables for comparisons
 - Numbered and bulleted lists throughout
-- Match the voice of `_guides/friends-trip.md` and `_guides/corporate-retreat.md`
 
 ---
 

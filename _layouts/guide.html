@@ -3,17 +3,36 @@ layout: default
 ---
 
 <article class="guide">
+  <div class="container crumbs">
+    {% if page.collection == "neighborhoods" %}
+    <a href="{{ '/neighborhoods/' | relative_url }}">Neighborhoods</a>
+    {% else %}
+    <a href="{{ '/guides/' | relative_url }}">Guides</a>{% if page.category %}{% assign cat_slug = page.category | slugify %} / <a href="{{ '/guides/' | relative_url }}#{{ cat_slug }}">{{ page.category }}</a>{% endif %}
+    {% endif %}
+  </div>
+
   <header class="guide-header">
     <div class="container">
-      <p class="guide-category">{{ page.category | default: "Guide" }}</p>
+      <span class="eyebrow">{{ page.category | default: "Neighborhood Guide" }}</span>
       <h1>{{ page.title }}</h1>
-      <p class="guide-description">{{ page.description }}</p>
-      <p class="guide-meta">Last updated: {{ page.date | date: "%B %Y" }}</p>
+      {% if page.description %}<p class="guide-description">{{ page.description }}</p>{% endif %}
+      <div class="guide-meta">
+        <span class="updated">Updated {{ page.date | date: "%B %-d, %Y" }}</span>
+        <span class="dot"></span>
+        {% assign words = content | strip_html | number_of_words %}
+        <span>{{ words | divided_by: 220 | at_least: 2 }} min read</span>
+        <span class="dot"></span>
+        <span>Written in New Orleans</span>
+      </div>
     </div>
   </header>
 
-  <div class="guide-content">
-    <div class="container container-narrow">
+  <div class="article-body">
+    <aside class="guide-toc">
+      <span class="eyebrow">In this guide</span>
+      <ol></ol>
+    </aside>
+    <div class="guide-content">
       {{ content }}
     </div>
   </div>
@@ -21,12 +40,13 @@ layout: default
   {% if page.collection == "guides" %}
   {% assign related = site.guides | where: "category", page.category | where_exp: "g", "g.url != page.url" | sort: "date" | reverse %}
   {% if related.size > 0 %}
-  <section class="guides-grid related-guides">
+  <section class="related-guides">
     <div class="container">
       <h2>More {{ page.category | default: "Guides" }}</h2>
       <div class="card-grid">
         {% for g in related limit: 4 %}
         <a href="{{ g.url | relative_url }}" class="card">
+          <span class="chipdate">Updated {{ g.date | date: "%b %-d" }}</span>
           <h3>{{ g.card_title | default: g.title }}</h3>
           <p>{{ g.card_description | default: g.description | truncate: 140 }}</p>
           <div class="card-arrow">→</div>
@@ -40,11 +60,11 @@ layout: default
   {% endif %}
 
   <aside class="guide-cta">
-    <div class="container container-narrow">
+    <div class="container-narrow">
       <div class="cta-box">
-        <h3>Planning Where to Stay?</h3>
-        <p>Finding a New Orleans rental that legally sleeps more than 10 is the hardest part of any group trip. Our guide breaks down the handful of large-group villas, what to look for, and how to book.</p>
-        <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where to Stay With Large Groups</a>
+        <h3>First decision: where does everyone sleep?</h3>
+        <p>Finding a New Orleans rental that legally sleeps more than ten is the hardest part of any big-group trip. Our guide breaks down the handful of big-group villas, the hotels that actually work, and how to book before your dates disappear.</p>
+        <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where everyone actually sleeps</a>
       </div>
     </div>
   </aside>

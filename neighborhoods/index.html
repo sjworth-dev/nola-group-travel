@@ -1,42 +1,36 @@
 ---
 layout: default
 title: "New Orleans Neighborhoods for Group Trips"
-description: "Every New Orleans neighborhood guide on the site — where to stay, what each area feels like, and how groups of 10-30 should use it."
+description: "Every New Orleans neighborhood guide on the site — where to stay, what each area feels like, and how a big group should use it."
 permalink: /neighborhoods/
 ---
 
-<section class="hero">
+<section class="lib-head">
   <div class="container">
-    <h1>
-      <span>{{ site.neighborhoods | size }} Neighborhoods</span>
-      Explore New Orleans
-    </h1>
-    <p class="hero-subtitle">What each part of the city actually feels like, where groups should base themselves, and where you go every night.</p>
+    <span class="eyebrow">The Map</span>
+    <h1>{{ site.neighborhoods | size }} neighborhoods</h1>
+    <p class="deck">What each part of the city actually feels like, where a big group should base itself, and where you go every night.</p>
   </div>
-  <div class="hero-fleur">⚜</div>
 </section>
 
-<section class="guides-grid">
+<section class="toc-section">
   <div class="container">
-    <div class="card-grid">
+    <div class="toc-list">
       {% assign hoods = site.neighborhoods | sort: "title" %}
       {% for n in hoods %}
-      <a href="{{ n.url | relative_url }}" class="card">
+      <a class="toc-item" href="{{ n.url | relative_url }}">
         <h3>{{ n.card_title | default: n.title }}</h3>
-        <p>{{ n.card_description | default: n.description | truncate: 140 }}</p>
-        <div class="card-arrow">→</div>
+        <p>{{ n.card_description | default: n.description | truncate: 110 }}</p>
       </a>
       {% endfor %}
     </div>
   </div>
 </section>
 
-<section class="cta-section">
+<section class="band" style="margin-top:60px">
   <div class="container">
-    <h2>Need Accommodations for Large Groups?</h2>
-    <p>Most New Orleans rentals cap at 10 guests. A small number of villas are purpose-built for large groups—here's where to find them, what to look for, and how to book.</p>
-    <div class="cta-buttons">
-      <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where to Stay With Large Groups</a>
-    </div>
+    <h2>Picked a neighborhood? Now find the roof.</h2>
+    <p>Most New Orleans rentals cap at 10 guests. A small number of villas are purpose-built for big groups — here's where to find them, what to look for, and how to book.</p>
+    <a href="{{ '/where-to-stay/' | relative_url }}" class="btn">Where everyone actually sleeps</a>
   </div>
 </section>

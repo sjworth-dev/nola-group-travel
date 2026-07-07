@@ -3,9 +3,9 @@
     <div class="footer-grid">
       <div class="footer-about">
         <h4>NOLA Group Travel</h4>
-        <p>The insider guide to planning group trips to New Orleans. Built for large groups who need real advice, not generic tourism info.</p>
+        <p>An independent New Orleans guide for big groups. Opinionated on purpose, written in New Orleans, updated weekly — {{ site.guides | size }} guides and counting.</p>
         <div style="margin-top: 1.5rem;">
-          <a href="{{ '/where-to-stay/' | relative_url }}" style="display:inline-block; font-size:0.75rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:var(--color-gold);">Where to Stay With Large Groups →</a>
+          <a href="{{ '/where-to-stay/' | relative_url }}" style="display:inline-block; font-size:0.75rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:var(--brass); text-decoration:none;">Where a big group can actually stay →</a>
         </div>
       </div>
       <div class="footer-links">
@@ -42,12 +42,13 @@
           <li><a href="{{ '/neighborhoods/marigny/' | relative_url }}">Marigny</a></li>
           <li><a href="{{ '/neighborhoods/garden-district/' | relative_url }}">Garden District</a></li>
           <li><a href="{{ '/neighborhoods/' | relative_url }}">All Neighborhoods</a></li>
-          <li><a href="{{ '/where-to-stay/' | relative_url }}">Where to Stay (Groups Over 10)</a></li>
+          <li><a href="{{ '/where-to-stay/' | relative_url }}">Where to Stay</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; {{ 'now' | date: "%Y" }} New Orleans Group Travel Guide</p>
+      <p><span class="fleur">⚜</span> &copy; {{ 'now' | date: "%Y" }} New Orleans Group Travel Guide</p>
+      <p>Photography: Wikimedia Commons contributors (CC BY) — mrpolyonymous, Tom Hilton, Aaron Volkening, Daniel Hartwig, Infrogmation of New Orleans</p>
     </div>
   </div>
 </footer>

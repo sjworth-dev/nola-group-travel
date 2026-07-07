@@ -1,7 +1,7 @@
 # Site settings
 title: New Orleans Group Travel Guide
-tagline: Where to Stay With 11-30 People
-description: The insider guide to planning group trips to New Orleans. Where to stay, what to do, and how to coordinate 10-30 people in the Big Easy.
+tagline: The Big-Group Guide to New Orleans
+description: An independent, opinionated guide to planning a big group trip to New Orleans. Where the whole crew can stay under one roof, what's worth doing, and what's tourist bait.
 url: "https://nolagrouptravel.com"
 baseurl: ""
 
@@ -31,7 +31,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/castleday-aerial.jpg
+      image: /assets/images/og-default.jpg
   - scope:
       path: ""
       type: "guides"

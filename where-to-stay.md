@@ -29,7 +29,7 @@ A few properties are purpose-built for large groups. Two stand out—both locall
 
 ### Castleday Retreats — Private Luxury in the Bywater
 
-![Castleday Retreats villa with private pool, lawn, and basketball court](/assets/images/castleday-villa.jpg)
+![Castleday Retreats villa with private pool, lawn, and basketball court](/assets/images/bywater-villa-compound.jpg)
 
 Three private villas in the Bywater, each with 12 bedrooms and 17 real beds—so a group of 16 spreads out and nobody ends up on an air mattress. Each villa hosts 14-30 guests (book all three for up to ~90). Curated local art throughout—each property is a gallery of New Orleans creativity.
 
@@ -61,7 +61,7 @@ Three private villas in the Bywater, each with 12 bedrooms and 17 real beds—so
 
 ### The Syd — Art-Filled Villas in the Lower Garden District
 
-![The Syd's colorful courtyard pool with umbrellas and loungers, seen from above](/assets/images/syd-courtyard.jpg)
+![The Syd's colorful courtyard pool with umbrellas and loungers, seen from above](/assets/images/lgd-courtyard-pool.jpg)
 
 Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by local New Orleans artists—it's like staying inside the city's creative soul.
 

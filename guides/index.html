@@ -1,44 +1,61 @@
 ---
 layout: default
 title: "All Group Travel Guides — New Orleans"
-description: "Every guide on the site, organized by category: planning, activities, nightlife, food, festivals, and more — all written for groups of 10-30 in New Orleans."
+description: "Every guide on the site, organized by category: planning, activities, nightlife, food, festivals, and more — all written for big groups in New Orleans."
 permalink: /guides/
 ---
 
 {% assign category_order = "Planning & Logistics|Activities & Day Trips|Nightlife & Music|Festivals & Events|Food & Drink|Culture & History|Villa Life|Weddings & Celebrations|Bachelorette & Bachelor|Corporate Retreats|Friends & Family" | split: "|" %}
+{% assign recent_guides = site.guides | sort: "date" | reverse %}
 
-<section class="hero">
+<section class="lib-head">
   <div class="container">
-    <h1>
-      <span>{{ site.guides | size }} Guides</span>
-      All Group Travel Guides
-    </h1>
-    <p class="hero-subtitle">Every guide we've written for planning a large-group trip to New Orleans, organized by category. All of it free, all of it local.</p>
-  </div>
-  <div class="hero-fleur">⚜</div>
-</section>
-
-<section class="guides-grid">
-  <div class="container">
-    <p class="section-subtitle">
-      {% for cat in category_order %}<a href="#{{ cat | slugify }}">{{ cat }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
-    </p>
+    <span class="eyebrow">The Library</span>
+    <h1>All {{ site.guides | size }} guides</h1>
+    <p class="deck">Every guide on the site — organized by category, searchable, and refreshed every week. All of it free, all of it written in New Orleans.</p>
+    <div class="search">
+      <input type="text" data-guide-search placeholder="Search guides — try &quot;brunch&quot;, &quot;Mardi Gras&quot;, &quot;airport&quot;…" aria-label="Search guides">
+    </div>
   </div>
 </section>
+
+<div class="cat-jump">
+  <div class="container">
+    {% for cat in category_order %}
+    {% assign cat_guides = site.guides | where: "category", cat %}
+    <a href="#{{ cat | slugify }}">{{ cat }}<em>{{ cat_guides.size }}</em></a>
+    {% endfor %}
+  </div>
+</div>
+
+<section class="toc-section" id="recently-updated">
+  <div class="container">
+    <div class="cat-title"><h2>New &amp; recently updated</h2><span class="count">This week</span></div>
+    <div class="fresh-grid" style="margin-top:22px">
+      {% for g in recent_guides limit: 3 %}
+      <a class="fresh-card" href="{{ g.url | relative_url }}">
+        <span class="chipdate">Updated {{ g.date | date: "%b %-d" }}</span>
+        <h3>{{ g.card_title | default: g.title }}</h3>
+        <p>{{ g.card_description | default: g.description | truncate: 120 }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<p class="no-results container">No guides match that search — try a shorter word.</p>
 
 {% for cat in category_order %}
 {% assign cat_guides = site.guides | where: "category", cat | sort: "title" %}
 {% if cat_guides.size > 0 %}
-<section class="guides-grid" id="{{ cat | slugify }}" {% cycle 'guide-index-bg': '', 'style="background: var(--color-cream);"' %}>
+<section class="toc-section" id="{{ cat | slugify }}" data-cat="{{ cat | slugify }}">
   <div class="container">
-    <h2>{{ cat }}</h2>
-    <p class="section-subtitle">{{ cat_guides.size }} guide{% if cat_guides.size != 1 %}s{% endif %}</p>
-    <div class="card-grid">
+    <div class="cat-title"><h2>{{ cat }}</h2><span class="count">{{ cat_guides.size }} guide{% if cat_guides.size != 1 %}s{% endif %}</span></div>
+    <div class="toc-list">
       {% for g in cat_guides %}
-      <a href="{{ g.url | relative_url }}" class="card">
+      <a class="toc-item" href="{{ g.url | relative_url }}">
         <h3>{{ g.card_title | default: g.title }}</h3>
-        <p>{{ g.card_description | default: g.description | truncate: 140 }}</p>
-        <div class="card-arrow">→</div>
+        <p>{{ g.card_description | default: g.description | truncate: 110 }}</p>
       </a>
       {% endfor %}
     </div>
@@ -47,12 +64,10 @@ permalink: /guides/
 {% endif %}
 {% endfor %}
 
-<section class="cta-section">
+<section class="band" style="margin-top:60px">
   <div class="container">
-    <h2>Need Accommodations for Large Groups?</h2>
-    <p>Most New Orleans rentals cap at 10 guests. A small number of villas are purpose-built for large groups—here's where to find them, what to look for, and how to book.</p>
-    <div class="cta-buttons">
-      <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where to Stay With Large Groups</a>
-    </div>
+    <h2>Need a place for a big group?</h2>
+    <p>Most New Orleans rentals cap at 10 guests. A small number of villas are purpose-built for big groups — here's where to find them, what to look for, and how to book.</p>
+    <a href="{{ '/where-to-stay/' | relative_url }}" class="btn">Where everyone actually sleeps</a>
   </div>
 </section>

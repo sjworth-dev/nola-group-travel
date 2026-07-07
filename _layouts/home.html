@@ -2,177 +2,133 @@
 layout: default
 ---
 
+{% assign recent_guides = site.guides | sort: "date" | reverse %}
+{% assign latest = recent_guides | first %}
+
 <section class="hero">
-  <div class="container">
-    <h1>
-      <span>New Orleans Group Travel</span>
-      Plan Your Trip
-    </h1>
-    <p class="hero-subtitle">Real advice from locals who've helped plan hundreds of group trips. Not a travel blog—actual help for large groups.</p>
-    <div class="hero-cta">
-      <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Find Accommodations</a>
-      <a href="{{ '/guides/' | relative_url }}" class="btn btn-secondary">Browse All {{ site.guides | size }} Guides</a>
+  <div class="container hero-grid">
+    <div>
+      <p class="kicker">An independent guide. Opinionated on purpose.</p>
+      <h1>New Orleans, <span class="ital">with the whole crew.</span></h1>
+      <p class="deck">New Orleans is the best city in America for a big group trip — and the worst city to plan one for. This guide handles the second part: where twenty people can actually sleep under one roof, how to move them without a spreadsheet meltdown, and what deserves a spot on the itinerary.</p>
+      <div class="issue-line">
+        <span>{{ site.guides | size }} guides</span><span class="dot"></span><span>Updated {{ latest.date | date: "%B %-d, %Y" }}</span><span class="dot"></span><span>Zero sponsored picks</span>
+      </div>
+      <div class="actions">
+        <a class="btn btn-primary" href="{{ '/where-to-stay/' | relative_url }}">Find a place for your group</a>
+        <a class="btn btn-ghost" href="{{ '/guides/' | relative_url }}">Browse all {{ site.guides | size }} guides</a>
+      </div>
     </div>
+    <figure class="hero-photo">
+      <img src="{{ '/assets/images/french-quarter-balcony.jpg' | relative_url }}" alt="Ferns and flowers spilling from a cast-iron French Quarter balcony" width="1200" height="1500" fetchpriority="high">
+      <span class="photo-credit">French Quarter · Photo: mrpolyonymous / CC BY 2.0</span>
+    </figure>
   </div>
-  <div class="hero-fleur">⚜</div>
 </section>
 
-<section class="intro">
+<div class="coverlines">
   <div class="container">
-    <p class="intro-label">The Problem</p>
+    <a href="{{ '/guides/mardi-gras-group-guide/' | relative_url }}"><strong>Mardi Gras</strong> — dates &amp; strategy</a>
+    <a href="{{ '/guides/jazz-fest-group-guide/' | relative_url }}"><strong>Jazz Fest</strong> — book 12 months out</a>
+    <a href="{{ '/guides/restaurant-guide/' | relative_url }}"><strong>Restaurants</strong> that seat 20+</a>
+    <a href="{{ '/guides/transportation-guide/' | relative_url }}"><strong>Getting around</strong> without 6 Ubers</a>
+    <a href="{{ '/where-to-stay/' | relative_url }}"><strong>Villas</strong> that sleep 30</a>
+  </div>
+</div>
+
+<section class="block">
+  <div class="container">
+    <div class="section-head">
+      <h2>Plan by occasion</h2>
+      <a class="more" href="{{ '/guides/' | relative_url }}">Every occasion →</a>
+    </div>
+    <div class="departments">
+      <a class="dept" href="{{ '/guides/bachelorette-party/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Bachelorette Parties</h3><p>Pool days, French Quarter nights, and everything in between. The complete playbook.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/bachelor-party/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Bachelor Parties</h3><p>Golf, gambling, live music, and legendary nights. Send him off right.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/wedding-party/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Wedding Parties</h3><p>Bridesmaids, groomsmen, out-of-town guests. One place for the whole crew.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/milestone-birthday/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Milestone Birthdays</h3><p>Forty, fifty, sixty. If there was ever a city for refusing to age gracefully, it's this one.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/friends-trip/' | relative_url }}"><span class="eyebrow">Gatherings</span><h3>Friends Trips</h3><p>No occasion required. How to get the group chat from &ldquo;we should do this&rdquo; to booked.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/family-reunion/' | relative_url }}"><span class="eyebrow">Gatherings</span><h3>Family Reunions</h3><p>Three generations, one roof, and nobody asking &ldquo;so what's the plan&rdquo; at breakfast.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/corporate-retreat/' | relative_url }}"><span class="eyebrow">Gatherings</span><h3>Corporate Retreats</h3><p>Offsites that people talk about for the right reasons.</p><span class="arrow">→</span></a>
+      <a class="dept" href="{{ '/guides/holiday-gathering/' | relative_url }}"><span class="eyebrow">Gatherings</span><h3>Holiday Gatherings</h3><p>Thanksgiving without hosting duty, in a city that takes December seriously.</p><span class="arrow">→</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="block fresh">
+  <div class="container">
+    <div class="section-head">
+      <h2>New this week</h2>
+      <a class="more" href="{{ '/guides/#recently-updated' | relative_url }}">Everything recent →</a>
+    </div>
+    <div class="fresh-grid">
+      {% for g in recent_guides limit: 3 %}
+      <a class="fresh-card" href="{{ g.url | relative_url }}">
+        <span class="chipdate">Updated {{ g.date | date: "%b %-d" }}</span>
+        <h3>{{ g.card_title | default: g.title }}</h3>
+        <p>{{ g.card_description | default: g.description | truncate: 140 }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="container letter">
+    <span class="eyebrow">The problem with every other guide</span>
     {{ content }}
+    <p class="sig">— Written in New Orleans, updated weekly</p>
   </div>
 </section>
 
-<section class="guides-grid">
+<section class="block" style="padding-top:0">
   <div class="container">
-    <h2>Plan Your Trip</h2>
-    <p class="section-subtitle">Select your occasion. We'll tell you exactly what to do.</p>
-    <div class="card-grid">
-      <a href="{{ '/guides/bachelorette-party/' | relative_url }}" class="card">
-        <div class="card-number">01</div>
-        <h3>Bachelorette Parties</h3>
-        <p>Pool days, French Quarter nights, and everything in between. The complete playbook.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/bachelor-party/' | relative_url }}" class="card">
-        <div class="card-number">02</div>
-        <h3>Bachelor Parties</h3>
-        <p>Golf, gambling, live music, and legendary nights. Send him off right.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/wedding-party/' | relative_url }}" class="card">
-        <div class="card-number">03</div>
-        <h3>Wedding Parties</h3>
-        <p>Bridesmaids, groomsmen, out-of-town guests. One place for the whole crew.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/friends-trip/' | relative_url }}" class="card">
-        <div class="card-number">04</div>
-        <h3>Friends Trips</h3>
-        <p>Girls trips, guys weekends, college reunions, the annual crew getaway.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/milestone-birthday/' | relative_url }}" class="card">
-        <div class="card-number">05</div>
-        <h3>Milestone Birthdays</h3>
-        <p>30th, 40th, 50th, 60th—whatever the number, celebrate it right.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/family-reunion/' | relative_url }}" class="card">
-        <div class="card-number">06</div>
-        <h3>Family Reunions</h3>
-        <p>Three generations under one roof. Activities that work for everyone.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/corporate-retreat/' | relative_url }}" class="card">
-        <div class="card-number">07</div>
-        <h3>Corporate Retreats</h3>
-        <p>Skip the hotel conference room. Run an offsite they'll actually remember.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/holiday-gathering/' | relative_url }}" class="card">
-        <div class="card-number">08</div>
-        <h3>Holiday Gatherings</h3>
-        <p>Thanksgiving, Christmas, New Year's—celebrate somewhere special.</p>
-        <div class="card-arrow">→</div>
-      </a>
+    <div class="section-head">
+      <h2>Know the neighborhoods</h2>
+      <a class="more" href="{{ '/neighborhoods/' | relative_url }}">All neighborhoods →</a>
+    </div>
+    <a class="hood-row" href="{{ '/neighborhoods/bywater/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/second-line-brass.jpg' | relative_url }}" alt="Brass band parade under live oaks" loading="lazy" width="900" height="675"><h3>Bywater</h3><p>The most local neighborhood in the city — and home to the best big-group bases in New Orleans.</p><span class="arrow">→</span></a>
+    <a class="hood-row" href="{{ '/neighborhoods/lower-garden-district/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/garden-district-gate.jpg' | relative_url }}" alt="Ironwork gate before a Garden District mansion" loading="lazy" width="900" height="600"><h3>Lower Garden District</h3><p>Walkable, gorgeous, and quieter at night. The sweet spot for mixed-age groups.</p><span class="arrow">→</span></a>
+    <a class="hood-row" href="{{ '/neighborhoods/french-quarter/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/french-quarter-street.jpg' | relative_url }}" alt="French Quarter street with cast-iron balconies" loading="lazy" width="900" height="599"><h3>French Quarter</h3><p>You'll visit every day. Here's why you probably shouldn't sleep here with 20 people.</p><span class="arrow">→</span></a>
+    <a class="hood-row" href="{{ '/neighborhoods/marigny/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/st-charles-streetcar.jpg' | relative_url }}" alt="New Orleans streetcar" loading="lazy" width="900" height="675"><h3>Marigny</h3><p>Frenchmen Street's live music, ten minutes from everywhere your group wants to be.</p><span class="arrow">→</span></a>
+  </div>
+</section>
+
+<section class="block" style="border-top:1px solid var(--line)">
+  <div class="container">
+    <div class="section-head">
+      <h2>Where should a big group actually stay?</h2>
+      <a class="more" href="{{ '/where-to-stay/' | relative_url }}">The full comparison →</a>
+    </div>
+    <div class="compare-wrap">
+      <table class="compare">
+        <thead>
+          <tr><th></th><th>One big villa</th><th>A hotel room block</th><th>Split Airbnbs</th></tr>
+        </thead>
+        <tbody>
+          <tr><th>Everyone under one roof</th><td class="win">Yes — that's the point</td><td>Same building, different floors</td><td>No — you'll commute to your own party</td></tr>
+          <tr><th>Space to gather</th><td class="win">Pool, courtyard, one kitchen, one long table</td><td>The lobby bar, until it closes</td><td>Whoever booked the biggest living room</td></tr>
+          <tr><th>Typical cost per person</th><td class="win">$85–150 a night</td><td>$180–280 a night</td><td>$120–200 a night</td></tr>
+          <tr><th>Booking effort</th><td class="win">One booking, one payment link</td><td>Ten-plus rooms means a sales office and attrition clauses</td><td>Three hosts, three rule sets, three deposits</td></tr>
+          <tr><th>Best for</th><td>Trips where being together is the point</td><td>Conference add-ons and mixed budgets</td><td>Groups that only sort of like each other</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="verdict">Our bias, stated plainly: for a celebration, one roof wins. But when a hotel is the right call, skip the booking-site roulette — these four actually work for groups.</p>
+    <div class="toc-list" style="margin-top:10px">
+      <span class="toc-item"><h3>Hotel Peter &amp; Paul — Marigny</h3><p>A converted church and schoolhouse two blocks from Frenchmen. Gorgeous, intimate, no shared kitchen — best for a design-minded dozen.</p></span>
+      <span class="toc-item"><h3>The Pontchartrain — Garden District</h3><p>Old-line St. Charles charm and the streetcar handles the driving. The mixed-generations pick.</p></span>
+      <span class="toc-item"><h3>Ace Hotel — Warehouse District</h3><p>Rooftop pool, music downstairs, and a sales team that actually does room blocks. The easiest hotel logistics in town.</p></span>
+      <span class="toc-item"><h3>Hotel Saint Vincent — Lower Garden District</h3><p>Scene-y courtyard and great bars. Better for style points than headcount.</p></span>
     </div>
   </div>
 </section>
 
-<section class="guides-grid" style="background: var(--color-cream);">
+<section class="band">
   <div class="container">
-    <h2>NOLA Essentials</h2>
-    <p class="section-subtitle">Logistics, food, events, and getting around—the practical guides every group needs.</p>
-    <div class="card-grid">
-      <a href="{{ '/guides/mardi-gras-group-guide/' | relative_url }}" class="card">
-        <div class="card-number">01</div>
-        <h3>Mardi Gras</h3>
-        <p>Parade routes, booking timelines, transportation during closures, and how to actually survive Fat Tuesday with 20 people.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/jazz-fest-group-guide/' | relative_url }}" class="card">
-        <div class="card-number">02</div>
-        <h3>Jazz Fest</h3>
-        <p>Two weekends in late April and May. Fair Grounds strategy, food guide, evening shows, and why you need to book 12 months out.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/sports-weekend/' | relative_url }}" class="card">
-        <div class="card-number">03</div>
-        <h3>Sports Weekends</h3>
-        <p>Saints gameday at the Superdome, Pelicans nights, and how to move a group of 20 through game-day New Orleans.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/restaurant-guide/' | relative_url }}" class="card">
-        <div class="card-number">04</div>
-        <h3>Restaurants for Large Groups</h3>
-        <p>Where to eat with large groups, organized by neighborhood and occasion. Booking strategy, timing, and what to avoid.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/guides/transportation-guide/' | relative_url }}" class="card">
-        <div class="card-number">05</div>
-        <h3>Getting Around</h3>
-        <p>Airport transfers, streetcar logistics, rideshare math, charter buses, and biking. Stop spending your trip coordinating Ubers.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/events/' | relative_url }}" class="card">
-        <div class="card-number">06</div>
-        <h3>Festival Dates</h3>
-        <p>Mardi Gras, Jazz Fest, Essence, French Quarter Fest—confirmed dates for 2026 and 2027 to lock in your trip.</p>
-        <div class="card-arrow">→</div>
-      </a>
-    </div>
-    <p class="section-subtitle" style="margin-top: 2.5rem; text-align: center;"><a href="{{ '/guides/' | relative_url }}">Browse the full library — {{ site.guides | size }} guides, organized by category →</a></p>
-  </div>
-</section>
-
-<section class="guides-grid">
-  <div class="container">
-    <h2>Explore the Neighborhoods</h2>
-    <p class="section-subtitle">Where to stay, where to go every night, and what each part of the city actually feels like.</p>
-    <div class="card-grid">
-      <a href="{{ '/neighborhoods/bywater/' | relative_url }}" class="card">
-        <div class="card-number">01</div>
-        <h3>Bywater</h3>
-        <p>The most local neighborhood in the city. Home to Castleday Retreats—the best large-group base in New Orleans.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/neighborhoods/lower-garden-district/' | relative_url }}" class="card">
-        <div class="card-number">02</div>
-        <h3>Lower Garden District</h3>
-        <p>One block from the St. Charles Streetcar. Home to The Syd. The smartest base for groups who want to be central to everything.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/neighborhoods/french-quarter/' | relative_url }}" class="card">
-        <div class="card-number">03</div>
-        <h3>French Quarter</h3>
-        <p>Bourbon Street, Preservation Hall, Café Du Monde. Where you go—not where you stay. Here's how groups should use it.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/neighborhoods/marigny/' | relative_url }}" class="card">
-        <div class="card-number">04</div>
-        <h3>Marigny</h3>
-        <p>Frenchmen Street—three blocks of the best live jazz in America. Where every group ends up every night. Here's the guide.</p>
-        <div class="card-arrow">→</div>
-      </a>
-      <a href="{{ '/neighborhoods/garden-district/' | relative_url }}" class="card">
-        <div class="card-number">05</div>
-        <h3>Garden District</h3>
-        <p>Antebellum mansions, Lafayette Cemetery, Commander's Palace. The most beautiful neighborhood in New Orleans.</p>
-        <div class="card-arrow">→</div>
-      </a>
-    </div>
-    <p class="section-subtitle" style="margin-top: 2.5rem; text-align: center;"><a href="{{ '/neighborhoods/' | relative_url }}">See all {{ site.neighborhoods | size }} neighborhood guides →</a></p>
-  </div>
-</section>
-
-<section class="cta-section">
-  <div class="container">
-    <h2>Need Accommodations for Large Groups?</h2>
-    <p>Most New Orleans rentals cap at 10 guests. A small number of villas are purpose-built for large groups—here's where to find them, what to look for, and how to book.</p>
-    <div class="cta-buttons">
-      <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where to Stay With Large Groups</a>
-    </div>
+    <p class="eyebrow">Where to stay</p>
+    <h2>Most rentals cap at 10 guests. Here's where the exceptions are.</h2>
+    <p>A small number of New Orleans villas are purpose-built for big groups — pools, courtyards, and enough bedrooms that nobody draws the air mattress. We keep a running guide to finding and booking them.</p>
+    <a class="btn" href="{{ '/where-to-stay/' | relative_url }}">See every big-group option</a>
   </div>
 </section>
