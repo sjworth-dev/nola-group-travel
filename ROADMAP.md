@@ -69,6 +69,8 @@ This is an independent guide. Properties may be described editorially as example
 
 **The Syd** — Lower Garden District, multiple villas, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors, one block from St. Charles Streetcar. Best for groups who want a central location.
 
+**Other big-group properties (name freely as editorial examples — an honest guide covers the whole field):** Heirloom (large-format homes, LGD/Central City, deepest inventory), The Mazant (1880s Bywater guesthouse, sleeps 18, pool), Hotel Perle (group suites, CBD/Warehouse, rooftop pool), The Revelry (apartment-style floors + saltwater pool, Central City), Hotel Bennett (formerly Ace), Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent, The Roosevelt. Same rule: plain-text mentions only, no outbound booking links; depth lives on /where-to-stay/.
+
 **Rules:**
 - Name properties only as plain-text editorial examples. Do NOT hyperlink to castledayretreats.com, thesyd.com, or any other booking site.
 - Every accommodation CTA points to the on-site guide: `[See where to stay for large groups →](/where-to-stay/)`.

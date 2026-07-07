@@ -3,7 +3,7 @@ layout: guide
 title: "Where to Stay in New Orleans With Large Groups"
 description: "Finding accommodations for large groups in New Orleans is hard—most rentals cap at 10. Here are your real options, explained by locals who plan group trips."
 category: "Accommodations"
-date: 2026-01-14
+date: 2026-07-07
 permalink: /where-to-stay/
 ---
 
@@ -101,7 +101,23 @@ Both properties take reservations directly—search each one by name to reach it
 
 ---
 
-## Other Options (If These Are Booked)
+## The Rest of the Field: Every Other Real Option
+
+An honest directory. These are the other properties in town genuinely built for big groups — not "sleeps 16" listings hiding three disconnected apartments.
+
+### Whole Houses That Sleep 11+
+
+**Heirloom** — The biggest operator in this category: dozens of large-format homes across the Lower Garden District and Central City, from grand 1860s renovations to entire new-construction compounds. Design-forward, professionally run, and the inventory means you can usually find *something* on short notice. The honest trade-off: the houses are more consistent than the blocks they sit on — some stretches of Central City you'll be ride-sharing out of at night. Check the exact address before you pay a deposit.
+
+**The Mazant** — An 1880s Greek Revival on the National Register, run as a licensed guesthouse in the Bywater. Sleeps up to 18, heated pool and spa, a yard built for crawfish boils, and Condé Nast Traveler named it the best Airbnb for a large gathering in 2025. If your group fits in 18 and wants one historic house, this is a genuinely great booking — which is why it's reserved months out.
+
+### Group Suites — the New Hybrid Hotels
+
+The newest category in town: hotel buildings carved into giant multi-bedroom suites. More privacy than a villa, more togetherness than a room block — and everyone can book separately and settle their own bill, which for some groups is the feature that matters most.
+
+**Hotel Perle** — St. Charles at Julia, in the CBD/Warehouse District. Suites run two to seven bedrooms each, with kitchens and laundry, plus a rooftop pool and bar. You can walk to the WWII Museum, the Convention Center, and half the restaurants your group will argue about.
+
+**The Revelry** — Baronne Street, two blocks off the St. Charles streetcar. Three apartment-style floors sleeping six to nine each, wrapped around a saltwater pool. Take one floor for a dozen or the whole building for thirty-plus.
 
 ### Multiple Adjacent Rentals
 
@@ -120,9 +136,9 @@ Book 2-3 rentals near each other on Airbnb.
 
 Some hotels can block rooms on the same floor.
 
-**Best options:** The Roosevelt, Ace Hotel, Hotel Peter & Paul, The Pontchartrain
+**Best options:** The Roosevelt, Hotel Bennett (the old Ace), Hotel Peter & Paul, The Pontchartrain
 
-**Pros:** Concierge handles logistics, no cleaning
+**Pros:** Concierge handles logistics, no cleaning, everyone pays their own way
 
 **Cons:** Everyone retreats to separate rooms. Much more expensive. No kitchen.
 
@@ -140,9 +156,9 @@ Some hotels can block rooms on the same floor.
 
 ## Our Honest Take
 
-If you have a big group and you want everyone together in one place, Castleday or The Syd are the two properties built for it. For groups this size, nothing else in the city reliably combines the capacity, quality, and location.
+If you have a big group and you want everyone together in one place, Castleday and The Syd are the strongest combination of capacity, quality, and location in the city. Pick Castleday if you want privacy. Pick The Syd if you want to be central.
 
-Pick Castleday if you want privacy. Pick The Syd if you want to be central. Either way, you'll have a better experience than cobbling together multiple rentals or scattering everyone across hotel rooms.
+But it's a real field now: Heirloom has the deepest inventory, The Mazant is the best single historic house for 18 or fewer, and Hotel Perle and The Revelry invented a middle path — group suites where everyone pays their own way. Any of them beats cobbling together scattered rentals. What matters is booking something actually built for your headcount, early.
 
 ---
 
@@ -158,4 +174,4 @@ Technically some people try this, but it violates the rental agreement, risks yo
 For these large-group villas, book 2-3 months ahead for regular weekends, 4-6 months for Mardi Gras, Jazz Fest, and Essence Fest.
 
 **What if both Castleday and The Syd are booked?**
-Fall back to the options above—a few adjacent Airbnb/VRBO rentals or a hotel room block. Booking early (3+ months out, 6+ for festival weekends) is the best way to avoid the squeeze in the first place.
+Work down the directory above: Heirloom for whole-house inventory, The Mazant for up to 18, Hotel Perle or The Revelry for group suites, then a hotel room block. Booking early (3+ months out, 6+ for festival weekends) is the best way to avoid the squeeze in the first place.
