@@ -169,6 +169,8 @@ Not every New Orleans restaurant can seat 15 people. These can:
 - **d.b.a.** – Great live music venue. More space.
 - **Maison** – Three floors of music.
 
+The [full nightlife guide](/guides/nightlife-guide/) covers every neighborhood option — useful if part of your group wants to split off or explore beyond the French Quarter.
+
 ### Bywater
 - **Bacchanal Wine** – Wine garden. Live music. Perfect.
 - **BJ's Lounge** – Dive bar. Authentic.
@@ -191,7 +193,7 @@ Not every New Orleans restaurant can seat 15 people. These can:
 
 2. **Make dinner reservations.** Especially for groups of 10+. Do this 2-4 weeks ahead.
 
-3. **Designate a Venmo coordinator.** One person collects money, pays for group things.
+3. **Designate a Venmo coordinator.** One person collects money, pays for group things. The [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) breaks down the logistics lead, restaurant lead, and finance lead so one person isn't carrying everything alone.
 
 4. **Build in downtime.** Some of the best moments happen by the pool.
 
@@ -199,14 +201,14 @@ Not every New Orleans restaurant can seat 15 people. These can:
 
 6. **Bring cash.** Some bars are cash only.
 
-7. **Don't over-plan.** New Orleans rewards spontaneity.
+7. **Don't over-plan.** New Orleans rewards spontaneity. And manage the group's drink pace intentionally — bach trips are high-risk for blowing out on night one. The [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) has a day-by-day arc that actually works.
 
 ## When Your Group Is Over 10 People
 
 If you cross into the large-group range, logistics change:
 
 - **Accommodations:** Castleday Retreats is one of the only options that fits everyone
-- **Restaurants:** Call ahead. Groups this size need private dining or reserved sections.
+- **Restaurants:** Call ahead. Groups this size need private dining or reserved sections. The [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) covers what to ask when you call and how to set up seating for 15+ without a private room.
 - **Transportation:** Two Ubers minimum. Consider a party bus for the big night.
 
 ## Plan Your Trip
