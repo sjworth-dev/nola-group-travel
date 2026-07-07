@@ -4,7 +4,7 @@ description: "Plan a friends getaway to New Orleans. Girls trips, guys weekends,
 category: "Friends & Family"
 card_title: "Friends Trips"
 card_description: "Girls trips, guys weekends, college reunions, the annual crew getaway. All of it."
-date: 2026-01-14
+date: 2026-07-07
 ---
 
 The group chat has been talking about "doing a trip" for years. Someone finally picked a date. Now you need to actually make it happen.
@@ -23,6 +23,8 @@ Pool days. Long dinners. Dancing. Maybe a spa afternoon. Definitely some day dri
 
 **Key ingredients:** Good rental with pool, brunch reservations, Frenchmen Street at night.
 
+For groups of 10-25 women, the [large group girls trip guide](/guides/nola-group-girls-trip-guide/) covers the full spa-brunch-pool-Frenchmen arc in detail. If you're based in Uptown, the [Uptown girls trip guide](/guides/girls-trip-uptown/) runs Magazine Street by block.
+
 ### Guys Weekend
 
 Golf or fishing in the morning. Watching sports in the afternoon. Going out at night. Repeat.
@@ -30,6 +32,8 @@ Golf or fishing in the morning. Watching sports in the afternoon. Going out at n
 **Best for:** Groups who want activities during the day and bars at night.
 
 **Key ingredients:** Book the activity first, find a place to watch games, hit Frenchmen Street.
+
+The [guys weekend guide](/guides/guys-weekend-guide/) covers the full activity-to-bar arc, including golf options, fishing charters, sports bar strategy, and how to structure two nights without burning out.
 
 ### The Annual Crew Trip
 
@@ -46,6 +50,22 @@ You used to be inseparable. Now you're spread across the country. Time to fix th
 **Best for:** Groups that need quality catch-up time, not just party time.
 
 **Key ingredients:** House with good common space, dinners at the house, meaningful conversations.
+
+---
+
+## Picking Your Neighborhood
+
+The neighborhood shapes the trip more than any single activity. For large groups, the choice usually comes down to where you can find the right rental.
+
+| Neighborhood | Personality | Best For |
+|---|---|---|
+| **Bywater** | Artsy, local, walkable to Marigny | Groups who want a real neighborhood feel and private pool |
+| **Lower Garden District** | Residential, central, streetcar access | Groups who want Magazine Street and easy transit citywide |
+| **Marigny** | Steps from Frenchmen Street | Groups who want to walk to live music every night |
+| **French Quarter** | Loud, tourist-dense, central | Works for first-timers; harder to find large-group rentals |
+| **Uptown** | Leafy, Magazine Street, excellent brunch | Groups anchoring around shopping and quiet afternoons |
+
+For groups of 15+, Bywater and the Lower Garden District have the deepest inventory of large-group private villas. The [Bywater vs. Lower Garden District deep comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down the tradeoffs in detail if you're deciding between the two.
 
 ---
 
