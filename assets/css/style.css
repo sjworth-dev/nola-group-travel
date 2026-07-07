@@ -40,6 +40,14 @@ body {
   line-height: 1.7;
 }
 
+/* Mardi Gras ribbon — muted plum / green / brass, one hairline across the top */
+body::before {
+  content: "";
+  display: block;
+  height: 3px;
+  background: linear-gradient(90deg, #5E4272 0 33.4%, var(--accent) 33.4% 66.7%, var(--brass) 66.7% 100%);
+}
+
 img { max-width: 100%; height: auto; display: block; }
 a { color: inherit; }
 a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; }
@@ -332,6 +340,17 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15px; min-wid
 .guide-content thead th { font-family: var(--sans); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--meta); background: var(--surface); }
 .guide-content .table-wrap { overflow-x: auto; margin: 2em 0; }
 .guide-content .table-wrap table { margin: 0; min-width: 540px; }
+
+/* fleur-de-lis end mark closes every article */
+.guide-content::after {
+  content: "\269C";
+  display: block;
+  text-align: center;
+  color: var(--brass);
+  font-size: 21px;
+  margin-top: 3em;
+  opacity: .85;
+}
 
 /* related guides + per-guide CTA */
 .related-guides { background: var(--surface); border-top: 1px solid var(--line); padding: 60px 0; }
