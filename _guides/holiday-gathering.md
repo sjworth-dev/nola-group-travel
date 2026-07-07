@@ -4,7 +4,7 @@ description: "Thanksgiving, Christmas, and New Year's in New Orleans. Plan a hol
 category: "Festivals & Events"
 card_title: "Holiday Gatherings"
 card_description: "Thanksgiving, Christmas, New Year's—celebrate the holidays somewhere special."
-date: 2026-01-14
+date: 2026-07-07
 ---
 
 Why cook Thanksgiving dinner in your tiny kitchen when you could gather the whole family in New Orleans?
@@ -58,6 +58,7 @@ For groups of 15-30, cooking together can be the whole point:
 - Many local chefs offer Thanksgiving catering
 - They handle everything—you just eat
 - Cost: $75-150/person including food
+- See the [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) for what to expect and how to find the right fit
 
 ### Sample Thanksgiving Weekend
 
@@ -201,7 +202,7 @@ Holiday rentals book 6-12 months ahead. Thanksgiving and NYE are especially comp
 
 ### Restaurant Reservations
 
-For Thanksgiving, Christmas Eve, and NYE dinner—book 2+ months in advance. Popular spots fill fast.
+For Thanksgiving, Christmas Eve, and NYE dinner—book 2+ months in advance. Popular spots fill fast. For groups of 12 or more, call the restaurant directly and ask for a private room or dedicated section — the [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) has the exact questions to ask and what to do when private rooms are gone.
 
 ### Weather
 
@@ -214,6 +215,7 @@ For Thanksgiving, Christmas Eve, and NYE dinner—book 2+ months in advance. Pop
 - Instacart and Shipt deliver in New Orleans
 - Rouses is the best local grocery chain
 - Stock up before the holiday—stores close
+- If you have guests with dietary restrictions, the [mixed-diet restaurant strategy guide](/guides/nola-group-mixed-diet-restaurant-strategy-guide/) covers how to handle this both at restaurants and when cooking at the villa
 
 ### Budget Expectations (Per Person, 4 Days)
 
@@ -237,7 +239,8 @@ Holidays are about being together. New Orleans just gives you a better backdrop 
 
 ## Book Your Holiday Gathering
 
-For holiday large groups:
+For holiday large groups, you need a villa with a real kitchen and a real dining area — not a hotel. Holiday cooking is part of the experience, and a big common space is what turns a trip into an actual gathering.
 
-- Castleday Retreats – Full kitchens for holiday cooking, private pools
-- The Syd – Central location, art-filled spaces
+Castleday Retreats (Bywater, up to 30 guests per villa, private pools, full kitchens) and The Syd (Lower Garden District, up to 22 guests per villa, shared heated pool and hot tub, outdoor kitchen) are the two large-group options in New Orleans. Book early — Thanksgiving and New Year's weeks fill 4-6 months out.
+
+[See where to stay for large groups →](/where-to-stay/)
