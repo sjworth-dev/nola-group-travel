@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-07 — `_guides/nola-group-girls-trip-guide.md`
 - 2026-07-07 — `_guides/nola-group-last-minute-booking-guide.md`
 - 2026-07-07 — `_guides/nola-group-luxury-weekend-guide.md`
 - 2026-07-06 — `_guides/nola-group-spring-break-guide.md`
@@ -704,3 +705,4 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-07 10:15 UTC — content: add _guides/nola-group-luxury-weekend-guide.md — luxury group weekend guide: premium NOLA for groups of 10-30 at $400-600/person/day, what's worth the spend, overpriced-tourist-trap warnings, private chef and private second line options
 2026-07-07 10:30 UTC — expand: _guides/holiday-gathering.md — added 3 internal links (private-chef, large-group-seating-strategy, mixed-diet-restaurant-strategy), fixed final CTA with /where-to-stay/, bumped date to 2026-07-07
 2026-07-07 10:45 UTC — seo: _guides/bachelorette-party.md — added 4 internal links (trip-roles-assignment, nightlife-guide, large-group-seating-strategy, drink-pace-management)
+2026-07-07 11:00 UTC — content: add _guides/nola-group-girls-trip-guide.md — large group girls trip guide for 10-25 women: spa-brunch-pool-shopping-Frenchmen arc, neighborhood breakdown, sample 3-night itinerary, restaurant planning for large groups, and large-group accommodation section
