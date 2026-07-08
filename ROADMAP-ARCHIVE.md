@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-08 — `_guides/nola-group-satchmo-summerfest-guide.md`
 - 2026-07-08 — `_guides/nola-group-krewe-du-vieux-guide.md`
 - 2026-07-07 — `_guides/nola-group-girls-trip-guide.md`
 - 2026-07-07 — `_guides/nola-group-last-minute-booking-guide.md`
@@ -712,3 +713,4 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-08 00:00 UTC — content: add _guides/nola-group-krewe-du-vieux-guide.md — Krewe du Vieux sleeper-weekend guide for large groups: why it beats the superkrewe crush, mule-drawn parade logistics, Marigny viewing strategy, Frenchmen Street anchor, January pricing case, and Bywater-vs-LGD accommodation pick
 2026-07-08 00:15 UTC — expand: _guides/bachelorette-party.md — refreshed intro voice, updated Quick Checklist to checkbox format with standard 6+ months booking line, fixed "We recommend" language, added Bywater itinerary internal link, bumped date to 2026-07-08
 2026-07-08 00:30 UTC — seo: _guides/halloween-guide.md — added 4 inline links (haunted-history-guide, festival-exit-strategy, drink-pace-management, large-group-seating-strategy) woven into ghost tours, Voodoo Fest, pro tips, and food table sections
+2026-07-08 12:00 UTC — content: add _guides/nola-group-satchmo-summerfest-guide.md — August festival group guide covering free admission at the Old US Mint, brass-heavy programming, hour-by-hour heat management strategy, softest villa pricing of the year, sample weekend schedule, and accommodation picks for the Bywater vs. LGD tradeoff
