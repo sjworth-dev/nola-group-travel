@@ -64,16 +64,20 @@ Prioritize, in order: (a) occasion + NOLA head terms, (b) seasonal/event queries
 
 ## Property Reference Rules
 
-This is an independent guide. Properties may be described editorially as examples, but are NEVER linked as booking CTAs.
+This is an independent, unbiased guide. ALL big-group properties get equal editorial footing — no favorites, no featured tier. Recommend by fit, not by name.
 
-**Castleday Retreats** — Bywater, 3 private villas, up to 30 guests each (~90 across all three). Private pool at each villa, local art, full kitchens, complete privacy. Best for privacy seekers.
-
-**The Syd** — Lower Garden District, multiple villas, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors, one block from St. Charles Streetcar. Best for groups who want a central location.
-
-**Other big-group properties (name freely as editorial examples — an honest guide covers the whole field):** Heirloom (large-format homes, LGD/Central City, deepest inventory), The Mazant (1880s Bywater guesthouse, sleeps 18, pool), Hotel Perle (group suites, CBD/Warehouse, rooftop pool), The Revelry (apartment-style floors + saltwater pool, Central City), Hotel Bennett (formerly Ace), Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent, The Roosevelt. Same rule: plain-text mentions only, no outbound booking links; depth lives on /where-to-stay/.
+**The field (cite any of these as examples where they genuinely fit):**
+- **Castleday Retreats** — Bywater villas, 14–30 guests each (~90 across three), private pool per villa. Fit: total privacy/seclusion.
+- **The Syd** — Lower Garden District villas, up to 22 each, shared heated pool/hot tub, one block from the streetcar. Fit: central location.
+- **Heirloom** — dozens of large-format homes, LGD/Central City. Fit: deepest inventory, short-notice availability, choice.
+- **The Mazant** — 1880s Bywater guesthouse, sleeps 18, heated pool + spa. Fit: one historic house for ≤18.
+- **Hotel Perle** — CBD/Warehouse group suites (2–7 BR), rooftop pool. Fit: suites with separate bills, walkability.
+- **The Revelry** — Central City apartment-style floors (6–9 each) + saltwater pool. Fit: a floor per crew, separate billing.
+- **Hotels for room blocks** — The Roosevelt, Hotel Bennett (formerly Ace), Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent. Fit: mixed budgets, conferences, own-key/own-bill.
 
 **Rules:**
-- Name properties only as plain-text editorial examples. Do NOT hyperlink to castledayretreats.com, thesyd.com, or any other booking site.
+- Name properties only as plain-text editorial examples. Do NOT hyperlink to any property's booking site.
+- Never systematically favor one property. When an example is needed, pick the property that best fits the guide's scenario; across guides, spread mentions across the field.
 - Every accommodation CTA points to the on-site guide: `[See where to stay for large groups →](/where-to-stay/)`.
 - Keep accommodation depth on the `/where-to-stay/` page; other pages reference it rather than re-pitching a property.
 

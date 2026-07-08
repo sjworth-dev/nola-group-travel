@@ -20,7 +20,10 @@ layout: default
       </div>
     </div>
     <figure class="hero-photo">
-      <img src="{{ '/assets/images/french-quarter-balcony.jpg' | relative_url }}" alt="Ferns and flowers spilling from a cast-iron French Quarter balcony" width="1200" height="1500" fetchpriority="high">
+      <img src="{{ '/assets/images/french-quarter-balcony.jpg' | relative_url }}"
+           srcset="{{ '/assets/images/french-quarter-balcony-800.jpg' | relative_url }} 800w, {{ '/assets/images/french-quarter-balcony.jpg' | relative_url }} 1200w"
+           sizes="(max-width: 960px) 90vw, 380px"
+           alt="Ferns and flowers spilling from a cast-iron French Quarter balcony" width="1200" height="1500" fetchpriority="high">
       <span class="photo-credit">French Quarter · Photo: mrpolyonymous / CC BY 2.0</span>
     </figure>
   </div>

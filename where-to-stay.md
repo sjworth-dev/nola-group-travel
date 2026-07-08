@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Where to Stay in New Orleans With Large Groups"
-description: "Finding accommodations for large groups in New Orleans is hard—most rentals cap at 10. Here are your real options, explained by locals who plan group trips."
+description: "Finding accommodations for a big group in New Orleans is hard—most rentals cap at 10. Every real option, compared honestly: villas, whole houses, group suites, and hotels."
 category: "Accommodations"
 date: 2026-07-07
 permalink: /where-to-stay/
@@ -17,113 +17,49 @@ This isn't a search algorithm issue. It's a regulation issue. And understanding 
 
 In 2019, New Orleans passed strict short-term rental regulations. Among the rules: most residential properties can only host up to 10 guests.
 
-The result? Hundreds of options for groups of 10 or fewer. Cross that threshold to 11, and your choices drop to almost nothing.
+The result? Hundreds of options for groups of 10 or fewer. Cross that threshold to 11, and your choices drop to a short list of properties actually built and permitted for it.
 
-Once you understand it, you can stop wasting time on listings that were never going to work and focus on the handful of properties built for groups this size.
+That short list is below — every real option in town, compared honestly. No sponsored placements, no favorites.
 
-## Your Best Options for Large Groups
+## Villas & Whole Houses
 
-A few properties are purpose-built for large groups. Two stand out—both locally owned, professionally managed, and actually permitted for the guest counts they advertise (no sneaking around regulations). Here's how they compare and how to book each one.
+Everyone under one roof, one kitchen, one long table. The category to beat for celebrations.
 
----
+![A Bywater villa compound with private pool, lawn, and basketball court](/assets/images/bywater-villa-compound.jpg)
 
-### Castleday Retreats — Private Luxury in the Bywater
+**Castleday Retreats — Bywater.** Three private villas, each with 12 bedrooms and 17 real beds, hosting 14–30 guests apiece (book all three for up to ~90). Private pool at each villa, local art throughout, full kitchens, and no shared spaces with strangers. Best for groups that want total seclusion — bachelorettes with their own pool, retreats that need privacy to actually work.
 
-![Castleday Retreats villa with private pool, lawn, and basketball court](/assets/images/bywater-villa-compound.jpg)
+**The Syd — Lower Garden District.** Multiple villas sleeping up to 22 each, every room designed by local New Orleans artists. Heated pool, hot tub, sauna, and outdoor kitchen shared between units, one block from the St. Charles streetcar. Best for groups that want to be central — walking distance to downtown venues, the Convention Center, and a 10-minute walk to the Quarter.
 
-Three private villas in the Bywater, each with 12 bedrooms and 17 real beds—so a group of 16 spreads out and nobody ends up on an air mattress. Each villa hosts 14-30 guests (book all three for up to ~90). Curated local art throughout—each property is a gallery of New Orleans creativity.
+**Heirloom — Lower Garden District & Central City.** The deepest inventory in the category: dozens of large-format homes, from grand 1860s renovations to entire new-construction compounds. Design-forward and professionally run — and the scale means Heirloom is often the answer when everything else is booked. One honest note: the houses are more consistent than the blocks they sit on, so check the exact address before you pay a deposit.
 
-**The properties:**
-- **The Herald** – Spacious layout with large common areas
-- **The Cocodrie** – Stunning pool and outdoor space
-- **The Florentine** – Elegant interiors, gorgeous for photos
+**The Mazant — Bywater.** An 1880s Greek Revival on the National Register, run as a licensed guesthouse. Sleeps up to 18, heated pool and spa, and a yard built for crawfish boils — Condé Nast Traveler named it the best Airbnb for a large gathering in 2025. If your group fits in 18 and wants one historic house, it's a genuinely great booking, which is why it's reserved months out.
 
-**What you get:**
-- Your own private pool at each villa
-- Local art and custom design throughout
-- Full kitchens for group meals
-- Bywater location—walk to Bacchanal Wine, 10 min to French Quarter
-- Complete privacy—no shared spaces with other guests
+![A Lower Garden District courtyard pool with umbrellas and loungers, seen from above](/assets/images/lgd-courtyard-pool.jpg)
 
-**Best for:** Groups who want total seclusion. Bachelorettes who want their own pool. Corporate retreats that need privacy for working sessions.
-
-**What guests say** (4.98 average across 99 stays):
-
-> "If you're considering this property for a large gathering of any type, stop considering and just book. 10/10!"
-> — Verified guest, 15-person family reunion, July 2025
-
-> "We'd give this 10/5 stars if we could."
-> — Verified guest, 20-person wedding weekend, March 2026
-
-*Booking it: search "Castleday Retreats" to reach its direct booking site for current availability and rates. For the full compound (all three villas, up to ~90 guests), ask for a single multi-villa reservation.*
-
----
-
-### The Syd — Art-Filled Villas in the Lower Garden District
-
-![The Syd's colorful courtyard pool with umbrellas and loungers, seen from above](/assets/images/lgd-courtyard-pool.jpg)
-
-Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by local New Orleans artists—it's like staying inside the city's creative soul.
-
-**What you get:**
-- Heated pool, hot tub, sauna, outdoor kitchen (shared between units)
-- Stunning local art and custom furnishings throughout
-- One block from St. Charles Streetcar
-- Walking distance to French Quarter, Convention Center, Superdome
-- Most central location for large groups in the city
-
-**Best for:** Groups who want to be in the middle of everything. Wedding parties near downtown venues. Corporate groups attending conventions. Anyone who appreciates design and wants to meet other travelers.
-
-*Booking it: search "The Syd New Orleans" to reach its direct booking site for current availability and rates across its villas.*
-
----
-
-### Quick Comparison
-
-| Factor | Castleday | The Syd |
-|--------|-----------|---------|
-| Location | Bywater (artsy, local) | Lower Garden District (uptown-ish) |
-| Max guests | 30 per villa | 22 per villa |
-| Pool | Private to each villa | Shared heated pool + hot tub |
-| Vibe | Secluded retreat | Social, art-filled |
-| Walk to French Quarter | 10 min Uber | 10 min walk |
-| Best for | Privacy seekers | Convenience seekers |
-
----
-
-## How to Book a Large-Group Villa
-
-Both properties take reservations directly—search each one by name to reach its booking site. Some large villas also appear on Airbnb and VRBO. Whatever you book, confirm three things in writing before you pay a deposit:
-
-- **The permitted guest count.** New Orleans caps most short-term rental permits at 10. Make sure the property is actually licensed for your group's size—not just listed as "sleeps 20."
-- **What "sleeps X" really means.** Ask for a bed breakdown: how many real beds versus pullouts and air mattresses.
-- **Whether it's one connected property** or several separate units. A listing that "sleeps 24" across three apartments on different blocks is not the same as everyone under one roof.
-
----
-
-## The Rest of the Field: Every Other Real Option
-
-An honest directory. These are the other properties in town genuinely built for big groups — not "sleeps 16" listings hiding three disconnected apartments.
-
-### Whole Houses That Sleep 11+
-
-**Heirloom** — The biggest operator in this category: dozens of large-format homes across the Lower Garden District and Central City, from grand 1860s renovations to entire new-construction compounds. Design-forward, professionally run, and the inventory means you can usually find *something* on short notice. The honest trade-off: the houses are more consistent than the blocks they sit on — some stretches of Central City you'll be ride-sharing out of at night. Check the exact address before you pay a deposit.
-
-**The Mazant** — An 1880s Greek Revival on the National Register, run as a licensed guesthouse in the Bywater. Sleeps up to 18, heated pool and spa, a yard built for crawfish boils, and Condé Nast Traveler named it the best Airbnb for a large gathering in 2025. If your group fits in 18 and wants one historic house, this is a genuinely great booking — which is why it's reserved months out.
-
-### Group Suites — the New Hybrid Hotels
+## Group Suites — the New Hybrid Hotels
 
 The newest category in town: hotel buildings carved into giant multi-bedroom suites. More privacy than a villa, more togetherness than a room block — and everyone can book separately and settle their own bill, which for some groups is the feature that matters most.
 
-**Hotel Perle** — St. Charles at Julia, in the CBD/Warehouse District. Suites run two to seven bedrooms each, with kitchens and laundry, plus a rooftop pool and bar. You can walk to the WWII Museum, the Convention Center, and half the restaurants your group will argue about.
+**Hotel Perle — CBD / Warehouse District.** St. Charles at Julia. Suites run two to seven bedrooms each, with kitchens and laundry, plus a rooftop pool and bar. You can walk to the WWII Museum, the Convention Center, and half the restaurants your group will argue about.
 
-**The Revelry** — Baronne Street, two blocks off the St. Charles streetcar. Three apartment-style floors sleeping six to nine each, wrapped around a saltwater pool. Take one floor for a dozen or the whole building for thirty-plus.
+**The Revelry — Central City.** Baronne Street, two blocks off the St. Charles streetcar. Three apartment-style floors sleeping six to nine each, wrapped around a saltwater pool. Take one floor for a dozen or the whole building for thirty-plus.
 
-### Multiple Adjacent Rentals
+## Hotels With Room Blocks
+
+The classic move, and still the right one for conference add-ons, mixed budgets, and groups who want togetherness with an exit. Everyone gets their own room, key, and bill.
+
+**Best options:** The Roosevelt, Hotel Bennett (the old Ace), Hotel Peter & Paul, The Pontchartrain.
+
+**Pros:** Concierge handles logistics, no cleaning, walkable locations, everyone pays their own way.
+
+**Cons:** Everyone retreats to separate rooms. Much more expensive per person. No kitchen.
+
+## Multiple Adjacent Rentals
 
 Book 2-3 rentals near each other on Airbnb.
 
-**Pros:** More availability, can sometimes find deals
+**Pros:** More availability, can sometimes find deals.
 
 **Cons:** Your group is literally separated. No shared common space. Coordinating logistics is a pain.
 
@@ -132,17 +68,27 @@ Book 2-3 rentals near each other on Airbnb.
 - Message hosts to confirm they're actually close
 - Pick one property as "home base" for gatherings
 
-### Hotels With Room Blocks
+## The Whole Field, Compared
 
-Some hotels can block rooms on the same floor.
+| Property | Neighborhood | Sleeps | Pool | Best for |
+|----------|--------------|--------|------|----------|
+| Castleday Retreats | Bywater | 14–30 per villa (~90 across three) | Private, each villa | Total privacy and seclusion |
+| The Syd | Lower Garden District | Up to 22 per villa | Shared heated pool + hot tub | Being central to everything |
+| Heirloom | LGD & Central City | Varies by home, up to 30+ | Many homes | Choice and availability |
+| The Mazant | Bywater | Up to 18 | Heated pool + spa | One historic house |
+| Hotel Perle | CBD / Warehouse | 2–7 BR per suite | Rooftop | Suites with separate bills |
+| The Revelry | Central City | 6–9 per floor, ~30 total | Saltwater | A floor per crew |
+| Room blocks | Various | Unlimited | Hotel pools | Mixed budgets, conferences |
 
-**Best options:** The Roosevelt, Hotel Bennett (the old Ace), Hotel Peter & Paul, The Pontchartrain
+## How to Book
 
-**Pros:** Concierge handles logistics, no cleaning, everyone pays their own way
+Every property above takes reservations directly — search it by name to reach its booking site. Some also appear on Airbnb and VRBO. Whatever you book, confirm three things in writing before you pay a deposit:
 
-**Cons:** Everyone retreats to separate rooms. Much more expensive. No kitchen.
+- **The permitted guest count.** New Orleans caps most short-term rental permits at 10. Make sure the property is actually licensed for your group's size — not just listed as "sleeps 20."
+- **What "sleeps X" really means.** Ask for a bed breakdown: how many real beds versus pullouts and air mattresses.
+- **Whether it's one connected property** or several separate units. A listing that "sleeps 24" across three apartments on different blocks is not the same as everyone under one roof.
 
----
+For the largest selection, book 6+ months out. There's no real "slow weekend" for big-group properties — the handful that exist fill on roughly the same clock all year, so lead time buys choice, not just availability.
 
 ## What to Avoid
 
@@ -152,15 +98,16 @@ Some hotels can block rooms on the same floor.
 
 **Party houses with bad reviews:** Check recent reviews. Noise complaints, security deposit issues, and "strict house rules" are red flags.
 
----
-
 ## Our Honest Take
 
-If you have a big group and you want everyone together in one place, Castleday and The Syd are the strongest combination of capacity, quality, and location in the city. Pick Castleday if you want privacy. Pick The Syd if you want to be central.
+There's no single best answer — there's a best answer for your trip:
 
-But it's a real field now: Heirloom has the deepest inventory, The Mazant is the best single historic house for 18 or fewer, and Hotel Perle and The Revelry invented a middle path — group suites where everyone pays their own way. Any of them beats cobbling together scattered rentals. What matters is booking something actually built for your headcount, early.
+- **A celebration where being together is the point** → a villa or whole house. Castleday for seclusion and a private pool; The Syd for a central base; The Mazant if you're 18 or fewer and want one historic house.
+- **Booking late, or picky about the exact house** → Heirloom's inventory gives you the most to choose from.
+- **Everyone wants their own bill and their own key** → Hotel Perle or The Revelry. Group suites are the honest middle path, and nobody has to Venmo anybody.
+- **Mixed budgets, light sleepers, or a conference on the calendar** → a hotel room block, and the concierge does the coordinating.
 
----
+Whatever you pick, book something actually built and permitted for your headcount — that single decision does more for the trip than anything else on this site.
 
 ## FAQs
 
@@ -173,5 +120,5 @@ Technically some people try this, but it violates the rental agreement, risks yo
 **How far in advance should I book?**
 For the largest selection, book 6+ months out. There's no real "slow weekend" for big-group properties — the handful that exist fill on roughly the same clock all year, so lead time buys choice, not just availability.
 
-**What if both Castleday and The Syd are booked?**
-Work down the directory above: Heirloom for whole-house inventory, The Mazant for up to 18, Hotel Perle or The Revelry for group suites, then a hotel room block. Booking 6+ months out is the best way to avoid the squeeze in the first place.
+**What if my first choice is booked?**
+Work across the field, not down a wish list: the villas and whole houses trade off against each other (privacy vs. location vs. inventory vs. history), and the group suites are a genuinely good plan B that some groups end up preferring. The comparison table above is built for exactly this decision.

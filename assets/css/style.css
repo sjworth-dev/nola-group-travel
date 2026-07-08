@@ -374,7 +374,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15px; min-wid
 .lib-head .deck { font-size: 18px; max-width: 56ch; color: var(--meta); margin-bottom: 28px; }
 
 .search { display: flex; max-width: 520px; border: 1px solid var(--line); background: var(--surface); }
-.search input { flex: 1; border: none; background: transparent; padding: 14px 18px; font-family: var(--sans); font-size: 15px; color: var(--ink); outline: none; min-width: 0; }
+.search input { flex: 1; border: none; background: transparent; padding: 14px 18px; font-family: var(--sans); font-size: 16px; color: var(--ink); outline: none; min-width: 0; }
 .search input::placeholder { color: var(--meta); }
 
 .cat-jump { position: sticky; top: 0; z-index: 30; background: var(--paper); border-bottom: 1px solid var(--line); }
@@ -433,8 +433,11 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15px; min-wid
   .nav-dropdown-menu { position: static; transform: none; border: none; box-shadow: none; padding: 6px 0 14px 14px; flex-direction: column; gap: 18px; }
   .mobile-menu-toggle { display: block; }
   .toc-list { columns: 1; }
-  .hood-row h3 { min-width: 0; font-size: 21px; }
-  .hood-thumb { width: 76px; height: 58px; }
+  .hood-row { flex-wrap: wrap; gap: 8px 14px; padding: 18px 4px; }
+  .hood-row h3 { min-width: 0; font-size: 21px; flex: 1 1 auto; }
+  .hood-row p { flex: 1 1 100%; order: 3; }
+  .hood-row .arrow { display: none; }
+  .hood-thumb { display: none; }
   .hero { padding: 48px 0 44px; }
   section.block { padding: 52px 0; }
   .container, .container-narrow { padding: 0 22px; }
