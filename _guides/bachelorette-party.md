@@ -4,22 +4,23 @@ description: "Everything you need to plan the perfect New Orleans bachelorette p
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Party"
 card_description: "Everything you need to plan the perfect New Orleans bach party—from where to stay to what to do."
-date: 2026-01-14
+date: 2026-07-08
 ---
 
-New Orleans is one of the most popular bachelorette destinations in the country—and for good reason. The food is incredible. The nightlife goes late. The whole city feels like a celebration.
+New Orleans is the most popular bachelorette destination in the South, and the reasons aren't mysterious: the city operates like a party you can customize. Street drinks. No last call. Live music you didn't have to plan. Neighborhoods that reward wandering.
 
-But planning a bach party for 12, 15, or 20 people takes real coordination. This guide covers everything: where to stay, what to do, where to eat, and how to actually pull it off.
+Planning a big bach party here takes real coordination, though. Large-group logistics in New Orleans are different from a weekend trip for four — the accommodation math alone will break the trip if you don't handle it first. This guide covers the actual work: where to stay, what to do, where to eat, and how to pull it off without burning out the group organizer.
 
 ## Quick Planning Checklist
 
-- Set a budget (expect $200-400/person for a 3-night trip, excluding flights)
-- Pick dates (avoid Mardi Gras unless you specifically want that chaos)
-- Book accommodations (do this first—large group options book fast)
-- Plan 2-3 key activities
-- Make dinner reservations
-- Coordinate transportation
-- Create a shared itinerary
+- [ ] Set a budget (expect $200-400/person for a 3-night trip, excluding flights)
+- [ ] For the largest selection of large-group properties, book 6+ months out
+- [ ] Pick dates — avoid Mardi Gras unless that chaos is specifically what you want
+- [ ] Book accommodations first — large-group options fill before everything else
+- [ ] Plan 2-3 key activities and make the reservations before you leave home
+- [ ] Make dinner reservations — large groups need them, especially on weekend nights
+- [ ] Coordinate transportation from the airport
+- [ ] Create and share a minimal itinerary — the group needs anchor points, not a minute-by-minute schedule
 
 ## When to Go
 
@@ -37,16 +38,18 @@ But planning a bach party for 12, 15, or 20 people takes real coordination. This
 
 This is the hardest part for large groups. Most New Orleans rentals cap at 10 guests.
 
-### For Large Groups: Castleday Retreats
+### For Large Groups
 
-If your bachelorette party is 11 or more people, your options are limited. We recommend Castleday Retreats—three private villas in the Bywater, each sleeping up to 30 guests.
+When the party goes into double-digit headcount, accommodation options narrow fast. Most New Orleans short-term rentals cap at 8-10 guests.
+
+Castleday Retreats operates three private villas in the Bywater, each sleeping up to 30 guests — the practical answer for groups that need everyone under one roof.
 
 **Why it works for bach parties:**
 - Private pool for day drinking and group photos
 - Everyone stays together (no coordinating between hotels)
 - Full kitchen for welcome party or morning mimosas
-- Bywater location—cool neighborhood, 10 min to French Quarter
-- Space to spread out when you need a break
+- Bywater location — walkable neighborhood, close to Frenchmen Street
+- Space to spread out when someone needs a break from the group
 
 [See where to stay for large groups →](/where-to-stay/)
 
@@ -169,7 +172,7 @@ Not every New Orleans restaurant can seat 15 people. These can:
 - **d.b.a.** – Great live music venue. More space.
 - **Maison** – Three floors of music.
 
-The [full nightlife guide](/guides/nightlife-guide/) covers every neighborhood option — useful if part of your group wants to split off or explore beyond the French Quarter.
+The [full nightlife guide](/guides/nightlife-guide/) covers every neighborhood option — useful if part of your group wants to split off or explore beyond the French Quarter. For a detailed Bywater-anchored itinerary built specifically around bach party logistics, see the [bachelorette itinerary: Bywater](/guides/bachelorette-itinerary-bywater/).
 
 ### Bywater
 - **Bacchanal Wine** – Wine garden. Live music. Perfect.
