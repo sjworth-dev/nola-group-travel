@@ -171,7 +171,7 @@ New Orleans city regulations limit most short-term rental permits to 10 guests m
 Technically some people try this, but it violates the rental agreement, risks your deposit, and could get you kicked out mid-trip. Not worth it.
 
 **How far in advance should I book?**
-For these large-group villas, book 2-3 months ahead for regular weekends, 4-6 months for Mardi Gras, Jazz Fest, and Essence Fest.
+For the largest selection, book 6+ months out. There's no real "slow weekend" for big-group properties — the handful that exist fill on roughly the same clock all year, so lead time buys choice, not just availability.
 
 **What if both Castleday and The Syd are booked?**
-Work down the directory above: Heirloom for whole-house inventory, The Mazant for up to 18, Hotel Perle or The Revelry for group suites, then a hotel room block. Booking early (3+ months out, 6+ for festival weekends) is the best way to avoid the squeeze in the first place.
+Work down the directory above: Heirloom for whole-house inventory, The Mazant for up to 18, Hotel Perle or The Revelry for group suites, then a hotel room block. Booking 6+ months out is the best way to avoid the squeeze in the first place.
