@@ -86,10 +86,11 @@ This is an independent, unbiased guide. ALL big-group properties get equal edito
 ## Hard Rules (Never Break)
 
 - Never invent businesses, prices, hours, capacities, restaurant names, or specific events. Write generally when uncertain.
-- **Date updates are permitted and encouraged:** Mardi Gras, Jazz Fest, French Quarter Fest, Voodoo Fest, Essence Fest, and other recurring NOLA festivals have known annual dates. During the Refresh step (or any pass), update stale year references and specific date ranges in existing guides to reflect the current or next occurrence. Use knowledge cutoff dates confidently; note "dates vary — check the official site" for anything uncertain.
+- **Date updates are permitted and encouraged:** Mardi Gras, Jazz Fest, French Quarter Fest, Voodoo Fest, Essence Fest, and other recurring NOLA festivals have known annual dates. During the Refresh step (or any pass), update stale year references and specific date ranges in existing guides to reflect the current or next occurrence. Only state dates that are officially announced or deterministic (e.g., Fat Tuesday's calendar date); for anything not yet announced, write "expected" ranges and note "check the official site."
 - Never modify `_config.yml` (Jekyll build settings)
 - `_layouts/`, `_includes/`, and `assets/` may be edited to add navigation links, homepage sections, and surfacing of new content — do not change core design, CSS variables, or structural HTML patterns
 - Never delete existing pages
+- **Never edit the rules sections of this file.** The only parts of ROADMAP.md the bot may modify are `## Up Next` (add/remove backlog items) and moving Done items to `ROADMAP-ARCHIVE.md`. Rule changes are proposed as an Up Next note for a human to review, not applied directly.
 - One commit, one focused change per run
 - No page under 400 words
 - Never add external booking or affiliate links. No `castledayretreats.com`, no `thesyd.com`, no UTM tracking params. The only accommodation CTA is the internal `[See where to stay for large groups →](/where-to-stay/)`.
