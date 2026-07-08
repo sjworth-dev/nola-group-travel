@@ -82,6 +82,7 @@ This is an independent guide. Properties may be described editorially as example
 ## Hard Rules (Never Break)
 
 - Never invent businesses, prices, hours, capacities, restaurant names, or specific events. Write generally when uncertain.
+- **Date updates are permitted and encouraged:** Mardi Gras, Jazz Fest, French Quarter Fest, Voodoo Fest, Essence Fest, and other recurring NOLA festivals have known annual dates. During the Refresh step (or any pass), update stale year references and specific date ranges in existing guides to reflect the current or next occurrence. Use knowledge cutoff dates confidently; note "dates vary — check the official site" for anything uncertain.
 - Never modify `_config.yml` (Jekyll build settings)
 - `_layouts/`, `_includes/`, and `assets/` may be edited to add navigation links, homepage sections, and surfacing of new content — do not change core design, CSS variables, or structural HTML patterns
 - Never delete existing pages
@@ -104,7 +105,7 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 2. Read this ROADMAP.md top to bottom — internalize voice, rules, guardrails
 3. Read 2–3 existing `_guides/*.md` files to match voice exactly before writing
 4. **New content (max 2 pages/run):** take the top unblocked Up Next items. Each must already carry its target search query. Write the page (with the required 3+ inline internal links), commit, push, move the item to `ROADMAP-ARCHIVE.md` under Done.
-5. **Refresh (1 page/run):** pick the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references, add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`.
+5. **Refresh (1 page/run):** pick the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references (including specific festival year/date ranges — Mardi Gras, Jazz Fest, etc.), add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`.
 6. **Interlink (1 pass/run):** pick one high-value older guide (occasion or event guides first) and weave inline links to newer related guides into its body where they help the reader. Commit as `seo:`.
 7. **Backlog:** if Up Next has fewer than 4 items, add new ones — every item must pass the Topic Selection Bar and name its target query. Quality over quantity; adding zero is acceptable if nothing passes.
 8. Commit prefixes: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
