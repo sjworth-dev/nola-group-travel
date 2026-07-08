@@ -113,6 +113,8 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 
 ## Up Next
 
+- `_guides/nola-group-krewe-du-vieux-guide.md` — targets "krewe du vieux group guide" / "first mardi gras parade new orleans" — Carnival's satirical adults-only opener and the only parade still marching through the Quarter; why it's the sleeper-pick weekend for a big group (pre-Carnival pricing, Marigny route logistics, where a crew watches from); link from the homepage sleeper-weekends section target
+- `_guides/nola-group-satchmo-summerfest-guide.md` — targets "satchmo summerfest group guide" / "new orleans august festival weekend" — brass-heavy Louis Armstrong weekend at the Jazz Museum, softest villa prices of the year, heat-management strategy for a big group; pairs with summer-trip guide
 - `_guides/nola-group-guys-weekend-guide.md` — targets "guys trip new orleans large group" / "guys weekend new orleans group 15-20" — sports, golf, fishing, daytime activities, bar strategy, food-heavy; non-bachelor framing for the annual crew or milestone trip
 - `_guides/nola-group-october-guide.md` — targets "new orleans group trip october" / "halloween weekend new orleans large group" — Voodoo Fest timing, Halloween in the French Quarter, fall weather advantage, shoulder-season pricing, event-specific villa booking windows
 - `_guides/nola-group-food-focused-itinerary-guide.md` — targets "new orleans food trip group" / "best food experiences new orleans large group" — trip built entirely around eating: multi-restaurant days, how to pace a food-heavy itinerary, cooking class placement, private chef vs. landmark restaurant allocation; distinct from culinary-tour-guide which covers organized tours
