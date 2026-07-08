@@ -47,7 +47,7 @@ The Voodoo Music + Arts Experience (often called Voodoo Fest) runs in City Park 
 
 **For large groups:** Voodoo Fest has general admission and VIP options. Groups of 20 can manage the festival well — it's spread out, not a crush. The City Park location is beautiful.
 
-**Overlap note:** Voodoo Fest draws significant visitors, which means hotels and rentals fill earlier than normal. If your Halloween weekend coincides with Voodoo Fest, book accommodations extra early.
+**Overlap note:** Voodoo Fest draws significant visitors, which means hotels and rentals fill earlier than normal. If your Halloween weekend coincides with Voodoo Fest, book accommodations extra early. For leaving the festival with a large group — rideshare timing, meeting points, and the post-festival transition — the [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers the logistics.
 
 ### Krewe of Boo
 
@@ -69,7 +69,7 @@ October is peak season for cemetery tours in New Orleans. The above-ground cemet
 
 Every ghost tour company in New Orleans runs extended Halloween programming. French Quarter ghost tours, haunted pub crawls, cemetery tours at night.
 
-For a group that enjoys the theatrical and spooky side: a private group ghost tour is available from most major operators and is a natural Thursday or Friday night activity before the main weekend events.
+For a group that enjoys the theatrical and spooky side: a private group ghost tour is available from most major operators and is a natural Thursday or Friday night activity before the main weekend events. See the [haunted history guide](/guides/haunted-history-guide/) for what to look for in a guide, how to book a private tour, and which cemeteries are actually worth your time.
 
 ---
 
@@ -139,7 +139,7 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 |------|--------|-------|
 | Friday dinner | Cochon, Pêche, Compère Lapin | Get the reservation in before Halloween proper |
 | Saturday (Halloween) brunch | Commander's Palace, Brennan's | Start the day right |
-| Halloween dinner | Pre-reserve somewhere — the city fills up | Don't wing it with a group |
+| Halloween dinner | Pre-reserve somewhere — the city fills up | Don't wing it with a group — see the [large group seating guide](/guides/nola-group-large-group-seating-strategy-guide/) |
 | Late night | Café Du Monde, Dat Dog, Killer PoBoys | Post-bar-crawl calories |
 
 ---
@@ -195,7 +195,7 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 5. **Temperature is deceptive.** October nights in New Orleans can be warm or genuinely cool — sometimes both in the same week. Check the forecast and have a layer option for late-night outdoor time.
 
-6. **Eat before the crawl.** A full dinner before the bar crawl is not optional for a large group. Find out who hasn't eaten at 10 PM and they're the one you're taking home at midnight.
+6. **Eat before the crawl.** A full dinner before the bar crawl is not optional for a large group. Find out who hasn't eaten at 10 PM and they're the one you're taking home at midnight. And watch the pace during the day — Halloween in October can still be warm, and a group that starts too hard in the afternoon won't make it to midnight. The [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) has the day-by-day burn-rate math.
 
 7. **Voodoo Fest and Halloween can be done in the same weekend.** Festival Saturday plus Halloween bar crawl Saturday night is an aggressive but doable day. Build in recovery time on Sunday morning.
 
