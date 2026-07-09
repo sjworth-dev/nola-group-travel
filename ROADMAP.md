@@ -23,6 +23,17 @@ Wry, opinionated, verdict-first. Think Powderhounds (the ski-resort review site)
 
 ---
 
+## New Orleans Seasonality (Ground Truth)
+
+Generic US travel-industry assumptions about "shoulder season" do NOT apply to New Orleans. Do not default to a generic destination's calendar (e.g. "fall = shoulder season," "summer = peak"). Check every seasonal, pricing-tier, or demand claim against this calendar before writing it:
+
+- **Peak / high season: October, and February–May.** October is peak, not shoulder — Voodoo Fest, Halloween in the Quarter, and the year's best weather (first real relief from summer heat) drive high demand and full pricing. February–May covers Mardi Gras (dates move; always the current year's Fat Tuesday), French Quarter Fest, spring crawfish season, and Jazz Fest — the core high-demand stretch.
+- **Soft / value season: June–August, and January.** Summer means heat, humidity, and afternoon thunderstorms; rates drop and crowds thin, though Essence Festival (Fourth of July weekend) is a sharp demand spike inside an otherwise soft month. January is the post-holiday lull before Mardi Gras ramps up — cold snaps possible, rates are the year's lowest.
+- **If you need a genuine shoulder/value window to recommend, it's late August through mid-September** (still hot, but before October's demand ramp) — not October, and not "fall" generally.
+- Hurricane season risk (June–November, with August–October the statistical peak of that window) is a real planning consideration but is separate from pricing/demand season — don't conflate "risk window" with "value season."
+
+---
+
 ## Content Structure (New Pages)
 
 Every new page must have:
@@ -86,6 +97,7 @@ This is an independent, unbiased guide. ALL big-group properties get equal edito
 ## Hard Rules (Never Break)
 
 - Never invent businesses, prices, hours, capacities, restaurant names, or specific events. Write generally when uncertain.
+- **Never state a seasonal, pricing-tier, or demand claim (peak/shoulder/off-season, "cheaper in month X," "less crowded in month X") without checking it against the New Orleans Seasonality section above.** Do not fall back on generic destination assumptions — this city's calendar is inverted from most (October is peak, not shoulder). When refreshing an existing guide, actively check it for this specific error class, not just stale dates.
 - **Date updates are permitted and encouraged:** Mardi Gras, Jazz Fest, French Quarter Fest, Voodoo Fest, Essence Fest, and other recurring NOLA festivals have known annual dates. During the Refresh step (or any pass), update stale year references and specific date ranges in existing guides to reflect the current or next occurrence. Only state dates that are officially announced or deterministic (e.g., Fat Tuesday's calendar date); for anything not yet announced, write "expected" ranges and note "check the official site."
 - Never modify `_config.yml` (Jekyll build settings)
 - `_layouts/`, `_includes/`, and `assets/` may be edited to add navigation links, homepage sections, and surfacing of new content — do not change core design, CSS variables, or structural HTML patterns
