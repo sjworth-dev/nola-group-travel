@@ -62,6 +62,8 @@ October is the move. Not because it's some secret — locals know — but becaus
 
 **Best for:** Groups who want good weather, real festivals, and a city at its most functional without Mardi Gras logistics overhead.
 
+The [October group guide](/guides/nola-group-october-guide/) covers every specific event, the Halloween weekend breakdown, Voodoo Fest planning, and the exact weather and rate math in detail.
+
 ---
 
 ## Late January and Early February: The Deep Shoulder
@@ -117,9 +119,9 @@ It's also the most local version of the city you'll experience.
 **What August offers:**
 - Rates are among the lowest of the year — particularly mid-August
 - The city is running on local energy; tourist infrastructure is still there but not overwhelmed
-- Satchmo SummerFest (typically first weekend of August): a 3-day free festival celebrating Louis Armstrong's legacy, with multiple stages and Louisiana food
+- Satchmo SummerFest (typically first weekend of August): a 3-day free festival celebrating Louis Armstrong's legacy, with multiple stages and Louisiana food. The [Satchmo SummerFest group guide](/guides/nola-group-satchmo-summerfest-guide/) covers how to build a full trip around it.
 - Red Dress Run (annual charitable event, typically August): a quirky, very New Orleans tradition
-- Late August runs into Southern Decadence weekend (last weekend of August / Labor Day) — a major LGBTQ+ celebration. Book early; rates spike for that specific weekend.
+- Late August runs into Southern Decadence weekend (last weekend of August / Labor Day) — a major LGBTQ+ celebration. Book early; rates spike for that specific weekend. See the [Southern Decadence guide](/guides/lgbtq-southern-decadence-guide/) for group logistics.
 
 **The heat reality:** This is the hardest part. For groups doing outdoor activities, you need to adjust your schedule: mornings are manageable, afternoons are brutal, evenings are beautiful. Structure accordingly: morning activities, villa pool or air conditioning midday, evening everything.
 
@@ -147,8 +149,8 @@ Rate differences vary by year and specific dates, but these ranges are realistic
 
 | Period | Villa Rate Relative to Peak | Notes |
 |--------|---------------------------|-------|
-| Jazz Fest weekends (April–May) | Highest rates of year | Book 6+ months ahead |
-| Mardi Gras Fat Tuesday week | Very high | Book 4–6 months ahead |
+| Jazz Fest weekends (April–May) | Highest rates of year | Book 6+ months out |
+| Mardi Gras Fat Tuesday week | Very high | Book 6+ months out |
 | Spring (non-festival weekends) | High-moderate | Still strong demand |
 | October (non-Voodoo) | Moderate | Great value for good weather |
 | Late January | Low | Best value; limited festival activity |
@@ -211,7 +213,4 @@ In shoulder season, both properties are worth reaching out to directly for dates
 
 ---
 
-## Book Your Shoulder Season Trip
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, private pools, full kitchens
-- The Syd — Lower Garden District, up to 22 guests per villa, heated pool, hot tub, sauna, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
