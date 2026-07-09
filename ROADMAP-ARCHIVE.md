@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-09 — `_guides/nola-group-october-guide.md`
 - 2026-07-08 — `_guides/nola-group-satchmo-summerfest-guide.md`
 - 2026-07-08 — `_guides/nola-group-krewe-du-vieux-guide.md`
 - 2026-07-07 — `_guides/nola-group-girls-trip-guide.md`
@@ -714,3 +715,6 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-08 00:15 UTC — expand: _guides/bachelorette-party.md — refreshed intro voice, updated Quick Checklist to checkbox format with standard 6+ months booking line, fixed "We recommend" language, added Bywater itinerary internal link, bumped date to 2026-07-08
 2026-07-08 00:30 UTC — seo: _guides/halloween-guide.md — added 4 inline links (haunted-history-guide, festival-exit-strategy, drink-pace-management, large-group-seating-strategy) woven into ghost tours, Voodoo Fest, pro tips, and food table sections
 2026-07-08 12:00 UTC — content: add _guides/nola-group-satchmo-summerfest-guide.md — August festival group guide covering free admission at the Old US Mint, brass-heavy programming, hour-by-hour heat management strategy, softest villa pricing of the year, sample weekend schedule, and accommodation picks for the Bywater vs. LGD tradeoff
+2026-07-09 10:00 UTC — content: add _guides/nola-group-october-guide.md — October group trip guide: Voodoo Fest status, Krewe of Boo! parade, Halloween weekend in the French Quarter, fall weather advantage, pricing tables, ghost tour and haunted history hooks, sample itineraries for Halloween and non-Halloween weekends
+2026-07-09 10:15 UTC — expand: _guides/activities-guide.md — added 5 internal links (airboat guide, cooking class guide, brass band hire guide, haunted history guide, large group golf guide), fixed final CTA to /where-to-stay/, bumped date to 2026-07-09
+2026-07-09 10:30 UTC — seo: _guides/shoulder-season-guide.md — added links to nola-group-october-guide, nola-group-satchmo-summerfest-guide, lgbtq-southern-decadence-guide; fixed booking timeframe table to standard 6+ months line; fixed final CTA to /where-to-stay/
