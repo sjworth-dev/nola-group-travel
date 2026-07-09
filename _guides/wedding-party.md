@@ -213,6 +213,8 @@ Your rental's courtyard or common area works perfectly for casual welcome dinner
 - Brennan's (classic and celebratory)
 - Ruby Slipper (casual, handles groups)
 
+The [restaurant guide](/guides/restaurant-guide/) covers how to book these for large parties and what to ask about split checks and set menus.
+
 ---
 
 ## Budget Breakdown
@@ -272,6 +274,8 @@ Assign someone to arrive early with:
 - Champagne/beer/wine
 - Late-night food
 
+The [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) has a list of Rouse's and Whole Foods locations near major rental neighborhoods and what to stock for a four-day group stay.
+
 ### 7. Plan transportation
 
 - Uber/Lyft for small groups
@@ -290,11 +294,11 @@ Yes. Most Castleday and The Syd properties photograph beautifully—courtyards, 
 
 **How early should we book?**
 
-6-12 months ahead for popular wedding weekends. Longer for major events (Jazz Fest, French Quarter Fest).
+For the largest selection, book 6+ months out.
 
 **Can we host the welcome dinner at the rental?**
 
-Absolutely. Cater it, hire a private chef, or potluck-style. That's the whole point of renting a space this size.
+Absolutely. Cater it, hire a private chef, or potluck-style. That's the whole point of renting a space this size. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) covers the real cost comparison and what a private chef actually delivers for a group of 15-25.
 
 **What about out-of-town guests who aren't in the wedding party?**
 
