@@ -4,7 +4,7 @@ description: "Plan a company offsite that people actually want to attend. Where 
 category: "Corporate Retreats"
 card_title: "Corporate Retreats"
 card_description: "Skip the hotel conference room. How to run a productive offsite in New Orleans."
-date: 2026-01-14
+date: 2026-07-09
 ---
 
 Most corporate retreats are forgettable. Fluorescent conference rooms. Catered sandwiches. The same "team building" exercises everyone dreads.
@@ -43,13 +43,11 @@ The venue shapes your retreat more than any other decision.
 
 The best corporate retreats happen when everyone stays together—not in adjacent hotel rooms, but actually together in one space.
 
-**Our recommendation: Castleday Retreats**
+**Options for teams that need to stay together:**
 
-Three private villas in the Bywater neighborhood, each sleeping up to 30:
-
-- **The Herald** – Largest common areas. Best for all-hands + breakouts.
-- **The Cocodrie** – Best outdoor space. Pool for informal conversations.
-- **The Florentine** – Most refined design. Good for hosting clients.
+- **Private villa groups** (Bywater, Lower Garden District): Multiple operators rent whole-property villas sleeping 14–30. The right pick depends on group size, neighborhood preference, and whether you need a pool for informal evening time.
+- **Boutique hotel suites** (CBD, French Quarter): Properties like Hotel Perle offer multi-bedroom suites with separate billing — better for teams that want hotel services but hate the logistics of room blocks.
+- **Room blocks at full-service hotels**: The Roosevelt, The Pontchartrain, and Hotel Peter & Paul have experience with corporate group blocks when individual billing matters or the team has mixed budgets.
 
 **Why villas work better than hotels:**
 
@@ -164,7 +162,7 @@ The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-vi
 
 ## Logistics Checklist
 
-- Book accommodations 2-3 months ahead
+- Book accommodations 6+ months out for the largest selection
 - Make dinner reservations 3-4 weeks ahead — large groups need private rooms or dedicated sections; see the [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) for what to ask when you call
 - Confirm WiFi speed at venue
 - Arrange airport transfers — for teams of 12+, a pre-arranged van beats coordinating 4 rideshares at MSY; the [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the decision
@@ -174,13 +172,9 @@ The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-vi
 
 ## For Large Groups
 
-If your team is large groups, your options narrow significantly. Most rentals cap at 10 guests.
+When the headcount goes above fifteen, your options narrow significantly. Most vacation rentals cap at eight to ten guests, and most hotels aren't set up for a team that wants to share space rather than just adjacent rooms.
 
-Castleday Retreats is purpose-built for this exact range:
-- Three villas, each sleeping up to 30
-- Private pools for informal time
-- Full kitchens for team meals
-- Single invoice, W-9 available
+The properties built for this range — whole-villa rentals in the Bywater and Lower Garden District, multi-suite hotel options in the CBD — are worth researching specifically. Look for: private pool access for informal evening time, full kitchens if you want any meals at the house, and the ability to issue a single invoice (a real consideration for teams running through finance).
 
 [See where to stay for large groups →](/where-to-stay/)
 
