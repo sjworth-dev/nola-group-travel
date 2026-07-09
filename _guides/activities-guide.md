@@ -4,7 +4,7 @@ description: "Every activity worth doing in New Orleans with a large group—swa
 category: "Activities & Day Trips"
 card_title: "Activities Guide"
 card_description: "Everything worth doing in New Orleans with a large group, with real logistics for each."
-date: 2026-05-23
+date: 2026-07-09
 ---
 
 New Orleans has more genuine activities per square mile than almost any American city. The challenge isn't finding something to do — it's picking from options that are actually good for large groups, knowing the logistics before you show up, and not wasting half your trip on tourist traps.
@@ -44,7 +44,7 @@ The airboat version is louder and faster — better for groups who want the adre
 | Transportation | Most operators don't provide city pickup; rent a van or coordinate rideshares |
 | Best season | Year-round; summer = most alligator activity; winter = better birding |
 
-**Pro tip:** Private charter the whole boat for groups of 15+. The price difference from individual tickets is usually small, and you control departure time.
+**Pro tip:** Private charter the whole boat for groups of 15+. The price difference from individual tickets is usually small, and you control departure time. If you want to compare the airboat experience specifically, the [airboat deep dive guide](/guides/nola-group-airboat-deep-dive-guide/) covers operators, pricing structures, and what questions to ask before booking.
 
 ---
 
@@ -56,7 +56,7 @@ New Orleans cooking classes are a genuinely excellent group activity — especia
 
 The most well-known option. Demonstration-style classes covering Louisiana staples: gumbo, jambalaya, bread pudding, and the essential roux technique. Group classes seat 20-50 and are reasonably priced. Private classes can be arranged. Located in the French Quarter (conveniently).
 
-**For groups:** The demonstration format works well for large groups. You watch, ask questions, then eat. No one has to actually cook unless they want to. Book at least 2-3 weeks in advance for groups of 15+.
+**For groups:** The demonstration format works well for large groups. You watch, ask questions, then eat. No one has to actually cook unless they want to. Book at least 2-3 weeks in advance for groups of 15+. For a more complete breakdown of every cooking class option in the city — hands-on, demonstration, and private villa formats — see the [cooking class guide](/guides/nola-cooking-class-guide/).
 
 ### Private Chef Classes
 
@@ -100,7 +100,7 @@ New Orleans has more ghost tour operators than any other city in the United Stat
 
 **Skip:** The large, generic group tours that load 80 people onto a bus. These are logistics operations, not experiences.
 
-**Book:** A small-group or private walking tour focused on history and architecture, not jump scares.
+**Book:** A small-group or private walking tour focused on history and architecture, not jump scares. The [haunted history guide](/guides/haunted-history-guide/) separates the worthwhile from the tourist-trap and covers cemetery tours, voodoo history, and the actual dark history under the legend.
 
 ---
 
@@ -133,7 +133,7 @@ Several brass bands and event companies in New Orleans offer second line package
 | Permits | The organizer handles permits; confirm they have them |
 | Cost | Varies significantly by band, duration, and day |
 
-**Note:** Book through an event company that handles the logistics, or directly with an established brass band. This is not a walk-up experience.
+**Note:** Book through an event company that handles the logistics, or directly with an established brass band. This is not a walk-up experience. The [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers band size decisions, permit questions, day-of structure, and tipping protocol in full.
 
 ---
 
@@ -199,7 +199,7 @@ New Orleans has several courses worth knowing about for group golf trips. The ci
 
 **City Park Golf** — Multiple courses in City Park, Mid-City. The oldest municipal golf complex in the US. Varied quality across courses; the best course is worth playing.
 
-**TPC Louisiana** — The PGA Tour course in Avondale, about 20-25 minutes west of downtown. Where the Zurich Classic is played. The best course in the area if your group wants a real challenge. Book well in advance.
+**TPC Louisiana** — The PGA Tour course in Avondale, about 20-25 minutes west of downtown. Where the Zurich Classic is played. The best course in the area if your group wants a real challenge. Book well in advance. For groups making golf a centerpiece of the trip, the [large group golf guide](/guides/large-group-golf-guide/) covers block tee times, logistics, and the full course comparison in detail.
 
 ### Group Golf Logistics
 
@@ -298,7 +298,4 @@ The right home base makes activity logistics infinitely easier. A central proper
 
 Both properties can accommodate the kind of casual group briefings that make coordinating daily activities easier: everyone in one kitchen in the morning, map out the day, go.
 
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa
-- **The Syd** — Lower Garden District, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
