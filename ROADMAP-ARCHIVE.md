@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-09 — `_guides/nola-group-summer-trip-guide.md`
 - 2026-07-09 — `_guides/nola-group-october-guide.md`
 - 2026-07-08 — `_guides/nola-group-satchmo-summerfest-guide.md`
 - 2026-07-08 — `_guides/nola-group-krewe-du-vieux-guide.md`
@@ -718,3 +719,6 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-09 10:00 UTC — content: add _guides/nola-group-october-guide.md — October group trip guide: Voodoo Fest status, Krewe of Boo! parade, Halloween weekend in the French Quarter, fall weather advantage, pricing tables, ghost tour and haunted history hooks, sample itineraries for Halloween and non-Halloween weekends
 2026-07-09 10:15 UTC — expand: _guides/activities-guide.md — added 5 internal links (airboat guide, cooking class guide, brass band hire guide, haunted history guide, large group golf guide), fixed final CTA to /where-to-stay/, bumped date to 2026-07-09
 2026-07-09 10:30 UTC — seo: _guides/shoulder-season-guide.md — added links to nola-group-october-guide, nola-group-satchmo-summerfest-guide, lgbtq-southern-decadence-guide; fixed booking timeframe table to standard 6+ months line; fixed final CTA to /where-to-stay/
+2026-07-09 11:00 UTC — content: add _guides/nola-group-summer-trip-guide.md — summer group trip guide covering heat schedule flip, pool-as-product, outdoor activity windows, Essence Fest anchor, summer pricing case, and nightlife advantage; links to hurricane-season-guide, essence-festival, shoulder-season-guide, outdoor-festival-heat-management
+2026-07-09 11:15 UTC — expand: _guides/corporate-retreat.md — fixed booking lead time to 6+ months standard, balanced accommodation section (removed Castleday-only recommendation, added full property landscape), fixed "For Large Groups" section language, bumped date to 2026-07-09
+2026-07-09 11:30 UTC — seo: _guides/wedding-party.md — added 3 inline links (private-chef-vs-villa-cooking, group-grocery-cooking-guide, restaurant-guide) in farewell brunch, stock-the-rental, and private-chef FAQ sections; fixed booking lead time to standard 6+ months line

@@ -120,11 +120,15 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 
 ## Up Next
 
-- `_guides/nola-group-food-focused-itinerary-guide.md` — targets "new orleans food trip group" / "best food experiences new orleans large group" — trip built entirely around eating: multi-restaurant days, how to pace a food-heavy itinerary, cooking class placement, private chef vs. landmark restaurant allocation; distinct from culinary-tour-guide which covers organized tours
-- `_guides/nola-group-summer-trip-guide.md` — targets "new orleans group trip summer" / "visiting new orleans summer large group heat" — honest heat guide, when to be outside vs. inside, pool/AC strategy, Essence Fest window, why summer villa pricing is the best deal in NOLA; distinct from shoulder-season-guide which covers timing generally
+- `_guides/nola-group-new-orleans-vs-nashville-guide.md` — targets "new orleans vs nashville bachelorette" / "nashville vs new orleans group trip" — side-by-side comparison covering music heritage depth, food scene, villa-rental landscape vs. honky-tonk crawl, nightlife after midnight, cost structure; NOLA-specific verdict for groups who are genuinely deciding
+- `_guides/nola-group-thanksgiving-long-weekend-guide.md` — targets "new orleans thanksgiving group" / "thanksgiving long weekend new orleans large group" — Thanksgiving week in NOLA: reduced local foot traffic, specific restaurant landscape (prix-fixe Thanksgiving menus vs. open-as-usual), ideal fall weather, villa pricing in the sweet spot; distinct from holiday-gathering.md which is generic multi-holiday
+- `_guides/nola-group-crawfish-boil-at-villa-guide.md` — targets "crawfish boil for large group new orleans" / "how to host crawfish boil new orleans" — vendor sourcing, pounds-per-person math, setup ritual, boiling protocol, what out-of-towners don't know, why a villa boil beats a restaurant boil for groups of 15-30; distinct from crawfish-etiquette-guide which covers eating in restaurants
+- `_guides/nola-group-mardi-gras-parade-viewing-strategy-guide.md` — targets "best places watch mardi gras parade large group" / "mardi gras viewing spots group" — neutral ground, Magazine Street, Uptown route strategies for big groups; ladder protocol; which parades to prioritize vs. skip; distinct from mardi-gras-group-guide.md which covers the full Mardi Gras weekend
+- `_guides/nola-group-new-orleans-vs-charleston-guide.md` — targets "new orleans vs charleston group trip" / "charleston or new orleans bachelorette" — comparison covering live music, villa landscape, food culture depth, nightlife, heat vs. humidity, genuine verdicts by trip type
 
 <!-- BLOCKED: nola-group-guys-weekend-guide.md — 70%+ covered by existing guys-weekend-guide.md (golf, fishing, sports bars, nightlife, itinerary, accommodation) -->
 <!-- BLOCKED: nola-group-essence-fest-guide.md — 70%+ covered by essence-festival.md and nola-group-essence-festival-base-camp-guide.md -->
+<!-- BLOCKED: nola-group-food-focused-itinerary-guide.md — 70%+ covered by nola-group-foodie-itinerary-guide.md (3-day itinerary, restaurant strategy, villa cooking night, private chef, pacing) -->
 
 ---
 
