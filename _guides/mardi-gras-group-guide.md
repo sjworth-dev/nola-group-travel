@@ -11,11 +11,11 @@ Mardi Gras is the biggest group travel event in America. Every year, hundreds of
 
 For large groups, Mardi Gras requires more advance planning than any other trip type — but it also delivers more than any other trip type. If you've never been to Mardi Gras with a big group, with a real home base, on the parade routes during the superkrewe weekends, you don't yet know what it can be.
 
-This guide covers the logistics. The events page on this site covers dates. Read both.
+This guide covers the logistics. The [events page](/events/) covers dates, and the [Carnival season parade calendar](/guides/nola-group-carnival-season-parade-calendar/) breaks down every major parade weekend if you want the full schedule before you commit to dates.
 
 ## Quick Planning Checklist
 
-- [ ] Book accommodation at least 6 months out (12 months is safer for the main weekend)
+- [ ] For the largest selection of large-group villas, book 6+ months out
 - [ ] Identify which parades your group wants to prioritize — map out the route
 - [ ] Plan transportation from the airport well before you arrive (rideshare surges)
 - [ ] Assign a group point person to track daily parade schedules and street closures
@@ -72,7 +72,7 @@ St. Charles Avenue is the premier viewing spot. Two miles of oak-canopied boulev
 | Lee Circle | Near end of route, city view | Parade winds down here |
 | Canal Street | Downtown, classic, energy is high | Most crowded spot on the route |
 
-**The ladder tradition:** Many locals bring or rent custom bleacher ladders with child seats on top — you'll see them all along St. Charles. For a group of adults, they're less necessary, but they're useful for people who want to catch throws more reliably.
+**The ladder tradition:** Many locals bring or rent custom bleacher ladders with child seats on top — you'll see them all along St. Charles. For a group of adults, they're less necessary, but they're useful for people who want to catch throws more reliably. The [parade viewing guide](/guides/nola-group-parade-watching-guide/) covers spot strategy in more depth, including how to hold ground on a crowded route without a ladder.
 
 ### French Quarter Mardi Gras
 
@@ -98,7 +98,7 @@ Uber and Lyft operate during Mardi Gras but with major caveats:
 - **Surge pricing is significant.** Especially on Fat Tuesday and superkrewe nights. Budget 3-5x normal pricing.
 - **Wait times are long.** After major parades end, every person in the city is trying to call a car at the same time.
 
-**The fix:** Walk. New Orleans is flat and the neighborhoods are compact. If you're staying near the parade routes, you walk to the parades. You don't try to drive or rideshare to them.
+**The fix:** Walk. New Orleans is flat and the neighborhoods are compact. If you're staying near the parade routes, you walk to the parades. You don't try to drive or rideshare to them. When you do need a car — airport runs, late-night moves off the route — the [rideshare master guide](/guides/nola-group-ride-share-master-guide/) covers surge windows and the charter van math for a group this size.
 
 ### The Streetcar
 
@@ -122,7 +122,7 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 ### The Fundamental Rule
 
-**Book 6-12 months in advance.** No exceptions. Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties sell out before Thanksgiving of the previous year.
+**For the largest selection, book 6+ months out.** Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties sell out well ahead of the previous year's holiday season. If Krewe du Vieux weekend in late January sounds more your speed than the superkrewe crush, the [Krewe du Vieux guide](/guides/nola-group-krewe-du-vieux-guide/) covers that earlier, cheaper alternative.
 
 ### For Large Groups
 
@@ -143,6 +143,8 @@ Both properties book out for Mardi Gras season well in advance. Don't wait.
 | French Quarter access | Either works (both 10-20 min) |
 | Frenchmen Street walking | Bywater → Castleday Retreats |
 | Cooking meals at the house | Both have full kitchens |
+
+For a deeper look at how these two neighborhoods stack up beyond Mardi Gras — daily rhythm, walkability, nightlife access — see the [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/).
 
 ---
 
@@ -178,7 +180,7 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 4. **Bring wet wipes.** The city runs out of hand soap. The streets are not clean.
 
-5. **Costume is not optional.** Being the one person not in costume on Fat Tuesday in the French Quarter is genuinely uncomfortable. Something simple is fine.
+5. **Costume is not optional.** Being the one person not in costume on Fat Tuesday in the French Quarter is genuinely uncomfortable. Something simple is fine — the [costume guide](/guides/nola-group-mardi-gras-costume-guide/) covers group-coordinated options and where to source them if you're not bringing one from home.
 
 6. **Don't leave your spot on St. Charles if you want it back.** Locals stake out spots early with chairs and tape. Once a good spot is claimed, it's claimed.
 
@@ -190,9 +192,6 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 ## Book Your Mardi Gras Stay
 
-For large groups — book early:
+For large groups — book early. Castleday Retreats' Bywater villas and The Syd's Lower Garden District villas both book out for Mardi Gras season well ahead of the crowd. The [festival season calendar](/guides/festival-season-calendar/) rounds out the planning picture if you're weighing Mardi Gras against the rest of the year's events.
 
-- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
-- **The Syd** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.
-
-Both book out for Mardi Gras season. Check availability now.
+[See where to stay for large groups →](/where-to-stay/)
