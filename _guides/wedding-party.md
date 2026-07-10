@@ -4,10 +4,10 @@ description: "Plan wedding parties, guest accommodations, and wedding weekend ac
 category: "Weddings & Celebrations"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
-date: 2026-01-14
+date: 2026-07-10
 ---
 
-You're getting married in New Orleans. Or someone you love is. Either way, you need to figure out where the wedding party is staying, what to do the nights before, and how to keep 20+ people organized.
+You're getting married in New Orleans. Or someone you love is. Either way, you need to figure out where the wedding party is staying, what to do the nights before, and how to keep a big, sprawling guest list organized.
 
 This guide covers the logistics—because weddings are stressful enough without accommodation drama.
 
@@ -15,7 +15,7 @@ This guide covers the logistics—because weddings are stressful enough without 
 
 ### The Wedding Party
 
-Bridesmaids, groomsmen, and the couple. Usually 10-20 people who need to be together for photos, prep, and bonding time.
+Bridesmaids, groomsmen, and the couple. A tight crew who need to be together for photos, prep, and bonding time.
 
 **What they need:**
 - One rental where everyone can gather
@@ -25,7 +25,7 @@ Bridesmaids, groomsmen, and the couple. Usually 10-20 people who need to be toge
 
 ### Out-of-Town Guests
 
-Extended family and friends traveling for the wedding. Often 15-50+ people who need recommendations.
+Extended family and friends traveling for the wedding. Often the largest chunk of the weekend's headcount, and the group that needs the most direction.
 
 **What they need:**
 - Hotel block or rental suggestions
@@ -195,7 +195,7 @@ The [pre-wedding activities guide](/guides/pre-wedding-activities-guide/) has a 
 
 Your rental's courtyard or common area works perfectly for casual welcome dinners.
 
-**Restaurant options for 15-30:**
+**Restaurant options for the whole crew:**
 - Compère Lapin (private space available)
 - Cochon (family-style works great)
 - Brennan's courtyard
@@ -248,7 +248,7 @@ The [restaurant guide](/guides/restaurant-guide/) covers how to book these for l
 
 ### 1. Book the rental before the venue
 
-Large group rentals book fast, especially for peak wedding season (March-May, October-November).
+Large group rentals book fast, especially for New Orleans' peak wedding stretch: February through May, and October.
 
 ### 2. One person coordinates
 
@@ -298,7 +298,7 @@ For the largest selection, book 6+ months out.
 
 **Can we host the welcome dinner at the rental?**
 
-Absolutely. Cater it, hire a private chef, or potluck-style. That's the whole point of renting a space this size. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) covers the real cost comparison and what a private chef actually delivers for a group of 15-25.
+Absolutely. Cater it, hire a private chef, or potluck-style. That's the whole point of renting a space this size. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) covers the real cost comparison and what a private chef actually delivers for a wedding-sized crew.
 
 **What about out-of-town guests who aren't in the wedding party?**
 
@@ -308,6 +308,6 @@ Send them to hotels, or book multiple rentals on the same property. The Syd's mu
 
 ## Book Your Wedding Weekend
 
-For wedding party groups of 15-30, you need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools — good for getting-ready photos) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, easy transport to venues citywide) are both built for exactly this.
+For a wedding party that's grown past what a couple of hotel rooms can hold, you need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools — good for getting-ready photos) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, easy transport to venues citywide) are both built for exactly this.
 
 [See where to stay for large groups →](/where-to-stay/)
