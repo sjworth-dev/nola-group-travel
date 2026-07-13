@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-13 — `_guides/nola-group-new-orleans-vs-nashville-guide.md`
 - 2026-07-09 — `_guides/nola-group-summer-trip-guide.md`
 - 2026-07-09 — `_guides/nola-group-october-guide.md`
 - 2026-07-08 — `_guides/nola-group-satchmo-summerfest-guide.md`
@@ -722,3 +723,4 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-09 11:00 UTC — content: add _guides/nola-group-summer-trip-guide.md — summer group trip guide covering heat schedule flip, pool-as-product, outdoor activity windows, Essence Fest anchor, summer pricing case, and nightlife advantage; links to hurricane-season-guide, essence-festival, shoulder-season-guide, outdoor-festival-heat-management
 2026-07-09 11:15 UTC — expand: _guides/corporate-retreat.md — fixed booking lead time to 6+ months standard, balanced accommodation section (removed Castleday-only recommendation, added full property landscape), fixed "For Large Groups" section language, bumped date to 2026-07-09
 2026-07-09 11:30 UTC — seo: _guides/wedding-party.md — added 3 inline links (private-chef-vs-villa-cooking, group-grocery-cooking-guide, restaurant-guide) in farewell brunch, stock-the-rental, and private-chef FAQ sections; fixed booking lead time to standard 6+ months line
+2026-07-13 12:00 UTC — content: add _guides/nola-group-new-orleans-vs-nashville-guide.md — side-by-side New Orleans vs. Nashville comparison for large group trips covering music heritage depth, food scene, villa-rental landscape vs. honky-tonk crawl, nightlife after midnight, and cost structure
