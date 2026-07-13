@@ -4,18 +4,18 @@ description: "Plan wedding parties, guest accommodations, and wedding weekend ac
 category: "Weddings & Celebrations"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
-date: 2026-01-14
+date: 2026-07-13
 ---
 
-You're getting married in New Orleans. Or someone you love is. Either way, you need to figure out where the wedding party is staying, what to do the nights before, and how to keep 20+ people organized.
+You're getting married in New Orleans. Or someone you love is. Either way, the wedding itself isn't the hard part — figuring out where the wedding party sleeps, what happens the nights before, and how to keep a big crew organized without it becoming its own job is.
 
-This guide covers the logistics—because weddings are stressful enough without accommodation drama.
+This guide covers that logistics layer. Weddings are stressful enough without accommodation drama on top of it.
 
 ## Types of Wedding Groups
 
 ### The Wedding Party
 
-Bridesmaids, groomsmen, and the couple. Usually 10-20 people who need to be together for photos, prep, and bonding time.
+Bridesmaids, groomsmen, and the couple — the crew that needs to be together for photos, getting-ready, and the bonding time that makes the wedding weekend feel like more than a ceremony.
 
 **What they need:**
 - One rental where everyone can gather
@@ -25,7 +25,7 @@ Bridesmaids, groomsmen, and the couple. Usually 10-20 people who need to be toge
 
 ### Out-of-Town Guests
 
-Extended family and friends traveling for the wedding. Often 15-50+ people who need recommendations.
+Extended family and friends traveling for the wedding — a much wider group who mostly need good recommendations, not shared logistics.
 
 **What they need:**
 - Hotel block or rental suggestions
@@ -248,7 +248,7 @@ The [restaurant guide](/guides/restaurant-guide/) covers how to book these for l
 
 ### 1. Book the rental before the venue
 
-Large group rentals book fast, especially for peak wedding season (March-May, October-November).
+Large group rentals book fast, especially in New Orleans' true peak stretch: October, and February through May (Mardi Gras through Jazz Fest). Weddings scheduled in that window need to move on the rental before the venue, not after.
 
 ### 2. One person coordinates
 
