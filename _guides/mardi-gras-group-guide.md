@@ -11,11 +11,11 @@ Mardi Gras is the biggest group travel event in America. Every year, hundreds of
 
 For large groups, Mardi Gras requires more advance planning than any other trip type — but it also delivers more than any other trip type. If you've never been to Mardi Gras with a big group, with a real home base, on the parade routes during the superkrewe weekends, you don't yet know what it can be.
 
-This guide covers the logistics. The events page on this site covers dates. Read both.
+This guide covers the logistics. The [festival season calendar](/guides/festival-season-calendar/) covers dates. Read both. If your group is weighing an early-season alternative to the Fat Tuesday crush, the [Krewe du Vieux guide](/guides/nola-group-krewe-du-vieux-guide/) covers the case for going in late January instead.
 
 ## Quick Planning Checklist
 
-- [ ] Book accommodation at least 6 months out (12 months is safer for the main weekend)
+- [ ] For the largest selection, book accommodation 6+ months out
 - [ ] Identify which parades your group wants to prioritize — map out the route
 - [ ] Plan transportation from the airport well before you arrive (rideshare surges)
 - [ ] Assign a group point person to track daily parade schedules and street closures
@@ -35,7 +35,7 @@ Mardi Gras is not one day. The season runs from January 6 (Twelfth Night/Epiphan
 | Period | What Happens |
 |--------|-------------|
 | Jan 6 | Season opens — first balls and krewe events begin |
-| Late January | Early neighborhood parades, Krewe du Vieux (adult/satirical parade in Marigny/Bywater) |
+| Late January | Early neighborhood parades, [Krewe du Vieux](/guides/nola-group-krewe-du-vieux-guide/) (adult/satirical parade in Marigny/Bywater) |
 | 2 weekends before Fat Tuesday | Mid-season parades, Uptown routes, crowds building |
 | Friday before Fat Tuesday | Krewe of Endymion (one of the largest parades) |
 | Saturday before | Krewe of Bacchus — superkrewe, massive floats, celebrity monarchs |
@@ -98,7 +98,7 @@ Uber and Lyft operate during Mardi Gras but with major caveats:
 - **Surge pricing is significant.** Especially on Fat Tuesday and superkrewe nights. Budget 3-5x normal pricing.
 - **Wait times are long.** After major parades end, every person in the city is trying to call a car at the same time.
 
-**The fix:** Walk. New Orleans is flat and the neighborhoods are compact. If you're staying near the parade routes, you walk to the parades. You don't try to drive or rideshare to them.
+**The fix:** Walk. New Orleans is flat and the neighborhoods are compact. If you're staying near the parade routes, you walk to the parades. You don't try to drive or rideshare to them. For the days you do need cars — airport arrivals, moving a group of 15-30 between events — the [rideshare master guide](/guides/nola-group-ride-share-master-guide/) covers XL math, surge windows, and the charter van decision.
 
 ### The Streetcar
 
@@ -122,7 +122,7 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 ### The Fundamental Rule
 
-**Book 6-12 months in advance.** No exceptions. Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties sell out before Thanksgiving of the previous year.
+**For the largest selection, book 6+ months out.** No exceptions. Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties go early.
 
 ### For Large Groups
 
@@ -143,6 +143,8 @@ Both properties book out for Mardi Gras season well in advance. Don't wait.
 | French Quarter access | Either works (both 10-20 min) |
 | Frenchmen Street walking | Bywater → Castleday Retreats |
 | Cooking meals at the house | Both have full kitchens |
+
+The [Bywater vs. LGD comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) covers the full tradeoff in more depth if your group is still deciding between the two neighborhoods.
 
 ---
 
@@ -165,6 +167,8 @@ Krewe of Proteus runs in the afternoon. Krewe of Orpheus (evening) is one of the
 The main event. Starts early — Zulu rolls in the morning (historically significant; do some reading before you go), Rex follows on St. Charles Avenue. The truck floats run all day, featuring neighborhood krewes with more chaotic energy. The French Quarter is its own thing all day.
 
 By mid-afternoon, most of the organized parades are done. The city shifts into open party mode. Everyone is in costume. At midnight, the police begin clearing Bourbon Street.
+
+A week that runs Thursday through Fat Tuesday is a marathon, not a single big night — the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) covers how to structure a multi-day trip so the group is still standing for the main event.
 
 ---
 
@@ -195,4 +199,6 @@ For large groups — book early:
 - **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
 - **The Syd** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.
 
-Both book out for Mardi Gras season. Check availability now.
+Both book out for Mardi Gras season. For the full field of large-group properties across the city:
+
+[See where to stay for large groups →](/where-to-stay/)
