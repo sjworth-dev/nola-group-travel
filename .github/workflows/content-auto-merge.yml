@@ -1,0 +1,50 @@
+name: Content auto-merge
+
+# Fires whenever the automated content pipeline pushes to a claude/* branch.
+# Build-checks the Jekyll site, then opens (or reuses) a PR into main and
+# merges it automatically once the build passes. If the build fails, the
+# merge job never runs and the branch is left for a human to look at.
+
+on:
+  push:
+    branches:
+      - "claude/**"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+  merge:
+    needs: build-check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Open or reuse PR, then merge
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          BRANCH="${GITHUB_REF#refs/heads/}"
+
+          URL=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --base main --state open --json url --jq '.[0].url')
+
+          if [ -z "$URL" ]; then
+            URL=$(gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$BRANCH" \
+              --title "content: automated update ($BRANCH)" \
+              --body "Automated content pipeline run. Jekyll build check passed; auto-merging into main.")
+          fi
+
+          gh pr merge --repo "$GITHUB_REPOSITORY" --squash --delete-branch "$URL"
