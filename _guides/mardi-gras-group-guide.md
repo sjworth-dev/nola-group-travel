@@ -15,7 +15,7 @@ This guide covers the logistics. The events page on this site covers dates. Read
 
 ## Quick Planning Checklist
 
-- [ ] Book accommodation at least 6 months out (12 months is safer for the main weekend)
+- [ ] For the largest selection of large-group properties, book 6+ months out
 - [ ] Identify which parades your group wants to prioritize — map out the route
 - [ ] Plan transportation from the airport well before you arrive (rideshare surges)
 - [ ] Assign a group point person to track daily parade schedules and street closures
@@ -82,7 +82,7 @@ Bourbon Street on Fat Tuesday is something you experience rather than enjoy. It'
 
 ### Downtown/Marigny
 
-The Tremé and Marigny have their own Mardi Gras culture — more neighborhood-focused, more music-centered, less tourist-heavy. If your group wants a version of Mardi Gras that feels more local, spending time in these neighborhoods during the season is worth it. The Krewe du Vieux parade runs through the Marigny and is one of the more memorable parades of the season for the right audience (it's adult and satirical — not for family groups).
+The Tremé and Marigny have their own Mardi Gras culture — more neighborhood-focused, more music-centered, less tourist-heavy. If your group wants a version of Mardi Gras that feels more local, spending time in these neighborhoods during the season is worth it. The Krewe du Vieux parade runs through the Marigny and is one of the more memorable parades of the season for the right audience (it's adult and satirical — not for family groups). If your group wants to skip the superkrewe crush entirely, the [Krewe du Vieux group guide](/guides/nola-group-krewe-du-vieux-guide/) makes the case for that weekend on its own.
 
 ---
 
@@ -112,7 +112,7 @@ The groups who navigate Mardi Gras best are the ones who walk everywhere. Book a
 
 ### Party Buses and Charters
 
-For groups of 15-30, chartering a party bus or van is worth considering — especially for airport transfers and for moving the group to and from events on non-parade-closure streets. Several local charter companies operate specifically for Mardi Gras. Book these months in advance; they sell out.
+For larger groups, chartering a party bus or van is worth considering — especially for airport transfers and for moving the group to and from events on non-parade-closure streets. Several local charter companies operate specifically for Mardi Gras. Book these months in advance; they sell out. The [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the charter-van-vs-rideshare decision and MSY airport pickups in more depth.
 
 ---
 
@@ -122,13 +122,13 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 ### The Fundamental Rule
 
-**Book 6-12 months in advance.** No exceptions. Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties sell out before Thanksgiving of the previous year.
+**For the largest selection, book 6+ months out.** Mardi Gras is the biggest single draw on the city's calendar, and large-group properties move on the same clock as the rest of peak season. Waiting until a few weeks out means picking from whatever's left.
 
 ### For Large Groups
 
 Hotel rooms don't work for large groups — you lose the ability to gather, cook meals together, and have a central base. During Mardi Gras, that base matters more than on a normal trip. You'll need it as a meeting point, a recovery room, and a staging area every single day.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, art-filled interiors, complete privacy. The Bywater is east of downtown — it's walkable to the Marigny and Frenchmen Street, and a reasonable Uber to the St. Charles parade route when streets are open. This is the best option for groups who want privacy and want to cook meals at the house (critical during Mardi Gras when restaurants are overwhelmed).
+**Castleday Retreats** — Three private villas in the Bywater, twelve bedrooms and seventeen real beds apiece, private pools, full kitchens, art-filled interiors. The Bywater is east of downtown — it's walkable to the Marigny and Frenchmen Street, and a reasonable Uber to the St. Charles parade route when streets are open. This is the best option for groups who want privacy and want to cook meals at the house (critical during Mardi Gras when restaurants are overwhelmed).
 
 **The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — which puts you on the parade route in minutes. The LGD location is ideal if your group wants to be close to the main uptown parades without fighting for position on the route itself.
 
@@ -174,7 +174,7 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 2. **Wear pockets or a bag.** You'll catch beads, doubloons, cups, and stuffed animals. You need somewhere to put them.
 
-3. **Eat before the big parades.** Restaurants along the parade routes get overwhelmed before major parades. Either eat early or plan to eat after. Have food at the house.
+3. **Eat before the big parades.** Restaurants along the parade routes get overwhelmed before major parades. Either eat early or plan to eat after. Have food at the house. The [festival pre-game guide](/guides/nola-group-festival-pre-game-guide/) has a full meal-and-departure protocol that applies just as well to parade nights as it does to Jazz Fest.
 
 4. **Bring wet wipes.** The city runs out of hand soap. The streets are not clean.
 
@@ -190,9 +190,8 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 ## Book Your Mardi Gras Stay
 
-For large groups — book early:
+For large groups, a private house near the action beats a scattered hotel block every time during Mardi Gras — you need it as a meeting point, a recovery room, and a kitchen when restaurants are overwhelmed. Castleday Retreats (Bywater, private pool and full kitchen per villa, walking distance to the Marigny music scene) and The Syd (Lower Garden District, one block from the St. Charles Streetcar, shared heated pool and hot tub) anchor either side of the city — see the [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) for the full breakdown of which side fits your group.
 
-- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
-- **The Syd** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.
+Both markets book out for Mardi Gras season well before the rest of the year catches up. Check availability now.
 
-Both book out for Mardi Gras season. Check availability now.
+[See where to stay for large groups →](/where-to-stay/)
