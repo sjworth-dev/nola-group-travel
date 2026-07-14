@@ -4,7 +4,7 @@ description: "Plan wedding parties, guest accommodations, and wedding weekend ac
 category: "Weddings & Celebrations"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
-date: 2026-01-14
+date: 2026-07-14
 ---
 
 You're getting married in New Orleans. Or someone you love is. Either way, you need to figure out where the wedding party is staying, what to do the nights before, and how to keep 20+ people organized.
@@ -47,7 +47,7 @@ Smaller weddings where the entire guest list stays together in one large rental.
 
 ### For Large Wedding Parties
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, multiple bedrooms. Perfect for bridesmaids getting ready together or groomsmen hosting the pre-wedding party.
+**Castleday Retreats** — Three private villas in the Bywater, twelve bedrooms and seventeen real beds apiece (not sofa-bed math), full kitchen, private pool. Built for the wedding party that wants everyone under one roof for getting-ready chaos and photos — an organizer bringing sixteen people fills it comfortably without renting more space than the crew needs.
 
 **The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from St. Charles streetcar, easy access to everything. Shared pool and hot tub for group gatherings.
 
@@ -139,7 +139,7 @@ Book hair and makeup to come to your rental. Having everyone in one place keeps 
 **Local options:**
 - Most NOLA hair/makeup artists offer on-location service
 - Book 6+ months ahead for weekend weddings
-- Budget: $150-300 per person including trial
+- Pricing varies by artist and package — get quotes and lock a trial early rather than budgeting off a number you saw online
 
 **Space needs:**
 - Good natural light for photos
@@ -248,7 +248,7 @@ The [restaurant guide](/guides/restaurant-guide/) covers how to book these for l
 
 ### 1. Book the rental before the venue
 
-Large group rentals book fast, especially for peak wedding season (March-May, October-November).
+Large group rentals book fast, especially during New Orleans' actual peak season — October and February through May, which is when Mardi Gras, French Quarter Fest, and Jazz Fest are also competing for the same properties.
 
 ### 2. One person coordinates
 
@@ -308,6 +308,6 @@ Send them to hotels, or book multiple rentals on the same property. The Syd's mu
 
 ## Book Your Wedding Weekend
 
-For wedding party groups of 15-30, you need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools — good for getting-ready photos) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, easy transport to venues citywide) are both built for exactly this.
+You need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. Castleday Retreats (three private villas in the Bywater, twelve bedrooms and seventeen real beds each, private pools — good for getting-ready photos) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, easy transport to venues citywide) are both built for exactly this.
 
 [See where to stay for large groups →](/where-to-stay/)
