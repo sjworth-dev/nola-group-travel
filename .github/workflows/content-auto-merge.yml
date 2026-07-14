@@ -1,0 +1,54 @@
+name: Content auto-merge
+
+# Fires whenever the automated content pipeline pushes to a claude/* branch.
+# Build-checks the Jekyll site, then merges it into main directly once the
+# build passes. If the build fails, the merge job never runs and the branch
+# is left as-is for a human to look at.
+#
+# This merges via git directly rather than opening a PR: GitHub Actions'
+# built-in token cannot open pull requests on this repo unless "Allow GitHub
+# Actions to create and approve pull requests" is enabled under Settings ->
+# Actions -> General -> Workflow permissions. Direct merge only needs
+# contents: write, which the token already has.
+
+on:
+  push:
+    branches:
+      - "claude/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+  merge:
+    needs: build-check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Merge into main
+        run: |
+          set -e
+          BRANCH="${GITHUB_REF#refs/heads/}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          git checkout -B main origin/main
+          git merge --no-ff "origin/$BRANCH" -m "content: merge $BRANCH (build check passed)"
+          git push origin main
+          git push origin --delete "$BRANCH"
