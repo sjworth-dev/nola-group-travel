@@ -15,7 +15,7 @@ This guide covers the logistics. The events page on this site covers dates. Read
 
 ## Quick Planning Checklist
 
-- [ ] Book accommodation at least 6 months out (12 months is safer for the main weekend)
+- [ ] Book accommodation early — for the largest selection, book 6+ months out
 - [ ] Identify which parades your group wants to prioritize — map out the route
 - [ ] Plan transportation from the airport well before you arrive (rideshare surges)
 - [ ] Assign a group point person to track daily parade schedules and street closures
@@ -82,7 +82,7 @@ Bourbon Street on Fat Tuesday is something you experience rather than enjoy. It'
 
 ### Downtown/Marigny
 
-The Tremé and Marigny have their own Mardi Gras culture — more neighborhood-focused, more music-centered, less tourist-heavy. If your group wants a version of Mardi Gras that feels more local, spending time in these neighborhoods during the season is worth it. The Krewe du Vieux parade runs through the Marigny and is one of the more memorable parades of the season for the right audience (it's adult and satirical — not for family groups).
+The Tremé and Marigny have their own Mardi Gras culture — more neighborhood-focused, more music-centered, less tourist-heavy. If your group wants a version of Mardi Gras that feels more local, spending time in these neighborhoods during the season is worth it. The Krewe du Vieux parade runs through the Marigny and is one of the more memorable parades of the season for the right audience (it's adult and satirical — not for family groups). The [Krewe du Vieux guide](/guides/nola-group-krewe-du-vieux-guide/) covers why this sleeper weekend beats fighting the superkrewe crowds for groups who'd rather do Mardi Gras without the crush.
 
 ---
 
@@ -112,7 +112,9 @@ The groups who navigate Mardi Gras best are the ones who walk everywhere. Book a
 
 ### Party Buses and Charters
 
-For groups of 15-30, chartering a party bus or van is worth considering — especially for airport transfers and for moving the group to and from events on non-parade-closure streets. Several local charter companies operate specifically for Mardi Gras. Book these months in advance; they sell out.
+For groups of 15-30, chartering a party bus or van is worth considering — especially for airport transfers and for moving the group to and from events on non-parade-closure streets. Several local charter companies operate specifically for Mardi Gras. Book these months in advance; they sell out. The [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the charter-vs-rideshare math and MSY airport pickup strategy for staggered arrivals in more detail.
+
+Getting the group out after a parade ends is its own logistics problem — thousands of people hit the sidewalks at once. The [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers pickup zones and timing for exactly this kind of crowd surge, built for Jazz Fest and Voodoo Fest but just as applicable the moment Bacchus or Endymion wraps.
 
 ---
 
@@ -122,7 +124,7 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 ### The Fundamental Rule
 
-**Book 6-12 months in advance.** No exceptions. Anything available two or three months before Fat Tuesday is either very expensive or not worth staying in. The best large-group properties sell out before Thanksgiving of the previous year.
+**For the largest selection, book 6+ months out.** Mardi Gras is one of the highest-demand weekends of the year for large-group rentals in New Orleans. Waiting until a month or two out means choosing from whatever's left, usually at a premium.
 
 ### For Large Groups
 
@@ -143,6 +145,8 @@ Both properties book out for Mardi Gras season well in advance. Don't wait.
 | French Quarter access | Either works (both 10-20 min) |
 | Frenchmen Street walking | Bywater → Castleday Retreats |
 | Cooking meals at the house | Both have full kitchens |
+
+Either neighborhood works for a Mardi Gras base — the deeper tradeoffs (privacy vs. shared amenities, walkability, price) are in the [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/).
 
 ---
 
@@ -178,7 +182,7 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 4. **Bring wet wipes.** The city runs out of hand soap. The streets are not clean.
 
-5. **Costume is not optional.** Being the one person not in costume on Fat Tuesday in the French Quarter is genuinely uncomfortable. Something simple is fine.
+5. **Costume is not optional.** Being the one person not in costume on Fat Tuesday in the French Quarter is genuinely uncomfortable. Something simple is fine — the [costume guide](/guides/nola-group-mardi-gras-costume-guide/) covers what actually works for a group without everyone spending a fortune.
 
 6. **Don't leave your spot on St. Charles if you want it back.** Locals stake out spots early with chairs and tape. Once a good spot is claimed, it's claimed.
 
