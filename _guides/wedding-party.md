@@ -4,7 +4,7 @@ description: "Plan wedding parties, guest accommodations, and wedding weekend ac
 category: "Weddings & Celebrations"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
-date: 2026-01-14
+date: 2026-07-15
 ---
 
 You're getting married in New Orleans. Or someone you love is. Either way, you need to figure out where the wedding party is staying, what to do the nights before, and how to keep 20+ people organized.
@@ -248,7 +248,7 @@ The [restaurant guide](/guides/restaurant-guide/) covers how to book these for l
 
 ### 1. Book the rental before the venue
 
-Large group rentals book fast, especially for peak wedding season (March-May, October-November).
+Large group rentals book fast, especially during New Orleans's actual peak season — October and February through May. That stretch covers Mardi Gras, French Quarter Fest, and Jazz Fest on top of wedding weekends, so competition for large rentals is real.
 
 ### 2. One person coordinates
 
