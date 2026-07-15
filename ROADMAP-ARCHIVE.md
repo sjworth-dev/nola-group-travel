@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-15 — `_guides/nola-group-short-term-rental-rules-guide.md`
 - 2026-07-15 — `_guides/nola-group-new-orleans-vs-charleston-guide.md`
 - 2026-07-14 — `_guides/nola-group-new-orleans-vs-nashville-guide.md`
 - 2026-07-09 — `_guides/nola-group-summer-trip-guide.md`
@@ -726,3 +727,4 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-09 11:30 UTC — seo: _guides/wedding-party.md — added 3 inline links (private-chef-vs-villa-cooking, group-grocery-cooking-guide, restaurant-guide) in farewell brunch, stock-the-rental, and private-chef FAQ sections; fixed booking lead time to standard 6+ months line
 2026-07-14 12:00 UTC — content: add _guides/nola-group-new-orleans-vs-nashville-guide.md — New Orleans vs. Nashville comparison for group organizers: music heritage, food scene depth, villa/large-group rental landscape, nightlife after midnight, cost structure, and a verdict by group type
 2026-07-15 12:00 UTC — content: add _guides/nola-group-new-orleans-vs-charleston-guide.md — New Orleans vs. Charleston comparison for group organizers: nightlife hours, live music depth, food culture, STR-constrained villa landscape, heat/humidity, and verdicts by trip type; blocked two stale Up Next items already covered by existing guides (Thanksgiving, crawfish boil) and refilled backlog to 4 items
+2026-07-15 13:00 UTC — content: add _guides/nola-group-short-term-rental-rules-guide.md — STR permit/zoning basics, owner-occupied vs. whole-home permit categories, how licensed group villas differ from grey-market listings, and a listing-verification checklist for groups booking a big house; blocked nola-group-mardi-gras-parade-viewing-strategy-guide.md (Magazine Street isn't part of the established Uptown parade route — writing viewing-strategy specifics for it risked inventing details)
