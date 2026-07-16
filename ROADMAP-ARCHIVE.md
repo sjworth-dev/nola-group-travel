@@ -4,6 +4,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 
 ## Done
 
+- 2026-07-16 — `_guides/nola-group-hurricane-season-guide.md` (refresh)
 - 2026-07-15 — `_guides/nola-group-short-term-rental-rules-guide.md`
 - 2026-07-15 — `_guides/nola-group-new-orleans-vs-charleston-guide.md`
 - 2026-07-14 — `_guides/nola-group-new-orleans-vs-nashville-guide.md`
@@ -731,3 +732,4 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-07-15 13:15 UTC — fix: _guides/wedding-party.md — corrected "peak wedding season (March-May, October-November)" to match the verified NOLA seasonality ground truth (October and February-May), bumped date from 2026-01-14 (oldest in _guides/) to 2026-07-15
 2026-07-15 13:30 UTC — seo: _guides/mardi-gras-group-guide.md — added 5 inline links (ride-share-master-guide, festival-exit-strategy-guide, krewe-du-vieux-guide, bywater-vs-lgd-deep-comparison, mardi-gras-costume-guide) woven into transportation, Marigny, accommodation, and costume sections; fixed two variable-lead-time booking claims ("6-12 months," "12 months is safer") to the standard 6+ months line
 2026-07-15 13:45 UTC — backlog: refilled Up Next with nola-group-open-container-law-guide.md and nola-group-safety-guide.md (both pass the Topic Selection Bar); flagged nola-group-hurricane-season-guide.md as a priority Refresh target — it frames October as "shoulder season" throughout, contradicting the file's own Seasonality Ground Truth
+2026-07-16 09:00 UTC — expand: _guides/nola-group-hurricane-season-guide.md — rewrote seasonal framing throughout (title, description, checklist, section headers, pro tips, final CTA) to match the Seasonality Ground Truth: the genuine value window is late August through mid-September, not "August-October"; October is peak season, not shoulder; added 3 inline internal links (october-guide, satchmo-summerfest-guide, summer-trip-guide) and fixed the final CTA to /where-to-stay/; bumped date to 2026-07-16; flagged shoulder-season-guide.md and nola-group-october-guide.md as carrying the same October-as-bargain error for a future refresh
