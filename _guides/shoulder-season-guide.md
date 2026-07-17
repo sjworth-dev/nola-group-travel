@@ -1,19 +1,19 @@
 ---
 title: "New Orleans Shoulder Season Guide for Groups"
-description: "The case for visiting New Orleans in October, January, February, and late August: lower rates, smaller crowds, what you give up, what you gain, and the experiences that are actually better outside peak season."
+description: "The honest case for New Orleans' two real value windows — late January and late August through mid-September — plus what October and pre-Mardi-Gras February actually cost. Lower rates, smaller crowds, what you give up, what you gain."
 category: "Planning & Logistics"
 card_title: "Shoulder Season Guide"
-card_description: "October, January, February, late August — lower rates, smaller crowds, and some genuinely better experiences. Here's the honest breakdown."
-date: 2026-05-27
+card_description: "Late January and late August through mid-September are the genuine bargain windows. October isn't one — here's the honest breakdown of what each month actually costs."
+date: 2026-07-17
 ---
 
-New Orleans has two kinds of popular. There's Jazz Fest and Mardi Gras popular — which is expensive, crowded, logistically complex, and genuinely worth it if those are the experiences you want. And then there's the rest of the year, which most people skip.
+New Orleans has two kinds of popular. There's Jazz Fest and Mardi Gras popular — expensive, crowded, logistically complex, and genuinely worth it if those are the experiences you want. And then there's the rest of the year, which most people either skip or get wrong.
 
-That's a mistake.
+Here's the part that trips organizers up: October isn't the rest of the year. It's peak season with better weather and no national ad campaign — Voodoo Fest, Halloween week, and the year's best temperatures put it right alongside spring in demand and pricing. If your group is chasing a discount, October will disappoint you. The [October group guide](/guides/nola-group-october-guide/) has the full pricing breakdown.
 
-New Orleans in October is one of the best cities in the country. January after the holidays has rates nobody talks about and a city still fully running. Late August is objectively hot but costs a fraction of spring rates and carries its own deep local festival calendar. February pre-Mardi Gras gets you the buildup without the weekend-of chaos.
+The real value windows are narrower and less talked about. Late January after the holidays has rates nobody markets and a city still fully running. Late August through mid-September is hot, but it's the closest thing New Orleans has to a genuine off-season — real savings, thin crowds, and its own local festival calendar. February pre-Mardi Gras sits in a gray zone: still peak season by the calendar, but the early parade weekends undercut Fat Tuesday week on both price and chaos.
 
-This guide makes the honest case for shoulder season trips, tells you what you're trading off, and helps you decide if the timing works for your group.
+This guide makes the honest case for the real value windows, tells you what October actually costs instead of what people assume, and helps you decide if the timing works for your group.
 
 ## Quick Checklist
 
@@ -31,7 +31,7 @@ This guide makes the honest case for shoulder season trips, tells you what you'r
 
 Before anything else, be clear about what you're giving up in shoulder season and what you're gaining.
 
-| Factor | Peak Season (March–May, October fests) | Shoulder Season |
+| Factor | Peak Season (February–May, October) | Shoulder Season |
 |--------|---------------------------------------|----------------|
 | Villa rates | High demand; premium pricing | 20–40% lower depending on timing |
 | Crowds at French Quarter | Heavy; sidewalks packed | Manageable; you can actually walk |
@@ -46,23 +46,25 @@ Before anything else, be clear about what you're giving up in shoulder season an
 
 ---
 
-## October: The Best Month Nobody Talks About
+## October: Where People Expect a Discount and Don't Get One
 
-October is the move. Not because it's some secret — locals know — but because it doesn't have the national marketing that Jazz Fest and Mardi Gras do.
+October is not a shoulder month. It's peak season — right up there with spring — and the sooner a group organizer accepts that, the better the budget conversation goes.
 
-**What October offers:**
-- Temperatures in the 60s–80s — finally out of summer heat, not yet into winter cold
-- Halloween has a genuinely local character here. The city takes costumes seriously all month long, not just on October 31st.
-- Voodoo Fest (typically late October): a major music festival in City Park with national and local acts. Worth building a trip around if the lineup appeals to your group.
-- Krewe of Boo: the city's main Halloween parade, typically the last weekend of October. Floats, throws, full New Orleans parade culture but without the Mardi Gras crowd levels.
+**Why people assume otherwise:** October doesn't get the national marketing push that Jazz Fest and Mardi Gras do, so it feels like a secret. It isn't. Locals have known about October for years, and so has every villa owner in the Bywater and Lower Garden District.
+
+**What October actually offers:**
+- Temperatures in the 60s–80s — the best stretch of weather New Orleans gets all year
+- Halloween with a genuinely local character. The city takes costumes seriously all month long, not just on October 31st.
+- Voodoo Fest (typically late October): a major music festival in City Park with national and local acts.
+- Krewe of Boo: the city's main Halloween parade, typically the last weekend of October — full parade production without Mardi Gras crowd levels.
 - Audubon Zoo Boo: families with children.
-- The city is running at full capacity without being overwhelmed. This is the version of New Orleans with the best experience-to-crowd ratio.
+- The city running at full capacity without being overwhelmed.
 
-**Rate reality:** October is not the cheapest month, but it's significantly less expensive than Jazz Fest weekends and Mardi Gras. You'll pay shoulder rates except during Voodoo Fest weekend, when prices spike.
+**Rate reality:** October pricing sits alongside spring peak. A quiet non-Voodoo weekend is the closest thing to relief the month offers, but that still means booking 6+ months out for the largest selection. Voodoo Fest and Halloween weekends spike even higher, on par with Jazz Fest.
 
-**Best for:** Groups who want good weather, real festivals, and a city at its most functional without Mardi Gras logistics overhead.
+**Best for:** Groups who want the best weather of the year and real festival culture, and who've budgeted for peak pricing to get it — not the group that needs the discount.
 
-The [October group guide](/guides/nola-group-october-guide/) covers every specific event, the Halloween weekend breakdown, Voodoo Fest planning, and the exact weather and rate math in detail.
+The [October group guide](/guides/nola-group-october-guide/) covers every specific event, the Halloween weekend breakdown, Voodoo Fest planning, and the exact weather and pricing math in detail.
 
 ---
 
@@ -129,7 +131,9 @@ It's also the most local version of the city you'll experience.
 
 ---
 
-## Specific Shoulder Season Events Worth Building Trips Around
+## Specific Events Worth Building Trips Around
+
+Not everything on this list falls in a genuine value window — Voodoo Fest and Krewe of Boo land in October, which is peak season (see above). They're included because group organizers search for them alongside shoulder events, and the honest pricing context matters either way.
 
 | Event | Typical Timing | What It Is |
 |-------|---------------|-----------|
@@ -152,7 +156,7 @@ Rate differences vary by year and specific dates, but these ranges are realistic
 | Jazz Fest weekends (April–May) | Highest rates of year | Book 6+ months out |
 | Mardi Gras Fat Tuesday week | Very high | Book 6+ months out |
 | Spring (non-festival weekends) | High-moderate | Still strong demand |
-| October (non-Voodoo) | Moderate | Great value for good weather |
+| October (non-Voodoo) | High | Comparable to spring peak — the payoff is weather, not a discount |
 | Late January | Low | Best value; limited festival activity |
 | Late August (non-Decadence) | Low | Heat penalty; real savings |
 | Winter holidays (Christmas–New Year's) | Moderate–high | Varies; Sugar Bowl drives the spike |
@@ -185,7 +189,7 @@ The absence of a major festival doesn't mean the city feels flat — it means it
 
 ## Pro Tips
 
-1. **October is the best-kept secret month.** Experienced NOLA travelers know this. Mild weather, Voodoo Fest option, Halloween culture, no Mardi Gras logistics — just a city at full function with manageable crowds.
+1. **Don't book October expecting a deal.** It's peak season, not a secret — mild weather, Voodoo Fest, Halloween culture, no Mardi Gras logistics overhead, but spring-level pricing to match. Budget accordingly and go for the weather, not the savings.
 
 2. **Late January is for the budget-first traveler.** The savings are real, the city is real, and the mild cool-weather days make for excellent walking. Bring a jacket.
 
