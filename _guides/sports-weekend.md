@@ -9,7 +9,7 @@ date: 2026-05-22
 
 New Orleans is one of the best sports cities in America. Not because the teams are always great—though they have been—but because of how the city treats game day. A Saints game in the Superdome is one of the loudest environments in professional football. The city shuts down for it. People tailgate on the street. Bars fill up by noon.
 
-For large groups, sports weekends in New Orleans have a built-in logic: you have a shared event to anchor the trip, built-in conversation, and a reason to be in the same place at the same time. The city fills in the rest.
+For large groups, sports weekends in New Orleans have a built-in logic: you have a shared event to anchor the trip, built-in conversation, and a reason to be in the same place at the same time. The city fills in the rest. This guide covers the overview — for a full game-day-by-game-day breakdown, the [Saints gameday mega guide](/guides/saints-gameday-mega-guide/) goes deeper on tickets, timing, and group logistics.
 
 ## Quick Planning Checklist
 
@@ -48,7 +48,7 @@ For a group of 20, you'll want to buy seats in the same section — not split ac
 
 **Streetcar:** The St. Charles Streetcar doesn't go directly to the Superdome, but the Canal Street line gets close. For groups at The Syd, take the streetcar to Canal, then walk 10 minutes.
 
-**Rideshare:** Works well for getting there early. After the game, expect 30-45 minute wait times and significant surge pricing. Have a post-game plan that doesn't require immediate rideshare.
+**Rideshare:** Works well for getting there early. After the game, expect 30-45 minute wait times and significant surge pricing. Have a post-game plan that doesn't require immediate rideshare — the [rideshare master guide](/guides/nola-group-ride-share-master-guide/) covers how to split a large group across cars so nobody's stuck waiting alone in a surge.
 
 **Walking back:** If you're staying near the French Quarter or Lower Garden District, walking back after the game — through the CBD and along Magazine or Bourbon Street — is often faster and cheaper than waiting for cars.
 
@@ -56,7 +56,7 @@ For a group of 20, you'll want to buy seats in the same section — not split ac
 
 **Morning:** Pre-game setup. If you're cooking at the house (both Castleday and The Syd have full kitchens), this is the time. Football morning food at the house before heading downtown is a smart move — restaurants near the dome get packed.
 
-**2-3 hours before kickoff:** Head to the stadium area. Tailgating happens in the parking structures and surrounding streets. The energy builds early.
+**2-3 hours before kickoff:** Head to the stadium area. Tailgating happens in the parking structures and surrounding streets. The energy builds early. The [Superdome tailgate guide](/guides/nola-group-superdome-tailgate-guide/) covers how to actually set up a tailgate for a large group in that lot, including what's allowed and what isn't.
 
 **1 hour before kickoff:** Be in your seats. The pre-game atmosphere and player warmups are part of the experience.
 
@@ -176,7 +176,7 @@ For groups attending a Saints game, The Syd's location is particularly convenien
 
 5. **Game day bars in New Orleans are excellent.** If you can't get tickets or want a backup, the bar experience is genuinely great. Don't treat it as a consolation prize.
 
-6. **Check the schedule for the whole weekend.** Saints on Sunday, Pelicans on Friday, maybe a college game Saturday — sports weekends in New Orleans can be stacked.
+6. **Check the schedule for the whole weekend.** Saints on Sunday, Pelicans on Friday, maybe a college game Saturday — sports weekends in New Orleans can be stacked. If you're building a trip around the full season rather than one game, the [Saints season guide](/guides/nola-group-nola-saints-season-full-guide/) breaks down how the schedule shapes pricing and crowds month to month.
 
 ---
 
