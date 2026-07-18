@@ -4,7 +4,7 @@ description: "How to do New Orleans Jazz & Heritage Festival with a large group.
 category: "Festivals & Events"
 card_title: "Jazz Fest"
 card_description: "Two weekends in late April and May. Music, food, heat. Here's how to actually do it."
-date: 2026-05-22
+date: 2026-07-18
 ---
 
 Jazz Fest is not a concert. That's the first thing to understand.
@@ -15,7 +15,7 @@ For large groups, Jazz Fest requires coordination but rewards it. Here's how to 
 
 ## Quick Planning Checklist
 
-- [ ] Book accommodation 6-12 months in advance — Jazz Fest weekend hotels and rentals sell out
+- [ ] Book accommodation early — Jazz Fest weekend hotels and rentals sell out; for the largest selection, book 6+ months out
 - [ ] Buy tickets in advance — available online, general admission, no assigned seating
 - [ ] Decide which weekend (or both) works for your group
 - [ ] Plan for heat — late April and early May in New Orleans means 80-90°F, full sun
@@ -61,7 +61,7 @@ Don't eat a big lunch before you go. Eat at the fest.
 
 The Fair Grounds are in Mid-City, about 3-4 miles from the French Quarter and downtown.
 
-**Rideshare:** Works well early in the day, surges heavily after the festival ends when everyone tries to leave at once. Budget 2-3x normal pricing for post-fest departure, especially on headliner nights.
+**Rideshare:** Works well early in the day, surges heavily after the festival ends when everyone tries to leave at once. Budget 2-3x normal pricing for post-fest departure, especially on headliner nights. The [rideshare master guide](/guides/nola-group-ride-share-master-guide/) covers how to split a group across cars without anyone waiting 40 minutes for a surge-priced ride.
 
 **Official shuttles:** Jazz Fest operates official shuttle service from several downtown pickup points. For large groups, this is often the most practical option — fixed schedule, no surge pricing, and you skip the post-fest rideshare queue. Check the official festival website for current shuttle routes and pricing each year.
 
@@ -116,7 +116,7 @@ Heatstroke is real. Look out for each other. Someone who's had too much sun need
 
 ## Evening Shows: The Night Side of Jazz Fest
 
-The festival ends around 7 PM. Jazz Fest weekend also brings the most concentrated collection of live music in the city — major national and international artists play club shows and special events in the evenings, separate from the daytime festival.
+The festival ends around 7 PM. Jazz Fest weekend also brings the most concentrated collection of live music in the city — major national and international artists play club shows and special events in the evenings, separate from the daytime festival. The [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers how to get a group of 20 out of the Fair Grounds and turned around for an evening show without losing two hours to the crowd.
 
 These shows are:
 - Separate tickets (often sell out quickly after the festival lineup is announced)
@@ -135,11 +135,11 @@ Hotels in New Orleans fill up for Jazz Fest weekends well in advance. For large 
 
 ### For Large Groups
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. The Bywater is a short Uber from the Fair Grounds and walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinating Ubers is a genuine quality-of-life improvement.
+**Castleday Retreats** — Three private villas in the Bywater, each holding up to 30 guests. Private pools, full kitchens, complete privacy. The Bywater is a short Uber from the Fair Grounds and walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinating Ubers is a genuine quality-of-life improvement.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which connects to Canal Street for shuttle pickups. The LGD location is ideal for groups who also want easy access to Magazine Street restaurants and the downtown evening show venues.
+**The Syd** — Multiple villas in the Lower Garden District, each up to 22 guests. Shared heated pool, hot tub, outdoor kitchen. One block from the St. Charles Streetcar, which connects to Canal Street for shuttle pickups. The LGD location is ideal for groups who also want easy access to Magazine Street restaurants and the downtown evening show venues.
 
-Both book out for Jazz Fest weekends. Six months out is the minimum; twelve months is safer if you have 20+ people.
+Both are editorial examples of the kind of purpose-built inventory this weekend calls for — see the [full accommodation guide](/where-to-stay/) for the complete field. Jazz Fest weekend is one of the most heavily booked stretches of the year for large-group inventory citywide; for the largest selection, book 6+ months out. The [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down which location fits your group better for this specific weekend.
 
 ### Why a Rental House Matters During Jazz Fest
 
@@ -151,7 +151,7 @@ After a 10-hour day at the Fair Grounds, a pool and an outdoor kitchen are not l
 
 | Factor | Jazz Fest | Mardi Gras |
 |--------|-----------|------------|
-| Planning lead time | 6-12 months | 12+ months for Fat Tuesday weekend |
+| Planning lead time | Book 6+ months out for the largest selection | Book 6+ months out for the largest selection |
 | Weather | Hot (80-90°F) | Variable (50-75°F) |
 | Primary activity | Daytime music festival | Parade watching + nightlife |
 | Ticket requirements | Yes (festival + evening shows) | No (parades are free) |
@@ -184,9 +184,6 @@ Neither is better. They're different experiences. Many groups do both in the sam
 
 ## Book Your Jazz Fest Stay
 
-For large groups — book well in advance:
+Jazz Fest weekend is one of the most heavily booked stretches of the year for large-group inventory citywide — for the largest selection, book 6+ months out. A house with a pool and full kitchen beats a scattered hotel block for recovering between festival days and getting to evening shows on time.
 
-- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Walk to Frenchmen Street for evening music. Private pool for post-festival recovery.
-- **The Syd** — Art-filled villas in the Lower Garden District, up to 22 guests. Streetcar access to festival shuttles. Shared pool and outdoor kitchen.
-
-Jazz Fest weekend is the most popular booking period of the year for both properties. Check availability early.
+[See where to stay for large groups →](/where-to-stay/)
