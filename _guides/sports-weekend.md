@@ -4,7 +4,7 @@ description: "Saints gameday, Pelicans games, and sports weekends in New Orleans
 category: "Festivals & Events"
 card_title: "Sports Weekends"
 card_description: "Saints game, Pelicans night, or just a sports-focused group trip to one of the loudest cities in the NFL."
-date: 2026-05-22
+date: 2026-07-19
 ---
 
 New Orleans is one of the best sports cities in America. Not because the teams are always great—though they have been—but because of how the city treats game day. A Saints game in the Superdome is one of the loudest environments in professional football. The city shuts down for it. People tailgate on the street. Bars fill up by noon.
@@ -154,13 +154,17 @@ Several excellent golf courses serve groups in the New Orleans area. TPC Louisia
 
 ## Accommodation Strategy for Sports Weekends
 
-Sports game weekends — especially major NFL matchups — are among the most competitive booking periods in New Orleans. Plan early.
+Sports game weekends — especially major NFL matchups — are among the most competitive booking periods in New Orleans. For the largest selection, book 6+ months out, same as any other high-demand weekend.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens. Game day at the house is easy: cook breakfast, watch pregame on TV, head downtown together. Walking distance to Frenchmen Street for the post-game night.
+The right property depends on what your group is optimizing for, and the field is bigger than two options:
 
-**The Syd** — Multiple villas in the Lower Garden District, each up to 22 guests. One block from the St. Charles Streetcar, which connects to the CBD/Superdome corridor. Outdoor kitchen for pregame setups. The closest large-group accommodation to the stadium in terms of practical transit access.
+- **Private villa groups** (Bywater, Lower Garden District): Multiple operators rent whole-property villas sleeping 14–30, each with a full kitchen — cook breakfast, watch pregame on the TV, head downtown together. Bywater puts you walking distance from Frenchmen Street for the post-game night; Lower Garden District villas tend to sit closer to the St. Charles Streetcar line, which connects toward the CBD/Superdome corridor.
+- **Deep-inventory large-format homes** (LGD/Central City): Useful if your dates are firm but you're booking a game weekend later than the 6-month window — this is where short-notice availability tends to survive longest.
+- **A single historic guesthouse** (Bywater, sleeps up to 18): Works if your group tops out under 20 and wants one house rather than a villa built for 25-30.
+- **Group suites or a floor of apartments** (CBD/Warehouse District, Central City): Separate bills, hotel-adjacent walkability to the dome — a fit for groups who want rooms, not a shared house.
+- **Room blocks at full-service hotels**: The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, and Hotel Saint Vincent all handle group blocks and mixed-budget teams who want their own key and their own bill.
 
-For groups attending a Saints game, The Syd's location is particularly convenient — streetcar to Canal, short walk to the dome. For groups prioritizing the evening music scene around the game, Castleday's Bywater location puts you on Frenchmen Street after the game ends.
+For groups attending a Saints game specifically, transit access to the dome matters more than usual — weigh streetcar and walking distance alongside bedroom count and pool size. For groups treating the game as one piece of a bigger weekend, proximity to Frenchmen Street or the Quarter's nightlife matters just as much.
 
 ---
 
@@ -180,11 +184,14 @@ For groups attending a Saints game, The Syd's location is particularly convenien
 
 ---
 
-## Book Your Sports Weekend
+## Large Groups on a Sports Weekend
 
-For large groups:
+A big group watching a Saints game has different needs than a couple with two tickets. Contiguous seating, a shared pregame base, and a plan for getting the whole crew to and from the dome without splintering into five separate rideshares all matter more than usual. The [ride share master guide](/guides/nola-group-ride-share-master-guide/) covers how to split a large group across cars without losing anyone in a post-game surge.
 
-- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Full kitchens for game day spreads. Walking distance to post-game Frenchmen Street.
-- **The Syd** — Art-filled villas in the Lower Garden District, up to 22 guests each. One block from the St. Charles Streetcar — the easiest transit to the Superdome and back.
+Where you stay does real work here too — a group cooking pregame food together and walking out the door as a pack starts the day differently than one coordinating five hotel rooms. Sports weekends are competitive booking periods across the whole market, not just for tickets.
 
-Sports weekends sell out. Book as soon as your game date is confirmed.
+## See Where to Stay
+
+For a full breakdown of large-group accommodation options across New Orleans' neighborhoods:
+
+[See where to stay for large groups →](/where-to-stay/)
