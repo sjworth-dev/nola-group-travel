@@ -4,7 +4,7 @@ description: "Transportation guide for large groups in New Orleans. Streetcars, 
 category: "Planning & Logistics"
 card_title: "Getting Around"
 card_description: "Streetcars, rideshare math, party buses. How to move large groups without losing anyone."
-date: 2026-05-22
+date: 2026-07-19
 ---
 
 Transportation is where group trips fall apart. Someone's always waiting. The Uber math doesn't work. You spend 20 minutes coordinating cars to go somewhere 10 minutes away.
@@ -98,8 +98,8 @@ Every rideshare car takes 4 passengers maximum. A group of 20 needs 5 cars. Disp
 
 ### When Rideshare Breaks Down
 
-- **After parades (Mardi Gras):** Every car in the city is in demand when a major parade ends. Wait times spike, prices surge. Walk if you're within a mile.
-- **After Jazz Fest:** Same problem, every evening. Build 45 minutes of buffer into your post-festival logistics.
+- **After parades (Mardi Gras):** Every car in the city is in demand when a major parade ends. Wait times spike, prices surge. Walk if you're within a mile. The [Mardi Gras group guide](/guides/mardi-gras-group-guide/) covers the parade calendar and viewing-spot logistics in more depth.
+- **After Jazz Fest:** Same problem, every evening. Build 45 minutes of buffer into your post-festival logistics — the [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers rideshare timing and pickup zones for Jazz Fest, Voodoo Fest, and French Quarter Fest specifically.
 - **Parade route closures:** Drivers literally cannot cross active parade routes. Your car cannot pick you up from the other side of St. Charles Avenue while the parade is running.
 - **Major game nights:** Saints games at the Superdome draw 70,000 people. Post-game rideshare is chaotic.
 - **Festival weekends generally:** Essence Fest, Jazz Fest, Mardi Gras, French Quarter Fest — expect 2-4x normal prices at peak times.
@@ -110,6 +110,8 @@ Every rideshare car takes 4 passengers maximum. A group of 20 needs 5 cars. Disp
 2. Walk first, Uber second — in the core neighborhoods, most things are within 20 minutes on foot
 3. Use Uber XL or Lyft XL for groups of 5-6 to reduce the number of cars
 4. Budget surge pricing into your trip — 2x is typical on weekends, 4-5x is possible during major events
+
+For the full math on splitting a big group across multiple cars — dispatch order, who rides with whom, and when a charter van beats five separate rideshares — see the [rideshare master guide](/guides/nola-group-ride-share-master-guide/).
 
 ---
 
@@ -189,13 +191,13 @@ If your group is driving to New Orleans rather than flying:
 
 **Parking near the French Quarter:** Expensive, limited, frustrating. Use a parking garage on the CBD/Quarter border rather than searching for street parking.
 
-**Parking near The Syd in the Lower Garden District:** Easier than downtown — street parking is available in the surrounding residential neighborhood.
+**Parking near a Lower Garden District rental:** Easier than downtown — street parking is generally available in the surrounding residential blocks.
 
-**Parking near Castleday Retreats in the Bywater:** The Bywater is a residential neighborhood with more available street parking than the tourist zones.
+**Parking near a Bywater rental:** The Bywater is a residential neighborhood with more available street parking than the tourist zones, though it varies block to block.
 
 **Game days and festival weekends:** Don't drive to the French Quarter or CBD. Seriously.
 
-**The rule:** Park once at your accommodation and leave the cars there. Walk, streetcar, and rideshare. Parking a large group's worth of vehicles in New Orleans for a weekend is expensive and unnecessary.
+**The rule:** Park once at your accommodation and leave the cars there. Walk, streetcar, and rideshare. Parking a large group's worth of vehicles in New Orleans for a weekend is expensive and unnecessary. The [parking guide](/guides/nola-group-parking-guide/) covers garage-vs-street tradeoffs, towing enforcement, and how event-day closures turn a legal spot into a tow-away zone.
 
 ---
 
@@ -235,15 +237,14 @@ For groups of 15+, chartering a coach or van for day trips is usually more pract
 
 ## For Large Groups: Home Base Transportation Advantage
 
-Where you stay determines how much you spend on transportation.
+Where you stay determines how much you spend on transportation, and it's the single biggest lever a group has over its own Uber math.
 
-**Castleday Retreats** in the Bywater puts you walking distance from Frenchmen Street, Bacchanal Wine, and the Marigny. You'll take fewer Ubers than almost any other location in the city.
+A Bywater villa rental puts you walking distance from Frenchmen Street, the Marigny's music scene, and the neighborhood bars that don't require a car at all. A Lower Garden District rental typically sits close to the St. Charles Streetcar line, which connects toward Canal Street, the French Quarter, and Uptown — useful for groups with plans spread across downtown or the Convention Center. Hotel room blocks in the CBD or Warehouse District put you within walking distance of the Superdome and the Quarter, at the cost of splitting the group across separate rooms rather than one house.
 
-**The Syd** in the Lower Garden District sits one block from the St. Charles Streetcar, which connects to Canal Street, the French Quarter, and Uptown. For groups attending events downtown or at the Convention Center, the location dramatically reduces rideshare costs.
+Pick your home base based on what your group actually plans to do each day. Transportation logistics sort themselves out from there — see the [bar crawl guide](/guides/bar-crawl-guide/) and [Mardi Gras group guide](/guides/mardi-gras-group-guide/) for how neighborhood choice plays out for specific occasions.
 
-Pick your home base based on what your group plans to do. Transportation logistics will sort themselves out from there.
+## See Where to Stay
 
-## Book Your Stay
+For a full breakdown of large-group accommodation options across New Orleans' neighborhoods, including how each one affects your transportation math:
 
-- **Castleday Retreats** — Bywater, up to 30 per villa. Walk to Frenchmen Street.
-- **The Syd** — Lower Garden District, up to 22 per villa. One block from the St. Charles Streetcar.
+[See where to stay for large groups →](/where-to-stay/)
