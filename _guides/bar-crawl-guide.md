@@ -4,7 +4,7 @@ description: "How to plan a bar crawl in New Orleans for groups of 15-30: the be
 category: "Nightlife & Music"
 card_title: "Bar Crawl Guide"
 card_description: "Route planning, bar picks, and group logistics for crawling NOLA with 15-30 people."
-date: 2026-05-23
+date: 2026-07-20
 ---
 
 New Orleans was built for this. Walk-around cups are legal. Bars don't close. The density of great drinking spots in a three-block radius is unlike any city in the country.
@@ -141,9 +141,9 @@ Large groups fragment. This is not a failure — it's physics. Plan for it.
 
 ### Getting Around Between Zones
 
-If you're moving between zones, you need multiple Ubers or a party bus. You cannot fit 20 people into four Ubers seamlessly.
+If you're moving between zones, you need multiple [Ubers](/guides/nola-group-ride-share-master-guide/) or a [party bus](/guides/nola-group-charter-bus-guide/). You cannot fit 20 people into four Ubers seamlessly.
 
-**The party bus option:** For large groups doing a multi-zone crawl, a rented shuttle or party bus eliminates the Uber coordination problem. Book in advance. Factor in the cost when you plan.
+**The party bus option:** For large groups doing a multi-zone crawl, a rented shuttle or party bus eliminates the Uber coordination problem. Book in advance. Factor in the cost when you plan — see the [charter bus guide](/guides/nola-group-charter-bus-guide/) for the cost-per-person math against splitting into rideshares.
 
 **Pedestrian routes:** Frenchmen Street to the French Quarter is a 10-15 minute walk along Esplanade. Doable for groups. Bywater to Frenchmen is similar. Anything involving the Garden District, Uptown, or CBD requires vehicles.
 
@@ -183,11 +183,9 @@ If you're moving between zones, you need multiple Ubers or a party bus. You cann
 
 This is where large groups hit the wall. Standard bars have no problem with 20 people walking in. The problem is where 20 people sleep, cook breakfast, and debrief the next morning.
 
-**Castleday Retreats** — Three private villas in the Bywater, sleeping up to 30 guests each. You're 15 minutes from Frenchmen Street on foot. Private pools for the recovery day. Full kitchens for the pre-crawl dinner. This is the base camp that makes the crawl work — everyone leaves from the same place, everyone comes home to the same place. The Herald, The Cocodrie, and The Florentine each have the space to handle your whole group without feeling cramped.
+A private villa in the [Bywater](/neighborhoods/bywater/) — properties like Castleday Retreats sleep up to 30 guests across three villas, with private pools for the recovery day — puts you a short walk from Frenchmen Street and the Marigny. A villa in the Lower Garden District — The Syd's villas sleep up to 22 each, one block from the St. Charles Streetcar — trades that walk for easy downtown access without wrestling with Ubers. Either way, a full kitchen for the pre-crawl dinner and the next-morning debrief matters more than most groups plan for. See the [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) for the full breakdown.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which gets you downtown without wrestling with Ubers. Shared heated pool, hot tub, outdoor kitchen — perfect for the next-day debrief. The artist-designed rooms mean your group is already in a good mood before you leave the house.
-
-For a bar crawl trip specifically: if your primary route is Frenchmen Street and the Marigny, Castleday's Bywater location is a short walk home. If you're doing more of a French Quarter / Warehouse District crawl, The Syd's Lower Garden District location keeps you closer to the action.
+For a bar crawl trip specifically: if your primary route is Frenchmen Street and the Marigny, a Bywater base is a short walk home. If you're doing more of a French Quarter / Warehouse District crawl, a Lower Garden District base keeps you closer to the action. The city's other large-format rentals, apartment-style properties, and hotel room blocks all work too — the neighborhood matters more than the specific property.
 
 ---
 
@@ -201,7 +199,8 @@ This is why staying together in a large private rental beats scattered hotel roo
 
 ---
 
-## Book Your Base Camp
+## See Where to Stay
 
-- Castleday Retreats — Bywater villas, walking distance to Frenchmen Street, private pools, up to 30 guests
-- The Syd — Lower Garden District villas, streetcar access, shared pool and hot tub, up to 22 guests
+Where your group sleeps decides how the crawl actually goes — the walk home, the kitchen for the debrief, the pool for the recovery day. For a full breakdown of large-group accommodation options across New Orleans' neighborhoods:
+
+[See where to stay for large groups →](/where-to-stay/)
