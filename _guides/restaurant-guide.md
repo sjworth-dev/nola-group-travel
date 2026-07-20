@@ -4,7 +4,7 @@ description: "Where to eat in New Orleans with large groups. Organized by neighb
 category: "Food & Drink"
 card_title: "Restaurant Guide"
 card_description: "Where to eat with large groups. The restaurants that handle large groups well—and the ones to skip."
-date: 2026-05-22
+date: 2026-07-20
 ---
 
 Feeding a group of 15 in New Orleans is not hard. Feeding a group of 25 at the right restaurant, without a two-hour wait or a prix-fixe trap, requires knowing where to go.
@@ -109,7 +109,7 @@ The Magazine Street corridor has strong options that are more neighborhood-focus
 
 ### Bywater / Marigny
 
-If you're staying at Castleday Retreats in the Bywater, you're in one of the best restaurant neighborhoods in the city for a low-key, high-quality meal.
+Groups staying in the [Bywater](/neighborhoods/bywater/) are already in one of the best restaurant neighborhoods in the city for a low-key, high-quality meal.
 
 | Restaurant | What It Is | Group Notes |
 |------------|------------|-------------|
@@ -169,7 +169,7 @@ No kitchen in New Orleans ever closes early. A few reliable options after midnig
 
 ### The call you need to make
 
-Most New Orleans restaurants don't have a great online system for groups of 15+. Call. Talk to a manager or events coordinator if possible. The questions to ask:
+Most New Orleans restaurants don't have a great online system for groups of 15+. Call. Talk to a manager or events coordinator if possible. This is the same logic as booking the rest of the trip — see the [group booking guide](/guides/group-booking-guide/) for how restaurant reservations fit into your overall timeline. The questions to ask:
 
 1. Can you accommodate a group of [X] at [time]?
 2. Is there a private room or reserved section?
@@ -199,7 +199,7 @@ Most New Orleans restaurants don't have a great online system for groups of 15+.
 
 ## Eating at the House
 
-For groups staying at Castleday Retreats or The Syd, one or two meals at the house often make the whole trip run more smoothly. Not every meal needs to be a restaurant production.
+For groups staying in a villa-style rental with a real kitchen, one or two meals at the house often make the whole trip run more smoothly than a restaurant reservation would. Not every meal needs to be a restaurant production — see the [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) for how to decide between hiring help and cooking it yourselves.
 
 Grocery stores in New Orleans are well-stocked and local grocery culture is strong. For a group cooking at home:
 
@@ -230,11 +230,12 @@ A backyard crawfish boil or a big pot of red beans and rice at the house is ofte
 
 ## For Large Groups: Home Base Matters
 
-Having a good kitchen changes how you eat during a trip. Groups at Castleday Retreats — private villas in the Bywater, up to 30 guests — have full kitchens and outdoor spaces that make at-home meals practical and enjoyable. Groups at The Syd in the Lower Garden District have an outdoor kitchen, plus Magazine Street restaurants within easy walking distance.
+Having a good kitchen changes how you eat during a trip. A private villa with a full kitchen and outdoor space — the kind found across the Bywater and the [Lower Garden District](/neighborhoods/lower-garden-district/) — makes at-home meals practical for a group instead of a logistical headache. Larger-format home rentals and apartment-style properties elsewhere in the city offer the same advantage at different price points and group sizes. See the [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) for how the two core group neighborhoods stack up, including proximity to the restaurants in this guide.
 
-Both properties put you close to neighborhoods with genuinely excellent food. You're not fighting tourist-trap menus. You're a short walk or Uber from some of the best food in the country.
+Whichever neighborhood you land in, you're a short walk or rideshare from some of the best food in the country. You're not fighting tourist-trap menus just because your group is big.
 
-## Book Your Stay
+## See Where to Stay
 
-- **Castleday Retreats** — Bywater, up to 30 per villa. Full kitchen, private pool, walking distance to Bacchanal and Frenchmen Street.
-- **The Syd** — Lower Garden District, up to 22 per villa. Outdoor kitchen, streetcar access, Magazine Street restaurants nearby.
+Choosing where your group sleeps also decides which restaurant neighborhoods are a five-minute walk instead of a twenty-minute Uber. For a full breakdown of large-group accommodation options across New Orleans' neighborhoods:
+
+[See where to stay for large groups →](/where-to-stay/)
