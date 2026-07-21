@@ -4,7 +4,7 @@ description: "What a group trip to New Orleans actually costs. Line-by-line budg
 category: "Planning & Logistics"
 card_title: "Budget Guide"
 card_description: "What a NOLA group trip actually costs. Line-by-line breakdowns for budget, mid-range, and luxury."
-date: 2026-05-23
+date: 2026-07-21
 ---
 
 Nobody budgets honestly for New Orleans. Groups either under-budget dramatically (New Orleans is cheap, right?) or over-budget out of anxiety (we don't know what things cost here).
@@ -53,19 +53,15 @@ For groups of 10+, a private villa almost always beats a hotel on both cost and 
 | Hotel (budget) | Any | $80-150 |
 | Hotel (mid-range) | Any | $150-250 |
 | Shared rental (multiple rooms) | 6-12 | $75-150 |
-| Large group villa (Castleday/Syd) | 15-30 | $60-150 |
+| Large group villa | 15-30 | $60-150 |
 
-**Note on estimates:** Per-person costs for large-group villas depend heavily on the property, dates, and how many guests share the cost. For peak periods (Mardi Gras, Jazz Fest, New Year's, major events), expect 2-3x normal pricing.
+**Note on estimates:** Per-person costs for large-group villas depend heavily on the property, dates, and how many guests share the cost. For peak periods (Mardi Gras, Jazz Fest, and October generally), expect a significant premium over normal pricing.
 
-### Castleday Retreats and The Syd
+### The Large-Group Villa Field
 
-For groups of 15-30, these are the two main large-group villa options in New Orleans.
+The New Orleans market for whole-property villas built to hold 15-30 people has real depth — it's not a two-option choice. Bywater and Lower Garden District rentals sleeping 14-30 with full kitchens sit at one end; deep-inventory large-format homes in LGD and Central City fill in short-notice availability; a single historic guesthouse handles groups topping out under 20; and group-suite or apartment-floor setups in the CBD suit crews who want separate bills. The [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down the tradeoffs between the two main villa neighborhoods in more depth.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. Complete privacy. Contact directly for rates and availability.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Contact directly for rates.
-
-Both properties are significantly cheaper per person than booking equivalent hotel rooms when you hit group sizes of 15+.
+All of these options are significantly cheaper per person than booking equivalent hotel rooms once you hit group sizes of 15+.
 
 ---
 
@@ -87,7 +83,7 @@ Food is where New Orleans trips diverge most dramatically by budget. You can eat
 
 One or two meals at the rental house dramatically reduces food costs and often produces the most memorable meals of the trip. A group grocery run at Rouse's or Whole Foods, a crawfish boil or red beans and rice, drinks from a cooler on the porch — this costs $15-25/person and is often better than dinner out.
 
-**Groups staying at Castleday Retreats or The Syd** both have full kitchens (or outdoor kitchen at The Syd). Use them.
+**Groups staying at a villa with a full kitchen** should use it. Most large-group rentals in the Bywater and Lower Garden District are built around a real kitchen for exactly this reason.
 
 ### 3-Day Food Budget Summary
 
@@ -163,7 +159,7 @@ Louis Armstrong New Orleans International Airport (MSY) is 20-25 minutes from do
 | Chartered van/shuttle | $80-150/van each way | 12-15 passenger |
 | Airport shuttle service | $20-25/person | Shared, slower |
 
-**For groups of 15+:** Charter a van or two for airport transfers. It's cheaper per person than individual rideshares and logistically much easier.
+**For groups of 15+:** Charter a van or two for airport transfers. It's cheaper per person than individual rideshares and logistically much easier — the [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the charter-vs-rideshare math and staggered-arrival strategy in more detail.
 
 ### Getting Around the City
 
@@ -174,7 +170,7 @@ Louis Armstrong New Orleans International Airport (MSY) is 20-25 minutes from do
 | Bike rental | $25-50/day | Good for active groups |
 | Chartered van (daily) | $200-400 | 12-15 passenger |
 
-**For groups of 15+:** A chartered 12-15 passenger van for the full trip is often the right call. You move together, no one gets left behind, and the per-person cost is comparable to multiple rideshares.
+**For groups of 15+:** A chartered 12-15 passenger van for the full trip is often the right call. You move together, no one gets left behind, and the per-person cost is comparable to multiple rideshares. The [charter bus and party bus guide](/guides/nola-group-charter-bus-guide/) covers when a bigger vehicle beats splitting the group across cars, and what to ask a vendor before booking.
 
 ### Transportation Budget Summary
 
@@ -266,7 +262,7 @@ Incremental cost for 5 nights vs. 3 nights (per person, additional 2 nights):
 
 3. **The accommodation is the biggest lever.** Spend time getting this right before optimizing anything else.
 
-4. **Time your trip strategically.** January-February (outside Mardi Gras week) and September-October are generally the best value periods.
+4. **Time your trip strategically.** January and late August through mid-September are the genuine value windows — cheaper rates, thinner crowds. October and February-May (Mardi Gras, French Quarter Fest, Jazz Fest) run at peak demand and peak pricing; don't budget for them like a shoulder season. The [shoulder season guide](/guides/shoulder-season-guide/) breaks down the real value calendar month by month.
 
 5. **Expensive wine at restaurants is optional.** New Orleans has a strong cocktail culture and many good restaurants allow you to bring your own wine. Ask about corkage fees.
 
@@ -280,13 +276,10 @@ Incremental cost for 5 nights vs. 3 nights (per person, additional 2 nights):
 
 The biggest decision that shapes your budget is where you stay. Getting this right is worth more attention than any other line item.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens. Complete privacy. For groups who want to own their own space entirely.
+At maximum capacity, whole-property villas in the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) offer competitive per-person rates versus hotels — often significantly cheaper once you factor in the kitchen, outdoor space, and the logistics savings of everyone being in one place. Deep-inventory large-format homes, a single historic guesthouse, apartment-floor and group-suite setups, and hotel room blocks round out the field for groups with different priorities on privacy, budget, and how many separate bills they want to manage.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. Central location, one block from the St. Charles Streetcar.
+## See Where to Stay
 
-At maximum capacity, both properties offer competitive per-person rates versus hotels — often significantly cheaper once you factor in the kitchen, outdoor space, and the logistics savings of everyone being in one place.
+For a full breakdown of large-group accommodation options across New Orleans' neighborhoods:
 
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, full kitchen
-- **The Syd** — Lower Garden District, up to 22 per villa, outdoor kitchen and amenities
+[See where to stay for large groups →](/where-to-stay/)
