@@ -4,7 +4,7 @@ description: "The complete logistics guide for bringing a large group to New Orl
 category: "Festivals & Events"
 card_title: "Mardi Gras"
 card_description: "The biggest party in America. Here's how to do it right with large groups."
-date: 2026-05-22
+date: 2026-07-21
 ---
 
 Mardi Gras is the biggest group travel event in America. Every year, hundreds of thousands of people descend on New Orleans the week before Fat Tuesday, most of them underprepared. Hotels are sold out months in advance. Uber can't cross parade routes while they're running. Streets close without warning. The city operates on a completely different set of rules for two weeks.
@@ -126,25 +126,27 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 **For the largest selection, book 6+ months out.** Mardi Gras is one of the highest-demand weekends of the year for large-group rentals in New Orleans. Waiting until a month or two out means choosing from whatever's left, usually at a premium.
 
-### For Large Groups
+### The Field
 
-Hotel rooms don't work for large groups — you lose the ability to gather, cook meals together, and have a central base. During Mardi Gras, that base matters more than on a normal trip. You'll need it as a meeting point, a recovery room, and a staging area every single day.
+Hotel rooms don't work well for large groups during Mardi Gras — you lose the ability to gather, cook meals together, and have a central base. That base matters more than on a normal trip: you'll need it as a meeting point, a recovery room, and a staging area every single day. The right property depends on what your group is optimizing for:
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, art-filled interiors, complete privacy. The Bywater is east of downtown — it's walkable to the Marigny and Frenchmen Street, and a reasonable Uber to the St. Charles parade route when streets are open. This is the best option for groups who want privacy and want to cook meals at the house (critical during Mardi Gras when restaurants are overwhelmed).
+- **Private villa groups** (Bywater, Lower Garden District): Multiple operators rent whole-property villas sleeping 14–30, each with a full kitchen — critical when restaurants along the parade routes get overwhelmed. Bywater puts you walking distance from the Marigny and Frenchmen Street; Lower Garden District villas tend to sit closer to the St. Charles Streetcar, which puts you on the parade route in minutes when the streets are open.
+- **Deep-inventory large-format homes** (LGD/Central City): Useful if you're booking later than the 6-month window — this is where short-notice availability tends to survive longest, even during Mardi Gras season.
+- **A single historic guesthouse** (Bywater, sleeps up to 18): Works if your group tops out under 20 and wants one house rather than a villa built for 25-30.
+- **Group suites or a floor of apartments** (CBD/Warehouse District, Central City): Separate bills, walkable to the Quarter — a fit for groups who want rooms, not a shared house.
+- **Room blocks at full-service hotels**: The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, and Hotel Saint Vincent all handle group blocks for mixed-budget crews who want their own key and their own bill.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — which puts you on the parade route in minutes. The LGD location is ideal if your group wants to be close to the main uptown parades without fighting for position on the route itself.
-
-Both properties book out for Mardi Gras season well in advance. Don't wait.
+The market books out for Mardi Gras season well in advance across every one of these categories. Don't wait.
 
 ### Location Strategy
 
-| Priority | Best Option |
+| Priority | Best Neighborhood |
 |----------|------------|
-| St. Charles parade access | Lower Garden District → The Syd |
-| Privacy + full villa for 30 | Bywater → Castleday Retreats |
+| St. Charles parade access | Lower Garden District — one block from the streetcar |
+| Privacy + a full villa for 25-30 | Bywater |
 | French Quarter access | Either works (both 10-20 min) |
-| Frenchmen Street walking | Bywater → Castleday Retreats |
-| Cooking meals at the house | Both have full kitchens |
+| Frenchmen Street walking | Bywater |
+| Cooking meals at the house | Both neighborhoods have full-kitchen villa options |
 
 Either neighborhood works for a Mardi Gras base — the deeper tradeoffs (privacy vs. shared amenities, walkability, price) are in the [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/).
 
@@ -192,11 +194,8 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 ---
 
-## Book Your Mardi Gras Stay
+## See Where to Stay
 
-For large groups — book early:
+For a full breakdown of large-group accommodation options across New Orleans' neighborhoods:
 
-- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each. Private pool, full kitchen, complete privacy. Walking distance to the Marigny music scene.
-- **The Syd** — Villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which puts you on the parade route in minutes. Heated pool, hot tub, outdoor kitchen.
-
-Both book out for Mardi Gras season. Check availability now.
+[See where to stay for large groups →](/where-to-stay/)
