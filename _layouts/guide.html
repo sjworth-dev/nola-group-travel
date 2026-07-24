@@ -2,30 +2,38 @@
 layout: default
 ---
 
-<article class="guide">
-  <div class="container crumbs">
-    {% if page.collection == "neighborhoods" %}
-    <a href="{{ '/neighborhoods/' | relative_url }}">Neighborhoods</a>
-    {% else %}
-    <a href="{{ '/guides/' | relative_url }}">Guides</a>{% if page.category %}{% assign cat_slug = page.category | slugify %} / <a href="{{ '/guides/' | relative_url }}#{{ cat_slug }}">{{ page.category }}</a>{% endif %}
-    {% endif %}
-  </div>
+{% if page.collection == "neighborhoods" %}{% assign cat_slug = "neighborhoods" %}
+{% elsif page.category %}{% assign cat_slug = page.category | slugify %}
+{% else %}{% assign cat_slug = "culture-history" %}{% endif %}
 
-  <header class="guide-header">
-    <div class="container">
-      <span class="eyebrow">{{ page.category | default: "Neighborhood Guide" }}</span>
-      <h1>{{ page.title }}</h1>
-      {% if page.description %}<p class="guide-description">{{ page.description }}</p>{% endif %}
-      <div class="guide-meta">
-        <span class="updated">Updated {{ page.date | date: "%B %-d, %Y" }}</span>
-        <span class="dot"></span>
-        {% assign words = content | strip_html | number_of_words %}
-        <span>{{ words | divided_by: 220 | at_least: 2 }} min read</span>
-        <span class="dot"></span>
-        <span>Written in New Orleans</span>
-      </div>
+<div class="progress" aria-hidden="true"></div>
+
+<article class="guide">
+  <div class="guide-plate" data-cat="{{ cat_slug }}">
+    <div class="container crumbs">
+      {% if page.collection == "neighborhoods" %}
+      <a href="{{ '/neighborhoods/' | relative_url }}">Neighborhoods</a>
+      {% else %}
+      <a href="{{ '/guides/' | relative_url }}">Guides</a>{% if page.category %} <span aria-hidden="true">/</span> <a href="{{ '/guides/' | relative_url }}#{{ cat_slug }}">{{ page.category }}</a>{% endif %}
+      {% endif %}
     </div>
-  </header>
+
+    <header class="guide-header">
+      <div class="container">
+        <span class="eyebrow">{{ page.category | default: "Neighborhood Guide" }}</span>
+        <h1>{{ page.title }}</h1>
+        {% if page.description %}<p class="guide-description">{{ page.description }}</p>{% endif %}
+        <div class="guide-meta">
+          <span class="updated">Updated {{ page.date | date: "%B %-d, %Y" }}</span>
+          <span class="dot"></span>
+          {% assign words = content | strip_html | number_of_words %}
+          <span>{{ words | divided_by: 220 | at_least: 2 }} min read</span>
+          <span class="dot"></span>
+          <span>Written in New Orleans</span>
+        </div>
+      </div>
+    </header>
+  </div>
 
   <div class="article-body">
     <aside class="guide-toc">
@@ -64,7 +72,7 @@ layout: default
       <div class="cta-box">
         <h3>First decision: where does everyone sleep?</h3>
         <p>Finding a New Orleans rental that legally sleeps more than ten is the hardest part of any big-group trip. Our guide breaks down the handful of big-group villas, the hotels that actually work, and how to book before your dates disappear.</p>
-        <a href="{{ '/where-to-stay/' | relative_url }}" class="btn btn-primary">Where everyone actually sleeps</a>
+        <a href="{{ '/where-to-stay/' | relative_url }}" class="btn">Where everyone actually sleeps</a>
       </div>
     </div>
   </aside>

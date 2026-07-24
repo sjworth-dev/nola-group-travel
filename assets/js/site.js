@@ -2,9 +2,36 @@
 (function () {
   'use strict';
 
+  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ---------------------------------------------------------------- theme */
+  var themeBtn = document.querySelector('.theme-toggle');
+  if (themeBtn) {
+    themeBtn.addEventListener('click', function () {
+      var root = document.documentElement;
+      var current = root.getAttribute('data-theme');
+      if (!current) {
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        current = prefersDark ? 'dark' : 'light';
+      }
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('ngt-theme', next); } catch (e) {}
+    });
+  }
+
+  /* --------------------------------------------------------------- header */
+  var header = document.querySelector('.site-header');
+  if (header) {
+    var onScrollHeader = function () {
+      header.classList.toggle('is-stuck', window.scrollY > 12);
+    };
+    window.addEventListener('scroll', onScrollHeader, { passive: true });
+    onScrollHeader();
+  }
+
   /* Mobile navigation toggle */
   var toggle = document.querySelector('.mobile-menu-toggle');
-  var header = document.querySelector('.site-header');
   if (toggle && header) {
     toggle.addEventListener('click', function () {
       header.classList.toggle('nav-open');
@@ -15,13 +42,31 @@
         btn.parentElement.classList.toggle('open');
       });
     });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') header.classList.remove('nav-open');
+    });
   }
 
-  /* Guide table of contents — built from h2s in the article */
+  /* ------------------------------------------------------- reading progress */
+  var progress = document.querySelector('.progress');
+  var articleEl = document.querySelector('.guide-content');
+  if (progress && articleEl) {
+    var updateProgress = function () {
+      var rect = articleEl.getBoundingClientRect();
+      var start = window.scrollY + rect.top;
+      var span = rect.height - window.innerHeight * 0.6;
+      var pct = span > 0 ? (window.scrollY - start + window.innerHeight * 0.4) / span : 1;
+      progress.style.transform = 'scaleX(' + Math.min(1, Math.max(0, pct)) + ')';
+    };
+    window.addEventListener('scroll', updateProgress, { passive: true });
+    window.addEventListener('resize', updateProgress);
+    updateProgress();
+  }
+
+  /* ------------------------------------------------------------------ TOC */
   var tocBox = document.querySelector('.guide-toc');
-  var article = document.querySelector('.guide-content');
-  if (tocBox && article) {
-    var heads = Array.prototype.slice.call(article.querySelectorAll('h2'));
+  if (tocBox && articleEl) {
+    var heads = Array.prototype.slice.call(articleEl.querySelectorAll('h2'));
     if (heads.length < 2) {
       tocBox.classList.add('empty');
     } else {
@@ -37,9 +82,11 @@
       });
       var links = ol.querySelectorAll('a');
       var setCurrent = function () {
-        var y = window.scrollY + 120;
+        var y = window.scrollY + 140;
         var current = 0;
-        heads.forEach(function (h, i) { if (h.offsetTop <= y) current = i; });
+        heads.forEach(function (h, i) {
+          if (h.getBoundingClientRect().top + window.scrollY <= y) current = i;
+        });
         links.forEach(function (a, i) { a.classList.toggle('current', i === current); });
       };
       window.addEventListener('scroll', setCurrent, { passive: true });
@@ -48,8 +95,9 @@
   }
 
   /* Wrap wide guide tables so they scroll instead of breaking layout */
-  if (article) {
-    article.querySelectorAll('table').forEach(function (t) {
+  if (articleEl) {
+    articleEl.querySelectorAll('table').forEach(function (t) {
+      if (t.parentNode && t.parentNode.classList.contains('table-wrap')) return;
       var wrap = document.createElement('div');
       wrap.className = 'table-wrap';
       t.parentNode.insertBefore(wrap, t);
@@ -57,7 +105,49 @@
     });
   }
 
-  /* Library search — filters .toc-item cards by text */
+  /* --------------------------------------------------------- scroll reveal */
+  var revealables = Array.prototype.slice.call(document.querySelectorAll('[data-reveal]'));
+  if (revealables.length) {
+    if (reduceMotion || !('IntersectionObserver' in window)) {
+      revealables.forEach(function (el) { el.classList.add('is-in'); });
+    } else {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-in');
+            io.unobserve(entry.target);
+          }
+        });
+      }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+
+      var revealInView = function () {
+        var stillHidden = false;
+        revealables.forEach(function (el) {
+          if (el.classList.contains('is-in')) return;
+          if (el.getBoundingClientRect().top < window.innerHeight * 0.92) el.classList.add('is-in');
+          else stillHidden = true;
+        });
+        return stillHidden;
+      };
+
+      /* anything already on screen at load shows immediately — no flash */
+      revealInView();
+      revealables.forEach(function (el) { if (!el.classList.contains('is-in')) io.observe(el); });
+
+      /* Belt and braces: observers do not fire in a hidden/prerendered tab, and
+         nothing on this site may end up permanently invisible. Re-check on
+         scroll, and reveal everything unconditionally after a few seconds. */
+      var onScrollReveal = function () {
+        if (!revealInView()) window.removeEventListener('scroll', onScrollReveal);
+      };
+      window.addEventListener('scroll', onScrollReveal, { passive: true });
+      setTimeout(function () {
+        revealables.forEach(function (el) { el.classList.add('is-in'); });
+      }, 3000);
+    }
+  }
+
+  /* --------------------------------------------------------- library search */
   var search = document.querySelector('[data-guide-search]');
   if (search) {
     var items = Array.prototype.slice.call(document.querySelectorAll('.toc-item'));

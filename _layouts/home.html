@@ -5,25 +5,25 @@ layout: default
 {% assign recent_guides = site.guides | sort: "date" | reverse %}
 {% assign latest = recent_guides | first %}
 
-<section class="hero">
-  <div class="container hero-grid">
+<section class="cover">
+  <div class="container cover-grid">
     <div>
       <p class="kicker">An independent guide. Opinionated on purpose.</p>
       <h1>New Orleans, <span class="ital">with the whole crew.</span></h1>
       <p class="deck">New Orleans is the best city in America for a big group trip — and the worst city to plan one for. This guide handles the second part: where twenty people can actually sleep under one roof, how to move them without a spreadsheet meltdown, and what deserves a spot on the itinerary.</p>
-      <div class="issue-line">
-        <span>Updated {{ latest.date | date: "%B %-d, %Y" }}</span><span class="dot"></span><span>Written in New Orleans</span><span class="dot"></span><span>Zero sponsored picks</span>
-      </div>
       <div class="actions">
         <a class="btn btn-primary" href="{{ '/where-to-stay/' | relative_url }}">Find a place for your group</a>
         <a class="btn btn-ghost" href="{{ '/guides/' | relative_url }}">Browse the guides</a>
       </div>
+      <div class="issue-line">
+        <span>Updated {{ latest.date | date: "%B %-d, %Y" }}</span><span class="dot"></span><span>Written in New Orleans</span><span class="dot"></span><span>Zero sponsored picks</span>
+      </div>
     </div>
-    <figure class="hero-photo">
+    <figure class="cover-photo">
       <img src="{{ '/assets/images/french-quarter-balcony.jpg' | relative_url }}"
-           srcset="{{ '/assets/images/french-quarter-balcony-800.jpg' | relative_url }} 800w, {{ '/assets/images/french-quarter-balcony.jpg' | relative_url }} 1200w"
-           sizes="(max-width: 960px) 90vw, 380px"
-           alt="Ferns and flowers spilling from a cast-iron French Quarter balcony" width="1200" height="1500" fetchpriority="high">
+           srcset="{{ '/assets/images/french-quarter-balcony-800.jpg' | relative_url }} 640w, {{ '/assets/images/french-quarter-balcony.jpg' | relative_url }} 960w"
+           sizes="(max-width: 960px) 90vw, 400px"
+           alt="Ferns and flowers spilling from a cast-iron French Quarter balcony" width="960" height="1200" fetchpriority="high">
       <span class="photo-credit">French Quarter · Photo: mrpolyonymous / CC BY 2.0</span>
     </figure>
   </div>
@@ -31,21 +31,22 @@ layout: default
 
 <div class="coverlines">
   <div class="container">
-    <a href="{{ '/guides/mardi-gras-group-guide/' | relative_url }}"><strong>Mardi Gras</strong> — dates &amp; strategy</a>
-    <a href="{{ '/guides/jazz-fest-group-guide/' | relative_url }}"><strong>Jazz Fest</strong> — the group playbook</a>
-    <a href="{{ '/guides/restaurant-guide/' | relative_url }}"><strong>Restaurants</strong> that seat 20+</a>
-    <a href="{{ '/guides/transportation-guide/' | relative_url }}"><strong>Getting around</strong> without 6 Ubers</a>
-    <a href="{{ '/where-to-stay/' | relative_url }}"><strong>Villas</strong> that sleep 30</a>
+    <a href="{{ '/guides/mardi-gras-group-guide/' | relative_url }}"><span><strong>Mardi Gras</strong> — dates &amp; strategy</span></a>
+    <a href="{{ '/guides/jazz-fest-group-guide/' | relative_url }}"><span><strong>Jazz Fest</strong> — the group playbook</span></a>
+    <a href="{{ '/guides/restaurant-guide/' | relative_url }}"><span><strong>Restaurants</strong> that seat 20+</span></a>
+    <a href="{{ '/guides/transportation-guide/' | relative_url }}"><span><strong>Getting around</strong> without 6 Ubers</span></a>
+    <a href="{{ '/where-to-stay/' | relative_url }}"><span><strong>Villas</strong> that sleep 30</span></a>
   </div>
 </div>
 
 <section class="block">
   <div class="container">
-    <div class="section-head">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">Start here</span>
       <h2>Plan by occasion</h2>
       <a class="more" href="{{ '/guides/' | relative_url }}">Every occasion →</a>
     </div>
-    <div class="departments">
+    <div class="departments" data-reveal>
       <a class="dept" href="{{ '/guides/bachelorette-party/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Bachelorette Parties</h3><p>Pool days, French Quarter nights, and everything in between. The complete playbook.</p><span class="arrow">→</span></a>
       <a class="dept" href="{{ '/guides/bachelor-party/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Bachelor Parties</h3><p>Golf, gambling, live music, and legendary nights. Send him off right.</p><span class="arrow">→</span></a>
       <a class="dept" href="{{ '/guides/wedding-party/' | relative_url }}"><span class="eyebrow">Celebrations</span><h3>Wedding Parties</h3><p>Bridesmaids, groomsmen, out-of-town guests. One place for the whole crew.</p><span class="arrow">→</span></a>
@@ -60,16 +61,18 @@ layout: default
 
 <section class="block fresh">
   <div class="container">
-    <div class="section-head">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">Off the press</span>
       <h2>New this week</h2>
       <a class="more" href="{{ '/guides/#recently-updated' | relative_url }}">Everything recent →</a>
     </div>
-    <div class="fresh-grid">
+    <div class="fresh-grid has-lead" data-reveal>
       {% for g in recent_guides limit: 3 %}
       <a class="fresh-card" href="{{ g.url | relative_url }}">
         <span class="chipdate">Updated {{ g.date | date: "%b %-d" }}</span>
         <h3>{{ g.card_title | default: g.title }}</h3>
-        <p>{{ g.card_description | default: g.description | truncate: 140 }}</p>
+        <p>{{ g.card_description | default: g.description | truncate: 150 }}</p>
+        <span class="card-arrow">→</span>
       </a>
       {% endfor %}
     </div>
@@ -77,48 +80,56 @@ layout: default
 </section>
 
 <section class="block">
-  <div class="container letter">
+  <div class="container letter" data-reveal>
     <span class="eyebrow">The problem with every other guide</span>
+    <div class="rule-ornament"><span>⚜</span></div>
     {{ content }}
-    <p class="sig">— Written in New Orleans, updated weekly</p>
+    <p class="sig">Written in New Orleans, updated weekly</p>
   </div>
 </section>
 
 <section class="block fresh">
   <div class="container">
-    <div class="section-head">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">Calendar</span>
       <h2>Sleeper-pick weekends</h2>
       <a class="more" href="{{ '/events/' | relative_url }}">All festival dates →</a>
     </div>
-    <p class="section-subtitle" style="margin-bottom:28px">Fat Tuesday and Jazz Fest earn every bit of the hype. These weekends aren't better — they're different: the same city with more elbow room, and some of the best value on the calendar.</p>
-    <a class="hood-row" href="{{ '/guides/nola-group-krewe-du-vieux-guide/' | relative_url }}"><h3>Krewe du Vieux</h3><p>Carnival's satirical, definitely-adults opening statement — and the only parade that still marches through the Quarter. Mardi Gras energy at pre–Mardi Gras prices.</p><span class="chipdate">Late January</span><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/guides/nola-group-carnival-season-parade-calendar/' | relative_url }}"><h3>The first big parade weekend</h3><p>Full-scale Uptown parades, a fraction of the Fat Tuesday crowds, and villas you can still book. The connoisseur's Mardi Gras.</p><span class="chipdate">Two weekends before Fat Tuesday</span><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/guides/french-quarter-fest/' | relative_url }}"><h3>French Quarter Fest</h3><p>The biggest free festival in the South, and the one locals pick over Jazz Fest. Twenty-plus stages, zero tickets.</p><span class="chipdate">Mid-April</span><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/guides/nola-group-satchmo-summerfest-guide/' | relative_url }}"><h3>Satchmo SummerFest</h3><p>A brass-heavy weekend honoring Louis Armstrong, at the softest villa prices of the year. The August heat is the cover charge.</p><span class="chipdate">Early August</span><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/guides/halloween-guide/' | relative_url }}"><h3>Halloween weekend</h3><p>The least-secret pick on this list: a top-tier costume city with its own parade, Krewe of Boo.</p><span class="chipdate">Late October</span><span class="arrow">→</span></a>
+    <p class="section-subtitle" style="margin-bottom:28px" data-reveal>Fat Tuesday and Jazz Fest earn every bit of the hype. These weekends aren't better — they're different: the same city with more elbow room, and some of the best value on the calendar.</p>
+    <div data-reveal>
+      <a class="hood-row" href="{{ '/guides/nola-group-krewe-du-vieux-guide/' | relative_url }}"><h3>Krewe du Vieux</h3><p>Carnival's satirical, definitely-adults opening statement — and the only parade that still marches through the Quarter. Mardi Gras energy at pre–Mardi Gras prices.</p><span class="chipdate">Late January</span><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/guides/nola-group-carnival-season-parade-calendar/' | relative_url }}"><h3>The first big parade weekend</h3><p>Full-scale Uptown parades, a fraction of the Fat Tuesday crowds, and villas you can still book. The connoisseur's Mardi Gras.</p><span class="chipdate">Two weekends before Fat Tuesday</span><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/guides/french-quarter-fest/' | relative_url }}"><h3>French Quarter Fest</h3><p>The biggest free festival in the South, and the one locals pick over Jazz Fest. Twenty-plus stages, zero tickets.</p><span class="chipdate">Mid-April</span><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/guides/nola-group-satchmo-summerfest-guide/' | relative_url }}"><h3>Satchmo SummerFest</h3><p>A brass-heavy weekend honoring Louis Armstrong, at the softest villa prices of the year. The August heat is the cover charge.</p><span class="chipdate">Early August</span><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/guides/halloween-guide/' | relative_url }}"><h3>Halloween weekend</h3><p>The least-secret pick on this list: a top-tier costume city with its own parade, Krewe of Boo.</p><span class="chipdate">Late October</span><span class="arrow">→</span></a>
+    </div>
   </div>
 </section>
 
 <section class="block">
   <div class="container">
-    <div class="section-head">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">The map</span>
       <h2>Know the neighborhoods</h2>
       <a class="more" href="{{ '/neighborhoods/' | relative_url }}">All neighborhoods →</a>
     </div>
-    <a class="hood-row" href="{{ '/neighborhoods/bywater/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/second-line-brass.jpg' | relative_url }}" alt="Brass band parade under live oaks" loading="lazy" width="900" height="675"><h3>Bywater</h3><p>The most local neighborhood in the city — and home to the best big-group bases in New Orleans.</p><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/neighborhoods/lower-garden-district/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/garden-district-gate.jpg' | relative_url }}" alt="Ironwork gate before a Garden District mansion" loading="lazy" width="900" height="600"><h3>Lower Garden District</h3><p>Walkable, gorgeous, and quieter at night. The sweet spot for mixed-age groups.</p><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/neighborhoods/french-quarter/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/french-quarter-street.jpg' | relative_url }}" alt="French Quarter street with cast-iron balconies" loading="lazy" width="900" height="599"><h3>French Quarter</h3><p>You'll visit every day. Here's why you probably shouldn't sleep here with 20 people.</p><span class="arrow">→</span></a>
-    <a class="hood-row" href="{{ '/neighborhoods/marigny/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/st-charles-streetcar.jpg' | relative_url }}" alt="New Orleans streetcar" loading="lazy" width="900" height="675"><h3>Marigny</h3><p>Frenchmen Street's live music, ten minutes from everywhere your group wants to be.</p><span class="arrow">→</span></a>
+    <div data-reveal>
+      <a class="hood-row" href="{{ '/neighborhoods/bywater/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/second-line-brass.jpg' | relative_url }}" alt="Brass band parade under live oaks" loading="lazy" width="900" height="675"><h3>Bywater</h3><p>The most local neighborhood in the city — and home to the best big-group bases in New Orleans.</p><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/neighborhoods/lower-garden-district/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/garden-district-gate.jpg' | relative_url }}" alt="Ironwork gate before a Garden District mansion" loading="lazy" width="900" height="600"><h3>Lower Garden District</h3><p>Walkable, gorgeous, and quieter at night. The sweet spot for mixed-age groups.</p><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/neighborhoods/french-quarter/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/french-quarter-street.jpg' | relative_url }}" alt="French Quarter street with cast-iron balconies" loading="lazy" width="1600" height="1065"><h3>French Quarter</h3><p>You'll visit every day. Here's why you probably shouldn't sleep here with 20 people.</p><span class="arrow">→</span></a>
+      <a class="hood-row" href="{{ '/neighborhoods/marigny/' | relative_url }}"><img class="hood-thumb" src="{{ '/assets/images/st-charles-streetcar.jpg' | relative_url }}" alt="New Orleans streetcar" loading="lazy" width="900" height="675"><h3>Marigny</h3><p>Frenchmen Street's live music, ten minutes from everywhere your group wants to be.</p><span class="arrow">→</span></a>
+    </div>
   </div>
 </section>
 
 <section class="block" style="border-top:1px solid var(--line)">
   <div class="container">
-    <div class="section-head">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">The big decision</span>
       <h2>Where should a big group actually stay?</h2>
       <a class="more" href="{{ '/where-to-stay/' | relative_url }}">The full comparison →</a>
     </div>
-    <div class="compare-wrap">
+    <div class="compare-wrap" data-reveal>
       <table class="compare">
         <thead>
           <tr><th></th><th>One big villa</th><th>A hotel room block</th><th>Split Airbnbs</th></tr>
@@ -134,8 +145,8 @@ layout: default
         </tbody>
       </table>
     </div>
-    <p class="verdict">Our bias, stated plainly: for a celebration, one roof wins. But hotels genuinely beat a villa on privacy, walkability, and everyone paying their own way — and these six do groups well.</p>
-    <div class="toc-list" style="margin-top:10px">
+    <p class="verdict" data-reveal>Our bias, stated plainly: for a celebration, one roof wins. But hotels genuinely beat a villa on privacy, walkability, and everyone paying their own way — and these six do groups well.</p>
+    <div class="toc-list" style="margin-top:10px" data-reveal>
       <span class="toc-item"><h3>Hotel Peter &amp; Paul — Marigny</h3><p>A converted church and schoolhouse two blocks from Frenchmen. Gorgeous, intimate, no shared kitchen — best for a design-minded dozen.</p></span>
       <span class="toc-item"><h3>The Pontchartrain — Garden District</h3><p>Old-line St. Charles charm and the streetcar handles the driving. The mixed-generations pick.</p></span>
       <span class="toc-item"><h3>Hotel Bennett — Warehouse District</h3><p>The old Ace, new name, same playbook: rooftop pool, music downstairs, and a sales team that actually does room blocks. The easiest hotel logistics in town.</p></span>
@@ -147,7 +158,7 @@ layout: default
 </section>
 
 <section class="band">
-  <div class="container">
+  <div class="container" data-reveal>
     <p class="eyebrow">Where to stay</p>
     <h2>Most rentals cap at 10 guests. Here's where the exceptions are.</h2>
     <p>A small number of New Orleans villas are purpose-built for big groups — pools, courtyards, and enough bedrooms that nobody draws the air mattress. We keep a running guide to finding and booking them.</p>
