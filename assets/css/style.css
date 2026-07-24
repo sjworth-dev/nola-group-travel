@@ -233,7 +233,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 
 .display {
   font-family: var(--display);
-  font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 1;
+  font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 0;
   font-weight: 470;
   letter-spacing: -.022em;
   line-height: 1.03;
@@ -242,7 +242,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .display em, .ital {
   font-style: italic;
   font-weight: 420;
-  font-variation-settings: 'opsz' 144, 'SOFT' 40, 'WONK' 1;
+  font-variation-settings: 'opsz' 144, 'SOFT' 40, 'WONK' 0;
 }
 
 /* an ornamental hairline: brass rule with a lace diamond at its centre */
@@ -362,7 +362,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 }
 .logo .accent, .logo em {
   font-style: italic; font-weight: 420; color: var(--brand-ink);
-  font-variation-settings: 'opsz' 40, 'SOFT' 40, 'WONK' 1;
+  font-variation-settings: 'opsz' 40, 'SOFT' 40, 'WONK' 0;
 }
 .logo .fleur {
   color: var(--brass); font-style: normal; font-weight: 400;
@@ -405,6 +405,14 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   box-shadow: var(--shadow-lg);
   padding: 28px 32px; gap: 36px; min-width: max-content; z-index: 60;
   border-radius: 2px;
+}
+/* Invisible bridge over the gap between trigger and menu. Without it the
+   pointer leaves .nav-dropdown on the way down and the menu snaps shut
+   before you can reach it. Height must cover the calc() offset above. */
+.nav-dropdown-menu::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; top: -14px; height: 14px;
 }
 .nav-dropdown:hover .nav-dropdown-menu,
 .nav-dropdown:focus-within .nav-dropdown-menu,
@@ -497,7 +505,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 
 .cover h1 {
   font-family: var(--display);
-  font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 1;
+  font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 0;
   font-weight: 440;
   font-size: clamp(46px, 7vw, 92px);
   line-height: .99;
@@ -507,7 +515,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 }
 .cover h1 .ital {
   font-style: italic; font-weight: 400;
-  font-variation-settings: 'opsz' 144, 'SOFT' 60, 'WONK' 1;
+  font-variation-settings: 'opsz' 144, 'SOFT' 60, 'WONK' 0;
   color: var(--brass-bright);
 }
 
@@ -555,7 +563,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 }
 .hero-simple h1, .lib-head h1 {
   font-family: var(--display);
-  font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 1;
+  font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 0;
   font-weight: 460;
   font-size: clamp(40px, 5.8vw, 70px);
   letter-spacing: -.026em; line-height: 1.02;
@@ -569,7 +577,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .hero { padding: 76px 0 60px; border-bottom: 1px solid var(--line); }
 .hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 64px; align-items: center; }
 .hero h1 {
-  font-family: var(--display); font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 1;
+  font-family: var(--display); font-variation-settings: 'opsz' 144, 'SOFT' 20, 'WONK' 0;
   font-weight: 460; font-size: clamp(42px, 6.6vw, 82px); line-height: 1.02;
   letter-spacing: -.024em; max-width: 14ch; text-wrap: balance;
 }
@@ -622,7 +630,7 @@ section.block.tight { padding: 56px 0; }
 }
 .section-head h2 {
   font-family: var(--display);
-  font-variation-settings: 'opsz' 100, 'SOFT' 20, 'WONK' 1;
+  font-variation-settings: 'opsz' 100, 'SOFT' 20, 'WONK' 0;
   font-weight: 500;
   font-size: clamp(28px, 3.4vw, 40px);
   letter-spacing: -.022em; text-wrap: balance; line-height: 1.1;
@@ -745,7 +753,7 @@ section.block.tight { padding: 56px 0; }
 }
 .letter .sig {
   font-family: var(--display); font-style: italic; font-size: 18px; color: var(--fg-muted);
-  font-variation-settings: 'opsz' 40, 'SOFT' 60, 'WONK' 1;
+  font-variation-settings: 'opsz' 40, 'SOFT' 60, 'WONK' 0;
   text-align: center; margin-top: 34px;
 }
 
@@ -817,7 +825,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
 
 .verdict {
   font-family: var(--display); font-style: italic; font-weight: 420;
-  font-variation-settings: 'opsz' 60, 'SOFT' 60, 'WONK' 1;
+  font-variation-settings: 'opsz' 60, 'SOFT' 60, 'WONK' 0;
   font-size: 21px; line-height: 1.5; color: var(--fg-soft);
   margin: 32px 0 8px; max-width: 62ch;
   padding-left: 22px; border-left: 2px solid var(--brass);
@@ -867,7 +875,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
   opacity: .08; z-index: -1;
 }
 .band h2, .cta-section h2 {
-  font-family: var(--display); font-variation-settings: 'opsz' 120, 'SOFT' 20, 'WONK' 1;
+  font-family: var(--display); font-variation-settings: 'opsz' 120, 'SOFT' 20, 'WONK' 0;
   font-weight: 450; font-size: clamp(30px, 4.2vw, 48px); margin-bottom: 18px;
   max-width: 22ch; letter-spacing: -.026em; text-wrap: balance; line-height: 1.06;
 }
@@ -936,7 +944,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
 .guide-header .eyebrow { color: var(--plate-tint); }
 .guide-header h1 {
   font-family: var(--display);
-  font-variation-settings: 'opsz' 132, 'SOFT' 20, 'WONK' 1;
+  font-variation-settings: 'opsz' 132, 'SOFT' 20, 'WONK' 0;
   font-weight: 450;
   font-size: clamp(35px, 5vw, 60px);
   line-height: 1.03; letter-spacing: -.028em;
@@ -944,7 +952,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
 }
 .guide-description {
   font-family: var(--display); font-style: italic; font-weight: 400;
-  font-variation-settings: 'opsz' 60, 'SOFT' 60, 'WONK' 1;
+  font-variation-settings: 'opsz' 60, 'SOFT' 60, 'WONK' 0;
   font-size: 22px; line-height: 1.48;
   color: rgba(247, 245, 236, .88);
   max-width: 50ch; margin-bottom: 28px;
@@ -1035,7 +1043,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
 }
 .guide-content blockquote p {
   font-family: var(--display); font-style: italic; font-weight: 420;
-  font-variation-settings: 'opsz' 72, 'SOFT' 60, 'WONK' 1;
+  font-variation-settings: 'opsz' 72, 'SOFT' 60, 'WONK' 0;
   font-size: 24px; line-height: 1.42; color: var(--fg);
 }
 .guide-content blockquote p:last-child { margin-bottom: 0; }
@@ -1124,7 +1132,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
   padding: 72px 0;
 }
 .related-guides h2 {
-  font-family: var(--display); font-variation-settings: 'opsz' 100, 'SOFT' 20, 'WONK' 1;
+  font-family: var(--display); font-variation-settings: 'opsz' 100, 'SOFT' 20, 'WONK' 0;
   font-weight: 500; font-size: 32px; letter-spacing: -.022em; margin-bottom: 34px;
 }
 .section-subtitle { color: var(--fg-muted); font-size: 16px; }
@@ -1147,7 +1155,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
   opacity: .09; z-index: -1;
 }
 .cta-box h3 {
-  font-family: var(--display); font-variation-settings: 'opsz' 90, 'SOFT' 20, 'WONK' 1;
+  font-family: var(--display); font-variation-settings: 'opsz' 90, 'SOFT' 20, 'WONK' 0;
   font-weight: 480; font-size: 29px; letter-spacing: -.022em; margin-bottom: 14px; line-height: 1.12;
 }
 .cta-box p { opacity: .88; margin-bottom: 26px; font-size: 16.5px; }
@@ -1207,7 +1215,7 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
 .toc-section { padding: 58px 0 10px; }
 .toc-section .cat-title { display: flex; align-items: baseline; gap: 16px; margin-bottom: 4px; }
 .toc-section h2 {
-  font-family: var(--display); font-variation-settings: 'opsz' 90, 'SOFT' 20, 'WONK' 1;
+  font-family: var(--display); font-variation-settings: 'opsz' 90, 'SOFT' 20, 'WONK' 0;
   font-weight: 500; font-size: 32px; letter-spacing: -.022em; scroll-margin-top: 118px;
 }
 .toc-section .count {
@@ -1310,6 +1318,8 @@ table.compare { width: 100%; border-collapse: collapse; font-size: 15.5px; min-w
     position: static; transform: none; border: none; box-shadow: none;
     padding: 8px 0 16px 14px; flex-direction: column; gap: 20px; animation: none;
   }
+  /* no hover on touch — and the bridge would sit over the trigger and eat taps */
+  .nav-dropdown-menu::before { content: none; }
   .nav-dropdown:hover .nav-dropdown-menu { display: none; }
   .nav-dropdown.open .nav-dropdown-menu { display: flex; }
   .mobile-menu-toggle { display: block; margin-left: 4px; }
