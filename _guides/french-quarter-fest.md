@@ -9,7 +9,7 @@ date: 2026-05-24
 
 French Quarter Festival runs every April and it's one of the best-kept secrets in American music festivals — though at this point, the secret is largely out. Free to attend, spread across multiple stages throughout the French Quarter, and featuring an almost entirely local lineup, it's the festival that New Orleans residents actually love.
 
-Jazz Fest gets the global attention and the headliners. French Quarter Fest is where you go to see what New Orleans music actually sounds like on its best day, without paying a $150 ticket to do it.
+[Jazz Fest](/guides/jazz-fest-group-guide/) gets the global attention and the headliners. French Quarter Fest is where you go to see what New Orleans music actually sounds like on its best day, without paying a $150 ticket to do it. Both sit inside the city's spring peak stretch — see the [festival season calendar](/guides/festival-season-calendar/) for how the two line up against Mardi Gras and the rest of the season.
 
 For large groups, it's a genuinely great option: no single venue to coordinate around, free admission means no ticket logistics, and the food and bar situation in the French Quarter means your group is never more than 50 feet from something excellent.
 
@@ -58,7 +58,7 @@ This comparison matters because many people assume French Quarter Fest is a smal
 | Logistics for groups | Easier (no entrance, no tickets) | More complex (tickets, transportation) |
 | Best for | Local music discovery, easy days | Bucket-list headliners, full festival experience |
 
-Neither is better. They're different experiences. Some people do both (the two overlap some years; check dates). If your group's goal is to see big-name headliners, Jazz Fest is the move. If the goal is to absorb the best of New Orleans music in the places where New Orleans music actually lives, FQF wins.
+Neither is better. They're different experiences. Some people do both (the two overlap some years; check dates). If your group's goal is to see big-name headliners, the [Jazz Fest group guide](/guides/jazz-fest-group-guide/) is the move. If the goal is to absorb the best of New Orleans music in the places where New Orleans music actually lives, FQF wins.
 
 ---
 
@@ -137,7 +137,7 @@ The French Quarter Festival has the best festival food in the country because it
 
 **Drinks:** The festival has bars. The French Quarter has more bars. There is no shortage of alcohol at any point of any day.
 
-**Water:** Critical. Festival days are warm and can be hot. Hydrate early and often — the music will distract you from the heat.
+**Water:** Critical. Festival days are warm and can be hot. Hydrate early and often — the music will distract you from the heat. The [outdoor festival heat management guide](/guides/nola-group-outdoor-festival-heat-management/) covers the rest of the playbook, and it applies just as much here as it does in the summer months.
 
 ---
 
@@ -155,8 +155,8 @@ FQF is four days. You don't need to spend all four days in the French Quarter.
 **Evening options after the last set:**
 
 - Dinner at a restaurant with a reservation (plan this)
-- Frenchmen Street for live music that keeps going after FQF stages go dark
-- Bar hop through Bywater
+- [Frenchmen Street](/guides/nola-group-french-quarter-at-night-guide/) for live music that keeps going after FQF stages go dark
+- Bar hop through the [Bywater](/neighborhoods/bywater/)
 - Late night at Preservation Hall (smaller, intimate, tickets required but usually available)
 
 The festival is part of the trip, not the entire trip. Groups that treat it that way have a dramatically better experience than groups that try to spend every daylight hour at the stages.
