@@ -1,15 +1,15 @@
 ---
 title: "New Orleans 3-Day Group Itinerary"
-description: "A fully built 3-day New Orleans group itinerary for groups of 10-30. Morning, afternoon, and evening slots. Real logistics included."
+description: "A fully built 3-day New Orleans group itinerary for the whole crew. Morning, afternoon, and evening slots. Real logistics included."
 category: "Planning & Logistics"
 card_title: "3-Day Itinerary"
 card_description: "A complete 3-day New Orleans group itinerary with real logistics for large groups."
-date: 2026-05-23
+date: 2026-07-25
 ---
 
 A 3-day group trip to New Orleans is long enough to feel the city and short enough that you can still be selective. Thursday-Sunday is the classic format. You land Thursday evening and leave Sunday afternoon with enough of a trip that you'll actually want to come back.
 
-This itinerary is written for groups of 10-30 staying at a large-group villa. It's structured to give your group the essential New Orleans experiences while building in the flexibility that large groups always need. It's a framework, not a schedule.
+This itinerary is written for a big group staying together at a large-format villa. It's structured to give your group the essential New Orleans experiences while building in the flexibility that large groups always need. It's a framework, not a schedule — for the version that stretches this into a longer stay, see the [5-day itinerary](/guides/itinerary-5-day/).
 
 Adjust the activities to match your group's personality. If your group hates museums, skip the ones marked optional and add more pool time. If half your group wakes up early and half doesn't, split and reconvene. The bones of the itinerary hold either way.
 
@@ -18,7 +18,7 @@ Adjust the activities to match your group's personality. If your group hates mus
 - [ ] Book accommodations before finalizing these dates — large-group properties fill up
 - [ ] Make restaurant reservations for Saturday dinner 3-4 weeks in advance
 - [ ] Book any paid activities (swamp tour, cooking class, etc.) 2 weeks in advance
-- [ ] Designate one person as the trip coordinator (handles payments, herds the group)
+- [ ] Designate one person as the [trip coordinator](/guides/nola-group-trip-roles-assignment-guide/) (handles payments, herds the group)
 - [ ] Set a group chat with arrival details and the house address
 - [ ] Buy basics at the grocery store Thursday evening (saves money and logistics)
 - [ ] Build in buffer time — groups run 30 minutes behind schedule by default
@@ -44,12 +44,12 @@ Most groups arrive Thursday afternoon or evening. Direct flights into Louis Arms
 
 **Airport transfer logistics:**
 - Individual rideshares: 20-25 minutes, ~$35-50 each way
-- For groups of 15+: Charter a 12-15 passenger van. Easier, comparable cost.
+- For a bigger crew: charter a 12-15 passenger van. Easier, comparable cost. See the [ride-share master guide](/guides/nola-group-ride-share-master-guide/) for the full breakdown of when a van beats individual cars.
 - Early arrivals can get groceries while waiting for the rest of the group.
 
 ### 4:00 PM — Early Arrivals / Settle In
 
-Whoever lands first: stop at Rouse's or Whole Foods. Stock the kitchen.
+Whoever lands first: stop at Rouse's or Whole Foods. Stock the kitchen — the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers what to buy and how to split the run.
 
 **Essentials to buy:**
 - Coffee, breakfast items (saves you the rush Friday morning)
@@ -137,14 +137,14 @@ One of the best deals in New Orleans that most groups miss: happy hour. Many exc
 Friday dinner is typically the more casual of the two main dinners. Reserve a good neighborhood spot rather than aiming for the city's most formal restaurants.
 
 **Good choices:**
-- Cochon (Warehouse District, Cajun, communal plates, excellent for groups of 15-20)
+- Cochon (Warehouse District, Cajun, communal plates, handles a big table well)
 - Pêche (next to Cochon, seafood, shared plates)
 - Compère Lapin (CBD, Caribbean-Creole, stylish)
 - Commander's Palace (Garden District, if your group wants the classic New Orleans experience tonight instead of Saturday)
 
 ### 9:30 PM — Frenchmen Street
 
-This is the move for Friday night. Walk or Uber to Frenchmen Street in the Marigny (one block past the French Quarter's eastern edge). Three blocks of live music clubs with jazz, funk, brass, and soul starting around 9 PM.
+This is the move for Friday night. Walk or Uber to Frenchmen Street in the [Marigny](/neighborhoods/marigny/) (one block past the French Quarter's eastern edge). Three blocks of live music clubs with jazz, funk, brass, and soul starting around 9 PM — see the [French Quarter at night guide](/guides/nola-group-french-quarter-at-night-guide/) for how this pairs with a Quarter lap earlier in the evening.
 
 **How to do Frenchmen Street with a large group:**
 - Walk the whole street first before choosing a venue
@@ -215,7 +215,7 @@ Saturday dinner is the main event. This is the reservation you made 4-6 weeks ag
 ### 9:30 PM — Late Night
 
 Options:
-- **French Quarter (Bourbon Street):** One proper Bourbon Street night. Walk it, get a drink in a plastic cup, absorb the chaos. You'll need this story.
+- **French Quarter (Bourbon Street):** One proper [Bourbon Street](/guides/nola-bourbon-street-guide/) night. Walk it, get a drink in a plastic cup, absorb the chaos. You'll need this story.
 - **Back to Frenchmen Street:** Better music, better vibe, cheaper drinks.
 - **Late-night beignets at Café Du Monde:** Open 24 hours. At 1 AM, it's perfect.
 - **House party:** Sometimes the best ending is coming home and staying up late at the villa. The pool at midnight is genuinely excellent.
@@ -300,17 +300,12 @@ Real check-out and airport timing:
 
 ---
 
-## For Large Groups: Where to Stay
+## For a Big Group: Where to Stay
 
-The 3-day itinerary works from anywhere, but having the right home base makes the logistics significantly easier.
+The 3-day itinerary works from anywhere, but having the right home base makes the logistics significantly easier — this schedule leans hard on the house itself, from the Thursday pool night to the Sunday morning coffee drift, so a property with real kitchen and outdoor space isn't a nice-to-have here.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. The Bywater is 10 minutes from Frenchmen Street, 15 minutes from the Quarter. If your group wants complete privacy and its own outdoor space, this is the property.
+Bywater villas like Castleday Retreats put you close to Frenchmen Street and the Quarter with total privacy and a private pool per house. Lower Garden District options like The Syd trade some of that privacy for streetcar access and a shared pool scene. Hotel-block properties — The Roosevelt, Hotel Peter & Paul, and others — suit a group with mixed budgets or anyone who wants their own key and their own bill. Spread the search across the field rather than fixating on one name; fit matters more than brand for a group this size.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors. One block from the St. Charles Streetcar — the most useful transit line in the city for this itinerary.
+For the largest selection, book 6+ months out.
 
-Both properties have the kitchen, outdoor space, and common areas that make the unscheduled parts of this itinerary — the Thursday pool night, the Sunday morning coffee drift — actually happen.
-
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, private pools
-- **The Syd** — Lower Garden District, up to 22 per villa, streetcar access, outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
