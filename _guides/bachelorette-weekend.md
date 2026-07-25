@@ -7,7 +7,7 @@ card_description: "Hour-by-hour, day-by-day bachelorette planning for groups of 
 date: 2026-05-24
 ---
 
-The overview bachelorette guide covers the basics. This one is the actual playbook—what happens at what time, how to move a group of 15 people from A to B without losing anyone, and where the real moments happen.
+The [overview bachelorette guide](/guides/bachelorette-party/) covers the basics. This one is the actual playbook—what happens at what time, how to move a group of 15 people from A to B without losing anyone, and where the real moments happen.
 
 New Orleans bachelorette weekends have a formula that works. Deviating from it too much creates chaos. Following it creates a trip everyone talks about for years.
 
@@ -17,7 +17,7 @@ Three days. Two big nights. One slow morning. That's the shape.
 
 - Lock accommodations 6-8 weeks out (large group spots go fast)
 - Book the big dinner for Night 2 at the same time
-- Assign a "logistics lead" — one person who isn't the bride
+- Assign a ["logistics lead"](/guides/nola-group-trip-roles-assignment-guide/) — one person who isn't the bride
 - Build the activity list, then cut it in half
 - Create a group Venmo or split-pay setup before you arrive
 - Send arrival-day logistics (address, parking, check-in time) 48 hours before
@@ -88,7 +88,7 @@ This takes longer than you think. With a group of 15, you need:
 
 ### Dinner (7–9:30 PM)
 
-The big dinner. Book this 3-4 weeks ahead. Call the restaurant directly and ask about large-group options, private rooms, or reserved sections.
+The big dinner. Book this 3-4 weeks ahead. Call the restaurant directly and ask about large-group options, private rooms, or reserved sections — the [large group seating guide](/guides/nola-group-large-group-seating-strategy-guide/) covers which restaurants actually want a table your size versus which ones just tolerate it.
 
 **Best options for 12-20:**
 
@@ -104,7 +104,7 @@ Budget roughly $80-120/person for dinner with drinks. Not the night to split eve
 
 ### Night Out (9:30 PM–late)
 
-Two routes. Pick one based on your group.
+Two routes. Pick one based on your group — see the [day drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) if your group is still deciding what pace it wants for the night.
 
 **Route A: Frenchmen Street** (the better option, honestly)
 - Start at d.b.a. — solid live music, good space
@@ -186,6 +186,8 @@ Every bach trip that tries to do 6 activities in 3 days fails. Pick 2. Do them w
 ---
 
 ## Budget Breakdown (3 nights, per person)
+
+For the fuller math behind these numbers, see the [budget guide](/guides/budget-guide/).
 
 | Category | Budget | Mid-range | Splurge |
 |----------|--------|-----------|---------|
