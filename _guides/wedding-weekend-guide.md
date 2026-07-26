@@ -56,15 +56,15 @@ Keep it low-key. It's not the wedding. It doesn't need a DJ, a seating chart, or
 
 **A rented bar or event space.** Some bars and smaller venues rent out their space for private events on weeknights. This works especially well if your guest group skews toward wanting a fun, casual welcome event with a bar feel rather than a dinner feel.
 
-**The second line welcome.** For couples who want to start the weekend in a purely New Orleans way: hire a brass band for a short private second line through the neighborhood before the welcome dinner. The band plays, the guests parade, the neighborhood watches. Nothing says "you're in New Orleans now" more clearly.
+**The second line welcome.** For couples who want to start the weekend in a purely New Orleans way: hire a brass band for a short private second line through the neighborhood before the welcome dinner. The band plays, the guests parade, the neighborhood watches. Nothing says "you're in New Orleans now" more clearly — see the [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) for how to book one and what it actually costs.
 
 ---
 
 ## The Rehearsal Dinner
 
-Friday night. The inner circle — wedding party, immediate family, close friends. Size typically ranges from 15 to 40 people depending on how you define "inner circle."
+Friday night. The inner circle — wedding party, immediate family, close friends, however wide you draw that line.
 
-New Orleans has some of the best restaurants in the country for private dining. Book early — eight months out minimum for a Friday night at a top restaurant.
+New Orleans has some of the best restaurants in the country for private dining. Book early for a Friday night at a top restaurant — see the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) for booking lead times and how to structure the night, and the [rehearsal dinner venues guide](/guides/nola-group-wedding-rehearsal-dinner-venues/) for a deeper venue-by-venue breakdown than the table below.
 
 **Venues that work for rehearsal dinners:**
 
@@ -76,15 +76,15 @@ New Orleans has some of the best restaurants in the country for private dining. 
 | Emeril's | Upscale, polished, adaptable menu | Private dining room; good for groups with varied tastes |
 | Dooky Chase's | Civil rights history and legendary Creole cooking | Reservations essential; one of the most meaningful dining experiences in the South |
 
-**After the rehearsal dinner:** This is when Frenchmen Street becomes relevant. The wedding party and any guests who are still standing can make the walk or Uber to Frenchmen Street for a more casual late night. Set no expectations and see where it goes. This informal late-night is often the most remembered part of the weekend.
+**After the rehearsal dinner:** This is when Frenchmen Street becomes relevant. The wedding party and any guests who are still standing can make the walk or Uber to Frenchmen Street for a more casual late night. Set no expectations and see where it goes. This informal late-night is often the most remembered part of the weekend — see the [eve-of-wedding guide](/guides/nola-group-eve-of-wedding-guide/) for how to keep it loose without anyone overdoing it the night before the ceremony.
 
 ---
 
 ## Wedding Day Logistics
 
-The couple has a venue coordinator. But the venue coordinator is managing the venue — not the 25 guests who need to get from their accommodations to the ceremony and then to the reception.
+The couple has a venue coordinator. But the venue coordinator is managing the venue — not the guests who need to get from their accommodations to the ceremony and then to the reception.
 
-Assign this job to a non-couple point person before the wedding day.
+Assign this job to a non-couple point person before the wedding day — the [wedding weekend day-of guide](/guides/nola-group-wedding-weekend-day-of-guide/) covers what that role actually involves hour by hour.
 
 **Transportation:**
 
