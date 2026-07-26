@@ -4,7 +4,7 @@ description: "Season-by-season packing guide for New Orleans group trips. What t
 category: "Planning & Logistics"
 card_title: "Packing Guide"
 card_description: "What to pack for New Orleans, season by season. The items most visitors forget—and the ones to leave home."
-date: 2026-05-23
+date: 2026-07-26
 ---
 
 New Orleans has a specific climate, a specific culture, and a specific set of situations your packing list needs to account for. It's not like packing for most other American cities. The humidity is different. The walking surface is different (cobblestones and uneven pavement everywhere). The dress code oscillates between "extremely casual" and "jacket required at dinner" in the same evening.
@@ -156,12 +156,12 @@ Spring is the best time to visit in terms of weather. March is warm. April and e
 
 **Temperature range:** March 60-70°F, April 70-80°F, May 80-85°F.
 
-**Weather pattern:** Beautiful weather with increasing rain chances as spring progresses. Jazz Fest (late April/early May) is prime time — dress for heat during the day, bring a layer for the evening.
+**Weather pattern:** Beautiful weather with increasing rain chances as spring progresses. [Jazz Fest](/guides/jazz-fest-group-guide/) (late April/early May) is prime time — dress for heat during the day, bring a layer for the evening.
 
 **What to pack:**
 - Light layers that work across temperature ranges. Mornings are cool; afternoons are warm.
 - Rain layer is important. Spring rain can appear quickly.
-- Jazz Fest packing is specific: see the Jazz Fest group guide for outdoor festival considerations.
+- Jazz Fest packing is specific: see the [music festival packing guide](/guides/nola-music-festival-packing-guide/) for full outdoor festival gear.
 
 | Item | March | April/May |
 |------|-------|-----------|
@@ -213,8 +213,8 @@ These items are worth thinking about for groups specifically:
 | Plantation tour | Comfortable shoes, sun hat |
 | Cooking class | Nothing specific — they provide everything |
 | Frenchmen Street | Small bag or no bag; pickpocket awareness in crowds |
-| Mardi Gras parades | Layers, comfortable shoes, clear bag (some venues require it) |
-| Jazz Fest | See Jazz Fest guide — full outdoor festival gear needed |
+| Mardi Gras parades | Layers, comfortable shoes, clear bag (some venues require it) — see the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) |
+| Jazz Fest | Full outdoor festival gear needed — see the [music festival packing guide](/guides/nola-music-festival-packing-guide/) |
 
 ---
 
@@ -273,13 +273,10 @@ Regardless of season, this is the list every person in your group should have:
 
 If your group is staying at one of the large-group villas — the kind with a real kitchen and a pool — your packing list adjusts slightly. You're not just sleeping here; you're living here for a few days.
 
-**Castleday Retreats** — Private villas in the Bywater, up to 30 guests. Full kitchens, private pools. Bring: swimwear (you'll be in the pool), something to cook in, coffee supplies if you have a specific preference.
+**Bywater villas** like Castleday Retreats run 14-30 guests per villa with a full kitchen and a private pool. If your group is closer to sixteen, you get a real bed for everyone — not a couch-surfing situation. Bring: swimwear (you'll be in the pool), something to cook in, coffee supplies if you have a specific preference.
 
-**The Syd** — Villas in the Lower Garden District, up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen. Bring: swimwear, light clothing for outdoor kitchen dinners, comfortable house clothes for the mornings.
+**Lower Garden District villas** like The Syd run up to 22 guests with a shared heated pool, hot tub, and outdoor kitchen. Bring: swimwear, light clothing for outdoor kitchen dinners, comfortable house clothes for the mornings.
 
-Both properties are in residential neighborhoods. You're not walking out the front door into a hotel lobby. You're in a house in New Orleans. Pack like you're staying at someone's house — comfortable clothes, stuff you can relax in, and the essentials for going out.
+Both are in residential neighborhoods. You're not walking out the front door into a hotel lobby. You're in a house in New Orleans. Pack like you're staying at someone's house — comfortable clothes, stuff you can relax in, and the essentials for going out.
 
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, private pools
-- **The Syd** — Lower Garden District, up to 22 per villa, pool/hot tub/sauna
+[See where to stay for large groups →](/where-to-stay/)
