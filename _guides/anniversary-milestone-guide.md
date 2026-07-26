@@ -55,7 +55,7 @@ What it needs: the feeling of time marked meaningfully. A gathering of the peopl
 - Optional second line parade (for jubilant couples who want the street celebration)
 - One slow, intimate evening — dinner at the house with close people, not a big crowd
 
-**Group size sweet spot:** 15-25 guests for anniversary trips. Large enough to feel like a celebration; small enough that the honored couple can actually connect with everyone.
+**Group size sweet spot:** large enough to feel like a celebration, small enough that the honored couple can actually connect with everyone. See the [New Orleans wedding anniversary guide](/guides/nola-group-new-orleans-wedding-anniversary-guide/) for a deeper dive on anniversary-specific venues and timing.
 
 ### Milestone Birthdays (50th, 60th, 75th)
 
@@ -78,7 +78,7 @@ What it needs: time for conversation and reconnection. Common spaces that encour
 - Group activities that create talking points: cooking class, food tour, swamp tour
 - One big dinner out as a formal gathering moment
 
-**Group size sweet spot:** 20-40 people. Reunions often have a wider size range than other milestone types.
+Reunions often have a wider size range than other milestone types — the [family reunion guide](/guides/family-reunion/) and the [college friends reunion guide](/guides/nola-group-college-friends-reunion-guide/) both go deeper on structuring a trip for a group that spans generations or decades of shared history.
 
 ### Memorial Trips and Tributes
 
@@ -132,7 +132,7 @@ A second line is New Orleans' traditional way of celebrating a life, a moment, o
 
 Hiring a brass band for a private second line is one of the most specifically New Orleans things you can do for a milestone trip. It doesn't require the occasion to be joyful — second lines are used for funerals as well as weddings, anniversaries, and graduations. The tradition accommodates the full range of human emotion.
 
-**How it works for a group:**
+**How it works for a group:** see the [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) and the [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) for how booking actually works and what it costs. The short version:
 - Hire a brass band (4-8 musicians) and a licensed second line coordinator
 - Pick a route through a neighborhood — Bywater, French Quarter, Marigny, Tremé
 - Receive a second line umbrella and handkerchief for the guest of honor
