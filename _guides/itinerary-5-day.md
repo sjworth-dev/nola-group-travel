@@ -1,26 +1,29 @@
 ---
 title: "New Orleans 5-Day Group Itinerary"
-description: "A complete 5-day New Orleans group itinerary for groups of 10-30. Neighborhood rotation, dining anchors, and full logistics for an extended group trip."
+description: "A complete 5-day New Orleans group itinerary for the whole crew — neighborhood rotation, dining anchors, a day trip, and the full logistics for an extended stay."
 category: "Planning & Logistics"
 card_title: "5-Day Itinerary"
-card_description: "A full 5-day group itinerary with neighborhood rotation and dining anchors."
-date: 2026-05-23
+card_description: "A full 5-day group itinerary with neighborhood rotation, a day trip, and dining anchors."
+date: 2026-07-26
 ---
 
-Five days in New Orleans is the right amount of time to actually feel the city. You can see multiple neighborhoods at a real pace, do a day trip or two, have a couple of landmark dinners, and still have unscheduled afternoons where nothing is planned.
+Three days in New Orleans gives you a taste. Five days gives you the city. You get multiple neighborhoods at a real pace, room for a proper day trip, a couple of landmark dinners, and — this is the part three-day trips never manage — actual unscheduled afternoons where nothing is planned and nobody minds.
 
-Groups that spend 5 days here usually fall into two categories: the ones who planned it as a deliberate extended trip, and the ones who booked 3 days and realized at checkout they needed more time. This itinerary is for both.
+Groups that land on five days usually fall into two camps: the ones who planned it that way on purpose, and the ones who booked three nights and realized at checkout they'd shortchanged themselves. This itinerary is built for either — it's the extended version of the [3-day itinerary](/guides/itinerary-3-day/), for a group with the extra time to actually settle in rather than just visit.
 
-The 5-day structure gives you enough of a rhythm to stop feeling like a tourist and start feeling like you live here — at least temporarily. Wednesday arrival through Sunday departure is the classic format.
+Wednesday arrival through Sunday departure is the classic format, and the extra two days change the shape of the trip more than you'd expect. By day three you stop feeling like a tourist. That's the whole point of the extra nights.
+
+---
 
 ## Quick Checklist
 
-- [ ] Book accommodations 6-8 weeks in advance (5-night stays at large-group properties go fast)
-- [ ] Make Friday and Saturday dinner reservations 4-6 weeks in advance
-- [ ] Book any paid activities (swamp tour, plantation tour, cooking class) 2-3 weeks out
-- [ ] Consider one day trip (plantation tour, Cajun country) — plan transportation ahead
-- [ ] Buy groceries on arrival day — you'll eat at least 2-3 meals at the house over 5 nights
-- [ ] Build a "free day" into the itinerary — usually the third or fourth day
+- [ ] Lock accommodations before finalizing dates — five-night stays at large-format properties move fast, and for the largest selection you're booking 6+ months out
+- [ ] Make Friday and Saturday dinner reservations 4-6 weeks ahead
+- [ ] Book paid activities (swamp tour, plantation tour, cooking class) 2-3 weeks out
+- [ ] Pick one day trip and sort transportation for it in advance
+- [ ] Buy groceries on arrival day — you'll eat at least a few meals at the house over five nights
+- [ ] Build a genuine free day into the schedule, usually day three or four
+- [ ] Designate a [trip coordinator](/guides/nola-group-trip-roles-assignment-guide/) — five days of decisions is a lot for a group chat to sort out by committee
 
 ---
 
@@ -31,10 +34,10 @@ The 5-day structure gives you enough of a rhythm to stop feeling like a tourist 
 | Wednesday | Travel/arrivals | Settle in, explore | Neighborhood dinner |
 | Thursday | City Park / Mid-City | Bywater / Marigny | Frenchmen Street |
 | Friday | French Quarter + brunch | Garden District / Uptown | Cochon or Pêche |
-| Saturday | Swamp tour or day trip | Rest / pool | Signature dinner (Commander's, etc.) |
+| Saturday | Swamp tour or day trip | Rest / pool | Signature dinner |
 | Sunday | Magazine Street brunch | Pool, packing | Final neighborhood dinner |
 
-*This is the framework. Adjust for your group's interests and pace.*
+*This is the framework, not a schedule. Adjust it to your group's pace.*
 
 ---
 
@@ -42,31 +45,27 @@ The 5-day structure gives you enough of a rhythm to stop feeling like a tourist 
 
 ### Getting In
 
-Wednesday arrivals mean lower fares, easier airport logistics, and one fewer person competing for your restaurant reservation. If your group can make it work, Wednesday in is the right call.
+Wednesday arrivals mean lower fares, easier airport logistics, and one fewer night competing with everyone else for a Friday restaurant table. If your group can make Wednesday work, make it work.
 
-**Airport:**
-- Charter a van for groups of 15+ — easier than multiple rideshares
-- Airport is 20-25 minutes from the city
+**Airport:** Louis Armstrong New Orleans International (MSY) is 20-25 minutes from most bases. Once you're chartering a van anyway for the group, it beats coordinating a fleet of individual rideshares — see the [ride-share master guide](/guides/nola-group-ride-share-master-guide/) for when a van actually pays off.
 
 ### 4:00 PM — Settle In and Stock Up
 
-Early arrivals handle groceries. Buy for 3 breakfasts minimum, house snacks, and stock the bar.
+Early arrivals handle groceries. Buy for a few breakfasts minimum, house snacks, and stock the bar — the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers the split.
 
-**Coffee and breakfast items** are the highest-leverage grocery purchases. The group that has coffee and eggs at the house every morning saves $20-30/person per day compared to the group that goes out for breakfast.
+Coffee and breakfast basics are the highest-leverage purchase on the list. A house that has coffee and eggs every morning saves real money over five days compared to a house that goes out for breakfast daily — and saves more time than money, since nobody's waiting on a table for eight.
 
 ### 7:00 PM — Neighborhood Dinner
 
-First night: go close, go easy.
+First night: go close, go easy. Don't try to impress anyone on night one.
 
-**From Bywater (Castleday Retreats):**
-Bacchanal Wine is the answer. Wine shop, courtyard, live jazz, no reservations needed — arrive before 6:30 PM with your group. Order wine by the bottle. Food comes from the kitchen. This is the New Orleans experience.
+**Bywater base:** Bacchanal Wine is the answer. Wine shop, courtyard, live jazz, no reservations — arrive before 6:30 PM. Order by the bottle and let the kitchen feed you.
 
-**From Lower Garden District (The Syd):**
-Walk Magazine Street for options. Atchafalaya for a full dinner, Parasol's if the group wants casual and cheap, or Commander's Palace if you want to start big (reserve ahead).
+**Lower Garden District base:** Walk Magazine Street. Atchafalaya for a full dinner, Parasol's for casual and cheap, Commander's Palace if the group wants to start big (reserve ahead).
 
 ### 9:00 PM — House Night
 
-Come home. Pool or porch. This is the Wednesday night pattern — low-key, everyone settling in, the trip starting to take shape. Don't force activities tonight.
+Pool or porch. This is the Wednesday pattern — low-key, everyone settling in, the trip starting to take shape. Don't force anything tonight.
 
 ---
 
@@ -74,37 +73,33 @@ Come home. Pool or porch. This is the Wednesday night pattern — low-key, every
 
 ### 9:30 AM — Breakfast at House
 
-Coffee, eggs, toast. You have a kitchen. Use it. One person makes breakfast.
+Coffee, eggs, toast. You have a kitchen. Use it.
 
 ### 10:30 AM — Option A: City Park and Mid-City
 
-Take rideshares to Mid-City. City Park: Besthoff Sculpture Garden (free, one of the best outdoor sculpture collections in the South), NOMA if the group wants it, or just walk the paths under the oak trees. Then Parkway Bakery for lunch — the best roast beef po-boy in the city. Counter service, no reservations needed.
+Rideshare to [Mid-City](/neighborhoods/mid-city/). City Park's Besthoff Sculpture Garden is free and one of the better outdoor sculpture collections in the South; NOMA is there if the group wants it, or just walk the paths under the oaks. Parkway Bakery for lunch afterward — the roast beef po-boy is the one to get, counter service, no reservation.
 
-**Why Thursday:** Mid-City is slightly less crowded on weekdays. Parkway Bakery is better when lines are shorter.
+**Why Thursday:** Mid-City runs quieter on weekdays, and the Parkway line moves faster for it.
 
-### 10:30 AM — Option B: Bywater Exploration (for groups at The Syd)
+### 10:30 AM — Option B: Bywater Exploration
 
-Uber over to the Bywater. Crescent Park riverfront walk. Euclid Records. Coffee at Satsuma or Orange Couch. Lunch at the Bywater American Bistro or Pizza Delicious. This is the other side of the city from the Garden District — different architecture, different vibe, worth knowing.
+Uber to the [Bywater](/neighborhoods/bywater/). Crescent Park riverfront walk, Euclid Records, coffee at Satsuma or Orange Couch, lunch at Bywater American Bistro or Pizza Delicious. This is the other side of the city from the Garden District — different architecture, different pace, worth knowing either way.
 
 ### 2:00 PM — The Marigny
 
-Walk or Uber to the Marigny. This is the neighborhood where Frenchmen Street lives. In daylight, it's beautiful — shotgun houses, crepe myrtles, corner cafes. Different feel than the Bywater, which is more warehouse/industrial. Walk Washington Square Park.
+Walk or Uber to the [Marigny](/neighborhoods/marigny/), the neighborhood Frenchmen Street lives in. In daylight it's shotgun houses, crepe myrtles, and corner cafés — a different feel from the Bywater's warehouse edge next door. Walk Washington Square Park.
 
 ### 5:00 PM — Happy Hour
 
-The Marigny has several good happy hour spots within walking distance of Frenchmen Street. Hit one on the way to dinner.
+Several good spots within walking distance of Frenchmen Street. Hit one on the way to dinner.
 
-### 7:00 PM — Dinner (Casual to Mid-Range)
+### 7:00 PM — Dinner
 
-Thursday dinner doesn't need to be the big reservation. Options near the Marigny:
-- Marigny Brasserie (neighborhood Creole, call for groups)
-- Any of the Frenchmen Street restaurants before the music starts
+Thursday doesn't need to be the big reservation. Marigny Brasserie handles a group well, or any of the Frenchmen Street restaurants before the music starts.
 
 ### 9:30 PM — Frenchmen Street
 
-The best night for live music in New Orleans. Three blocks. Multiple venues. Live jazz, funk, brass, and soul starting around 9 PM. No cover at most spots. Stay as late as you want.
-
-**Group tip:** Walk the whole street before committing to a venue. See where the best band is playing. The street is short enough that you'll see all your options in 10 minutes.
+The best night for live music in the city. Three blocks, multiple venues, jazz and funk and brass and soul from around 9 PM, no cover at most spots. Walk the whole street before committing to a room — it's short enough you'll see every option in ten minutes.
 
 ---
 
@@ -112,86 +107,55 @@ The best night for live music in New Orleans. Three blocks. Multiple venues. Liv
 
 ### 9:30 AM — Brunch
 
-Friday morning has an important reservation. This is when you do the classic New Orleans brunch experience.
-
-**Top choices:**
-- **Brennan's** (French Quarter) — birthplace of bananas Foster, the original New Orleans brunch landmark. Reserve 2-3 weeks ahead.
-- **Commander's Palace** (Garden District) — the city's most celebrated restaurant, with a 25-cent martini lunch tradition. Reserve well in advance.
-- **Atchafalaya** (Lower Garden District) — neighborhood feel, excellent Bloody Mary bar. More accessible for groups.
+Friday morning gets the real reservation. Brennan's for the classic French Quarter version (birthplace of bananas Foster, book 2-3 weeks ahead). Commander's Palace if you want the city's most celebrated restaurant and its 25-cent martini lunch tradition, booked well ahead. Atchafalaya if you want the neighborhood feel and an excellent Bloody Mary bar without the wait.
 
 ### 12:30 PM — French Quarter Walk
 
-Post-brunch, spend the afternoon in the French Quarter. Royal Street (galleries, jazz musicians on the street), Jackson Square (Cathedral, Moonwalk, river view), Café Du Monde (mandatory beignets). One lap down Bourbon Street is warranted today — get the experience.
+Royal Street for galleries and street musicians, Jackson Square for the Cathedral and the Moonwalk, Café Du Monde for beignets (mandatory). One lap down Bourbon Street is warranted today — you're here, go see it.
 
-**Preservation Hall:** If you haven't booked this yet, check if tickets are available for a Friday evening show. Book them now.
+**Preservation Hall:** if you haven't booked a Friday evening show, check availability now.
 
 ### 3:00 PM — Garden District
 
-Take the St. Charles Streetcar uptown. Get off at Washington Avenue. Walk the Garden District: St. Charles Avenue mansions, the live oak alleys, Lafayette Cemetery No. 1. This is the oldest above-ground cemetery in the city and genuinely atmospheric. Free to enter during open hours.
-
-Walk back to St. Charles and catch the streetcar back downtown, or walk Magazine Street on the way back.
+St. Charles Streetcar uptown, off at Washington Avenue. Walk the [Garden District](/neighborhoods/garden-district/): the mansions, the live oak alleys, Lafayette Cemetery No. 1 — the oldest above-ground cemetery in the city, genuinely atmospheric, free during open hours. Streetcar back, or walk Magazine Street on the way.
 
 ### 7:00 PM — Dinner
 
-Friday is when the restaurant caliber goes up.
-
-**The Warehouse District cluster:**
-- **Cochon** — The essential New Orleans restaurant. Order the pig ear and the daily special. Communal format, great for groups.
-- **Pêche Seafood Grill** — Same ownership as Cochon, Gulf seafood done right.
-- **Compère Lapin** — Chef Nina Compton's Caribbean-Creole flagship. Stylish, excellent.
-
-Call at least 2 weeks in advance for groups of 15+.
+The restaurant caliber goes up tonight. The Warehouse District cluster does the job: Cochon for the essential New Orleans meal (order the pig ear and the daily special, communal format), Pêche for the same ownership's Gulf seafood, Compère Lapin for Nina Compton's Caribbean-Creole flagship. Call at least two weeks ahead once you're booking for a full table.
 
 ### 9:30 PM — Nightcap or Preservation Hall
 
-**Option A:** Preservation Hall (if you have tickets). Traditional New Orleans jazz in a tiny room. Unforgettable.
-
-**Option B:** Cocktail bars near the Warehouse District or Quarter. The Roosevelt Hotel's Sazerac Bar is a New Orleans institution. Order the Sazerac.
+Preservation Hall if you have tickets — traditional jazz in a tiny room, unforgettable. Otherwise, a cocktail bar near the Warehouse District or Quarter; the Roosevelt's Sazerac Bar is a genuine institution. Order the Sazerac.
 
 ---
 
 ## Saturday: Day Trip or Deep Dive
 
-Saturday is the day you leave the city or go deeper into it.
+Saturday is the day you either leave the city or go deeper into it.
 
-### Option A: Day Trip — Swamp Tour
+### Option A: Swamp Tour
 
-Head out of the city for a swamp tour. The boat landing is 20-45 minutes outside the city. The tour itself is 1.5-2 hours. Alligators, cypress trees, Spanish moss, genuine wilderness 30 minutes from downtown.
+20-45 minutes outside the city to the boat landing, then 1.5-2 hours on the water. Alligators, cypress, Spanish moss, genuine wilderness a half-hour from downtown. Book ahead, private charter if your group's size warrants it, back by mid-afternoon.
 
-**Book in advance.** Private group charter if you can. Return by mid-afternoon.
+### Option B: Plantation Tour
 
-### Option B: Day Trip — Plantation Tour
-
-The River Road plantations are 30-45 minutes from New Orleans. Whitney Plantation is the most important visit — it's specifically dedicated to the lives and experiences of enslaved people, not the planter families. Reserve ahead.
-
-Allow 3-4 hours for the tour plus travel. Back by 3-4 PM.
+The [River Road plantations](/guides/nola-group-plantation-tour-guide/) sit 30-45 minutes outside the city. Whitney Plantation is the essential visit — it centers the lives and experiences of enslaved people rather than the planter family. Reserve ahead, allow 3-4 hours plus travel, back by mid-afternoon.
 
 ### Option C: The Lost Day
 
-By the third full day of a group trip, some people are ready for exactly nothing. A day at the pool, a slow magazine read, a walk that goes nowhere in particular. This is legitimate. If half the group wants to do the swamp tour and half wants a pool day, split the group. Both options are correct.
+By the third full day, some people are ready for exactly nothing. A pool day, a magazine that doesn't get finished, a walk that goes nowhere in particular. That's a legitimate choice, not a failure to plan — if half the group wants the swamp and half wants the pool, split the group. Both halves are right.
 
 ### 3:00 PM — Return / Pool Time
 
-Whatever you did this morning, afternoon is recovery. Back at the villa, pool open, pre-dinner drinks.
+Whatever the morning was, the afternoon is recovery. Pool open, pre-dinner drinks at the house.
 
 ### 7:00 PM — The Signature Dinner
 
-This is the reservation you made 4-6 weeks ago. The meal of the trip.
-
-**Top options:**
-
-| Restaurant | What It Is | Advance Booking |
-|------------|------------|-----------------|
-| Commander's Palace | The New Orleans institution | 6+ weeks for weekends |
-| Galatoire's | Old-school Creole, jackets required | 2-3 weeks |
-| August | Upscale contemporary, private dining | 4-6 weeks |
-| Antoine's | Oldest US restaurant, full experience | 3-4 weeks |
-
-Whichever you pick: dress appropriately, arrive on time, order the bread pudding soufflé at Commander's at the start of the meal (it takes 20 minutes), and don't rush.
+The reservation you made 4-6 weeks ago. Commander's Palace for the institution (book well ahead for weekends), Galatoire's for old-school Creole with jackets required, August for upscale contemporary with private dining, Antoine's for the oldest restaurant in the country and the full experience. Whichever you pick: dress for it, arrive on time, and don't rush the table.
 
 ### 10:00 PM — Bourbon Street Night
 
-You've been in the city 4 days. You understand by now that Bourbon Street is a spectacle rather than a destination. Go experience the spectacle. Get a hurricane at Pat O'Brien's (mandatory once), walk the strip, take in the chaos. You now have the context to appreciate it for what it is.
+Four days in, your group understands Bourbon Street is a spectacle rather than a destination. Go see the spectacle with that context — a hurricane at Pat O'Brien's once, a walk down the strip, and move on when you're done.
 
 ---
 
@@ -199,89 +163,68 @@ You've been in the city 4 days. You understand by now that Bourbon Street is a s
 
 ### 9:30 AM — Slow Breakfast at House
 
-Last full morning. Someone makes coffee. People drift in. Start sorting luggage. Relaxed.
+Last full morning. Someone makes coffee, people drift in, luggage starts sorting itself into piles. No rush.
 
 ### 11:00 AM — Magazine Street Brunch and Last Looks
 
-Magazine Street brunch options:
-- Sucré for coffee and pastries (dessert at brunch is correct in New Orleans)
-- Stein's Market & Deli for a proper lunch
-- Any of the neighborhood cafes along Lower Magazine
-
-Walk Magazine Street after eating. Final shopping, final neighborhood stroll.
+Sucré for coffee and pastries, Stein's Market & Deli for a proper lunch, or any of the neighborhood cafés along Lower Magazine. Walk the street after eating for final shopping and one more look at the neighborhood.
 
 ### 2:00 PM — Pool and Packing
 
-The last afternoon. Pool open. Anyone who wants the pool, take it. Pack between pool sessions.
+Last afternoon. Pool for whoever wants it, packing between sessions.
 
 ### 6:00 PM — Final Dinner
 
-Don't leave this unplanned. The group that tries to figure out Sunday dinner at 5 PM ends up at a mediocre tourist spot because reservations are full.
-
-**Best Sunday dinner options:**
-- Neighborhood restaurant near your base (something you haven't done yet)
-- Commander's Palace if Saturday was the Warehouse District (reverse the order)
-- At the house — buy good ingredients Sunday afternoon, cook together, eat at the table
-
-The at-home Sunday dinner is often the most memorable meal of the trip. Everyone's a little nostalgic. The conversation is better. You're at your own table.
+Don't leave this unplanned — the group that tries to sort Sunday dinner at 5 PM ends up at a mediocre spot because everything good is booked. A neighborhood restaurant near your base you haven't tried yet works, or reverse Saturday's order if you did Warehouse District already. The at-home option — good ingredients bought that afternoon, cooked together, eaten at the table — is often the meal people remember longest. Everyone's a little nostalgic by night five.
 
 ---
 
 ## Departure Strategy
 
-**Sunday night or Monday morning departures:** Sunday flights from MSY are competitive — book early.
-
-**Monday morning departures:** Consider staying Sunday night and flying out Monday. MSY Monday mornings are calmer, fares can be lower, and you get one more night without the rushed checkout.
-
-**Airport transfers:** Same coordination as arrival. Charter a van if you have 15+.
+Sunday night and Monday morning flights out of MSY are both workable — Sunday fares are competitive if you book early, and a Monday morning departure means a calmer airport and one more night without a rushed checkout. Airport transfers work the same as arrival day: charter a van once you're moving the whole group at once.
 
 ---
 
 ## The 5-Day Neighborhood Rotation
 
-One of the advantages of a 5-day trip is that you actually get to know multiple neighborhoods rather than passing through them. Here's the distribution:
+The advantage of five days over three: you actually get to know multiple neighborhoods instead of passing through them.
 
 | Day | Primary Neighborhood | Secondary |
 |-----|---------------------|-----------|
-| Wednesday | Your home base | — |
+| Wednesday | Home base | — |
 | Thursday | Mid-City or Bywater | Marigny |
 | Friday | French Quarter | Garden District / Uptown |
 | Saturday | Day trip or home base | — |
 | Sunday | Magazine Street | Home base |
 
-After 5 days, your group will have a genuine sense of each neighborhood and how they relate to each other.
+By Sunday, your group has a genuine sense of how these neighborhoods relate to each other — something a shorter trip rarely delivers.
 
 ---
 
 ## Pro Tips
 
-1. **The longer trip benefits from real pacing.** 5 days is long enough to have a slow afternoon or a house day. Don't fill every slot. The unscheduled time is part of why you chose 5 days.
+1. **Five days rewards real pacing.** You have room for a slow afternoon or a full house day — don't fill every slot just because you can. The unscheduled time is why you booked five days instead of three.
 
-2. **Let the itinerary flex around your group's energy.** After the signature dinner Saturday night, some groups are done — they want Sunday to be low-key. Others have more energy. Don't fight the group's natural rhythm.
+2. **Let the schedule flex around the group's energy.** After Saturday's signature dinner, some groups want a quiet Sunday; others still have gas in the tank. Don't fight it.
 
-3. **Shop at the French Market on a weekday morning.** The tourist crowds are thinner. Better for buying local goods, produce, and coffee.
+3. **Shop the French Market on a weekday morning.** Thinner crowds, better browsing for local goods and produce.
 
-4. **A second Frenchmen Street visit is not a bad idea.** The first time you learn the street. The second time you can actually linger at the best spot.
+4. **A second Frenchmen Street night isn't excessive.** The first time you learn the street. The second time you actually linger at the best spot instead of scouting.
 
-5. **Rainy days happen.** New Orleans gets afternoon thunderstorms especially in summer. Have a rainy day plan: NOMA, WWII Museum, or a long lunch that runs late into the afternoon.
+5. **Have a rainy-day plan ready.** New Orleans gets afternoon thunderstorms, especially in summer — see the [rainy day guide](/guides/rainy-day-guide/) for the backup options rather than improvising one at 2 PM.
 
-6. **The city's best moments are long meals.** Schedule at least one dinner with no post-dinner plan. Let the table linger. Order another bottle. This is how New Orleans restaurants are meant to be experienced.
+6. **Schedule at least one dinner with no plan after it.** Let the table run long. This is how New Orleans restaurants are meant to be used.
 
-7. **Buy good coffee before you arrive.** CDM Coffee and Chicory (Community Coffee brand) is a New Orleans institution. Start every morning with chicory coffee at the house. It will become part of how you think about the trip later.
+7. **Buy real coffee before you arrive.** Community Coffee's chicory blend is a New Orleans institution — start every house morning with it and it becomes part of how the trip gets remembered later.
 
 ---
 
-## For Large Groups: Home Base
+## For a Big Group: Home Base
 
-For a 5-day trip, having the right property matters even more than on a 3-day trip. You're spending more time at home base. The kitchen gets used more. The pool gets used more. The common space matters.
+A five-day trip leans on the house itself more than a three-day one does — the kitchen gets used more, the pool gets used more, and the common space is where a good chunk of the trip actually happens. Getting the property right matters more here than on a shorter stay.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, local art throughout, complete privacy. Five nights at Castleday means five evenings with your whole group in one space. The Bywater is one of the best neighborhoods in the city for groups — walking distance to Frenchmen Street, 15 minutes to the Quarter.
+Bywater villas like Castleday Retreats put a group close to Frenchmen Street and the Quarter with total privacy and a pool per house — five nights means five evenings with the whole crew in one space and nobody sharing a pool deck with strangers. Lower Garden District options like The Syd trade some of that privacy for a shared heated pool, hot tub, and outdoor kitchen one block from the St. Charles streetcar — easy access to every neighborhood in this itinerary. Deeper inventory across the Lower Garden District and Central City, and hotel-block properties like The Roosevelt or Hotel Peter & Paul, suit groups with mixed budgets or anyone who wants their own key and their own bill. Spread the search across the field rather than fixating on one name — fit matters more than brand for a stay this long.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Five nights here means easy access to every neighborhood in this itinerary. The outdoor kitchen makes the at-home dinners easy and excellent.
+For the largest selection, book 6+ months out.
 
-For a 5-day group trip, the at-home meals and pool evenings are not just logistics savings — they're the most important parts of the trip. Choose your property accordingly.
-
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, private pools
-- **The Syd** — Lower Garden District, up to 22 per villa, outdoor kitchen and amenities
+[See where to stay for large groups →](/where-to-stay/)
