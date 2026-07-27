@@ -1,10 +1,10 @@
 ---
 title: "Day Trips from New Orleans for Large Groups"
-description: "Plantation tours, Cajun Country, the Gulf Coast, and Lafayette — day trip options from New Orleans with transportation logistics for groups of 10-30."
+description: "Plantation tours, Cajun Country, the Gulf Coast, and Lafayette — day trip options from New Orleans with transportation logistics for a big group."
 category: "Activities & Day Trips"
 card_title: "Day Trips from NOLA"
-card_description: "Plantations, swamps, Cajun Country, and the Gulf Coast. Day trips for groups of 10-30."
-date: 2026-05-24
+card_description: "Plantations, swamps, Cajun Country, and the Gulf Coast. Day trips for the whole crew."
+date: 2026-07-27
 ---
 
 New Orleans is enough for most groups. Most people don't need to leave. But if your group has extra days, or if you specifically came to see more of Louisiana, there are some genuinely exceptional day trips within two hours.
@@ -14,7 +14,7 @@ The key logistics challenge for large groups: you can't just take multiple Ubers
 ## Quick Planning Checklist
 
 - Identify your target destination before worrying about transportation
-- For groups of 10+, charter transportation is almost always the right answer
+- Once the group hits real size, charter transportation is almost always the right answer
 - Book plantation tours and attraction tickets in advance — many sell out
 - Build in extra time — groups move slower than individuals
 - Carry water, snacks, sunscreen — you'll be outside for much of these trips
@@ -24,16 +24,18 @@ The key logistics challenge for large groups: you can't just take multiple Ubers
 
 ## The Transportation Problem First
 
-Getting a group of 15-25 people to a destination 60-90 minutes away is not a casual coordination problem.
+Getting a big group to a destination 60-90 minutes away is not a casual coordination problem.
 
 **Your options:**
 
 | Option | Best for | Notes |
 |--------|----------|-------|
-| Charter van (12-15 pax) | Groups of 10-14 | Rent with driver, or designated driver group |
-| Charter bus (20-30+ pax) | Groups of 15-30 | Best for full-group day trips, roughly $75-150/hr |
+| Charter van (12-15 pax) | A smaller crew | Rent with driver, or designated driver group |
+| Charter bus (20-30+ pax) | The whole group traveling together | Best for full-group day trips, roughly $75-150/hr |
 | Tour operator with transport | Any size | They handle everything; often best value |
-| Caravan of rentals | 10-15 | Works but creates group cohesion issues |
+| Caravan of rentals | A mid-size crew | Works but creates group cohesion issues |
+
+See the [charter bus guide](/guides/nola-group-charter-bus-guide/) for how to actually book one of these for a group this size — capacity tiers, lead time, and what a quote should include.
 
 For most groups, booking a tour operator who includes transportation is the cleanest option. You pay more per person but eliminate logistics entirely — they pick you up, take you there, and bring you back.
 
@@ -41,7 +43,7 @@ For most groups, booking a tour operator who includes transportation is the clea
 
 ## Plantation Tours
 
-The plantation experience is complex, important, and worth doing thoughtfully. The best tours in Louisiana now engage seriously with the full history — enslaved people's lives, not just the architecture. Look for tours that do this.
+The plantation experience is complex, important, and worth doing thoughtfully. The best tours in Louisiana now engage seriously with the full history — enslaved people's lives, not just the architecture. Look for tours that do this. For a deeper dive into the ethical framing and full-day logistics, see the [plantation tour guide](/guides/nola-group-plantation-tour-guide/).
 
 ### Oak Alley Plantation
 
@@ -123,7 +125,7 @@ About 80 miles northwest of New Orleans, the state capital is not primarily a to
 
 ### For Sports Groups
 
-LSU's Tiger Stadium is one of the great college football venues in America. If a game falls during your trip and your group includes any SEC football fans, a Baton Rouge game day is an exceptional experience — tailgating, the stadium atmosphere, and then drive back to New Orleans.
+LSU's Tiger Stadium is one of the great college football venues in America. If a game falls during your trip and your group includes any SEC football fans, a Baton Rouge game day is an exceptional experience — tailgating, the stadium atmosphere, and then drive back to New Orleans. The [sports weekend guide](/guides/sports-weekend/) covers gameday logistics for a group in more depth.
 
 **Logistics:** This requires planning around the LSU schedule (September–December). Book well in advance. Charter bus for the group, tailgate parking, general admission vs. reserved tickets.
 
@@ -194,12 +196,12 @@ Search for "New Orleans plantation tour group" and "New Orleans day trip group c
 
 ---
 
-## Base Camp: Where to Stay in New Orleans
+## For a Big Group
 
-The best day trips start and end at a great home base. Large groups in New Orleans stay at:
+The best day trips start and end at a great home base. A charter van or bus can typically pick up directly from a villa or room block, which matters more for a big group than it sounds — nobody wants to coordinate rideshares to a departure point at 7:30 AM.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Art-filled, private pools, full kitchens. Come back from a long day trip and decompress by the pool.
+Look for a base within 20-30 minutes of the highway routes out to the plantations, Cajun Country, or the Gulf Coast, with real common space to decompress in when the group gets back. That's less about any one property and more about fit: a villa with a pool suits a group that wants to collapse poolside after a hot day outside the city; a room block suits a group that wants everyone to scatter to their own space. Spread the search across the property field rather than fixating on one name.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. Return from a hot day trip and get in the hot tub.
+For the largest selection, book 6+ months out.
 
-Both properties are 20-30 minutes from the departure points for most day trips via highway — you're not losing time commuting before you even get started.
+[See where to stay for large groups →](/where-to-stay/)
