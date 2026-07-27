@@ -1,240 +1,185 @@
 ---
-title: "New Orleans Bachelorette Weekend: Hour-by-Hour"
-description: "A tactical 3-day bachelorette weekend itinerary for groups of 10-25 in New Orleans. Day-by-day, with real logistics."
+title: "The Thursday-to-Sunday New Orleans Bachelorette Itinerary"
+description: "A tactical Thursday-to-Sunday bachelorette itinerary for a big group in New Orleans — drag brunch, Frenchmen Street, one honest Bourbon night, and the recovery plan. Every venue verified for 2026."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Weekend Itinerary"
-card_description: "Hour-by-hour, day-by-day bachelorette planning for groups of 10-25. The tactical version."
-date: 2026-05-24
+card_description: "Thursday to Sunday, hour by hour — drag brunch, Frenchmen Street, one Bourbon night, and the landing. Every venue checked for 2026."
+date: 2026-07-27
 ---
 
-The [overview bachelorette guide](/guides/bachelorette-party/) covers the basics. This one is the actual playbook—what happens at what time, how to move a group of 15 people from A to B without losing anyone, and where the real moments happen.
+Here's the verdict up front: the bachelorette trips that work in New Orleans all have the same shape. Trickle in Thursday and don't try to be impressive. Spend Friday on live music. Peak on Saturday. Land the plane on Sunday. One Bourbon Street night — exactly one — and it's Saturday.
 
-New Orleans bachelorette weekends have a formula that works. Deviating from it too much creates chaos. Following it creates a trip everyone talks about for years.
+The trips that don't work have the same shape too: two Bourbon nights in a row, six activities in three days, and a Sunday spent apologizing to each other. This guide is the first kind, hour by hour, with every venue checked in 2026 — because an alarming amount of what's published about this city recommends places that no longer exist.
 
-Three days. Two big nights. One slow morning. That's the shape.
+Base yourself in the [Bywater or Marigny](/neighborhoods/bywater/). The reasoning gets its own section below, but the short version: the best drag brunch, the best wine garden, and three blocks of nightly live music are all a walk from your door, and the French Quarter is a seven-dollar Uber away. The reverse is not true of anywhere in the Quarter.
 
 ## Quick Planning Checklist
 
-- Lock accommodations 6-8 weeks out (large group spots go fast)
-- Book the big dinner for Night 2 at the same time
-- Assign a ["logistics lead"](/guides/nola-group-trip-roles-assignment-guide/) — one person who isn't the bride
-- Build the activity list, then cut it in half
-- Create a group Venmo or split-pay setup before you arrive
-- Send arrival-day logistics (address, parking, check-in time) 48 hours before
-- Pack a bag of recovery supplies: Pedialyte, ibuprofen, face masks, sunscreen
+- Book the house first — for the largest selection of large-group properties, book 6+ months out
+- Put down the drag brunch deposit the moment dates are set (it books out months ahead)
+- Book the one fancy dinner and ask for the private room — call, don't use the app
+- Set a Preservation Hall reminder: the calendar posts about two weeks before each month, and weekend sets sell out
+- Pre-book a karaoke balcony package for Saturday night (details below)
+- Create the group Venmo or Splitwise before anyone boards a plane
+- Tell everyone: comfortable closed-toe shoes. The cobblestones eat heels
+- Ask every venue about glitter, boas, and confetti in writing — bans are real and unevenly enforced
+- Pack small bills. The best music in this city runs on cash tip jars
 
 ---
 
-## Day 1: Thursday — Arrivals and Settle In
+## Why the Bywater Wins as Base Camp
 
-The first day is not the night to go hard. It's the night to arrive, connect, and build momentum.
+The whole [where-to-base-yourself question](/guides/bachelorette-itinerary-bywater/) has a clean answer for a bachelorette specifically, because the three anchor experiences of the weekend are all in one corner of the city:
 
-### Afternoon (2–6 PM)
+| The weekend's anchors | Neighborhood | From a Bywater villa |
+|---|---|---|
+| Bacchanal Wine (Thursday dinner) | Bywater | Walk |
+| Frenchmen Street music (Friday night) | Marigny | Walk |
+| The Country Club drag brunch (Saturday) | Bywater | Walk |
+| French Quarter (Saturday night) | — | Short ride |
 
-- First arrivals at the rental — set up the welcome area
-- Make a liquor and grocery run before the late arrivals land
-- Stock the fridge: champagne, seltzers, snacks, fruit, waters
-- Pool time while people trickle in
-
-If everyone's coming from different flights, assign someone to stay at the rental and receive arrivals. Don't try to synchronize 15 people at the airport. Everyone Ubers in.
-
-### Evening (6–10 PM)
-
-- Welcome toast once the group is together — keep it short
-- Dinner at the house or a casual nearby restaurant
-- Low-key night games or a group activity at the rental
-- Early to bed by 11 PM — Night 2 is the big one
-
-**Why light Night 1 matters:** You have 3 nights. Burning everyone out on arrival night leads to a group of zombies on Day 2. Pace is everything.
+Nobody herds a big group onto anything. Nobody splits across hotel floors. Late arrivals Uber straight from the airport and find the party. And the morning after, the neighborhood is quiet — which cannot be said of any address within earshot of Bourbon.
 
 ---
 
-## Day 2: Friday — The Main Event
+## Thursday — Trickle In
 
-This is the day everyone planned for. Structure it so the evening is the climax.
+**The rule for arrival day: no synchronized anything.** People are flying in from all over. Don't force airport coordination — everyone Ubers or shares a cab from the airport on their own schedule, and one designated person (not the bride) is at the house receiving bodies and champagne deliveries.
 
-### Morning (9 AM–12 PM)
+### Afternoon
 
-- Slow start — don't force an early alarm
-- Brunch at the house: make it a production, not an afterthought
-- Pool time or a leisurely walk around the neighborhood
-- Coordinate timing so everyone's ready by noon
+- First arrivals do the grocery and liquor run: champagne, seltzers, waters, real snacks
+- Pool time while the group assembles
+- Set up the bride's welcome moment — keep it simple, this is night one of three
 
-**If you're brunchin' out:** The Country Club (pool + brunch combo), Atchafalaya (Bloody Mary bar, patio), or Willa Jean. Call ahead for groups over 8.
+### Evening: Bacchanal
 
-### Afternoon (12–5 PM)
+Dinner is **Bacchanal Wine** (600 Poland Ave), and it's ideal for arrival night for one structural reason: **no reservations, no seating time, no ceremony.** It's a backyard wine garden with live jazz every night — you buy bottles and a cheese board inside, claim a table under the string lights, and stay for hours. The group that landed at 3 PM walks over at 5. The one whose flight got in at 8:30 Ubers straight there and finds fourteen people waving. No restaurant on earth handles a trickle-in bachelorette better, and it happens to be one of the best evenings New Orleans offers at any group size.
 
-Pick ONE activity for the afternoon. Don't try to do three things. Options by group energy:
-
-| Activity | Best for | Approx. duration |
-|----------|----------|-----------------|
-| Spa day / mani-pedis | Pampering crowd | 2-3 hours |
-| Swamp tour | Adventurous group | 3 hours including transport |
-| Cocktail-making class | Foodies / mixers | 2 hours |
-| Garden District walking tour | Low-key, curious crowd | 1.5 hours |
-| Bayou kayaking | Active groups | 2 hours |
-| Shopping on Magazine Street | Shoppers | 2-3 hours |
-
-Book whatever you pick at least 2 weeks ahead. Don't wing the activity.
-
-### Getting Ready (5–7 PM)
-
-This takes longer than you think. With a group of 15, you need:
-
-- Two bathrooms minimum (factor this into your rental choice)
-- A playlist that builds energy
-- Light snacks and drinks while people get ready
-- A 7 PM departure target, which means a 5 PM start
-
-### Dinner (7–9:30 PM)
-
-The big dinner. Book this 3-4 weeks ahead. Call the restaurant directly and ask about large-group options, private rooms, or reserved sections — the [large group seating guide](/guides/nola-group-large-group-seating-strategy-guide/) covers which restaurants actually want a table your size versus which ones just tolerate it.
-
-**Best options for 12-20:**
-
-| Restaurant | Why | Notes |
-|------------|-----|-------|
-| Commander's Palace | Classic NOLA, celebratory, legendary | Call for private dining; jacket recommended |
-| Compère Lapin | Caribbean-influenced, stylish, fun | Ask for the back section |
-| Cochon | Southern food done right, handles big groups | Good pacing for long tables |
-| Pêche | James Beard winner, massive space | Raw bar for pre-dinner drinks |
-| Coquette | Elegant, intimate feel even for groups | Best for smaller bach parties, 12-15 |
-
-Budget roughly $80-120/person for dinner with drinks. Not the night to split evenly — use a shared tab and divide by the count.
-
-### Night Out (9:30 PM–late)
-
-Two routes. Pick one based on your group — see the [day drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) if your group is still deciding what pace it wants for the night.
-
-**Route A: Frenchmen Street** (the better option, honestly)
-- Start at d.b.a. — solid live music, good space
-- Move to The Spotted Cat — smaller, more electric
-- End at Maison — multiple floors, dancing late
-- Walk between all three. No transportation needed.
-
-**Route B: French Quarter**
-- Start with a drink at The Carousel Bar (Hotel Monteleone) — it actually rotates
-- Walk to Bourbon Street — get it out of your system
-- Pat O'Brien's for the classic hurricane experience
-- Find a live music spot to end the night right
-
-For most groups, Frenchmen Street wins. It has better music, better vibe, and it's easier to keep a big group together on three connected blocks.
-
-**Party bus:** If you want transportation that doubles as the party, this is the night. Book it for 3-4 hours, starting from your rental to dinner and through the night. One flat fee, no coordination.
+Cap the night there, or wander twenty minutes toward Frenchmen Street for one nightcap set. Then home. Thursday ends before midnight or Saturday will collect the debt.
 
 ---
 
-## Day 3: Saturday — Recovery and Round Two
+## Friday — The Music Day
 
-The morning is sacred. Protect it.
+### Morning
 
-### Morning (9 AM–12 PM)
+Slow. Coffee at the house, pool, no alarms. If the group needs a mission, the Quarter in daylight is a different city: Royal Street galleries, the French Market for cheap boas and props, and the tarot readers around Jackson Square (about $20 for a reading, cash, no appointment — send three brides-maids to three different readers and compare notes at lunch).
 
-- No alarm unless flights demand it
-- Coffee, recovery drinks, light breakfast at the house
-- Pool time — this is legitimately one of the best hours of the whole trip
-- Recap the previous night in detail
+### Afternoon: Pick Exactly One
 
-The pool-morning after a big night is where the real memories get made. Don't rush past it.
+| Activity | The deal | Damage |
+|---|---|---|
+| Cocktail class, New Orleans School of Cooking | 90 minutes, courtyard, four classic NOLA drinks, caps at 14 — sized for a bachelorette | about $95 a head |
+| Hands-on Creole cooking class | The BYOB cooking school option — bring your own champagne to gumbo class | about $110 a head |
+| Private pedal barge charter | BYOB cycle boat on the water, 105 minutes, the whole crew pedals | about $900 flat |
+| Bounce class at the house | A local instructor teaches the group to bounce like it's a Big Freedia video | varies, book 2–4 weeks out |
+| Spa afternoon | The proven big-group spa move: a private room all day, bring your own champagne | treatment prices |
 
-### Afternoon (12–5 PM)
+One. Not two. The afternoon needs slack in it, because getting a big group dressed takes ninety minutes minimum and Friday night is the best music night of the trip.
 
-Low-key by design. Options:
+**Golden hour:** walk to Crescent Park, the riverfront park on the Bywater levee, for the skyline-over-the-river photo with go-cups. Free, gorgeous, and nobody's fighting for a rooftop reservation.
 
-- Café Du Monde: Yes, it's touristy. Do it anyway. Beignets + café au lait. 
-- Stroll through the French Quarter — daytime is totally different
-- Magazine Street for any last-minute shopping
-- Second brunch (it happens)
+### Evening: Frenchmen Street
 
-### Evening: The Chill Night
+Dinner is **The Maison** (508 Frenchmen) — and this is the single most efficient booking of the weekend: dinner seating, live jazz downstairs, reserved sections that hold the whole crew, and on Friday and Saturday nights a **free drag show upstairs at 8 PM**. Dinner, music, and a show, one address, no cover.
 
-Night 3 is optional. Some groups go home Saturday. If you're staying through Sunday, keep it lower-key:
+Then work the street. The [Frenchmen Street playbook](/guides/live-music-guide/) in one paragraph: **The Spotted Cat** is the tiny trad-jazz icon (no cover, cash-only bar, a drink per set — a big group rotates in, it doesn't occupy); **d.b.a.** has the best sound and a modest cover; **Blue Nile** brings the brass and the dance floor late. Between sets, the **Palace Market** night art market at 619 Frenchmen is open past midnight — real local art, and a far better souvenir than anything on Decatur.
 
-- Dinner at Bacchanal Wine — the wine garden with live music is perfect for this energy
-- Walk the Bywater / Marigny
-- Frenchmen Street again, but earlier and with less ambition
-- Back to the rental by midnight
+Two rules keep the night great. First, don't try to keep everyone in one room — split into pods, regroup on the sidewalk, the street is two blocks long. Second, [the tip jar is the cover charge](/guides/nola-group-live-music-tipping-protocol-guide/): five to ten dollars a person, per room, in cash. The no-cover economics of Frenchmen only work if you hold up your end.
 
 ---
 
-## Day 4: Sunday — Departure
+## Saturday — The Peak
 
-- Breakfast together at the house if you can
-- Check-out logistics: who's last out, who has the key
-- Nobody books a 10 AM flight — it's not worth it
+### Late Morning: Drag Brunch at The Country Club
+
+**The Country Club** (634 Louisa St — in the Bywater, walking distance) is the canonical New Orleans drag brunch, and it is the hardest reservation of the entire weekend: seatings at 10 AM and 1 PM, a $25-per-person deposit that credits to your bill, 21+ with IDs checked. It books out months ahead — this is the first thing you reserve after the house. Tip the performers in cash, generously; it's the show's actual economy. Ask about their prop rules when you book (their glitter ban is documented and enforced on a mood). Afterward, there's a pool in the back with day passes — the brunch can become the whole afternoon. More options at the [drag show guide](/guides/nola-group-drag-show-guide/) if the dates don't line up.
+
+### Afternoon: Protected Recovery
+
+Back to the house. Pool, naps, snacks. If the budget allows one splurge on logistics, this is where a mobile glam squad earns it — hair and airbrush teams come to the villa and run the whole group in parallel while everyone drinks coffee in robes. Departure target for dinner: 7 PM, which means getting-ready starts at 5.
+
+### Dinner: The Dressed-Up One
+
+Book this one six to eight weeks out, by phone, and say the words "private room" — the [large group seating guide](/guides/nola-group-large-group-seating-strategy-guide/) covers which restaurants actually want a table your size versus which ones just tolerate it.
+
+| Restaurant | Why | Know before you book |
+|---|---|---|
+| Arnaud's | Private rooms include two balconies over Bourbon — the group photo of the trip; French 75 Bar aperitifs downstairs | Collared shirts required, no athletic wear |
+| GW Fins | Private dining room seats 30 — the easiest large-group yes in the Quarter | Business casual, seafood-forward |
+| Galatoire's | The grande dame; upstairs rooms bookable | Jackets after 5 PM (loaners exist); parties of 16+ go set-menu |
+| Antoine's | Fourteen private rooms and 185 years of practice | Parties of 13+ must call |
+
+### Night: The One Bourbon Street Night
+
+Bourbon is worth exactly one night, in exactly this order, in the 8-to-11 window — after 11 you'll have seen it, and after midnight it's a different, stickier movie. The full route logic lives in the [bar crawl guide](/guides/bar-crawl-guide/), but the short form:
+
+1. **Fritzel's** (733 Bourbon) — the one genuine jazz room on the street. No cover, one drink per set, tip the band.
+2. **Pat O'Brien's** — dueling pianos, flaming fountain, Hurricanes. Land before the piano room fills.
+3. **Tropical Isle** — one Hand Grenade each. One. It's the strongest drink on the street and it is not kidding.
+4. **Cat's Meow** — the best bachelorette stop on Bourbon: karaoke, no cover, and **pre-bookable private balcony packages**. Reserve the balcony days ahead, put the bride on stage, and let the street do the rest.
+5. **Lafitte's Blacksmith Shop** (941 Bourbon) — the nightcap. A 1720s candlelit tavern with a piano singalong in the back and a grape VooDoo Daiquiri that ends arguments. This is also the turnaround point — past the 900 block, Bourbon goes dark and residential.
+
+**Late-night fuel:** Clover Grill (24 hours, burgers under a hubcap) or Verti Marte's takeout po-boys. **Getting home:** Bourbon is barricaded at night — pin rideshares a block off, on Royal or Dauphine, at a lit corner, and call two or three cars at once.
 
 ---
 
-## Logistics That Kill Bach Parties
+## Sunday — The Landing
 
-**The Split Check Problem**
-
-Use Splitwise or a single group Venmo account. One person pays for everything group-related and collects from everyone else. Handle it before you arrive. Chasing $47 from 14 people at midnight is a mood killer.
-
-**The Straggler Problem**
-
-Build 20-minute buffers into every transition. When you say 7 PM dinner, budget for a 7:20 actual arrival. Tell your restaurant. Communicate ahead.
-
-**The Dietary Restriction Problem**
-
-Survey everyone before you book restaurants. The bride's vegan friend who you forgot to tell the restaurant about will cause problems.
-
-**The Over-Schedule Problem**
-
-Every bach trip that tries to do 6 activities in 3 days fails. Pick 2. Do them well.
+- **Beignets:** Café Beignet at Musical Legends Park (311 Bourbon) seats a big group in a courtyard with live jazz from 10 AM — a far saner group plan than the Café du Monde line. (Do Café du Monde from the takeout window, and eat them on the river.)
+- **Or brunch without leaving the neighborhood:** Elizabeth's in the Bywater — praline bacon, no pretense, walkable. The Quarter option is the Court of Two Sisters jazz-brunch buffet in the courtyard, which feeds any headcount without a single menu negotiation.
+- **The closer:** a **Preservation Hall** afternoon set — weekend matinees run early afternoon, tickets from $25, 45 minutes, card-only, no photos, no drinks, no air conditioning, entirely worth it. It's a shrine, not a bar, and it's the right final note before airport Ubers.
+- Nobody books a flight before noon. The people who do eat their beignets alone.
 
 ---
 
-## Budget Breakdown (3 nights, per person)
+## What to Skip (Verdicts)
 
-For the fuller math behind these numbers, see the [budget guide](/guides/budget-guide/).
+- **A second Bourbon night.** The single most common regret in every trip recap. Friday belongs to Frenchmen.
+- **The private second line parade.** Beautiful, and the all-in cost — band, city permit, police escort — stacks up to a four-figure line item for thirty minutes of parade. If the budget has one big flex in it, the balcony dinner and the glam squad deliver more weekend per dollar. (If someone's heart is set, it's a real bookable thing — just plan it months out, not weeks.)
+- **The swamp tour, unless it's a priority.** It's honestly great — but with hotel pickup it's four and a half hours door to door. That's the whole Friday afternoon and then some.
+- **Carousel Bar with the whole crew.** The bar seats 25 and rotates; your group of fourteen will stand behind it watching strangers ride. Send a splinter cell on Friday afternoon instead.
+- **Beads from a shop.** You're not at Mardi Gras, and the boas at the French Market cost less.
 
-| Category | Budget | Mid-range | Splurge |
-|----------|--------|-----------|---------|
-| Accommodations | $75-100 | $125-175 | $200-275 |
-| Food & drinks | $175-225 | $300-400 | $450-600 |
-| Activities | $50-100 | $100-200 | $200-300 |
-| Transportation | $30-50 | $50-75 | $75-125 |
-| Party supplies/decor | $15-30 | $30-50 | $50-100 |
-| **Total** | **$345-505** | **$605-900** | **$975-1,400** |
+---
 
-*Excludes flights. Accommodations per person assumes group of 15-20.*
+## Stale Intel — What Closed or Changed
+
+Half the bachelorette guides on the internet still recommend these. Current as of mid-2026:
+
+| You'll read | Reality |
+|---|---|
+| "Dinner at Justine" | Closed permanently in 2025 |
+| "Palm Court Jazz Café" | Closed in 2024 |
+| "Frenchmen Art Market" | Closed — Palace Market at 619 Frenchmen is the live night market |
+| "Book the Big Drag Bus" | That's Nashville; New Orleans has its own drag party bus operator |
+| "Central Grocery is closed" | Reopened — the original muffuletta is back on Decatur |
+| "À la carte dinner at Emeril's" | Now a tasting-menu-only room at roughly $295 a head |
+| "Wander St. Louis Cemetery No. 1" | Closed to the public — one official tour operator gets you in, about $33 |
+
+---
+
+## Budget Reality
+
+For the Thursday-to-Sunday shape above, a workable planning number is **about $650 a head all-in, excluding flights** — roughly $150 a night each for a big shared villa, $300 on food and drink across the weekend, $120 on the activity and brunch layer, and the rest on rideshares and tip-jar cash. The splurge version — private rooms, glam squad, pedal barge — lands closer to twice that. The lever that moves the number most is the house-per-person math, which is exactly why the [group budget guide](/guides/budget-guide/) tells you to fill every bed.
 
 ---
 
 ## Pro Tips
 
-1. **The bride doesn't plan her own party.** One person owns the logistics. The bride shows up and has fun.
-
-2. **Don't assign every hour.** Leave blank space in the itinerary. The best moments fill themselves.
-
-3. **Get matching something.** It doesn't have to be sashes and tiaras. Even matching sunglasses work. It creates instant group cohesion.
-
-4. **Book two massage appointments minimum.** One or two people always skip the big activity. Give them something to do.
-
-5. **The pool is underrated.** An extra day at the pool is never a bad use of time.
-
-6. **Frenchmen Street doesn't require planning.** Walk there, walk in, music is happening. No tickets, no reservations, no stress.
-
-7. **Last-night flights are not your friends.** Book Sunday-night or Monday-morning flights to avoid cutting Saturday short.
+1. **The bride doesn't plan her own party.** One [logistics lead](/guides/nola-group-trip-roles-assignment-guide/) who isn't her owns the bookings, the group chat, and the Venmo.
+2. **One surprise a day.** A planned moment — the flower crowns, the balcony toast, the tarot reading — beats a packed schedule every time. This is the single most repeated piece of advice from people who actually ran these trips.
+3. **Build twenty-minute buffers into every departure.** A dozen people are never ready at 7:00. Tell the restaurant 7:00 and mean 7:20.
+4. **Survey dietary restrictions before booking the big dinner,** and tell the restaurant when you book, not when you arrive.
+5. **Ask about last-call kitchens.** More than one group has watched a kitchen close mid-reservation on a late seating. Ask when you book.
+6. **Cash, small bills, everyone.** Tip jars, tarot readers, drag performers, pedicabs. The weekend's best moments are cash-powered.
+7. **Protect the Sunday morning pool hour.** The debrief around the pool is where the trip becomes lore. Don't schedule over it.
 
 ---
 
-## Where to Stay for Groups of 10-25
+## When to Go
 
-The venue defines your trip more than any single activity. For groups over 10, your options in New Orleans are narrower than you'd expect.
+October and the February-to-May run are peak New Orleans — the best weather and the biggest energy, at full pricing, and you'll be sharing the city with festival calendars (check your dates against Mardi Gras, French Quarter Fest, and Jazz Fest before booking anything). Summer is the value play if your crew is pool-first and heat-proof; late August through mid-September is the genuine value window, hot but pre-October-ramp. January is cheap and quiet. Whatever the month: the house is the scarce resource, so it gets booked first.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pool, full kitchen, art-filled interiors. The private pool is the anchor point for the whole trip — morning recovery, afternoon hangs, late-night dips. Bywater location puts you 10 minutes from Frenchmen Street on foot.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Great if your group wants central access to uptown restaurants and Magazine Street shopping, or if you're attending a wedding nearby.
-
-Both properties let the whole group stay together — no splitting across multiple Airbnbs or coordinating hotel rooms across the street from each other. That togetherness is what makes a bach trip a bach trip.
-
----
-
-## Book It
-
-Don't wait on accommodations. For groups of 12+, good options book fast.
-
-- Castleday Retreats – Bywater, private pools, up to 30/villa
-- The Syd – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
+[See where to stay for large groups →](/where-to-stay/)
