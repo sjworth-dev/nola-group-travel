@@ -11,7 +11,7 @@ A second line parade is one of the most distinctly New Orleans things that exist
 
 Here's the short version: a brass band plays, a club or organization leads the parade, and everyone else follows. That's the second line. You just show up, fall in behind the music, and walk through the neighborhood with a few hundred of your new best friends.
 
-For groups of 10-30, this is one of the best experiences New Orleans offers. Not a tourist attraction — a real thing that real New Orleanians do every Sunday, and have been doing for generations.
+For a big group, this is one of the best experiences New Orleans offers. Not a tourist attraction — a real thing that real New Orleanians do every Sunday, and have been doing for generations. If you'd rather see the two formats compared side by side before deciding which one fits your trip, the [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) breaks that down.
 
 ## Quick Checklist
 
@@ -52,7 +52,7 @@ It is not a tourist attraction. It is not organized by the city for visitors. It
 
 [WWOZ (wwoz.org)](https://wwoz.org) — New Orleans' community radio station — maintains the definitive second line parade calendar. Check the "Parade Calendar" section. New schedules are typically published mid-week for the coming Sunday.
 
-Most second lines run on Sunday afternoons, September through June. The season slows during summer (too hot, even by New Orleans standards) and stops entirely during Mardi Gras season when the city's parade schedule is different.
+Most second lines run on Sunday afternoons, September through June. The season slows during summer (too hot, even by New Orleans standards) and stops entirely during Mardi Gras season when the city's parade schedule is different. For a plan built entirely around chasing that Sunday schedule, see the [Sunday second line chase guide](/guides/nola-group-sunday-second-line-chase-guide/).
 
 ### Where They Start
 
@@ -126,14 +126,14 @@ It is as good as it sounds.
 Private second lines are common for:
 - Bachelorette parties
 - Corporate retreats
-- Wedding parties (post-ceremony or pre-reception)
+- [Wedding parties](/guides/wedding-weekend-guide/) (post-ceremony or pre-reception)
 - Milestone birthdays
 - Reunions
 - Large group arrivals into a venue
 
 ### Finding and Booking a Brass Band
 
-There are dozens of working brass bands in New Orleans. Most are available for private events. Ask your accommodation host, check local event companies, or search for established bands.
+There are dozens of working brass bands in New Orleans. Most are available for private events. Ask your accommodation host, check local event companies, or search for established bands. The [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) walks through the booking process, questions to ask, and what a fair quote looks like in more detail.
 
 **What to discuss when booking:**
 - Duration (45 minutes, 60 minutes, 90 minutes)
@@ -219,21 +219,12 @@ This is the best possible use of a Sunday in New Orleans if your timing works ou
 
 ---
 
-## Groups of 10-30: Where to Stay
+## For a Big Group
 
-For groups doing a private second line, your accommodation's starting location matters. Most brass bands can meet you at your rental and begin the parade from there — which is a spectacular way to open a corporate retreat, a wedding weekend, or a milestone birthday trip.
+A second line — public or private — belongs on every group itinerary. It is the thing that makes New Orleans different from every other city where people go to have a good time, and for a group doing a private band, it doubles as one of the best possible ways to kick off a [wedding weekend](/guides/wedding-weekend-guide/), a corporate retreat, or a milestone birthday trip.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater location is ideal for second lines: you're deep in the neighborhood where this tradition lives. Hiring a band to kick off from your villa and move through the Bywater and Marigny is a legitimate once-in-a-lifetime experience for a group. Private pools and full common areas mean the party continues after the parade.
+For a private second line specifically, your accommodation's starting location matters — most brass bands can meet the group at the rental and begin the parade from the front door. A Bywater base puts a group deep in the neighborhood where this tradition lives, walking distance from the Marigny; a Lower Garden District base gives easy streetcar access and a natural jumping-off point for a route through Uptown. A property with real common space matters too, since the party generally continues once the band packs up. Spread the search across the property field by fit rather than fixating on one name.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Easy streetcar access means you can get to any starting neighborhood efficiently. If you're hiring a private band, Lower Garden District makes a natural starting point for a parade through Uptown streets.
+For the largest selection, book 6+ months out.
 
----
-
-## Book the Experience
-
-A second line — public or private — belongs on every group itinerary. It is the thing that makes New Orleans different from every other city where people go to have a good time.
-
-For accommodations that put your group in the heart of the culture:
-
-- Castleday Retreats – Bywater, private villas, up to 30/villa
-- The Syd – Lower Garden District, multiple villas, up to 22/villa
+[See where to stay for large groups →](/where-to-stay/)
