@@ -15,7 +15,7 @@ For large groups, it requires planning. Here's how to do it right.
 
 ## Quick Planning Checklist
 
-- Book accommodations 4-6 months in advance — NYE is one of the most competitive booking windows of the year
+- Book accommodations early — NYE is one of the most competitive booking windows of the year; for the largest selection, book 6+ months out
 - Decide: Sugar Bowl or no Sugar Bowl (changes the logistics dramatically)
 - Secure one great dinner reservation for December 31st
 - Don't over-program the midnight hour — let the city handle it
@@ -50,7 +50,7 @@ The Sugar Bowl is one of college football's oldest and most prestigious bowl gam
 
 **Ticket access:** Sugar Bowl tickets are available but require advance purchase. The game is at Caesars Superdome. If your group includes college football fans, attending is a legitimate highlight of the trip.
 
-**Transportation:** The CBD area is busy on game day. Don't try to Uber during peak pre-game windows. Walk from CBD hotels. Charter bus from further neighborhoods.
+**Transportation:** The CBD area is busy on game day. Don't try to Uber during peak pre-game windows — see the [ride-share master guide](/guides/nola-group-ride-share-master-guide/) for how to move a large group when the roads are this jammed. Walk from CBD hotels. Charter bus from further neighborhoods.
 
 ### If Sugar Bowl Is the Anchor
 
@@ -84,15 +84,15 @@ New Year's Eve dinner is the centerpiece. This is not the night to be flexible a
 | Brennan's | Classic NOLA, celebratory | 15-25 | Good for groups who like festive vibes |
 | Cochon | Southern, casual-upscale | 20+ | Better value, still excellent |
 
-For groups of 20+: call the restaurant directly and ask about private dining rooms or full group reservations. NYE prix fixe menus are standard — you're not "being treated differently," that's just how it works that night.
+For a big table: call the restaurant directly and ask about private dining rooms or full group reservations — the [landmark restaurant booking guide](/guides/nola-group-landmark-restaurant-booking-guide/) covers how to actually get that call answered. NYE prix fixe menus are standard — you're not "being treated differently," that's just how it works that night.
 
 ### After Dinner: The Midnight Plan
 
 The best NYE midnight in New Orleans is not at a ticketed event. It's in the streets.
 
-**Option A: Frenchmen Street** — Walk or Uber to the Marigny. Live music at every venue. The streets fill with people as midnight approaches. Absolutely free except what you drink. The experience is completely authentic — not a tourist event, but where locals go.
+**Option A: Frenchmen Street** — Walk or Uber to the [Marigny](/neighborhoods/marigny/). Live music at every venue. The streets fill with people as midnight approaches. Absolutely free except what you drink. The experience is completely authentic — not a tourist event, but where locals go.
 
-**Option B: French Quarter / Bourbon Street** — Louder, more chaotic, more packed, but the energy of Bourbon Street at midnight on December 31st is its own thing. Pat O'Brien's will be insane in the best possible way.
+**Option B: French Quarter / Bourbon Street** — Louder, more chaotic, more packed, but the energy of [Bourbon Street](/guides/nola-bourbon-street-guide/) at midnight on December 31st is its own thing. Pat O'Brien's will be insane in the best possible way.
 
 **Option C: Mississippi Riverfront** — Woldenberg Park and the area near Jax Brewery have views of the fireworks over the river. Calmer crowd, beautiful backdrop.
 
@@ -123,7 +123,7 @@ January 1st in New Orleans is its own experience. Half the city is recovering. T
 
 **The New Year's Day brunch** — Whether you go out or cook at the house, this is the meal of the trip. Build it in, don't rush it.
 
-**The Second Line:** A traditional jazz funeral procession marches in the French Quarter on New Year's Day. This happens annually as a tradition. Check local listings for the specific time and route — it's free, it's on the street, and it's one of the most uniquely New Orleans experiences you can have.
+**The Second Line:** A traditional brass-band procession marches in the French Quarter on New Year's Day. This happens annually as a tradition. Check local listings for the specific time and route — it's free, it's on the street, and it's one of the most uniquely New Orleans experiences you can have. If your group wants to understand the tradition before joining one, the [second line guide](/guides/second-line-guide/) and the [private vs. public second line breakdown](/guides/nola-group-private-second-line-vs-public-guide/) cover the etiquette.
 
 ---
 
@@ -147,23 +147,25 @@ The NYE premium typically covers December 30, 31, and January 1. December 28-29 
 
 *Sugar Bowl tickets add $100-300+/person if attending*
 
+For a full breakdown of where a group trip's money actually goes, see the [budget guide](/guides/budget-guide/). If your group is leaning toward spending the night in rather than fighting the crowds, the [New Year's villa guide](/guides/nola-group-new-years-villa-guide/) covers that version of the night.
+
 ---
 
 ## Neighborhoods During NYE Week
 
-### French Quarter
+### [French Quarter](/neighborhoods/french-quarter/)
 
 The most obvious choice. Maximum energy, maximum access to everything, maximum crowds. Hotels are expensive. If you can handle the noise and the throngs, it's immersive.
 
-### Marigny / Frenchmen Street Corridor
+### [Marigny](/neighborhoods/marigny/) / Frenchmen Street Corridor
 
 Where you want to be at midnight. If you're staying in the Marigny, you walk to your destination. Quieter during the day, electric at night.
 
-### Bywater
+### [Bywater](/neighborhoods/bywater/)
 
-Close to the action but with a quieter home base. 10-minute walk or short Uber to Frenchmen Street. The best of both worlds.
+Close to the action but with a quieter home base. A short walk or Uber to Frenchmen Street. The best of both worlds.
 
-### Lower Garden District
+### [Lower Garden District](/neighborhoods/lower-garden-district/)
 
 Access to great restaurants and bars, slightly removed from the chaos. Streetcar to CBD for Sugar Bowl area. Uber to French Quarter.
 
@@ -171,7 +173,7 @@ Access to great restaurants and bars, slightly removed from the chaos. Streetcar
 
 ## Pro Tips
 
-1. **Book accommodations the moment you decide to go.** NYE in NOLA is not a "figure it out in October" situation. April or May is when the good large-group options book up for December 31st.
+1. **Book accommodations the moment you decide to go.** NYE in NOLA is not a "figure it out in October" situation — for the largest selection, book 6+ months out, same as any other big-group weekend on the calendar.
 
 2. **Make the NYE dinner reservation right after accommodations.** Private dining rooms at top restaurants fill up in the same window as large group rentals.
 
@@ -189,7 +191,7 @@ Access to great restaurants and bars, slightly removed from the chaos. Streetcar
 
 ## Where to Stay for NYE Groups
 
-NYE is the single toughest weekend to find large-group accommodation in New Orleans. Every short-term rental platform spikes on December 30-31, and options for 15+ people are genuinely limited.
+NYE is the single toughest weekend to find large-group accommodation in New Orleans. Every short-term rental platform spikes on December 30-31, and options big enough for the whole crew are genuinely limited.
 
 **Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Book months in advance for the NYE window. The Bywater location is excellent for NYE — you're 10 minutes from Frenchmen Street and not in the middle of the French Quarter chaos. Private pools, full kitchens, multiple common areas.
 
