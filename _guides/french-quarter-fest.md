@@ -1,10 +1,10 @@
 ---
 title: "French Quarter Festival: Group Guide"
-description: "How to plan a large group trip around French Quarter Festival — New Orleans' free music festival every April. What it is, how it differs from Jazz Fest, and how to make it work for 10-30 people."
+description: "How to plan a large group trip around French Quarter Festival — New Orleans' free music festival every April. What it is, how it differs from Jazz Fest, and how to make it work for the whole crew."
 category: "Festivals & Events"
 card_title: "French Quarter Festival"
 card_description: "New Orleans' free music festival every April. How it's different from Jazz Fest and how to do it right with a large group."
-date: 2026-05-24
+date: 2026-07-27
 ---
 
 French Quarter Festival runs every April and it's one of the best-kept secrets in American music festivals — though at this point, the secret is largely out. Free to attend, spread across multiple stages throughout the French Quarter, and featuring an almost entirely local lineup, it's the festival that New Orleans residents actually love.
@@ -15,7 +15,7 @@ For large groups, it's a genuinely great option: no single venue to coordinate a
 
 ## Quick Checklist
 
-- Book accommodations 3-4 months out — April is peak season in New Orleans
+- Book accommodations well ahead — April is peak season in New Orleans; for the largest selection, book 6+ months out
 - Make dinner reservations before you arrive (restaurants fill during FQF)
 - Download the festival app or check the schedule when it's announced — usually February/March
 - Identify 2-3 must-see acts per day and leave the rest unstructured
@@ -213,9 +213,9 @@ The festival is part of the trip, not the entire trip. Groups that treat it that
 
 Book everything as early as possible. April is one of New Orleans' busiest months — French Quarter Fest, the weather is excellent, and the tourism season is in full swing.
 
-**Accommodation:** 3-4 months out for large groups
-**Restaurants:** 4-6 weeks out for groups over 8
-**Flights:** As early as you can lock in dates
+**Accommodation:** Large-format properties and hotel blocks fill up early for April — see the booking note below.
+**Restaurants:** Book as soon as your dates are set; Quarter restaurants fill fast during FQF.
+**Flights:** As early as you can lock in dates.
 
 ### Getting Around
 
@@ -233,7 +233,7 @@ The French Quarter is walkable from almost any city-center accommodation. You do
 
 2. **Arrive early for must-see acts.** The festival is free but stages can fill up. If there's an act the whole group has to see, arrive 30 minutes before their set.
 
-3. **Never try to move a group of 15 through Bourbon Street at 3 PM during FQF.** Just don't. Bourbon is worse than usual during the festival.
+3. **Never try to move the whole crew through Bourbon Street at 3 PM during FQF.** Just don't. Bourbon is worse than usual during the festival.
 
 4. **Make dinner reservations before you leave home.** French Quarter restaurants fill during FQF. Locals and visitors both know it. Don't assume you can walk in.
 
@@ -245,15 +245,11 @@ The French Quarter is walkable from almost any city-center accommodation. You do
 
 ---
 
-## Where to Stay for FQF Groups
+## For a Big Group
 
-April is competitive. If you're going to French Quarter Fest with a group of 10-30, you need accommodations that can actually hold your group — and that means not counting on hotel rooms to work out.
+April is competitive. If you're bringing the whole crew to French Quarter Fest, you need accommodations that can actually hold everyone under one roof — and that means not counting on a block of separate hotel rooms to work out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater location puts you close enough to walk to FQF or take a short rideshare, and far enough from the chaos that your home base stays peaceful. Private pools become the decompression chamber at the end of festival days — which, after 6 hours of crowds and sound, is exactly what a large group needs. Book early; they fill up for FQF well in advance.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. The St. Charles Streetcar gets you to the French Quarter quickly, and the shared heated pool, hot tub, and outdoor kitchen make the between-festival hours genuinely comfortable. If your group wants a central location with easy access to Uptown restaurants for evening dining, this is a strong option.
-
-Both properties give you a home base that's genuinely comfortable — not a hotel corridor of rooms where the group fragments the moment the door closes.
+A [Bywater](/neighborhoods/bywater/) villa puts you close enough to walk to FQF or take a short rideshare, and far enough from the chaos that your home base stays peaceful — a private pool becomes the decompression chamber at the end of festival days, which, after hours of crowds and sound, is exactly what a large group needs. A Lower Garden District villa on the St. Charles streetcar line gets you to the Quarter quickly with a shared pool and hot tub for the between-festival hours. A hotel room block in the CBD or Warehouse District trades private amenities for own-key flexibility and mixed-budget billing. Spread the search across the property field rather than fixating on one name — fit matters more than brand for a group this size.
 
 ---
 
@@ -261,7 +257,6 @@ Both properties give you a home base that's genuinely comfortable — not a hote
 
 French Quarter Festival doesn't require a lot of planning. It rewards being present. Show up in the French Quarter, follow your ears, eat well, and stay until the music stops.
 
-For a large group, having one great home base changes the entire experience.
+For a large group, having one great home base changes the entire experience. For the largest selection, book 6+ months out.
 
-- Castleday Retreats – Bywater, private villas, up to 30/villa
-- The Syd – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
+[See where to stay for large groups →](/where-to-stay/)
