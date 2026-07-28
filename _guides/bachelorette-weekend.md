@@ -82,7 +82,7 @@ One. Not two. The afternoon needs slack in it, because getting a big group dress
 
 ### Evening: Frenchmen Street
 
-Dinner is **The Maison** (508 Frenchmen) — and this is the single most efficient booking of the weekend: dinner seating, live jazz downstairs, reserved sections that hold the whole crew, and on Friday and Saturday nights a **free drag show upstairs at 8 PM**. Dinner, music, and a show, one address, no cover.
+Dinner is **N7** (1117 Montegut St), the Bywater's hidden French-Japanese wine garden — an unmarked fence, a candlelit courtyard, tinned seafood taken seriously, and a natural wine list worth the trip on its own. The room is small and the secret is long out, so book it the day your dates are set. From there, Frenchmen is a walk away, and **The Maison** (508 Frenchmen) is where the night reassembles: live jazz downstairs, reserved sections that hold the whole crew, and a **free drag show upstairs at 8 PM** on Friday and Saturday nights, no cover.
 
 Then work the street. The [Frenchmen Street playbook](/guides/live-music-guide/) in one paragraph: **The Spotted Cat** is the tiny trad-jazz icon (no cover, cash-only bar, a drink per set — a big group rotates in, it doesn't occupy); **d.b.a.** has the best sound and a modest cover; **Blue Nile** brings the brass and the dance floor late. Between sets, the **Palace Market** night art market at 619 Frenchmen is open past midnight — real local art, and a far better souvenir than anything on Decatur.
 
