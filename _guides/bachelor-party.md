@@ -25,11 +25,15 @@ This guide covers everything for large groups — where to stay, what to do, and
 
 ### For Large Groups
 
-Most rentals cap at 10 guests. For larger groups:
+Most rentals cap at 10 guests. For larger groups, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down why a purpose-built rental usually beats a stack of hotel rooms for this trip type. The field is broader than any one name:
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. Perfect if you want a home base away from the chaos.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. Good if you want a home base away from the chaos.
 
 **The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. One block from St. Charles streetcar. More central location.
+
+**The Revelry** — Apartment-style floors in Central City, each holding 6-9 guests, with a shared saltwater pool. A good fit if the group is really a few smaller crews combining and wants separate billing per floor.
+
+**Hotel Perle** — CBD/Warehouse District group suites with a rooftop pool. Works well if the plan leans heavily on walking to nightlife rather than a quieter home base.
 
 ### Location Considerations
 
@@ -56,9 +60,9 @@ Most rentals cap at 10 guests. For larger groups:
 ### Day 2: The Main Event
 
 **Morning (pick one):**
-- **Golf:** TPC Louisiana, Audubon Park, City Park
-- **Fishing charter:** Redfish, speckled trout in the marshes
-- **Swamp tour:** Alligators, airboats, surprisingly fun
+- **Golf:** TPC Louisiana, Audubon Park, City Park — see the [large group golf guide](/guides/large-group-golf-guide/) for booking tee times as a group
+- **Fishing charter:** Redfish, speckled trout in the marshes — the [fishing guide](/guides/nola-group-fishing-guide/) covers splitting a big group across charters
+- **Swamp tour:** Alligators, airboats, surprisingly fun — the [airboat deep-dive guide](/guides/nola-group-airboat-deep-dive-guide/) has the full rundown
 
 **Afternoon:**
 - Return to the house
@@ -76,7 +80,7 @@ Most rentals cap at 10 guests. For larger groups:
 ### Day 3: Recovery
 
 **Morning:**
-- Slow start
+- Slow start — the [villa hangover recovery guide](/guides/nola-group-villa-hangover-recovery-guide/) covers stocking the house for exactly this morning
 - Beignets at Café Du Monde (embrace the tourist moment)
 - Bloody Marys
 
@@ -181,7 +185,7 @@ Three blocks of live music clubs. This is where locals actually go. For a struct
 
 ## Pro Tips
 
-1. **Pace yourselves.** No last call is a trap. You don't have to stay out until 6am every night.
+1. **Pace yourselves.** No last call is a trap. You don't have to stay out until 6am every night — the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) has an actual framework for this.
 
 2. **Eat real food.** Don't just drink. New Orleans food will save you.
 
@@ -197,8 +201,10 @@ Three blocks of live music clubs. This is where locals actually go. For a struct
 
 ---
 
-## Large Groups (15–30)
+## For a Big Group
 
-Most rentals cap at 10 guests. For groups of 15-30, options narrow fast. Properties like Castleday Retreats (Bywater, private pools, up to 30 per villa) and The Syd (Lower Garden District, shared heated pool and hot tub, up to 22 per villa) are purpose-built for this size. Book 2-3 months out for peak weekends.
+Most rentals cap at 10 guests. Once the crew hits the double digits, options narrow fast — the purpose-built villa and suite properties covered above exist specifically for this size, and spreading your search across that field by fit beats fixating on whichever name a friend mentioned last.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
