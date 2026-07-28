@@ -4,7 +4,7 @@ description: "Specific logistics, restaurant options, accommodation strategies, 
 category: "Planning & Logistics"
 card_title: "Group Size Guide"
 card_description: "The logistics change at every threshold. Here's exactly what to do with 10, 15, 20, and 30 people."
-date: 2026-05-24
+date: 2026-07-28
 ---
 
 Group travel doesn't scale linearly. Adding 5 more people doesn't just mean more coordination — at certain thresholds, you need a completely different approach to accommodations, restaurants, transportation, and activities.
@@ -28,15 +28,13 @@ Ten is the best number for group travel. It's big enough to feel like an event, 
 
 ### Accommodations
 
-At 10, you actually have solid Airbnb options. You can find large homes in the Marigny, Bywater, French Quarter, and Garden District that accommodate 10 comfortably. Still, search carefully — "sleeps 10" often means "8 people comfortably."
+At 10, you actually have solid Airbnb options. You can find large homes in the Marigny, Bywater, French Quarter, and Garden District that accommodate 10 comfortably. Still, search carefully — "sleeps 10" often means "8 people comfortably." The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through when a purpose-built rental beats a standard listing even at this smaller size.
 
-You also qualify as a smaller group at:
-- **Castleday Retreats** — At 10 people, one Castleday villa gives you 20 extra guest capacity and a private pool
-- **The Syd** — Excellent fit; villas sleep up to 22, so you have room to breathe
+At 10, you also fit comfortably inside the purpose-built large-group market with room to spare — a Castleday Retreats villa or a Syd villa both hold well past this headcount, and a Hotel Perle suite gives a group this size separate bills without losing a shared home base. See the [where-to-stay guide](/where-to-stay/) for the full property field and how to pick by fit.
 
 ### Restaurants
 
-At 10, almost every restaurant in New Orleans can take you. Call ahead (always), mention it's a party of 10, and ask for a reserved table or private area. Expect:
+At 10, almost every restaurant in New Orleans can take you. Call ahead (always), mention it's a party of 10, and ask for a reserved table or private area — the [large-group restaurant seating guide](/guides/nola-group-large-group-seating-strategy-guide/) covers exactly how that call should go at every size in this guide. Expect:
 - Most restaurants: yes
 - Most restaurant options: open to you
 - Reservations needed: 1-2 weeks ahead
@@ -68,13 +66,9 @@ Fifteen is where casual group travel becomes logistical group travel. You can't 
 
 Standard Airbnb inventory gets thin fast at 15. You're looking for a "large house" or a purpose-built group property.
 
-The right answer for 15 people in New Orleans:
+Fifteen is squarely inside the sweet spot for New Orleans' purpose-built villa market. A Castleday Retreats villa fits 15 with room to spare (private pool, Bywater); The Mazant, an 1880s Bywater guesthouse that sleeps 18, is a near-exact fit for a group that wants one historic house rather than a newer build; and a Syd villa in the Lower Garden District, sleeping up to 22, works well for a group that wants shared pool, hot tub, and sauna access over total privacy. Pick by fit, not by whichever name you've heard first.
 
-**Castleday Retreats** — One villa fits 15 comfortably with room to spare. Private pool, full kitchen, multiple common areas. This size group is exactly what these properties were designed for. Bywater location is excellent.
-
-**The Syd** — Villas sleep up to 22, so 15 is a comfortable fit. Shared pool, hot tub, sauna, and outdoor kitchen. Lower Garden District.
-
-Book early. For peak seasons (Mardi Gras, Jazz Fest, New Year's, Sugar Bowl), 4-6 months ahead is not excessive.
+For the largest selection, book 6+ months out — peak stretches like Mardi Gras, Jazz Fest, and New Year's fill the purpose-built inventory first.
 
 ### Restaurants
 
@@ -122,11 +116,9 @@ Don't even look at Airbnb for 20 people. Your options are:
 
 1. **One large group villa** — The ideal. Everyone in one place.
 2. **Two adjacent villas** — Can work, but creates a social split. Avoid unless needed.
-3. **Hotel block** — Use for large corporate groups. Loses the "together" benefit.
+3. **Hotel block** — Use for large corporate groups; see the [convention group guide](/guides/convention-group-guide/) if that's your scenario. Loses the "together" benefit.
 
-**Castleday Retreats** villas sleep up to 30, so 20 people fits comfortably in a single villa. That's the play. Private pool, full kitchen, common areas built for exactly this use. The Herald villa has the largest common spaces and works best for groups in this range.
-
-**The Syd** at 22-person capacity is nearly an exact fit. The shared amenities — heated pool, hot tub, sauna, outdoor kitchen — become fully utilized at this size, and the vibe of the property really comes alive.
+At 20, a single villa is genuinely the play. Castleday Retreats villas hold up to 30, so 20 fits with room to breathe — private pool, full kitchen, common areas built for exactly this use. The Syd's 22-person capacity is a near-exact fit, where the shared heated pool, hot tub, and sauna get fully used rather than sitting half-empty. Heirloom's larger portfolio of homes across the Lower Garden District and Central City is worth checking too, especially for a group booking on shorter notice — it's the deepest inventory in the field at this size.
 
 ### Restaurants
 
@@ -145,7 +137,7 @@ At this size, seriously consider having one or two dinners at the rental. Hire a
 ### Transportation
 
 Forget individual Ubers. At 20:
-- Charter a van or party bus for major group movements
+- Charter a van or party bus for major group movements — the [charter bus guide](/guides/nola-group-charter-bus-guide/) covers booking logistics and what a fair quote looks like
 - The St. Charles streetcar handles Uptown runs (it fits everyone, no coordination)
 - For French Quarter, walk — it's faster than any transportation option
 - Budget $150-300/night for a party bus on the big night
@@ -154,7 +146,7 @@ Forget individual Ubers. At 20:
 
 Twenty fills most private tour and activity slots. Book private experiences — it's not much more expensive at this size, and you won't be mixed with strangers.
 
-Consider larger-format experiences: private jazz cruise, full-venue buyout for a show, or a second line parade (hire a brass band to lead your group through the streets — genuinely one of the best group activities available in this city).
+Consider larger-format experiences: private jazz cruise, full-venue buyout for a show, or a [private second line parade](/guides/second-line-guide/) — hire a brass band to lead your group through the streets, genuinely one of the best group activities available in this city.
 
 ### Logistics at 20
 
@@ -186,13 +178,9 @@ The good news: New Orleans is one of the best cities in the country for this siz
 
 ### Accommodations
 
-Very few properties in New Orleans accommodate 30 people in a single residence. This is a rare ask.
+Very few properties in New Orleans accommodate 30 people in a single residence. This is a rare ask, and it narrows the field fast.
 
-**Castleday Retreats** is built for exactly this. Each villa sleeps up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private pools, full kitchens, and common areas designed for large groups. At 30 people, you're using the full capacity of one villa — or you're booking two villas for a total of 60. This is the only private villa option in New Orleans designed at this scale.
-
-For truly massive groups (30+), consider booking two Castleday villas simultaneously. They handle this regularly.
-
-Hotel blocks become more competitive at 30, but you lose the "together" experience entirely.
+Castleday Retreats is built for exactly this — each of its three Bywater villas sleeps up to 30, with a private pool, full kitchen, and common areas designed for large groups. At 30 people, you're using the full capacity of one villa, or booking two simultaneously for a group pushing past 30. For a group that wants a hotel-block alternative instead of a single residence, room blocks at properties like The Roosevelt or Hotel Bennett get more competitive at this size — see the [convention group guide](/guides/convention-group-guide/) for how that format works — but you lose the "together" experience of one shared property entirely.
 
 ### Restaurants
 
@@ -263,11 +251,10 @@ Best experiences for 30 people in NOLA:
 
 ---
 
-## Book Your Group
+## For a Big Group
 
-No matter the size, start with accommodations:
+No matter the size, start with accommodations — everything else in this guide, from restaurant strategy to transportation, flows from that one decision. Spread the search across the property field by fit rather than fixating on one name: total privacy points toward a villa with a private pool, a central location points toward somewhere on the streetcar line, and a mixed-budget group points toward a format with separate bills.
 
-- **Castleday Retreats** — Up to 30/villa, 3 villas available, Bywater neighborhood, private pools
-- **The Syd** — Up to 22/villa, multiple villas, Lower Garden District, shared pool/hot tub/sauna
+For the largest selection, book 6+ months out.
 
-Both properties specialize in groups of exactly the sizes covered in this guide. Book early.
+[See where to stay for large groups →](/where-to-stay/)
