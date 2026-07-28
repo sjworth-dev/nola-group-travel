@@ -15,7 +15,7 @@ Here's the playbook.
 
 ## Quick Checklist
 
-- Book accommodations 6-8 weeks out (large group options in this area fill up)
+- For the largest selection of large-group options in this area, book 6+ months out
 - Make brunch and dinner reservations before you arrive
 - Coordinate Magazine Street shopping vs. spa day for the group early
 - Check the Maple Leaf Bar and other live music venues for show schedules
@@ -50,7 +50,7 @@ If your group hasn't picked a neighborhood yet, start with the [large group girl
 
 ## Magazine Street: The Shopping
 
-Magazine Street runs 6 miles from the CBD through multiple neighborhoods into Uptown. It's not a mall. It's not a strip. It's a street that's been home to independent businesses for generations, and the density of good boutiques and shops is genuinely remarkable.
+Magazine Street runs 6 miles from the CBD through multiple neighborhoods into Uptown. It's not a mall. It's not a strip. It's a street that's been home to independent businesses for generations, and the density of good boutiques and shops is genuinely remarkable. For a deeper dive than this section covers, the [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/) breaks the whole corridor down block by block.
 
 ### What You'll Find
 
@@ -110,7 +110,7 @@ This is the move. Uptown brunch is better than French Quarter brunch in almost e
 | Willa Jean | Biscuits, pastries, excellent coffee, Downtown adjacent | 15-20 | Very popular; reservations essential |
 | Slim Goodies Diner | Classic diner, massive portions, no reservations | 10-15 | Expect a wait on weekends |
 
-**For groups over 15:** Call ahead and ask about a reserved section or semi-private dining. Most Uptown restaurants will accommodate if you give them notice.
+**For a bigger table:** Call ahead and ask about a reserved section or semi-private dining. Most Uptown restaurants will accommodate if you give them notice — the [large-group seating guide](/guides/nola-group-large-group-seating-strategy-guide/) covers how that call should go.
 
 ---
 
@@ -159,7 +159,7 @@ What makes a great pool afternoon:
 
 ## Night Out: Uptown Bars
 
-Uptown's bar scene is for people who live here. Less performance, more actual fun.
+Uptown's bar scene is for people who live here. Less performance, more actual fun. For a structured route through the corridor's bars specifically, see the [Uptown Magazine Street bar crawl guide](/guides/nola-group-uptown-magazine-bar-crawl-guide/).
 
 ### The Best Options
 
@@ -240,7 +240,7 @@ From Uptown accommodations, it's a 15-minute rideshare. Worth it.
 | Transportation | $25-40 | $40-60 | $60-100 |
 | **Total (excl. shopping)** | **$325-465** | **$565-835** | **$885-1,250** |
 
-*Flights excluded. Accommodation per person assumes group of 12-18.*
+*Flights excluded. Accommodation per person assumes a group in the mid-teens. The [budget guide](/guides/budget-guide/) runs the fuller per-person math across a longer trip.*
 
 ---
 
@@ -262,21 +262,12 @@ From Uptown accommodations, it's a 15-minute rideshare. Worth it.
 
 ---
 
-## Where to Stay for Groups of 10-25
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. This is the natural home base for an Uptown girls trip. One block from the St. Charles Streetcar puts you within easy reach of Magazine Street, Garden District, and Uptown restaurants. The shared heated pool, hot tub, sauna, and outdoor kitchen mean your between-activities decompression time is excellent. Every room is designed by a different local New Orleans artist — which creates a level of aesthetic detail you don't find in a hotel or a standard rental.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. If your group's priority is maximum privacy — a completely private pool, your own space, no shared amenities — Castleday is the answer. The Bywater location puts you closer to Frenchmen Street and the Marigny than to Magazine Street, but a short rideshare connects you to all of Uptown easily. The private pool is the best anchor for a girls trip pool day in the city.
-
-Both are the right answer depending on your group's priorities. Private-pool-as-anchor or central-location-plus-shared-amenities. Neither is wrong.
-
----
-
-## The Trip That Actually Delivers
+## For a Big Group
 
 Uptown New Orleans is the version of the city that residents love most. Magazine Street doesn't get old. The Garden District is always worth the walk. The brunch here is better than anywhere else in the city.
 
-For a girls trip that balances doing things with actually being somewhere rather than always rushing to the next stop, Uptown is the move.
+For a girls trip that balances doing things with actually being somewhere rather than always rushing to the next stop, Uptown is the move — and the property field spans a real range of fits. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, puts a shared pool, hot tub, and outdoor kitchen within easy reach of Magazine Street and Uptown restaurants — the central-location pick. **Castleday Retreats**, private-pool Bywater villas, is the answer if your group's priority is total privacy over a shared amenity deck; a short rideshare connects it to all of Uptown. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add more choice and short-notice availability if the calendar's tight. None of these is a booking recommendation — pick by fit.
 
-- The Syd – Lower Garden District, shared pool/hot tub/sauna, up to 22/villa
-- Castleday Retreats – Bywater, private pools, up to 30/villa
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
