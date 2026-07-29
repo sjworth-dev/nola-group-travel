@@ -4,7 +4,7 @@ description: "It's raining in New Orleans. Here's exactly what to do — indoor 
 category: "Planning & Logistics"
 card_title: "Rainy Day Guide"
 card_description: "When outdoor plans fall apart, here's what to do instead. Indoor activities, bars, and restaurants for groups."
-date: 2026-05-24
+date: 2026-07-29
 ---
 
 It's going to rain in New Orleans. This is not pessimism — it's climate. The city gets roughly 60 inches of rain per year. Summer afternoons frequently involve a 30-minute downpour that comes from nowhere and disappears just as fast. Tropical systems roll through. And some days it just rains.
@@ -18,8 +18,8 @@ This guide assumes your outdoor plans got rained out. Here's what to do instead.
 - Identify 2 indoor backup plans before you arrive — not during the rain
 - Keep at least one covered walking option per neighborhood you're staying in
 - Have an indoor dinner reservation as a fallback for any night
-- Every Castleday and Syd villa has indoor common space that handles a group day in
-- A rain day is a good cooking-at-the-house day: grocery run, private chef, or food delivery marathon
+- Confirm your rental has real indoor common space before you book — it's the difference between a rain day being a feature or a problem
+- A rain day is a good cooking-at-the-house day: grocery run, [private chef](/guides/private-chef-guide/), or food delivery marathon
 
 ---
 
@@ -77,7 +77,7 @@ The rain doesn't affect the music scene at all. Venues that run regardless:
 - **d.b.a.** — Also on Frenchmen. Larger, still intimate.
 - **Snug Harbor** — Frenchmen Street jazz club with serious performers.
 
-For group planning: Frenchmen Street works perfectly in the rain. The clubs are right next to each other, you're walking 30 feet between venues, and the music is constant.
+For group planning: Frenchmen Street works perfectly in the rain. The clubs are right next to each other, you're walking 30 feet between venues, and the music is constant. See the [live music guide](/guides/live-music-guide/) for how to structure a full night across these venues with a group.
 
 ### Cooking Classes
 
@@ -85,7 +85,7 @@ Rain day = excellent cooking class day. You're indoors, engaged, learning someth
 
 **New Orleans School of Cooking** — French Quarter. Group classes available. Makes gumbo, jambalaya, pralines. Legit educational, not just a tourist trap.
 
-**Private chef experiences** — Many private chefs offer demonstration-style cooking events at rental properties. The logistics work especially well on a rain day when you're all together anyway. Call ahead or book through experience platforms.
+**Private chef experiences** — Many private chefs offer demonstration-style cooking events at rental properties. The logistics work especially well on a rain day when you're all together anyway. See the [private chef guide](/guides/private-chef-guide/) for how to book and structure one for a group.
 
 ### Indoor Activities
 
@@ -184,7 +184,7 @@ If you're based in a specific neighborhood, here's what's close:
 - Uptown bars are all accessible (Cure, Barrel Proof)
 - Commander's Palace lunch is the move
 - Short Uber to WWII Museum (Warehouse District)
-- Streetcar to anywhere the rain doesn't matter
+- Streetcar to anywhere the rain doesn't matter — the [budget guide](/guides/budget-guide/) covers what a streetcar-based rain day costs versus rideshare-only
 
 ### Based in CBD / Warehouse District
 
@@ -207,18 +207,20 @@ If you're based in a specific neighborhood, here's what's close:
 
 5. **Cook at the house.** Buy groceries, turn on music, make a big batch of gumbo or red beans. Extremely NOLA, extremely fun with a group.
 
-6. **Check if your villa has covered outdoor space.** At Castleday and The Syd, there's often covered porch or poolside space that's usable in light rain. Don't fully evacuate to indoors until you have to.
+6. **Check if your rental has covered outdoor space.** Plenty of the big-group villa properties here have a covered porch or poolside space that's usable in light rain. Don't fully evacuate to indoors until you have to.
 
 7. **The National WWII Museum has restaurants on-site.** If you're spending a half day there, you don't need to plan lunch separately.
 
 ---
 
-## Where to Stay When Rain Changes Your Plans
+## For a Big Group: Why the Property Matters More on a Rain Day
 
-The best buffer against a bad rain day is a great property. If you're stuck inside, the difference between a cramped Airbnb and a well-designed villa with large common areas, a kitchen, and good outdoor/indoor flow is enormous.
+The best buffer against a bad rain day is a great property. If you're stuck inside, the difference between a cramped rental and a well-designed home base with large common areas, a real kitchen, and good indoor/outdoor flow is enormous — it's the single factor that determines whether a rainy afternoon feels like a setback or just a different kind of good day.
 
-**Castleday Retreats** — Three private villas in the Bywater. Full kitchens, large common areas, indoor space that fits your whole group comfortably. Private pools are still usable in warm rain. Bywater location puts you minutes from Frenchmen Street and Bacchanal.
+What to actually check before you book, if rain is a real possibility for your dates: indoor common space that fits your full group at once, a kitchen big enough for a real group cook-in, and — depending on the property — a sauna, covered porch, or indoor pool hall that stays usable regardless of weather. Properties built specifically for groups vary a lot on this; a villa with one great living room isn't the same as one built with a rain day in mind.
 
-**The Syd** — Multiple villas in the Lower Garden District. Indoor and outdoor kitchen, sauna (perfect for a rainy afternoon), hot tub. The sauna on a rainy day is genuinely excellent. Walking distance to Magazine Street, Uptown bars, the streetcar.
+This is true across the field, whether your group ends up in a Bywater villa, a Lower Garden District property, a suite-style block downtown, or a hotel room block for a mixed-budget group. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how the indoor-space question factors into that decision.
 
-Both properties give you a real home base. When rain scraps your outdoor plans, a well-designed villa turns the day into a feature instead of a bug.
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
