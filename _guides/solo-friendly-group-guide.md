@@ -4,7 +4,7 @@ description: "How to plan a NOLA group trip when some people are solo travelers,
 category: "Planning & Logistics"
 card_title: "Mixed Group Planning"
 card_description: "Solo travelers, tag-along partners, introverts, extroverts. How to make one trip work for everyone."
-date: 2026-05-24
+date: 2026-07-29
 ---
 
 Every group has them: the partner who came because their significant other did. The friend who doesn't drink. The introvert who loves everyone but needs a break from everyone. The one person who's never been to New Orleans and wants to do ALL the tourist things while everyone else has been a dozen times.
@@ -38,7 +38,7 @@ Before you can plan, you need to know what you're working with.
 | First-timers + veterans | Veterans get bored of tourist things; first-timers need them | Split afternoons, reconvene for dinner |
 | Budget-conscious + splurgers | Resentment builds around money | Agree on a tier upfront; separate group expenses from personal ones |
 
-The honest move: ask everyone directly what they're hoping to get out of the trip before you start planning. "What do you actually want to do" tells you more than trying to guess.
+The honest move: ask everyone directly what they're hoping to get out of the trip before you start planning. "What do you actually want to do" tells you more than trying to guess. The [pre-trip survey guide](/guides/nola-group-pre-trip-survey-guide/) has a format for doing this properly instead of guessing from group-chat vibes.
 
 ---
 
@@ -54,7 +54,7 @@ Rigid itineraries fail mixed groups. You need structure without a death march.
 - **Dinner together** — this is the daily reconnect
 - **Evening optional** — some go out, some don't, no judgment
 
-This works because it gives the planners something to hold onto while giving the introverts and the low-energy people permission to opt out of things without torpedoing the trip.
+This works because it gives the planners something to hold onto while giving the introverts and the low-energy people permission to opt out of things without torpedoing the trip. It helps to assign someone this job explicitly rather than leaving it to whoever happens to be organizing that day — see the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) for how to split up logistics without burning out one person.
 
 ### Sample Day Structure
 
@@ -146,7 +146,7 @@ In a city that runs 24 hours, introverts can burn out fast. They'll go along unt
 
 - Build in quiet time at the home base during afternoon hours
 - Don't shame anyone for going to bed before midnight
-- Private-rental accommodations with good common areas matter here — someone can be present without being "on"
+- Private-rental accommodations with good common areas matter here — someone can be present without being "on"; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers why that space matters more for a mixed-energy group than a homogenous one
 - Frenchmen Street is actually excellent for introverts: you show up, sit at a bar, the music plays, you don't have to talk to anyone
 
 **For the extroverts:**
@@ -183,6 +183,7 @@ Nothing kills a trip like someone resenting what they spent.
 - Agree on a rough budget tier (budget / mid-range / splurge)
 - Separate shared group expenses from personal choices
 - Use one app (Splitwise is the move) and be consistent
+- The [budget guide](/guides/budget-guide/) runs the fuller per-person math if you want a real number to agree on rather than a vague tier
 
 **On the trip:**
 
@@ -222,13 +223,17 @@ The group anchor moments — the dinners together, the one big activity — shou
 
 ## Where to Stay: Keeping the Group Together
 
-For mixed groups, accommodation choice is even more important than for a homogenous group. You need enough private space that people can retreat, plus enough common space that togetherness happens naturally.
+For mixed groups, accommodation choice is even more important than for a homogenous group. You need enough private space that people can retreat, plus enough common space that togetherness happens naturally — and the property field spans a real range of fits here.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The combination of private rooms, a full kitchen, a private pool, and sprawling common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. This is the move for mixed groups where togetherness and privacy have to coexist. The Bywater location keeps you close to Frenchmen Street, Bacchanal, and the neighborhood walks without being inside the chaos of the French Quarter.
+**Castleday Retreats** — private-pool Bywater villas, up to 30 guests each. The combination of private rooms, a full kitchen, and sprawling common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. This is the move for mixed groups where togetherness and privacy have to coexist.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared amenities — heated pool, hot tub, sauna, outdoor kitchen — mean there are multiple outdoor spaces to drift between. One block from the St. Charles Streetcar makes independent movement easy: the non-drinker who wants to do the Garden District while the group bar-hops can get there and back without a car. Good choice for groups where some members want to be close to uptown dining and Magazine Street.
+**The Syd** — Lower Garden District villas, up to 22 guests each, with shared heated pool, hot tub, sauna, and outdoor kitchen. Multiple outdoor spaces to drift between, plus one block from the St. Charles Streetcar — the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car.
 
-Both properties give you the critical thing: everyone under one roof, with enough room to not be on top of each other.
+**Hotel Perle** — CBD/Warehouse District group suites with separate bills per room. If your mixed group includes people who genuinely want their own paid-for space rather than a shared house, suites with individual billing solve that friction better than a villa split evenly on one card.
+
+**Heirloom** — a larger portfolio of homes across the Lower Garden District and Central City. Useful when the calendar's tight or the group's exact size doesn't fit neatly into one Castleday or Syd villa.
+
+None of these is a booking recommendation — pick by fit. What all of them solve for is the same thing: everyone under one roof (or nearby), with enough room to not be on top of each other.
 
 ---
 
@@ -238,5 +243,6 @@ The best mixed-group trip isn't the one where you dragged everyone to the same t
 
 New Orleans is generous that way. The city meets people where they are.
 
-- Castleday Retreats – Bywater, private villas, up to 30/villa
-- The Syd – Lower Garden District, shared amenities, up to 22/villa
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
