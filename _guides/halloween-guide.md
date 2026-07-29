@@ -15,7 +15,7 @@ For large groups, the timing is excellent: late October is one of the best weath
 
 ## Quick Checklist
 
-- [ ] Book accommodations 8-10 weeks out — October weekends fill fast
+- [ ] Book accommodations early — for the largest selection, book 6+ months out; October weekends fill fast
 - [ ] Decide on a group costume vs. individual costumes early
 - [ ] Make dinner reservations for Halloween night — the city gets busy
 - [ ] Check the Voodoo Fest schedule if your weekend overlaps (late October/early November)
@@ -43,7 +43,7 @@ Most cities do Halloween. New Orleans does it with depth.
 
 ### Voodoo Fest
 
-The Voodoo Music + Arts Experience (often called Voodoo Fest) runs in City Park in late October or early November, depending on the year. Major music acts, art installations, food vendors. It's a full music festival, not specifically a Halloween event, but the timing is intentional.
+The Voodoo Music + Arts Experience (often called Voodoo Fest) runs in City Park in late October or early November, depending on the year. Major music acts, art installations, food vendors. It's a full music festival, not specifically a Halloween event, but the timing is intentional. See the [Voodoo Fest guide](/guides/nola-voodoo-fest-guide/) for ticketing tiers and how to structure a festival day with a large group.
 
 **For large groups:** Voodoo Fest has general admission and VIP options. Groups of 20 can manage the festival well — it's spread out, not a crush. The City Park location is beautiful.
 
@@ -55,13 +55,13 @@ The official Halloween parade of New Orleans. A krewe-style Mardi Gras parade ad
 
 This is genuinely one of the more distinctive Halloween events in the country. A Halloween parade that works like Mardi Gras is not something you'll find elsewhere.
 
-**For large groups:** Staking out parade viewing spots works the same way as Mardi Gras — get there early, claim a section, bring drinks. See the [Mardi Gras guide](/guides/mardi-gras-group-guide) for the general parade logistics.
+**For large groups:** Staking out parade viewing spots works the same way as Mardi Gras — get there early, claim a section, bring drinks. See the [Mardi Gras guide](/guides/mardi-gras-group-guide/) for the general parade logistics.
 
 ### Cemetery Tours
 
 October is peak season for cemetery tours in New Orleans. The above-ground cemeteries — St. Louis Cemetery No. 1 (French Quarter), Lafayette Cemetery (Garden District) — are genuinely atmospheric in the fall.
 
-**For large groups:** Most tour companies offer private group tours. Worth booking. The guided context makes the experience; a self-guided walk through St. Louis No. 1 without history is less than the sum of its parts.
+**For large groups:** Most tour companies offer private group tours. Worth booking. The guided context makes the experience; a self-guided walk through St. Louis No. 1 without history is less than the sum of its parts. The [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) covers how to book a private group tour and which cemeteries suit a large group best.
 
 **Important:** St. Louis Cemetery No. 1 requires a licensed tour guide to enter — independent entry is no longer permitted without a tour. Book through a licensed company.
 
@@ -123,11 +123,11 @@ Private group tours available from most operators. The French Quarter has a legi
 
 ### Voodoo Culture Orientation
 
-If you want more than the surface Halloween narrative, the New Orleans Historic Voodoo Museum in the French Quarter provides context on the actual history of Louisiana Voodoo as a religious tradition. Small museum but worth the stop before a ghost tour.
+If you want more than the surface Halloween narrative, the New Orleans Historic Voodoo Museum in the French Quarter provides context on the actual history of Louisiana Voodoo as a religious tradition. Small museum but worth the stop before a ghost tour. The [Voodoo history and culture guide](/guides/nola-group-voodoo-history-culture-guide/) goes deeper into the actual tradition behind the Halloween iconography.
 
 ### Day Drinking in Costume
 
-New Orleans won't judge you. Bacchanal Wine in the Bywater in costume at noon is perfectly acceptable behavior here. A few hours at the house in costume before the night starts is also standard.
+New Orleans won't judge you. Bacchanal Wine in the Bywater in costume at noon is perfectly acceptable behavior here. A few hours at the house in costume before the night starts is also standard. The [day drinking guide](/guides/nola-day-drinking-guide/) covers how to pace an afternoon so the group still has legs for the bar crawl at night.
 
 ---
 
@@ -185,7 +185,7 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 ## Pro Tips
 
-1. **Book October accommodations in September at the latest.** Halloween weekend is competitive. Voodoo Fest makes it worse. Do not assume you'll find something last-minute.
+1. **Book October accommodations early.** Halloween weekend is competitive, and Voodoo Fest overlap makes it worse. For the largest selection, book 6+ months out — do not assume you'll find something last-minute.
 
 2. **Group costumes are worth the coordination effort.** In any other city, group costumes feel forced. In New Orleans on Halloween, they're celebrated. Commit to the theme.
 
@@ -201,19 +201,12 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 ---
 
-## Where to Stay
+## For a Big Group
 
-Late October is one of the best weekends to be in New Orleans, which means accommodation pressure is real. Large private rentals in good neighborhoods book up well in advance.
+Late October is one of the best weekends to be in New Orleans, which means accommodation pressure is real. Large private rentals in good neighborhoods book up well in advance, and the house does more work on Halloween weekend than on a typical trip — it's the costume staging area, the pre-crawl gathering space, and the post-midnight recovery zone.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Bywater puts you walking distance from Frenchmen Street — your primary bar crawl destination. The house becomes your costume staging area, your pre-crawl gathering space, and your post-midnight recovery zone. The Herald has the largest common areas for a group getting into costume together; The Cocodrie has the best outdoor space if the October weather is cooperating.
+The neighborhood matters as much as the property. A Bywater base puts you walking distance from Frenchmen Street, your likely primary bar-crawl destination; a Lower Garden District base is convenient for the Krewe of Boo parade route and sits near the streetcar. Properties like Castleday Retreats (Bywater villas with private pools) or The Syd (Lower Garden District villas with a shared pool and hot tub) represent the kind of purpose-built group housing that fits either approach — neither is a booking recommendation, and the right fit depends on which crawl zone your group is anchoring to.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. Shared heated pool, hot tub, sauna, outdoor kitchen. The artist-designed rooms have a quality that makes them a great backdrop for pre-crawl photos. The Lower Garden District location is convenient for the Krewe of Boo parade route and good dinner options nearby.
+For the largest selection, book 6+ months out.
 
-For Halloween specifically: if Frenchmen Street is your primary crawl zone, Castleday's Bywater location is the better walk home. If you're going deep on the French Quarter, either property works equally well with an Uber.
-
----
-
-## Book Your Halloween Trip
-
-- Castleday Retreats — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
-- The Syd — Lower Garden District, up to 22 guests, shared pool and hot tub, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
