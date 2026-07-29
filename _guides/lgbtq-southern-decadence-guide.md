@@ -11,11 +11,11 @@ Southern Decadence is one of the biggest LGBTQ+ events in the country. It draws 
 
 It is also deeply misunderstood by groups planning their first trip. Most groups show up thinking it's just a giant Bourbon Street party with a parade. It's more than that, and if you plan it right, it's one of the best weekends you'll have anywhere.
 
-This guide is for groups of 10-30 planning Southern Decadence specifically, or for larger LGBTQ+ groups visiting New Orleans at any time of year.
+This guide is for the whole crew planning Southern Decadence specifically, or for larger LGBTQ+ groups visiting New Orleans at any time of year.
 
 ## Quick Checklist
 
-- [ ] Book accommodations 4-6 months in advance — Labor Day weekend is sold out fast
+- [ ] For the largest selection, book 6+ months out — Labor Day weekend is sold out fast
 - [ ] Confirm your property allows the size of your group (many hotels upcharge for groups during Decadence)
 - [ ] Register for any ticketed events you want 2-3 months out
 - [ ] Plan airport arrival a day before the main events start — Thursday arrival for Friday-Sunday events
@@ -87,9 +87,9 @@ The Grand Marshal Parade is the event that defines Southern Decadence. It typica
 
 Southern Decadence has dozens of ticketed events: pool parties, club nights, themed parties, drag shows, and outdoor stage events. They range from free to $75+. Quality varies.
 
-**For large groups of 15-30:**
+**For a full crew:**
 
-Coordinating 20 people to the same ticketed event requires buying tickets in advance, which requires knowing headcount firmly. Many events sell out 4-6 weeks before the weekend.
+Coordinating the whole group to the same ticketed event requires buying tickets in advance, which requires knowing headcount firmly. Many events sell out 4-6 weeks before the weekend.
 
 **The recommended approach:**
 1. Pick 1-2 must-attend ticketed events for the full group
@@ -113,7 +113,7 @@ Coordinating 20 people to the same ticketed event requires buying tickets in adv
 
 ### Getting Around
 
-Southern Decadence weekend has heavy pedestrian traffic in the French Quarter. Rideshares run but surge pricing is real during peak parade and event times. For groups of 15+, chartering a van for airport transport is more reliable and often cheaper than 4-5 separate rideshares fighting for availability.
+Southern Decadence weekend has heavy pedestrian traffic in the French Quarter. Rideshares run but surge pricing is real during peak parade and event times. At full headcount, chartering a [group van or bus](/guides/nola-group-charter-bus-guide/) for airport transport is more reliable and often cheaper than a handful of separate rideshares fighting for availability.
 
 **Once you're in the French Quarter:** Walk. Seriously. The Quarter is compact and the street energy is part of the experience. Having everyone within walking distance of the action matters more during Decadence than at any other time of year.
 
@@ -140,15 +140,17 @@ Labor Day weekend is late August / early September. New Orleans averages highs i
 
 ## Accommodation Strategy for Decadence Weekend
 
-The accommodation problem at Southern Decadence is real. Labor Day weekend in the French Quarter books out months in advance, and hotels in the core price aggressively for the event. For groups of 10-30, the economics of boutique hotels are punishing.
+The accommodation problem at Southern Decadence is real. Labor Day weekend in the French Quarter books out months in advance, and hotels in the core price aggressively for the event. At full headcount, the economics of boutique hotels get punishing fast — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the actual math on why a villa often wins for a group this size.
 
-The better move for large groups is a private villa property slightly outside the French Quarter core — close enough that you're 10-20 minutes from the action, private enough that you can recover between events.
+The better move for a large group is a private villa property slightly outside the French Quarter core — close enough that you're 10-20 minutes from the action, private enough that you can recover between events. The property field spans a real range of fits:
 
 **The Syd** — Lower Garden District, up to 22 guests per villa, multiple villas available. One block from the St. Charles Streetcar to the French Quarter. During Southern Decadence, the shared heated pool and outdoor kitchen become the communal space where your group decompresses between the events. Artist-designed interiors throughout — it sets the mood right before you head out. The LGD also has its own bar scene if you want to warm up closer to home before heading into the Quarter.
 
 **Castleday Retreats** — Bywater, up to 30 guests per villa, 3 villas available. The Bywater is 15-20 minutes from the French Quarter by rideshare or streetcar and has a strong LGBTQ+-welcoming community of its own. The private pools at each villa mean you have your own recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Castleday location delivers both.
 
-**Booking note:** Both properties book out for Labor Day weekend well in advance. If you're planning a Southern Decadence trip, reach out in March or April for a September stay.
+**Hotel Perle** — CBD/Warehouse District group suites with separate billing per room. Worth a look if your group is mixed on budget and wants everyone under one roof without splitting one shared bill.
+
+None of these is a booking recommendation — pick by fit. For the largest selection, book 6+ months out, and reach out well ahead of the season if you're specifically targeting a September stay.
 
 ---
 
@@ -170,9 +172,9 @@ Southern Decadence is the headline event, but New Orleans is broadly welcoming a
 |-------|--------|------------|
 | Southern Decadence | Labor Day weekend | The main event — massive LGBTQ+ festival |
 | New Orleans Pride | June | Pride parade and events |
-| Mardi Gras | Feb/March | Multiple krewe balls with LGBTQ+ origins (Mystic Krewe of Amon-Ra, others) |
-| Buku Music + Art | Spring | Festival with broad demographic |
-| New Year's Eve | December | Lower key than Mardi Gras but vibrant |
+| [Mardi Gras](/guides/mardi-gras-group-guide/) | Feb/March | Multiple krewe balls with LGBTQ+ origins (Mystic Krewe of Amon-Ra, others) |
+| [Buku Music + Art](/guides/nola-group-buku-music-festival-guide/) | Spring | Festival with broad demographic |
+| [New Year's Eve](/guides/new-years-guide/) | December | Lower key than Mardi Gras but vibrant |
 
 ---
 
@@ -194,11 +196,12 @@ Southern Decadence is the headline event, but New Orleans is broadly welcoming a
 
 ---
 
-## Book Your Southern Decadence Group Trip
+## For a Big Group
 
 New Orleans is one of the most welcoming cities in the South for LGBTQ+ travelers. Southern Decadence is the best version of that welcome scaled up to its absolute maximum.
 
-For large groups, the key is having a home base that works with the energy of the weekend rather than against it.
+At full headcount, the key is having a home base that works with the energy of the weekend rather than against it — see the property field above for options that fit different budgets and priorities.
 
-- **The Syd** — Lower Garden District, one block from the St. Charles Streetcar, shared pool and outdoor kitchen, up to 22 guests per villa
-- **Castleday Retreats** — Bywater, private pools, up to 30 guests per villa, 3 villas available for large groups
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
