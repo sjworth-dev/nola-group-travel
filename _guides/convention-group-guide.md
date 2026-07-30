@@ -15,8 +15,8 @@ This is the guide for doing it right.
 
 ## Quick Checklist
 
-- [ ] Book accommodations 3-4 months in advance — convention weeks compress the hotel market brutally
-- [ ] Research your convention's room block rate but also compare private villa costs for groups of 10+
+- [ ] For the largest selection, book accommodations 6+ months out — convention weeks compress the hotel market brutally
+- [ ] Research your convention's room block rate but also compare private villa costs for a bigger group; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the full math
 - [ ] Identify the 2-3 restaurants you want to hit and make reservations before your trip
 - [ ] Plan at least one evening activity as a group — it's easy to default to "just go to the hotel bar"
 - [ ] Know your Convention Center entrance and which neighborhood it's near for off-hours access
@@ -44,7 +44,7 @@ The Convention Center's location is genuinely good. Most major neighborhoods are
 
 ## Hotel vs. Private Villa: The Honest Calculation
 
-The convention room block exists for good reasons: negotiated rates, guaranteed availability, proximity. But for groups of 10 or more attending together, the calculation is worth doing explicitly.
+The convention room block exists for good reasons: negotiated rates, guaranteed availability, proximity. But once your team is attending together at real size, the calculation is worth doing explicitly.
 
 | Factor | Convention Hotel | Private Villa |
 |--------|----------------|---------------|
@@ -57,7 +57,7 @@ The convention room block exists for good reasons: negotiated rates, guaranteed 
 | Work space after hours | Hotel room desks | Full kitchen, common areas |
 | Convention week rate premium | Often 40-60% above normal rates | Unaffected by convention pricing |
 
-**The convention rate premium is real.** During large conventions, downtown hotel rates can be 40-60% above normal. Private villas operate on their own pricing — they're not affected by the convention room block dynamics. For groups of 10-20, the math often favors the villa even before accounting for the experience difference.
+**The convention rate premium is real.** During large conventions, downtown hotel rates can be 40-60% above normal. Private villas operate on their own pricing — they're not affected by the convention room block dynamics. At a decent-sized team's headcount, the math often favors the villa even before accounting for the experience difference.
 
 **The honest trade-off:** The hotel is 5 minutes from the badge pickup line. The villa requires an Uber. If your convention starts at 7:30 AM with all-day programming and you're using the room purely as a bed, the hotel proximity is worth something. If your group has evenings free and the convention runs normal business hours, the villa experience is significantly better.
 
@@ -69,19 +69,19 @@ The convention room block exists for good reasons: negotiated rates, guaranteed 
 
 The CBD is walkable. The Convention Center to the French Quarter is 15-20 minutes at normal pace. Convention Center to the Warehouse District is 5-10 minutes. Canal Street (shopping, streetcar, major hotel corridor) is a 15-minute walk upriver.
 
-**In practice for large groups:** Walking works for 2-8 people. For groups of 15-20 moving together, you'll be managing the group across crosswalks and through crowds. For evening group movement, rideshare is simpler.
+**In practice for large groups:** Walking works for a handful of people. Once the whole crew is moving together, you'll be managing the group across crosswalks and through crowds. For evening group movement, rideshare is simpler.
 
 ### Rideshare
 
-The most practical option for groups moving around the CBD. The Convention Center and surrounding hotels have designated rideshare areas. For a group of 15-20, expect to split into 3-4 cars and arrive within minutes of each other.
+The most practical option for groups moving around the CBD. The Convention Center and surrounding hotels have designated rideshare areas. At full headcount, expect to split into 3-4 cars and arrive within minutes of each other.
 
-**Convention week rideshare reality:** During peak convention hours (end-of-day rush, evening out), wait times in the CBD can be longer than normal. Plan 10-15 minutes of buffer for rideshare pickup during busy windows.
+**Convention week rideshare reality:** During peak convention hours (end-of-day rush, evening out), wait times in the CBD can be longer than normal. Plan 10-15 minutes of buffer for rideshare pickup during busy windows. For a group splitting into 3-4 cars every night, the [charter bus guide](/guides/nola-group-charter-bus-guide/) covers when a single reserved vehicle actually beats a fleet of rideshares.
 
 ### The RTA Streetcar
 
 Canal Street is a short walk from the Convention Center. The Canal Streetcar line and the St. Charles Streetcar line connect the CBD to the French Quarter, Mid-City, and Uptown. For groups that want to feel like locals for an evening, the streetcar to Magazine Street or Uptown is the move.
 
-**Group logistics on the streetcar:** Streetcars have limited capacity. For a group of 15-20, split into waves and text the next group when you board. It's not complicated — the streetcars come every 10-15 minutes.
+**Group logistics on the streetcar:** Streetcars have limited capacity. At full headcount, split into waves and text the next group when you board. It's not complicated — the streetcars come every 10-15 minutes.
 
 ### The Riverwalk
 
@@ -154,17 +154,17 @@ If your convention gives you a half-day free — or you skip an afternoon of ses
 
 ## Professional Team Dinners and Client Entertainment
 
-New Orleans is excellent for client entertainment. The food quality is genuine, the city has personality, and a dinner at Commander's Palace or a private dining room at a major Warehouse District restaurant signals that you chose the experience deliberately.
+New Orleans is excellent for client entertainment. The food quality is genuine, the city has personality, and a dinner at Commander's Palace or a private dining room at a major Warehouse District restaurant signals that you chose the experience deliberately. The [corporate dinner guide](/guides/nola-corporate-dinner-guide/) goes deeper on private-room booking, seating strategy, and the questions worth asking before you commit a client-entertainment budget to one restaurant.
 
 **Commander's Palace** — In the Garden District (15 minutes from the Convention Center). Private dining rooms, impeccable service, the kind of dinner that clients remember. Expensive and worth it for the right occasion.
 
-**Private dining rooms at Warehouse District restaurants:** Several of the larger restaurants in the district have semi-private or private rooms available for groups of 15-30. Call the restaurant directly and ask specifically about private event dining. These spaces often have minimum food and beverage commitments but provide the right environment for a professional client dinner.
+**Private dining rooms at Warehouse District restaurants:** Several of the larger restaurants in the district have semi-private or private rooms available for a full-size team dinner. Call the restaurant directly and ask specifically about private event dining. These spaces often have minimum food and beverage commitments but provide the right environment for a professional client dinner.
 
 ---
 
 ## Pro Tips
 
-1. **Compare the villa rate to the convention room block rate.** For a group of 10-20, run the math. Divide the villa nightly rate by the number of guests — it's frequently competitive with the convention hotel room rate, and the experience is dramatically better.
+1. **Compare the villa rate to the convention room block rate.** Run the math for your group size. Divide the villa nightly rate by the number of guests — it's frequently competitive with the convention hotel room rate, and the experience is dramatically better. The [budget guide](/guides/budget-guide/) walks through the fuller per-person math if you want to build an actual spreadsheet before deciding.
 
 2. **Make restaurant reservations before you travel, not when you land.** Convention week restaurants fill up. The good ones get booked 1-2 weeks in advance. If you wait until you're in town, you're eating at the hotel.
 
@@ -172,7 +172,7 @@ New Orleans is excellent for client entertainment. The food quality is genuine, 
 
 4. **Warehouse District restaurants are for group dinners specifically.** The dining rooms are large, the food is serious, and the proximity to the Convention Center means your group isn't fighting convention fatigue with a 30-minute travel time to dinner. Pick two Warehouse District dinners before you land.
 
-5. **One Frenchmen Street night is mandatory.** At minimum one evening of your convention trip should end on Frenchmen Street. It's 20 minutes from the Convention Center. It costs nothing to walk in to most venues. The music is live. This is New Orleans — go find it.
+5. **One Frenchmen Street night is mandatory.** At minimum one evening of your convention trip should end on [Frenchmen Street](/guides/live-music-guide/). It's 20 minutes from the Convention Center. It costs nothing to walk in to most venues. The music is live. This is New Orleans — go find it.
 
 6. **The convention room block cuts both ways.** The negotiated rate is good, but you're often trapped in a hotel ecosystem — hotel restaurant, hotel bar, hotel everything. A private villa gives your group a completely different dynamic for the non-convention hours, which are the hours that actually matter for team cohesion.
 
@@ -180,19 +180,12 @@ New Orleans is excellent for client entertainment. The food quality is genuine, 
 
 ---
 
-## Where to Stay
+## For a Big Group
 
-Convention groups have specific needs: proximity to the Convention Center is a factor, but so is the quality of the evening and off-hours experience. Private villas in the Warehouse District and Lower Garden District strike the best balance.
+Convention groups have specific needs: proximity to the Convention Center is a factor, but so is the quality of the evening and off-hours experience — a factor a scattered hotel room block doesn't solve. The property field spans a real range of fits here.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Bywater is 15-20 minutes by rideshare from the Convention Center — not walking distance, but a straightforward Uber. The trade-off is a completely private home base for your team's off-hours: no hotel lobby, no other convention attendees, a pool for the evening debrief. The Herald villa has the best common areas for working team sessions after hours. For corporate groups at conventions who want to actually bond as a team outside the conference sessions, this format works significantly better than scattered hotel rooms.
+A Bywater base like Castleday Retreats trades Convention Center proximity (15-20 minutes by rideshare) for a completely private team home base — no hotel lobby, no other convention attendees, a pool for the evening debrief. The Lower Garden District sits closer, 10-15 minutes out with streetcar access to Canal Street and the CBD; a property like The Syd offers a shared pool and common space for a group that wants a shorter commute without giving up the private-villa dynamic. For a mixed-budget team that wants separate keys and separate bills closer to the Convention Center itself, Hotel Perle's CBD/Warehouse District suites are worth checking, and Heirloom's larger-format homes across the Lower Garden District and Central City add more choice on short notice. None of these is a booking recommendation — pick by fit, and don't rely on finding availability once the convention announcements go out, since large-format inventory during convention weeks is genuinely limited.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. Shared heated pool, hot tub, sauna, outdoor kitchen. The Lower Garden District is 10-15 minutes by rideshare from the Convention Center — closer than the Bywater, and with streetcar access to Canal Street and the CBD. Artist-designed interiors, full private compound. This is the right option for convention groups that want a closer base without sacrificing the private villa dynamic.
+For the largest selection, book 6+ months out.
 
----
-
-## Book Your Convention Accommodations
-
-Don't rely on finding availability when the convention announcements go out. Private villa availability during convention weeks is limited — the demand exists, the supply is finite.
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, private pools, best team bonding option
-- The Syd — Lower Garden District, up to 22 guests, streetcar to the CBD, shared outdoor complex
+[See where to stay for large groups →](/where-to-stay/)
