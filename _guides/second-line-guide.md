@@ -4,7 +4,7 @@ description: "What second line parades are, how to find them, how to hire a bras
 category: "Culture & History"
 card_title: "Second Line Parades"
 card_description: "What they are, how to find them, and how to book one for your own group. The definitive guide."
-date: 2026-05-24
+date: 2026-07-30
 ---
 
 A second line parade is one of the most distinctly New Orleans things that exists. There is nothing else quite like it anywhere else in the world, and most visitors — even repeat visitors — never experience it properly.
@@ -125,9 +125,9 @@ It is as good as it sounds.
 
 Private second lines are common for:
 - Bachelorette parties
-- Corporate retreats
+- [Corporate retreats](/guides/corporate-retreat/)
 - [Wedding parties](/guides/wedding-weekend-guide/) (post-ceremony or pre-reception)
-- Milestone birthdays
+- [Milestone birthdays](/guides/milestone-birthday/)
 - Reunions
 - Large group arrivals into a venue
 
@@ -148,7 +148,7 @@ There are dozens of working brass bands in New Orleans. Most are available for p
 
 ### Cost Range
 
-Pricing varies by band, duration, and date. Expect to budget meaningfully for this experience — it's a professional performance. The per-person cost for a group of 20-30 is typically quite reasonable for what you get.
+Pricing varies by band, duration, and date. Expect to budget meaningfully for this experience — it's a professional performance. Split across a full-size crew, the per-person cost is typically quite reasonable for what you get.
 
 Don't lowball. These musicians are professionals, this tradition is their livelihood, and a good brass band can make your entire trip.
 
