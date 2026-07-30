@@ -28,9 +28,9 @@ New Orleans handles this better than most cities. Here's why, and here's how to 
 
 ## Why New Orleans Works for All Ages
 
-**For the kids:** City Park has a world-class carousel, Storyland (a fairytale sculpture garden), Tad Gormley Stadium, and a miniature train. The Audubon Zoo is excellent. The aquarium is a half-day. Swamp tours are genuinely thrilling for ages five to fifteen.
+**For the kids:** City Park has a world-class carousel, Storyland (a fairytale sculpture garden), Tad Gormley Stadium, and a miniature train. The Audubon Zoo is excellent. The aquarium is a half-day. Swamp tours are genuinely thrilling for ages five to fifteen. If the trip skews younger overall, the [kids and families guide](/guides/kids-families-guide/) goes deeper on structuring days around that age range.
 
-**For the teenagers:** Frenchmen Street is interesting even if you're not drinking. The Ogden Museum, the WWII Museum, and the history of the Tremé neighborhood are more engaging than teenagers expect. Swamp tours and kayaking have real appeal.
+**For the teenagers:** [Frenchmen Street](/guides/live-music-guide/) is interesting even if you're not drinking. The Ogden Museum, the WWII Museum, and the history of the Tremé neighborhood are more engaging than teenagers expect. Swamp tours and kayaking have real appeal.
 
 **For the adults:** The food is serious. The cocktail culture is legitimate. The live music is accessible and everywhere.
 
@@ -143,7 +143,7 @@ The key for multigenerational groups is: wide menu range (not everyone eats ever
 
 ## Mobility Considerations
 
-New Orleans is walkable, but it's not always accessible. Plan for this.
+New Orleans is walkable, but it's not always accessible. Plan for this — the [accessible group guide](/guides/accessible-group-guide/) covers the mobility question in more depth than a reunion-specific page can.
 
 ### What to Know
 
@@ -175,7 +175,7 @@ New Orleans is walkable, but it's not always accessible. Plan for this.
 
 ## Budget: Managing Multiple Generations
 
-Family reunions almost always span multiple budgets. Be explicit about this upfront.
+Family reunions almost always span multiple budgets. Be explicit about this upfront — the [budget guide](/guides/budget-guide/) runs the fuller per-person math if you want a starting reference beyond the age-tiered ranges below.
 
 **The hosting model:** The organizing family covers accommodation and one or two group meals. Individuals pay for their own activities and casual meals.
 
@@ -225,7 +225,7 @@ For multigenerational groups, the outdoor kitchen is a real advantage: grill nig
 
 1. **Make the first meal together the best one.** Everyone arrives from different places, different amounts of stress. A great welcome dinner sets the whole tone.
 
-2. **Create age-specific jobs for the teenagers.** Give them ownership of something—the photo album, the playlist for the villa, organizing one activity. They'll engage more.
+2. **Create age-specific jobs for the teenagers.** Give them ownership of something—the photo album, the playlist for the villa, organizing one activity. They'll engage more. The [welcome packet guide](/guides/group-welcome-packet-guide/) has a template for handing out exactly this kind of role before the trip starts.
 
 3. **Build in "free afternoon" slots.** Mandatory togetherness works for two days. After that, people need breathing room.
 
