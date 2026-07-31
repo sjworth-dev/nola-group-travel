@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Festival Calendar: Group Planning Guide"
-description: "Every major New Orleans festival and event season, with group planning windows, accommodation lead times, and logistics for groups of 10-30."
+description: "Every major New Orleans festival and event season, with group planning windows, accommodation demand levels, and logistics for the whole crew."
 category: "Planning & Logistics"
 card_title: "Festival Season Calendar"
 card_description: "Mardi Gras, Jazz Fest, Essence, Southern Decadence, and every major event — when to go, when to book, what to expect."
@@ -9,14 +9,14 @@ date: 2026-05-29
 
 New Orleans is a festival city. Not one or two events a year — a near-continuous calendar of parades, fests, and massive gatherings that reshape the city's logistics, pricing, and energy from January through December.
 
-For large groups, this cuts both ways. Festival season means incredible experiences and electric street energy. It also means accommodation prices triple, the best rentals book 6-12 months out, and restaurants are slammed for weeks at a time.
+For large groups, this cuts both ways. Festival season means incredible experiences and electric street energy. It also means accommodation prices climb, the best rentals go fast, and restaurants are slammed for weeks at a time — for the largest selection, book 6+ months out.
 
 Know the calendar before you pick your dates. It changes everything.
 
 ## Quick Planning Checklist
 
 - Choose dates with full awareness of the festival calendar — don't just pick cheap flights
-- Book accommodations during major festivals at minimum 3-6 months ahead (Mardi Gras: 6-12 months)
+- For the largest selection, book accommodations 6+ months out — this holds year-round, not just during major festivals
 - Build an extra $30-60/person/day into your budget during festival weekends
 - Make restaurant reservations before any festival-period trip — walk-in availability drops to near zero
 - Assign a single person to manage group registration/ticket buys for paid festivals
@@ -43,7 +43,7 @@ Know the calendar before you pick your dates. It changes everything.
 **Martin Luther King Weekend**
 - Popular travel weekend, hotels/rentals fill up
 - No major festivals but city is busy
-- Group impact: Book 6-8 weeks out minimum
+- Group impact: Book ahead — for the largest selection, book 6+ months out
 
 ---
 
@@ -53,16 +53,14 @@ Know the calendar before you pick your dates. It changes everything.
 - The Super Bowl of New Orleans events. Nothing comes close.
 - Parade season officially starts January 6 (Twelfth Night) with the major krewes rolling the final 2-3 weeks before Fat Tuesday
 - Fat Tuesday date shifts annually: calculate 47 days before Easter
-- Group impact: **This is the highest-demand stretch of the year.** Accommodation prices triple or more. Book 6-12 months out for groups.
+- Group impact: **This is the highest-demand stretch of the year.** For a big group, this is the single hardest weekend on the calendar to book late — for the largest selection, book 6+ months out.
 
-**Lead time for 20+ person groups:** 8-12 months minimum for large private rentals. Not an exaggeration.
-
-| Week | What's Happening | Crowd Level | Price Multiplier |
-|------|-----------------|-------------|-----------------|
-| 3 weeks before | Season builds, Uptown parades | High | 2x |
-| 2 weeks before | Major krewes begin | Very High | 2.5x |
-| Final weekend | Endymion, Bacchus, Orpheus | Massive | 3-4x |
-| Fat Tuesday | All-day parade, city-wide celebration | Maximum | 4-5x |
+| Week | What's Happening | Crowd Level |
+|------|-----------------|-------------|
+| 3 weeks before | Season builds, Uptown parades | High |
+| 2 weeks before | Major krewes begin | Very High |
+| Final weekend | Endymion, Bacchus, Orpheus | Massive |
+| Fat Tuesday | All-day parade, city-wide celebration | Maximum |
 
 The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the sweet spot — big crowds, all the energy, slightly more availability than Fat Tuesday itself.
 
@@ -74,9 +72,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Multiple parades across the city, especially the Irish Channel and Metairie parades
 - Irish Channel neighborhood is the epicenter
 - Cabbage and beads thrown from floats — the city leans into it hard
-- Group impact: Irish Channel and Magazine Street get packed. Good fun for a 1-2 day group trip around this date.
-
-**Lead time:** 4-6 weeks for accommodations; this is a popular long weekend
+- Group impact: Irish Channel and Magazine Street get packed. Good fun for a 1-2 day group trip around this date. For the largest selection, book 6+ months out.
 
 **Lundi Gras / Final Mardi Gras Weekend**
 - If Mardi Gras falls in March (every few years), this applies here instead of February
@@ -95,9 +91,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - 4-day festival across 20+ stages in the French Quarter — free to attend
 - All local music, no national acts. This is the point.
 - Best music festival in the city, in our opinion
-- Group impact: French Quarter accommodation books fast. Book rentals 8-12 weeks out for this weekend.
-
-**Lead time:** 8-12 weeks for private group accommodations
+- Group impact: French Quarter accommodation books fast — for the largest selection, book 6+ months out.
 
 **Zurich Classic (late April)**
 - PGA Tour event at TPC Louisiana in Avondale
@@ -109,7 +103,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Two weekends: late April and early May (specific dates shift annually)
 - 14 stages, thousands of artists, hundreds of food vendors
 - World-class lineup, unmatched food spread
-- Group impact: **The city is at or near capacity both weekends.** Accommodation lead time is 3-6 months minimum for large groups.
+- Group impact: **The city is at or near capacity both weekends.** For the largest selection, book 6+ months out.
 
 | Jazz Fest Factor | What to Know |
 |-----------------|-------------|
@@ -132,7 +126,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Multi-day wine and food festival across the city
 - Grand Tasting events, winery dinners, culinary demonstrations
 - Good option for food-focused groups
-- Group impact: Moderate crowd bump; 4-6 weeks lead time sufficient
+- Group impact: Moderate crowd bump; book ahead the same as any other weekend
 
 ---
 
@@ -156,7 +150,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Fireworks over the Mississippi River
 - Levee viewing is the move for groups
 - Summer heat is brutal — plan accordingly
-- Group impact: Weekend-level pricing bump; book 4-6 weeks out
+- Group impact: Weekend-level demand bump; book ahead the same as any other summer weekend
 
 **Note on July-August:** These are the hottest months. Heat index regularly hits 105-110°F. Groups unfamiliar with this routinely underestimate how much it affects activity planning. Outdoor activities before 10 AM and after 6 PM only. Budget for extra hydration costs, Ubers instead of walking.
 
@@ -168,9 +162,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - One of the largest LGBTQ+ events in the country
 - Labor Day weekend in the French Quarter
 - Street festival, parades, parties across multiple days
-- Group impact: French Quarter accommodation books 3-4 months out; great energy for LGBTQ+ groups or allies
-
-**Lead time:** 3-4 months for large group accommodations during this weekend
+- Group impact: French Quarter accommodation books out early; great energy for LGBTQ+ groups or allies — for the largest selection, book 6+ months out
 
 ---
 
@@ -192,7 +184,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Major music festival in City Park
 - National headliners, rock and hip-hop focused
 - Smaller than Jazz Fest but significant for music groups
-- Group impact: Mid-City and City Park area books fast; 8-12 weeks lead time
+- Group impact: Mid-City and City Park area books fast — for the largest selection, book 6+ months out
 
 **New Orleans Film Festival (mid-October)**
 - Independent films screened across the city
@@ -203,7 +195,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - One of the great American Halloween cities
 - Bourbon Street goes costume-crazy
 - Krewe of Boo parade (usually the weekend before Halloween)
-- Group impact: Weekend of Halloween is peak party weekend; book 6-8 weeks out
+- Group impact: Weekend of Halloween is peak party weekend — for the largest selection, book 6+ months out
 
 ---
 
@@ -212,13 +204,13 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **Thanksgiving Weekend**
 - Popular travel period, city gets busy
 - Good weather — arguably the best month climate-wise
-- Group impact: Book 4-6 weeks out minimum
+- Group impact: Book ahead — for the largest selection, book 6+ months out
 
 **Bayou Classic (Saturday before Thanksgiving)**
 - Grambling vs. Southern University HBCU rivalry game at Caesars Superdome
 - One of the best gameday atmospheres in college football
 - Accompanied by Battle of the Bands in the Superdome the night before
-- Group impact: Major event; CBD/Downtown books fast; 6-8 weeks out minimum
+- Group impact: Major event; CBD/Downtown books fast — for the largest selection, book 6+ months out
 
 ---
 
@@ -232,24 +224,26 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **New Year's Eve**
 - Fireworks at the Mississippi, Frenchmen Street countdown, French Quarter chaos
 - The city goes all-in
-- Group impact: New Year's Eve weekend is one of the most popular travel dates. Large group accommodations book 3-6 months out. Hotel prices are at or near Mardi Gras levels on NYE itself.
+- Group impact: New Year's Eve weekend is one of the most popular travel dates, with demand rivaling Mardi Gras on the night itself — for the largest selection, book 6+ months out.
 
 ---
 
-## Festival Lead Time Summary
+## Relative Demand, Event to Event
 
-| Event | Best Lead Time (Large Groups) | Price Impact |
-|-------|------------------------------|-------------|
-| Mardi Gras (peak weekend) | 8-12 months | 3-5x |
-| New Year's Eve | 3-6 months | 2-3x |
-| Jazz Fest | 3-6 months | 2-3x |
-| Southern Decadence | 3-4 months | 1.5-2x |
-| French Quarter Fest | 8-12 weeks | 1.5x |
-| Bayou Classic | 6-8 weeks | 1.5x |
-| Halloween Weekend | 6-8 weeks | 1.5x |
-| Voodoo Fest | 8-12 weeks | 1.5x |
-| St. Patrick's Day | 4-6 weeks | 1.25x |
-| Off-season weekends | 2-4 weeks | 1x |
+Every event above carries the same booking advice — for the largest selection, book 6+ months out — but demand isn't identical across the calendar. This is the honest ranking of how hard each one is to book late.
+
+| Event | Relative Demand |
+|-------|-----------------|
+| Mardi Gras (peak weekend) | Highest of the year |
+| Jazz Fest | Very high |
+| New Year's Eve | Very high |
+| Southern Decadence | High |
+| French Quarter Fest | High |
+| Voodoo Fest | High |
+| Halloween Weekend | High |
+| Bayou Classic | Moderate-high |
+| St. Patrick's Day | Moderate |
+| Off-season weekends | Baseline |
 
 ---
 
@@ -257,7 +251,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 ### Accommodation
 
-During peak festivals, your options narrow dramatically. Most Airbnb and VRBO listings that can handle 10+ guests book out far in advance. If you're a group of 15-30, your realistic options during Mardi Gras or Jazz Fest are: (a) book a private villa 6-12 months out, or (b) split into multiple smaller rentals and lose the togetherness.
+During peak festivals, your options narrow dramatically. Most listings that can hold a big group book out far in advance. At full headcount, your realistic options during Mardi Gras or Jazz Fest are: (a) book a private villa 6+ months out for the largest selection, or (b) split into multiple smaller rentals and lose the togetherness.
 
 ### Restaurants
 
@@ -291,21 +285,12 @@ Crowds are significantly larger. Lines form at popular spots. Factor in extra ti
 
 ---
 
-## Large Group Accommodations During Festival Season
+## For a Big Group
 
-This is where most groups struggle. You need 20 people together in one place during the most popular travel stretch of the year.
+This is where most groups struggle. You need the whole crew together in one place during the most popular travel stretches of the year, and festival-season accommodation that can hold a big group under one roof is a genuinely limited category — not hundreds of listings, a handful.
 
-**Castleday Retreats** — Bywater, three private villas sleeping up to 30 each. Bywater is a 15-minute walk from the Jazz Fest fairgrounds and close enough to Mardi Gras parade routes uptown via streetcar or Uber. Private pools make festival recovery days exceptional. Book 6-12 months ahead for Mardi Gras and Jazz Fest.
+**Editorial examples of what fits which festival:** properties like Castleday Retreats (private-pool Bywater villas) put a group a short walk or streetcar ride from the Jazz Fest fairgrounds and close enough to the Uptown Mardi Gras route. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, sits on the key artery during Mardi Gras parade season. Heirloom's larger inventory across the Lower Garden District and Central City is the answer when the calendar's tight and short-notice availability matters more than a specific block. Hotel room blocks — properties like The Roosevelt or Hotel Peter & Paul — are the fit for a mixed-budget group that wants its own keys and bills. None of these is a booking recommendation; pick by what actually fits your group's festival and neighborhood.
 
-**The Syd** — Lower Garden District, multiple villas sleeping up to 22. One block from the St. Charles Streetcar, which is the key artery during Mardi Gras parade season. The shared heated pool, hot tub, and sauna make it a natural hub between festival outings. Strong location for groups attending the Garden District and Uptown parades.
+For the largest selection, book 6+ months out.
 
-Both properties are accustomed to festival-season groups. They know the logistics. They can advise on parade routes, parking, and coordination.
-
----
-
-## Book Early — Or Miss Out
-
-Festival-season accommodations for large groups are a limited resource. The 30-person villas that work for your group don't have hundreds of listings. There are a handful.
-
-- Castleday Retreats — Check availability early; festival dates go first
-- The Syd — Lower Garden District, near streetcar lines for parade season
+[See where to stay for large groups →](/where-to-stay/)
