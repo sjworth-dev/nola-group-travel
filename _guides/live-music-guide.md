@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Live Music Guide for Large Groups"
-description: "How to experience New Orleans live music with a group of 10-30: every major venue type, Frenchmen Street vs. Preservation Hall, jazz clubs, brass bands, and how to structure a full music trip."
+description: "How to experience New Orleans live music with the whole crew: every major venue type, Frenchmen Street vs. Preservation Hall, jazz clubs, brass bands, and how to structure a full music trip."
 category: "Activities & Day Trips"
 card_title: "Live Music Guide"
 card_description: "Preservation Hall, Frenchmen Street, Tipitina's, second lines. Here's how to actually experience NOLA music with a large group."
@@ -35,7 +35,7 @@ This is the single most important thing to understand before you plan a music ni
 
 **Frenchmen Street** is in the Marigny, one neighborhood east of the French Quarter. It's where local musicians actually perform. Three blocks of clubs — d.b.a., The Spotted Cat, Maison, Blue Nile, and others — with live jazz, blues, funk, brass, and everything adjacent. No cover in most places, or minimal cover. The musicians are serious. The audience pays attention. This is the move.
 
-That said: Bourbon Street is worth one walk. It's a cultural artifact. Walk it once, take it in, and then go to Frenchmen Street.
+That said: Bourbon Street is worth one walk. It's a cultural artifact. Walk it once, take it in, and then go to Frenchmen Street. For the fuller rundown on how the two nightlife styles compare, see the [day-drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/).
 
 ---
 
@@ -53,7 +53,7 @@ The beating heart of New Orleans live music. Three blocks in the Marigny, walkab
 | Blue Nile | Brass bands, high energy, dancing encouraged | Best late-night venue on the street |
 | Bamboula's | Cajun and zydeco influence, strong food | Good for groups who want dinner + music |
 
-**Strategy for large groups:** Don't try to keep 20 people in one bar all night. Pick Frenchmen Street as your anchor, let people spread across venues, establish a check-in point and time. The street itself is the gathering space.
+**Strategy for large groups:** Don't try to keep everyone in one bar all night. Pick Frenchmen Street as your anchor, let people spread across venues, establish a check-in point and time. The street itself is the gathering space — the [bar crawl guide](/guides/bar-crawl-guide/) covers the same loose-structure approach for a night that isn't music-first.
 
 ### Preservation Hall
 
@@ -146,7 +146,7 @@ No reservations required for most venues. Tip the musicians. Walk-around cups ar
 
 The premium option. Hire a brass band to lead your group on a private second line through the streets of New Orleans. The band plays, you follow, passersby join in. It's theatrical, joyful, and purely New Orleans.
 
-This runs roughly 45 minutes to an hour. Bands are booked through various entertainment companies that specialize in private second lines. Price varies by band and duration. Budget for this if you want to do it right — it's worth every dollar.
+This runs roughly 45 minutes to an hour. Bands are booked through various entertainment companies that specialize in private second lines. Price varies by band and duration — the [budget guide](/guides/budget-guide/) has the fuller per-person math for working an add-on like this into the trip. Budget for this if you want to do it right — it's worth every dollar. For the full culture and etiquette behind the tradition, see the [second line guide](/guides/second-line-guide/).
 
 ---
 
@@ -155,7 +155,7 @@ This runs roughly 45 minutes to an hour. Bands are booked through various entert
 One of New Orleans' most honest attributes: you don't have to plan to find music here. It finds you.
 
 - **Street musicians** in the French Quarter, on the Riverwalk, at the entrance to City Park
-- **Second line parades** — official Social Aid and Pleasure Club parades happen almost every Sunday from September through June. Free to attend, neighborhoods are posted online
+- **Second line parades** — official Social Aid and Pleasure Club parades happen almost every Sunday from September through June. Free to attend, neighborhoods are posted online. The [second line guide](/guides/second-line-guide/) covers etiquette and how to actually find one
 - **Sunday jazz brunch** — several restaurants do full live jazz brunch. Justine's, Commander's Palace, others
 - **Bacchanal Wine** — the wine garden in the Bywater has live jazz most evenings, free admission
 - **House parties** — if you're staying in the Bywater or Marigny and you hear music coming from somewhere, walk toward it
@@ -210,21 +210,12 @@ Practical approach: designate a group tipper. One person holds a chunk of the co
 
 ---
 
-## Where to Stay
+## For a Big Group
 
-Music nights work best when your home base is close to the music. The Bywater and Marigny put you within walking distance of Frenchmen Street; the French Quarter puts you walking distance of Preservation Hall and Bourbon Street; the Lower Garden District puts you close to Tipitina's and the Magazine Street bar scene.
+Music nights work best when your home base is close to the music, and a shared house keeps the night together in a way scattered hotel rooms don't — pre-show drinks, post-midnight debrief, everyone leaving from and returning to the same door. The Bywater and Marigny put you within walking distance of Frenchmen Street; the French Quarter puts you walking distance of Preservation Hall and Bourbon Street; the Lower Garden District puts you close to Tipitina's and the Magazine Street bar scene.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you within walking distance of Frenchmen Street — the core of New Orleans live music. Private pools and full kitchens mean the pre-show and post-show at the house are part of the night. The Herald has the best common areas for a full-group gathering; The Cocodrie has the best outdoor space for late-night decompression after the bars.
+**Editorial examples of what fits each base:** properties like Castleday Retreats (private-pool Bywater villas) put a group within walking distance of Frenchmen Street for a group that wants music to be the center of the trip. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, is the pick for a group splitting time between Tipitina's, Magazine Street bars, and an Uber into Frenchmen Street. The Revelry's Central City floors work for a group that wants separate billing with a similar streetcar-adjacent position. Neither is a booking recommendation — they're representative of what the fit looks like; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the full field and how to weigh a private house against a hotel room block for a music-first trip.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The streetcar gives you easy access to Tipitina's and Magazine Street bars; Frenchmen Street is a short Uber away. The artist-designed interiors were literally built for a music-loving city.
+For the largest selection, book 6+ months out.
 
-For a group that wants music to be the center of the trip, Castleday's Bywater location is the closer walk home from Frenchmen Street at 1 AM.
-
----
-
-## Book Your Music Trip
-
-New Orleans live music is best experienced with a private home base to leave from and return to. Scattered hotel rooms fragment the group; a shared villa keeps the night together from pre-show drinks to post-midnight debrief.
-
-- Castleday Retreats — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests
-- The Syd — Lower Garden District, up to 22 guests, streetcar access to the city's music corridors
+[See where to stay for large groups →](/where-to-stay/)
