@@ -4,7 +4,7 @@ description: "The ultimate girls trip guide for Uptown New Orleans — Magazine 
 category: "Bachelorette & Bachelor"
 card_title: "Girls Trip: Uptown"
 card_description: "Magazine Street, Garden District brunch, spas, and night out — the Uptown girls trip playbook."
-date: 2026-05-24
+date: 2026-07-31
 ---
 
 Uptown is where the city goes when it's not performing. No Bourbon Street energy, no tourist crush — just some of the best restaurants in the country, a neighborhood built for walking, and a bar scene that knows how to have a good time without trying too hard.
@@ -21,7 +21,7 @@ Here's the playbook.
 - Check the Maple Leaf Bar and other live music venues for show schedules
 - Build in at least one afternoon at the pool — it's never a waste
 - Assign a logistics lead who isn't responsible for everyone's moods
-- Confirm dietary restrictions and restrictions before booking restaurants
+- Confirm dietary restrictions before booking restaurants
 
 ---
 
@@ -44,7 +44,7 @@ If your group hasn't picked a neighborhood yet, start with the [large group girl
 - Instant walkability to the French Quarter's tourist sites
 - The most concentrated live music (that's Frenchmen Street — but it's only a short drive)
 
-**Our read:** For a girls group that wants to do more than party — that wants great food, actual shopping, beauty treatments, and a neighborhood they could imagine living in — Uptown is the best version of New Orleans.
+**The verdict:** For a girls group that wants to do more than party — that wants great food, actual shopping, beauty treatments, and a neighborhood they could imagine living in — Uptown is the best version of New Orleans.
 
 ---
 
@@ -76,7 +76,7 @@ The right way: agree on a stretch (the blocks between Louisiana and Napoleon are
 
 ## Garden District: The Walk
 
-The Garden District is one of the most beautiful neighborhoods in America. We say this with confidence. The antebellum mansions, the live oak canopy, the ironwork fences, the azaleas in spring — it photographs well and it's even better in person.
+The Garden District is one of the most beautiful neighborhoods in America, full stop. The antebellum mansions, the live oak canopy, the ironwork fences, the azaleas in spring — it photographs well and it's even better in person.
 
 ### How to Do It
 
