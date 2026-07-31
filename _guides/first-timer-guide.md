@@ -4,7 +4,7 @@ description: "Everything a large group needs to know before their first trip to 
 category: "Planning & Logistics"
 card_title: "First-Timer Guide"
 card_description: "What to know, what to skip, and how to see the real New Orleans with your group."
-date: 2026-05-25
+date: 2026-07-31
 ---
 
 New Orleans is unlike any other American city. That's not a marketing line — it's a practical fact that matters for your planning. The culture, the food, the music, the pace, the geography — everything is different here. Groups that show up with assumptions built on other cities have a rough first day. Groups that understand what they're walking into have one of the best trips of their lives.
@@ -17,8 +17,8 @@ This guide is the orientation we wish every first-timer had before they landed.
 - [ ] Make 2-3 dinner reservations before you arrive (don't try to walk in to popular spots with 20 people)
 - [ ] Download a map that works offline — French Quarter streets are confusing
 - [ ] Know your neighborhoods: French Quarter ≠ all of New Orleans
-- [ ] Check what's happening that weekend (Mardi Gras, Jazz Fest, Essence Festival change everything)
-- [ ] Set a realistic budget — NOLA can be expensive if you're not paying attention
+- [ ] Check the [festival calendar](/guides/festival-season-calendar/) for what's happening that weekend — [Mardi Gras](/guides/mardi-gras-group-guide/), [Jazz Fest](/guides/jazz-fest-group-guide/), and [Essence Fest](/guides/essence-festival/) change everything
+- [ ] Set a realistic budget — the [budget guide](/guides/budget-guide/) runs the real per-person math
 - [ ] Tell someone they're the trip point person before you land
 
 ---
@@ -79,7 +79,7 @@ A wine shop with a back courtyard that has live jazz, cheese boards, and a kitch
 
 ### 6. A Second Line Parade
 
-If one happens to be scheduled during your visit, you go. These are community parades with brass bands that wind through neighborhoods every Sunday (when not during summer and certain holidays). Nothing staged about it. You join in. See the [second line guide](/guides/second-line-guide) for logistics.
+If one happens to be scheduled during your visit, you go. These are community parades with brass bands that wind through neighborhoods every Sunday (when not during summer and certain holidays). Nothing staged about it. You join in. See the [second line guide](/guides/second-line-guide/) for logistics.
 
 ### 7. Breakfast at a Real NOLA Spot
 
@@ -143,7 +143,7 @@ The walk-around cups and no-last-call culture is real. But NOLA doesn't go hard 
 | Bikes | Exploring at your own pace | Blue Bikes rental system works well |
 | Taxi | Late night if Uber is surging | Still exists, useful backup |
 
-**For large groups:** You're going to need multiple Ubers or to be strategic about walking. A group of 20 cannot efficiently pile into cars — plan for 4-6 cars per move, or find neighborhoods where walking is the strategy.
+**For large groups:** A big crew can't efficiently pile into one or two cars — plan for several cars per move, or find neighborhoods where walking is the strategy. The [transportation guide](/guides/transportation-guide/) covers the full logistics of moving a large group around the city.
 
 ### The Street Grid
 
@@ -178,6 +178,8 @@ The French Quarter is mostly a clean grid. The rest of the city follows the curv
 ---
 
 ## First-Timer Weekend Itinerary
+
+This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary-3-day/) covers it hour by hour with more room to customize.
 
 ### Day 1: The Classic Introduction
 
@@ -249,21 +251,12 @@ The French Quarter is mostly a clean grid. The rest of the city follows the curv
 
 ---
 
-## Where to Stay: The First-Timer Problem
+## For a Big Group
 
-The biggest logistical challenge for first-time large group visitors is accommodation. Most online rental platforms cap at 8-12 guests. Hotels scatter the group across rooms and floors. Neither option gives you what you actually want: everyone together.
+The biggest logistical challenge for first-time large group visitors is accommodation. Most online rental platforms cap out well short of a big crew. Hotels scatter the group across rooms and floors. Neither option gives you what you actually want: everyone together. Once a trip goes double-digit, a private group villa is usually the answer — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down that math in full.
 
-For groups of 10-30, private group villas are the answer.
+The property field spans a real range of fits, and for first-timers, location matters as much as capacity. **Castleday Retreats**, private-pool Bywater villas a 20-minute walk from the Quarter and right next to Frenchmen Street, puts a first trip in the middle of real New Orleans rather than the tourist bubble. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, is the pick if your group wants easy access to the Garden District, CBD, and Warehouse District — the streetcar ride alone is worth the location. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add deeper inventory if the calendar's tight. None of these is a booking recommendation — pick by fit, and both neighborhoods beat staying inside the tourist strip for a first visit.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. You're a 20-minute walk from the French Quarter, right next to Frenchmen Street. The Herald, The Cocodrie, and The Florentine each have the common space to make your group feel at home from night one. For first-timers, the Bywater location puts you in the middle of real New Orleans — not the tourist bubble of the Quarter.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which is itself a New Orleans experience. The artist-designed interiors — every room done by a different local New Orleans artist — give first-timers an immediate sense of the city's creative culture. Excellent location if your group wants easy access to the Garden District, CBD, and Warehouse District.
-
-Both options put your group in livable neighborhoods rather than the tourist strip. That's the right call for a first visit — you'll see a more genuine version of the city.
-
----
-
-## Book Your First NOLA Trip
-
-- Castleday Retreats — Bywater, up to 30 guests per villa, private pools, art-filled interiors
-- The Syd — Lower Garden District, up to 22 guests, shared pool and hot tub, local artist-designed rooms
+[See where to stay for large groups →](/where-to-stay/)
