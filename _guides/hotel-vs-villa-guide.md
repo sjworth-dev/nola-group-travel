@@ -4,7 +4,7 @@ description: "What a hotel actually gives your group vs. what a private villa gi
 category: "Planning & Logistics"
 card_title: "Hotel vs. Villa"
 card_description: "The actual math, the real differences, and when each option makes sense for your group."
-date: 2026-05-27
+date: 2026-08-01
 ---
 
 Hotels are the default. Villa is the upgrade. That's how most groups think about it, and for most groups, that framing is wrong.
@@ -21,7 +21,7 @@ This guide does the math, explains what each option actually delivers in practic
 - [ ] Assess your group's need for shared common space — this is the non-financial differentiator
 - [ ] Check if your dates overlap with major events (Mardi Gras, Jazz Fest) — villa pricing peaks during these periods
 - [ ] Confirm the villa's security deposit terms and who carries it
-- [ ] For groups of 20+, run the side-by-side comparison before making any decision
+- [ ] For a big group, run the side-by-side comparison before making any decision — the [group size guide](/guides/group-size-guide/) covers how the math shifts as headcount climbs
 - [ ] For groups under 10, be honest that hotels often make more financial sense
 
 ---
@@ -59,7 +59,7 @@ The villa's advertised rate is close to the actual rate. Add:
 
 That's not a marginal difference. That's $214 per person — for a group of 20, the villa saves you $4,280 on a three-night trip.
 
-The numbers vary by property, season, and how many meals you eat at home. But the direction is consistent: for groups of 15 or more, private villas compete with and often beat hotels on pure cost.
+The numbers vary by property, season, and how many meals you eat at home. But the direction is consistent: for groups of 15 or more, private villas compete with and often beat hotels on pure cost. The [budget guide](/guides/budget-guide/) runs the fuller per-person math across a whole trip, not just the room.
 
 ---
 
@@ -118,7 +118,7 @@ Let's be fair. Hotels offer real things that villas don't.
 
 **Privacy from strangers.** At a villa, your group is the only group. At a hotel, you share every common space with hundreds of strangers who are doing entirely different things on entirely different schedules.
 
-**The accommodation becomes part of the experience.** A beautiful villa in the Bywater or the Lower Garden District is something you talk about during the trip and after. A hotel room is functional.
+**The accommodation becomes part of the experience.** A beautiful villa in the Bywater or the Lower Garden District is something you talk about during the trip and after. A hotel room is functional. The [Bywater vs. LGD comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down how those two villa neighborhoods actually differ. If a short-term rental is new territory for your group, the [Airbnb vs. villa guide](/guides/nola-group-airbnb-vs-villa-honest-comparison/) and the [short-term rental rules guide](/guides/nola-group-short-term-rental-rules-guide/) cover what to expect before you book.
 
 ---
 
@@ -126,13 +126,13 @@ Let's be fair. Hotels offer real things that villas don't.
 
 | Trip Type | Lean Hotel | Lean Villa |
 |-----------|-----------|-----------|
-| Convention attendance | ✓ — hotel proximity to convention center matters | |
+| [Convention attendance](/guides/convention-group-guide/) | ✓ — hotel proximity to convention center matters | |
 | Bachelorette party (pool, privacy) | | ✓ |
 | Corporate retreat (team building) | | ✓ — common space is the workspace |
-| Family reunion (multigenerational) | | ✓ — kitchen, space, everyone together |
+| [Family reunion](/guides/extended-family-reunion-guide/) (multigenerational) | | ✓ — kitchen, space, everyone together |
 | Friends trip (8–12 people) | Depends on cost | Depends on cost |
 | Friends trip (15–30 people) | | ✓ — clear financial and experiential advantage |
-| Wedding party (staying together) | | ✓ — getting-ready logistics alone justify it |
+| [Wedding party](/guides/wedding-weekend-guide/) (staying together) | | ✓ — getting-ready logistics alone justify it |
 | Budget-conscious group | Depends on group size | ✓ for 15+ people |
 | Trip with ADA requirements | ✓ — regulatory certainty | Call property first |
 | Short stay (1 night) | ✓ | |
@@ -158,7 +158,7 @@ Be honest about these situations:
 
 **When the group is under 10 people and price-sensitive.** Below a certain group size, villas don't have the math advantage. A group of 8 traveling cheaply may genuinely find hotel rooms less expensive than a villa.
 
-**When ADA accessibility is non-negotiable.** If a guest has specific accessibility requirements that a villa can't document meeting, the legal floor of an ADA hotel room is the safer choice. Some villas work well for mobility-limited guests — but the certainty hotels provide matters.
+**When ADA accessibility is non-negotiable.** If a guest has specific accessibility requirements that a villa can't document meeting, the legal floor of an ADA hotel room is the safer choice. Some villas work well for mobility-limited guests — but the certainty hotels provide matters. The [accessible group guide](/guides/accessible-group-guide/) covers what to check for either option before booking.
 
 **When the trip is one night.** Cleaning fees, check-in logistics, and the setup overhead of a villa don't pay off on a single night. Hotel for one-night stays.
 
@@ -172,7 +172,7 @@ Be honest about these situations:
 
 | Factor | Hotel | Villa |
 |--------|-------|-------|
-| Booking lead time | 2–8 weeks sufficient | 2–6 months for peak dates |
+| Booking lead time | 2–8 weeks sufficient | For the largest selection, book 6+ months out |
 | Cancellation flexibility | Often 48–72 hours | Typically strict; often non-refundable |
 | Payment timing | Credit card hold; pay at checkout | Often full payment upfront |
 | Security deposit | Per-room incidental hold | Full security deposit ($500–1,500) |
@@ -183,13 +183,9 @@ Be honest about these situations:
 
 ## Large Group Villa Options in New Orleans
 
-If you've done the math and a private villa makes sense, here are the two properties we know work for large groups.
+If you've done the math and a private villa makes sense, the field spans a real range of fits. Bywater properties like **Castleday Retreats** deliver total privacy — private pools per villa, full kitchens, distance from French Quarter tourist density. Lower Garden District options like **The Syd** put you a block from the St. Charles Streetcar with a shared pool and hot tub. **Heirloom**'s larger-format homes across the LGD and Central City add deeper inventory and short-notice availability. **The Revelry** offers apartment-style floors with separate billing — useful when the group wants one roof but split tabs. For a mixed-budget group that wants its own keys, room blocks at hotels like The Roosevelt or Hotel Peter & Paul answer the same brief without the villa commitment.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each offer private pools, full kitchens, and complete privacy. For groups of 20–30, one villa is sufficient. For groups who want multiple private spaces — a wedding weekend with the bridal party in one villa and families in another — booking two or three Castleday villas simultaneously is an option. The Bywater location puts you in a real New Orleans neighborhood, away from the tourist density of the French Quarter, walkable to Bacchanal Wine and the Marigny.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room is designed by local New Orleans artists. Shared heated pool, hot tub, sauna, and outdoor kitchen in a common area. One block from the St. Charles Streetcar — one of the best transit positions in the city for a group property. For groups of 10–22, a single Syd villa is the right size. For larger groups, adjacent villas can be booked together.
-
-Both properties deliver what the villa argument requires: private outdoor space, full kitchens, common areas where the group gathers, and per-person costs that compete directly with mid-range hotels when the group reaches 15 or more people.
+Whichever property fits, the villa argument holds across the field: private outdoor space, full kitchens, common areas where the group gathers, and per-person costs that compete directly with mid-range hotels once the group reaches 15 or more people. None of the above is a booking recommendation — pick by fit.
 
 ---
 
@@ -222,7 +218,6 @@ The decision framework is simple:
 - **One-night stay:** Hotel
 - **Convention lodging block:** Honor the block; skip the stress
 
-For groups of 15 or more coming to New Orleans:
+For the largest selection, book 6+ months out.
 
-- Castleday Retreats — Bywater, private villas up to 30 guests each, private pools, full kitchens
-- The Syd — Lower Garden District, up to 22 guests per villa, shared pool, hot tub, sauna, outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
