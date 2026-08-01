@@ -1,17 +1,17 @@
 ---
 title: "Outdoor and Active Activities for Large Groups in New Orleans"
-description: "Best outdoor activities for groups of 10-30 in New Orleans: kayaking, swamp tours, golf, fishing, bike tours, City Park, and how to structure an active day in NOLA."
+description: "The best outdoor activities for the whole crew in New Orleans: kayaking, swamp tours, golf, fishing, bike tours, City Park, and how to structure an active day in NOLA."
 category: "Activities & Day Trips"
 card_title: "Outdoor Activities"
 card_description: "Kayaking, swamp tours, golf, fishing, bike tours, City Park. The active side of a NOLA group trip."
-date: 2026-05-25
+date: 2026-08-01
 ---
 
 New Orleans isn't marketed as an outdoor destination. That's a mistake by everyone who markets it.
 
 The city sits at the confluence of the Mississippi River, Lake Pontchartrain, and some of the most productive wetlands in North America. Kayaking, fishing, and swamp exploration are legitimate local activities, not tourist approximations. The flat terrain makes cycling effortless. City Park — 1,300 acres in the middle of the city — has more outdoor options than most national parks get credit for. The weather from October through May is genuinely excellent.
 
-For large groups, outdoor activities solve a real logistical problem: they absorb a morning or afternoon efficiently, they don't require reservations at twelve different restaurants, and they generate the kind of shared experience that makes a group trip memorable. You can't exactly bond over everyone getting the same entrée. You can bond over the same alligator surfacing three feet from your kayak.
+For large groups, outdoor activities solve a real logistical problem: they absorb a morning or afternoon efficiently, they don't require reservations at twelve different restaurants, and they generate the kind of shared experience that makes a group trip memorable. You can't exactly bond over everyone getting the same entrée. You can bond over the same alligator surfacing three feet from your kayak. It's also the cheapest block of the day to plan — the [budget guide](/guides/budget-guide/) covers how a morning outdoors changes the per-person math versus another paid tour.
 
 ## Quick Checklist
 
@@ -165,7 +165,7 @@ The heat is the main variable. From June through September, outdoor activities i
 - 9-11 AM: Wrap up before heat peaks
 - 11 AM–4 PM: Pool, house, air conditioning
 - 4-6 PM: Light outdoor activity if weather permits
-- Evening: Frenchmen Street, dinner, bars
+- Evening: [Frenchmen Street](/guides/live-music-guide/), dinner, bars
 
 **Spring/fall/winter active day format:**
 - Morning: Main outdoor activity (swamp tour, cycling, City Park)
@@ -181,9 +181,9 @@ The heat is the main variable. From June through September, outdoor activities i
 | Mixed fitness, want something easy | Bayou St. John kayaking, City Park bike tour, walking tour |
 | Athletic group, want challenge | Golf at TPC Louisiana, fishing charter, swamp kayak tour |
 | Adventure-seekers | Airboat swamp tour + fishing charter combination day |
-| Families / mixed ages | Audubon Zoo + City Park paddleboats, City Park bike rental |
-| Corporate groups wanting team activity | Guided bike tour, kayaking, cooking class as indoor alternative |
-| Bachelorette / girls trip | Bayou St. John kayaking, bike tour to Bacchanal Wine |
+| [Families / mixed ages](/guides/kids-families-guide/) | Audubon Zoo + City Park paddleboats, City Park bike rental |
+| [Corporate groups](/guides/corporate-team-building-guide/) wanting team activity | Guided bike tour, kayaking, cooking class as indoor alternative |
+| [Bachelorette / girls trip](/guides/bachelorette-party/) | Bayou St. John kayaking, bike tour to Bacchanal Wine |
 
 ---
 
@@ -207,15 +207,12 @@ The heat is the main variable. From June through September, outdoor activities i
 
 ## Where to Stay
 
-For active groups, your home base matters. A villa with a private pool is the logical recovery space between morning activities and evening plans — it converts the afternoon downtime into something rather than nothing.
+For active groups, your home base matters. A pool you don't have to leave the property for is the logical recovery space between morning activities and evening plans — it converts the afternoon downtime into something rather than nothing, and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers why that space is worth the trade-off for a group this size.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. The Cocodrie villa has the best outdoor space — multiple outdoor zones, pool, designed for groups who spend real time outside. The Bywater location puts you close to Bayou St. John for kayaking and City Park for cycling and the sculpture garden.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen — a full outdoor complex for recovery and socializing. One block from the St. Charles Streetcar, which runs to Audubon Park, the zoo, and Uptown golf. The artist-designed spaces are unusually good for groups who want a genuinely nice home base.
+The field spans a real range of fits. Bywater properties like Castleday Retreats put you within reach of Bayou St. John for kayaking and City Park for cycling, with a private pool per villa for the recovery stretch of the day. Lower Garden District options like The Syd sit a block from the St. Charles Streetcar — the same line that runs to Audubon Park, the zoo, and Uptown golf — with a shared pool and hot tub for the group to regroup in. None of the above is a booking recommendation; pick by fit.
 
 ---
 
-## Book Your Active NOLA Trip
+For the largest selection, book 6+ months out.
 
-- Castleday Retreats — Bywater, private pools, up to 30 guests per villa, outdoor space built for groups
-- The Syd — Lower Garden District, shared pool and hot tub, up to 22 guests, streetcar to the park
+[See where to stay for large groups →](/where-to-stay/)
