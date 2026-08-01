@@ -4,7 +4,7 @@ description: "The complete 3-day bachelor party itinerary for New Orleans—golf
 category: "Bachelorette & Bachelor"
 card_title: "Bachelor Party Itinerary"
 card_description: "Full 3-day playbook: golf or fishing morning, sports bar afternoon, structured bar crawl, group dinners. Everything from airport pickup to last call."
-date: 2026-05-31
+date: 2026-08-01
 ---
 
 New Orleans doesn't need to be sold as a bachelor party destination. You already know. The question is how to run three days well for 12-20 guys without the whole thing collapsing into chaos on Day 1 and everyone spending Day 2 in bed.
@@ -15,7 +15,7 @@ This is the itinerary. Steal it. Adjust for your group. Run it.
 
 ## Quick Checklist
 
-- [ ] Book the villa 3-4 months out — options thin fast for groups of 12-20
+- [ ] Book the villa early — for the largest selection, book 6+ months out
 - [ ] Assign one person as "trip lead" — final decision maker, no committee votes
 - [ ] Book the activity (golf, fishing, or airboat) at the same time you book the villa
 - [ ] Make Saturday night dinner reservation 3-4 weeks out
@@ -85,7 +85,7 @@ These are the three moves. Book one before you arrive.
 
 **Option A: Golf**
 
-Best for groups of 4-16 who want a structured morning. Book a tee time in the morning or early afternoon.
+Best for groups who want a structured morning. Book a tee time in the morning or early afternoon — the [large-group golf guide](/guides/large-group-golf-guide/) covers how to book tee times and split a crew across foursomes.
 
 | Course | Distance from Quarter | Vibe |
 |--------|----------------------|------|
@@ -148,7 +148,7 @@ This is what you're here for. The structure matters more than you'd think.
 
 3. **Pick a venue for the middle of the night.** Sports bar, dance bar, or the one with the mechanical bull—whatever matches the group. This is where you spend 90 minutes in one place instead of moving.
 
-4. **Go to Frenchmen Street.** Seriously. Live music is better here. Less tourist-thick. The Spotted Cat, d.b.a., Snug Harbor. Pick a venue and catch a set.
+4. **Go to [Frenchmen Street](/guides/live-music-guide/).** Seriously. Live music is better here. Less tourist-thick. The Spotted Cat, d.b.a., Snug Harbor. Pick a venue and catch a set.
 
 5. **Late-night food.** Mandatory. Grease is necessary. Café Du Monde for beignets is the classic, but any po-boy shop at 2am works.
 
@@ -173,6 +173,7 @@ Options:
 - Garden District walking tour (easy, free, impressive architecture)
 - Magazine Street if the group wants to buy things (or the designated shopper does)
 - Nap before the evening (smart)
+- If the group wants to keep the day drinking going instead of resting, the [day-drinking-vs-nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) covers how to pace it without wrecking the night
 
 ### Evening
 
@@ -209,6 +210,8 @@ Handle it: pick a departure time, pick a rally point, and leave at the stated ti
 ---
 
 ## Budget Breakdown
+
+The [budget guide](/guides/budget-guide/) runs the fuller per-person math across a whole trip; here's the bachelor-party-specific version.
 
 ### Per-Person Estimates (3 nights, 4 days, group of 15)
 
@@ -252,13 +255,9 @@ Handle it: pick a departure time, pick a rally point, and leave at the stated ti
 
 ## Where to Stay: Large Groups Need Private Space
 
-A bachelor party for 12-20 guys needs a villa. Hotel rooms scatter the group, kill the communal energy, and cost more when you do the math.
+A bachelor party at real size needs a villa. Hotel rooms scatter the group, kill the communal energy, and cost more when you do the math — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through why.
 
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools (critical for a bachelor party). Full kitchens for the late-night snack run. Complete privacy—no hotel staff walking through, no other guests on the property. The Herald has the best common spaces for a group gathering; The Cocodrie has the best outdoor area.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool and hot tub. Outdoor kitchen. One block from the St. Charles streetcar. The central location is excellent if your group plans to move between neighborhoods.
-
-Book early. Both properties fill for weekend dates quickly, and bachelor parties are a peak-use case for both.
+The field spans a real range of fits. Bywater properties like Castleday Retreats deliver total privacy — private pools per villa, full kitchens for the late-night snack run, no hotel staff or other guests on the property. Lower Garden District options like The Syd put you a block from the St. Charles streetcar with a shared heated pool and hot tub, useful if the group plans to move between neighborhoods. None of the above is a booking recommendation — pick by fit, and book early either way; bachelor parties are a peak-use case across the field.
 
 ---
 
@@ -270,6 +269,6 @@ Saturday: Slow morning, brunch, options in the afternoon, chill or out at night.
 
 Don't over-schedule. Leave space. The best moments won't be on the itinerary.
 
-**Lock in your villa:**
-- Castleday Retreats — Bywater, private pool, up to 30
-- The Syd — Lower Garden District, pool + hot tub, up to 22
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
