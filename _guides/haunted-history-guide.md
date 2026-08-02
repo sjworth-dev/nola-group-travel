@@ -37,7 +37,7 @@ The result is a collection of cities-of-the-dead — neighborhood cemeteries tha
 
 The oldest active cemetery in New Orleans, established in 1789. This is the one you've seen in photos: white-plaster tombs, elaborate above-ground structures, a density of history in a small space.
 
-**What you need to know:** St. Louis Cemetery No. 1 is no longer open for independent visiting. You must enter with a licensed guide from a tour organization that has permission. This is a direct consequence of visitor damage and vandalism — including the defacing of what was long believed to be Marie Laveau's tomb.
+**What you need to know:** St. Louis Cemetery No. 1 is no longer open for independent visiting. You must enter with a licensed guide from a tour organization that has permission. This is a direct consequence of visitor damage and vandalism — including the defacing of what was long believed to be Marie Laveau's tomb. The [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) covers how to book a private group tour and which cemeteries suit a large group best.
 
 **For large groups:** Tours of No. 1 run with capacity limits. For groups of 15+, you may need to book multiple tour slots or arrange a private group tour. Contact tour operators directly to understand the logistics.
 
@@ -71,7 +71,7 @@ This is weirder and more genuinely affecting than any ghost tour. The medical ob
 
 Marie Laveau was the most powerful Voodoo queen of 19th-century New Orleans — a historical figure who was also a prominent businesswoman, a figure of significant social influence, and a practitioner of Louisiana Voodoo, which is a distinct religious tradition with roots in West African, Haitian, and Catholic religious practices.
 
-She is not a ghost story. She is a genuinely significant historical and cultural figure whose influence on New Orleans culture is documented, debated, and still felt.
+She is not a ghost story. She is a genuinely significant historical and cultural figure whose influence on New Orleans culture is documented, debated, and still felt. The [Voodoo history and culture guide](/guides/nola-group-voodoo-history-culture-guide/) goes deeper into the actual tradition behind the iconography most visitors only see as Halloween decoration.
 
 **Where to engage with this history:**
 
@@ -138,9 +138,9 @@ If your group wants a guided ghost tour experience, not all operators are equal.
 
 New Orleans takes Halloween seriously. October is legitimately one of the best months to be in the city, and for groups interested in the haunted history angle, the timing aligns perfectly.
 
-The Krewe of Boo parade happens in late October — a large citywide Halloween parade with floats, costumes, and the full NOLA parade experience. The voodoo music festival (now rebranded but the same general event) typically happens Halloween weekend in City Park. Multiple bars, venues, and neighborhoods run Halloween-specific programming.
+The Krewe of Boo parade happens in late October — a large citywide Halloween parade with floats, costumes, and the full NOLA parade experience. [Voodoo Fest](/guides/nola-voodoo-fest-guide/) typically happens Halloween weekend in City Park. Multiple bars, venues, and neighborhoods run Halloween-specific programming.
 
-See the [Halloween guide](/guides/halloween-guide) for the full breakdown of October timing and events.
+See the [Halloween guide](/guides/halloween-guide/) for the full breakdown of October timing and events.
 
 ---
 
@@ -172,17 +172,14 @@ The historical record is more disturbing and more interesting than any ghost sto
 
 ---
 
-## Where to Stay for the History-Focused Trip
+## For a Big Group
 
-The most historically dense parts of New Orleans — the French Quarter, Tremé, Marigny, Bywater, Garden District — are all within reasonable distance of each other. Where you stay affects which history you can reach on foot.
+The most historically dense parts of New Orleans — the French Quarter, Tremé, Marigny, Bywater, Garden District — are all within reasonable distance of each other. Where you stay affects which history you can reach on foot, and a private house works better than a hotel for a group doing a full day of cemeteries and tours together: somewhere to regroup, compare notes, and clean up before dinner.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater sits adjacent to the Marigny and within easy walking or biking distance of Frenchmen Street and the Tremé. From the Bywater, you're roughly 20 minutes on foot from the French Quarter's cemetery and history district, or a 10-minute Uber. The private pools and full kitchens at The Herald, The Cocodrie, and The Florentine make it easy to gather the full group before and after a history day. The Bywater itself has architectural character worth examining — it's one of the more intact 19th-century residential neighborhoods in the city.
+A Bywater base sits adjacent to the Marigny and within easy walking or biking distance of Frenchmen Street and the Tremé, and roughly 20 minutes on foot (or a short Uber) from the French Quarter's cemetery and history district. A Lower Garden District base sits closer to Lafayette Cemetery and the Garden District historical walk, with the St. Charles Streetcar — itself running since 1835 — a block away in some properties. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the fuller math on when a private house beats a hotel room block for a group this size, and the [budget guide](/guides/budget-guide/) runs the per-person numbers either way.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District sits adjacent to the Garden District, which means Lafayette Cemetery and the Garden District historical walk are nearby. The St. Charles Streetcar — one block away — is itself a piece of New Orleans history, operating since 1835. From The Syd, you're well-positioned for the uptown cemeteries and the Garden District mansions, and a short Uber from the French Quarter's historical core.
+Properties like Castleday Retreats (private-pool Bywater villas) or The Syd (Lower Garden District villas one block from the streetcar) represent the kind of purpose-built group housing that fits a history-focused trip; a hotel room block remains a fine answer for a group that wants separate keys and bills. Neither is a booking recommendation — pick by proximity to the history your group actually wants to see.
 
----
+For the largest selection, book 6+ months out.
 
-## Book Your History Trip
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, walking distance to Marigny and Tremé historical sites
-- The Syd — Lower Garden District, up to 22 guests, adjacent to Garden District historical walking district, one block from St. Charles Streetcar
+[See where to stay for large groups →](/where-to-stay/)
