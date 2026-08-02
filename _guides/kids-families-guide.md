@@ -47,6 +47,8 @@ Yes — with conditions.
 | Aquarium of the Americas | Downtown, strong exhibits, Gulf Coast focus; good for 2-3 hours |
 | City Park Storyland | Fairy-tale storybook characters in a children's amusement park; vintage, NOLA-specific, can't find anywhere else |
 | City Park carousel and amusements | Working antique carousel, mini train, rides |
+
+The [Audubon Zoo and Aquarium guide](/guides/nola-group-audubon-zoo-aquarium-guide/) and the [City Park full-day guide](/guides/nola-group-mid-city-city-park-full-day-guide/) both go deeper on group logistics, hours, and how to structure a full day at either.
 | Swamp tour (aiboats or flat boats) | Alligators are universally exciting; most companies accommodate families |
 | Beignets at Café Du Monde | Powder sugar, outdoor café on the Mississippi — every kid loves this |
 
@@ -65,7 +67,7 @@ Yes — with conditions.
 
 | Activity | What Teenagers Get |
 |----------|-------------------|
-| Frenchmen Street (early evening) | Live music before it gets a bar crowd — around 7-9pm is accessible for teens |
+| Frenchmen Street (early evening) | Live music before it gets a bar crowd — around 7-9pm is accessible for teens; the [live music guide](/guides/live-music-guide/) covers the venues themselves |
 | Preservation Hall | Teenagers who are into music will remember this |
 | Food tours | Old enough to actually taste and appreciate the food |
 | Kayaking Bayou St. John | Active, independent-feeling, excellent |
@@ -76,7 +78,7 @@ Yes — with conditions.
 
 ## Managing Mixed-Age Groups
 
-Family reunions specifically deal with this: you have grandparents, parents, teenagers, and young children all on the same trip. Nobody's needs are identical.
+Family reunions specifically deal with this: you have grandparents, parents, teenagers, and young children all on the same trip. Nobody's needs are identical. The [extended family reunion guide](/guides/extended-family-reunion-guide/) covers the reunion-specific version of this problem — multi-generational room assignments, shared meals, and mobility considerations for older relatives.
 
 ### The Split Schedule Model
 
@@ -207,6 +209,8 @@ Family trips have different cost structures than adult group trips.
 | Accommodation | Per-person cost is lower if children share rooms with parents |
 | Transportation | Car seat requirements add logistics; check rideshare car seat availability in advance |
 
+The [budget guide](/guides/budget-guide/) has the full per-person cost breakdown; families should run the numbers on cooking in versus eating out every meal — a [private chef](/guides/private-chef-guide/) for one or two nights can actually save money over a full-group restaurant reservation once kids' menus and no-shows are factored in.
+
 ### Accommodation Cost Efficiency
 
 A large private rental for a family reunion actually pencils out very well per person when you account for the fact that 3-4 family units can share one villa. Four families with two adults and two kids each = 12 people in a villa that sleeps 22, with kitchen facilities that eliminate the cost of several restaurant meals.
@@ -240,11 +244,9 @@ The accommodation choice is more important for family group trips than any other
 - A kitchen for meals — cooking in saves significant money and works better with picky kids and varied schedules
 - A place where adults can be adults in the evenings while kids sleep
 
-Hotels do not work for family reunions. The rooms are too small, there's no shared space, and the economics of booking 8-10 hotel rooms make no sense compared to a villa.
+Hotels do not work well for family reunions at real scale. The rooms are too small, there's no shared space, and the economics of booking 8-10 hotel rooms make less sense than a villa — though a hotel room block is still the right call for a mixed-budget group that wants its own keys and bills. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how that math actually plays out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The private pools are perfect for kids during afternoon rest periods and for adults in the evenings. The full kitchens handle family meal logistics — breakfast for the whole group, casual lunches, kids' meals when restaurant timing doesn't work. The Herald, The Cocodrie, and The Florentine all have the outdoor space and the private compound feel that makes family trip management possible. Being in the Bywater also puts you close to City Park and the bayou via the Lafitte Greenway.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen are excellent for family trips where different generations want to decompress in different ways. The location — one block from the St. Charles Streetcar — keeps the family close to everything without needing a car fleet. For family reunions with older kids and teenagers, the Lower Garden District walkability to Audubon Park and Magazine Street is a genuine convenience.
+For groups that go the villa route, look for private or shared pools (perfect for kids during afternoon rest periods and for adults in the evenings) and a full kitchen that handles breakfast for the whole group, casual lunches, and kids' meals when restaurant timing doesn't work. Bywater properties put a family reunion close to City Park and the bayou via the Lafitte Greenway; Lower Garden District properties put older kids and teenagers within walking distance of Audubon Park and Magazine Street. Pick by proximity to what your family actually wants to do, not by brand.
 
 ---
 
@@ -254,5 +256,6 @@ New Orleans rewards families who plan it right. The city has enough for kids of 
 
 The mistake is trying to do it like an adult trip that happens to have children in tow. Plan it as a family trip with built-in adult time, and everyone gets the best version of both.
 
-- Castleday Retreats — Bywater villas, private pools, full kitchens, up to 30 per villa
-- The Syd — Lower Garden District villas, shared pool and outdoor kitchen, up to 22 per villa
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
