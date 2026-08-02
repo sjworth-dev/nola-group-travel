@@ -4,7 +4,7 @@ description: "How to do Halloween in New Orleans with a large group: the best ev
 category: "Festivals & Events"
 card_title: "Halloween in NOLA"
 card_description: "One of the best Halloween cities in the country. Here's how to do it with a large group."
-date: 2026-05-25
+date: 2026-08-02
 ---
 
 New Orleans takes Halloween seriously. More seriously than any other city except maybe Salem — and New Orleans has better food.
@@ -205,7 +205,7 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 Late October is one of the best weekends to be in New Orleans, which means accommodation pressure is real. Large private rentals in good neighborhoods book up well in advance, and the house does more work on Halloween weekend than on a typical trip — it's the costume staging area, the pre-crawl gathering space, and the post-midnight recovery zone.
 
-The neighborhood matters as much as the property. A Bywater base puts you walking distance from Frenchmen Street, your likely primary bar-crawl destination; a Lower Garden District base is convenient for the Krewe of Boo parade route and sits near the streetcar. Properties like Castleday Retreats (Bywater villas with private pools) or The Syd (Lower Garden District villas with a shared pool and hot tub) represent the kind of purpose-built group housing that fits either approach — neither is a booking recommendation, and the right fit depends on which crawl zone your group is anchoring to.
+The neighborhood matters as much as the property. A Bywater base puts you walking distance from Frenchmen Street, your likely primary bar-crawl destination; a Lower Garden District base is convenient for the Krewe of Boo parade route and sits near the streetcar. Properties like Castleday Retreats (Bywater villas with private pools) or The Syd (Lower Garden District villas with a shared pool and hot tub) represent the kind of purpose-built group housing that fits either approach. For a crew that wants separate keys and separate bills instead of one shared roof — useful if half the group is doing the full costume-and-crawl weekend and half wants a quieter exit — The Revelry's Central City floors or a hotel room block at a property like Hotel Peter & Paul are worth checking too. None of these is a booking recommendation, and the right fit depends on which crawl zone your group is anchoring to.
 
 For the largest selection, book 6+ months out.
 
