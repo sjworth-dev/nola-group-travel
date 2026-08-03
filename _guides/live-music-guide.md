@@ -4,7 +4,7 @@ description: "How to experience New Orleans live music with the whole crew: ever
 category: "Activities & Day Trips"
 card_title: "Live Music Guide"
 card_description: "Preservation Hall, Frenchmen Street, Tipitina's, second lines. Here's how to actually experience NOLA music with a large group."
-date: 2026-05-25
+date: 2026-08-03
 ---
 
 New Orleans is the birthplace of jazz. That's not marketing — it's just what happened here. The music you hear walking down Frenchmen Street on a Tuesday night at midnight is the direct descendant of what Congo Square sounded like two hundred years ago.
@@ -17,7 +17,7 @@ Here's how to get it right.
 
 - [ ] Read the difference between Frenchmen Street and Bourbon Street before you go — they are not the same experience
 - [ ] Plan at least one night centered entirely on live music
-- [ ] Check the Frenchmen Street Busker Board (posted on the street) for that night's lineup on arrival
+- [ ] Check each venue's posted schedule as soon as you arrive — Frenchmen Street's lineup shifts night to night, and walking the block once tells you more than planning from home
 - [ ] Book Preservation Hall tickets in advance for large groups — they sell out
 - [ ] For Tipitina's or other ticketed venues, buy tickets before arrival
 - [ ] Tip the musicians — this is how they make their living
@@ -178,7 +178,7 @@ If your group has three to four nights in New Orleans, here's how to cover all o
 
 ## Tipping
 
-This is not optional. The musicians on Frenchmen Street, at Preservation Hall, playing in the street — this is their livelihood. The tip bucket is not decorative.
+Not optional. The musicians on Frenchmen Street, at Preservation Hall, playing in the street — this is their livelihood, not a busking hobby. The tip bucket is not decorative.
 
 Practical approach: designate a group tipper. One person holds a chunk of the collective cash, tips at each stop. It's easier than 20 people fumbling for bills at every venue.
 
@@ -204,7 +204,7 @@ Practical approach: designate a group tipper. One person holds a chunk of the co
 
 5. **Book Preservation Hall in advance, especially for large groups.** The private show option is excellent. Don't show up hoping to get 20 people in on a Friday night.
 
-6. **Rock n' Bowl is underrated for groups.** It sounds gimmicky. It isn't. A full Cajun dance hall inside a bowling alley, with excellent food, regular live music, and room for 50 people to dance. It's a great group night that most first-timers miss.
+6. **Rock n' Bowl is underrated for groups.** It sounds gimmicky. It isn't. A full Cajun dance hall inside a bowling alley, with excellent food, regular live music, and genuine room for a big group to dance. It's a great group night that most first-timers miss.
 
 7. **Walk-around cups change the calculus.** In New Orleans, you can carry your drink on the street (in plastic, not glass). This makes Frenchmen Street a completely different experience than a music night in any other American city. You're not anchored to a bar — you move with the music.
 
