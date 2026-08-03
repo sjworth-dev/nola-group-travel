@@ -4,12 +4,12 @@ description: "Attending a convention or conference in New Orleans with a large g
 category: "Corporate Retreats"
 card_title: "Convention Groups"
 card_description: "Attending a conference in New Orleans with your team? Here's the hotel vs. villa calculation, the CBD logistics, and how to actually enjoy the city."
-date: 2026-05-25
+date: 2026-08-03
 ---
 
 New Orleans hosts more than a million convention and conference attendees per year. The Ernest N. Morial Convention Center is one of the largest in the country. Convention weeks in NOLA have a specific character — you're there for work, but you're in one of the most interesting cities in America on someone else's budget.
 
-The groups that do convention weeks right treat the city as an active participant in the trip, not a backdrop. The groups that do it wrong spend five days in the Convention Center and the Marriott across the street and fly home having seen almost none of it.
+The groups that do convention weeks right treat the city as an active participant in the trip, not a backdrop. The groups that do it wrong spend five days shuttling between the Convention Center and a hotel bar and fly home having seen almost none of it.
 
 This is the guide for doing it right.
 
@@ -114,7 +114,7 @@ The Warehouse District, adjacent to the Convention Center, has some of the best 
 | Pêche | Seafood, wood-fired, raw bar | 20+ | Excellent for groups who want the full NOLA seafood experience |
 | District Donuts.Sliders.Brew | Casual, fast, affordable | Any size | Good lunch option during a convention day |
 
-**Making reservations for large groups:** Call directly, not OpenTable, for groups over 12. Explain the group size, ask about private dining room options, confirm the reservation 24-48 hours before. Convention week dinners need confirmed reservations — restaurants fill fast when 10,000 extra people are in the neighborhood.
+**Making reservations for large groups:** Call directly, not OpenTable, for groups over 12. Explain the group size, ask about private dining room options, confirm the reservation 24-48 hours before. Convention week dinners need confirmed reservations — a major convention fills Warehouse District dining rooms fast, and walk-in tables for a group your size won't be waiting for you.
 
 ---
 
