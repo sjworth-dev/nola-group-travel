@@ -196,17 +196,12 @@ Look for bands that have a track record with private events. The NOLA music comm
 
 ---
 
-## Where to Stay for a Music Trip
+## For a Big Group
 
-Location matters for a music-focused trip. You want to be close to the action without fighting for cabs at 2am.
+Location matters for a music-focused trip — you want a walk home, not a cab fight at 2am.
 
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. You're 10-15 minutes on foot from Frenchmen Street and the Marigny — close enough to walk home after a late night. The Bywater is also the neighborhood where much of the working musician community lives. The feel of the neighborhood is right for a music trip. The Herald, The Cocodrie, and The Florentine all have the outdoor space to host a post-Frenchmen debrief with the music still in your blood.
+**Editorial examples of what that looks like:** Bywater villas like Castleday Retreats put a group within a 10-15 minute walk of Frenchmen Street and the Marigny, in the neighborhood where a lot of the city's working musician community actually lives. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, connects a group to Uptown venues like Tipitina's without a car. Hotel room blocks — properties like The Roosevelt or Hotel Peter & Paul — work for a group that wants separate keys and bills rather than one shared roof. None of the above is a booking recommendation; pick by fit and proximity to the venues your group cares about most. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the full field.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests. One block from the St. Charles Streetcar, which connects you to Uptown venues like Tipitina's without a car. Rooms designed by local artists — the artistic sensibility carries through the building. For groups going to shows across multiple neighborhoods, the streetcar access is genuinely useful.
+For the largest selection, book 6+ months out.
 
----
-
-## Book Your Music Trip
-
-- Castleday Retreats — Bywater villas, walking distance to Frenchmen Street, up to 30 per villa
-- The Syd — Lower Garden District villas, streetcar access for Uptown music venues, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
