@@ -77,13 +77,13 @@ Three blocks in the Marigny that function as the city's actual live music distri
 
 The difference between Frenchmen Street and Bourbon Street: Frenchmen is where musicians play because they love it, where the audience is locals mixed with visitors who found the real thing. Bourbon Street is where music plays because it sells drinks.
 
-For a group, Frenchmen Street works because you can drift between venues without coordinating an Uber. The Spotted Cat, d.b.a., Maison, Blue Nile — you can hear four different genres in one night without leaving the block.
+For a group, Frenchmen Street works because you can drift between venues without coordinating an Uber. The Spotted Cat, d.b.a., Maison, Blue Nile — you can hear four different genres in one night without leaving the block. The [live music guide](/guides/live-music-guide/) breaks down each venue in more detail, and the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) covers how to pick the right room for what your group actually wants to hear.
 
 ### The Tremé
 
 The oldest African American neighborhood in the country. The music culture here is not a tourist attraction — it's a living community. When a brass band practices in the street, they're practicing. When a social club second line marches through on a Sunday afternoon, it's a community event that happens to be public.
 
-Walking through the Tremé with context — knowing what Congo Square is, knowing that Louis Armstrong grew up in these streets, knowing that the culture here is an unbroken chain back to the earliest days of the city — makes the whole city make more sense.
+Walking through the Tremé with context — knowing what Congo Square is, knowing that Louis Armstrong grew up in these streets, knowing that the culture here is an unbroken chain back to the earliest days of the city — makes the whole city make more sense. The [Tremé culture immersion guide](/guides/nola-group-treme-culture-immersion-guide/) and the [Tremé brass band morning guide](/guides/nola-group-treme-brass-band-morning-guide/) both go deeper on how to spend real time in the neighborhood without turning it into a gawking tour.
 
 ### The Backstreet Cultural Museum
 
@@ -118,7 +118,7 @@ A small museum in the Tremé dedicated to the Mardi Gras Indians, second lines, 
 |------------|-------------|
 | Maison on Frenchmen | Multiple floors, late nights, capacity for large groups |
 | Tipitina's (Uptown) | Legendary venue, big acts, danceable |
-| Jazz Fest (April/May) | Seven stages, 12 hours of music per day, world-class lineup |
+| [Jazz Fest](/guides/jazz-fest-group-guide/) (April/May) | Seven stages, 12 hours of music per day, world-class lineup |
 | Frenchmen Street full night | Start at 10pm, stay until 2am |
 
 ---
@@ -164,7 +164,7 @@ These are public events. You do not need a ticket. You can walk alongside, join 
 
 The social clubs that organize these events have done so for over a century. Treat the space with respect — you're a guest at a community event.
 
-For groups who want to plan around second lines: the parade schedule is typically published by the city and tracked by local sources. If your trip spans a Sunday between October and May, check the schedule before you arrive.
+For groups who want to plan around second lines: the parade schedule is typically published by the city and tracked by local sources. If your trip spans a Sunday between October and May, check the schedule before you arrive. The [second line guide](/guides/second-line-guide/) covers etiquette and how to actually find one, and the [private second line vs. public guide](/guides/nola-group-private-second-line-vs-public-guide/) walks through the tradeoffs against hiring your own band.
 
 ---
 
@@ -174,7 +174,7 @@ For groups who want the second line experience on their own terms, hiring a bras
 
 A private brass band hire typically includes the band marching a route you choose, for a set time period. It works for bachelorette parties, corporate events, birthday celebrations, or any group that wants to turn a walk through the neighborhood into an experience.
 
-Look for bands that have a track record with private events. The NOLA music community is connected — ask your accommodation host or a local tour company for recommendations. Prices vary based on the number of musicians and the duration.
+Look for bands that have a track record with private events. The NOLA music community is connected — ask your accommodation host or a local tour company for recommendations. Prices vary based on the number of musicians and the duration. The [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers the full booking process, and the [live music tipping protocol guide](/guides/nola-group-live-music-tipping-protocol-guide/) is worth reading before your trip regardless of which venues you end up at.
 
 ---
 
