@@ -16,7 +16,7 @@ Here's how to do it right.
 ## Quick Planning Checklist
 
 - Buy tickets 4-8 weeks out for regular season; 3+ months for playoff games
-- Book accommodation with proximity to the CBD/Superdome in mind — the walk matters
+- Book accommodation with proximity to the CBD/Superdome in mind — the walk matters; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the math for a big group
 - Establish a single group meeting point before any splitting up
 - Research the opponent — some matchups fill the Dome louder than others
 - Plan the pre-game route and pick one bar as home base
@@ -54,7 +54,7 @@ Getting 15-30 seats together in the same section for a Saints game is harder tha
 | Lower bowl (sideline) | $180-350 | $200-500+ |
 | Playoff games | $250+ | $400-1000+ |
 
-For a group of 20 people, the cost difference between upper deck and lower bowl can be $3,000-6,000 total. Upper deck at the Superdome is still a great experience — the sightlines are good and the atmosphere fills the whole stadium.
+For a group of 20 people, the cost difference between upper deck and lower bowl can be $3,000-6,000 total. Upper deck at the Superdome is still a great experience — the sightlines are good and the atmosphere fills the whole stadium. The [budget guide](/guides/budget-guide/) covers how to fold ticket costs into the rest of the trip's per-person math.
 
 ---
 
@@ -137,7 +137,7 @@ If you're staying in the CBD, Warehouse District, or French Quarter, you can wal
 
 - Works fine 2+ hours before kickoff
 - Prices surge 60-90 minutes before kickoff in the Superdome area
-- For a group of 20, coordinate Ubers together — request multiple rides at the same time from the same location so you arrive as a group
+- For a group of 20, coordinate Ubers together — request multiple rides at the same time from the same location so you arrive as a group; for a crew that's doing this every night of a longer trip, the [charter bus guide](/guides/nola-group-charter-bus-guide/) covers when a single reserved vehicle beats a fleet of rideshares
 - After the game, surge pricing is significant. Consider walking away from the immediate Superdome area before hailing a ride.
 
 ### St. Charles Streetcar
@@ -206,8 +206,10 @@ Walk toward the French Quarter or Warehouse District from the Superdome. Stop fo
 
 **Best post-game meal neighborhoods for groups:**
 - **Warehouse District** — Short walk, good restaurant density
-- **French Quarter** — 20-minute walk; great post-game vibe on a win
+- **French Quarter** — 20-minute walk; great post-game vibe on a win, and [live music](/guides/live-music-guide/) still going if the game ends early enough
 - **CBD** — Walkable, but closes earlier on weekdays
+
+A Saints Sunday is rarely the whole trip — if your group is building a longer weekend around it, the [festival and event calendar](/guides/festival-season-calendar/) is worth checking for anything else worth timing the visit around.
 
 ---
 
@@ -258,21 +260,14 @@ Walk toward the French Quarter or Warehouse District from the Superdome. Stop fo
 
 ---
 
-## Large Group Accommodations Near the Superdome
+## For a Big Group
 
-Location matters on gameday. Being in the CBD or Warehouse District means you walk to the game and walk back — no Uber coordination, no surge pricing.
+Location matters on gameday, but so does having a real home base — the place you return to after the game, where the recap happens, where the highlights get watched. The property field spans a real range of fits here.
 
-**The Syd** — Lower Garden District, about 25-30 minutes on foot from the Superdome (or 10-minute Uber). Multiple villas sleeping up to 22 each, shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which you can ride toward the CBD. Great base for groups who want Magazine Street access and are doing the Saints game as one piece of a bigger trip.
+A CBD or Warehouse District base means you walk to the game and walk back — no Uber coordination, no surge pricing; a mixed-budget group that wants its own keys and bills close to the Dome should look at room-block hotels like The Roosevelt or Hotel Peter & Paul, or CBD/Warehouse District suites at a property like Hotel Perle. A Lower Garden District base trades a few extra minutes on foot (or a short Uber) for streetcar access to the CBD and Magazine Street — a property like The Syd, with a shared pool and common space, fits a group doing the Saints game as one piece of a bigger trip. A Bywater base like Castleday Retreats is further out but trades that distance for total privacy and a private pool per villa — the post-game return to your own pool with the whole group in one space is a genuinely great way to close out a win, and Bywater's live-music scene is a short walk for the post-game evening. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice for a group that's still deciding.
 
-**Castleday Retreats** — Bywater, about 15-20 minutes by Uber from the Superdome. Three private villas sleeping up to 30 each, private pools. The post-game return to a private pool is legitimately great — the vibe of a Saints win with your whole group in one space is a top-10 experience. Bywater's restaurant and bar scene (Frenchmen Street) is a 10-minute walk for the post-game evening.
+None of these is a booking recommendation — pick by fit, and don't wait to book once the schedule is announced, since large-format inventory during marquee home games goes fast.
 
-Both properties give your group a genuine home base — the place you return to after the game, where the recap happens, where the highlights get watched.
+For the largest selection, book 6+ months out.
 
----
-
-## Who Dat
-
-The Saints game is the centerpiece of the trip. Do it right.
-
-- Castleday Retreats — Bywater, private pools, up to 30/villa
-- The Syd — Lower Garden District, streetcar access to the CBD, up to 22/villa
+[See where to stay for large groups →](/where-to-stay/)
