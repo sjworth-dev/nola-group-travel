@@ -155,7 +155,7 @@ Most of the best places in New Orleans charge either no cover or a small suggest
 | Tipitina's | $15–30 depending on show | Check the schedule and buy early |
 | Neighborhood dive bars | Free | Always |
 
-For a large group, the biggest cost isn't cover charges — it's tabs. See the [bar crawl guide](/guides/bar-crawl-guide) for the full breakdown on how to manage group payment logistics.
+For a large group, the biggest cost isn't cover charges — it's tabs. See the [bar crawl guide](/guides/bar-crawl-guide/) for the full breakdown on how to manage group payment logistics.
 
 ---
 
@@ -217,17 +217,14 @@ Start at the Carousel Bar in the Hotel Monteleone (actually rotating bar, great 
 
 The single biggest factor in a good nightlife trip is not which bars you go to. It's where you come home to.
 
-Twenty people scattered across hotel rooms go to bed and the night ends. Twenty people coming home to a shared villa with a pool deck, a kitchen, and a fire pit — that's where the real conversation happens. The post-bar debrief at the house is half the trip.
+Twenty people scattered across hotel rooms go to bed and the night ends. Twenty people coming home to a shared villa with a pool deck and a kitchen — that's where the real conversation happens. The post-bar debrief at the house is half the trip.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. You're a 15-minute walk from Frenchmen Street. The Herald, The Cocodrie, and The Florentine each have the common space and outdoor areas to handle a full group night-before prep and night-after recovery. Private pools for the next-day decompression. Full kitchens for the pre-crawl dinner. This is the base camp that makes a nightlife trip work.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from the St. Charles Streetcar, which gives you downtown access without wrestling with Ubers for every movement. Shared heated pool, hot tub, sauna, outdoor kitchen — all of which become relevant when you're reconvening at midnight or recovering the next morning. The artist-designed interiors are the kind of space that puts everyone in a good mood before they walk out the door.
-
-For nightlife trips with Frenchmen Street as the primary target: Castleday's Bywater location is closer. For groups splitting time between Uptown, Magazine Street, and the Quarter: The Syd's Lower Garden District location is more central.
+**Editorial examples across the field:** a Bywater villa like Castleday Retreats or The Mazant puts you a short walk from Frenchmen Street with a private pool for next-day decompression. A Lower Garden District property like The Syd or one of Heirloom's large-format homes is one block or a short ride from the St. Charles Streetcar, useful for groups splitting time between Uptown, Magazine Street, and the Quarter. For a group that wants separate keys and bills, a hotel block at somewhere like The Roosevelt or Hotel Peter & Paul works just as well. None of these is a recommendation over the others — pick by location and layout fit, not by name.
 
 ---
 
-## Book Your Nightlife Trip
+## Booking the Base Camp
 
-- Castleday Retreats — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests, private pools
-- The Syd — Lower Garden District, up to 22 guests per villa, shared pool and hot tub, one block from St. Charles Streetcar
+For the largest selection, book 6+ months out — nightlife-adjacent villas and hotel blocks near the entertainment core fill up first.
+
+[See where to stay for large groups →](/where-to-stay/)
