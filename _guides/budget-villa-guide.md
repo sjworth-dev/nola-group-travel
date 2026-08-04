@@ -4,7 +4,7 @@ description: "How to make a private villa work on a group budget: splitting cost
 category: "Planning & Logistics"
 card_title: "Budget Villa Guide"
 card_description: "The math, the split, what's included vs. extra. When a villa actually costs less than hotels."
-date: 2026-05-26
+date: 2026-08-04
 ---
 
 Every large group trip has at least one person who sees the villa's total price and sends a message to the group chat that says something like "is that per person or total?" And then there's silence. And then someone explains. And then the math happens.
@@ -13,7 +13,7 @@ This guide is for both the person explaining and the person doing the math.
 
 Private villas in New Orleans look expensive until you run the numbers. The total cost sounds large because it's a single number representing the whole group. Divided by 15 or 20 people, the per-person cost — including the private pool, the full kitchen, the common space, the outdoor area, and the privacy that makes the trip actually feel like a trip — often competes directly with a mid-range hotel room.
 
-We'll show you the math, explain what the villa includes, and give you the tools to make the case to the one person in the group who is worried about money.
+We'll show you the math, explain what the villa includes, and give you the tools to make the case to the one person in the group who is worried about money. If you haven't nailed down group size and budget expectations yet, the [pre-trip survey guide](/guides/nola-group-pre-trip-survey-guide/) and the [budget guide](/guides/budget-guide/) are worth doing first — the numbers below only work once those are settled.
 
 ## Quick Checklist
 
@@ -88,9 +88,9 @@ Over a three-night stay, a group that cooks two breakfasts and one dinner at the
 
 ### Season and Dates
 
-New Orleans villa pricing varies significantly by season and event dates. Mardi Gras, Jazz Fest, Essence Festival, and major holiday weekends command premium pricing. Non-event weekends in shoulder season (October–November, February, late August) are meaningfully less expensive.
+New Orleans villa pricing varies significantly by season and event dates. Mardi Gras, French Quarter Fest, Jazz Fest, Essence Festival, and October's Voodoo Fest/Halloween stretch command premium pricing — this city's demand calendar runs opposite most of the country, with October and February through May the genuine peak, not a shoulder season. The real value window is summer (June–August) and January, plus a shorter true-shoulder stretch from late August into mid-September.
 
-**The move:** If your dates are flexible, avoiding major event weekends on villa pricing alone can save the group 30–50% on accommodation cost.
+**The move:** If your dates are flexible, booking outside October and the February–May run — in favor of a summer or January date — is where the real villa savings show up. See the [festival season calendar](/guides/festival-season-calendar/) before you lock anything in.
 
 ### Cleaning Fee
 
@@ -153,7 +153,7 @@ It is not an additional charge. It is a hold that is returned to you after the t
 
 ## How to Collect Money from the Group
 
-This is the part that causes more group drama than the accommodation itself. Getting money from 15 or 20 people in advance is logistically and emotionally complicated.
+This is the part that causes more group drama than the accommodation itself. Getting money from 15 or 20 people in advance is logistically and emotionally complicated — assigning it as an explicit job in the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) heads off a lot of the awkwardness before it starts.
 
 **The method that works:**
 
@@ -238,25 +238,22 @@ Even when the math is roughly neutral, there are reasons to choose a villa over 
 
 6. **Price per night gets better with more nights.** A three-night booking typically has a lower per-night cost than a two-night booking at the same property. If you're on the fence between two and three nights, running the per-night comparison often makes the three-night stay look significantly better.
 
-7. **The shoulder season deal is real.** New Orleans villas in October, February, and mid-summer (outside major events) are 20–40% less expensive than the same properties during Mardi Gras or Jazz Fest. If your dates are flexible, the savings are worth scheduling around.
+7. **The value-season deal is real, but check the calendar first.** October and February through May are this city's peak, not its shoulder — the actual savings show up in summer (June–August) and January, plus the short true-shoulder window from late August into mid-September. If your dates are flexible, that's where to look.
 
 ---
 
-## The Properties
+## What This Inventory Actually Looks Like
 
-If you've done the math and a private villa makes sense for your group, here are the two properties we know work for large groups.
+If you've done the math and a private villa makes sense for your group, New Orleans has a genuinely deep purpose-built villa market to draw from — this isn't a two-property city. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the full comparison in more depth than the budget math above covers.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each offer private pools, full kitchens, and the complete privacy that makes a large group trip actually feel like a trip. For groups of 20–30, one villa is sufficient. For groups booking a wedding weekend or wanting multiple private spaces, two or three villas booked together is an option. The Bywater location puts you in a real neighborhood — not the tourist center of the city, but close enough to access everything.
+**Editorial examples of what's out there, across a range of fits:** properties like Castleday Retreats (private Bywater villas with a private pool per house, 14–30 guests each) suit a group that wants total seclusion. The Syd (Lower Garden District, up to 22 per villa, shared heated pool and hot tub, one block from the streetcar) suits a group that wants a central location. Heirloom's deep bench of large-format homes across the Lower Garden District and Central City is the answer when your dates are tight and you need real short-notice availability. The Mazant, a single historic Bywater guesthouse sleeping up to 18 with its own pool and spa, fits a group that wants one distinctive house rather than a resort-style property. The Revelry's apartment-style floors work well for a group that wants separate billing per subgroup.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen are the premium amenities that justify the cost. One block from the St. Charles Streetcar, which reduces your Uber dependency. For groups of 10–22, a single Syd villa is the right size. For groups of 20+, two villas booked together work if the properties are adjacent.
-
-For the financial math: both properties offer what villas should offer — all-inclusive (pool, kitchen, common space) at a per-person cost that competes with hotels once you run the real numbers.
+None of these is a recommendation over the others — the right fit depends on your group's size, budget, and how much privacy versus location they're trading off. Run the per-person math above against whichever property actually fits, not the first one that comes up in a search.
 
 ---
 
-## Book Your Villa
+## Booking the Villa
 
-Do the math. Show the group. Then book.
+Do the math. Show the group. Then book — and book early. Availability, not price, is the real bottleneck for large-group properties once your dates land anywhere near a festival weekend. For the largest selection, book 6+ months out.
 
-- Castleday Retreats — Bywater, private villas, up to 30 guests each, private pools, full kitchens
-- The Syd — Lower Garden District, up to 22 guests per villa, shared heated pool, hot tub, sauna, outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
