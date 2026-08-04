@@ -3,15 +3,15 @@ title: "New Orleans DIY Culinary Tour Guide for Large Groups"
 description: "DIY culinary tour of New Orleans for large groups: po-boys, gumbo, beignets, boudin, red beans and rice — a neighborhood-by-neighborhood eating itinerary covering the full range of Louisiana food culture."
 category: "Food & Drink"
 card_title: "Culinary Tour Guide"
-card_description: "Po-boys, gumbo, beignets, boudin, red beans. A real eating tour by neighborhood, for groups of 10-30."
-date: 2026-05-26
+card_description: "Po-boys, gumbo, beignets, boudin, red beans. A real eating tour by neighborhood, for the whole crew."
+date: 2026-08-04
 ---
 
 New Orleans food is not a museum exhibit. It didn't get curated and placed behind glass for visitors to observe. It's alive and it feeds people every day — the same gumbo recipe that a grandmother developed has been cooked every week for fifty years, and you can order a bowl of it at lunch for twelve dollars.
 
 The best culinary tour of New Orleans is not a paid guided tour. It's a self-directed eating itinerary that moves through the city's neighborhoods in sequence, hitting the dishes that are specific to each place and each culture. You'll eat too much. That's correct.
 
-This guide gives you the dishes, the neighborhoods, and the structure for building a DIY culinary tour with 10 to 30 people — including the logistics that make it work at scale.
+This guide gives you the dishes, the neighborhoods, and the structure for building a DIY culinary tour with the whole crew — including the logistics that make it work at scale. Pair it with the [foodie itinerary guide](/guides/nola-group-foodie-itinerary-guide/) if you want a fuller multi-day eating plan around this one.
 
 ## Quick Checklist
 
@@ -172,12 +172,12 @@ Not every food stop has to be French Quarter-centric. New Orleans has excellent 
 
 | Neighborhood | What to Eat There |
 |-------------|------------------|
-| Bywater | Bacchanal Wine (wine, cheese, local small plates), Elizabeth's Restaurant (classic NOLA brunch with praline bacon) |
-| Tremé | Dooky Chase's (Creole gumbo, historic dining room), Willie Mae's Scotch House (fried chicken, red beans) |
-| Mid-City | Parkway Bakery (roast beef po-boy), Lola's (Spanish food, cult following) |
+| [Bywater](/neighborhoods/bywater/) | Bacchanal Wine (wine, cheese, local small plates), Elizabeth's Restaurant (classic NOLA brunch with praline bacon) |
+| [Tremé](/neighborhoods/treme/) | Dooky Chase's (Creole gumbo, historic dining room), Willie Mae's Scotch House (fried chicken, red beans) |
+| [Mid-City](/neighborhoods/mid-city/) | Parkway Bakery (roast beef po-boy), Lola's (Spanish food, cult following) |
 | Uptown | Casamento's (oysters), Domilise's (po-boys), Camellia Grill (diner classics) |
-| Garden District | Commander's Palace (old-line NOLA institution), Stein's Deli (Jewish deli in a Southern city; excellent) |
-| Marigny | Pizza Domenica (Neapolitan in NOLA), Bacchanal overspill |
+| [Garden District](/neighborhoods/lower-garden-district/) | Commander's Palace (old-line NOLA institution), Stein's Deli (Jewish deli in a Southern city; excellent) |
+| [Marigny](/neighborhoods/marigny/) | Pizza Domenica (Neapolitan in NOLA), Bacchanal overspill |
 | CBD | Cochon (nose-to-tail Southern; excellent for groups), Pêche (seafood, whole fish) |
 | French Quarter | Galatoire's (Friday lunch is an event), Central Grocery, Antoine's (oldest restaurant in NOLA) |
 
@@ -185,11 +185,11 @@ Not every food stop has to be French Quarter-centric. New Orleans has excellent 
 
 ## Logistics for Large-Group Food Tours
 
-Running a culinary tour with 20+ people requires thinking about it operationally, not just as an eating adventure.
+Running a culinary tour with a big group requires thinking about it operationally, not just as an eating adventure.
 
-**The batching problem:** At counter-service spots, 20 people ordering individually brings the operation to a halt. Designate a group orderer at each stop. One person collects everyone's preferences (or just orders a few of everything) and handles the counter interaction. Everyone else finds a spot to gather.
+**The batching problem:** At counter-service spots, a big group ordering individually brings the operation to a halt. Designate a group orderer at each stop. One person collects everyone's preferences (or just orders a few of everything) and handles the counter interaction. Everyone else finds a spot to gather.
 
-**The check-splitting problem:** Don't split a 20-person check at a sit-down restaurant on a culinary tour day. It's too slow and too complicated. Use one of these approaches:
+**The check-splitting problem:** Don't split a large check at a sit-down restaurant on a culinary tour day. It's too slow and too complicated. Use one of these approaches:
 - Pay individually at each counter (counter service makes this easy)
 - Have one person pay and use Venmo to collect
 - Agree on a per-person budget and settle up at the end of the day
@@ -215,7 +215,7 @@ If your group prefers a guided experience to the DIY version, New Orleans has ex
 - The ability to linger at a stop you love
 - Cost savings (paid tours are more expensive per person than DIY)
 
-**For groups of 10–15:** A paid tour is worth considering — a knowledgeable guide adds genuine value and the group is small enough to move together easily. For groups of 20+, the DIY approach works better because you can split into smaller eating units that reconvene between stops.
+**For a smaller crew:** A paid tour is worth considering — a knowledgeable guide adds genuine value and the group is small enough to move together easily. Once the trip goes double-digit, the DIY approach works better because you can split into smaller eating units that reconvene between stops.
 
 ---
 
@@ -237,19 +237,12 @@ If your group prefers a guided experience to the DIY version, New Orleans has ex
 
 ---
 
-## Where to Stay for the Culinary Trip
+## For a Big Group
 
-The most culinary-rich neighborhoods in New Orleans are walkable to each other, which means your home base matters for how much you walk versus Uber between stops.
+The most culinary-rich neighborhoods in New Orleans are walkable to each other, which means your home base matters for how much you walk versus Uber between stops — and a full kitchen back at the house means private chef dinners and breakfast-at-the-house mornings, so you're not dependent on restaurants for every meal.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you within walking distance of Bacchanal Wine and some of the best neighborhood eating in the city. The full kitchens in The Herald, The Cocodrie, and The Florentine mean private chef dinners and breakfast-at-the-house mornings are easy — you're not dependent on restaurants for every meal. The Bywater is also the right neighborhood to end a culinary day: a bottle of wine from Bacchanal on the porch beats the French Quarter tourist bar crawl.
+**Editorial examples of what that looks like:** properties like Castleday Retreats (private-pool Bywater villas) put a group within walking distance of Bacchanal Wine and some of the best neighborhood eating in the city, with full kitchens for the nights you'd rather cook than go out. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, puts a group on the line to Magazine Street eating, the French Quarter, and the CBD, with an outdoor kitchen for a group dinner using groceries or a private chef. Heirloom's deeper inventory across the Lower Garden District and Central City is worth checking for short-notice availability. Neither of these is a booking recommendation — they're representative of what the fit looks like across the field; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how to weigh a private house against a hotel room block for a food-first trip. A night out doesn't have to end at dinner, either — pair the day's eating with the [bar crawl guide](/guides/bar-crawl-guide/) or a stop for [live music](/guides/live-music-guide/) once the tour winds down.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District puts you on the streetcar line to everything — Magazine Street eating, the French Quarter, the CBD. The outdoor kitchen at The Syd creates the option for a group dinner at the house using ingredients from the local grocery store or a private chef. One block from the St. Charles Streetcar means the culinary tour can start with a ride rather than an Uber.
+For the largest selection, book 6+ months out.
 
----
-
-## Book Your Culinary Trip
-
-The best NOLA eating happens before and after you leave the house. Make the house worth coming back to.
-
-- Castleday Retreats — Bywater, full kitchens, private pools, up to 30 guests, walking distance to Bacchanal Wine and neighborhood dining
-- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, St. Charles Streetcar access to every food neighborhood in the city
+[See where to stay for large groups →](/where-to-stay/)
