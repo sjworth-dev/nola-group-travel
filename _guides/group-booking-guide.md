@@ -9,7 +9,7 @@ date: 2026-05-26
 
 Booking a trip for 20 people is not like booking a trip for two. The math is different. The communication is different. The failure modes are different. And the consequences of winging it are much worse when 19 other people are counting on you.
 
-This guide is the operating manual for whoever gets volunteered to coordinate the group. It covers restaurants, activities, tours, transportation, and the actual logistics of getting a large group to show up at the right place at the right time.
+This guide is the operating manual for whoever gets volunteered to coordinate the group. It covers restaurants, activities, tours, transportation, and the actual logistics of getting a large group to show up at the right place at the right time — the [budget guide](/guides/budget-guide/) covers the money side once the bookings are locked.
 
 ## Quick Checklist
 
@@ -69,7 +69,7 @@ The single biggest mistake groups make: starting too late.
 | 19-25 | Private dining room required, or full restaurant buyout |
 | 26-30 | Full buyout or large event-format restaurants only |
 
-New Orleans has a strong restaurant culture and most serious restaurants have private rooms or event coordinators. But you have to ask for the right person. Don't call the host stand. Ask for the events coordinator or private dining manager.
+New Orleans has a strong restaurant culture and most serious restaurants have private rooms or event coordinators. But you have to ask for the right person. Don't call the host stand. Ask for the events coordinator or private dining manager — the [landmark restaurant booking guide](/guides/nola-group-landmark-restaurant-booking-guide/) has the specifics for the city's highest-demand dining rooms.
 
 ### What to Have Ready When You Call
 
@@ -113,12 +113,12 @@ Private tours are worth the premium for anything where group learning matters: h
 
 | Activity | Why It Scales |
 |----------|--------------|
-| Second line parade (private) | You hire the band, you set the route |
+| [Second line parade (private)](/guides/second-line-guide/) | You hire the band, you set the route |
 | Jazz cruise on Steamboat Natchez | Designed for large parties |
-| Swamp tour | Boats accommodate 10-15; book multiple |
+| [Swamp tour](/guides/nola-swamp-tour-guide/) | Boats accommodate 10-15; book multiple |
 | Cocktail making class | Private sessions available for full groups |
 | Cemetery tour (private) | Own guide, own pace |
-| Cooking class | New Orleans School of Cooking handles large groups |
+| [Cooking class](/guides/nola-cooking-class-guide/) | New Orleans School of Cooking handles large groups |
 
 ### Activities That Get Difficult Over 20
 
@@ -137,7 +137,7 @@ For activities in the difficult category: split the group. Half does the activit
 
 ### The Group Transit Problem
 
-The moment you're moving 15+ people anywhere, you have a coordination problem. Standard solutions:
+The moment you're moving 15+ people anywhere, you have a coordination problem — the [transportation guide](/guides/transportation-guide/) covers the full range of options in more depth than the table below. Standard solutions:
 
 | Option | Best For | Notes |
 |--------|----------|-------|
@@ -148,13 +148,13 @@ The moment you're moving 15+ people anywhere, you have a coordination problem. S
 
 ### Airport Runs
 
-Getting 20 people from MSY to the city is not a rideshare operation. Your options:
+Getting 20 people from MSY to the city is not a rideshare operation — the [airport transfer guide](/guides/nola-airport-transfer-guide/) covers the full logistics. Your options:
 
 1. **Designated shuttle vans** — Book in advance with a group transportation company. They'll have your name at the airport.
 2. **Let everyone fend for themselves** — Works if arrivals are spread out, everyone's comfortable with rideshares, and you're not paying as a group.
 3. **Staggered rideshares** — Groups of 4-6 per car, everyone knows the address. Not coordinated, but functional.
 
-If you're booking a villa like Castleday or The Syd, the address is your anchor. Send it to everyone the week before so nobody has to ask.
+Whatever villa or hotel block you've booked, the address is your anchor. Send it to everyone the week before so nobody has to ask.
 
 ### Moving the Group During the Trip
 
@@ -262,17 +262,17 @@ For trips where there are significant shared expenses (groceries, household supp
 
 ---
 
-## Large Group Accommodations
+## For a Big Group
 
-Booking the right place is the foundation that makes all other logistics easier. When 20 people are based in the same house, everything else — coordinating dinners, coming home after a night out, making breakfast together — becomes effortless. When people are scattered across four hotel rooms in two different buildings, nothing is easy.
+Booking the right place is the foundation that makes all other logistics easier. When the whole crew is based in the same house, everything else — coordinating dinners, coming home after a night out, making breakfast together — becomes effortless. When people are scattered across four hotel rooms in two different buildings, nothing is easy.
 
-For groups of 10-30 in New Orleans, two options rise above everything else:
-
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. Private pools, full kitchens, completely private compounds. The Herald, The Cocodrie, and The Florentine all have the space to handle your full group without crowding. Having one address for everyone, one kitchen, one pool deck — it simplifies everything else you're trying to coordinate.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen, and rooms designed by local artists. One block from the St. Charles Streetcar, which takes you downtown without touching a rideshare app. For groups attending events at the Superdome or convention center, this location is tough to beat.
+**Editorial examples of what that looks like:** properties like Castleday Retreats (private-pool Bywater villas, booked individually or together) put everyone under one roof with one kitchen and one pool deck to simplify everything else you're coordinating. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, gets a group anywhere downtown — including the Superdome and convention center, if that's on the agenda; see the [convention group guide](/guides/convention-group-guide/) for that scenario specifically — without touching a rideshare app. Hotel-block options like The Roosevelt or Hotel Peter & Paul are the right call for a group that wants separate keys and bills. Neither of the villa examples is a booking recommendation — they're representative of what the fit looks like; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the full field and how to weigh a private house against a hotel room block.
 
 Book your accommodations before you start any other coordination. The address is the anchor that makes every other decision possible.
+
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -286,6 +286,3 @@ Once the accommodations are locked:
 4. Build your transportation plan outward from your home address
 
 The hardest part of large group booking is managing the humans, not the logistics. Get the structure right and the rest follows.
-
-- Castleday Retreats — Bywater, up to 30 per villa, private pools
-- The Syd — Lower Garden District, up to 22 per villa, shared pool and hot tub
