@@ -11,7 +11,7 @@ New Orleans doesn't have a last call. That fact changes everything about how nig
 
 There's no manufactured urgency, no bartenders cutting you off because the law says so, no scramble to order one more before the lights come on. The city is open as long as you want to be out in it. That's a gift — and it's also a trap if your group has no plan.
 
-This guide covers every major nightlife zone, how they work for large groups, what to expect on weekday vs. weekend nights, and the logistics of running a good night out with 15 to 30 people without losing half of them on Bourbon Street.
+This guide covers every major nightlife zone, how they work for large groups, what to expect on weekday vs. weekend nights, and the logistics of running a good night out with the whole crew without losing half of them on Bourbon Street. If your group is still deciding between a bar-crawl night and a slower day-drinking pace, the [day-drinking-vs-nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) breaks down that call first.
 
 ## Quick Checklist
 
@@ -68,9 +68,9 @@ Do it once. Do it with intention. Then leave.
 
 ## Frenchmen Street: Where the Music Lives
 
-Three blocks in the Marigny neighborhood, one block east of the French Quarter. This is the correct answer to the question "where should we go tonight?"
+Three blocks in the [Marigny](/neighborhoods/marigny/) neighborhood, one block east of the French Quarter. This is the correct answer to the question "where should we go tonight?"
 
-Every major venue on Frenchmen Street has live music every night. Jazz, brass, funk, blues, zydeco — the lineup changes but the quality doesn't. Most places have no cover or a small suggested donation. Tip the musicians.
+Every major venue on Frenchmen Street has live music every night — the [live music guide](/guides/live-music-guide/) covers the genre-by-genre breakdown in more depth than a single crawl night can. Jazz, brass, funk, blues, zydeco — the lineup changes but the quality doesn't. Most places have no cover or a small suggested donation; tip the musicians, and check the [live music tipping guide](/guides/nola-group-live-music-tipping-protocol-guide/) if your group isn't sure what's customary.
 
 **The venues:**
 
@@ -82,13 +82,13 @@ Every major venue on Frenchmen Street has live music every night. Jazz, brass, f
 | Blue Nile | Brass bands, high energy, dancing | Medium-large | Best late-night energy on the street |
 | Snug Harbor Jazz Bistro | Ticketed, sit-down, proper jazz club | Limited seating — reserve in advance | Worth booking for a more formal night |
 
-**Strategy for large groups:** Don't keep 20 people in one bar all night. Use Frenchmen Street as an anchor zone. Split up, set a meeting time and location, spread across venues. The street itself holds the group together — you can see from one end to the other.
+**Strategy for large groups:** Don't keep the whole crew in one bar all night. Use Frenchmen Street as an anchor zone. Split up, set a meeting time and location, spread across venues. The street itself holds the group together — you can see from one end to the other. If your group is debating a jazz club versus a louder music bar, the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) covers the real difference.
 
 ---
 
 ## Magazine Street and Uptown: The Local Night Out
 
-If your group wants to get away from tourist density, Magazine Street is the move. Neighborhood bars, excellent craft cocktail spots, no cover charges, and the genuine feeling of being somewhere actual people live.
+If your group wants to get away from tourist density, [Magazine Street](/neighborhoods/lower-garden-district/) is the move. Neighborhood bars, excellent craft cocktail spots, no cover charges, and the genuine feeling of being somewhere actual people live.
 
 **Key spots to know:**
 
@@ -105,7 +105,7 @@ If your group wants to get away from tourist density, Magazine Street is the mov
 
 ## The Warehouse District: Sports Bars and Large Venues
 
-The Warehouse District around Fulton Street is the right zone for sports weekends and convention groups. Large-capacity venues, multiple screens, bars designed for groups.
+The [Warehouse District](/neighborhoods/warehouse-district/) around Fulton Street is the right zone for sports weekends and convention groups. Large-capacity venues, multiple screens, bars designed for groups.
 
 On Saints gamedays, this area is the pre- and post-game hub. On regular weekends, it's a reliable option for groups who want something more structured than walking Frenchmen Street.
 
