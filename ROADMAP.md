@@ -36,6 +36,8 @@ Generic US travel-industry assumptions about "shoulder season" do NOT apply to N
 
 ## Content Structure (New Pages)
 
+> **New guide pages are FROZEN as of Aug 5 2026** — see the "New Pages: FROZEN" section below. This section is dormant reference for when the freeze lifts, and for checking structure while refreshing existing pages. It does not authorize creating anything.
+
 Every new page must have:
 
 1. **Frontmatter** — `title`, `description`, `category`, `card_title` (guides only), `card_description` (guides only), `date`. `category` MUST be exactly one of the 11 in the Category Taxonomy below — never invent a new one.
@@ -63,7 +65,23 @@ The only valid `category` values. The `/guides/` index page groups by these exac
 
 ---
 
-## Topic Selection Bar (What Deserves a New Page)
+## New Pages: FROZEN (as of Aug 5 2026)
+
+**Do not create new guide pages.** Skip step 4 of the Per-Run Procedure entirely. Every run is Refresh + Interlink only.
+
+This is a deliberate human decision made on traffic data — not an oversight, not a bug, not an empty backlog to helpfully refill. Do not resume new-page writing for any reason, and do not treat a short or empty `## Up Next` as license to write something.
+
+**Why.** Measured Jun 1 – Aug 2 2026 across all 383 guides: **449 total views, 271 users, and only 136 guides drew even one view in nine weeks.** The ~300 bot-written `nola-group-*` pages accounted for roughly 184 of those views; the single best one got 8. The strongest pages on the site are the older, shorter-slug human-written guides (`restaurant-guide` 43 views, `family-reunion` 21, `wedding-party` 14). Publishing at ~0.3 views/page/month dilutes topical authority and spends crawl budget for nothing — the exact failure the Topic Selection Bar below was written to prevent.
+
+**The "New Orleans vs. [City]" template is retired.** 25 of them shipped Jul 14 – Aug 5 2026. The best performer among them (`vs-savannah`, one of the earliest and most plausible) has 5 views. Do not write another under any phrasing, slug, or framing. Generating an infinite template that technically names a target query satisfies the letter of the bar below and defeats its purpose.
+
+**When the freeze lifts:** only when a human edits this section. Google Search Console is being connected now (the site has never had it, so there has never been rank, query, or impression data). Once real query data exists, new topics get chosen from terms the site already ranks on page 2 for — not from templates. Until then, Refresh + Interlink are the whole job, and they are measurably improving the pages that do get traffic.
+
+---
+
+## Topic Selection Bar (DORMANT — see freeze above)
+
+Retained for when the freeze lifts. It does not authorize new pages while the freeze is in force.
 
 The site has 300+ guides. A new page only earns its place if real people search for it. Before adding anything to Up Next, it must pass ALL of:
 
@@ -102,7 +120,7 @@ This is an independent, unbiased guide. ALL big-group properties get equal edito
 - Never modify `_config.yml` (Jekyll build settings)
 - `_layouts/`, `_includes/`, and `assets/` may be edited to add navigation links, homepage sections, and surfacing of new content — do not change core design, CSS variables, or structural HTML patterns
 - Never delete existing pages
-- **Never edit the rules sections of this file.** The only parts of ROADMAP.md the bot may modify are `## Up Next` (add/remove backlog items) and moving Done items to `ROADMAP-ARCHIVE.md`. Rule changes are proposed as an Up Next note for a human to review, not applied directly.
+- **Never edit the rules sections of this file.** The only parts of ROADMAP.md the bot may modify are `## Up Next` and moving Done items to `ROADMAP-ARCHIVE.md`. Rule changes are proposed as an Up Next note for a human to review, not applied directly. Note this is a permission boundary, not an instruction to add items — while the freeze is in force, `## Up Next` stays empty.
 - One commit, one focused change per run
 - No page under 400 words
 - Never add external booking or affiliate links. No `castledayretreats.com`, no `thesyd.com`, no UTM tracking params. The only accommodation CTA is the internal `[See where to stay for large groups →](/where-to-stay/)`.
@@ -110,7 +128,7 @@ This is an independent, unbiased guide. ALL big-group properties get equal edito
 - Verified Castleday facts you may cite: 12 bedrooms / 17 real beds / 8 baths per villa, 14-30 guests per villa, ~90 across all three, The Florentine is ADA-accessible, 4.98 avg rating across 99 reviews. Pitch the ~16-person organizer ("everyone gets a real bed"); never lead with "sleeps 30."
 - `category` frontmatter must be one of the 11 fixed taxonomy values — the `/guides/` index and related-guides block depend on exact string matches
 - Never hand-edit hardcoded page lists in `_layouts/` or `_includes/` to surface new content — the `/guides/` index, `/neighborhoods/` index, and per-guide related block are generated automatically from frontmatter
-- If `## Up Next` is empty or all items are blocked, refill it only with items that pass the Topic Selection Bar — an empty backlog is better than a weak one (do the Refresh and Interlink steps regardless)
+- **New guide pages are frozen (Aug 5 2026)** — see the "New Pages: FROZEN" section. An empty `## Up Next` is the correct steady state; do not refill it, and do the Refresh and Interlink steps regardless.
 
 ---
 
@@ -121,24 +139,30 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 1. `git pull --rebase origin main`
 2. Read this ROADMAP.md top to bottom — internalize voice, rules, guardrails
 3. Read 2–3 existing `_guides/*.md` files to match voice exactly before writing
-4. **New content (max 2 pages/run):** take the top unblocked Up Next items. Each must already carry its target search query. Write the page (with the required 3+ inline internal links), commit, push, move the item to `ROADMAP-ARCHIVE.md` under Done.
+4. **New content — SKIP. Frozen since Aug 5 2026.** Write no new guide pages. See the "New Pages: FROZEN" section above for the traffic data behind this. Do not substitute a different kind of new page (comparison, listicle, hub, index) for the frozen one.
 5. **Refresh (1 page/run):** pick the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references (including specific festival year/date ranges — Mardi Gras, Jazz Fest, etc.), add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`.
 6. **Interlink (1 pass/run):** pick one high-value older guide (occasion or event guides first) and weave inline links to newer related guides into its body where they help the reader. Commit as `seo:`.
-7. **Backlog:** if Up Next has fewer than 4 items, add new ones — every item must pass the Topic Selection Bar and name its target query. Quality over quantity; adding zero is acceptable if nothing passes.
+7. **Backlog — SKIP while the freeze is in force.** Do not refill `## Up Next`. Leaving it empty is correct and expected. If you notice something genuinely worth writing once the freeze lifts, add it as an HTML comment under `## Up Next` prefixed `PARKED:` — never as an active item.
 8. Commit prefixes: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
 9. Log every action as a changelog entry in `ROADMAP-ARCHIVE.md` (`YYYY-MM-DD HH:MM UTC — <prefix>: <what changed>`). Done items and changelog live ONLY in the archive file — never re-grow them in this file.
+10. **Post a one-line status to Slack `#automations` (channel `C0BALH031G8`) — required every run, including no-op runs.** Format: `STATUS: <ngt> — <what changed>`, one line, very brief. Examples:
+    - `STATUS: ngt — refreshed nightlife-guide.md, interlinked restaurant-guide.md (new pages frozen)`
+    - `STATUS: ngt — no changes, refresh target already current`
+    - `STATUS: ngt ERROR — push rejected, run aborted`
+    This step is non-blocking: if Slack is unavailable, finish the run and note the failure in the archive changelog rather than aborting. But never skip it silently — this post is the only visibility a human has into whether the bot ran at all. It has been missing since the July prompt rewrite, which is why it is specified here in ROADMAP (canon) rather than only in the runner prompt.
 
 ---
 
 ## Up Next
 
-- `_guides/nola-group-new-orleans-vs-portland-guide.md` — targets "new orleans vs portland bachelorette" / "new orleans vs portland girls trip" — Portland (Oregon) is a real Pacific Northwest girls-trip alternative built around a craft-beer/food-truck/"keep it weird" identity, distinct from the site's existing West Coast comparisons (Seattle is coffee-and-market, San Diego is beach-and-craft-beer but Southern California-coded, Napa is wine country, Palm Springs is desert) — Portland's food-truck-pod and Pearl District framing is its own thing; only one incidental whole-word "Portland" mention exists anywhere on the site (a craft-beer-scene aside in nola-group-dixie-beer-brewery-guide.md, not comparison coverage — confirmed via grep); cover food-truck-pod/Pearl-District nightlife framing vs. live-music-city framing, lodging (Portland's hotel/short-term-rental market vs. New Orleans' purpose-built villa market), food-truck-and-craft-beer culture vs. Creole-Cajun tradition, and the rainy-mild-Pacific-Northwest vs. hot-humid-Gulf climate tradeoff; category "Planning & Logistics"
+New pages are FROZEN (see the freeze section above). This list is intentionally empty.
+Four queued `New Orleans vs. [City]` items (Portland, San Juan, New York, Los Angeles) were removed
+on Aug 5 2026 along with the retirement of that template — they are not parked for later, the
+template is retired. Do not re-add them.
 
-- `_guides/nola-group-new-orleans-vs-san-juan-guide.md` — targets "new orleans vs san juan bachelorette" / "new orleans vs puerto rico girls trip" — San Juan is a real tropical girls-trip alternative that, as a US territory, needs no passport — distinct from the site's existing international-travel comparison (Tulum, which does require one) and its Gulf-beach comparisons (Destin, Gulf Shores, which aren't tropical/Caribbean), with zero existing whole-word "San Juan" mentions anywhere on the site (confirmed via grep); cover Old San Juan/Condado nightlife-and-beach framing vs. live-music-city framing, lodging (San Juan's beach-resort/hotel market vs. New Orleans' purpose-built villa market), Puerto Rican food and drink culture vs. Creole-Cajun tradition, and the no-passport-tropical-getaway vs. deep-cultural-trip tradeoff; category "Planning & Logistics"
 
-- `_guides/nola-group-new-orleans-vs-new-york-guide.md` — targets "new orleans vs new york bachelorette" / "new orleans vs nyc girls trip" — New York is the single biggest US girls-trip and bachelorette market and has no dedicated comparison page on the site despite being one of the most obvious head-to-head searches for this niche; only incidental whole-word "New York" mentions exist elsewhere (cost-of-living asides in budget-guide.md, a Times-Square analogy in first-timer-guide.md — not comparison coverage, confirmed via grep); cover a multi-borough/no-single-core nightlife framing vs. live-music-city framing, lodging (NYC's expensive, tightly regulated hotel/short-term-rental market vs. New Orleans' purpose-built villa market), food and drink culture (globally deep, extremely high-cost dining scene vs. Creole-Cajun), and the high-cost-and-constant-motion tradeoff vs. New Orleans' slower, cheaper pace; category "Planning & Logistics"
 
-- `_guides/nola-group-new-orleans-vs-los-angeles-guide.md` — targets "new orleans vs los angeles bachelorette" / "new orleans vs la girls trip" — Los Angeles is a major West Coast girls-trip alternative built around a beach-and-Hollywood, car-dependent identity, distinct from the site's existing West Coast comparisons (San Francisco is tech-city/hilly-landmark, San Diego is beach-and-craft-beer but a smaller/more compact city, Palm Springs is desert, Napa is wine country) — LA's sprawl-and-car-culture framing is its own thing; only one incidental whole-word "Los Angeles" mention exists anywhere on the site (an aside in nola-art-gallery-guide.md, not comparison coverage — confirmed via grep); cover a car-dependent, spread-across-neighborhoods nightlife framing vs. live-music-city framing, lodging (LA's hotel/short-term-rental market vs. New Orleans' purpose-built villa market), food and drink culture (broad LA dining scene vs. Creole-Cajun), and the rental-car-and-driving-everywhere tradeoff vs. New Orleans' walkable core; category "Planning & Logistics"
+
 
 <!-- BLOCKED: nola-group-fqf-vs-jazz-fest-guide.md — on verification, french-quarter-fest.md already has a dedicated "How FQF Differs From Jazz Fest" section (its own comparison table: cost, location, scale, lineup, vibe, food, crowds, logistics, best-for, plus a verdict paragraph) — this covers 70%+ of what a standalone comparison page would say; the Up Next note that flagged this as distinct from jazz-fest-group-guide.md's "vs. Mardi Gras" section didn't check french-quarter-fest.md itself. Revisit only if a genuinely deeper angle emerges (e.g. a doing-both-in-one-trip logistics guide) that isn't just a re-run of the existing table. -->
 
