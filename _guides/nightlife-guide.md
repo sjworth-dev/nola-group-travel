@@ -4,7 +4,7 @@ description: "Every major bar district, how to run a group bar crawl, cover char
 category: "Nightlife & Music"
 card_title: "Nightlife Guide"
 card_description: "Bar districts, crawl logistics, walk-around cups, and where locals actually go. The full picture."
-date: 2026-05-26
+date: 2026-08-05
 ---
 
 New Orleans doesn't have a last call. That fact changes everything about how nightlife works here.
@@ -105,7 +105,7 @@ If your group wants to get away from tourist density, [Magazine Street](/neighbo
 
 ## The Warehouse District: Sports Bars and Large Venues
 
-The [Warehouse District](/neighborhoods/warehouse-district/) around Fulton Street is the right zone for sports weekends and convention groups. Large-capacity venues, multiple screens, bars designed for groups.
+The [Warehouse District](/neighborhoods/warehouse-district/) around Fulton Street is the right zone for [sports weekends](/guides/sports-weekend/) and [convention groups](/guides/convention-group-guide/). Large-capacity venues, multiple screens, bars designed for groups.
 
 On Saints gamedays, this area is the pre- and post-game hub. On regular weekends, it's a reliable option for groups who want something more structured than walking Frenchmen Street.
 
@@ -209,7 +209,7 @@ Start at the Carousel Bar in the Hotel Monteleone (actually rotating bar, great 
 
 6. **The French Quarter has better cocktails than Bourbon Street.** One block off Bourbon in any direction, there are excellent bars with creative cocktail programs and a fraction of the crowd. Jewel of the South, Cane & Table, and the bar at August are worth the detour.
 
-7. **Get to Preservation Hall early or book the private show option.** Lines are long on weekends. The private show before public hours opens is genuinely worth the cost for groups of 15+.
+7. **Get to Preservation Hall early or book the private show option.** Lines are long on weekends. The private show before public hours opens is genuinely worth the cost once your group hits real double digits.
 
 ---
 
