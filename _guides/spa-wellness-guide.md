@@ -23,7 +23,7 @@ This guide covers everything from group spa bookings to the quiet afternoon acti
 - [ ] Stock the rental with recovery supplies the night before (electrolytes, coffee, easy food)
 - [ ] Plan a single optional group activity for late afternoon (yoga, float tanks, walk)
 - [ ] Save one of the better dinner reservations for the recovery evening — you'll all be ready for it
-- [ ] For bachelorette or birthday groups: spa afternoon is the move, not the exception
+- [ ] For [bachelorette](/guides/bachelorette-party/) or [milestone birthday](/guides/milestone-birthday/) groups: spa afternoon is the move, not the exception
 
 ---
 
@@ -128,7 +128,7 @@ The advantage of a private pool over a hotel pool: no strangers, no reservation 
 
 New Orleans has a strong cooking class culture, and for groups that are food-oriented, a cooking class on a recovery morning is one of the better alternatives to a spa.
 
-Learning to make gumbo, red beans and rice, or beignets with your group is active (you're on your feet, doing something with your hands), social, and you end up with a meal. Several studios and culinary schools offer group bookings. A 2–3 hour class in the late morning slots perfectly into a recovery day.
+Learning to make gumbo, red beans and rice, or beignets with your group is active (you're on your feet, doing something with your hands), social, and you end up with a meal. Several studios and culinary schools offer group bookings — the [cooking class guide](/guides/nola-cooking-class-guide/) covers how to book one for a big group. A 2–3 hour class in the late morning slots perfectly into a recovery day.
 
 This is especially good for bachelorette groups, birthday groups, or any trip where the group wants to have made something together.
 
@@ -172,7 +172,7 @@ On a five-night trip: you may need two recovery cycles, usually around day three
 
 2. **Float tanks are better the second time.** If someone in the group has done it before, pair them with first-timers. Having a reference point makes the first float significantly more relaxing.
 
-3. **The pool day hits differently with a private chef lunch.** If you're spending the day at the house anyway, this is the best time to hire a private chef for a meal. The logistics are low (they come to you), and everyone gets a proper sit-down lunch without anyone having to do anything.
+3. **The pool day hits differently with a [private chef](/guides/private-chef-guide/) lunch.** If you're spending the day at the house anyway, this is the best time to hire one for a meal. The logistics are low (they come to you), and everyone gets a proper sit-down lunch without anyone having to do anything.
 
 4. **Yoga works best at 10am, not 8am.** Most people aren't ready for an 8am yoga class after a late night. 10am is the sweet spot — late enough for coffee, early enough to leave the afternoon open.
 
@@ -180,7 +180,7 @@ On a five-night trip: you may need two recovery cycles, usually around day three
 
 6. **The best recovery activity for a group of 20+ is often nothing at all.** Tell people where you'll be (the pool), leave the schedule open, and let people self-organize. The organic version of a recovery day — people coming and going, some napping, some walking, a few heading out for coffee — is often more restorative than a structured program.
 
-7. **A good massage is hard to find on short notice in a tourist city.** Book your appointments before the trip, especially if you're here during Mardi Gras, Jazz Fest, or Essence Festival. Every spa in the city is booked solid during major events.
+7. **A good massage is hard to find on short notice in a tourist city.** Book your appointments before the trip, especially if you're here during [Mardi Gras](/guides/mardi-gras-group-guide/), [Jazz Fest](/guides/jazz-fest-group-guide/), or [Essence Festival](/guides/essence-festival/). Every spa in the city is booked solid during major events.
 
 ---
 
