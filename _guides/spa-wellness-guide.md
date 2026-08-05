@@ -184,19 +184,12 @@ On a five-night trip: you may need two recovery cycles, usually around day three
 
 ---
 
-## Where to Stay for the Wellness Recovery
+## For a Big Group
 
-A good recovery day depends enormously on where you're recovering. Hotel rooms fragment groups — there's no shared space to gather, no kitchen for real food, no outdoor space to decompress.
+A good recovery day depends enormously on where you're recovering. Hotel rooms fragment groups — there's no shared space to gather, no kitchen for real food, no outdoor space to decompress. A private pool, in particular, is the single most reliable wellness amenity a big-group rental can offer: full-day access with no strangers, no chair reservations, and the ability to blast whatever music the group wants.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The private pools at The Herald, The Cocodrie, and The Florentine are the single most important wellness amenity for a group trip — full-day pool access with no strangers, no chair reservations, and complete privacy. Full kitchens mean recovery meals happen at the house. The Bywater location is quiet enough for actual rest while being walkable to coffee, pastry shops, and Frenchmen Street if the group wants to take a walk.
+**Editorial examples of what that looks like:** properties like Castleday Retreats (private-pool Bywater villas, full kitchens for recovery meals) put a group within walking distance of coffee, pastry shops, and [Frenchmen Street](/guides/live-music-guide/) for a quiet recovery-day walk. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, offers a shared heated pool and hot tub — useful post-massage or post-float — with easy access to Magazine Street for a low-effort day out. Neither is a booking recommendation; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room for a recovery-focused day.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The hot tub and sauna specifically are recovery tools, not just amenities. Post-massage, post-float, post-yoga — ending a wellness day with an hour in the hot tub is exactly right. The artist-designed interiors mean the space itself is calming. One block from the St. Charles Streetcar for groups who want to make a low-effort move to Magazine Street for the day.
+For the largest selection, book 6+ months out.
 
-For groups where wellness and spa access is a priority: The Syd's shared pool, hot tub, and sauna combination makes it particularly well-suited for recovery-day-focused trips.
-
----
-
-## Book Your Recovery Day Trip
-
-- Castleday Retreats — Bywater, private pools at each villa, up to 30 guests, full kitchens for recovery meals
-- The Syd — Lower Garden District, shared heated pool, hot tub, sauna, outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
