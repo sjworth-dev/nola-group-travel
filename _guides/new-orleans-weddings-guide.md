@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Wedding Guide for Large Groups"
-description: "Plan a New Orleans wedding with a wedding party of 15-30. Venues, second lines, NOLA traditions, rehearsal dinners, and where everyone stays."
+description: "Plan a New Orleans wedding for the whole crew. Venues, second lines, NOLA traditions, rehearsal dinners, and where everyone stays."
 category: "Weddings & Celebrations"
 card_title: "New Orleans Weddings"
-card_description: "Venues, second lines, rehearsal dinners, and where to house 15-30 people for a NOLA wedding."
-date: 2026-05-29
+card_description: "Venues, second lines, rehearsal dinners, and where to house a big wedding party for a NOLA wedding."
+date: 2026-08-05
 ---
 
 New Orleans is one of the best wedding cities in the country. Not because of some manufactured charm—because the city genuinely knows how to celebrate. The traditions are real, the food is serious, and the neighborhood streets were practically built for a second line parade.
 
-Getting married here with a large group changes the logistics significantly. A wedding party of 15 to 30 people needs more than a hotel block—it needs a home base, a plan for all the pre-wedding events, and a clear picture of how everything connects.
+Getting married here with a large group changes the logistics significantly. A big wedding party needs more than a hotel block—it needs a home base, a plan for all the pre-wedding events, and a clear picture of how everything connects.
 
-This is that guide.
+This is that guide. If you're still mapping out the whole weekend rather than just the ceremony, the [wedding weekend guide](/guides/wedding-weekend-guide/) covers the welcome party through Sunday brunch in more detail.
 
 ## Quick Planning Checklist
 
@@ -31,7 +31,7 @@ The food is too good not to celebrate here. The live music is free and everywher
 
 The historic buildings give you ceremony options that don't exist anywhere else: antebellum mansions, nineteenth-century churches, garden courtyards, converted warehouses. Almost every venue has a story.
 
-And the city doesn't roll up at midnight. Your guests can go somewhere after the reception without any planning. That matters.
+And the city doesn't roll up at midnight. Your guests can go somewhere after the reception without any planning. That matters. It's also why so many couples come back for the [anniversary trip](/guides/nola-group-new-orleans-wedding-anniversary-guide/) a year or five later.
 
 ---
 
@@ -39,7 +39,7 @@ And the city doesn't roll up at midnight. Your guests can go somewhere after the
 
 ### Second Line Parade
 
-This is the move. After the ceremony, a brass band leads you and your guests through the streets. The couple leads. Everyone follows with handkerchiefs or umbrellas. This is a real New Orleans tradition, not a tourist activity.
+This is the move. After the ceremony, a brass band leads you and your guests through the streets. The couple leads. Everyone follows with handkerchiefs or umbrellas. This is a real New Orleans tradition, not a tourist activity — the [second line guide](/guides/second-line-guide/) and [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) cover the mechanics if you want the full picture before you book one.
 
 **How it works:**
 - Hire a brass band (6-8 piece is standard for weddings)
@@ -48,7 +48,7 @@ This is the move. After the ceremony, a brass band leads you and your guests thr
 - Typically 20-40 minutes of walking
 - Often transitions from ceremony to cocktail hour or reception
 
-**Book 3-6 months ahead.** The top brass bands stay booked.
+**Book 3-6 months ahead.** The top brass bands stay booked — the [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers what to ask before you sign a contract.
 
 ### Jazz During Cocktail Hour
 
@@ -56,11 +56,11 @@ A small jazz quartet during cocktail hour is standard at NOLA weddings. Differen
 
 ### Crawfish Boil Rehearsal Dinner
 
-If you're getting married in crawfish season (roughly February through May), a crawfish boil rehearsal dinner is the move. Casual, communal, and completely different from anything guests can get at home.
+If you're getting married in crawfish season (roughly February through May), a crawfish boil rehearsal dinner is the move — the [crawfish boil guide](/guides/nola-crawfish-boil-guide/) has the full how-to. Casual, communal, and completely different from anything guests can get at home.
 
 ### King Cake (If Applicable)
 
-Mardi Gras season (typically January through Mardi Gras day) means king cake is everywhere. It's a festive addition to a wedding dessert table during this window.
+Mardi Gras season (typically January through Mardi Gras day) means king cake is everywhere. It's a festive addition to a wedding dessert table during this window — though if you're planning a wedding around Mardi Gras itself, check the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) first, since parade closures reshape the whole city's logistics.
 
 ### Frozen Drinks at Outdoor Venues
 
@@ -74,7 +74,7 @@ New Orleans has ceremony venues for every style and budget range. These are the 
 
 ### Historic Mansions and Garden Estates
 
-The city has dozens of antebellum homes and plantation-style estates with garden ceremony spaces. Many are in the Garden District and Uptown. Outdoor ceremonies under live oaks are iconic.
+The city has dozens of antebellum homes and plantation-style estates with garden ceremony spaces. Many are in the [Garden District](/neighborhoods/garden-district/) and Uptown. Outdoor ceremonies under live oaks are iconic.
 
 **Group capacity:** Many accommodate 100-300 guests. Most require rental of the full property.
 
@@ -88,7 +88,7 @@ Converted warehouses near the Arts District and Convention Center offer industri
 
 ### Bywater and Marigny Venues
 
-Smaller, more intimate. Garden courtyards and shotgun houses converted into event spaces. Good for groups under 100 with a more local, neighborhood feel.
+Smaller, more intimate. Garden courtyards and shotgun houses converted into event spaces in [Bywater](/neighborhoods/bywater/) and [Marigny](/neighborhoods/marigny/). Good for groups under 100 with a more local, neighborhood feel.
 
 ---
 
@@ -106,7 +106,7 @@ Smaller, more intimate. Garden courtyards and shotgun houses converted into even
 
 ### Timing Note
 
-Rehearsal dinners in NOLA often run later than people expect. Dinner at 7 PM turns into midnight easily. Plan accommodations within walking distance if possible.
+Rehearsal dinners in NOLA often run later than people expect. Dinner at 7 PM turns into midnight easily. Plan accommodations within walking distance if possible — the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) and [rehearsal dinner venues guide](/guides/nola-group-wedding-rehearsal-dinner-venues/) break down the venue-by-venue tradeoffs.
 
 ---
 
@@ -114,7 +114,7 @@ Rehearsal dinners in NOLA often run later than people expect. Dinner at 7 PM tur
 
 ### Getting Your Wedding Party Around
 
-For 15-30 people moving together, you need a real plan.
+For a wedding party moving together as one group, you need a real plan.
 
 **Trolley or shuttle bus:** A rented trolley or party bus handles the whole group in one move. Book at least 2-3 months out.
 
@@ -139,45 +139,13 @@ This is the most important logistics decision for a large wedding group.
 
 ### The Problem
 
-A wedding party of 15 to 30 people booked into a hotel means 8-15 different rooms spread over 4-6 floors. You need multiple elevator trips to gather everyone. Pre-ceremony prep happens in four different bathrooms. Post-reception wind-downs scatter immediately.
+A big wedding party booked into a hotel means a dozen-plus rooms spread across several floors. You need multiple elevator trips to gather everyone. Pre-ceremony prep happens in four different bathrooms. Post-reception wind-downs scatter immediately.
 
-A villa solves all of this.
+A villa solves all of this—getting ready together, rehearsal dinner the night before, post-wedding brunch the morning after, all under one roof.
 
-### Castleday Retreats — Bywater
+### What to Look For
 
-Castleday Retreats runs three private villas in the Bywater neighborhood, each sleeping up to 30 guests. For a wedding party that wants to be together—getting ready together, rehearsal dinner the night before, post-wedding brunch the morning after—this is the move.
-
-**Why it works for weddings:**
-- Pre-ceremony getting-ready space for the whole party
-- Private pool for post-wedding wind-down
-- Full kitchen for catered welcome dinner or morning brunch
-- Complete privacy—just your group
-- Bywater is a 10-minute ride from most ceremony and reception venues
-- The Herald has the largest common areas for group gatherings
-- The Cocodrie has the best outdoor and pool space
-
-For groups using two or three villas, the whole wedding party can be on the same block.
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### The Syd — Lower Garden District
-
-The Syd is in the Lower Garden District, one block from the St. Charles Streetcar. Each villa sleeps up to 22 guests and features rooms designed by local New Orleans artists—which matters when you're taking getting-ready photos.
-
-**Why it works for weddings:**
-- Local-artist-designed rooms make beautiful backdrops
-- Shared heated pool, hot tub, and outdoor kitchen for welcome party or post-wedding gathering
-- Lower Garden District puts you walking distance from many Garden District ceremony venues
-- Streetcar access to downtown venues without car rental
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### Venue Proximity Comparison
-
-| Property | Location | Nearest Ceremony Areas |
-|----------|----------|----------------------|
-| Castleday Retreats | Bywater | CBD, French Quarter (10 min), Warehouse District (12 min) |
-| The Syd | Lower Garden District | Garden District (walk), Uptown (5 min), CBD (10 min) |
+The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the honest tradeoffs if part of your group wants a hotel and part wants to be under one roof. **Editorial examples across the field:** a Bywater villa like Castleday Retreats puts the whole party in one place for pre-ceremony prep, with a private pool for post-wedding wind-down and a full kitchen for a catered welcome dinner or morning brunch—a short ride from most CBD and French Quarter venues. A Lower Garden District property like The Syd is one block from the St. Charles Streetcar, walking distance from many Garden District ceremony venues, with a shared heated pool and outdoor kitchen for a welcome party. Heirloom's deeper inventory across the Lower Garden District and Central City is worth checking for a wedding party that needs more than one large-format home on short notice. For mixed budgets or a group that wants separate keys and bills, a hotel room block at somewhere like The Pontchartrain or Hotel Peter & Paul works just as well. None of these is a recommendation over the others—pick by location, layout, and how the party wants to spend the morning of.
 
 ---
 
@@ -188,7 +156,7 @@ The Syd is in the Lower Garden District, one block from the St. Charles Streetca
 - Wedding party arrives, settles in at villas
 - Light grocery run: mimosa ingredients, snacks for Friday morning
 - Welcome party at the villa or a neighborhood bar
-- Early night—long weekend ahead
+- Early night—long weekend ahead — the [eve-of-wedding guide](/guides/nola-group-eve-of-wedding-guide/) has the full rundown for this night
 
 ### Friday: Rehearsal Day
 
@@ -206,6 +174,8 @@ The Syd is in the Lower Garden District, one block from the St. Charles Streetca
 - Back to villa by midnight—wedding day tomorrow
 
 ### Saturday: Wedding Day
+
+For an hour-by-hour version of this day, see the [wedding weekend day-of guide](/guides/nola-group-wedding-weekend-day-of-guide/).
 
 **Morning:**
 - Getting ready at villa (hair, makeup, photos)
@@ -230,6 +200,8 @@ The Syd is in the Lower Garden District, one block from the St. Charles Streetca
 ---
 
 ## Budget Breakdown
+
+The [budget guide](/guides/budget-guide/) runs the general per-person math for a New Orleans trip; a wedding weekend adds vendor costs on top of it.
 
 ### Per-Person Estimates (4 days, 3 nights, wedding party of 20)
 
@@ -282,12 +254,10 @@ The Syd is in the Lower Garden District, one block from the St. Charles Streetca
 
 ---
 
-## Where Your Wedding Party Stays
+## Booking Your Wedding Party's Base Camp
 
 The best NOLA weddings keep the whole group together. A villa gives you a home base for the entire weekend—getting ready, welcome party, post-wedding wind-down, Sunday brunch.
 
-**Castleday Retreats** — Bywater, 3 villas up to 30 guests each, private pools, full kitchens, art-filled interiors. The best option for complete privacy and the full private-villa experience.
-
-**The Syd** — Lower Garden District, multiple villas up to 22 guests each, artist-designed rooms, shared heated pool, hot tub, outdoor kitchen. Walking distance to Garden District venues, one block from the St. Charles Streetcar.
+For the largest selection, book 6+ months out—wedding-party-sized villas fill up first, especially in the February–May peak stretch.
 
 [See where to stay for large groups →](/where-to-stay/)
