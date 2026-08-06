@@ -1,0 +1,235 @@
+# GENERATED from the nola-events canon (tools/build_exports.py) — do not hand-edit.
+# Facts only: event dates for guide refreshes. 'announced' events are set by
+# organizers each year — verify online before publishing a specific date.
+generated_window:
+- '2026-08-01'
+- '2027-10-01'
+events:
+- name: Satchmo SummerFest
+  slug: satchmo-summerfest
+  location: French Quarter (Jazz Museum grounds)
+  start: '2026-08-01'
+  end: '2026-08-01'
+  confidence: typical
+- name: White Linen Night
+  slug: white-linen-night
+  location: Warehouse District (Julia St galleries)
+  start: '2026-08-01'
+  end: '2026-08-01'
+  confidence: exact
+- name: Red Dress Run
+  slug: red-dress-run
+  location: French Quarter / Marigny
+  start: '2026-08-08'
+  end: '2026-08-08'
+  confidence: typical
+- name: Southern Decadence
+  slug: southern-decadence
+  location: French Quarter
+  start: '2026-09-07'
+  end: '2026-09-07'
+  confidence: exact
+- name: Fried Chicken Fest
+  slug: fried-chicken-fest
+  location: Lakefront (New Orleans Lakefront Airport grounds)
+  start: '2026-09-26'
+  end: '2026-09-27'
+  confidence: announced
+- name: Art for Art's Sake
+  slug: art-for-arts-sake
+  location: Magazine Street galleries
+  start: '2026-10-03'
+  end: '2026-10-03'
+  confidence: typical
+- name: Crescent City Blues & BBQ Fest
+  slug: crescent-city-blues-bbq-fest
+  location: Lafayette Square
+  start: '2026-10-09'
+  end: '2026-10-11'
+  confidence: announced
+- name: New Orleans Film Festival
+  slug: new-orleans-film-festival
+  location: Citywide (multiple venues)
+  start: '2026-10-15'
+  end: '2026-10-18'
+  confidence: announced
+- name: Krewe of Boo
+  slug: krewe-of-boo
+  location: French Quarter route
+  start: '2026-10-24'
+  end: '2026-10-24'
+  confidence: typical
+- name: Halloween on Frenchmen Street
+  slug: halloween-on-frenchmen-street
+  location: Frenchmen St, through the Marigny
+  start: '2026-10-31'
+  end: '2026-10-31'
+  confidence: exact
+- name: Oak Street Po-Boy Festival
+  slug: oak-street-po-boy-festival
+  location: Oak Street, Carrollton
+  start: '2026-11-07'
+  end: '2026-11-08'
+  confidence: announced
+- name: Treme Creole Gumbo Festival
+  slug: treme-creole-gumbo-festival
+  location: Armstrong Park, Treme
+  start: '2026-11-14'
+  end: '2026-11-15'
+  confidence: announced
+- name: Celebration in the Oaks
+  slug: celebration-in-the-oaks
+  location: City Park
+  start: '2026-11-25'
+  end: '2026-11-25'
+  confidence: typical
+- name: Bayou Classic
+  slug: bayou-classic
+  location: Caesars Superdome
+  start: '2026-11-28'
+  end: '2026-11-28'
+  confidence: exact
+- name: Luna Fete
+  slug: luna-fete
+  location: Lafayette Square
+  start: '2026-12-03'
+  end: '2026-12-06'
+  confidence: announced
+- name: Running of the Santas
+  slug: running-of-the-santas
+  location: Warehouse District
+  start: '2026-12-12'
+  end: '2026-12-12'
+  confidence: announced
+- name: Caroling in Jackson Square
+  slug: caroling-in-jackson-square
+  location: Jackson Square, French Quarter
+  start: '2026-12-20'
+  end: '2026-12-20'
+  confidence: typical
+- name: New Year's Eve fireworks over the river
+  slug: new-years-eve-fireworks-over-the-river
+  location: Crescent Park / riverfront
+  start: '2026-12-31'
+  end: '2026-12-31'
+  confidence: exact
+- name: Sugar Bowl
+  slug: sugar-bowl
+  location: Caesars Superdome
+  start: '2027-01-01'
+  end: '2027-01-01'
+  confidence: announced
+- name: Joan of Arc Parade (Twelfth Night)
+  slug: joan-of-arc-parade
+  location: French Quarter
+  start: '2027-01-06'
+  end: '2027-01-06'
+  confidence: exact
+- name: King cake season
+  slug: king-cake-season
+  location: Every bakery in town
+  start: '2027-01-06'
+  end: '2027-01-06'
+  confidence: exact
+- name: Krewe of Chewbacchus
+  slug: krewe-of-chewbacchus
+  location: Rolls through the Marigny
+  start: '2027-01-16'
+  end: '2027-01-16'
+  confidence: exact
+- name: Krewe du Vieux
+  slug: krewe-du-vieux
+  location: Goes through the Marigny and the French Quarter
+  start: '2027-01-23'
+  end: '2027-01-23'
+  confidence: exact
+- name: First big parade weekend (Cleopatra, Freret, King Arthur)
+  slug: early-night-parades-cleopatra-sparta-femme-fatale
+  location: St. Charles Avenue route (plus walking parades in the French Quarter)
+  start: '2027-01-29'
+  end: '2027-01-31'
+  confidence: exact
+- name: Mardi Gras main week (Muses, Endymion, Bacchus & the superkrewes)
+  slug: superkrewes-endymion-bacchus
+  location: St. Charles route; Endymion through Mid-City / Canal St
+  start: '2027-02-03'
+  end: '2027-02-08'
+  confidence: exact
+- name: Red Beans parade & Fat Tuesday
+  slug: red-beans-parade-fat-tuesday
+  location: Right through the Bywater / Marigny
+  start: '2027-02-08'
+  end: '2027-02-09'
+  confidence: typical
+- name: Mardi Gras Day (Fat Tuesday)
+  slug: mardi-gras-day
+  location: Citywide — Zulu/Rex Uptown to downtown; St. Anne through the Marigny
+  start: '2027-02-09'
+  end: '2027-02-09'
+  confidence: exact
+- name: Hogs for the Cause
+  slug: hogs-for-the-cause
+  location: Lakefront
+  start: '2027-03-19'
+  end: '2027-03-20'
+  confidence: announced
+- name: Irish Channel St. Patrick's Parade
+  slug: irish-channel-st-patricks-parade
+  location: Irish Channel / Magazine St
+  start: '2027-03-20'
+  end: '2027-03-20'
+  confidence: typical
+- name: Super Sunday (Mardi Gras Indians)
+  slug: super-sunday-mardi-gras-indians
+  location: Central City (A.L. Davis Park)
+  start: '2027-03-21'
+  end: '2027-03-21'
+  confidence: typical
+- name: Easter parades
+  slug: easter-parades
+  location: French Quarter
+  start: '2027-03-28'
+  end: '2027-03-28'
+  confidence: exact
+- name: French Quarter Fest
+  slug: french-quarter-fest
+  location: Throughout the French Quarter
+  start: '2027-04-08'
+  end: '2027-04-11'
+  confidence: announced
+- name: Jazz Fest
+  slug: jazz-fest
+  location: Fair Grounds Race Course
+  start: '2027-04-22'
+  end: '2027-04-25'
+  confidence: announced
+- name: Mother's Day second lines
+  slug: mothers-day-second-lines
+  location: Follow the brass — routes announced weekly
+  start: '2027-05-09'
+  end: '2027-05-09'
+  confidence: exact
+- name: Bayou Boogaloo
+  slug: bayou-boogaloo
+  location: Bayou St. John
+  start: '2027-05-14'
+  end: '2027-05-16'
+  confidence: announced
+- name: Juneteenth events
+  slug: juneteenth-events
+  location: Citywide
+  start: '2027-06-19'
+  end: '2027-06-19'
+  confidence: exact
+- name: Essence Festival
+  slug: essence-festival
+  location: Caesars Superdome + convention center
+  start: '2027-07-03'
+  end: '2027-07-03'
+  confidence: typical
+- name: Go 4th on the River
+  slug: go-4th-on-the-river
+  location: Riverfront / Crescent Park
+  start: '2027-07-04'
+  end: '2027-07-04'
+  confidence: exact
