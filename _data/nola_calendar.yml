@@ -26,7 +26,7 @@ events:
 - name: Southern Decadence
   slug: southern-decadence
   location: French Quarter
-  start: '2026-09-07'
+  start: '2026-09-03'
   end: '2026-09-07'
   confidence: exact
 - name: Fried Chicken Fest
@@ -167,18 +167,18 @@ events:
   start: '2027-02-09'
   end: '2027-02-09'
   confidence: exact
+- name: Irish Channel St. Patrick's Parade
+  slug: irish-channel-st-patricks-parade
+  location: Irish Channel / Magazine St
+  start: '2027-03-13'
+  end: '2027-03-13'
+  confidence: exact
 - name: Hogs for the Cause
   slug: hogs-for-the-cause
   location: Lakefront
   start: '2027-03-19'
   end: '2027-03-20'
   confidence: announced
-- name: Irish Channel St. Patrick's Parade
-  slug: irish-channel-st-patricks-parade
-  location: Irish Channel / Magazine St
-  start: '2027-03-20'
-  end: '2027-03-20'
-  confidence: typical
 - name: Super Sunday (Mardi Gras Indians)
   slug: super-sunday-mardi-gras-indians
   location: Central City (A.L. Davis Park)
