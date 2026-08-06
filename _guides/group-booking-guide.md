@@ -1,10 +1,10 @@
 ---
 title: "The Complete Group Booking Playbook for New Orleans"
-description: "How to organize reservations, manage deposits, coordinate logistics, and actually get 10-30 people somewhere on time in New Orleans."
+description: "How to organize reservations, manage deposits, coordinate logistics, and actually get a big group somewhere on time in New Orleans."
 category: "Planning & Logistics"
 card_title: "Group Booking Playbook"
 card_description: "Reservations, deposits, cancellations, and the logistics of getting everyone to show up on time."
-date: 2026-05-26
+date: 2026-08-06
 ---
 
 Booking a trip for 20 people is not like booking a trip for two. The math is different. The communication is different. The failure modes are different. And the consequences of winging it are much worse when 19 other people are counting on you.
@@ -16,7 +16,7 @@ This guide is the operating manual for whoever gets volunteered to coordinate th
 - [ ] Designate a single trip coordinator — not a committee
 - [ ] Collect a per-person deposit before booking anything
 - [ ] Create a shared itinerary document everyone can see (not just you)
-- [ ] Make restaurant reservations 4-6 weeks out for groups of 15+
+- [ ] Make restaurant reservations 4-6 weeks out once the group is big enough to need a private room
 - [ ] Confirm headcount with a hard deadline — one change per person after that
 - [ ] Set up a group payment system (Splitwise, Venmo, or a shared fund)
 - [ ] Get every confirmation number and save it somewhere accessible
@@ -46,15 +46,15 @@ The single biggest mistake groups make: starting too late.
 
 | How Far Out | What to Book |
 |------------|--------------|
-| 3-6 months | Accommodations |
-| 6-8 weeks | Restaurant reservations for groups of 15+ |
+| 6+ months | Accommodations |
+| 6-8 weeks | Restaurant reservations for a group big enough to need a private room |
 | 4-6 weeks | Guided tours, cooking classes, boat cruises |
 | 3-4 weeks | Private transportation (party bus, shuttle) |
 | 2-3 weeks | Any activity requiring capacity guarantees |
 | 1 week | Final restaurant confirmations |
 | 3-5 days | Send full itinerary to group |
 
-**Accommodations first, everything else second.** Where you're staying anchors everything. Until that's locked, nothing else can be properly planned.
+**Accommodations first, everything else second.** Where you're staying anchors everything. Until that's locked, nothing else can be properly planned. For the largest selection, book 6+ months out.
 
 ---
 
@@ -102,7 +102,7 @@ Call or email to confirm 48 hours before any large reservation. Restaurants have
 
 ### Booking Logic
 
-Most NOLA activities are built for groups of 8-15 max. If your group is larger, you have two options:
+Most NOLA activities are built for a small tour group, not a full takeover. If your group is larger, you have two options:
 
 1. **Book multiple sessions** — stagger your group across two time slots, same day
 2. **Book a private tour** — costs more but gets everyone together and usually allows customization
@@ -137,7 +137,7 @@ For activities in the difficult category: split the group. Half does the activit
 
 ### The Group Transit Problem
 
-The moment you're moving 15+ people anywhere, you have a coordination problem — the [transportation guide](/guides/transportation-guide/) covers the full range of options in more depth than the table below. Standard solutions:
+The moment you're moving the whole crew anywhere, you have a coordination problem — the [transportation guide](/guides/transportation-guide/) covers the full range of options in more depth than the table below. Standard solutions:
 
 | Option | Best For | Notes |
 |--------|----------|-------|
