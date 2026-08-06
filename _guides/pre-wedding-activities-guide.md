@@ -1,21 +1,21 @@
 ---
 title: "Pre-Wedding Activities in New Orleans: Everything Except the Ceremony"
-description: "The complete guide to rehearsal dinners, bridesmaids and groomsmen outings, welcome parties, post-wedding brunches, and the day-by-day logistics of keeping a wedding party of 15–30 in one piece for a long weekend in New Orleans."
+description: "The complete guide to rehearsal dinners, bridesmaids and groomsmen outings, welcome parties, post-wedding brunches, and the day-by-day logistics of keeping a full wedding party in one piece for a long weekend in New Orleans."
 category: "Weddings & Celebrations"
 card_title: "Pre-Wedding Activities"
 card_description: "Rehearsal dinners, welcome parties, bridesmaid outings, groomsmen mornings — the whole weekend, planned."
-date: 2026-05-27
+date: 2026-08-06
 ---
 
 New Orleans weddings are not single-day events. They're four-day productions. And the ceremony is often the most predictable part.
 
 What happens before and after — the welcome party the night before, the rehearsal dinner at a restaurant that actually needs a reservation, the bridesmaids brunch, the groomsmen morning on Bourbon Street, the post-wedding recovery situation, the second line through the streets — this is where the NOLA wedding experience actually lives.
 
-This guide covers all of it. Not the ceremony logistics, not the venue search, not the florist. The rest of the weekend. The part where you're managing 20 people who all need to be somewhere at the same time, in the same city, for four days in a row.
+This guide covers all of it. Not the ceremony logistics, not the venue search, not the florist — the [main wedding planning guide](/guides/new-orleans-weddings-guide/) has that end. This is the rest of the weekend. The part where you're managing 20 people who all need to be somewhere at the same time, in the same city, for four days in a row. (For the night before the wedding specifically, see the [eve-of-wedding guide](/guides/nola-group-eve-of-wedding-guide/).)
 
 ## Quick Checklist
 
-- [ ] Block accommodations 6–9 months out — wedding weekend NOLA fills fast
+- [ ] Block accommodations 6+ months out, for the largest selection — wedding weekend NOLA fills fast
 - [ ] Designate a wedding party coordinator separate from the couple
 - [ ] Book rehearsal dinner 3–4 months out with a firm headcount
 - [ ] Plan welcome party catering or venue before booking anything else
@@ -75,7 +75,7 @@ Not your domain to plan — that's the officiant, the venue coordinator, and the
 
 ### Rehearsal Dinner: The Restaurant Question
 
-New Orleans has spectacular restaurants, and booking a private dining room for 20–30 people is absolutely doable if you start early.
+New Orleans has spectacular restaurants, and booking a private dining room for the full wedding party is absolutely doable if you start early — the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) and [rehearsal dinner venue rundown](/guides/nola-group-wedding-rehearsal-dinner-venues/) cover the specifics.
 
 **What you need:**
 - 3–4 months minimum for large group booking at destination restaurants
@@ -90,11 +90,11 @@ A prix-fixe dinner in a private room, open bar during cocktail hour, a few toast
 
 ### The Welcome Party
 
-This is different from the rehearsal dinner. The rehearsal dinner is the inner circle — bridal party and immediate family. The welcome party is for all guests who have arrived, which in a destination wedding can be 40–100 people.
+This is different from the rehearsal dinner. The rehearsal dinner is the inner circle — bridal party and immediate family. The welcome party is for all guests who have arrived, which in a destination wedding can run into the dozens, sometimes past a hundred.
 
 **The options:**
 
-**At the villa.** For wedding parties staying at a private property, the villa is the obvious welcome party venue. You own the space, you control the timing, you can hire a caterer or bartender, and nobody has to figure out transportation. A second line brass band playing in the yard for an hour is $500–$1,000 and is the most New Orleans welcome party thing you can do.
+**At the villa.** For wedding parties staying at a private property, the villa is the obvious welcome party venue. You own the space, you control the timing, you can hire a caterer or bartender, and nobody has to figure out transportation. A second line brass band playing in the yard for an hour is $500–$1,000 and is the most New Orleans welcome party thing you can do — the [group welcome packet guide](/guides/group-welcome-packet-guide/) has a template for briefing everyone before they arrive.
 
 **At a bar or event venue.** For larger guest lists, a semi-private buyout of a bar, restaurant courtyard, or dedicated event space works. French Quarter courtyards are the classic choice — beautiful, photogenic, quintessentially New Orleans.
 
@@ -110,13 +110,13 @@ Keep it flexible. The bridesmaids day is one of the most variable parts of the w
 
 ### Structured Option: Spa Morning + Lunch
 
-New Orleans has several full-service day spas that accommodate groups. Book in advance, especially for parties of 8+. Treatments can run simultaneously for small groups; larger parties may need staggered appointments.
+New Orleans has several full-service day spas that accommodate groups — the [spa and wellness guide](/guides/spa-wellness-guide/) covers the options. Book in advance, especially for a larger bridal party. Treatments can run simultaneously for small groups; larger parties may need staggered appointments.
 
-After the spa, a long lunch at a restaurant on Magazine Street, in the French Quarter, or in Uptown is the standard move. Private dining rooms for 10–15 people are available at most destination restaurants with advance booking.
+After the spa, a long lunch at a restaurant on Magazine Street, in the French Quarter, or in Uptown is the standard move. Private dining rooms for the full bridesmaid group are available at most destination restaurants with advance booking.
 
 ### Unstructured Option: Magazine Street and Pool
 
-Magazine Street is 6+ miles of restaurants, boutiques, art galleries, and bars. It's flat, walkable, and very conducive to a few hours of wandering. Take an Uber to the Uptown end and work your way back toward the CBD. Stop wherever looks good.
+Magazine Street is 6+ miles of restaurants, boutiques, art galleries, and bars, running through the [Garden District](/neighborhoods/garden-district/) and [Lower Garden District](/neighborhoods/lower-garden-district/). It's flat, walkable, and very conducive to a few hours of wandering. Take an Uber to the Uptown end and work your way back toward the CBD. Stop wherever looks good.
 
 Return to the villa for pool time and getting-ready time before the evening.
 
@@ -130,11 +130,11 @@ Sometimes the right answer is: everyone stays at the villa, the pool heater is o
 
 ### The Classic Options
 
-**Golf.** New Orleans has multiple accessible courses. TPC Louisiana is the marquee option. Audubon Golf Course is centrally located. City Park has a course with a great location near the park's amenities. Book tee times well in advance on wedding weekends — you're not the only wedding in town.
+**Golf.** New Orleans has multiple accessible courses — the [group golf guide](/guides/large-group-golf-guide/) covers all of them. TPC Louisiana is the marquee option. Audubon Golf Course is centrally located. City Park has a course with a great location near the park's amenities. Book tee times well in advance on wedding weekends — you're not the only wedding in town.
 
-**Fishing or swamp tour.** Charter fishing trips on Lake Pontchartrain or in the coastal marshes are easy to book for groups of 8–12. Airboat swamp tours accommodate larger groups. This is quintessentially Louisiana and works especially well for groups that don't all play golf.
+**Fishing or swamp tour.** Charter fishing trips on Lake Pontchartrain or in the coastal marshes are easy to book for a small crew. [Airboat swamp tours](/guides/nola-swamp-tour-guide/) accommodate larger groups. This is quintessentially Louisiana and works especially well for groups that don't all play golf.
 
-**Bourbon Street morning.** Not everyone's preference but worth naming: a handful of groomsmen on Bourbon Street at 10 a.m. is a legitimate New Orleans wedding weekend tradition. The day drinking on Bourbon Street before a wedding is a thing that exists. Know your group.
+**Bourbon Street morning.** Not everyone's preference but worth naming: a handful of groomsmen on Bourbon Street at 10 a.m. is a legitimate New Orleans wedding weekend tradition — the [day drinking guide](/guides/nola-day-drinking-guide/) has the honest version of what that morning actually looks like. Know your group.
 
 **Sports bar afternoon.** If a game is on and the group is sports-focused, there are dedicated sports bars in the CBD and throughout the city that handle large groups well. Call ahead — some have reservations for parties.
 
@@ -146,6 +146,8 @@ Groomsmen mornings need to end in time for getting ready. Whatever the activity,
 
 ## Wedding Day: The Logistics That Are Not the Ceremony
 
+The [wedding weekend day-of guide](/guides/nola-group-wedding-weekend-day-of-guide/) walks through the full timeline hour by hour; this section covers the pieces that trip up large groups specifically.
+
 ### The Morning Block
 
 **Where is everyone getting ready?** For wedding parties staying in a villa, getting ready at the house is the obvious solution. Everyone in one place, getting ready together, photographer documenting the chaos — this is what people remember. The logistics of moving 10 bridesmaids from a hotel to a separate venue for hair and makeup adds an hour to an already long day.
@@ -156,19 +158,19 @@ Groomsmen mornings need to end in time for getting ready. Whatever the activity,
 
 ### Transportation
 
-This is the part that breaks down most often. For a wedding party of 20–30 plus family members, transportation logistics are:
+This is the part that breaks down most often. For a full wedding party plus family members, transportation logistics are:
 
 - **Shuttle from accommodations to ceremony venue** — one vehicle for the party, departing on a fixed schedule
 - **Shuttle from ceremony to reception** — may or may not be necessary depending on proximity
 - **Shuttle back to accommodations at the end of the night** — essential; nobody should be navigating NOLA transportation at midnight in formal wear
 
-Book a charter van or small bus for the wedding party specifically. Uber doesn't work for 20 people at once.
+Book a charter van or small bus for the wedding party specifically — the [transportation guide](/guides/transportation-guide/) covers group-vehicle options citywide. Uber doesn't work for 20 people at once.
 
 ### The Second Line
 
 If there is one thing that makes a New Orleans wedding wedding, it's the second line. The tradition: after the ceremony, the couple leads a parade through the streets behind a brass band, guests waving handkerchiefs and parasols. It's joyful, it's chaotic, and it's absolutely New Orleans.
 
-For groups of 20–30, the second line is entirely manageable. The couple purchases parasols and handkerchiefs in advance (available at gift shops throughout the city), hires a brass band (2–3 hours, varies by band), and maps a route — typically ending at the reception venue. A police escort permit is often required for parades that cross major intersections; your venue coordinator or a local event planner can navigate this.
+For a full wedding party, the second line is entirely manageable — the [second line guide](/guides/second-line-guide/) and [private-vs-public second line breakdown](/guides/nola-group-private-second-line-vs-public-guide/) cover the mechanics in depth. The couple purchases parasols and handkerchiefs in advance (available at gift shops throughout the city), [hires a brass band](/guides/nola-group-brass-band-hire-logistics-guide/) (2–3 hours, varies by band), and maps a route — typically ending at the reception venue. A police escort permit is often required for parades that cross major intersections; your venue coordinator or a local event planner can navigate this.
 
 ---
 
@@ -182,7 +184,7 @@ This is where the weekend actually ends. The ceremony is done, the reception is 
 
 **Venue options:**
 - At the villa: most naturally suited to Sunday morning. Open at your own pace, cook or have food delivered, nobody has to be anywhere by a time.
-- At a restaurant: book a private room. Sunday brunch is popular in New Orleans — a group of 20+ needs a reservation.
+- At a restaurant: book a private room. Sunday brunch is popular in New Orleans — a full wedding party needs a reservation. The [brunch guide](/guides/nola-brunch-guide/) covers the city's group-friendly rooms.
 
 **Timing:** Start late (10:30–11:00 a.m.). People will be slow. End organically. The brunch is not a two-hour event — it's a four-hour drift into goodbyes.
 
@@ -222,15 +224,13 @@ Every timed event needs 30–45 minutes of buffer. People who say "I'm almost re
 
 ## Accommodation: Keep the Wedding Party Together
 
-The single most important logistical decision for a large wedding party weekend is keeping everyone in the same property.
+The single most important logistical decision for a large wedding party weekend is keeping everyone in the same property — the [wedding weekend guide](/guides/wedding-weekend-guide/) covers this in more depth.
 
 When the bridesmaids are in one hotel, the groomsmen in another, the couple in a third, and the family in a fourth, the coordinator spends all weekend managing transportation between four buildings. When everyone is in one villa, the common space becomes the home base, the logistics collapse to manageable, and the morning-of getting-ready situation actually works.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine can be booked individually for a wedding party of up to 30, or in combination for multiple associated groups (party A in one villa, families in another). Private pools, full kitchens, art-filled interiors, complete privacy. Bywater is close to the Marigny and the French Quarter — great wedding weekend neighborhood.
+**Editorial examples of what that looks like, spanning the field:** Bywater villas from operators like Castleday Retreats put a wedding party's core group under one roof with private pools and full kitchens — a real bed for every organizer's headcount, not a "sleeps 30" sales pitch. The Syd, in the Lower Garden District, puts a group one block from the St. Charles Streetcar with a shared heated pool and hot tub — convenient when the ceremony is downtown or in the Garden District. Heirloom's larger inventory of homes across the Lower Garden District and Central City is worth checking for short-notice availability. For wedding parties who'd rather split into hotel rooms with separate keys and bills, a block at The Roosevelt, Hotel Peter & Paul, or Hotel Saint Vincent works too. None of these is a recommendation over the others — pick by fit; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the tradeoff in full.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. For wedding parties where the ceremony is downtown or in the Garden District, the Lower Garden District location is exceptionally convenient. Multiple villas at The Syd can house larger wedding parties across adjacent properties.
-
-Both properties are the kind of place where the wedding photos happen. The private pool, the courtyard, the beautiful interiors — guests will be taking photos at the villa all weekend.
+Whichever property type you land on, the private pool, the courtyard, the beautiful interiors — guests will be taking photos there all weekend.
 
 ---
 
@@ -254,7 +254,8 @@ Both properties are the kind of place where the wedding photos happen. The priva
 
 ## Plan Your Wedding Weekend
 
-The ceremony is just one day. The weekend is four days.
+The ceremony is just one day. The weekend is four days. Get the accommodation locked first — everything else, from the welcome party to the getting-ready block to the second line route, builds outward from wherever the group is staying.
 
-- Castleday Retreats — Bywater, three private villas up to 30 guests, private pools, full kitchens, art-filled interiors
-- The Syd — Lower Garden District, up to 22 guests per villa, shared pool, hot tub, sauna, one block from the streetcar
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
