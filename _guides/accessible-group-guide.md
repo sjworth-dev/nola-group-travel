@@ -11,11 +11,11 @@ Most travel guides on accessibility read like legal disclaimers: technically acc
 
 New Orleans is one of the most physically complicated cities in the country for guests with mobility limitations. It's also one of the most rewarding cities to figure out together. The French Quarter will challenge you. The Riverwalk won't. Knowing the difference before you arrive is the whole game.
 
-This guide is for groups where one or more guests use a wheelchair, have limited mobility, or have hearing or vision considerations that require advance planning. Most of what's here applies equally to groups where the challenge is age — multigenerational reunions where Grandma can't do cobblestones and a 7-year-old shouldn't be on Bourbon Street at midnight.
+This guide is for groups where one or more guests use a wheelchair, have limited mobility, or have hearing or vision considerations that require advance planning. Most of what's here applies equally to groups where the challenge is age — multigenerational reunions where Grandma can't do cobblestones and a 7-year-old shouldn't be on Bourbon Street at midnight; the [extended family reunion guide](/guides/extended-family-reunion-guide/) covers that split in more depth.
 
 ## Quick Checklist
 
-- [ ] Identify each guest's specific limitations and communicate them to the coordinator early
+- [ ] Identify each guest's specific limitations and communicate them to the coordinator early — see the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) for assigning that job explicitly
 - [ ] Research each planned venue's physical access before booking, not after
 - [ ] Choose accommodation with genuine ground-floor access — don't trust "accessible" without verifying
 - [ ] Plan at least one free day in the itinerary with no mandatory distances
@@ -76,7 +76,7 @@ Plan French Quarter time in the morning before crowds build. Focus on the iconic
 
 The most practical option for mobility-limited guests. Uber and Lyft both have accessible vehicle options (WAV — wheelchair accessible vehicle) in New Orleans, though availability can be inconsistent. Book with advance notice when possible.
 
-**For the group:** Rideshare works well when you're moving smaller sub-groups. For the whole group of 20+, you're looking at multiple vehicles regardless.
+**For the group:** Rideshare works well when you're moving smaller sub-groups. Once the whole crew is traveling together, you're looking at multiple vehicles regardless — the [transportation guide](/guides/transportation-guide/) covers the general logistics of moving a large group around the city.
 
 ### Streetcars
 
@@ -88,7 +88,7 @@ The **Rampart-St. Claude line** has some accessible stops but is less central to
 
 ### Private Transportation
 
-For groups of 15–30 with mobility considerations, booking a private van or small charter bus is often the best solution. Look for ADA-compliant vehicles with lifts. This isn't budget transportation, but it solves the "how do we all get there together" problem while accommodating equipment.
+Once a group with mobility considerations goes past a couple of rideshares' worth of people, booking a private van or small charter bus is often the best solution. Look for ADA-compliant vehicles with lifts. This isn't budget transportation, but it solves the "how do we all get there together" problem while accommodating equipment.
 
 ### Pedicabs
 
@@ -130,11 +130,13 @@ The group dynamic question: when one guest has significant mobility limitations,
 - What does pool entry look like — steps with rails, or shallow entry?
 - Is the property on a flat section of street?
 
-### Properties Worth Investigating
+### What to Look For, Across the Field
 
-**Castleday Retreats** in the Bywater offers three private villas — The Herald, The Cocodrie, and The Florentine — each sleeping up to 30 guests. Contact them directly with your specific access requirements. Villa properties of this scale often have configurations that work for mixed-ability groups, and the team can speak to which villa best meets your needs. Having your entire group of 20–30 in one property with a private pool and full kitchen eliminates much of the external logistics that tire mobility-limited guests.
+New Orleans has a genuinely deep villa market to draw from for this — this isn't a two-property search. Whichever property you're considering, verify the specifics above directly rather than trusting a listing description.
 
-**The Syd** in the Lower Garden District offers multiple villas up to 22 guests each, designed by local artists, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar line. Contact them with your specifics — the Lower Garden District is one of the flatter, more accessible neighborhoods in the city, and having your home base here simplifies transportation for the whole group.
+**Editorial examples of what's out there:** properties like Castleday Retreats (private [Bywater](/neighborhoods/bywater/) villas, each with its own pool) are worth checking for ground-floor bedroom counts and step-free entry — villa properties at this scale often have at least one configuration that works for a mixed-ability group. The Syd ([Lower Garden District](/neighborhoods/lower-garden-district/), shared heated pool and hot tub, one block from the St. Charles streetcar) sits in one of the flatter, more accessible neighborhoods in the city, which simplifies transportation for the whole group even before you get into the unit itself. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look if you need to compare several ground-floor layouts quickly. For guests who want the regulatory certainty of an ADA-compliant room alongside the group's villa, a nearby hotel block gives them that option without splitting the group across the city.
+
+None of these is a recommendation over the others — verify the access details against your specific guests' needs before booking any of them.
 
 ---
 
@@ -144,22 +146,22 @@ The group dynamic question: when one guest has significant mobility limitations,
 
 | Activity | Why It Works |
 |----------|-------------|
-| Swamp boat tours | Flat boat entry; most operators have accessible boarding |
+| [Swamp boat tours](/guides/nola-swamp-tour-guide/) | Flat boat entry; most operators have accessible boarding |
 | New Orleans Museum of Art (NOMA) | Fully accessible; Sculpture Garden is paved |
-| Aquarium of the Americas | Fully accessible; excellent for all ages |
-| Cooking class at a local kitchen | Usually in accessible commercial spaces |
+| [Aquarium of the Americas](/guides/nola-group-audubon-zoo-aquarium-guide/) | Fully accessible; excellent for all ages |
+| [Cooking class](/guides/nola-cooking-class-guide/) at a local kitchen | Usually in accessible commercial spaces |
 | Steamboat Natchez | Accessible boarding ramp; flat boat deck |
-| City Park | Flat paved paths; Botanical Garden is accessible |
+| [City Park](/guides/nola-group-mid-city-city-park-full-day-guide/) | Flat paved paths; Botanical Garden is accessible |
 | Riverwalk shopping center | Flat, indoor, accessible throughout |
-| Private second line with brass band | You set the route and pace |
+| [Private second line](/guides/nola-group-private-second-line-vs-public-guide/) with brass band | You set the route and pace |
 
 ### Harder Activities to Plan Around
 
 | Activity | The Challenge | Workaround |
 |----------|---------------|------------|
 | Walking tours of French Quarter | Cobblestones, long distances | Book private tour, choose accessible route |
-| Cemetery tours | Uneven gravel and grass paths | Ask about St. Louis Cemetery #1 street-level routes |
-| Frenchmen Street nightlife | Narrow venues, crowds | Early evening, fewer people, pick flat-floor venues |
+| [Cemetery tours](/guides/nola-group-cemetery-tour-guide/) | Uneven gravel and grass paths | Ask about St. Louis Cemetery #1 street-level routes |
+| [Frenchmen Street](/guides/live-music-guide/) nightlife | Narrow venues, crowds | Early evening, fewer people, pick flat-floor venues |
 | Garden District walking tour | Long route, some uneven sidewalks | Golf cart tours exist; shorter route version |
 | Streetcar St. Charles | No accessibility equipment | Uber instead; same scenery from the street |
 
@@ -244,10 +246,8 @@ Know before you plan how far your guests can comfortably walk. A 10,000-step day
 
 ## Where to Stay
 
-For mixed-ability large groups, both properties below offer the one-villa model that keeps everyone together and eliminates the hotel hallway/elevator logistics that complicate mixed-ability travel.
+For mixed-ability large groups, the one-villa model — the whole group under one roof, no hallways or elevators to navigate for daily movement — is usually the better starting point than scattering across hotel rooms. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that comparison in general; for accessibility specifically, verify ground-floor bedroom counts, entry steps, and shower access directly with the property before booking. Don't guess, and don't trust a listing description alone.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pool, full kitchen, all-private. Contact directly to discuss which villa best accommodates your group's specific needs — these are substantial properties and the team can speak to ground-floor layout and access details.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, designed by local New Orleans artists. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Lower Garden District is one of the flatter, more accessible neighborhoods in the city, with good transportation connections.
-
-For both properties: contact them with your specific access requirements before booking. Don't guess. A two-minute conversation with the property manager will tell you whether the layout works for your group.
+[See where to stay for large groups →](/where-to-stay/)
