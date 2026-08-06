@@ -19,7 +19,7 @@ events:
   confidence: exact
 - name: Red Dress Run
   slug: red-dress-run
-  location: French Quarter / Marigny
+  location: Starts at Crescent Park (moved for 2026; previously French Quarter / Marigny)
   start: '2026-08-08'
   end: '2026-08-08'
   confidence: typical
