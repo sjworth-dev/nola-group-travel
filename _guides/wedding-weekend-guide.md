@@ -4,18 +4,18 @@ description: "Full wedding weekend planning for large out-of-town groups: rehear
 category: "Weddings & Celebrations"
 card_title: "Wedding Weekend Guide"
 card_description: "Rehearsal dinners, welcome parties, day-of transportation, brunch. Four days with 30 guests, done right."
-date: 2026-05-26
+date: 2026-08-06
 ---
 
 A New Orleans wedding isn't just a ceremony with a reception. It's a four-day production. People fly in from everywhere. They want to see the city. They want to eat the food. They want to understand why you picked here. And they're counting on you to make it make sense.
 
 The couples who get this right figure out early that the wedding itself is one event among many. The welcome party, the rehearsal dinner, the day-after brunch, the moments when guests are left to their own devices — all of it adds up to an experience that either works or doesn't.
 
-This guide is for the couple planning the wedding and the group trying to navigate it. Four days, 10 to 30 guests, maximum experience.
+This guide is for the couple planning the wedding and the group trying to navigate it. Four days, the whole guest list, maximum experience.
 
 ## Quick Checklist
 
-- [ ] Book group accommodations at least 8–12 months out — large private rentals in NOLA fill up fast for wedding weekends
+- [ ] Book group accommodations early — for the largest selection, book 6+ months out; large private rentals go first for wedding weekends
 - [ ] Choose a neighborhood base that makes sense for your wedding venue
 - [ ] Plan the welcome party separately from the rehearsal dinner
 - [ ] Reserve group transportation for the wedding day and the days around it
@@ -52,7 +52,7 @@ Keep it low-key. It's not the wedding. It doesn't need a DJ, a seating chart, or
 
 **The rental house party.** If your group is staying in a private villa with a pool and outdoor kitchen, this is the easiest choice. Private chef, yard, pool, low-cost, relaxed. Nobody has to Uber anywhere. The evening unfolds at whatever pace it wants.
 
-**A private dining room.** Most large New Orleans restaurants have private event spaces. A welcome dinner for 20–30 people in a semi-private room works well if you want a proper restaurant experience without it feeling like the wedding.
+**A private dining room.** Most large New Orleans restaurants have private event spaces. A welcome dinner for the full guest list in a semi-private room works well if you want a proper restaurant experience without it feeling like the wedding.
 
 **A rented bar or event space.** Some bars and smaller venues rent out their space for private events on weeknights. This works especially well if your guest group skews toward wanting a fun, casual welcome event with a bar feel rather than a dinner feel.
 
@@ -88,7 +88,7 @@ Assign this job to a non-couple point person before the wedding day — the [wed
 
 **Transportation:**
 
-For groups of 15+, charter transportation for the wedding day is not optional — it's how you keep guests together, on time, and sober. Options in NOLA:
+Once the guest list hits double digits, charter transportation for the wedding day is not optional — it's how you keep guests together, on time, and sober. Options in NOLA:
 
 | Option | Capacity | Best For |
 |--------|----------|---------|
@@ -173,23 +173,20 @@ Where you base your group matters. New Orleans wedding venues are spread across 
 
 ## Where to Stay: The Wedding Group Accommodation Challenge
 
-This is the defining challenge of a large wedding weekend. You need enough capacity to house 20–30 people in close proximity without everyone being scattered across the city.
+This is the defining challenge of a large wedding weekend. You need enough capacity to house the full guest list in close proximity without everyone being scattered across the city.
 
-Hotels work for couples; they fail for groups. When 30 people are in 15 different rooms across two hotels, the group never actually gathers. The energy of the weekend fragments into individual experiences instead of a shared one.
+Hotels work for couples; they struggle for groups. When guests are spread across 15 rooms in two different hotels, the group never actually gathers. The energy of the weekend fragments into individual experiences instead of a shared one.
 
-The right answer for large wedding weekends is one or two private villas where the group can gather, cook breakfast, debrief over coffee, and feel like they're actually in this together.
+The right answer for large wedding weekends is a base that lets the group gather, cook breakfast, debrief over coffee, and feel like they're actually in this together — and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through that comparison in more depth than a single section can.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine can be booked individually or together. The Herald has the best large common areas for welcome parties and group gatherings. The Cocodrie has the best pool and outdoor space for warm-weather events. The Florentine is the most elegant interior — good for a couple who wants a beautiful space to wake up in on their wedding morning. Private pools at each villa mean guests have something to do all day Thursday and Friday that doesn't require logistics.
+**Editorial examples of what that looks like, across the field:** properties like Castleday Retreats (private Bywater villas, each with its own pool, organizer-friendly around the mid-teens per villa and up to 30 at full capacity) suit a group that wants total privacy for the whole run of the weekend. The Syd (Lower Garden District, up to 22 per villa, shared heated pool and hot tub, one block from the St. Charles Streetcar) suits a group whose venue is near Garden District or Magazine Street. Heirloom's deep bench of large-format homes across the Lower Garden District and Central City is worth checking if a wedding date needs short-notice availability. The Mazant, a single historic Bywater guesthouse sleeping up to 18 with its own pool and spa, fits a smaller wedding party that wants one distinctive house. For guests who'd rather keep separate bills and keys, a hotel room block — The Roosevelt, Hotel Peter & Paul, Hotel Saint Vincent — covers mixed budgets and out-of-town family who want a standard hotel stay.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen make it easy to gather the group without organizing an event. One block from the St. Charles Streetcar — which means guests can get anywhere in the city without Ubers. The Lower Garden District location is close to most Garden District and Magazine Street wedding venues, making transportation logistics simpler.
-
-For a wedding with 25–30 guests: booking two villas at Castleday (or one large Castleday villa plus The Syd for overflow) handles the group while keeping everyone in the same neighborhood. Both properties are experienced hosting wedding groups — they understand the flow of a multi-day event.
+For a wedding whose guest list runs large, splitting across two properties in the same neighborhood — a villa for the wedding party plus a hotel block for extended family — often works better than trying to force everyone under one roof. None of the properties above is a recommendation over the others; pick by fit, not by name.
 
 ---
 
 ## Book Your Wedding Weekend
 
-The accommodation is the thing to lock in first. Everything else — rehearsal dinner reservations, transportation, activity planning — follows from where your group is based.
+The accommodation is the thing to lock in first. Everything else — rehearsal dinner reservations, transportation, activity planning — follows from where your group is based. For the largest selection, book 6+ months out.
 
-- Castleday Retreats — Bywater, three villas up to 30 guests each, private pools, perfect for the full wedding group
-- The Syd — Lower Garden District, multiple villas up to 22 guests, shared pool and hot tub, St. Charles Streetcar access
+[See where to stay for large groups →](/where-to-stay/)
