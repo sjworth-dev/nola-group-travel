@@ -1,10 +1,10 @@
 ---
 title: "Bachelorette Day-Drinking Itinerary: Hour by Hour"
-description: "Hour-by-hour day-drinking itinerary for bachelorette groups of 12-20 in New Orleans — Bloody Mary brunch, afternoon outdoor bar, the signature drink stop, French Quarter timing, and how to pace for a full night after."
+description: "Hour-by-hour day-drinking itinerary for a big bachelorette group in New Orleans — Bloody Mary brunch, afternoon outdoor bar, the signature drink stop, French Quarter timing, and how to pace for a full night after."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Day Drinking Itinerary"
-card_description: "Hour-by-hour itinerary for 12-20 women: Bloody Mary brunch to Frenchmen Street, timed for a full night at the end."
-date: 2026-05-31
+card_description: "Hour-by-hour itinerary for the whole crew: Bloody Mary brunch to Frenchmen Street, timed for a full night at the end."
+date: 2026-08-07
 ---
 
 The bachelorette day-drinking day is its own art form. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal: full energy at 10pm when the real night starts.
@@ -17,7 +17,7 @@ The times below assume a 10:30am start. Shift everything forward by an hour if y
 
 ## Quick Checklist
 
-- [ ] Book brunch at least 3-4 days in advance for groups of 12+
+- [ ] Book brunch at least 3-4 days in advance for a big group
 - [ ] Confirm everyone's hotel/villa checkout time vs. this schedule
 - [ ] Assign someone to carry the group's sunscreen and cash tips
 - [ ] Designate the "we're moving" person for each stop
@@ -45,13 +45,13 @@ Everyone gathers at the villa. This is not optional: the group needs to start to
 
 ### 10:30am — Bloody Mary Brunch (90 minutes)
 
-The anchor of the day. This is a real meal, not a beverage stop.
+The anchor of the day. This is a real meal, not a beverage stop — the [brunch guide](/guides/nola-brunch-guide/) covers how to book and pace a big-group brunch beyond just this stop.
 
 **What you're looking for in a brunch spot:**
 
 | Must-Have | Why |
 |-----------|-----|
-| Takes reservations for 12-20 | Non-negotiable for groups |
+| Takes reservations for a big group | Non-negotiable for groups |
 | Full kitchen menu | You're eating a real meal |
 | Good Bloody Mary program | This is New Orleans — they exist everywhere |
 | Doesn't rush large parties | You're here for 90 minutes |
@@ -70,7 +70,7 @@ The anchor of the day. This is a real meal, not a beverage stop.
 
 ### 12:15pm — Walk to the First Afternoon Bar (15-minute walk or one Uber)
 
-If you're in the Bywater or Marigny, you're walking. The neighborhoods are flat, walkable, and the walk is part of the experience. Walk-around cups are legal in New Orleans — you can take a Bloody Mary from brunch with you if the restaurant allows it.
+If you're in the [Bywater](/neighborhoods/bywater/) or Marigny, you're walking. The neighborhoods are flat, walkable, and the walk is part of the experience. Walk-around cups are legal in New Orleans — you can take a Bloody Mary from brunch with you if the restaurant allows it.
 
 Use the walk to let the brunch digest, take photos on the street art and colorful house fronts, and let the day's energy settle in.
 
@@ -153,7 +153,7 @@ The reset. The most important stop of the day.
 
 **Non-negotiable logistics for bachelorette dinner:**
 
-- Reservation confirmed for your group size (12-20 is a big dinner party — many restaurants cap at 15-18 for a single table)
+- Reservation confirmed for your group size (a bachelorette dinner this size is a big party — many restaurants cap at 15-18 for a single table)
 - Check if the restaurant allows outside dessert if you're planning a cake
 - Confirm the group's preferred payment method (one card, multiple cards, how the split works)
 
@@ -183,7 +183,7 @@ The villa rest hour is the secret weapon of the experienced bachelorette group.
 
 From here, the night is yours. The pacing has been right. You've eaten. You've rested.
 
-**Frenchmen Street is the move:** Three blocks of live music venues, most with no cover, outdoor areas, mixed local and tourist crowd. Walk from venue to venue, follow the music you like.
+**Frenchmen Street is the move:** Three blocks of live music venues, most with no cover, outdoor areas, mixed local and tourist crowd. Walk from venue to venue, follow the music you like — the [live music guide](/guides/live-music-guide/) breaks down which rooms fit a big group without a reservation.
 
 **For groups that want higher energy:** The Marigny has several bars that run later and louder. The French Quarter is always there if anyone needs to experience Bourbon Street.
 
@@ -203,7 +203,7 @@ From here, the night is yours. The pacing has been right. You've eaten. You've r
 | 8:00pm (villa rest) | 9.5 | 7-9 | Reset happening |
 | 9:30pm (night starts) | 11 | 8-10+ | Ready |
 
-This is a managed pace. Not restrictive — ambitious. The goal is 10pm energy, not 6pm energy.
+This is a managed pace. Not restrictive — ambitious. The goal is 10pm energy, not 6pm energy. The [day-drinking guide](/guides/nola-day-drinking-guide/) covers the same pacing principles for groups that aren't specifically a bachelorette trip.
 
 ---
 
@@ -251,19 +251,12 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 
 ---
 
-## Where to Stay for the Ultimate Bachelorette Base Camp
+## For a Big Group
 
-A villa is the only accommodation that supports a day-drinking day properly. Hotel rooms mean a lobby return between stops. A villa means a pool, a kitchen, a place to land between phases.
+A villa works better than a hotel room block for a day-drinking day like this one. Hotel rooms mean a lobby return between stops; a villa means a pool, a kitchen, and a place to land between phases — including the villa rest hour, which is most of the point.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools at each villa, full kitchens, local art throughout, complete privacy. The Bywater location is the ideal bachelorette neighborhood: walkable, scenic, 10 minutes from Frenchmen Street, 15 minutes from the French Quarter. Bacchanal Wine is 5 minutes away on foot. The Florentine villa in particular is designed for groups who want an elegant aesthetic.
+The Bywater puts you within walking distance of brunch, the afternoon bar, and Frenchmen Street, which is why it's the neighborhood this itinerary is built around — see the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) for a version built entirely around that base. Bywater villas like the ones Castleday Retreats runs put everyone in a real bed rather than a bunk (the math works out around 16 people per villa comfortably, with room to stretch to a full crew across the three). The Lower Garden District is the other common base: villas like The Syd sit a block from the St. Charles Streetcar, which covers the CBD, French Quarter, and Frenchmen in under 15 minutes if your group wants to range further during the day. Neither is a recommendation over the other — pick by how much ground you want to cover on foot versus by streetcar.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Every room designed by a local New Orleans artist. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which connects to the CBD, the French Quarter, and Frenchmen in under 15 minutes. Great option if your group wants to cover a broader territory during the day.
+For the largest selection, book 6+ months out.
 
-Both properties make the villa rest hour actually restorative — you're coming back to a beautiful space, not a generic hotel room.
-
----
-
-## Plan the Bachelorette Trip
-
-- Castleday Retreats — Bywater, private villas up to 30, private pools
-- The Syd — Lower Garden District, artist-designed villas, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
