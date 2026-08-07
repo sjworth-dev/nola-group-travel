@@ -4,7 +4,7 @@ description: "Ghost tours, cemeteries, voodoo history, and haunted bars: the rea
 category: "Activities & Day Trips"
 card_title: "Haunted History Guide"
 card_description: "Real history behind the legends: cemeteries, voodoo, haunted bars, and ghost tours worth doing."
-date: 2026-05-26
+date: 2026-08-07
 ---
 
 New Orleans has been performing death for tourists since tourists first arrived. You can book a ghost tour every night of the week on every block of Bourbon Street. Most of them are the same: a guide in a cape reads Wikipedia articles about haunted buildings while drunk visitors take photos of an old house.
@@ -39,7 +39,7 @@ The oldest active cemetery in New Orleans, established in 1789. This is the one 
 
 **What you need to know:** St. Louis Cemetery No. 1 is no longer open for independent visiting. You must enter with a licensed guide from a tour organization that has permission. This is a direct consequence of visitor damage and vandalism — including the defacing of what was long believed to be Marie Laveau's tomb. The [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) covers how to book a private group tour and which cemeteries suit a large group best.
 
-**For large groups:** Tours of No. 1 run with capacity limits. For groups of 15+, you may need to book multiple tour slots or arrange a private group tour. Contact tour operators directly to understand the logistics.
+**For large groups:** Tours of No. 1 run with capacity limits. Once the trip goes double-digit, you may need to book multiple tour slots or arrange a private group tour. Contact tour operators directly to understand the logistics.
 
 **What you'll see:** The Laveau family tomb. Some of the oldest burial structures in North America. A genuinely dense concentration of history in a small area. The guide quality matters enormously here — the best guides give historical context; the worst do the cable TV ghost story version.
 
@@ -130,7 +130,7 @@ If your group wants a guided ghost tour experience, not all operators are equal.
 | Haunted bar tour | Stops at several historic bars | Doubles as a bar crawl; good for larger groups |
 | Garden District ghost walk | Covers Lafayette Cemetery and mansions | Good complement to a daytime Garden District visit |
 
-**For groups of 15+:** Private ghost tours are the better option over joining a public tour. You control the pace, the guide focuses on your group's questions, and you avoid the situation of 25 people trying to hear a single guide on a crowded French Quarter sidewalk at 9pm.
+**For the whole crew:** Private ghost tours are the better option over joining a public tour. You control the pace, the guide focuses on your group's questions, and you avoid the situation of 25 people trying to hear a single guide on a crowded French Quarter sidewalk at 9pm.
 
 ---
 
@@ -168,7 +168,7 @@ The historical record is more disturbing and more interesting than any ghost sto
 
 6. **The macabre history is better understood after two or three days in the city.** The first day in New Orleans, the ghost tour context doesn't land the same way. On day three, having walked the neighborhoods, heard the music, and started to understand the city's relationship with celebration and death — then the cemetery visit means something. Schedule it later in the trip.
 
-7. **Private tours are worth the premium for groups of 15+.** The per-person cost difference between a private tour and joining a public tour is not that large when you divide it across a big group. The quality difference is significant.
+7. **Private tours are worth the premium once the group is big enough to matter.** The per-person cost difference between a private tour and joining a public tour is not that large when you divide it across a big group. The quality difference is significant.
 
 ---
 
