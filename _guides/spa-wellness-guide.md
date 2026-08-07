@@ -4,7 +4,7 @@ description: "Spa, wellness, and recovery options for large groups in New Orlean
 category: "Activities & Day Trips"
 card_title: "Spa & Wellness Guide"
 card_description: "Recovery days, group spa bookings, yoga, float tanks, and how to decompress in New Orleans."
-date: 2026-05-26
+date: 2026-08-07
 ---
 
 Every great NOLA group trip needs a recovery day. This is not a weakness. It's planning.
@@ -178,7 +178,7 @@ On a five-night trip: you may need two recovery cycles, usually around day three
 
 5. **Don't try to combine the spa and Bourbon Street on the same day.** A wellness day and a going-out day are different trips. Mixing them means doing neither well.
 
-6. **The best recovery activity for a group of 20+ is often nothing at all.** Tell people where you'll be (the pool), leave the schedule open, and let people self-organize. The organic version of a recovery day — people coming and going, some napping, some walking, a few heading out for coffee — is often more restorative than a structured program.
+6. **The best recovery activity for a big group is often nothing at all.** Tell people where you'll be (the pool), leave the schedule open, and let people self-organize. The organic version of a recovery day — people coming and going, some napping, some walking, a few heading out for coffee — is often more restorative than a structured program.
 
 7. **A good massage is hard to find on short notice in a tourist city.** Book your appointments before the trip, especially if you're here during [Mardi Gras](/guides/mardi-gras-group-guide/), [Jazz Fest](/guides/jazz-fest-group-guide/), or [Essence Festival](/guides/essence-festival/). Every spa in the city is booked solid during major events.
 
