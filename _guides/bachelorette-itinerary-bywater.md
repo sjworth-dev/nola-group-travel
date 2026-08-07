@@ -1,17 +1,17 @@
 ---
 title: "Bywater Bachelorette: The Alternative to Bourbon Street"
-description: "A Bywater-specific bachelorette itinerary for groups of 10-25. Bacchanal Wine, the neighborhood bar scene, vintage shopping, and why basing in the Bywater beats the French Quarter."
+description: "A Bywater-specific bachelorette itinerary for the whole crew. Bacchanal Wine, the neighborhood bar scene, vintage shopping, and why basing in the Bywater beats the French Quarter."
 category: "Bachelorette & Bachelor"
 card_title: "Bywater Bachelorette Itinerary"
 card_description: "Skip Bourbon Street. The Bywater bachelorette—Bacchanal, the neighborhood bar scene, vintage shopping, and your own private pool."
 date: 2026-05-29
 ---
 
-Every New Orleans bachelorette group faces the same question around Day 2: why does this feel so much better than Bourbon Street?
+Every New Orleans [bachelorette](/guides/bachelorette-party/) group faces the same question around Day 2: why does this feel so much better than Bourbon Street?
 
 The Bywater is why. And if you base your trip here from the start, you skip the why-did-we-go-to-Bourbon-Street regret entirely.
 
-The Bywater is a real neighborhood — artists, locals, excellent food, outdoor bars, and a vibe that feels genuinely New Orleans rather than Vegas-on-the-Mississippi. For groups of 10-25 who want a bachelorette trip that's actually fun rather than just loud, it's the right call.
+The [Bywater](/neighborhoods/bywater/) is a real neighborhood — artists, locals, excellent food, outdoor bars, and a vibe that feels genuinely New Orleans rather than Vegas-on-the-Mississippi. For a group that wants a bachelorette trip that's actually fun rather than just loud, it's the right call.
 
 ## Quick Planning Checklist
 
@@ -102,7 +102,7 @@ For a Bywater bachelorette, Frenchmen Street is your nightlife home base. You'll
 **11 AM–1 PM: Brunch**
 Pick one:
 - In-house: make it a production. Mimosas, fruit, something from the grill.
-- Out: **Satsuma Café** (fresh juice, avocado toast, neighborhood crowd) or **Cake Café** (small, excellent, local favorite)
+- Out: **Satsuma Café** (fresh juice, avocado toast, neighborhood crowd) or **Cake Café** (small, excellent, local favorite) — the [brunch guide](/guides/nola-brunch-guide/) has more options if you want a bigger production
 
 **1–4 PM: The Afternoon Activity**
 Pick exactly one from this list:
@@ -110,9 +110,9 @@ Pick exactly one from this list:
 | Activity | Vibe | Duration | Book Ahead? |
 |----------|------|----------|-------------|
 | Magazine Street vintage/boutique shopping | Leisurely, fun | 2-3 hours | No |
-| Cocktail-making class | Interactive, boozy | 2 hours | Yes, 2+ weeks |
-| Swamp tour | Adventurous, memorable | 3 hours + transport | Yes |
-| Garden District walking tour | Scenic, easy | 1.5 hours | No |
+| [Cocktail-making class](/guides/nola-cocktail-class-guide/) | Interactive, boozy | 2 hours | Yes, 2+ weeks |
+| [Swamp tour](/guides/nola-swamp-tour-guide/) | Adventurous, memorable | 3 hours + transport | Yes |
+| [Garden District](/neighborhoods/garden-district/) walking tour | Scenic, easy | 1.5 hours | No |
 | Spa / mani-pedis | Pampering | 2-3 hours | Yes, 2+ weeks |
 | Bayou St. John kayak | Active, scenic | 2 hours | Yes |
 
@@ -135,7 +135,7 @@ Bywater-area options (walk or short Uber):
 
 Call ahead and ask about large group seating or private room options regardless of which you pick.
 
-**9:30 PM–Late: Frenchmen Street**
+**9:30 PM–Late: [Frenchmen Street](/guides/live-music-guide/)**
 Walk over as a group. Split up by music preference if people want — the three main clubs are within a block of each other.
 
 Start at d.b.a., move to The Spotted Cat around 11 PM, end at Maison if the group has legs.
@@ -197,7 +197,7 @@ For a Bywater bachelorette group, an Uber to the Uptown end of Magazine Street a
 
 ## What to Skip
 
-**Bourbon Street at Night** — Walk through once for the cultural experience. Don't spend the evening there. It's expensive, crowded, and not what New Orleans music actually sounds like.
+**Bourbon Street at Night** — Walk through once for the cultural experience. Don't spend the evening there. It's expensive, crowded, and not what New Orleans music actually sounds like — the [Bourbon Street guide](/guides/nola-bourbon-street-guide/) covers the hour it's actually worth.
 
 **Crawfish places on Bourbon** — Tourist markup, worse quality than anywhere in the Bywater.
 
@@ -225,25 +225,12 @@ For a Bywater bachelorette group, an Uber to the Uptown end of Magazine Street a
 
 ---
 
-## Where to Stay: The Bywater Advantage
+## For a Big Group
 
-For a Bywater bachelorette, you want to be in the Bywater. Full stop.
+For a Bywater bachelorette, the neighborhood matters more than any single amenity — but the private pool is what the whole itinerary above is structured around. A hotel room doesn't give you a shared space to gather, a kitchen for the house-brunch mornings, or a pool for the sacred recovery hour.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pool at each villa, full kitchens, art-filled interiors. This is the property built for exactly this trip. You're walking distance from Bacchanal Wine, a 10-minute walk to Frenchmen Street, and in the most interesting neighborhood in New Orleans. The private pool is what the whole trip is structured around.
+**Editorial examples of what fits:** properties like Castleday Retreats (private-pool Bywater villas, full kitchens) put a group within walking distance of Bacchanal Wine and a 10-minute walk to [Frenchmen Street](/guides/live-music-guide/). If the [Lower Garden District](/neighborhoods/lower-garden-district/) near Magazine Street and the St. Charles Streetcar is a better fit for your group, The Syd offers a shared heated pool and hot tub one block from the streetcar line. Neither is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room block for a group this size.
 
-- **The Herald** — Largest common areas; best if your group wants a big gathering space
-- **The Cocodrie** — Best outdoor space and pool; great for groups who want to spend maximum time outside
-- **The Florentine** — Most elegant design; the "fancy" pick if the bride cares about aesthetics
+For the largest selection, book 6+ months out.
 
-If your group is 22 or under and you'd rather be in the Lower Garden District near Magazine Street and the St. Charles Streetcar, **The Syd** is the move. Multiple villas sleeping up to 22, shared heated pool and hot tub, artist-designed interiors. One block from the streetcar line.
-
-For the Bywater bachelorette specifically, Castleday is the answer.
-
----
-
-## Book It
-
-The private villa is what makes this trip work. Book it before you do anything else.
-
-- Castleday Retreats — Bywater, private pools, up to 30 per villa, the home base this trip deserves
-- The Syd — Lower Garden District, shared pool/hot tub, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
