@@ -4,12 +4,12 @@ description: "The real New Orleans music venues beyond Frenchmen Street: Tipitin
 category: "Nightlife & Music"
 card_title: "Music Venues Guide"
 card_description: "Tipitina's, Preservation Hall, Maple Leaf, Rock 'n' Bowl, Snug Harbor, Howlin' Wolf. Where the music actually lives."
-date: 2026-05-27
+date: 2026-08-08
 ---
 
-Every first-time group trip to New Orleans finds Frenchmen Street. That's fine. Frenchmen Street is legitimate — three blocks of real music, no cover at most places, jazz and brass every night.
+Every first-time group trip to New Orleans finds Frenchmen Street. That's fine. Frenchmen Street is legitimate — three blocks of real music, no cover at most places, jazz and brass every night. The [live music guide](/guides/live-music-guide/) covers that stretch venue by venue.
 
-But New Orleans has a full ecosystem of music venues, each with its own character, history, and logistics. Groups that dig deeper than Frenchmen Street find things that become the stories they tell about this city for the rest of their lives.
+But New Orleans has a full ecosystem of music venues, each with its own character, history, and logistics. Groups that dig deeper than Frenchmen Street find things that become the stories they tell about this city for the rest of their lives. The [music history guide](/guides/music-history-guide/) covers where all of it comes from — Congo Square, the brass band tradition, the funk lineage — if you want the context behind the venues below.
 
 This guide covers the venues that matter, what they are, what they cost, how to get your group in, and how to string them together into a trip built around music.
 
@@ -17,8 +17,8 @@ This guide covers the venues that matter, what they are, what they cost, how to 
 
 - [ ] Check venue schedules before your trip — most venues post monthly calendars
 - [ ] Buy Tipitina's tickets in advance if there's a show you want
-- [ ] Book Preservation Hall (private show option for groups of 15+) weeks ahead
-- [ ] Rock 'n' Bowl lane reservations needed for groups of 10+
+- [ ] Book Preservation Hall (private show option once you're big enough to fill the room) weeks ahead
+- [ ] Rock 'n' Bowl lane reservations needed once the group hits double digits
 - [ ] Snug Harbor seat reservations recommended for sit-down jazz club experience
 - [ ] Maple Leaf Bar: no reservations, but arrive early on big nights
 - [ ] Budget tip money — $5–10 per person minimum per night
@@ -34,7 +34,7 @@ The most important venue in New Orleans. A small brick room in the French Quarte
 
 The house band rotates through some of the best traditional jazz players working today. Shows are approximately one hour. The room is small and authentic — exposed brick, dim lighting, a handful of long benches up front, standing room in the back.
 
-**For large groups:** Preservation Hall offers private shows booked before the general public doors open. This is genuinely worth it for groups of 15+. You get the hall to yourselves, a full band, and the experience on your terms. It books out — reach out months in advance for peak season dates.
+**For large groups:** Preservation Hall offers private shows booked before the general public doors open. This is genuinely worth it once your crew is big enough to fill the room. You get the hall to yourselves, a full band, and the experience on your terms. It books out — reach out months in advance for peak season dates.
 
 **Walk-in reality:** General admission has multiple tiers (standing, bench, front-of-line). On weekend nights, the line forms 30–45 minutes before show time. Account for this in your group planning.
 
@@ -43,7 +43,7 @@ The house band rotates through some of the best traditional jazz players working
 | General admission (standing) | Least expensive; arrive early |
 | Bench seating | Upgrade worth it for older guests |
 | Front-of-line pass | Skip the queue — worth it for large groups |
-| Private show | Full buyout; highest cost; best experience for 15+ |
+| Private show | Full buyout; highest cost; best once you can fill the room |
 
 ---
 
@@ -75,7 +75,7 @@ The room is large. The food is good. The music is legitimately excellent. The co
 
 Uptown, on Oak Street. One of the oldest bars in New Orleans — tiny, dark, with a tin ceiling and a back room that opens up when the music starts. The Rebirth Brass Band has played its Tuesday night residency here for decades. That's not an exaggeration: for decades.
 
-**The Rebirth Brass Band at Maple Leaf:** If you can get your group to Oak Street on a Tuesday, this is one of the most reliable great nights in the city. The room fills up. The brass band plays. People dance. Nobody leaves early.
+**The Rebirth Brass Band at Maple Leaf:** If you can get your group to Oak Street on a Tuesday, this is one of the most reliable great nights in the city. The room fills up. The brass band plays. People dance. Nobody leaves early. If your group wants that energy on its own schedule, the [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers booking one for a private second line instead.
 
 **For large groups:** The Maple Leaf is small. You need to arrive before 9pm on Tuesday nights to get positioned. A group of 20 arriving at 10pm will struggle. A group of 20 arriving at 8:30pm, ordering early, and getting the back room area staked out — that works.
 
@@ -109,7 +109,7 @@ CBD, close to the Convention Center. A mid-size music venue with a legitimate na
 
 | Venue | Music Type | Typical Cost | Group Notes |
 |-------|-----------|-------------|------------|
-| Preservation Hall | Traditional jazz | $20–35 general; private show higher | Book private show for groups 15+ |
+| Preservation Hall | Traditional jazz | $20–35 general; private show higher | Book a private show once you can fill the room |
 | Tipitina's | Mixed: NOLA legends, touring acts | $15–35 per show | Buy tickets in advance |
 | Rock 'n' Bowl | Cajun, zydeco | $10–20 cover + bowling | Reserve lanes; excellent for mixed groups |
 | Maple Leaf Bar | Brass band, funk, jazz | Free–$15 | Arrive early on Tuesday Rebirth nights |
@@ -141,7 +141,9 @@ Add Rock 'n' Bowl for one night (aim for Sunday) and Snug Harbor for the formal 
 
 New Orleans doesn't confine music to venues. It's everywhere.
 
-- **Sunday second line parades:** Social Aid and Pleasure Club parades run September through June, almost every Sunday. Free to attend. Neighborhoods are posted online. Following a second line is one of the most distinctly New Orleans experiences you can have.
+- **Sunday second line parades:** Social Aid and Pleasure Club parades run September through June, almost every Sunday. Free to attend. Neighborhoods are posted online. Following a second line is one of the most distinctly New Orleans experiences you can have — the [second line guide](/guides/second-line-guide/) covers etiquette and how to actually find one.
+
+- **Jazz Fest:** Late April into early May, seven stages, and more live music per square foot than anywhere else in the city for two weekends a year. If your trip lands during it, the [Jazz Fest group guide](/guides/jazz-fest-group-guide/) is worth reading before you build an itinerary around anything else.
 
 - **Bacchanal Wine:** Bywater wine garden with live jazz most evenings. Free admission. Outdoor seating, excellent food from the kitchen. Not a venue in the traditional sense — more like a perfect afternoon-into-evening.
 
@@ -173,31 +175,24 @@ Twenty people at a music venue is genuinely logistically harder than two people.
 
 2. **The Tuesday Rebirth Brass Band at Maple Leaf is one of the best music nights in the city, full stop.** If your trip includes a Tuesday, you should be at Oak Street.
 
-3. **Preservation Hall's private show is worth every dollar for groups of 15+.** The general admission experience is also excellent, but having the hall to yourselves is different. It's intimate and theatrical in a way that the standard show can't match.
+3. **Preservation Hall's private show is worth every dollar once your crew can fill the room.** The general admission experience is also excellent, but having the hall to yourselves is different. It's intimate and theatrical in a way that the standard show can't match.
 
 4. **Rock 'n' Bowl is consistently underestimated by first-timers.** It sounds like a gimmick. It isn't. It's a full Cajun dance hall inside a bowling alley, with serious food and serious music. Your group will talk about it afterward.
 
 5. **Snug Harbor is the move for groups who want to listen, not just be around music.** There's a difference between being at a music bar and actually experiencing a jazz set. Snug Harbor is where you experience it.
 
-6. **Tip every time, at every stop.** Consolidate the tip — one person collects from the group and tips collectively. This is faster, less awkward, and more generous than 20 people each fumbling for $1.
+6. **Tip every time, at every stop.** Consolidate the tip — one person collects from the group and tips collectively. This is faster, less awkward, and more generous than 20 people each fumbling for $1. The [live music tipping protocol guide](/guides/nola-group-live-music-tipping-protocol-guide/) covers how much and when.
 
 7. **Don't schedule four venues in one night.** Pick one or two. The temptation to optimize is real; the reality is you spend the night moving between venues and actually experiencing none of them.
 
 ---
 
-## Where to Stay: The Music Trip Base
+## For a Big Group
 
-The best music neighborhoods to stay in are the Bywater and the Marigny — walking distance to Frenchmen Street, 15 minutes to the French Quarter. The Lower Garden District puts you close to Tipitina's and Magazine Street.
+The best music neighborhoods to stay in are the [Bywater](/neighborhoods/bywater/) and the [Marigny](/neighborhoods/marigny/) — walking distance to Frenchmen Street, 15 minutes to the French Quarter. The [Lower Garden District](/neighborhoods/lower-garden-district/) puts you close to Tipitina's and Magazine Street.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts Frenchmen Street within walking distance — you leave the house when the music starts and walk home when it ends. No Ubers, no logistics. The Herald, The Cocodrie, and The Florentine each have the outdoor space for a proper pre-show gathering. Private pools for the next-morning recovery.
+**Editorial examples of what that looks like, not a recommendation:** Bywater villas like Castleday Retreats put a group within walking distance of Frenchmen Street — leave the house when the music starts, walk home when it ends, no Ubers involved. The Syd's villas, a block from the St. Charles Streetcar in the Lower Garden District, give a group direct access to Tipitina's uptown along with easy connections to the Quarter and Frenchmen Street. Hotel room blocks — properties like The Roosevelt or Hotel Peter & Paul — work for a group that wants separate keys and bills rather than one shared roof. Pick by proximity to the venues your group actually cares about; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the full tradeoff.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which gives you direct access to Tipitina's uptown and easy connections to the French Quarter and Frenchmen Street. The artist-designed interiors fit a city that takes music this seriously.
+For the largest selection, book 6+ months out.
 
-For a group where Frenchmen Street and Preservation Hall are the primary targets: Castleday's Bywater location is closer. For groups building a full-city music tour that includes Tipitina's and Magazine Street: The Syd's Lower Garden District location is the better anchor.
-
----
-
-## Book Your Music Trip
-
-- Castleday Retreats — Bywater, walking distance to Frenchmen Street, private villas up to 30 guests
-- The Syd — Lower Garden District, up to 22 guests, St. Charles Streetcar access, artist-designed villas
+[See where to stay for large groups →](/where-to-stay/)
