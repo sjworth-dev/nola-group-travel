@@ -4,7 +4,7 @@ description: "How to plan a New Orleans group trip that works for families with 
 category: "Friends & Family"
 card_title: "Families & Kids Guide"
 card_description: "Family reunions, multigenerational trips, and group travel with kids of all ages in New Orleans."
-date: 2026-05-26
+date: 2026-08-08
 ---
 
 New Orleans is an adult city. That's the honest version. The nightlife runs until dawn, the food is rich and spicy, and the French Quarter can feel overwhelming for anyone under 12 at peak hours.
@@ -47,10 +47,10 @@ Yes — with conditions.
 | Aquarium of the Americas | Downtown, strong exhibits, Gulf Coast focus; good for 2-3 hours |
 | City Park Storyland | Fairy-tale storybook characters in a children's amusement park; vintage, NOLA-specific, can't find anywhere else |
 | City Park carousel and amusements | Working antique carousel, mini train, rides |
+| Swamp tour (airboats or flat boats) | Alligators are universally exciting; most companies accommodate families |
+| Beignets at Café Du Monde | Powder sugar, outdoor café on the Mississippi — every kid loves this |
 
 The [Audubon Zoo and Aquarium guide](/guides/nola-group-audubon-zoo-aquarium-guide/) and the [City Park full-day guide](/guides/nola-group-mid-city-city-park-full-day-guide/) both go deeper on group logistics, hours, and how to structure a full day at either.
-| Swamp tour (aiboats or flat boats) | Alligators are universally exciting; most companies accommodate families |
-| Beignets at Café Du Monde | Powder sugar, outdoor café on the Mississippi — every kid loves this |
 
 ### Ages 9-13: Exploration and Learning
 
