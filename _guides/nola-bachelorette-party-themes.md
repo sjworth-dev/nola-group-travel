@@ -1,9 +1,9 @@
 ---
-title: "5 NOLA Bachelorette Party Themes for Groups of 10–25"
+title: "5 NOLA Bachelorette Party Themes for the Whole Crew"
 description: "Five complete bachelorette party theme concepts for New Orleans groups: the Southern Belle, the Jazz Age, the Pool Queen, the Witch/Voodoo, and the Classic NOLA — each with costume direction, venue list, activity schedule, and decoration logistics."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Party Themes"
-card_description: "Five complete NOLA bachelorette themes — costume direction, venues, schedule, and decor for groups of 10–25."
+card_description: "Five complete NOLA bachelorette themes — costume direction, venues, schedule, and decor for whatever your headcount looks like."
 date: 2026-06-02
 ---
 
@@ -11,7 +11,7 @@ New Orleans is the best city in the country for a bachelorette party. The food i
 
 The problem most groups run into: they arrive with a vague idea ("we want to be festive") rather than a full theme. A full theme changes the experience. It gives everyone direction, makes logistics easier, generates better photos, and creates a shared identity for the weekend that elevates every moment.
 
-These five themes are fully developed — costume direction, venue list, activity schedule, and decoration logistics. Pick the one that matches your bride, your group, and your budget.
+These five themes are fully developed — costume direction, venue list, activity schedule, and decoration logistics. Pick the one that matches your bride, your group, and your budget. If none of the five quite fits and you'd rather build a day-by-day plan from scratch, the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) and the [general bachelorette weekend guide](/guides/bachelorette-weekend/) both cover that ground.
 
 ---
 
@@ -20,7 +20,7 @@ These five themes are fully developed — costume direction, venue list, activit
 - [ ] Pick the theme at least 4 weeks out so everyone has time to assemble costumes
 - [ ] Designate one person as the logistics lead — the theme collapses without a coordinator
 - [ ] Book your villa or accommodation before finalizing the theme — the pool situation affects the Pool Queen theme significantly
-- [ ] Make at least two dinner reservations (one per night) — a bachelorette group of 15+ needs a reservation
+- [ ] Make at least two dinner reservations (one per night) — once the group goes double-digit, walk-ins aren't an option
 - [ ] Assign decoration responsibility to 2-3 people — don't let "we'll figure it out when we get there" happen
 - [ ] Build the schedule around the bride's priorities, not the group's. This is her weekend.
 - [ ] Pack sashes and matching accessories to ship to the rental ahead of arrival
@@ -29,7 +29,7 @@ These five themes are fully developed — costume direction, venue list, activit
 
 ## Theme 1: The Southern Belle
 
-**The concept:** Antebellum aesthetic filtered through irony, camp, and a full bar. Wide-brim hats, pastel sundresses, white gloves, and enough mint julep vocabulary to get through the weekend. The Garden District provides the architectural backdrop.
+**The concept:** Antebellum aesthetic filtered through irony, camp, and a full bar. Wide-brim hats, pastel sundresses, white gloves, and enough mint julep vocabulary to get through the weekend. The [Garden District](/neighborhoods/garden-district/) provides the architectural backdrop.
 
 ### Who It's For
 
@@ -60,7 +60,7 @@ A bride who loves elegance and doesn't take herself too seriously. Groups that l
 | 6:00 PM | Pre-game at the villa with sweet tea cocktails (sweet tea vodka, lemon, mint) |
 | 7:30 PM | Walk to or Uber to dinner — somewhere with an outdoor courtyard or porch |
 | 9:30 PM | Garden District or Magazine Street walkabout |
-| 10:30 PM | Frenchmen Street for live music — you'll look extraordinary there |
+| 10:30 PM | [Frenchmen Street](/guides/live-music-guide/) for live music — you'll look extraordinary there |
 
 **Day 2 (The Big Day)**
 
@@ -175,7 +175,7 @@ A bride with a love of Old Hollywood glamour, vintage fashion, or jazz and blues
 
 ## Theme 3: The Pool Queen
 
-**The concept:** This theme is not about going out. It's about making the villa pool the entire event for day one, with a full outdoor party — music, inflatables, themed drinks, costumes that go from pool to evening — before transitioning to a big night out.
+**The concept:** This theme is not about going out. It's about making the villa pool the entire event for day one — see the [villa pool party guide](/guides/villa-pool-party-guide/) for the full setup — with a full outdoor party — music, inflatables, themed drinks, costumes that go from pool to evening — before transitioning to a big night out.
 
 ### Who It's For
 
@@ -207,7 +207,7 @@ This theme has two phases: pool phase and evening phase.
 | 11:30 AM | Pool opens — floats in, music on, drinks flowing |
 | 12:30 PM | Frozen cocktail station setup (frozen rosé, frozen margaritas, frozen daiquiris) |
 | 1:00 PM | Pool games: floatie races, dive games, pool trivia |
-| 3:00 PM | Food delivery or grill (see the [Pool Day Guide](/guides/nola-pool-day-guide)) |
+| 3:00 PM | Food delivery or grill (see the [Pool Day Guide](/guides/nola-pool-day-guide/)) |
 | 5:00 PM | Wind down, get showered and dressed |
 | 7:00 PM | Pre-game in theme — photos at the villa |
 | 8:30 PM | Dinner |
@@ -334,7 +334,7 @@ A bride who loves spooky aesthetics, Halloween culture, or gothic/dark romance. 
 
 ### Who It's For
 
-A bride who doesn't want a "theme" theme — she wants a great New Orleans weekend, and the cohesion comes from a coordinated color palette and the shared experience of doing it right.
+A bride who doesn't want a "theme" theme — she wants a great New Orleans weekend, and the cohesion comes from a coordinated color palette and the shared experience of doing it right. If the group wants a slower, lower-key version of this same weekend, the [spa day guide](/guides/nola-bachelorette-spa-day/) covers that alternative.
 
 ### Costume Direction
 
@@ -420,11 +420,11 @@ The Classic NOLA theme makes gift bags particularly important — since the "cos
 
 1. **The bride picks the theme. Not the MOH, not the group.** Present options, get genuine buy-in. A bride in a theme she loves will commit; a bride in a theme she tolerates will be waiting for it to end.
 
-2. **Order costumes and accessories 4 weeks out.** The thing everyone always underestimates. Four weeks gives you time for Amazon delivery, Etsy custom orders, and exchanges if something doesn't fit.
+2. **Order costumes and accessories 4 weeks out.** The thing everyone always underestimates. Four weeks gives you time for Amazon delivery, Etsy custom orders, and exchanges if something doesn't fit. If the group wants a dedicated late-night plan on top of whichever theme you pick, the [VIP night guide](/guides/nola-group-bachelorette-vip-night-guide/) covers table service and skip-the-line logistics.
 
 3. **Make the villa the anchor, not the bars.** The best bachelorette moments happen at the villa — getting ready together, the group photo at the door, the late-night return. A great villa makes the whole weekend better. See the accommodation recommendations below.
 
-4. **Two dinner reservations minimum.** One nice dinner per night. Make them 3-4 weeks out for groups of 15+. The bachelorette group is the one that arrives at a restaurant without a reservation and spends the next 45 minutes standing outside while someone makes calls.
+4. **Two dinner reservations minimum.** One nice dinner per night. Make them 3-4 weeks out once the group hits double digits. The bachelorette group is the one that arrives at a restaurant without a reservation and spends the next 45 minutes standing outside while someone makes calls.
 
 5. **The maid of honor runs the schedule.** Not a committee. She has the full day-of plan, she moves the group from activity to activity, she makes calls when the group needs direction. The MOH's job is to make the bride's day perfect; that requires authority.
 
@@ -438,15 +438,8 @@ The Classic NOLA theme makes gift bags particularly important — since the "cos
 
 The accommodation is the foundation of the whole weekend. Every theme above assumes you have a villa where the group can get dressed together, take photos together, decompress together, and establish the home-base energy that makes a themed bachelorette weekend work.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, art-filled interiors (great for themed photos), full kitchens for group meals and cocktail prep, complete privacy. The Florentine is the most elegant option and pairs particularly well with the Southern Belle or Jazz Age themes. The Cocodrie has the best outdoor and pool setup — right for the Pool Queen theme. Walking distance to Frenchmen Street.
+For a big group, this rules out hotels almost by default — there's nowhere to get ready together, nowhere for the photo-at-the-door moment, nowhere for the pool day the Pool Queen theme depends on. The private-rental field covers this differently depending on what your group needs: Bywater villas built around total privacy and a private pool per house, Lower Garden District villas a block from the streetcar with a shared pool and hot tub, and a deeper bench of large-format homes across the Lower Garden District and Central City for groups booking closer to the date. If the group wants separate bills and its own keys instead of one shared house, a room block at a boutique hotel or a floor of apartment-style suites both work — trade the shared-house energy for that flexibility. Pick by what the theme actually needs (pool access for Pool Queen, a striking interior for Jazz Age photos, walkable proximity to Frenchmen for the late-night themes) rather than by name. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through that tradeoff in more depth.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Every room designed by local New Orleans artists — incredible photo backdrops for any theme, especially Jazz Age and Classic NOLA. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The design-forward interiors make The Syd a standout for groups where the aesthetic of the space matters as much as the experience.
+For the largest selection, book 6+ months out.
 
-Either property gives your group the foundation the weekend needs: one central space, private amenities, and the kind of environment that makes every theme feel intentional rather than improvised.
-
----
-
-## Book Your Bachelorette Weekend
-
-- Castleday Retreats — Three private villas in the Bywater, up to 30 guests each, private pools
-- The Syd — Multiple artist-designed villas in the Lower Garden District, up to 22 guests each
+[See where to stay for large groups →](/where-to-stay/)
