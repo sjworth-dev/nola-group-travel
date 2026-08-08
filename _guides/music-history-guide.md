@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Music History for Large Groups"
-description: "Congo Square to jazz to brass bands to funk: the real story of New Orleans music and how to experience it with a group of 10-30 people."
+description: "Congo Square to jazz to brass bands to funk: the real story of New Orleans music and how to experience it with the whole crew."
 category: "Nightlife & Music"
 card_title: "Music History Guide"
 card_description: "Congo Square, jazz origins, brass band tradition, funk lineage, and how to experience the living history with a large group."
-date: 2026-05-26
+date: 2026-08-08
 ---
 
 Every city claims to have a music scene. New Orleans is the only American city that invented multiple genres. The music here isn't background noise — it's the reason the city exists the way it does. Understanding the history makes the experience richer. You'll listen differently when you know where it comes from.
@@ -69,7 +69,7 @@ The most famous traditional jazz venue in the city. A small, deliberately simple
 
 The bands are composed of serious musicians playing authentic New Orleans jazz. The set times are short, the room turns over quickly, and the experience is intense. This is not background music.
 
-**For groups:** Preservation Hall has capacity limits. For large groups, the pre-show ticketing line is long. Buy tickets online in advance. For very large groups (20+), inquire about private sessions — they offer private concerts for groups and it's worth the premium for the experience.
+**For groups:** Preservation Hall has capacity limits. For large groups, the pre-show ticketing line is long. Buy tickets online in advance. Once the group is big enough to fill a room on its own, inquire about private sessions — they offer private concerts for groups and it's worth the premium for the experience.
 
 ### Frenchmen Street
 
@@ -158,7 +158,7 @@ A two-hour walk from Congo Square through the Tremé to the Marigny. This is the
 
 ## Second Line Season
 
-Second line parades run from roughly October through June, on Sundays. They follow permitted routes through specific neighborhoods — the Tremé, the Seventh Ward, Central City, and others.
+Second line parades run from roughly September through June, on Sundays. They follow permitted routes through specific neighborhoods — the Tremé, the Seventh Ward, Central City, and others.
 
 These are public events. You do not need a ticket. You can walk alongside, join the second line crowd, and experience one of the city's most distinctive cultural traditions.
 
@@ -182,7 +182,7 @@ Look for bands that have a track record with private events. The NOLA music comm
 
 1. **Go to Frenchmen Street, not Bourbon Street.** We can't say this enough. Bourbon Street is a spectacle. Frenchmen Street is the music.
 
-2. **Arrive at Preservation Hall early or buy advance tickets.** The line gets long and the room fills fast. Groups of 10+ should plan this carefully.
+2. **Arrive at Preservation Hall early or buy advance tickets.** The line gets long and the room fills fast. Once the trip goes double-digit, plan this carefully.
 
 3. **Check the second line calendar before your trip.** If a Sunday parade falls during your visit, rearrange your afternoon around it. It's worth it.
 
