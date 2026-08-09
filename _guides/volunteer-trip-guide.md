@@ -1,10 +1,10 @@
 ---
 title: "Group Volunteer Trips to New Orleans: Service, Culture, and How to Do Both"
-description: "How to plan a meaningful group volunteer or service trip to New Orleans: community organizations, rebuilding and restoration work, how to structure a trip that combines real service with authentic cultural experience, and logistics for groups of 10–30."
+description: "How to plan a meaningful group volunteer or service trip to New Orleans: community organizations, rebuilding and restoration work, how to structure a trip that combines real service with authentic cultural experience, and logistics for taking a volunteer group to the city, whatever your headcount."
 category: "Planning & Logistics"
 card_title: "Volunteer & Service Trips"
 card_description: "Service trips to NOLA that actually matter — community orgs, rebuilding work, and how to do it right."
-date: 2026-05-27
+date: 2026-08-09
 ---
 
 New Orleans has been receiving volunteers for decades. Post-Katrina, the city saw one of the largest sustained volunteer mobilizations in American history. That work is not done. Affordable housing, neighborhood restoration, cultural preservation, and community resilience remain ongoing challenges.
@@ -24,6 +24,7 @@ This guide is for groups doing it right: corporate social responsibility trips, 
 - [ ] Bring appropriate workwear if doing physical restoration work
 - [ ] Research the organizations you're working with before you arrive
 - [ ] Plan meals at locally owned spots — your food spending is also community investment
+- [ ] Assign someone the job of point-of-contact with the host organization — see the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) for splitting that work out explicitly
 
 ---
 
@@ -37,7 +38,7 @@ The category most groups picture when they think "volunteer in New Orleans."
 
 **What it looks like:** Clearing lots, basic construction tasks, painting, weatherproofing, cleaning, and home repair for elderly and low-income homeowners who can't do it themselves.
 
-**Who it's right for:** Groups with some physical fitness and willingness to work. You don't need skilled trades; most entry-level tasks are accessible. Groups of 10–20 are often the ideal size for site-based work.
+**Who it's right for:** Groups with some physical fitness and willingness to work. You don't need skilled trades; most entry-level tasks are accessible. A crew a single site coordinator can actually direct is often the ideal size for site-based work — bigger than that and you're waiting around more than working.
 
 **What to know:** You will not show up and independently run a construction project. You will work under the direction of an organization that knows the community, knows the site, and has determined what work needs doing. This is as it should be. Come ready to follow direction.
 
@@ -61,7 +62,7 @@ New Orleans has food deserts — neighborhoods where fresh, affordable food is n
 
 **Who it's right for:** Any group, regardless of physical fitness or skill level. This is high-impact, highly accessible work.
 
-**Group sizing:** Food banks can typically absorb large groups (20–30 people) better than construction sites. Check capacity before you commit a large number.
+**Group sizing:** Food banks can typically absorb the whole crew better than construction sites can. Check capacity before you commit a large number.
 
 ### Education and Youth Programs
 
@@ -154,8 +155,8 @@ Afternoon/Evening:
 **Day 4: Cultural Day + Departure**
 
 Morning:
-- Explore a neighborhood with historical context: Tremé, the Lower Ninth Ward, the Garden District
-- Optional: visit a museum (NOMA, the National WWII Museum, the Louisiana State Museum)
+- Explore a neighborhood with historical context: [Tremé](/neighborhoods/treme/), the [Lower Ninth Ward](/neighborhoods/ninth-ward/), the Garden District
+- Optional: visit a museum — NOMA, the [National WWII Museum](/guides/nola-group-wwii-museum-guide/), or another stop from the [group museum day guide](/guides/nola-group-museum-day-guide/)
 
 Afternoon:
 - Departures
@@ -172,9 +173,9 @@ The city is the context for the work. Don't separate the two.
 
 **The Lower Ninth Ward.** The neighborhood most damaged by the Federal Flood (what locals call Katrina). Today it's a mixed picture of recovery and ongoing challenge. If you're doing housing restoration work anywhere in the city, understanding the scale of what happened here provides essential context.
 
-**The Second Line.** Social Aid & Pleasure Clubs hold second line parades nearly every Sunday, September through May. A second line is a New Orleans institution — a community-organized celebration that is specifically about resilience, Black cultural expression, and joy as resistance. Attending one is one of the most powerful things a volunteer group can do to understand what it's working to preserve.
+**The Second Line.** Social Aid & Pleasure Clubs hold [second line](/guides/second-line-guide/) parades most Sundays, September through June. A second line is a New Orleans institution — a community-organized celebration that is specifically about resilience, Black cultural expression, and joy as resistance. Attending one is one of the most powerful things a volunteer group can do to understand what it's working to preserve.
 
-**Live Music.** The musicians who play on Frenchmen Street, at Preservation Hall, at Tipitina's, at the corner of Bourbon and St. Ann — these are the people whose cultural tradition you're in the city to witness. Spend money there. Tip generously.
+**Live Music.** The musicians who play [Frenchmen Street](/guides/live-music-guide/), at Preservation Hall, at Tipitina's, at the corner of Bourbon and St. Ann — these are the people whose cultural tradition you're in the city to witness. Spend money there. Tip generously.
 
 ---
 
@@ -198,28 +199,26 @@ Worth naming directly.
 
 ### Accommodation
 
-For volunteer groups of 10–30, private villa accommodation in New Orleans offers practical advantages:
+Once a volunteer group goes past a few people, private villa accommodation in New Orleans offers real practical advantages over scattering everyone across hotel rooms:
 
 - Central home base for group debriefs and meals
 - Full kitchen for group dinners that reduce food costs (useful when trip budgets are tight)
 - Common space for evening reflection and discussion
 - No navigating a hotel lobby at 6 a.m. in work clothes
 
-**Castleday Retreats** in the Bywater offers three private villas, each sleeping up to 30 guests, with private pools and full kitchens. The Bywater location — an historically working-class neighborhood that has experienced significant gentrification pressure — is itself a useful context for service-focused groups to experience and discuss.
+New Orleans has a genuinely deep villa market for this, and it's worth comparing rather than booking the first listing you find. Heirloom's large-format homes across the [Lower Garden District](/neighborhoods/lower-garden-district/) and Central City give you the deepest inventory to search if your headcount or dates are still moving. The Revelry's apartment-style floors in Central City work well if the group needs separate billing — useful when some volunteers are self-funding and others are on an organization's card. Castleday Retreats ([Bywater](/neighborhoods/bywater/)) and The Syd (Lower Garden District) both put everyone under one roof with a pool, which matters after a physical work day — Castleday's location in a historically working-class neighborhood that has seen real gentrification pressure is itself a useful thing for a service-focused group to sit with. For groups that want the simplicity of separate keys and separate bills, a room block at a hotel like The Roosevelt or Hotel Peter & Paul works too.
 
-**The Syd** in the Lower Garden District offers multiple villas up to 22 guests each, with a shared pool, hot tub, outdoor kitchen, and artist-designed interiors. Central location, one block from the St. Charles Streetcar, easy access to most volunteer sites and cultural destinations.
-
-Both options keep your group together in one place — essential for service trips where group cohesion, shared meals, and evening debriefs are part of the program.
+None of these is a recommendation over the others — pick by fit, and check the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) if you're still deciding between the two models. For the largest selection, book 6+ months out.
 
 ### Transportation
 
-Most volunteer sites are accessible by car or van. For a group of 20–30, renting or chartering a van or small bus for service days is practical and keeps the group together on site.
+Most volunteer sites are accessible by car or van. Once the group is big enough that a couple of rideshares won't cut it, renting or chartering a van or small bus for service days is practical and keeps everyone together on site — see the [transportation guide](/guides/transportation-guide/) for the general logistics of moving a large group around the city.
 
 Uber and Lyft work for smaller movements. Street parking at most residential volunteer sites is available but coordinate with your organization.
 
 ### Budget Considerations
 
-Volunteer trips often have constrained budgets. The villa math works in your favor here: cooking breakfasts and one meal per day at the house dramatically reduces per-person food cost. For a 4-day trip with a group of 20, two home meals per day can save $50–100 per person compared to eating every meal at restaurants.
+Volunteer trips often have constrained budgets. The villa math works in your favor here: cooking breakfasts and one meal per day at the house dramatically reduces per-person food cost. For a 4-day trip with a group of 20, two home meals per day can save $50–100 per person compared to eating every meal at restaurants — the [budget guide](/guides/budget-guide/) breaks down the rest of the trip's cost math.
 
 ---
 
@@ -241,9 +240,8 @@ Volunteer trips often have constrained budgets. The villa math works in your fav
 
 ---
 
-## Book Your Service Trip Accommodation
+## Where to Stay
 
 Keep your group together, run your debriefs at the house, cook your shared meals, and make the most of the time you have.
 
-- Castleday Retreats — Bywater, three private villas up to 30 guests each, private pools, full kitchens
-- The Syd — Lower Garden District, multiple villas up to 22 guests, shared pool and outdoor kitchen, central location
+[See where to stay for large groups →](/where-to-stay/)
