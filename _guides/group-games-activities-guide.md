@@ -1,15 +1,15 @@
 ---
 title: "Group Games & Competitive Activities in New Orleans"
-description: "Trivia nights, scavenger hunts, escape rooms, villa lawn games, casino nights, and how to structure competitive group fun for 10–30 people in New Orleans."
+description: "Trivia nights, scavenger hunts, escape rooms, villa lawn games, casino nights, and how to structure competitive group fun for a big group in New Orleans."
 category: "Activities & Day Trips"
 card_title: "Group Games & Activities"
-card_description: "Trivia, scavenger hunts, escape rooms, casino nights, lawn games, and competitive group fun for 10–30 people."
-date: 2026-05-27
+card_description: "Trivia, scavenger hunts, escape rooms, casino nights, lawn games, and competitive group fun for the whole crew."
+date: 2026-08-09
 ---
 
 Not every person in your group wants to spend every hour bar-crawling. And not every night has to be the same night. One of the smartest things you can do for a multi-day group trip is build in at least one organized activity that gives the group something to do together besides drink.
 
-New Orleans has more of these than people realize. The city skews toward nightlife and food in the marketing, but there's a full stack of competitive and structured group activities that work great for 15 to 30 people — some inside the city, some right at your villa.
+New Orleans has more of these than people realize. The city skews toward nightlife and food in the marketing, but there's a full stack of competitive and structured group activities that work great whether it's a mid-size crew or the whole group at full headcount — some inside the city, some right at your villa.
 
 Here's what actually works.
 
@@ -43,7 +43,7 @@ The best group activity is often the one that requires zero transportation. If y
 
 **Tournament structure:** For a group of 20, run a round-robin cornhole bracket as a day activity. Print brackets, keep scores, get competitive about it. People who aren't playing are spectating and trash-talking. It organizes three hours without requiring anyone to go anywhere.
 
-**What to bring or request:** Most well-equipped rental villas have some games already. Ask your rental host in advance. If not, a Walmart run on arrival day takes 30 minutes and sets you up for the whole trip.
+**What to bring or request:** Most well-equipped rental villas have some games already. Ask your rental host in advance — see the [villa arrival & setup guide](/guides/villa-arrival-setup-guide/) for what to sort out before everyone shows up. If not, a Walmart run on arrival day takes 30 minutes and sets you up for the whole trip.
 
 ---
 
@@ -56,7 +56,7 @@ New Orleans has a strong pub trivia scene. Multiple bars run organized trivia on
 **What to know for large groups:**
 - Large groups need to call ahead. A 25-person group walking in to a trivia night can overwhelm a small bar.
 - Ask whether the venue can accommodate your full group as separate teams (usually fine) or if you need to cap participation (sometimes necessary).
-- The best trivia nights in New Orleans are at neighborhood bars, not tourist bars. Mid-City, Uptown, and the Bywater all have active scenes.
+- The best trivia nights in New Orleans are at neighborhood bars, not tourist bars. [Mid-City](/neighborhoods/mid-city/), [Uptown](/neighborhoods/uptown/), and the [Bywater](/neighborhoods/bywater/) all have active scenes.
 - Weekday trivia means cheaper drinks, smaller crowds, and actual locals as your competition.
 
 **What makes it work for groups:** You don't need everyone to be equally enthusiastic. Casual players can be ringers on pop culture; the competitive ones handle sports and history. The team format gives everyone a role.
@@ -67,7 +67,7 @@ New Orleans has a strong pub trivia scene. Multiple bars run organized trivia on
 
 New Orleans has several escape room companies with private group bookings. Most rooms max out at 8–12 people, so larger groups will need to book multiple rooms simultaneously or in sequence.
 
-**For groups of 10–30:** Book the full-buyout option if available — some companies will run your large group through multiple rooms simultaneously, then compare notes and scores. This works surprisingly well as a competitive group activity.
+**For a big group:** Book the full-buyout option if available — some companies will run your large group through multiple rooms simultaneously, then compare notes and scores. This works surprisingly well as a competitive group activity.
 
 **What to look for:**
 - Private booking (you don't want strangers in your room)
@@ -97,7 +97,7 @@ This takes about an hour to plan ahead of time and produces three hours of group
 
 ### Professional Scavenger Hunts
 
-Several companies in New Orleans run guided group scavenger hunts — typically 90 minutes to 2 hours, app-based, with scoring built in. These are solid for corporate groups or situations where someone doesn't want to do the planning work. Good for groups of 20–50.
+Several companies in New Orleans run guided group scavenger hunts — typically 90 minutes to 2 hours, app-based, with scoring built in. These are solid for [corporate groups](/guides/corporate-team-building-guide/) or situations where someone doesn't want to do the planning work. Good for a large group.
 
 ---
 
@@ -107,7 +107,7 @@ Renting a casino night setup — poker tables, blackjack dealers, roulette — i
 
 **What's typically included:** Tables, equipment, professional dealers, chips. You're not gambling real money — it's all for points or prizes you set.
 
-**What it costs:** Roughly $500–1,200+ for a 3-hour private casino night for 20–30 people, depending on equipment count and staff. Not cheap, but it's an organized 3-hour event that works in your backyard and requires no transportation.
+**What it costs:** Roughly $500–1,200+ for a 3-hour private casino night for a group at full headcount, depending on equipment count and staff. Not cheap, but it's an organized 3-hour event that works in your backyard and requires no transportation.
 
 **When it makes sense:** Milestone birthdays, corporate groups, groups that want a Vegas-style evening without leaving the house. Book 3–4 weeks in advance with a local event vendor.
 
@@ -115,9 +115,9 @@ Renting a casino night setup — poker tables, blackjack dealers, roulette — i
 
 ## Bowling and Rock 'n' Bowl
 
-Mid-City Lanes Rock 'n' Bowl is one of the genuinely great options for a large group that wants activity plus live music in a single venue. It's a working bowling alley that doubles as a concert hall — multiple lanes, full bar, and live Cajun and zydeco music on the same nights.
+Mid-City Lanes Rock 'n' Bowl is one of the genuinely great options for a large group that wants activity plus [live music](/guides/live-music-guide/) in a single venue. It's a working bowling alley that doubles as a concert hall — multiple lanes, full bar, and live Cajun and zydeco music on the same nights, in the heart of Mid-City.
 
-**For groups:** Rent lanes in advance. This works for groups of 10–30; you can have half the group bowling while the other half is on the dance floor, and it rotates naturally. The food is legitimately good. The vibe is completely unique to New Orleans.
+**For groups:** Rent lanes in advance. This works no matter how big the group gets; you can have half the group bowling while the other half is on the dance floor, and it rotates naturally. The food is legitimately good. The vibe is completely unique to New Orleans.
 
 ---
 
@@ -125,7 +125,7 @@ Mid-City Lanes Rock 'n' Bowl is one of the genuinely great options for a large g
 
 Don't underestimate this. On a multi-day trip, a night where everyone stays in, gets food delivered, and plays games is often the night people remember most fondly. No logistics, no transportation, no cover charges.
 
-**Games that work for 10–20 people:**
+**Games that work well for a mid-size crew:**
 - Jackbox party packs (requires a TV and smartphones)
 - Codenames (teams of any size)
 - Wavelength
@@ -159,7 +159,7 @@ Don't underestimate this. On a multi-day trip, a night where everyone stays in, 
 
 3. **Let people opt out.** Not everyone wants to do every activity. Build in opt-out paths. The people who skip the escape room can run to the grocery store and have cold drinks ready when the group returns. Everyone wins.
 
-4. **Pre-trip polls work.** A 5-question Google Form sent to the group before the trip ("Are you into trivia? Would you do an escape room? Casino night?") surfaces preferences and kills arguments later.
+4. **Pre-trip polls work.** A 5-question Google Form sent to the group before the trip ("Are you into trivia? Would you do an escape room? Casino night?") surfaces preferences and kills arguments later — the [group communication guide](/guides/group-communication-guide/) covers the rest of the pre-trip logistics.
 
 5. **Evening activities need to start by 7pm.** A casino night or scavenger hunt that starts at 9pm runs past midnight and competes with bar plans. Schedule competitive activities early evening so the night can still evolve.
 
@@ -171,17 +171,10 @@ Don't underestimate this. On a multi-day trip, a night where everyone stays in, 
 
 ## Where to Stay: The Activity Hub
 
-Group activities work best when you have a proper home base. A shared villa is the logistics center for pre-activity prep, storing gear, and the post-activity debrief — which is often the best part.
+Group activities work best when you have a proper home base. A shared villa is the logistics center for pre-activity prep, storing gear, and the post-activity debrief — which is often the best part. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff in general; for activity-heavy trips specifically, outdoor space and a full kitchen matter more than usual.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The outdoor spaces at The Cocodrie are purpose-built for lawn game tournaments. The Herald's common areas accommodate a full casino night setup. Full kitchens mean you can handle the catering side of any group activity without leaving the property. Private pools for the post-activity cool-down.
+New Orleans has a genuinely deep villa market to draw from here — it's worth comparing the field rather than booking the first listing. The Mazant, an 1880s [Bywater](/neighborhoods/bywater/) guesthouse that sleeps up to 18, keeps a group in one historic house with a heated pool and spa for the post-activity cool-down. Hotel Perle's group suites in the CBD/Warehouse District split into separate bedroom-suites with their own bills and a rooftop pool, which works well if the group wants activity space that also functions as a hangout. Heirloom's large-format homes across the Lower Garden District and Central City give you the deepest inventory to search if your headcount is still moving. Castleday Retreats (Bywater) and The Syd (Lower Garden District) both offer full kitchens and a pool for handling the catering and cool-down side of any group activity without leaving the property.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared outdoor kitchen, heated pool, hot tub, and sauna. The shared outdoor areas work for larger multi-activity setups. One block from the St. Charles Streetcar means you can anchor at the villa and still reach city venues quickly when the group wants to move.
+None of these is a recommendation over the others — pick by fit, group size, and whatever the activity itself needs. For the largest selection, book 6+ months out.
 
-Both properties have the space and infrastructure to support a full day of group activities without going anywhere — and the city when you're ready to take the games outside.
-
----
-
-## Book Your Group Trip
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, private pools, full outdoor spaces
-- The Syd — Lower Garden District, up to 22 guests per villa, shared pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
