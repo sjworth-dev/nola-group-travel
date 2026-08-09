@@ -4,7 +4,7 @@ description: "Team-building activities and experiences for corporate groups in N
 category: "Corporate Retreats"
 card_title: "Corporate Team Building"
 card_description: "Cooking classes, second lines, scavenger hunts, service half-days, and retreat structures that actually work. No trust falls."
-date: 2026-05-27
+date: 2026-08-09
 ---
 
 Most corporate retreats fail the same way. You fly everyone to an interesting city, put them in a hotel conference room for two days, then do one activity that everybody pretends to enjoy before returning to the airport. The city becomes a backdrop instead of the point.
@@ -20,7 +20,7 @@ This guide covers what works, what doesn't, and how to structure a corporate gro
 - [ ] Arrange private villa or venue for any plenary sessions — conference rooms are expensive and depressing
 - [ ] Mix structured and unstructured time — over-scheduling kills the energy
 - [ ] Build in at least one experience unique to New Orleans (not just a nice dinner anywhere)
-- [ ] Designate one internal logistics person who owns the schedule
+- [ ] Designate one internal logistics person who owns the schedule — see the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) for splitting that job out explicitly
 - [ ] Create a budget that accounts for tips, transportation, and incidentals
 - [ ] Plan the debrief — what do you want people to leave with?
 
@@ -40,7 +40,7 @@ The city rewards groups that show up curious and penalizes groups that treat it 
 
 New Orleans is one of the best food cities in the country, and cooking classes exist across every price point and format.
 
-**Group cooking classes:** Hands-on, typically 2–3 hours, groups learn to make gumbo, jambalaya, beignets, or other Louisiana classics. Then you eat what you made. Works for groups of 10–50 depending on the venue. Book private sessions for corporate groups.
+**Group cooking classes:** Hands-on, typically 2–3 hours, groups learn to make gumbo, jambalaya, beignets, or other Louisiana classics. Then you eat what you made. Works from a small team up to the whole company at full headcount, depending on the venue — see the [cooking class guide](/guides/nola-cooking-class-guide/) for venue-by-venue capacity and booking details. Book private sessions for corporate groups.
 
 **What makes it work:** The activity creates natural mixing. You're assigned a station, working with whoever's nearby, and the shared goal (don't burn the roux) supersedes organizational hierarchy. Directors and coordinators are both bad at making roux on the first try.
 
@@ -63,9 +63,9 @@ A second line is a brass band parade where the band leads a moving celebration t
 
 **Why it works for corporate groups:** It's participatory, physical, communal, and completely unlike anything anyone has done before. You cannot be checked out when a brass band is 10 feet in front of you and the whole group is moving through a New Orleans neighborhood. The experience transcends department silos and job titles in a way that almost no other activity can.
 
-**Logistics:** Book through a company that specializes in private second lines or a local entertainment production company. Budget accordingly — a quality private second line with a solid brass band is not cheap, but it's one of the most effective team experiences available in the city.
+**Logistics:** Book through a company that specializes in private second lines or a local entertainment production company. Budget accordingly — a quality private second line with a solid brass band is not cheap, but it's one of the most effective team experiences available in the city. The [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers what booking actually involves, and the [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) breaks down why a private booking is worth it for a corporate group specifically.
 
-See the [second line guide](/guides/second-line-guide) for full booking logistics and what to expect.
+See the [second line guide](/guides/second-line-guide/) for full booking logistics and what to expect.
 
 ---
 
@@ -97,12 +97,12 @@ New Orleans has a robust nonprofit infrastructure with organizations that regula
 - School and youth organization projects
 
 **What to know:**
-- Coordinate with an organization well in advance. Walk-up volunteering doesn't work for groups of 20+.
+- Coordinate with an organization well in advance. Walk-up volunteering doesn't work once the group is past a handful of people.
 - Allocate 3–4 hours minimum. Half-day is the right unit; a two-hour drive-by doesn't produce meaningful work or connection.
 - Debrief afterward. The service component is most powerful when you create space to process what people experienced.
 - Combine with a neighborhood meal at a community-recommended restaurant to close the loop on the experience.
 
-This works particularly well for companies with a social responsibility focus or for teams that want a more meaningful group experience than a scavenger hunt.
+This works particularly well for companies with a social responsibility focus or for teams that want a more meaningful group experience than a scavenger hunt. The [volunteer trip guide](/guides/volunteer-trip-guide/) goes deeper on structuring service work well — how to reach organizations, what physical work actually looks like, and how to pair it with real cultural programming instead of treating it as a box to check.
 
 ---
 
@@ -135,11 +135,13 @@ A hotel conference room in New Orleans is identical to a hotel conference room i
 | Hotel rooftop or outdoor terraces | Weather-permitting; feels different |
 | Private event spaces at local museums | Context makes ideas land differently |
 
-If you need working sessions — strategy offsites, planning meetings, review discussions — do them at your accommodation. A private villa's common areas are better for working sessions than most conference rooms. The informality produces candor. The lack of a "power chair" at the head of a table matters more than people admit.
+If you need working sessions — strategy offsites, planning meetings, review discussions — do them at your accommodation. A private villa's common areas are better for working sessions than most conference rooms. The informality produces candor. The lack of a "power chair" at the head of a table matters more than people admit. If a villa's common areas genuinely don't fit the group, the [corporate meeting space guide](/guides/nola-group-corporate-meeting-space-guide/) covers the alternatives.
 
 ---
 
 ## How to Structure the Week
+
+The [corporate retreat guide](/guides/corporate-retreat/) covers the broader planning arc — where to stay, budget, and structure — if you're building this out from scratch; here's the week itself.
 
 ### 3-Day Corporate Retreat
 
@@ -157,6 +159,8 @@ If you need working sessions — strategy offsites, planning meetings, review di
 | Day 2 | Working sessions (full morning) | Community service or culinary tour | Private dining or Tipitina's |
 | Day 3 | Team-building activity | Free afternoon (self-directed exploration) | Group nightlife (Frenchmen Street) |
 | Day 4 | Debrief + planning session | Departures | — |
+
+If Day 1's welcome dinner is the tone-setter for the whole retreat, the [corporate welcome reception guide](/guides/nola-corporate-welcome-reception-guide/) and [corporate dinner guide](/guides/nola-corporate-dinner-guide/) go deep on getting that first night right — venue, catering format, and the restaurants that actually handle a big private party well. For the working-session blocks, the [corporate offsite productivity guide](/guides/corporate-offsite-productivity-guide/) covers WiFi, room setup, and agenda design so the work half of the trip doesn't undercut the experience half.
 
 ---
 
@@ -204,19 +208,14 @@ Be honest about this:
 
 ---
 
-## Where to Stay
+## For a Big Group
 
-Corporate retreats need a venue that works as both a gathering space and a home base. Scattered hotel rooms fragment the group; a shared villa keeps everyone together and eliminates hotel logistics overhead.
+Corporate retreats need a venue that works as both a gathering space and a home base. Scattered hotel rooms fragment the group; a shared villa keeps everyone together and eliminates hotel logistics overhead — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff in more depth.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald's large common areas handle plenary sessions and catered dinners for a full corporate group. The Cocodrie's outdoor space is built for a post-session decompression. Private pools, full kitchens, and the kind of art-filled interiors that put people in a different headspace than a conference room. Completely private — no hotel lobby, no strangers, no interruptions.
+New Orleans has a genuinely deep villa market to draw from for this. **[Bywater](/neighborhoods/bywater/) villas** (Castleday Retreats is one example — private pool per villa) work well for a corporate group that wants total privacy for plenary sessions and catered dinners with zero interruptions. **[Lower Garden District](/neighborhoods/lower-garden-district/) villas** (The Syd is one example — shared heated pool and hot tub, one block from the streetcar) put the group a short ride from the whole city without constant Ubers. **Heirloom's** large-format homes across the Lower Garden District and Central City are worth a look if you need to compare several floor plans and configurations quickly for a working retreat. For mixed budgets, own-key logistics, or a conference component that genuinely needs meeting rooms, a hotel room block (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) is worth considering alongside the villa options.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which means the whole city is accessible without constant Ubers. The outdoor kitchen and shared spaces handle group catering naturally. The artist-designed interiors are the kind of environment that produces creative thinking.
+None of these is a recommendation over the others — pick by fit: privacy and full-group cooking versus a hotel's own-bill convenience. Once the group is big enough that a single villa can't hold everyone, booking across multiple properties, or multiple units at the same property, keeps the group nearby without cramming.
 
-For corporate groups of 20+: consider booking across multiple villas at the same property to keep the group together while giving people their own space.
+For the largest selection, book 6+ months out.
 
----
-
-## Book Your Corporate Retreat
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, ideal for corporate groups needing working space and privacy
-- The Syd — Lower Garden District, up to 22 guests per villa, shared outdoor spaces, streetcar access to the city
+[See where to stay for large groups →](/where-to-stay/)
