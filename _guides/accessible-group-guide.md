@@ -4,7 +4,7 @@ description: "How to plan a large group trip to New Orleans when some guests hav
 category: "Planning & Logistics"
 card_title: "Accessible Group Travel"
 card_description: "Mobility, wheelchair access, and how to plan a NOLA trip where everyone actually participates."
-date: 2026-05-27
+date: 2026-08-09
 ---
 
 Most travel guides on accessibility read like legal disclaimers: technically accurate, completely useless for actually planning a trip. This one doesn't do that.
@@ -59,13 +59,13 @@ Plan French Quarter time in the morning before crowds build. Focus on the iconic
 
 | Neighborhood | Accessibility Rating | Notes |
 |-------------|---------------------|-------|
-| French Quarter | Moderate (varies by block) | Cobblestones near Jackson Square; Bourbon and Royal are better |
-| Garden District | Moderate | Mostly flat, but uneven sidewalks throughout |
-| Warehouse District/CBD | Good | Wide sidewalks, flat, well-maintained |
-| Bywater | Moderate | Neighborhood streets, some uneven surfaces, mostly flat |
-| Lower Garden District | Good | Flat, walkable, near streetcar |
-| Marigny | Moderate | Frenchmen Street is flat; side streets vary |
-| Uptown | Moderate | Depends heavily on specific blocks |
+| [French Quarter](/neighborhoods/french-quarter/) | Moderate (varies by block) | Cobblestones near Jackson Square; Bourbon and Royal are better |
+| [Garden District](/neighborhoods/garden-district/) | Moderate | Mostly flat, but uneven sidewalks throughout |
+| [Warehouse District](/neighborhoods/warehouse-district/)/CBD | Good | Wide sidewalks, flat, well-maintained |
+| [Bywater](/neighborhoods/bywater/) | Moderate | Neighborhood streets, some uneven surfaces, mostly flat |
+| [Lower Garden District](/neighborhoods/lower-garden-district/) | Good | Flat, walkable, near streetcar |
+| [Marigny](/neighborhoods/marigny/) | Moderate | Frenchmen Street is flat; side streets vary |
+| [Uptown](/neighborhoods/uptown/) | Moderate | Depends heavily on specific blocks |
 | Magazine Street | Good | Long, mostly flat commercial corridor |
 
 ---
