@@ -4,7 +4,7 @@ description: "How to do the Voodoo Music + Arts Experience with a large group. T
 category: "Festivals & Events"
 card_title: "Voodoo Fest"
 card_description: "Halloween weekend music festival at City Park. Here's how to do it with a large group."
-date: 2026-06-06
+date: 2026-08-10
 ---
 
 New Orleans has a Halloween weekend that no other city can replicate. And the reason it's in its own category is that Halloween in New Orleans isn't one event — it's three or four events happening simultaneously, building on a city that was already strange and theatrical to begin with.
@@ -15,7 +15,7 @@ For large groups, this is a high-coordination weekend. There's a lot happening, 
 
 ## Quick Checklist
 
-- [ ] Book accommodations 8-12 weeks out — Voodoo Fest weekend is one of the most competitive booking windows in NOLA
+- [ ] Book accommodations early — for the largest selection, book 6+ months out
 - [ ] Buy festival tickets as soon as they go on sale — general admission and VIP both sell through
 - [ ] Decide on a group costume vs. individual costumes and coordinate early
 - [ ] Make dinner reservations before arrival — the city fills to capacity Voodoo weekend
@@ -32,7 +32,7 @@ For large groups, this is a high-coordination weekend. There's a lot happening, 
 
 Voodoo Music + Arts Experience runs across three days, typically Friday through Sunday, in City Park in Mid-City New Orleans. The festival grounds spread through the park's open lawns and under the oak canopy — multiple music stages ranging from the main stage headliners to smaller genre stages, art installations throughout the grounds, and food vendors that are better than what you'd expect from a music festival.
 
-The lineup skews toward rock, metal, hip-hop, and alternative — it's a different energy from Jazz Fest, which is roots and heritage. Voodoo books major national acts and typically anchors each day with a different headliner. The smaller stages often feature local and regional acts that are worth your time.
+The lineup skews toward rock, metal, hip-hop, and alternative — it's a different energy from [Jazz Fest](/guides/jazz-fest-group-guide/), which is roots and heritage. Voodoo books major national acts and typically anchors each day with a different headliner. The smaller stages often feature local and regional acts that are worth your time.
 
 The festival is not specifically a Halloween event, but the timing is intentional. It ends on Halloween, and the city builds the entire weekend around that convergence.
 
@@ -44,7 +44,7 @@ For large groups, this means your evening plans don't compete with the festival.
 
 ### The Halloween Overlay
 
-If your trip lands on actual Halloween (October 31st), the city reaches maximum costume saturation. Locals take Halloween seriously here — this isn't a novelty or a tourist event, it's an actual annual cultural moment. The above-ground cemeteries, the Voodoo history, the ghost tours: New Orleans earned this holiday in a way other cities haven't. Your group will fit right in, no matter how elaborate the costumes.
+If your trip lands on actual Halloween (October 31st), the city reaches maximum costume saturation. Locals take Halloween seriously here — this isn't a novelty or a tourist event, it's an actual annual cultural moment. The above-ground cemeteries, the Voodoo history, the ghost tours: New Orleans earned this holiday in a way other cities haven't. Your group will fit right in, no matter how elaborate the costumes. See the [Halloween in New Orleans guide](/guides/halloween-guide/) for the city-wide picture beyond the festival grounds.
 
 ---
 
@@ -74,12 +74,12 @@ City Park is in Mid-City, about 3-4 miles from the French Quarter and downtown. 
 | Method | Notes for Large Groups |
 |--------|----------------------|
 | Rideshare (Uber/Lyft) | Works for entry; surges heavily at close — budget 2-3x on departure |
-| Charter bus or van | Best option for groups of 15-30, door to door, fixed schedule |
+| Charter bus or van | Best option for the whole crew, door to door, fixed schedule |
 | Biking | Flat city, bike parking at the park, great in the morning coolness |
 | Official festival shuttles | Check the official site each year for current routes and pricing |
 | Driving | Limited parking, not worth the effort — leave the car at the house |
 
-**The real answer for groups of 15-30:** A charter van or party bus to and from the festival both days is not excessive. You control the departure time, you don't split up waiting for multiple rideshares, and you're not standing in a post-headliner Uber queue for 45 minutes in a Halloween costume.
+**The real answer for the whole crew:** A charter van or party bus to and from the festival both days is not excessive. You control the departure time, you don't split up waiting for multiple rideshares, and you're not standing in a post-headliner Uber queue for 45 minutes in a Halloween costume. See the [charter bus guide](/guides/nola-group-charter-bus-guide/) for booking logistics.
 
 ---
 
@@ -142,7 +142,7 @@ Walk from Frenchmen, cut through the Quarter, down Bourbon to see it, then find 
 
 ## Costume Logistics for Large Groups
 
-Group costumes in New Orleans on Halloween are celebrated, not laughed at. A coordinated theme for 20 people will get you noticed, photographed, and occasionally bought drinks. Commit to it.
+Group costumes in New Orleans on Halloween are celebrated, not laughed at. A coordinated theme for 20 people will get you noticed, photographed, and occasionally bought drinks. Commit to it. The [festival packing guide](/guides/nola-music-festival-packing-guide/) covers what to bring beyond the costume itself.
 
 ### Practicalities
 
@@ -187,7 +187,7 @@ Rideshares on Halloween weekend will sometimes decline elaborate costumes. Have 
 ### Sunday / Halloween Day
 
 - Morning: recovery, brunch
-- Afternoon options: Lafayette Cemetery walk, Garden District tour, City Park (beautiful without the festival)
+- Afternoon options: a [cemetery walk](/guides/nola-group-cemetery-tour-guide/), Garden District tour, City Park (beautiful without the festival)
 - If Voodoo runs Sunday: attend the final headliner
 - Evening: Halloween proper — full street costumes, Frenchmen at night
 - The city is at maximum activity on actual Halloween night
@@ -226,7 +226,7 @@ The festival has good food, but you can't eat all three meals inside the gates e
 
 ## Pro Tips
 
-1. **Book accommodations the moment you commit to the trip.** Voodoo Fest weekend is the most competitive booking window in New Orleans outside of Mardi Gras. Private rentals that accommodate 20+ people disappear within days of going on sale.
+1. **Book accommodations the moment you commit to the trip.** For the largest selection, book 6+ months out — big-group properties fill on roughly the same clock all year, and Voodoo Fest weekend is no exception.
 
 2. **Buy festival passes before the lineup is announced.** Prices often increase at each lineup reveal wave. If your group is going regardless of who's playing, buy early. The savings are real.
 
@@ -238,25 +238,16 @@ The festival has good food, but you can't eat all three meals inside the gates e
 
 6. **The festival grounds are large enough to lose each other.** Set anchor points, not GPS pins. Cell service degrades when tens of thousands of people are in the same park. A designated food vendor and a meet-up time are more reliable than a phone call.
 
-7. **October weather is not guaranteed.** New Orleans in late October can be warm and clear, can be a cool front, or can be rainy. Have a light layer and a rain layer packed. Don't let weather derail the whole weekend.
+7. **October weather is not guaranteed.** New Orleans in late October can be warm and clear, can be a cool front, or can be rainy. Have a light layer and a rain layer packed — check the [weather guide](/guides/nola-weather-guide/) before you pack. Don't let weather derail the whole weekend.
 
 ---
 
 ## Where to Stay for Voodoo Fest Weekend
 
-This is the single most important logistical decision you'll make. Private villa rentals for large groups book well in advance for Voodoo Fest weekend — don't assume you'll find something two months out.
+This is the single most important logistical decision you'll make. A home base matters more this weekend than most — it's your pre-festival costume staging area, your post-festival decompression zone, and your late-night landing spot after the bars close.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors, completely private. For Voodoo Fest, Castleday's Bywater location puts you walking distance from Frenchmen Street — your primary evening destination every night of the festival. The house becomes your pre-festival costume staging area, your post-festival decompression zone, and your late-night home base. The Herald has the largest common areas for group costume assembly and pre-game gatherings. The Cocodrie has the best outdoor and pool space if the October weather cooperates.
+Location relative to Frenchmen Street is the biggest variable. A Bywater villa with a private pool puts you walking distance from the music every night, no rideshare surge required. A Lower Garden District villa with a shared pool and hot tub trades a few blocks of walk for streetcar access into the Quarter and Mid-City. A large-format house with deep inventory across those same neighborhoods is worth checking if the group needs something on short notice. Hotel room blocks work too if the crew wants separate bills and doesn't mind giving up the shared common space.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, shared heated pool, hot tub, sauna, outdoor kitchen, every room designed by local New Orleans artists. The Syd's central location and shared amenities are ideal for a festival weekend where the group wants a gathering space to decompress between days. The streetcar gives you quick access to the French Quarter and Mid-City without relying entirely on rideshare.
+For the largest selection, book 6+ months out — this is one of the busier weekends on the calendar and properties fill early.
 
-For Voodoo Fest specifically: if walking back from Frenchmen Street at 2 AM is your ideal end to the night, Castleday's Bywater location has the edge. If your group wants shared outdoor common space for the between-festival hours, The Syd's pool and hot tub setup handles that well.
-
-Both properties book out months in advance for Voodoo Fest weekend. Check availability early and have a conversation with the property about the weekend — they know this event well.
-
----
-
-## Book Your Voodoo Fest Weekend
-
-- Castleday Retreats — Bywater, private villas, up to 30 guests, walking distance to Frenchmen Street
-- The Syd — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
