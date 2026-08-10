@@ -29,11 +29,17 @@ events:
   start: '2026-09-03'
   end: '2026-09-07'
   confidence: exact
+- name: Saints home games
+  slug: saints-home-games
+  location: Caesars Superdome
+  start: '2026-09-27'
+  end: '2026-09-27'
+  confidence: announced
 - name: Fried Chicken Fest
   slug: fried-chicken-fest
   location: Lakefront (New Orleans Lakefront Airport grounds)
-  start: '2026-09-26'
-  end: '2026-09-27'
+  start: '2026-10-02'
+  end: '2026-10-04'
   confidence: announced
 - name: Art for Art's Sake
   slug: art-for-arts-sake
@@ -50,8 +56,8 @@ events:
 - name: New Orleans Film Festival
   slug: new-orleans-film-festival
   location: Citywide (multiple venues)
-  start: '2026-10-15'
-  end: '2026-10-18'
+  start: '2026-10-22'
+  end: '2026-10-27'
   confidence: announced
 - name: Krewe of Boo
   slug: krewe-of-boo
@@ -68,8 +74,14 @@ events:
 - name: Oak Street Po-Boy Festival
   slug: oak-street-po-boy-festival
   location: Oak Street, Carrollton
-  start: '2026-11-07'
+  start: '2026-11-08'
   end: '2026-11-08'
+  confidence: announced
+- name: Luna Fete
+  slug: luna-fete
+  location: Lafayette Square
+  start: '2026-11-13'
+  end: '2026-11-15'
   confidence: announced
 - name: Treme Creole Gumbo Festival
   slug: treme-creole-gumbo-festival
@@ -89,18 +101,6 @@ events:
   start: '2026-11-28'
   end: '2026-11-28'
   confidence: exact
-- name: Luna Fete
-  slug: luna-fete
-  location: Lafayette Square
-  start: '2026-12-03'
-  end: '2026-12-06'
-  confidence: announced
-- name: Running of the Santas
-  slug: running-of-the-santas
-  location: Warehouse District
-  start: '2026-12-12'
-  end: '2026-12-12'
-  confidence: announced
 - name: Caroling in Jackson Square
   slug: caroling-in-jackson-square
   location: Jackson Square, French Quarter
@@ -113,24 +113,18 @@ events:
   start: '2026-12-31'
   end: '2026-12-31'
   confidence: exact
-- name: Sugar Bowl
-  slug: sugar-bowl
-  location: Caesars Superdome
-  start: '2027-01-01'
-  end: '2027-01-01'
-  confidence: announced
 - name: Joan of Arc Parade (Twelfth Night)
   slug: joan-of-arc-parade
   location: French Quarter
   start: '2027-01-06'
   end: '2027-01-06'
   confidence: exact
-- name: King cake season
-  slug: king-cake-season
-  location: Every bakery in town
-  start: '2027-01-06'
-  end: '2027-01-06'
-  confidence: exact
+- name: Sugar Bowl
+  slug: sugar-bowl
+  location: Caesars Superdome
+  start: '2027-01-15'
+  end: '2027-01-15'
+  confidence: announced
 - name: Krewe of Chewbacchus
   slug: krewe-of-chewbacchus
   location: Rolls through the Marigny
@@ -173,6 +167,12 @@ events:
   start: '2027-03-13'
   end: '2027-03-13'
   confidence: exact
+- name: Tennessee Williams Festival
+  slug: tennessee-williams-festival
+  location: French Quarter
+  start: '2027-03-17'
+  end: '2027-03-21'
+  confidence: announced
 - name: Hogs for the Cause
   slug: hogs-for-the-cause
   location: Lakefront
@@ -209,12 +209,6 @@ events:
   start: '2027-05-09'
   end: '2027-05-09'
   confidence: exact
-- name: Bayou Boogaloo
-  slug: bayou-boogaloo
-  location: Bayou St. John
-  start: '2027-05-14'
-  end: '2027-05-16'
-  confidence: announced
 - name: Juneteenth events
   slug: juneteenth-events
   location: Citywide
@@ -233,3 +227,58 @@ events:
   start: '2027-07-04'
   end: '2027-07-04'
   confidence: exact
+seasons:
+- slug: oyster-season
+  name: Oyster Season
+  start: '2026-09-01'
+  end: '2027-04-30'
+  confidence: typical
+  note: the cooler 'r' months; crosses the year boundary
+- slug: saints-home-games-window
+  name: Saints Home Games Window
+  start: '2026-09-01'
+  end: '2027-01-05'
+  confidence: typical
+  note: regular season; actual home dates live in announced-dates.yaml under saints-home-games
+- slug: reveillon-dinners
+  name: Reveillon dinners
+  start: '2026-12-01'
+  end: '2026-12-31'
+  confidence: exact
+  note: restaurant Réveillon menus run all December
+- slug: carnival-season
+  name: Carnival Season
+  start: '2027-01-06'
+  end: '2027-02-09'
+  confidence: exact
+  note: Twelfth Night through Mardi Gras Day
+- slug: king-cake-season
+  name: King cake season
+  start: '2027-01-06'
+  end: '2027-02-09'
+  confidence: exact
+  note: same window as Carnival season — bakeries run Jan 6 to Fat Tuesday
+- slug: post-carnival-quiet
+  name: Post Carnival Quiet
+  start: '2027-02-10'
+  end: '2027-03-02'
+  confidence: typical
+  note: Ash Wednesday onward — the city exhales; a real editorial anchor on the sites
+- slug: crawfish-season
+  name: Crawfish season
+  start: '2027-03-01'
+  end: '2027-05-31'
+  confidence: typical
+  note: boils start earlier in good years; peak is April
+- slug: oyster-season
+  name: Oyster Season
+  start: '2027-09-01'
+  end: '2028-04-30'
+  confidence: typical
+  note: the cooler 'r' months; crosses the year boundary
+- slug: saints-home-games-window
+  name: Saints Home Games Window
+  start: '2027-09-01'
+  end: '2028-01-05'
+  confidence: typical
+  note: regular season; actual home dates live in announced-dates.yaml under saints-home-games
