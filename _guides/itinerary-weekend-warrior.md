@@ -4,22 +4,22 @@ description: "Fly in Friday night, leave Sunday afternoon. The tightest NOLA gro
 category: "Planning & Logistics"
 card_title: "Weekend Warrior Itinerary"
 card_description: "48 hours in New Orleans. Arrive Friday night, leave Sunday. Here's how to make it count."
-date: 2026-05-28
+date: 2026-08-10
 ---
 
-Here's the situation: you have 10-25 people, a long weekend, and everyone's flying in Friday evening. You leave Sunday afternoon. That's roughly 44 hours of usable time in New Orleans.
+Here's the situation: you've got the whole crew, a long weekend, and everyone's flying in Friday evening. You leave Sunday afternoon. That's roughly 44 hours of usable time in New Orleans.
 
 Most groups waste it — too much Bourbon Street, too late to bed on Friday, too hungover to function Saturday, too rushed on Sunday. This guide fixes that.
 
 The Weekend Warrior itinerary is optimized for a short trip. You get one signature evening (Frenchmen Street), one real dinner, one morning activity that won't kill a tired group, and enough structure that the logistics don't become the trip. You get home Sunday without a 2 AM red-eye or a missed flight.
 
-It's not the relaxed 3-day trip or the 5-day deep dive. It's a precision instrument for groups that can't take more time off but still want the real New Orleans experience. Used correctly, it works.
+It's not the relaxed [3-day trip](/guides/itinerary-3-day/) or the [5-day deep dive](/guides/itinerary-5-day/). It's a precision instrument for groups that can't take more time off but still want the real New Orleans experience. Used correctly, it works.
 
 ## Quick Checklist
 
 - [ ] Book accommodations before picking flights — large-group properties book out on weekends
-- [ ] Make Saturday dinner reservation 3-4 weeks out for groups of 10+
-- [ ] Book airport transport if you have 15+ people (charter van beats 6 rideshares)
+- [ ] Make Saturday dinner reservation 3-4 weeks out for the whole crew
+- [ ] Book airport transport for a bigger group (charter van beats 6 rideshares)
 - [ ] Set one group chat with the house address pinned
 - [ ] Designate a trip coordinator who makes the final calls
 - [ ] Buy groceries Friday night for Saturday morning (saves an hour and $30/person)
@@ -52,7 +52,7 @@ It's not the relaxed 3-day trip or the 5-day deep dive. It's a precision instrum
 
 ### 5:00–9:00 PM — Getting In
 
-MSY is 20-25 minutes from most neighborhoods. Rideshares run $35-50 per car. If you have 15+ people arriving around the same time, charter a 12-15 passenger van — easier coordination, roughly similar total cost.
+MSY is 20-25 minutes from most neighborhoods. Rideshares run $35-50 per car. If a big chunk of the group is arriving around the same time, charter a 12-15 passenger van — easier coordination, roughly similar total cost.
 
 **The arrival gap problem:** People never land at the same time. Figure out who arrives first and assign them a task.
 
@@ -68,12 +68,12 @@ Everyone else: get in, find your room, put your bag down.
 
 Don't go far. You're tired, people are still arriving, and the city will still be there tomorrow. Keep Friday dinner simple and close to the house.
 
-**If you're staying at Castleday Retreats in the Bywater:**
+**If you're staying in the [Bywater](/neighborhoods/bywater/):**
 - Bacchanal Wine — wine garden, live jazz, arrive by 7:30 to get a good table
 - Pizza Delicious — large groups welcome, casual, easy
 - The Joint — BBQ, sell out early but worth planning around
 
-**If you're staying at The Syd in the Lower Garden District:**
+**If you're staying in the [Lower Garden District](/neighborhoods/lower-garden-district/):**
 - Parasol's — cash-only roast beef po-boys, neighborhood dive, no pretension
 - Atchafalaya — proper Creole dinner with reservations, worth it if you book ahead
 - Magazine Street bar crawl — just walk and find a place that looks good
@@ -104,7 +104,7 @@ Pick one. They all work. Don't try to do multiple.
 
 **Option A: Swamp Tour**
 
-The move for first-timers and the best activity if your group has never been to New Orleans. Drive 30-40 minutes out. Alligators, cypress trees, Spanish moss, airboats. Two hours on the water. Every single person in your group will be glad they did it.
+The move for first-timers and the best activity if your group has never been to New Orleans. Drive 30-40 minutes out. Alligators, cypress trees, Spanish moss, airboats. Two hours on the water. Every single person in your group will be glad they did it. The [swamp tour guide](/guides/nola-swamp-tour-guide/) covers operators and what to expect.
 
 Book in advance. Multiple operators run tours. Takes about 3 hours total with transport. Back by 1:30 PM.
 
@@ -114,7 +114,7 @@ Book in advance. Multiple operators run tours. Takes about 3 hours total with tr
 
 **Option B: Garden District Walk**
 
-One of the best free things you can do in New Orleans. Take the St. Charles Streetcar from Canal Street to the Garden District (it runs down St. Charles Avenue). Walk the neighborhood — grand mansions, oak-canopied streets, Lafayette Cemetery No. 1. Commander's Palace is on the corner. Even if you're not eating there, walk past it.
+One of the best free things you can do in New Orleans. Take the St. Charles Streetcar from Canal Street to the Garden District (it runs down St. Charles Avenue). Walk the neighborhood — grand mansions, oak-canopied streets, Lafayette Cemetery No. 1. Commander's Palace is on the corner. Even if you're not eating there, walk past it. The [Garden District walking tour guide](/guides/nola-group-garden-district-walking-tour-guide/) has a fuller route if your group wants more than the highlights.
 
 2-3 hours, almost free (small streetcar fare), available any time, and genuinely beautiful.
 
@@ -183,9 +183,9 @@ This is the reservation you made 3-4 weeks ago. It should be somewhere real.
 
 This is the non-negotiable. If you do nothing else in this 48-hour trip, you do Frenchmen Street on Saturday night.
 
-Frenchmen Street is three blocks in the Marigny, one block past the French Quarter's eastern edge. Every building is a live music venue — jazz, brass bands, funk, soul, blues. It starts getting good around 9 PM and runs until 2 AM (or later; New Orleans has no last call).
+Frenchmen Street is three blocks in the Marigny, one block past the French Quarter's eastern edge. Every building is a live music venue — jazz, brass bands, funk, soul, blues. It starts getting good around 9 PM and runs until 2 AM (or later; New Orleans has no last call). The [live music guide](/guides/live-music-guide/) covers the rest of the city's venues if a second night were on the table.
 
-**How to do Frenchmen Street with 15-25 people:**
+**How to do Frenchmen Street with the whole crew:**
 
 1. Walk the full street before you pick a venue — scope what's playing
 2. The best bands rotate between the main clubs; check what's posted at each door
@@ -231,9 +231,11 @@ Standard checkout for large group rentals is 11:00 AM or noon. Confirm yours whe
 - Consolidate everyone's luggage near the front door before calling transport
 - One person handles key handoff while others finish loading
 
+The [group arrival and departure guide](/guides/group-arrival-departure-guide/) covers the same problem in more depth if your group's flight times are scattered.
+
 ### 12:30 PM — Airport Transport
 
-**For 15+ people:** Charter a van now just like you did for arrivals. Coordinate the one or two people with early flights separately.
+**For a bigger group:** Charter a van now just like you did for arrivals. Coordinate the one or two people with early flights separately.
 
 Budget 25-30 minutes to the airport. For a 2:30 PM flight, you want to be at the airport by 1 PM. That means leaving the house by 12:30 PM.
 
@@ -278,17 +280,8 @@ Accommodation is the lever that makes the 48-hour trip work. You need one place 
 
 Large group properties designed specifically for groups make the Weekend Warrior itinerary function. Here's why it matters: the house is the hub. Friday evening catch-up happens at the house. Saturday morning breakfast happens at the house. Pre-dinner drinks happen at the house. If everyone's in separate rooms across three hotels, none of that happens.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. The Bywater location puts you 10 minutes from Frenchmen Street on foot — critical when you want to walk home from a late night rather than coordinate Ubers for 20 people. The Herald handles the largest groups; The Cocodrie has the best outdoor space; The Florentine is the most design-focused. Private pools mean Friday night at the house is actually good.
+The field spans a real range of fits for a short trip, and none of this is a recommendation over the others. Castleday Retreats, private-pool [Bywater](/neighborhoods/bywater/) villas up to 30 guests each, puts you a walk from Frenchmen Street — worth it when you want to walk home from a late night rather than coordinate rideshares for the whole group. The Syd, [Lower Garden District](/neighborhoods/lower-garden-district/) villas up to 22 guests each with a shared heated pool and hot tub, sits one block from the St. Charles Streetcar — your mobility lifeline for the Garden District walk and general city access. Heirloom's large-format homes across both neighborhoods add more choice if the calendar's tight. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full cost breakdown against a hotel block.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar, which is your mobility lifeline for the Garden District walk and general city access. Artist-designed interiors throughout. The shared outdoor space creates the communal energy that makes a short trip feel full.
+For the Weekend Warrior specifically: pick by neighborhood. Bywater sits slightly closer to Frenchmen Street. The Lower Garden District gives better access to the Garden District morning walk and Magazine Street. Choose based on which Saturday morning activity you've decided on.
 
-For the Weekend Warrior specifically: both properties work. The Bywater (Castleday) is slightly closer to Frenchmen Street. The Lower Garden District (The Syd) gives you better access to the Garden District morning walk and Magazine Street. Choose based on which Saturday morning activity you've decided on.
-
----
-
-## Book Your Weekend
-
-Two nights, one great trip. The logistics are tighter than a longer stay, but the fundamentals are the same: one great place, one great dinner, one great night out.
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, private pools, 10 minutes to Frenchmen Street
-- **The Syd** — Lower Garden District, up to 22 per villa, streetcar access, heated pool and sauna
+[See where to stay for large groups →](/where-to-stay/)
