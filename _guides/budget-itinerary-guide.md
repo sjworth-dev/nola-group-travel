@@ -4,7 +4,7 @@ description: "A complete low-budget NOLA group trip itinerary: what's free, what
 category: "Planning & Logistics"
 card_title: "Budget Group Itinerary"
 card_description: "Free music, cheap eats, smart accommodation, and a complete day-by-day plan for under $150 per person per day."
-date: 2026-05-27
+date: 2026-08-10
 ---
 
 New Orleans has a reputation for being expensive. That reputation is half right. There are ways to spend a lot of money here. There are also more free and cheap things to do in New Orleans than in almost any other city in America — free music every night, free parks, free architecture tours on foot, free festivals most of the year, and food that's genuinely cheap when you know where to eat.
@@ -15,7 +15,7 @@ This guide gives you the full framework: what to spend on, what to skip, and a d
 
 ## Quick Checklist
 
-- [ ] Book accommodation early — villa per-person costs drop significantly at 15–20 people
+- [ ] Book accommodation early — for the largest selection, book 6+ months out, and villa per-person costs drop hard once the group hits double digits
 - [ ] Designate a group grocery run on day one
 - [ ] Identify the free music nights and festivals happening during your trip
 - [ ] Budget for one or two nice dinners and keep the rest casual
@@ -78,13 +78,13 @@ The entire city is a free architecture tour. The French Quarter's ironwork balco
 
 ## Day-by-Day Budget Itinerary
 
-This is a 3-night, 4-day budget trip for a group of 15–25. Day costs are per-person estimates based on this group size.
+This is a 3-night, 4-day budget trip built for a big group — the whole crew renting one place instead of a block of hotel rooms. Day costs are per-person estimates at that scale.
 
 ### Day 1: Arrival Day — $30–50
 
 **Midday:**
 - Arrive, check in to your villa
-- **Grocery run:** Designate 2–3 people to stock the house. Ingredients for breakfast the next two days, snacks, drinks, a meal's worth of groceries. Budget $15–20 per person for the entire grocery run.
+- **Grocery run:** Designate 2–3 people to stock the house. Ingredients for breakfast the next two days, snacks, drinks, a meal's worth of groceries. Budget $15–20 per person for the entire grocery run. See the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) for a full shopping list.
 - Settle in, get oriented
 
 **Afternoon:**
@@ -93,7 +93,7 @@ This is a 3-night, 4-day budget trip for a group of 15–25. Day costs are per-p
 
 **Evening:**
 - Dinner at the house: cook a simple meal together or order something delivered
-- Walk to Frenchmen Street for live music
+- Walk to Frenchmen Street for live music — see the [live music guide](/guides/live-music-guide/) for which clubs are worth the walk
 - **Cost tonight:** Frenchmen Street cover charges are free or $5–10 at most venues; budget $20–30 total for drinks + tips
 
 ---
@@ -113,7 +113,7 @@ This is a 3-night, 4-day budget trip for a group of 15–25. Day costs are per-p
 - Skip the full-service tourist restaurants inside the Quarter for lunch. The ratio of cost to quality is poor.
 
 **Afternoon:**
-- Streetcar to the Garden District: $1.25 per ride
+- Streetcar to the Garden District: $1.25 per ride — the [St. Charles streetcar itinerary](/guides/nola-group-st-charles-streetcar-itinerary/) has the full stop-by-stop route
 - Walk the Garden District mansions (free)
 - Magazine Street: browsing costs nothing, buying is optional
 - Audubon Park: free, excellent for a group afternoon
@@ -139,7 +139,7 @@ This is a 3-night, 4-day budget trip for a group of 15–25. Day costs are per-p
 **Evening:**
 - Private chef dinner at the villa: $60–100 per person depending on menu and group size, but it replaces a restaurant dinner AND provides the entertainment. See the [private chef guide](/guides/private-chef-guide).
 - OR: cheap dinner at a neighborhood restaurant, then another Frenchmen Street night
-- **Option:** If a second line parade is happening this weekend, plan around it — they're free
+- **Option:** If a [second line parade](/guides/second-line-guide/) is happening this weekend, plan around it — they're free
 
 ---
 
@@ -243,23 +243,16 @@ New Orleans drinking is surprisingly affordable if you don't drink at tourist ba
 
 6. **Go to Frenchmen Street on a weeknight.** Better music, fewer people, lower drink minimums. Thursday is typically the best weeknight.
 
-7. **Track expenses from day one.** Splitwise is free, works well for large groups, and prevents the money conversation from happening at 11pm on day three.
+7. **Track expenses from day one.** A shared expense app is free, works well for large groups, and prevents the money conversation from happening at 11pm on day three — the [group communication guide](/guides/group-communication-guide/) covers the tools worth using.
 
 ---
 
-## Where to Stay
+## The Large-Group Accommodation Piece
 
-The budget math only works if you use it. Here's where 20+ people get the per-person rate down to something workable.
+The budget math above only works if the accommodation actually delivers a kitchen and shared space — a block of hotel rooms doesn't do either, no matter how the per-room rate looks.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The per-person cost at 20–30 guests brings accommodation into range for budget travelers. Private pools, full kitchens (cook 2–3 meals at home; that alone saves $50+ per person), and the Bywater location puts Frenchmen Street within walking distance. No Uber needed for your music nights.
+A private villa is the obvious fit: a full kitchen (cook 2–3 meals in and the savings compound fast) and a pool or courtyard that's free entertainment for the whole stay. Options range from Bywater villas with private pools, to Lower Garden District villas with a shared heated pool and streetcar access, to large-format houses with the deepest inventory for finding something on short notice. Apartment-style floors with separate billing are worth a look too if the group wants to split costs cleanly rather than pool one big payment. None of these is a universal right answer — fit depends on your group's size and how much privacy versus shared space you want.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar — $1.25 per ride covers all your Garden District runs instead of Uber. Artist-designed interiors that make the villa itself a destination.
+For the largest selection, book 6+ months out — big-group properties move fast regardless of the season.
 
-The kitchen access at both properties is not incidental to the budget strategy. It's central to it.
-
----
-
-## Book Your Budget Group Trip
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, full kitchen, walking distance to Frenchmen Street
-- The Syd — Lower Garden District, up to 22 guests per villa, outdoor kitchen, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
