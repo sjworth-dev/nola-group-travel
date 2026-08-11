@@ -4,12 +4,12 @@ description: "What to pack specifically for Jazz Fest, Essence Fest, French Quar
 category: "Festivals & Events"
 card_title: "Festival Packing Guide"
 card_description: "What to bring to Jazz Fest, Essence Fest, French Quarter Fest — the real list. Cooler strategy, rain gear, and the stuff 20 groups forget every year."
-date: 2026-06-02
+date: 2026-08-11
 ---
 
-Every year, groups of 15-25 people show up to Jazz Fest, Essence Fest, or French Quarter Fest without the items they needed. They spend the first two hours of the day fixing problems that were entirely preventable. They buy $12 ponchos at the gate. They realize half the group has nowhere to put their stuff. Someone gets heat exhaustion by noon.
+Every year, big groups show up to [Jazz Fest](/guides/jazz-fest-group-guide/), [Essence Fest](/guides/essence-festival/), or [French Quarter Fest](/guides/french-quarter-fest/) without the items they needed. They spend the first two hours of the day fixing problems that were entirely preventable. They buy $12 ponchos at the gate. They realize half the group has nowhere to put their stuff. Someone gets heat exhaustion by noon.
 
-This guide exists to prevent that. The basics apply to every outdoor festival in New Orleans — this city runs festivals in spring heat, summer heat, and occasional downpours. The logistics of moving a large group through a festival day are different from going individually. And there are specific items that groups consistently forget that make the difference between a great festival day and a miserable one.
+This guide exists to prevent that. The basics apply to every outdoor festival in New Orleans — this city runs festivals in spring heat, summer heat, and occasional downpours (see the [festival season calendar](/guides/festival-season-calendar/) for how the year's dates stack up). The logistics of moving a large group through a festival day are different from going individually. And there are specific items that groups consistently forget that make the difference between a great festival day and a miserable one.
 
 The guide is organized by festival type, then by category, with a universal base list that applies to all of them.
 
@@ -49,7 +49,7 @@ Before you get to festival-specific items, every person in the group needs this 
 
 ### What to Carry It In
 
-**One large bag per group (not per person):** The most efficient setup for a group of 15-20 is 2-3 large backpacks or totes that carry the shared items — sunscreen, extra snacks, the group's ponchos, the portable chargers. Everyone carries their own personal items (wallet, phone, ID), but the heavy shared supplies don't need to be duplicated 20 times.
+**One large bag per group (not per person):** The most efficient setup for a mid-size crew is 2-3 large backpacks or totes that carry the shared items — sunscreen, extra snacks, the group's ponchos, the portable chargers. Everyone carries their own personal items (wallet, phone, ID), but the heavy shared supplies don't need to be duplicated 20 times.
 
 **Who carries the shared bag:** Rotate. Not just one person the entire day. Establish this before you leave the villa.
 
@@ -57,7 +57,7 @@ Before you get to festival-specific items, every person in the group needs this 
 
 ## Jazz Fest: The Specific Requirements
 
-Jazz Fest (officially the New Orleans Jazz & Heritage Festival) runs the last weekend in April and first weekend in May at the Fair Grounds Race Course. It is an outdoor festival on a horse racing infield that can reach 30,000+ attendees. The terrain is grass and dirt. The sun exposure is full.
+Jazz Fest (officially the New Orleans Jazz & Heritage Festival) runs the last weekend in April and first weekend in May at the Fair Grounds Race Course. It is an outdoor festival on a horse racing infield that can reach 30,000+ attendees. The terrain is grass and dirt. The sun exposure is full. The [Jazz Fest group guide](/guides/jazz-fest-group-guide/) has the full day-by-day survival plan; this section is just the packing list.
 
 ### Jazz Fest-Specific Items
 
@@ -89,7 +89,7 @@ Jazz Fest (officially the New Orleans Jazz & Heritage Festival) runs the last we
 
 ## Essence Fest: The Specific Requirements
 
-Essence Fest runs over Fourth of July weekend and is centered on the Ernest N. Morial Convention Center and the Superdome (now Caesars Superdome), with concerts that run late into the night. It is primarily an indoor/arena event in the evenings, with daytime programming that varies.
+Essence Fest runs over Fourth of July weekend and is centered on the Ernest N. Morial Convention Center and the Superdome (now Caesars Superdome), with concerts that run late into the night. It is primarily an indoor/arena event in the evenings, with daytime programming that varies. See the [Essence Fest guide](/guides/essence-festival/) and the [Essence Fest base camp guide](/guides/nola-group-essence-festival-base-camp-guide/) for the fuller logistics picture.
 
 ### Essence Fest-Specific Items
 
@@ -119,7 +119,7 @@ Essence Fest runs over Fourth of July weekend and is centered on the Ernest N. M
 
 ## French Quarter Fest: The Specific Requirements
 
-French Quarter Fest runs in April and is a free outdoor festival with stages spread across the French Quarter. It's local-focused, heavily attended, and the terrain is the streets and plazas of the Quarter.
+French Quarter Fest runs in April and is a free outdoor festival with stages spread across the French Quarter. It's local-focused, heavily attended, and the terrain is the streets and plazas of the Quarter. The [French Quarter Fest guide](/guides/french-quarter-fest/) covers the full stage layout and schedule strategy.
 
 ### French Quarter Fest-Specific Items
 
@@ -148,7 +148,7 @@ French Quarter Fest runs in April and is a free outdoor festival with stages spr
 
 ## Rain Gear: The NOLA Festival Reality
 
-New Orleans festivals happen in spring and summer. Spring means afternoon thunderstorms. Summer means afternoon thunderstorms and humidity so thick it qualifies as precipitation anyway. You will encounter rain.
+New Orleans festivals happen in spring and summer. Spring means afternoon thunderstorms. Summer means afternoon thunderstorms and humidity so thick it qualifies as precipitation anyway. You will encounter rain. The [weather guide](/guides/nola-weather-guide/) has the month-by-month breakdown if you're deciding when to book.
 
 **The rule:** Every person in the group carries a poncho. Not a nice poncho from home they don't want to get dirty — a cheap, lightweight, packable poncho in a small bag. These weigh almost nothing. They eliminate one of the most predictable festival problems.
 
@@ -193,7 +193,7 @@ New Orleans festivals happen in spring and summer. Spring means afternoon thunde
 
 4. **Meeting point communication.** Groups at festivals disperse. This is normal and good. What's not good is having 20 people trying to find each other with dead phones. Establish a physical meeting point (a specific stage corner, a specific food vendor) before you split up.
 
-5. **Return transport plan.** Post-festival Uber surge is real. After Jazz Fest at 6pm, Essence Fest at 1am, or FQF at 9pm, the rideshare demand spikes. Charter a van in advance or plan staggered departures to avoid the worst of the surge.
+5. **Return transport plan.** Post-festival Uber surge is real. After Jazz Fest at 6pm, Essence Fest at 1am, or FQF at 9pm, the rideshare demand spikes. Charter a van in advance (see the [charter bus guide](/guides/nola-group-charter-bus-guide/) for how to book one) or plan staggered departures to avoid the worst of the surge.
 
 6. **Electrolytes.** Drinking in heat causes electrolyte loss faster than water alone replenishes it. Pedialyte, Liquid IV, sports drinks, or even a banana in the cooler. Groups that don't manage electrolytes end up with headaches and early crashes.
 
@@ -211,7 +211,7 @@ New Orleans festivals happen in spring and summer. Spring means afternoon thunde
 
 4. **French Quarter Fest: split the group and set check-in times.** The multi-stage format was designed for roaming. Fighting it by keeping 20 people together is exhausting. Agree to meet at Jackson Square at 2pm, 5pm, and 8pm and do your own thing in between.
 
-5. **Hydration is a logistics problem.** At 8 hours outdoors in Louisiana heat, individual consumption can be 2-4 liters of water. That's heavy. Plan refill stations, bring hydration tablets, or use the cooler strategy. Groups that don't plan hydration have someone who needs medical attention by 3pm.
+5. **Hydration is a logistics problem.** At 8 hours outdoors in Louisiana heat, individual consumption can be 2-4 liters of water. That's heavy. Plan refill stations, bring hydration tablets, or use the cooler strategy. Groups that don't plan hydration have someone who needs medical attention by 3pm. The [outdoor festival heat management guide](/guides/nola-group-outdoor-festival-heat-management/) goes deeper on this.
 
 6. **Flat shoes matter more than they seem.** Jazz Fest grass becomes mud in rain. French Quarter streets are uneven. You will walk 5+ miles. Heels, slides, and flip-flops cause blisters, falls, and a ruined afternoon. Communicate this to the group before the day of.
 
@@ -221,15 +221,8 @@ New Orleans festivals happen in spring and summer. Spring means afternoon thunde
 
 ## Where to Stay for Festival Season
 
-Both properties put you within easy transport of every major NOLA festival venue.
+Festival trips put more strain on a kitchen and a pool than almost any other trip type — you're stocking a cooler the night before, cooking a real meal after 8 hours in the heat, and recovering somewhere that isn't a hotel bathtub. Pick accommodation for that, not just proximity.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday's full kitchens are excellent for festival prep — stock the cooler the night before, make breakfast before the early departure, cook a real meal after a long festival day. The private pool is non-negotiable recovery for a day that ends at 3pm with sunburn and mud. The Bywater is also positioned for easy rideshares to Jazz Fest at the Fair Grounds.
+A Bywater villa with its own pool is the play for total privacy and an easy rideshare to the Fair Grounds. Lower Garden District villas with a shared pool put the group close to the streetcar, which matters more for an Essence Fest base near the CBD. Hotel room blocks work for groups who want to be walking distance from French Quarter Fest and don't need a full kitchen. Whichever shape fits, a full kitchen and a pool are the two things a festival trip actually needs — check the field against your dates and, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. The Syd's outdoor kitchen handles the pre-festival breakfast-for-20 efficiently. The shared pool is the correct post-festival destination. The Syd's proximity to the CBD makes it the ideal Essence Fest base — the Superdome is a short rideshare away, and the streetcar gives you an easy transit option for daytime events.
-
----
-
-## Book Your Festival Trip
-
-- Castleday Retreats — Bywater, up to 30 per villa, full kitchens, private pools
-- The Syd — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool
+[See where to stay for large groups →](/where-to-stay/)
