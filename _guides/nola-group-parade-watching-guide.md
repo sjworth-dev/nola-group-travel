@@ -3,13 +3,13 @@ title: "New Orleans Parade Watching Guide for Large Groups"
 description: "Viewing Mardi Gras and other parades as a large group: lining up strategy, neutral ground vs. banquette, throws logistics, what to bring, how to keep 20 people together on a parade route, and the post-parade plan."
 category: "Festivals & Events"
 card_title: "NOLA Parade Watching Guide"
-card_description: "Mardi Gras and parade watching for groups of 10-30: where to stand, neutral ground vs. sidewalk, throws strategy, what to bring, and how to keep everyone together on a parade route."
-date: 2026-06-15
+card_description: "Mardi Gras and parade watching for the whole crew: where to stand, neutral ground vs. sidewalk, throws strategy, what to bring, and how to keep everyone together on a parade route."
+date: 2026-08-11
 ---
 
 New Orleans parade culture is one of the most participatory public spectacles in the world. Mardi Gras has hundreds of parades across the season. But the city also parades year-round — Krewe of Boo in October, holiday parades in December, neighborhood second line parades on Sunday afternoons throughout the year. A large group watching a parade in this city is not a passive experience. You are part of it.
 
-For groups of 10-30, parades require logistics that solo travelers and couples ignore. Positioning on the route. Supplies for a multi-hour outdoor event. A system for keeping everyone together when a crowd of 50,000 people is moving in every direction. A plan for what happens after.
+At full headcount, parades require logistics that solo travelers and couples ignore. Positioning on the route. Supplies for a multi-hour outdoor event. A system for keeping everyone together when a crowd of 50,000 people is moving in every direction. A plan for what happens after.
 
 Here's how to do it properly.
 
@@ -64,7 +64,7 @@ For large groups bringing children or people who can't stand for hours in a crow
 
 The major krewe parades — Bacchus, Endymion, Orpheus, Zulu, Rex, and many others — are large-scale productions. Hundreds of floats, marching bands, celebrity grand marshals, enormous crowds. This is the peak of NOLA parade culture.
 
-**Timeline:** Parade season runs from early January (on Epiphany/Twelfth Night) through Fat Tuesday. The biggest parades are in the final week, peaking on Lundi Gras and Mardi Gras Day.
+**Timeline:** Parade season runs from early January (on Epiphany/Twelfth Night) through Fat Tuesday. The biggest parades are in the final week, peaking on Lundi Gras and Mardi Gras Day. See the [Carnival season parade calendar](/guides/nola-group-carnival-season-parade-calendar/) for how to plan around the full run, and the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) for the broader trip strategy beyond just parade days.
 
 **Throws:** Beads, cups, doubloons, stuffed animals, and specialty items unique to each krewe. The throws escalate in value as the parades approach Mardi Gras Day.
 
@@ -74,7 +74,7 @@ The major krewe parades — Bacchus, Endymion, Orpheus, Zulu, Rex, and many othe
 
 The city's official Halloween parade runs in October through the French Quarter and along a route in the vicinity of Canal Street. Excellent for groups who want a parade experience without Mardi Gras crowd intensity.
 
-**Why it works for groups:** Lower crowd density than Mardi Gras, Halloween costumes are a natural large-group coordination activity, and the French Quarter route makes bar-hopping before and after easier.
+**Why it works for groups:** Lower crowd density than Mardi Gras, Halloween costumes are a natural large-group coordination activity, and the French Quarter route makes bar-hopping before and after easier. Pair it with the [Halloween guide](/guides/halloween-guide/) for the rest of the weekend around the parade.
 
 ### Neighborhood Second Line Parades
 
@@ -82,7 +82,7 @@ The Social Aid and Pleasure Clubs organize second line parades on Sunday afterno
 
 These are different from Mardi Gras parades in a fundamental way: everyone participates. There are no bleachers. There is no neutral ground to claim. You join the second line as it passes and you walk with it, following the brass band, waving your handkerchief or umbrella.
 
-**For groups:** Second lines are one of the best large-group experiences in NOLA for groups that want to participate rather than watch. Your group of 20 slides into the second line behind the brass band and becomes part of the parade. No advance booking required.
+**For groups:** Second lines are one of the best large-group experiences in NOLA for groups that want to participate rather than watch. Your group of 20 slides into the second line behind the brass band and becomes part of the parade. No advance booking required — the [second line guide](/guides/second-line-guide/) covers etiquette and how to find a route on short notice, and the [Sunday second line guide](/guides/nola-group-second-line-sunday-guide/) goes deeper on the weekly schedule.
 
 ---
 
@@ -96,7 +96,7 @@ Catching throws is a skill. Here's the group approach:
 
 **The catch coordination:** When a float approaches, the group's job is to make noise and make eye contact with the float riders. Riders throw to people who are visibly engaged. A group of 20 people enthusiastically waving at a float rider is more likely to receive throws than 20 people standing quietly.
 
-**What to do with throws:** Most Mardi Gras beads end up in trash bags. The good stuff — krewe specialty throws, quality cups, painted coconuts from Zulu — is worth keeping. Brief the group before the parade on what's genuinely collectible vs. what can be released back into the crowd.
+**What to do with throws:** Most Mardi Gras beads end up in trash bags. The good stuff — krewe specialty throws, quality cups, painted coconuts from Zulu — is worth keeping. Brief the group before the parade on what's genuinely collectible vs. what can be released back into the crowd. For the full etiquette rundown — what's rude to ask for, what to do when a rider makes eye contact, how to not be that group — see the [bead-throwing etiquette guide](/guides/nola-group-bead-throwing-etiquette-guide/). If someone in your crew wants to ride a float instead of watch one, the [float rider guide](/guides/nola-group-parade-float-rider-guide/) covers what that actually involves.
 
 ### What to Bring
 
@@ -160,7 +160,7 @@ This is where groups fail. The parade ends. Everyone is simultaneously hungry, t
 
 2. **The wait is the experience.** NOLA parade culture treats the pre-parade setup as social time — people set up food, drinks, lawn chairs, and visit with neighbors. Don't treat the waiting time as dead time. Bring supplies and let the wait be part of the day.
 
-3. **Wear a costume or memorable outfit.** Float riders throw more to costumed groups. This is a consistent reality. It doesn't require elaborate costumes — matching T-shirts, coordinated colors, or themed accessories all increase your throws volume.
+3. **Wear a costume or memorable outfit.** Float riders throw more to costumed groups. This is a consistent reality. It doesn't require elaborate costumes — matching T-shirts, coordinated colors, or themed accessories all increase your throws volume. The [Mardi Gras costume guide](/guides/nola-group-mardi-gras-costume-guide/) has group-coordination options that don't require a full sewing operation.
 
 4. **Beads are not valuable; moments are.** The genuine experience of catching a decorated coconut from a Zulu float, or a hand-made specialty throw from an artist krewe, is worth more than a bag full of generic beads. Focus on the moments, not the collection.
 
@@ -174,15 +174,14 @@ This is where groups fail. The parade ends. Everyone is simultaneously hungry, t
 
 ## The Home Base for Parade Season
 
-Long parade days require a real base. Somewhere to stage the supplies, store the beads, and return to when the parade is done.
+Long parade days require a real base. Somewhere to stage the supplies, store the beads, and return to when the parade is done. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the full math on which structure fits your group, but for parade season specifically, a few property types stand out:
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is close enough to major parade routes that you can walk to the neutral ground, spend the day at the parade, and walk back with your beads. The villa private pools are the best post-parade recovery option in the city — the group returns, drops the beads, and collapses into the pool before dinner. Castleday holds a 4.98 average across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. It's a rideshare or streetcar ride from the Uptown route rather than walking distance, but the private pool at each villa is the best post-parade recovery option in the city — the group returns, drops the beads, and collapses into the pool before dinner. Castleday holds a 4.98 average across 99 reviews.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's Lower Garden District location puts you close to the Uptown parade route and Magazine Street — the neighborhood is parade-proximate without being in the thickest of the crowd. The shared outdoor kitchen handles the post-parade spread without requiring a restaurant reservation.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, one block from the St. Charles streetcar with a shared heated pool and hot tub. That streetcar access is the real edge during parade season — it drops you close to the Uptown route without needing a car or a long rideshare wait home afterward.
 
----
+**Hotels for room blocks** — For a group mixed on budget, or one that wants to be walking distance to a French Quarter-adjacent route like Krewe of Boo, a room block at a hotel like The Roosevelt or Hotel Peter & Paul keeps everyone under one roof with separate bills.
 
-## Book Your Parade Season Base
+None of these is a booking recommendation — pick by fit, and for the largest selection, book 6+ months out.
 
-- Castleday Retreats — Bywater villas, up to 30 guests, parade-route-accessible, private pools for post-parade recovery
-- The Syd — Lower Garden District villas, up to 22 guests, proximity to Uptown parade route, shared outdoor kitchen and pool
+[See where to stay for large groups →](/where-to-stay/)
