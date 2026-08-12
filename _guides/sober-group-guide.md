@@ -4,7 +4,7 @@ description: "Planning a large group trip to NOLA when some or all of your group
 category: "Planning & Logistics"
 card_title: "Sober Group Travel"
 card_description: "NOLA is one of the best food and music cities on earth. Here's how to plan a trip where alcohol isn't the activity."
-date: 2026-05-29
+date: 2026-08-12
 ---
 
 New Orleans has a reputation as a drinking city. Bourbon Street, go-cups, no last call. That's all real.
@@ -38,7 +38,7 @@ A trip structured around serious eating is a legitimate NOLA trip. A culinary fo
 
 New Orleans is one of the last American cities with a daily, walking-accessible live music scene that isn't manufactured for tourists. Frenchmen Street has three to four clubs within a two-block stretch playing real jazz, brass band, funk, and blues every night starting around 9 PM.
 
-You don't drink at Frenchmen Street—you listen. The music is the thing.
+You don't drink at Frenchmen Street—you listen. The music is the thing. The [live music guide](/guides/live-music-guide/) has the club-by-club breakdown if you want to plan the night before you're standing on the sidewalk deciding.
 
 Preservation Hall has been running since 1961. A 45-minute set of traditional New Orleans jazz in an intimate room is one of the better experiences in American music travel, full stop.
 
@@ -86,7 +86,7 @@ The Spotted Cat, d.b.a., and Snug Harbor are all venues where the serious music 
 
 | Activity | What It Is | Best For |
 |----------|-----------|---------|
-| Cooking class | Learn to make gumbo, roux, or beignets | Groups who want to do something together |
+| [Cooking class](/guides/nola-cooking-class-guide/) | Learn to make gumbo, roux, or beignets | Groups who want to do something together |
 | Culinary walking tour | Guided tasting through neighborhoods | Introduction to NOLA food canon |
 | Central Grocery muffuletta | The original, since 1906 | Food history nerds |
 | Café Du Monde | Beignets and café au lait | Every group, once |
@@ -107,7 +107,7 @@ The Spotted Cat, d.b.a., and Snug Harbor are all venues where the serious music 
 | Activity | Duration | Notes |
 |----------|----------|-------|
 | Cemetery tour (St. Louis #1 or #3) | 1-2 hours | Guided only for some cemeteries |
-| National WWII Museum | 4-6 hours | One of the top museums in the US |
+| [National WWII Museum](/guides/nola-group-wwii-museum-guide/) | 4-6 hours | One of the top museums in the US |
 | Ogden Museum of Southern Art | 2 hours | Strong permanent collection |
 | Tremé neighborhood walk | 2-3 hours | Oldest African American neighborhood in US |
 | Whitney Plantation | Half day, day trip | Slavery history, serious and important |
@@ -118,9 +118,9 @@ The Spotted Cat, d.b.a., and Snug Harbor are all venues where the serious music 
 |----------|-------|
 | Bike rentals (City Park or Bywater) | Flat city, easy riding |
 | Kayak on Bayou St. John | Easy paddling, beautiful |
-| Swamp tour | 2-hour airboat or boat tour |
+| [Swamp tour](/guides/nola-swamp-tour-guide/) | 2-hour airboat or boat tour |
 | City Park running paths | 1,300 acres, easy access |
-| Garden District walking tour | 2 hours, architectural history |
+| [Garden District walking tour](/guides/nola-group-garden-district-walking-tour-guide/) | 2 hours, architectural history |
 
 ---
 
@@ -160,27 +160,17 @@ Groups without a drinking anchor need restaurant reservations as the structural 
 
 ## Evening at the Villa
 
-A sober-friendly trip benefits more than any other trip type from good villa accommodations. Evenings at home base become the social glue—card games, conversation, cooking together, watching movies, playing music.
-
-Both of the properties we recommend have strong common areas designed for exactly this.
+A sober-friendly trip benefits more than any other trip type from good villa accommodations. Evenings at home base become the social glue—card games, conversation, cooking together, watching movies, playing music. A room block scatters everyone back to separate floors; a shared villa keeps the night going in one common space.
 
 ---
 
-## Where to Stay
+## Where to Stay for Large Groups
 
-### Castleday Retreats — Bywater
+For a group that's not structuring the trip around going out to bars, the villa becomes more central to the day than usual—breakfast together, afternoons by the pool, cooking and cards after the dinner reservation, not before it.
 
-Castleday Retreats has three private villas in the Bywater, each sleeping up to 30 guests. The full-kitchen setup, private pool, and generous common areas make these villas genuinely livable for a week. For a group that's not structuring the trip around going out to bars, the villa becomes more central—breakfast together, afternoons by the pool, evenings before and after dinner.
+**Editorial examples of what fits:** properties like Castleday Retreats (Bywater private-pool villas) put a group walkable to Frenchmen Street's music clubs and to Bacchanal Wine's food-and-live-music courtyard—useful when the evening plan is listening, not drinking. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, has a shared heated pool and hot tub that give a sober-curious evening a real at-home activity, with streetcar access to restaurants and neighborhoods without car logistics. Heirloom's larger inventory across the Lower Garden District and Central City is worth a look if the dates are tight. None of these is a booking recommendation—the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a shared villa's common space stacks up against a hotel room block for a group building its trip around food and music instead of bars.
 
-The Bywater location is ideal: walkable to Frenchmen Street music venues, walkable to Bacchanal Wine (which has a full food menu and live music—accessible without drinking), and quiet enough for early mornings.
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### The Syd — Lower Garden District
-
-The Syd is in the Lower Garden District, one block from the St. Charles Streetcar. Each villa sleeps up to 22 guests and features artist-designed interiors, a shared heated pool, hot tub, outdoor kitchen, and sauna. The outdoor kitchen makes group cooking dinners easy. The streetcar access means music, restaurants, and neighborhoods are always accessible without car logistics.
-
-For a sober-curious trip, the hot tub and sauna in the evening become real amenities—a legitimate evening activity at the property.
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
@@ -244,6 +234,3 @@ For a sober-curious trip, the hot tub and sauna in the evening become real ameni
 Stop treating sobriety (or sober-curious travel) as a constraint on a New Orleans trip. The food alone justifies the flight. The music is free and everywhere. The history is more layered than almost any American city.
 
 Build the trip around eating well, listening to live music, and walking through neighborhoods. That's the real New Orleans anyway.
-
-**Castleday Retreats** — Bywater, 3 private villas up to 30 guests, private pools, full kitchens
-**The Syd** — Lower Garden District, multiple villas up to 22 guests, pool, hot tub, sauna, outdoor kitchen
