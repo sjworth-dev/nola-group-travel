@@ -4,7 +4,7 @@ description: "Every major New Orleans festival and event season, with group plan
 category: "Planning & Logistics"
 card_title: "Festival Season Calendar"
 card_description: "Mardi Gras, Jazz Fest, Essence, Southern Decadence, and every major event — when to go, when to book, what to expect."
-date: 2026-05-29
+date: 2026-08-12
 ---
 
 New Orleans is a festival city. Not one or two events a year — a near-continuous calendar of parades, fests, and massive gatherings that reshape the city's logistics, pricing, and energy from January through December.
@@ -29,16 +29,16 @@ Know the calendar before you pick your dates. It changes everything.
 
 ### January
 
-**Sugar Bowl (New Year's Day)**
+**Sugar Bowl (early January)**
 - College football at Caesars Superdome
-- City is still buzzing from New Year's Eve
+- Traditionally New Year's Day, but it shifts to mid-January in years the Sugar Bowl hosts a College Football Playoff semifinal — the 2027 game is set for January 15
 - Moderate price bump, manageable logistics
 - Group impact: Book downtown/CBD rentals early; avoid renting cars during the game
 
 **New Orleans Restaurant Week (mid-January)**
 - Special menus at top restaurants, typically reduced prix fixe
 - One of the best times to eat well for less
-- Group impact: Make reservations. This is the move for a foodie group.
+- Group impact: Make reservations. This is the move for a foodie group — the [Restaurant Week guide](/guides/nola-group-restaurant-week-guide/) has the full booking playbook.
 
 **Martin Luther King Weekend**
 - Popular travel weekend, hotels/rentals fill up
@@ -52,8 +52,8 @@ Know the calendar before you pick your dates. It changes everything.
 **Mardi Gras Season (mid-January to Fat Tuesday)**
 - The Super Bowl of New Orleans events. Nothing comes close.
 - Parade season officially starts January 6 (Twelfth Night) with the major krewes rolling the final 2-3 weeks before Fat Tuesday
-- Fat Tuesday date shifts annually: calculate 47 days before Easter
-- Group impact: **This is the highest-demand stretch of the year.** For a big group, this is the single hardest weekend on the calendar to book late — for the largest selection, book 6+ months out.
+- Fat Tuesday date shifts annually: calculate 47 days before Easter — the next one lands February 9, 2027
+- Group impact: **This is the highest-demand stretch of the year.** For a big group, this is the single hardest weekend on the calendar to book late — for the largest selection, book 6+ months out. The [Mardi Gras group guide](/guides/mardi-gras-group-guide/) covers parade-route logistics, ladder etiquette, and where to base a big crew.
 
 | Week | What's Happening | Crowd Level |
 |------|-----------------|-------------|
@@ -72,7 +72,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Multiple parades across the city, especially the Irish Channel and Metairie parades
 - Irish Channel neighborhood is the epicenter
 - Cabbage and beads thrown from floats — the city leans into it hard
-- Group impact: Irish Channel and Magazine Street get packed. Good fun for a 1-2 day group trip around this date. For the largest selection, book 6+ months out.
+- Group impact: Irish Channel and Magazine Street get packed. Good fun for a 1-2 day group trip around this date. For the largest selection, book 6+ months out. The [St. Patrick's Day guide](/guides/nola-group-st-patricks-day-guide/) has the parade-route and pub-crawl specifics.
 
 **Lundi Gras / Final Mardi Gras Weekend**
 - If Mardi Gras falls in March (every few years), this applies here instead of February
@@ -89,9 +89,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 **French Quarter Festival (first weekend)**
 - 4-day festival across 20+ stages in the French Quarter — free to attend
+- Next up: April 8–11, 2027 (confirm exact hours at the official site closer to the date)
 - All local music, no national acts. This is the point.
 - Best music festival in the city, in our opinion
-- Group impact: French Quarter accommodation books fast — for the largest selection, book 6+ months out.
+- Group impact: French Quarter accommodation books fast — for the largest selection, book 6+ months out. Full breakdown in the [French Quarter Fest guide](/guides/french-quarter-fest/).
 
 **Zurich Classic (late April)**
 - PGA Tour event at TPC Louisiana in Avondale
@@ -100,10 +101,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 **Jazz Fest (late April — first weekend)**
 - The biggest one after Mardi Gras
-- Two weekends: late April and early May (specific dates shift annually)
+- Two weekends: expected April 22–25 and April 29–May 2, 2027 (dates are announced but the lineup isn't yet — check nojazzfest.com before you lock plans)
 - 14 stages, thousands of artists, hundreds of food vendors
 - World-class lineup, unmatched food spread
-- Group impact: **The city is at or near capacity both weekends.** For the largest selection, book 6+ months out.
+- Group impact: **The city is at or near capacity both weekends.** For the largest selection, book 6+ months out. The [Jazz Fest group guide](/guides/jazz-fest-group-guide/) covers tickets, shuttles, and where to base a big crew.
 
 | Jazz Fest Factor | What to Know |
 |-----------------|-------------|
@@ -118,7 +119,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 ### May
 
 **Jazz Fest (early May — second weekend)**
-- See April entry — same logistics, different dates
+- See April entry — same logistics, expected April 29–May 2, 2027
 - The second weekend is sometimes considered better (bigger headliners on Sunday)
 - Group impact: Same as first weekend — book far ahead
 
@@ -126,7 +127,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Multi-day wine and food festival across the city
 - Grand Tasting events, winery dinners, culinary demonstrations
 - Good option for food-focused groups
-- Group impact: Moderate crowd bump; book ahead the same as any other weekend
+- Group impact: Moderate crowd bump; book ahead the same as any other weekend. The [NOWFE guide](/guides/nola-group-wine-food-experience-guide/) covers tastings, dinners, and pacing for a group.
 
 ---
 
@@ -135,12 +136,12 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **Creole Tomato Festival (mid-June)**
 - Farmers market at the French Market, cooking demonstrations
 - Low-key, very local
-- Group impact: Minimal disruption; good afternoon activity
+- Group impact: Minimal disruption; good afternoon activity — the [Creole Tomato Festival guide](/guides/nola-group-creole-tomato-festival-guide/) has the full layout.
 
 **Bayou Boogaloo (third weekend)**
 - Free music festival on Bayou St. John in Mid-City
 - Three stages, floating spectators, very New Orleans
-- Group impact: Mid-City accommodation fills; good for neighborhood-based groups
+- Group impact: Mid-City accommodation fills; good for neighborhood-based groups. See the [Bayou Boogaloo guide](/guides/nola-group-bayou-boogaloo-guide/) for logistics.
 
 ---
 
@@ -160,21 +161,21 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 **Southern Decadence (Labor Day weekend)**
 - One of the largest LGBTQ+ events in the country
-- Labor Day weekend in the French Quarter
+- Anchored to Labor Day, which is always the first Monday of September — in 2026 that puts the event September 3–7, so it lands in September more often than not despite the "late summer" feel
 - Street festival, parades, parties across multiple days
-- Group impact: French Quarter accommodation books out early; great energy for LGBTQ+ groups or allies — for the largest selection, book 6+ months out
+- Group impact: French Quarter accommodation books out early; great energy for LGBTQ+ groups or allies — for the largest selection, book 6+ months out. The [Southern Decadence guide](/guides/lgbtq-southern-decadence-guide/) has the full planning rundown.
 
 ---
 
 ### September
 
 **Labor Day Weekend / Southern Decadence**
-- See August (depending on calendar year, falls one or the other)
+- Labor Day is always the first Monday of September, so most years the bulk of Southern Decadence weekend lands here rather than in August — see the August entry above for the full rundown
 
 **NFL Season Kicks Off**
 - Saints games start; Caesars Superdome is active
 - Groups planning Saints gamedays should book early for home game weekends
-- See our [Saints Gameday guide](/guides/saints-gameday-mega-guide) for full logistics
+- See our [Saints Gameday guide](/guides/saints-gameday-mega-guide/) for full logistics
 
 ---
 
@@ -184,7 +185,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Major music festival in City Park
 - National headliners, rock and hip-hop focused
 - Smaller than Jazz Fest but significant for music groups
-- Group impact: Mid-City and City Park area books fast — for the largest selection, book 6+ months out
+- Group impact: Mid-City and City Park area books fast — for the largest selection, book 6+ months out. The [Voodoo Fest guide](/guides/nola-voodoo-fest-guide/) covers tickets, camping-adjacent logistics, and pairing it with Halloween week.
 
 **New Orleans Film Festival (mid-October)**
 - Independent films screened across the city
@@ -195,7 +196,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - One of the great American Halloween cities
 - Bourbon Street goes costume-crazy
 - Krewe of Boo parade (usually the weekend before Halloween)
-- Group impact: Weekend of Halloween is peak party weekend — for the largest selection, book 6+ months out
+- Group impact: Weekend of Halloween is peak party weekend — for the largest selection, book 6+ months out. The [Halloween guide](/guides/halloween-guide/) has the costume-crawl itinerary.
 
 ---
 
@@ -204,12 +205,13 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **Thanksgiving Weekend**
 - Popular travel period, city gets busy
 - Good weather — arguably the best month climate-wise
-- Group impact: Book ahead — for the largest selection, book 6+ months out
+- Group impact: Book ahead — for the largest selection, book 6+ months out. The [villa Thanksgiving guide](/guides/nola-group-villa-thanksgiving-guide/) covers the full weekend, including Bayou Classic.
 
-**Bayou Classic (Saturday before Thanksgiving)**
+**Bayou Classic (Saturday after Thanksgiving)**
 - Grambling vs. Southern University HBCU rivalry game at Caesars Superdome
 - One of the best gameday atmospheres in college football
 - Accompanied by Battle of the Bands in the Superdome the night before
+- The 2026 game is set for November 28
 - Group impact: Major event; CBD/Downtown books fast — for the largest selection, book 6+ months out
 
 ---
@@ -224,7 +226,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **New Year's Eve**
 - Fireworks at the Mississippi, Frenchmen Street countdown, French Quarter chaos
 - The city goes all-in
-- Group impact: New Year's Eve weekend is one of the most popular travel dates, with demand rivaling Mardi Gras on the night itself — for the largest selection, book 6+ months out.
+- Group impact: New Year's Eve weekend is one of the most popular travel dates, with demand rivaling Mardi Gras on the night itself — for the largest selection, book 6+ months out. The [New Year's Eve villa guide](/guides/nola-group-new-years-villa-guide/) makes the case for staying in versus fighting the French Quarter crowds.
 
 ---
 
