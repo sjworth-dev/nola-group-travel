@@ -4,7 +4,7 @@ description: "Running a Saints watch party from your New Orleans villa: streamin
 category: "Activities & Day Trips"
 card_title: "Saints Villa Watch Party"
 card_description: "Game day from your villa: streaming, food, drinks, and the honest Superdome vs. villa comparison."
-date: 2026-05-31
+date: 2026-08-12
 ---
 
 You're already in New Orleans. The Saints are playing. You have a villa with a big TV, a private pool, and a group of 15 people who were up until 3am last night.
@@ -47,7 +47,7 @@ The honest comparison:
 
 **Stay at the villa if:** You're a group of mixed sports interest, it's a Sunday afternoon, you had a big Saturday night, or you just want to hang without logistics.
 
-Both are good. Neither is wrong.
+Both are good. Neither is wrong. If you're still weighing a villa against a hotel room block for the rest of the trip, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down the tradeoff beyond just game day.
 
 ---
 
@@ -131,13 +131,13 @@ For the cocktail crowd, a pitcher of Jungle Juice or punch works well for self-s
 
 Game day delivery is the worst possible time to order delivery in New Orleans. If you haven't ordered by noon for a 1pm game, you may be waiting 90 minutes or paying surge pricing.
 
-**The move:** Order by Friday evening for Saturday games, or by Saturday night for Sunday games. Scheduled delivery from a place that does it is cleaner than day-of scramble.
+**The move:** Order by Friday evening for Saturday games, or by Saturday night for Sunday games. Scheduled delivery from a place that does it is cleaner than day-of scramble — the [food delivery guide](/guides/nola-food-delivery-guide/) has more on ordering for a big group without the chaos.
 
 ### Large-Order Options
 
 When ordering for 15-30 people:
 
-- **Grocery runs:** Order delivery from a grocery platform the day before. Stock the villa with basics — chips, drinks, easy snacks, breakfast items — rather than trying to order food-ready meals on game day.
+- **Grocery runs:** Order delivery from a grocery platform the day before. Stock the villa with basics — chips, drinks, easy snacks, breakfast items — rather than trying to order food-ready meals on game day. The [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers stocking a villa kitchen for a crowd.
 
 - **Restaurant group orders:** Call, don't just order through an app. Restaurants that handle large pickup orders will do it if you call ahead. Apps are not built for 20-person catering orders.
 
@@ -170,7 +170,7 @@ One big order. One delivery or pickup person. Done.
 
 **If the Saints win:** Everyone's going out. The city will be loud. Plan accordingly.
 
-**If the Saints lose:** Bacchanal for a glass of wine and live music to drown sorrows. The city handles Saints losses gracefully—it's been practice.
+**If the Saints lose:** Bacchanal for a glass of wine and live music to drown sorrows. The city handles Saints losses gracefully—it's been practice. Frenchmen Street doesn't care about the score — the [live music guide](/guides/live-music-guide/) has the club-by-club rundown.
 
 ---
 
@@ -190,9 +190,9 @@ Caesars Superdome is in the Central Business District, walkable from the French 
 
 **Do not drive and park.** Parking near the Superdome on game day is expensive, limited, and slow. Rideshare or walk.
 
-**From Bywater or Marigny:** About a 25-minute walk, or 10 minutes by rideshare.
+**From [Bywater](/neighborhoods/bywater/) or [Marigny](/neighborhoods/marigny/):** About a 25-minute walk, or 10 minutes by rideshare.
 
-**From the Lower Garden District:** About 15-20 minutes walk or 10 minutes by streetcar along St. Charles.
+**From the [Lower Garden District](/neighborhoods/lower-garden-district/):** About 15-20 minutes walk or 10 minutes by streetcar along St. Charles.
 
 ### Getting In
 
@@ -232,25 +232,16 @@ Sometimes a watch party is even better at a bar with 200 strangers all wearing b
 - Sports bars in the CBD near the stadium fill up early but have great energy
 - French Quarter bars near Canal Street often have multiple large screens
 
-For groups of 15+, call ahead if you want space together. Don't walk in expecting a section on game day without a reservation.
+For groups of 15+, call ahead if you want space together. Don't walk in expecting a section on game day without a reservation — for a big enough crew, the [bar buyout guide](/guides/nola-group-bar-buyout-guide/) covers reserving a whole room instead of hoping for one.
 
 ---
 
 ## Where to Stay for Large Groups
 
-The best watch parties happen when everyone's under one roof. Hotels don't give you that. A villa does.
+The best watch parties happen when everyone's under one roof, with a real kitchen and somewhere to spread out. A hotel room block can work if your group wants its own keys and bills, but it won't give you the shared living space a watch party actually needs.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Multiple living areas, full kitchens, private pools. If you want a true game-day home base — somewhere to set up the TV properly, grill outside, spread out — this is it. The Bywater also puts you about a 30-minute walk or 10-minute ride from the Superdome if you decide to go in person.
+**Editorial examples of what fits:** properties like Castleday Retreats (private-pool Bywater villas) put a group about a 30-minute walk or 10-minute ride from the Superdome, with multiple living areas and full kitchens for a proper game-day home base. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, gets you to the CBD and Superdome in under 15 minutes — a good fit if you're deciding villa vs. stadium up until kickoff. Neither is a booking recommendation; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a shared villa stacks up against a hotel room block for a group this size.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which takes you straight to the CBD and Superdome in under 15 minutes. Great location if you're debating villa vs. stadium up until the last minute.
+For the largest selection, book 6+ months out.
 
-Both properties give you the kind of communal space where a proper watch party actually works.
-
----
-
-## Plan Your Watch Party Trip
-
-Whatever the Saints' schedule looks like, NOLA is the right place to watch the game.
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools
-- The Syd — Lower Garden District, up to 22 guests, streetcar to the Superdome
+[See where to stay for large groups →](/where-to-stay/)
