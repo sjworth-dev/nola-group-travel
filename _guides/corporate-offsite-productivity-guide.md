@@ -4,7 +4,7 @@ description: "How to run focused, productive work sessions during a NOLA corpora
 category: "Corporate Retreats"
 card_title: "Corporate Offsite Productivity"
 card_description: "WiFi requirements, meeting setup, agenda design, and the 60/40 rule for making villa offsites actually productive."
-date: 2026-05-30
+date: 2026-08-12
 ---
 
 Moving a company offsite to New Orleans is easy. Making it actually productive is the part nobody plans for.
@@ -17,7 +17,7 @@ The answer is structure — not rigid, but intentional. This guide is about buil
 
 - Confirm WiFi speed with the property before booking (minimum 100 Mbps for a team of 15+; 200+ preferred)
 - Identify one "work owner" for the offsite — the person who owns the agenda, not the CEO
-- Book accommodations 8-12 weeks out for groups over 15
+- For the largest selection, book accommodations 6+ months out
 - Make restaurant reservations 3-4 weeks out
 - Send the pre-trip agenda to the team 1 week before departure
 - Assign a note-taker for each session before you arrive
@@ -203,7 +203,7 @@ The best offsite moments happen when the city itself becomes part of the work.
 
 **The evening activity earns the day:** When people know there's a cooking class or a live music night at the end of a hard work day, they're more focused during sessions. The evening is the reward. Use it.
 
-**Walking meetings for 1:1s:** The Bywater, the Garden District, the levee — all excellent for walking and talking. Two people have more honest conversations on a 20-minute walk than in a formal breakout session.
+**Walking meetings for 1:1s:** The [Bywater](/neighborhoods/bywater/), the [Garden District](/neighborhoods/garden-district/), the levee — all excellent for walking and talking. Two people have more honest conversations on a 20-minute walk than in a formal breakout session.
 
 **Use the pool for the informal conversations that change things.** Some of the most important conversations happen by the pool at 6 PM, not in the morning session. Build free time specifically for this. Don't schedule something at 5 PM.
 
@@ -213,11 +213,11 @@ The best offsite moments happen when the city itself becomes part of the work.
 
 | Experience | Why It Works for Offsites |
 |------------|--------------------------|
-| Private chef dinner | The shared meal experience, in your space, at your pace — bonding without logistics |
-| Cooking class | Team activity + a meal in one; low barrier, high engagement |
-| Second line parade | 30 minutes of collective joy — breaks down hierarchy better than any workshop |
-| Jazz cruise | Dinner on the river, live music, nobody can leave mid-conversation |
-| Swamp tour | Inherently fun, levels the playing field — the CFO and the newest analyst are equally wide-eyed at an alligator |
+| [Private chef dinner](/guides/private-chef-guide/) | The shared meal experience, in your space, at your pace — bonding without logistics |
+| [Cooking class](/guides/nola-cooking-class-guide/) | Team activity + a meal in one; low barrier, high engagement |
+| [Second line parade](/guides/second-line-guide/) | 30 minutes of collective joy — breaks down hierarchy better than any workshop |
+| [Riverboat cruise](/guides/nola-group-riverboat-casino-cruise-guide/) | Dinner on the river, live music, nobody can leave mid-conversation |
+| [Swamp tour](/guides/nola-swamp-tour-guide/) | Inherently fun, levels the playing field — the CFO and the newest analyst are equally wide-eyed at an alligator |
 
 ---
 
@@ -243,15 +243,8 @@ The best offsite moments happen when the city itself becomes part of the work.
 
 The venue drives everything. The right space makes it easy to hold morning sessions, eat well at lunch, decompress by the pool at 5 PM, and gather naturally in the evenings.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Herald has the largest common areas and works best for all-hands sessions. The Cocodrie has the best outdoor space for informal conversations and the pool that makes 5 PM evenings excellent. The Florentine is the most polished option for groups hosting clients or presenting to external stakeholders. All three have full kitchens, private pools, and single-invoice billing with W-9 available — important for corporate reimbursement.
+**Editorial examples of what fits:** properties like Castleday Retreats (Bywater private-pool villas with full kitchens) work well for all-hands sessions and client-facing offsites that need a polished, private space. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, has a shared heated pool and hot tub that make a good central gathering point between sessions, with easy access to the CBD, Uptown restaurants, and the French Quarter without Uber logistics. Hotel room blocks — properties like The Roosevelt or Hotel Peter & Paul — are the fit for a company that wants its own keys and standard corporate billing. None of these is a booking recommendation — confirm invoice format, W-9 availability, and check-in logistics directly with whichever property fits your group, and see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the fuller tradeoff between a shared villa and a room block for a working group.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared amenities make The Syd particularly good for companies that want a central gathering point between sessions — the outdoor kitchen becomes the place where people naturally congregate. One block from the St. Charles Streetcar, which gives easy access to the CBD, Uptown restaurants, and the French Quarter without Uber logistics.
+For the largest selection, book 6+ months out.
 
-Both properties handle corporate groups regularly. Ask about group booking logistics, invoice format, and check-in procedures when you inquire.
-
----
-
-## Make the Offsite Work
-
-- Castleday Retreats — Bywater, private villas, up to 30 per villa, W-9 available
-- The Syd — Lower Garden District, shared pool + kitchen, central location, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
