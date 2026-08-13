@@ -19,7 +19,7 @@ This guide is for groups doing both trips in the same city, or the couple that w
 - Book accommodations independently — even if you're in the same city, both groups need their own space
 - Align on 1-2 overlap moments (a group dinner, a morning activity) if doing combined
 - Assign a separate logistics lead for each group — do not have the bride and groom coordinating their own parties
-- Lock in restaurant reservations 3-4 weeks out — groups of 15+ need advance booking everywhere
+- Lock in restaurant reservations 3-4 weeks out — a big group needs advance booking everywhere
 - Coordinate arrival and departure days so neither group is scrambling for pickups at the same time
 - Set a clear "no crossover" rule for nights both groups want to go out — some surprises are fun, some ruin the trip
 
@@ -45,11 +45,13 @@ Neither is better. They're just different trips.
 
 ## The Bachelorette Trip in New Orleans
 
+If you haven't landed on an angle yet, the [bachelorette themes guide](/guides/nola-bachelorette-party-themes/) walks through a handful of ways to structure the weekend.
+
 ### What It Looks Like
 
 Day 1 usually starts slow and ends late. Pool time in the afternoon. Getting ready together — one of the actually enjoyable parts of a group trip. Big dinner with reservations made well in advance. Frenchmen Street or Bourbon Street depending on the vibe the bride wants.
 
-Day 2 has more structure. Maybe a spa morning or yoga. Magazine Street brunch. An afternoon activity — cooking class, mixology session, boat cruise on the lake. Another big dinner. Out again, but probably a little earlier than night one.
+Day 2 has more structure. Maybe a [spa morning](/guides/nola-bachelorette-spa-day/) or yoga. Magazine Street brunch. An afternoon activity — cooking class, mixology session, boat cruise on the lake. Another big dinner. Out again, but probably a little earlier than night one.
 
 Day 3 is recovery and departures. Slow brunch. Long pool session. Goodbyes.
 
@@ -57,7 +59,7 @@ Day 3 is recovery and departures. Slow brunch. Long pool session. Goodbyes.
 
 New Orleans has walk-around cups and no last call. You can take a drink from the bar outside, walk to the next place, and no one is closing down your night at 2 AM. For a bachelorette group that wants to move between spots without the logistics of closing tabs repeatedly, this is significant.
 
-The second line is the best bachelorette activity in New Orleans that most groups don't know about. Hire a brass band, get a parasol and a sash, and parade through the neighborhood. It's 30 minutes of pure joy. [Full second line planning guide here.](/guides/second-line-guide)
+The second line is the best bachelorette activity in New Orleans that most groups don't know about. Hire a brass band, get a parasol and a sash, and parade through the neighborhood. It's 30 minutes of pure joy. [Full second line planning guide here.](/guides/second-line-guide/)
 
 ### Best Bachelorette Neighborhoods
 
@@ -83,15 +85,15 @@ The second line is the best bachelorette activity in New Orleans that most group
 
 Day 1 usually starts with everyone arriving at different times. The early arrivals grab beers and wait. The rental becomes the gathering point. Late dinner — or bar crawl and bar food. No real structure until everyone's in the same place.
 
-Day 2 is the real day. Golf or fishing in the morning. Sports bar for an afternoon game if the Saints are playing. Back to the house. Big dinner. Go out hard. This is the centerpiece night.
+Day 2 is the real day. [Golf](/guides/large-group-golf-guide/) or fishing in the morning. Sports bar for an afternoon game if the Saints are playing. Back to the house. Big dinner. Go out hard. This is the centerpiece night.
 
 Day 3 is slower. Wings and bloody marys. The guys who are leaving early leave. The others sit by the pool and talk about last night. Departures.
 
 ### The NOLA Bachelor Advantage
 
-New Orleans doesn't close. Most cities have a last-call window that herds everyone home; New Orleans does not. For a group that wants to go until 4 AM and find breakfast tacos afterward, this is the right city.
+New Orleans doesn't close. Most cities have a last-call window that herds everyone home; New Orleans does not. For a group that wants to go until 4 AM and find breakfast tacos afterward, this is the right city. The full [guys' weekend guide](/guides/guys-weekend-guide/) covers the rest of the playbook — golf, fishing, sports bars, the works.
 
-The Saints gameday experience is also elite for bachelor groups. Caesars Superdome is one of the louder NFL venues in the country. If your timing lines up, build the whole trip around it. [Full gameday guide here.](/guides/saints-gameday-mega-guide)
+The Saints gameday experience is also elite for bachelor groups. Caesars Superdome is one of the louder NFL venues in the country. If your timing lines up, build the whole trip around it. [Full gameday guide here.](/guides/saints-gameday-mega-guide/)
 
 ### Best Bachelor Neighborhoods
 
@@ -119,7 +121,7 @@ Despite the differences, both trips share most of the same logistics.
 
 **Accommodations:** Both groups need a large private rental where everyone can gather. The same villa works for either party — the difference is in how you use the space, not what space you need.
 
-**Restaurants:** New Orleans' group-friendly restaurants work for both trips. Cochon, Pêche, Commander's Palace, Compère Lapin — these aren't gendered. Book them regardless of which party you're planning.
+**Restaurants:** New Orleans' [group-friendly restaurants](/guides/restaurant-guide/) work for both trips. Cochon, Pêche, Commander's Palace, Compère Lapin — these aren't gendered. Book them regardless of which party you're planning.
 
 **The second line:** Equally good for both. Different energy — the bachelorette leans more performative, the bachelor group leans more chaotic — but both are unforgettable.
 
@@ -171,12 +173,12 @@ Some couples genuinely want to do this together. One rental, one trip, everyone 
 
 This works for:
 - Couples who have genuinely overlapping friend groups
-- Smaller groups (12-20 total) where logistics are manageable
+- Tighter-knit groups where logistics stay manageable
 - Couples who want to share the celebration rather than separate it
 - Groups where the bride and groom are explicitly choosing this
 
 This is harder for:
-- Groups of 25+ where two agendas create coordination chaos
+- A trip that's already gone big, where two agendas create coordination chaos
 - Couples who want traditional gender-separated celebration energy
 - Groups with significant personality differences between the two sides
 
@@ -204,17 +206,10 @@ If you're doing a fully combined trip, structure it like any large group trip �
 
 ## Where to Stay for Large Groups
 
-Both parties need the same thing: a private rental where everyone can gather, with enough space to not step on each other, and a pool that makes the in-between time good.
+Both parties need the same thing: a private rental where everyone can gather, with enough space to not step on each other, and a pool that makes the in-between time good. See the [hotel vs. villa breakdown](/guides/hotel-vs-villa-guide/) for the full tradeoffs.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pool at each villa. Art-filled interiors. The bachelorette groups love the aesthetic; the bachelor groups love the privacy. If both parties are in town at the same time, two groups can book two separate villas at the same complex. This is actually ideal — both groups have their own space, with a natural geographic proximity if you want crossover moments.
+Bywater villas like Castleday Retreats put a private pool at each house — the bachelorette groups tend to lean into the aesthetic, the bachelor groups tend to lean into the privacy. The Syd, in the Lower Garden District, is built around a shared pool and hot tub, which works well if the group wants a central gathering point rather than a self-contained house. If both parties are in town the same weekend, booking two separate villas at the same Bywater complex is a solid move — each group keeps its own space, with enough geographic proximity for a crossover moment if you want one.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The shared pool and outdoor kitchen make it particularly good for groups who want a central gathering point. If one party is there for the weekend, the shared amenities become the social hub.
+For the largest selection, book 6+ months out.
 
-Both properties handle group bookings regularly. They understand what both bachelorette and bachelor groups need and can advise on logistics.
-
----
-
-## Book Your Party
-
-- Castleday Retreats — Bywater, private villas, each up to 30 guests
-- The Syd — Lower Garden District, villas up to 22, shared pool + hot tub
+[See where to stay for large groups →](/where-to-stay/)
