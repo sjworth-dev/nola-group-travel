@@ -3,8 +3,8 @@ title: "New Orleans 10-Day Group Itinerary"
 description: "A complete 10-day itinerary for large groups visiting New Orleans. All major neighborhoods, a day trip, festival timing guidance, and how to structure a longer stay without running out of great experiences."
 category: "Planning & Logistics"
 card_title: "10-Day Itinerary"
-card_description: "A full 10 days in New Orleans with a group. Neighborhoods, day trips, pacing strategy, and how to keep 15-30 people engaged the whole time."
-date: 2026-05-29
+card_description: "A full 10 days in New Orleans with a group. Neighborhoods, day trips, pacing strategy, and how to keep the whole crew engaged the whole time."
+date: 2026-08-13
 ---
 
 Most people visit New Orleans for a long weekend. Three or four days. You see the surface—Frenchmen Street, the French Quarter, one good dinner—and you go home thinking you've seen it.
@@ -13,11 +13,11 @@ You haven't.
 
 Ten days is enough time to actually understand the city: its neighborhoods, its food culture, its music history, and its rhythms. A group trip of this length rewards you differently than a weekend blitz. You slow down. You find the spots that don't appear on any list. You start to understand why people move here.
 
-This guide gives you a day-by-day plan for 15-30 people over ten days, structured to build energy rather than exhaust it.
+This guide gives you a day-by-day plan for the whole crew over ten days, structured to build energy rather than exhaust it.
 
 ## How to Use This Itinerary
 
-**This is a framework, not a schedule.** No group of 15+ people runs on a fixed timetable. Use this as a daily anchor—one or two structured activities per day, with everything else flexible.
+**This is a framework, not a schedule.** No big group runs on a fixed timetable. Use this as a daily anchor—one or two structured activities per day, with everything else flexible.
 
 **Meals drive the day.** In New Orleans, great meals are the experience. Structure each day around one or two meal reservations, and let everything else flex around them.
 
@@ -31,9 +31,9 @@ This guide gives you a day-by-day plan for 15-30 people over ten days, structure
 
 ### 60-90 Days Out
 
-- Book accommodations (large-group villas fill up fast)
+- Book accommodations — see the [hotel-vs-villa breakdown](/guides/hotel-vs-villa-guide/) if you haven't decided which way to go
 - Make reservations for Commander's Palace, Cochon, Pêche (these book 4-6 weeks out during peak season)
-- Book any private tours or experiences (cooking class, second line band, swamp tour charter)
+- Book any private tours or experiences ([cooking class](/guides/nola-cooking-class-guide/), second line band, [swamp tour charter](/guides/nola-swamp-tour-guide/))
 - Research if any festivals overlap your dates
 
 ### 30 Days Out
@@ -41,7 +41,7 @@ This guide gives you a day-by-day plan for 15-30 people over ten days, structure
 - Confirm all reservations
 - Share a pre-trip document with the group: neighborhood overview, packing list, arrival logistics
 - Set up the group communication channel (WhatsApp, GroupMe)
-- Assign a "day coordinator" for arrival day
+- Assign a "day coordinator" for arrival day — see [who should own what](/guides/nola-group-trip-roles-assignment-guide/) if roles haven't been split up yet
 
 ### 1 Week Out
 
@@ -88,7 +88,7 @@ This guide gives you a day-by-day plan for 15-30 people over ten days, structure
 ### Evening
 
 - First group dinner out: somewhere mid-range with no drama (Pêche, Herbsaint, Bacchanal)
-- Frenchmen Street after dinner: the real introduction to New Orleans music culture
+- Frenchmen Street after dinner: the real introduction to New Orleans [music culture](/guides/live-music-guide/)
 - Three blocks, four or five clubs, live music every night from 9 PM onward
 
 ---
@@ -113,7 +113,7 @@ The French Quarter is worth doing once—preferably not as your first day. Come 
 
 ### Evening
 
-- Bourbon Street for exactly one hour (you'll be glad you went, you'll be glad you left)
+- [Bourbon Street](/guides/nola-bourbon-street-guide/) for exactly one hour (you'll be glad you went, you'll be glad you left)
 - Retreat to Frenchmen Street for actual music
 - Or return to Bywater/Garden District neighborhood bars
 
@@ -150,7 +150,7 @@ The French Quarter is worth doing once—preferably not as your first day. Come 
 ### Morning
 
 - Warehouse District: walkable cluster of serious museums
-- National WWII Museum: plan on 4+ hours. One of the best museums in the United States.
+- [National WWII Museum](/guides/nola-group-wwii-museum-guide/): plan on 4+ hours. One of the best museums in the United States.
 - **Or** if the group is museum'd out: Ogden Museum of Southern Art (faster, excellent permanent collection)
 
 ### Afternoon
@@ -215,7 +215,7 @@ If you haven't done a swamp tour yet, a full-day or half-day chartered tour beat
 
 ### Afternoon
 
-- City Park: Sculpture Garden, New Orleans Museum of Art (NOMA), City Park Botanical Garden
+- [City Park](/guides/nola-group-mid-city-city-park-full-day-guide/): Sculpture Garden, New Orleans Museum of Art (NOMA), City Park Botanical Garden
 - Afternoon coffee or beer at a Mid-City bar or café
 
 ### Evening
@@ -233,7 +233,7 @@ By Day 8, different factions have emerged in your group. Some people want to go 
 
 ### Option A: Cooking Class or Private Chef Dinner
 
-If you haven't done a cooking class yet, this is the day. New Orleans School of Cooking runs group classes. Alternatively, hire a private chef for dinner at the villa tonight.
+If you haven't done a [cooking class](/guides/nola-cooking-class-guide/) yet, this is the day. New Orleans School of Cooking runs group classes. Alternatively, [hire a private chef](/guides/private-chef-guide/) for dinner at the villa tonight.
 
 ### Option B: Spa + Recovery Day
 
@@ -293,21 +293,23 @@ If your trip overlaps with a festival, here's how to adjust:
 
 ### Jazz Fest (Late April – Early May)
 
-Jazz Fest runs two consecutive weekends at Fair Grounds Race Course. The festival itself becomes Days 3-4 (or the second weekend) of your itinerary.
+Jazz Fest runs two consecutive weekends at Fair Grounds Race Course. The festival itself becomes Days 3-4 (or the second weekend) of your itinerary. See the [Jazz Fest group guide](/guides/jazz-fest-group-guide/) for ticket strategy and logistics specific to a big crew.
 
 **Adjust:** Keep Day 2 (neighborhood orientation) and Day 1 (arrival) as written. Then do the festival on weekend days. Weekdays around Jazz Fest are actually less crowded—good time to do museums and neighborhoods.
 
-**Key note:** Book accommodations 6+ months out for Jazz Fest. Prices spike dramatically.
+**Key note:** For the largest selection, book accommodations 6+ months out. This is the highest-demand stretch on the calendar and prices spike accordingly.
 
 ### French Quarter Fest (April)
 
-Four days of free music on multiple stages across the French Quarter, the second weekend of April. Cheaper than Jazz Fest, often better food vendors, and the French Quarter stage setup is genuinely great.
+Four days of free music on multiple stages across the French Quarter, the second weekend of April. Cheaper than Jazz Fest, often better food vendors, and the French Quarter stage setup is genuinely great. Full logistics in the [French Quarter Fest guide](/guides/french-quarter-fest/).
 
 **Adjust:** Replace Day 3 (French Quarter exploration day) with French Quarter Fest day(s). The festival becomes the activity.
 
 ### Mardi Gras (February/March)
 
-Mardi Gras changes everything. If your trip is during Mardi Gras season, this guide isn't for you—read the [Mardi Gras Group Guide](/guides/mardi-gras-group-guide.html) instead. The city operates on a completely different schedule for six weeks.
+Mardi Gras changes everything. If your trip is during Mardi Gras season, this guide isn't for you—read the [Mardi Gras Group Guide](/guides/mardi-gras-group-guide/) instead. The city operates on a completely different schedule for six weeks.
+
+Check the [full festival calendar](/guides/festival-season-calendar/) for what else might overlap your dates.
 
 ---
 
@@ -325,25 +327,11 @@ Mardi Gras changes everything. If your trip is during Mardi Gras season, this gu
 
 ## Where to Stay for 10 Days
 
-A 10-day trip requires accommodation that's actually livable. You're not checking in and out—you're making a temporary home.
+A 10-day trip requires accommodation that's actually livable. You're not checking in and out—you're making a temporary home, so the [villa-vs-hotel tradeoffs](/guides/hotel-vs-villa-guide/) matter more here than on a weekend trip.
 
-### Castleday Retreats — Bywater
+For a stay this long, a full kitchen and a pool you actually use pull ahead of a hotel room's convenience. Bywater villas like **Castleday Retreats** put you a short walk from Frenchmen Street, Bacchanal Wine, and the Marigny—neighborhoods worth visiting more than once over ten days. **The Syd**, in the Lower Garden District, sits one block off the St. Charles Streetcar line, which is a real quality-of-life advantage when you're getting to the French Quarter, Magazine Street, and Uptown day after day without car logistics. **Heirloom** has the deepest inventory of large-format homes across the Lower Garden District and Central City, useful if you're booking closer to your dates. If the group has mixed budgets or wants everyone on their own key and their own bill, a room block at a hotel like The Roosevelt or Hotel Peter & Paul can work better than a single shared house for two weeks running.
 
-Castleday Retreats has three private villas in the Bywater, each sleeping up to 30 guests. For a 10-day stay, the full kitchens are genuinely used (not just for warming things up), the private pools become part of the daily rhythm, and the art-filled interiors make it a place worth coming home to every afternoon.
-
-The Bywater location gives you quick access to Frenchmen Street music, Bacchanal Wine, and the Marigny—neighborhoods that you'll visit multiple times over ten days.
-
-- The Herald: largest common areas for group gathering
-- The Cocodrie: best outdoor and pool setup
-- The Florentine: most elegant interiors
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### The Syd — Lower Garden District
-
-The Syd is in the Lower Garden District, one block from the St. Charles Streetcar line. Multiple villas up to 22 guests each, with artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen.
-
-For a 10-day stay, the St. Charles Streetcar access is a significant quality-of-life advantage—you can get to the French Quarter, Magazine Street, and Uptown without car logistics every single day. The outdoor kitchen means real group cooking nights. The sauna is the kind of thing you don't think you'll use until you're on Day 7 and your legs are tired.
+None of these is the "right" answer for every group—match the property to how your crew actually wants to live for ten days. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
@@ -351,13 +339,13 @@ For a 10-day stay, the St. Charles Streetcar access is a significant quality-of-
 
 ## Pro Tips for 10-Day Group Trips
 
-1. **Lock down reservations before you arrive.** A 10-day window gives you time to eat at every great restaurant in the city—if you planned ahead. Same-day reservations for groups of 15+ are nearly impossible at top spots.
+1. **Lock down reservations before you arrive.** A 10-day window gives you time to eat at every great restaurant in the city—if you planned ahead. Same-day reservations for a big group are nearly impossible at top spots.
 
 2. **Build one full rest day into the itinerary.** Day 8 in this guide is that day. Don't skip it.
 
 3. **The day trip at the midpoint is structural.** It's not optional. A change of scene resets the group's appetite for New Orleans better than any other single intervention.
 
-4. **Track shared expenses in real time.** Splitwise or a shared spreadsheet. On a 10-day trip, the pile accumulates fast.
+4. **Track shared expenses in real time.** Splitwise or a shared spreadsheet. On a 10-day trip, the pile accumulates fast — the [budget guide](/guides/budget-guide/) has a framework for splitting costs that don't map cleanly to headcount.
 
 5. **Rotate meal coordination.** Don't let the same one or two people handle all the logistics for 10 days. Assign coordinators per day.
 
@@ -374,9 +362,5 @@ For a 10-day stay, the St. Charles Streetcar access is a significant quality-of-
 A 10-day New Orleans trip with a large group is not about checking boxes. It's about finding the rhythm of the city and settling into it.
 
 Week one is the discovery phase. Week two—or the back half—is where you actually live here for a few days. That's the experience that people talk about differently than a long weekend. That's what you're building with this guide.
-
-**Castleday Retreats** — Bywater, 3 private villas up to 30 guests, full kitchens, private pools, art-filled interiors
-
-**The Syd** — Lower Garden District, multiple villas up to 22 guests, pool, hot tub, sauna, outdoor kitchen, streetcar access
 
 [See where to stay for large groups →](/where-to-stay/)
