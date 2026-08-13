@@ -1,15 +1,15 @@
 ---
-title: "Cooking for 15-30 People in a New Orleans Villa"
+title: "Cooking for a Big Group in a New Orleans Villa"
 description: "Group grocery shopping strategy, New Orleans ingredient sourcing, recipes that scale, and the private chef vs. DIY decision framework for villa trips."
 category: "Planning & Logistics"
 card_title: "Group Cooking Guide"
-card_description: "How to grocery shop, cook, and eat well for 15-30 people in a villa kitchen. The private chef vs. DIY breakdown."
-date: 2026-05-29
+card_description: "How to grocery shop, cook, and eat well for the whole crew in a villa kitchen. The private chef vs. DIY breakdown."
+date: 2026-08-13
 ---
 
 You've booked a villa with a full kitchen. Now what?
 
-Cooking for 15 to 30 people is not the same as cooking for six. The math changes. The logistics change. You need a different approach to grocery shopping, meal planning, and how you use the kitchen.
+Cooking for the whole crew is not the same as cooking for six. The math changes. The logistics change. You need a different approach to grocery shopping, meal planning, and how you use the kitchen.
 
 This guide covers all of it—plus where to source the best New Orleans ingredients, what meals actually scale for big groups, and when it makes more sense to hire a private chef instead.
 
@@ -22,6 +22,7 @@ This guide covers all of it—plus where to source the best New Orleans ingredie
 - Plan for two grocery runs minimum (arrival and mid-trip)
 - Stock snacks and drinks before the first meal is needed
 - Confirm kitchen equipment at your villa before assuming what's available
+- Fold grocery costs into whatever [expense-tracking system](/guides/group-communication-guide/) you're already using for the trip
 
 ---
 
@@ -30,13 +31,13 @@ This guide covers all of it—plus where to source the best New Orleans ingredie
 ### When to Hire a Private Chef
 
 Hire a private chef when:
-- Your group size is 20 or more
+- Your group is twenty people or more
 - Nobody in the group genuinely enjoys cooking at scale
 - You want the dinner to feel like a real New Orleans culinary experience
 - The trip has a celebratory occasion (bachelorette, birthday, wedding party)
 - You've calculated that the cost per person is within your budget (it often is)
 
-**What to expect:** A private chef typically handles everything for one or more meals—groceries, prep, cooking, and sometimes service and cleanup. For a group of 20, cost varies widely; get quotes from local chefs through recommendations from your villa.
+**What to expect:** A private chef typically handles everything for one or more meals—groceries, prep, cooking, and sometimes service and cleanup. Cost varies widely by group size; get quotes from local chefs through recommendations from your villa. For the full cost-and-tradeoffs breakdown, see the [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/).
 
 ### When to DIY
 
@@ -177,7 +178,7 @@ For groups that want the full Louisiana outdoor feast experience: set up a propa
 
 **Equipment you need:** Large propane burner, 80-100 quart aluminum pot, seasoning (Zatarain's or your own crab boil), colander. Most Castleday villas have outdoor cooking capability—confirm what's available before you buy a burner.
 
-This is social cooking. Everyone stands around the pot, everyone eats at the same table. It's the best group meal format if you're in the right season.
+This is social cooking. Everyone stands around the pot, everyone eats at the same table. It's the best group meal format if you're in the right season. For the full sourcing, quantities, and boil-and-soak method, see the [crawfish boil guide](/guides/nola-crawfish-boil-guide/).
 
 **Crawfish season:** February through May, peak in April.
 **Shrimp boil:** Available year-round, but local Gulf shrimp peaks late summer.
@@ -219,7 +220,7 @@ Before your first grocery run, confirm your villa has:
 
 ### Arrival Run
 
-Do this the same day you arrive. Hit Rouses or Whole Foods within the first two hours. Buy:
+Do this the same day you arrive, once the [check-in basics](/guides/villa-arrival-setup-guide/) are handled. Hit Rouses or Whole Foods within the first two hours. Buy:
 
 - Breakfast supplies for the full trip
 - Snacks (chips, fruit, whatever your group eats)
@@ -267,23 +268,9 @@ Day 2 or 3. After you've cooked once, you'll know what you actually went through
 
 ## Where to Stay (Kitchens That Work for Real Cooking)
 
-Not every rental has a kitchen that can actually handle 20 people's breakfast.
+Not every rental has a kitchen that can actually handle breakfast for the whole crew.
 
-### Castleday Retreats — Bywater
-
-Castleday Retreats runs three private villas in the Bywater, each sleeping up to 30 guests. The full kitchens are designed to be used—not display kitchens with too-small burners and no storage. Private pools and outdoor space make a crawfish boil or shrimp boil logistically possible.
-
-The Bywater location also means you're ten minutes from Rouses CBD and fifteen minutes from Dorignac's in Metairie for serious seafood shopping.
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### The Syd — Lower Garden District
-
-The Syd has multiple villas up to 22 guests each in the Lower Garden District, with full kitchens and a shared outdoor kitchen. The outdoor kitchen is specifically set up for group cooking and entertainment—this is where a boil or grilling session belongs. The shared hot tub and sauna make the pre- and post-dinner time at the property feel genuinely resort-level.
-
-The Magazine Street corridor is a five-minute walk for Whole Foods and several local restaurants if you want to supplement.
-
-[See where to stay for large groups →](/where-to-stay/)
+Look for a full kitchen built to be used, not a display kitchen with too-small burners and no storage — and outdoor space if a boil is on the agenda. Bywater villas like Castleday Retreats pair private pools with real cooking capacity; the Bywater location also puts you ten minutes from Rouses CBD and fifteen minutes from Dorignac's in Metairie for serious seafood shopping. The Syd, in the Lower Garden District, has a shared outdoor kitchen built specifically for group cooking and entertainment, a block from the streetcar and a five-minute walk to the Magazine Street Whole Foods. Heirloom's large-format homes across LGD and Central City widen the search if your dates or headcount need more options. See the full field, weighed by fit rather than by name, on [where to stay for large groups](/where-to-stay/) — for the largest selection, book 6+ months out.
 
 ---
 
@@ -291,8 +278,6 @@ The Magazine Street corridor is a five-minute walk for Whole Foods and several l
 
 One communal dinner cooked at the villa is often the best single event of a group trip. It's slow, social, and something you can't replicate at a restaurant.
 
-Plan one real cooking event. Stock the kitchen properly before day one. Supplement with restaurants. And if anyone suggests a crawfish boil and it's April—do it.
+Plan one real cooking event. Stock the kitchen properly before day one. Supplement with [restaurants](/guides/restaurant-guide/). And if anyone suggests a crawfish boil and it's April — do it.
 
-**Castleday Retreats** — Full kitchens, outdoor space for boils, up to 30 guests per villa
-
-**The Syd** — Full kitchens, shared outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
