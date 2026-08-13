@@ -1,10 +1,10 @@
 ---
-title: "Group Communication Guide: Managing 15-30 People Before and During Your NOLA Trip"
+title: "Group Communication Guide: Managing a Big Crew Before and During Your NOLA Trip"
 description: "How to communicate across a large group before, during, and after a New Orleans trip. WhatsApp structure, pre-trip packets, shared itinerary tools, day-of coordination, and money management."
 category: "Planning & Logistics"
 card_title: "Group Communication Guide"
-card_description: "WhatsApp setup, pre-trip packets, Splitwise, day-of coordination — the logistics of managing 15-30 people who all have opinions."
-date: 2026-05-29
+card_description: "WhatsApp setup, pre-trip packets, Splitwise, day-of coordination — the logistics of managing a crew that all have opinions."
+date: 2026-08-13
 ---
 
 Managing a 15-person group trip is a part-time job. Nobody tells you this when you volunteer to be the organizer.
@@ -27,7 +27,7 @@ Here's how to run it.
 
 ## Step 1: The Group Chat Setup
 
-Start one group chat the moment you have confirmed attendees. Don't wait until you have a full plan.
+Start one group chat the moment you have confirmed attendees. Don't wait until you have a full plan. If nobody's claimed the logistics-lead job yet, sort that out first — see the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) for how to split it up without one person burning out.
 
 ### Platform Options
 
@@ -42,7 +42,7 @@ Start one group chat the moment you have confirmed attendees. Don't wait until y
 
 ### WhatsApp Structure for Large Groups
 
-One group chat is fine for groups under 20. For groups over 20, or trips with distinct sub-groups, consider:
+One group chat is fine for a smaller crew. Once the trip goes double-digit, or splits into distinct sub-groups, consider:
 
 **Main chat:** The full group. For logistics, updates, and decisions.
 
@@ -88,7 +88,7 @@ Send this 2 weeks before departure. One document. Share via Google Docs link so 
 **Food and Logistics:**
 - Restaurant reservations — date, time, restaurant name, confirmation number
 - Dietary restrictions collected (ask this in the group chat before finalizing restaurants)
-- Grocery list and who's handling it
+- Grocery list and who's handling it — see the [group cooking guide](/guides/group-grocery-cooking-guide/) for quantities and a shopping plan
 - Any meals being cooked at the house
 
 **Neighborhood Info:**
@@ -157,11 +157,11 @@ On the arrival night, when people are trickling in from flights at different tim
 New Orleans-specific:
 - Ride-share (Uber/Lyft) works well but surge prices hard during festivals and late nights
 - Groups larger than 6-7 people need multiple cars — this breaks coordination
-- For a group of 15+, a party bus or van rental is often worth it for one or two key nights (Big Dinner Night, Frenchmen Night)
+- Once the trip goes double-digit, a [charter bus or van rental](/guides/nola-group-charter-bus-guide/) is often worth it for one or two key nights (Big Dinner Night, Frenchmen Night)
 - The St. Charles Streetcar (from the Garden District to the CBD) is walkable to several good rental neighborhoods and accommodates groups
 
 **For getting a big group home at 1 AM:**
-Do not call 5 Ubers simultaneously. One person coordinates all pickups, calls an XL where possible, and sends people in waves. Stagger departures by 10-15 minutes to avoid surge pricing on multiple simultaneous requests.
+Do not call 5 Ubers simultaneously. One person coordinates all pickups, calls an XL where possible, and sends people in waves. Stagger departures by 10-15 minutes to avoid surge pricing on multiple simultaneous requests — the [ride-share guide](/guides/nola-group-ride-share-master-guide/) has the full playbook for moving a crew around without the surge-price math ruining everyone's night.
 
 ---
 
@@ -244,15 +244,8 @@ Give people 7 days after the trip to settle Splitwise balances. Send one reminde
 
 The foundation of any group trip is staying in the same place. Scattered hotel rooms break everything this guide is trying to build — shared mornings, natural gathering points, the kitchen where the first night recap happens.
 
-**Castleday Retreats** — Bywater, three private villas sleeping up to 30 each. Full kitchens, private pools, large common areas. The kind of space where your morning debrief and your late-night pool conversation both happen naturally. Book through their site with one contact and one invoice — no coordinating multiple bookings.
+One booking, one address, one group chat that doesn't have to coordinate five hotel confirmation numbers — that's what makes the rest of this guide work. Bywater villas like Castleday Retreats trade on total privacy and a private pool per villa. The Syd, in the Lower Garden District, puts you a block from the streetcar with a shared pool and hot tub. Heirloom's large-format homes across LGD and Central City offer the deepest inventory if your dates are tight. And if the group's budgets or schedules genuinely don't match, a hotel room block — The Roosevelt, Hotel Peter & Paul, Hotel Perle — lets everyone book their own room on their own card while still staying under one roof. Compare the whole field, not just two names, on the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/).
 
-**The Syd** — Lower Garden District, multiple villas sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Designed by local artists — the space itself is a conversation. Centrally located for groups who want to be close to the Garden District, CBD, and Magazine Street.
+For the largest selection, book 6+ months out.
 
-Both properties handle group bookings routinely. They understand the logistics of getting 20 people in and out, and the spaces are designed to make groups work — not just sleep.
-
----
-
-## Start Here
-
-- Castleday Retreats — Bywater, private pools, up to 30 per villa
-- The Syd — Lower Garden District, central location, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
