@@ -1,15 +1,15 @@
 ---
-title: "Saints Gameday Mega-Guide: 15-30 People at Caesars Superdome"
-description: "Deep Saints gameday logistics for large groups at Caesars Superdome. Ticket strategy, tailgate options, pre-game bar routes, the walk to and from the dome, and how to structure a full gameday for 15-30 people."
+title: "Saints Gameday Mega-Guide: The Whole Crew at Caesars Superdome"
+description: "Deep Saints gameday logistics for large groups at Caesars Superdome. Ticket strategy, tailgate options, pre-game bar routes, the walk to and from the dome, and how to structure a full gameday for the whole crew."
 category: "Festivals & Events"
 card_title: "Saints Gameday Mega-Guide"
 card_description: "Full gameday logistics for large groups: tickets, tailgates, pre-game routes, getting home, and how to structure 8 hours for 20 people."
-date: 2026-05-29
+date: 2026-08-14
 ---
 
 A Saints game at Caesars Superdome is one of the loudest, most electric sporting experiences in America. The crowd noise is legendary — the Superdome decibel records have been broken here multiple times. Who Dat Nation is real.
 
-But getting 15-30 people through a gameday without losing anyone, missing the kickoff, or spending half the day in a ticket line requires actual planning.
+But getting the whole crew through a gameday without losing anyone, missing the kickoff, or spending half the day in a ticket line requires actual planning.
 
 Here's how to do it right.
 
@@ -30,7 +30,7 @@ Here's how to do it right.
 
 ### Buying as a Group
 
-Getting 15-30 seats together in the same section for a Saints game is harder than it sounds. The Superdome holds about 73,000, but connected blocks of 15+ seats in lower sections sell out fast.
+Getting the whole group's seats together in the same section for a Saints game is harder than it sounds. The Superdome holds about 73,000, but connected blocks of seats big enough for a full crew in lower sections sell out fast.
 
 | Ticket Source | Best For | Considerations |
 |---------------|----------|----------------|
@@ -40,7 +40,7 @@ Getting 15-30 seats together in the same section for a Saints game is harder tha
 | Local resellers / Facebook marketplace | Occasionally good deals | Verify authenticity carefully |
 | Season ticket holders | Best for large blocks at face value | Requires a connection |
 
-**For groups of 15+:** Don't insist on everyone sitting together. Split into 2-3 clusters of 5-8 people in the same section or adjacent sections. Same section, different rows. You'll reunite at halftime and after. Trying to find 20 contiguous seats in a good section is usually not worth the premium.
+**For a big group:** Don't insist on everyone sitting together. Split into 2-3 clusters of 5-8 people in the same section or adjacent sections. Same section, different rows. You'll reunite at halftime and after. Trying to find 20 contiguous seats in a good section is usually not worth the premium.
 
 **Timing:** Regular season home games sell out at varying rates depending on the opponent. Rivalry games (Falcons, Buccaneers, Panthers) and late-season playoff-race games are the hardest. Book early for those. Preseason games have wide availability.
 
@@ -85,7 +85,7 @@ That said:
 
 **The Benson Tower area and Champions Square** — The outdoor plaza adjacent to the Superdome. Live music, fan zones, food and drink vendors. Official Saints pregame experience. Good for groups — you can claim outdoor space and the atmosphere is right.
 
-**Champions Square** specifically: This is where large groups naturally gather. Open-air, multiple bars and food vendors, live entertainment. For groups of 15+, meet here 90 minutes before kickoff. You can spread out, find food, and have a clear meeting point.
+**Champions Square** specifically: This is where large groups naturally gather. Open-air, multiple bars and food vendors, live entertainment. For the whole crew, meet here 90 minutes before kickoff. You can spread out, find food, and have a clear meeting point.
 
 ---
 
