@@ -1,10 +1,10 @@
 ---
-title: "Group Arrival and Departure Guide: Coordinating 15-30 People in New Orleans"
+title: "Group Arrival and Departure Guide: Getting a Big Crew In and Out of New Orleans"
 description: "How to coordinate arrivals and departures for a large group in New Orleans. Airport logistics, early arrivals, late checkouts, bag storage, and structuring the first and last 4 hours of a trip."
 category: "Planning & Logistics"
 card_title: "Arrival & Departure Guide"
 card_description: "Airport logistics, early arrivals, late checkouts, and how to structure the first and last 4 hours so your trip starts and ends right."
-date: 2026-05-30
+date: 2026-08-14
 ---
 
 The first four hours of a group trip determine the vibe for the rest of the weekend. If arrivals are chaotic — people waiting at the airport, no one at the house yet, the key code doesn't work — you spend the rest of the trip recovering from that start.
@@ -21,13 +21,13 @@ Getting these windows right is pure logistics. Here's how.
 - Ask about early check-in and late check-out options; many properties can accommodate with advance notice
 - Designate an "arrivals lead" — the first person to arrive who is responsible for the property until everyone is in
 - Identify bag storage options near your rental or airport for travelers with time gaps
-- Send the property address, key pickup instructions, and parking info to everyone 48 hours before departure
+- Send the property address, key pickup instructions, and parking info to everyone 48 hours before departure — the [welcome packet guide](/guides/group-welcome-packet-guide/) has a template that covers this along with everything else people ask for on day one
 
 ---
 
 ## Understanding the Louis Armstrong Airport (MSY)
 
-The Louis Armstrong New Orleans International Airport is in Kenner, about 15-20 miles west of the city center. It's a mid-size airport — not enormous, not confusing — with a relatively straightforward layout.
+The Louis Armstrong New Orleans International Airport is in Kenner, about 15-20 miles west of the city center. It's a mid-size airport — not enormous, not confusing — with a relatively straightforward layout. Once you're in the city, the [transportation guide](/guides/transportation-guide/) covers getting a big group around beyond just the airport run.
 
 | Route | Method | Approximate Time | Approximate Cost (per person) |
 |-------|--------|-----------------|-------------------------------|
@@ -40,7 +40,7 @@ The Louis Armstrong New Orleans International Airport is in Kenner, about 15-20 
 **What to know about rideshare from MSY:**
 - Surge pricing is common during Mardi Gras, Jazz Fest, and Essence Festival — expect 2-3x rates
 - Rideshare pickup is at the designated lot; follow the airport signs
-- For groups of 6+, Uber XL or Lyft XL is required — you can't split 8 people between two rides and expect them to arrive together
+- Once you're past a carload — six or more — Uber XL or Lyft XL is required; you can't split 8 people between two rides and expect them to arrive together
 - A group of 15 people needs at least 3-4 vehicles, which means staggering pickups
 
 ---
@@ -51,11 +51,11 @@ The biggest mistake large groups make at the airport: everyone tries to leave at
 
 ### Option 1: Stagger Your Own Rideshares
 
-For groups where flights are spread across a 2-3 hour window anyway, this is the simplest approach. Each small cluster of 4-6 people calls their own XL when they land. No coordination required. Works fine if you don't have a hard arrival event.
+For groups where flights are spread across a 2-3 hour window anyway, this is the simplest approach. Each small cluster of 4-6 people calls their own XL when they land — the [rideshare master guide](/guides/nola-group-ride-share-master-guide/) has the full breakdown on booking XLs at scale. No coordination required. Works fine if you don't have a hard arrival event.
 
 ### Option 2: Book a Charter Van or Shuttle
 
-For groups of 15+ where most people are arriving in the same 2-4 hour window, a charter van or shuttle makes sense.
+Once the whole crew is arriving in the same 2-4 hour window, a charter van or shuttle makes sense — the [charter bus guide](/guides/nola-group-charter-bus-guide/) covers booking one and what it actually costs.
 
 - Book 2-3 weeks ahead, especially during peak season
 - A 15-passenger van typically runs $100-200 for the airport-to-property run
@@ -83,7 +83,7 @@ The first person to arrive at the property becomes the arrivals lead until a des
 **Arrivals lead responsibilities:**
 - Confirm key/lockbox code works before everyone else arrives
 - Do a quick walkthrough: confirm all bedrooms are clean, kitchen is stocked, pool is accessible
-- Text the group chat when the property is confirmed ready: "House is open, [address], key is [details]"
+- Text the group chat when the property is confirmed ready: "House is open, [address], key is [details]" — the [group communication guide](/guides/group-communication-guide/) covers setting up the group chat structure that makes this land instead of getting buried
 - Handle any early issues with the property manager before the group arrives
 - Set up the initial drinks/snacks so arriving guests have something immediate
 
@@ -112,7 +112,7 @@ Don't try to do too much on arrival night. People are tired from travel, still a
 - 8-10 PM: Everyone sitting around, catching up, low stakes
 - After 10 PM: Optional — short walk, nearby bar, or early bed
 
-This sets the trip up well. Everyone is in the same physical space, relaxed, and ready for Day 2 to be the real first day.
+This sets the trip up well. Everyone is in the same physical space, relaxed, and ready for Day 2 to be the real first day. The [villa arrival setup guide](/guides/villa-arrival-setup-guide/) goes deeper on what to have ready in the first two hours specifically.
 
 ---
 
@@ -141,7 +141,7 @@ Options for the gap:
 
 ## The Last Four Hours
 
-Checkout is when group trips go wrong. Some people want to stay as long as possible. Others need to leave at 10 AM for a flight. Nobody wants the "pack up and gather luggage" conversation.
+Checkout is when group trips go wrong. Some people want to stay as long as possible. Others need to leave at 10 AM for a flight. Nobody wants the "pack up and gather luggage" conversation — the [check-in and checkout guide](/guides/group-check-in-check-out-guide/) covers the property side of this in more depth.
 
 ### Setting Expectations Before Departure Day
 
@@ -248,17 +248,10 @@ Clarify the late-flight option with the property when you book. They may or may 
 
 ## Where You're Arriving To
 
-The arrival-day experience is shaped entirely by your property. A well-organized rental with clear key pickup, enough space for everyone's luggage, and a kitchen to grab a drink makes arrival day smooth. A cramped, confusing property with a complicated check-in procedure makes it stressful.
+The arrival-day experience is shaped entirely by your property. A well-organized rental with clear key pickup, enough space for everyone's luggage, and a kitchen to grab a drink makes arrival day smooth. A cramped, confusing property with a complicated check-in procedure makes it stressful. Single-address check-in matters more than any other amenity on arrival day — one lockbox code beats coordinating room keys for 15 separate hotel bookings.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Single-address check-in, private pool at each villa, full kitchens stocked for a group. The property team handles group arrivals regularly and can coordinate logistics with you before departure day. The Bywater location puts you 15-20 minutes from MSY by rideshare and 20 minutes from the French Quarter on foot or by short rideshare.
+**Editorial examples of what fits:** properties like Castleday Retreats put the whole group behind one address in the Bywater, with a private pool and full kitchen at each villa so early arrivals have somewhere to land — about 15-20 minutes from MSY by rideshare. The Syd offers villas in the Lower Garden District with a shared heated pool and hot tub, one block from the St. Charles Streetcar, so early arrivals can send bags ahead and go explore Magazine Street instead of killing time at a random coffee shop. Neither is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how single-address check-in weighs against a hotel room block for a group this size.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — meaning you can send the early arrivals to the Streetcar stop with their bags and have them be exploring Magazine Street or the Garden District within 10 minutes rather than killing time at a random coffee shop. Centrally located between Uptown and the CBD.
+For the largest selection, book 6+ months out.
 
-Both properties have handled the logistics of 15-30 people arriving and departing. Talk to them when you book — they've seen the edge cases and can help you plan for the specific configuration of your group.
-
----
-
-## Arrive Well, Leave Well
-
-- Castleday Retreats — Bywater, three private villas, up to 30 per villa
-- The Syd — Lower Garden District, shared amenities, central location, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
