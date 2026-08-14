@@ -4,7 +4,7 @@ description: "Planning a multigenerational family reunion in New Orleans for age
 category: "Friends & Family"
 card_title: "Family Reunions (All Ages)"
 card_description: "Ages 5 to 75 in the same city. How to plan a multigenerational family reunion in New Orleans without losing anyone."
-date: 2026-05-29
+date: 2026-08-14
 ---
 
 Planning a family reunion where the youngest attendee is five and the oldest is seventy-five is a fundamentally different problem than planning any other group trip.
@@ -197,25 +197,17 @@ Family reunions almost always span multiple budgets. Be explicit about this upfr
 
 A multigenerational family reunion needs one home base, not a hotel block. Scattered rooms means scattered group. You lose the reuniting part of the reunion.
 
-### Castleday Retreats — Bywater
+The organizer math that matters more than headline capacity: everyone needs a real bed, grandparents need a door they can close, and someone needs a kitchen that isn't a restaurant three times a day.
 
-Castleday Retreats has three private villas in the Bywater, each sleeping up to 30 guests. The full kitchens let you handle breakfast without restaurant logistics for large multigenerational groups. The private pools are huge wins for families with kids. The common areas are large enough for everyone to be together without feeling crowded.
+**Editorial examples of what fits:** villa properties like Castleday Retreats (private-pool Bywater villas, full kitchens, real beds not sofa-bed overflow) let each sub-family take its own villa on the same block — kids get a yard to run in, grandparents get quiet when they want it, and everyone still shares a neighborhood. The Syd offers villas up to 22 guests in the Lower Garden District with a shared heated pool and hot tub, a block from the St. Charles Streetcar and closer to the Garden District walking tours. For groups that want to split by generation on separate bills, a spread of large-format homes like Heirloom or a hotel room block (The Roosevelt, Hotel Peter & Paul) can put grandparents somewhere quieter while the rest of the family takes a villa nearby. None of these is a recommendation over the others — fit depends on how your family actually splits up, and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the tradeoffs in more depth.
 
-For a reunion of 30 to 90 people, two or three villas on the same block is a workable configuration. Each sub-family gets their own villa. The whole group shares the neighborhood.
-
-**Why it works for multigenerational groups:**
-- Kids can run around—private pool, private yard
+**Why a villa works for multigenerational groups specifically:**
+- Kids can run around — private pool, private yard
 - Grandparents have quiet when they need it (their own room)
-- Common space large enough for real family dinner
-- Kitchen for easy breakfasts and snack-stocking
+- Common space large enough for a real family dinner
+- Kitchen for easy breakfasts and snack-stocking, no restaurant logistics three meals a day
 
-[See where to stay for large groups →](/where-to-stay/)
-
-### The Syd — Lower Garden District
-
-The Syd offers multiple villas up to 22 guests each in the Lower Garden District, with artist-designed interiors, a shared heated pool, hot tub, outdoor kitchen, and sauna. The Lower Garden District location is more central—closer to the Garden District walking tours, Magazine Street, and the St. Charles Streetcar.
-
-For multigenerational groups, the outdoor kitchen is a real advantage: grill nights, communal breakfasts, and the kind of gathering that doesn't require everyone to be in a restaurant.
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
@@ -278,9 +270,5 @@ For multigenerational groups, the outdoor kitchen is a real advantage: grill nig
 The reunion will be remembered by whether people actually felt together—not whether the itinerary was maximally packed.
 
 Book accommodations that keep the group in one place. Plan activities that include everyone at least once a day. Let the rest be flexible.
-
-**Castleday Retreats** — Bywater, 3 villas up to 30 guests, private pools, full kitchens, completely private
-
-**The Syd** — Lower Garden District, multiple villas up to 22 guests, shared pool, hot tub, outdoor kitchen, sauna
 
 [See where to stay for large groups →](/where-to-stay/)
