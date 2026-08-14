@@ -1,13 +1,13 @@
 ---
-title: "Bachelorette Spa Day in New Orleans — Groups of 10-20"
-description: "Full spa day and self-care itinerary for bachelorette groups of 10-20: float tanks, group massage logistics, nail studios that handle large groups, recovery brunch, and how to structure a full day before the evening begins."
+title: "Bachelorette Spa Day in New Orleans"
+description: "Full spa day and self-care itinerary for a bachelorette crew of any size: float tanks, group massage logistics, nail studios that handle large groups, recovery brunch, and how to structure a full day before the evening begins."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Spa Day Guide"
-card_description: "Float tanks, group massages, nail studios for 12+, recovery brunch timing, and the full structure for a spa-forward bachelorette day in NOLA."
-date: 2026-06-04
+card_description: "Float tanks, group massages, nail studios that handle a crowd, recovery brunch timing, and the full structure for a spa-forward bachelorette day in NOLA."
+date: 2026-08-14
 ---
 
-Not every bachelorette party is about Bourbon Street at midnight. Some groups want a day that's actually restorative — a day the bride-to-be will remember because it felt luxurious and unhurried, not because it was loud and relentless. A NOLA spa day for 10-20 women can be genuinely excellent if you structure it correctly.
+Not every [bachelorette party](/guides/bachelorette-party/) is about Bourbon Street at midnight. Some groups want a day that's actually restorative — a day the bride-to-be will remember because it felt luxurious and unhurried, not because it was loud and relentless. A NOLA spa day for the whole crew can be genuinely excellent if you structure it correctly.
 
 The city has the pieces: float tanks, day spas, nail studios that can take large groups, and brunch spots worth building a morning around. The logistical challenge with a large group is that most spa services are one-at-a-time or small-group experiences. You can't put 15 women in a massage room simultaneously. This guide is about solving that problem while keeping the day cohesive.
 
@@ -40,7 +40,7 @@ The fix is staggered scheduling at a single facility, combined with the villa as
 
 3. **Full group reconvene:** Everyone back at the villa by 4pm for champagne, getting ready, pre-evening festivities.
 
-4. **Evening:** Dinner reservation, then nightlife. The spa day is the setup; the evening is the main event.
+4. **Evening:** Dinner reservation, then nightlife. The spa day is the setup; the evening is the main event — the [VIP night guide](/guides/nola-group-bachelorette-vip-night-guide/) covers how to structure the part of the night this day is building toward.
 
 This structure means the day feels full without anyone waiting around. The villa becomes the rhythm-setter rather than just a place to sleep.
 
@@ -60,15 +60,15 @@ What to serve:
 - Coffee, water, juice prominently
 - No heavy fried food at 9am — everyone will feel it during their massage
 
-If the villa has a private chef option, this is the morning to use it. A catered villa brunch for 15 people is not significantly more expensive than a group restaurant reservation and requires zero logistics management.
+If the villa has a private chef option, this is the morning to use it — the [private chef guide](/guides/private-chef-guide/) covers when that's worth it over cooking the spread yourselves. A catered villa brunch for 15 people is not significantly more expensive than a group restaurant reservation and requires zero logistics management.
 
-**If you go out for brunch:** Choose a restaurant that can take a group reservation for 12-15 with a maximum wait time of 20 minutes. Put the reservation at 9:30am. Be out by 11am. Brunch restaurants that can't guarantee a table at 9:30am on a Saturday are not the right choice for this morning.
+**If you go out for brunch:** Choose a restaurant that can take a group reservation for 12-15 with a maximum wait time of 20 minutes. Put the reservation at 9:30am. Be out by 11am. Brunch restaurants that can't guarantee a table at 9:30am on a Saturday are not the right choice for this morning — the [brunch guide](/guides/nola-brunch-guide/) has the fuller list of spots that can actually seat a group that early.
 
 ---
 
 ## Float Tanks for a Group
 
-Float tanks — sensory deprivation tanks filled with Epsom salt water — are one of the most genuinely restorative things you can do in New Orleans. An hour in a float tank produces a level of mental quiet that's hard to replicate with any other spa service. For a bachelorette group that needs recovery, either after the night before or in preparation for the night ahead, floating is the move.
+Float tanks — sensory deprivation tanks filled with Epsom salt water — are one of the most genuinely restorative things you can do in New Orleans. An hour in a float tank produces a level of mental quiet that's hard to replicate with any other spa service. For a bachelorette group that needs recovery, either after the night before or in preparation for the night ahead, floating is the move — the [float tank wellness guide](/guides/nola-group-float-tank-wellness-guide/) goes deeper on booking a group session outside the bachelorette context if you want more detail.
 
 **The logistical reality for large groups:**
 
@@ -202,19 +202,12 @@ The bride-to-be should drive this decision, not the loudest person in the group.
 
 ---
 
-## Staying as a Large Group for a Spa-Forward Bachelorette
+## For a Big Group
 
-A villa is not just the overnight accommodation for a spa day bachelorette — it is the spa's day lounge. The pool, the outdoor kitchen, the common areas, the robes-on-the-couch morning: this is what makes the spa day flow.
+A villa is not just the overnight accommodation for a spa day bachelorette — it is the spa's day lounge. The pool, the kitchen, the common areas, the robes-on-the-couch morning: this is what makes the spa day flow, and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through why that matters more for this kind of day than for a standard trip.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. Every villa has a private pool — the pool deck at The Cocodrie in particular is designed for exactly this: an afternoon of people horizontal on loungers after a morning of spa services. The full kitchens support a villa brunch without catering complications. The completely private setting means your group can be in robes all day without managing a hotel lobby.
+**Editorial examples of what fits:** properties like Castleday Retreats (private-pool Bywater villas, full kitchens — everyone gets a real bed, not a sofa-bed overflow situation) turn the pool deck into exactly the horizontal-loungers-after-massages afternoon this guide is built around. The Syd offers Lower Garden District villas with a shared heated pool and hot tub, one block from the St. Charles Streetcar for any appointment that needs a short ride. For a group that wants suites with separate bills instead of one shared villa, Hotel Perle's CBD/Warehouse District group suites add a rooftop pool to the same day-lounge idea. None of these is a booking recommendation — pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd adds a shared heated pool, hot tub, and sauna to the formula — which is genuinely exceptional for a spa day. The hot tub and sauna are built-in spa amenities that no hotel adds to your room rate. The local artist-designed interiors give the villa an aesthetic that matches the tone of a luxury spa day without the institutional feel of a hotel. One block from the St. Charles Streetcar for any appointments that require transportation.
+For the largest selection, book 6+ months out.
 
-For groups who want the private pool experience: Castleday's villa setup is the match. For groups who want the hot tub and sauna as part of the villa day: The Syd wins.
-
----
-
-## Plan Your Bachelorette Spa Day
-
-- Castleday Retreats — Bywater private villas with pool decks perfect for spa day recovery, full kitchens for villa brunch, up to 30 guests per villa
-- The Syd — Lower Garden District villas with shared heated pool, hot tub, and sauna, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
