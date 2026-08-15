@@ -1,17 +1,17 @@
 ---
 title: "Private Dining and Group Dinners for Corporate Groups in New Orleans"
-description: "How to plan group dinners for corporate retreats and large parties in New Orleans: private dining rooms, restaurant buyouts, negotiating group menus, and the NOLA restaurants that handle 20-30 people without the experience falling apart."
+description: "How to plan group dinners for corporate retreats and large parties in New Orleans: private dining rooms, restaurant buyouts, negotiating group menus, and the NOLA restaurants that handle the whole crew without the experience falling apart."
 category: "Corporate Retreats"
 card_title: "Corporate Dinner Planning Guide"
-card_description: "Private dining rooms, buyout restaurants, group menu negotiation, and the NOLA spots that handle 20-30 people without collapsing under the volume."
-date: 2026-06-04
+card_description: "Private dining rooms, buyout restaurants, group menu negotiation, and the NOLA spots that handle the whole crew without collapsing under the volume."
+date: 2026-08-15
 ---
 
-A group dinner for 20-30 people is one of the hardest logistical moves in corporate travel. The stakes are higher than a regular dinner — this is a professional context, the food reflects on the organizer, and a bad experience (two-hour waits, cold food arriving in three waves, a server who disappears) creates a memory that colors the whole retreat.
+A group dinner for the whole retreat is one of the hardest logistical moves in corporate travel. The stakes are higher than a regular dinner — this is a professional context, the food reflects on the organizer, and a bad experience (two-hour waits, cold food arriving in three waves, a server who disappears) creates a memory that colors the whole retreat.
 
 New Orleans is one of the best cities in the country for this. The restaurant culture here is serious, the private dining infrastructure is strong, and the city's relationship with large-group hospitality goes back a century. But you have to know which restaurants actually handle it well and which ones will seat your group and then fall apart in execution.
 
-This guide covers the mechanics of booking group dinners, the private dining options worth knowing, and how to negotiate the terms that protect your group's experience.
+This guide covers the mechanics of booking group dinners, the private dining options worth knowing, and how to negotiate the terms that protect your group's experience. If the dinner is one piece of a bigger retreat, the [corporate retreat guide](/guides/corporate-retreat/) covers the rest of the itinerary, and the [restaurant guide](/guides/restaurant-guide/) has the broader NOLA dining landscape beyond the corporate-specific angle here.
 
 ## Quick Checklist
 
@@ -123,13 +123,13 @@ What they cost: varies. Often the value option if your budget requires it.
 
 | Neighborhood | Strengths | Watch Out For |
 |-------------|----------|---------------|
-| French Quarter | Historic institutions, full private dining infrastructure | Tourist pricing, parking logistics |
-| CBD/Warehouse District | Modern upscale options, hotel-attached private spaces, easy convention center access | Less "New Orleans character" than the Quarter |
+| [French Quarter](/neighborhoods/french-quarter/) | Historic institutions, full private dining infrastructure | Tourist pricing, parking logistics |
+| CBD/[Warehouse District](/neighborhoods/warehouse-district/) | Modern upscale options, hotel-attached private spaces, easy convention center access | Less "New Orleans character" than the Quarter |
 | Garden District/Uptown | Neighborhood feel, some buyout options, less tourist pressure | Fewer large private dining rooms; better for smaller groups |
-| Tremé/Marigny | Local atmosphere, some buyout-friendly restaurants | Fewer options for 20+; better suited to smaller groups |
+| Tremé/Marigny | Local atmosphere, some buyout-friendly restaurants | Fewer options for a big group; better suited to smaller groups |
 | Bywater | Neighborhood restaurants, Bacchanal for casual group dining | Not the right neighborhood for formal corporate dinners |
 
-**The reliable play for most corporate groups:** Quarter or CBD for formal private dining; Warehouse District for a more contemporary feel.
+**The reliable play for most corporate groups:** Quarter or CBD for formal private dining; Warehouse District for a more contemporary feel. Whichever you pick, the [transportation guide](/guides/transportation-guide/) covers getting the group there and back without fragmenting.
 
 ---
 
@@ -163,7 +163,7 @@ Call the private dining coordinator (not the general reservations line). Say: "I
 
 ## The Pre-Dinner Cocktail Window
 
-Every corporate group dinner should have 30-45 minutes of cocktails before dinner begins.
+Every corporate group dinner should have 30-45 minutes of cocktails before dinner begins — the [corporate welcome reception guide](/guides/nola-corporate-welcome-reception-guide/) covers the same format in more depth if you're opening the retreat with one.
 
 This is not a courtesy — it's functional. Large groups don't arrive simultaneously. The first arrivals need something to do for the 20-30 minutes before the last arrivals show up. If dinner is seated immediately when the first person arrives, half the group is eating before the other half has ordered. If dinner waits for everyone, the kitchen is sitting idle and the later arrivals feel rushed.
 
@@ -180,7 +180,7 @@ In New Orleans specifically: include at least one classic NOLA cocktail in the c
 
 ## A/V for Corporate Dinners
 
-If your corporate dinner includes presentations, award recognitions, or video content, verify the A/V capabilities before you book.
+If your corporate dinner includes presentations, [award recognitions](/guides/nola-group-corporate-awards-night-guide/), or video content, verify the A/V capabilities before you book — the [corporate meeting space guide](/guides/nola-group-corporate-meeting-space-guide/) has the fuller rundown if A/V is a bigger part of the retreat than just dinner.
 
 **Minimum requirements for a corporate dinner:**
 - A screen or projection surface visible from all seats
@@ -227,19 +227,12 @@ If the answer is unclear, bring your own: a small portable projector ($150-250) 
 
 ---
 
-## Staying as a Corporate Group Near NOLA's Best Dining
+## For a Big Group
 
-Where your group stays affects how smoothly corporate dinners operate. The ideal setup puts you close to the restaurant without requiring long transfers that fragment the group's timing.
+Where your group stays affects how smoothly corporate dinners operate. The ideal setup puts you close to the restaurant without requiring long transfers that fragment the group's timing — and gives the group a real space to decompress afterward instead of scattering to separate hotel floors.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater villas give corporate groups a completely private home base for the retreat — meeting space, full kitchen for casual working meals, private pools for downtime. The corporate dinner itself is a 15-20 minute Uber to the French Quarter or Warehouse District private dining rooms. The villa-to-dinner-to-villa structure keeps the group together throughout the trip rather than dispersing to separate hotel rooms each night.
+**Editorial examples of what fits:** private-pool Bywater villas (like Castleday Retreats) put a corporate group a 15-20 minute Uber from the French Quarter or Warehouse District dining corridors, with a full kitchen for casual working meals and private space for downtime between sessions. A shared-pool Lower Garden District setup (like The Syd) sits one block from the St. Charles Streetcar, which connects directly to the CBD and Canal Street — useful if the retreat's meetings are downtown. If the group's budget or structure calls for separate bills and its own key per attendee, [hotel room blocks](/guides/hotel-vs-villa-guide/) or suite-style properties like Hotel Perle handle that better than a single villa can. None of these is a booking recommendation — pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar, which connects to the CBD and Canal Street. The shared heated pool, hot tub, sauna, and outdoor kitchen make The Syd an excellent after-dinner destination — dinner at a private dining room in the Quarter followed by a late evening at the villa's outdoor spaces is the right structure for a corporate retreat that wants to feel less like a conference and more like a genuine New Orleans experience. The locally designed interiors reinforce the New Orleans connection throughout the stay.
+For the largest selection, book 6+ months out.
 
-Both properties offer the full-villa privacy that hotel blocks can't match — no bumping into your colleagues at the hotel bar at 11pm, everyone has space to decompress, and the morning-after recovery happens in a real house rather than a corridor of identical rooms.
-
----
-
-## Plan Your Corporate Dinner
-
-- Castleday Retreats — Bywater villas with private spaces for retreat logistics, pools and full kitchens, 15 minutes to the French Quarter dining corridor, up to 30 guests per villa
-- The Syd — Lower Garden District villas with shared amenities, streetcar access to dining neighborhoods, art-filled interiors perfect for the post-dinner evening, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
