@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Rehearsal Dinner Guide for Large Groups"
-description: "How to plan a rehearsal dinner in New Orleans for groups of 20-40: private dining rooms, restaurant buyouts, villa dinners, catering logistics, menu structure, and the full evening arc."
+description: "How to plan a rehearsal dinner in New Orleans for the whole wedding weekend crew: private dining rooms, restaurant buyouts, villa dinners, catering logistics, menu structure, and the full evening arc."
 category: "Weddings & Celebrations"
 card_title: "Rehearsal Dinner Planning"
-card_description: "Private dining rooms, restaurant buyouts, and villa rehearsal dinners for groups of 20-40. Venue types, catering logistics, menu structure, and how to run the full evening arc."
-date: 2026-06-09
+card_description: "Private dining rooms, restaurant buyouts, and villa rehearsal dinners for the full wedding weekend crew. Venue types, catering logistics, menu structure, and how to run the full evening arc."
+date: 2026-08-15
 ---
 
-The rehearsal dinner sets the tone for the entire wedding weekend. In New Orleans, that's actually an advantage — this city has more options for a memorable private dinner for 20-40 people than almost anywhere else in the country. Private courtyards, Creole-style private dining rooms, chef's tables, villa dinners with a private cook. The hard part isn't finding a good venue. It's deciding which format is right for your group.
+The rehearsal dinner sets the tone for the entire wedding weekend. In New Orleans, that's actually an advantage — this city has more options for a memorable private dinner for a big wedding party than almost anywhere else in the country. Private courtyards, Creole-style private dining rooms, chef's tables, villa dinners with a private cook. The hard part isn't finding a good venue. It's deciding which format is right for your group.
 
-Groups of 20-40 exist in an awkward middle zone. Too large for most restaurant reservation systems that rely on big tables and regular service flow. Too small for the full-scale event venues designed for 200-person galas. The formats that work — private dining room buyouts, full restaurant buyouts on slower nights, and villa dinners — each have different economics, different atmospheres, and different logistical profiles.
+The typical wedding weekend crew exists in an awkward middle zone. Too large for most restaurant reservation systems that rely on big tables and regular service flow. Too small for the full-scale event venues designed for 200-person galas. The formats that work — private dining room buyouts, full restaurant buyouts on slower nights, and villa dinners — each have different economics, different atmospheres, and different logistical profiles.
 
-This guide breaks down the mechanics of each format, explains the catering and menu decisions that matter, and gives you a full evening structure that actually works.
+This guide breaks down the mechanics of each format, explains the catering and menu decisions that matter, and gives you a full evening structure that actually works. If the villa is also the wedding party's home base, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that choice plays out across the whole weekend, not just dinner.
 
 ---
 
@@ -34,7 +34,7 @@ This guide breaks down the mechanics of each format, explains the catering and m
 
 ### Private Dining Room at a Restaurant
 
-The most common format for groups of 20-40. A restaurant reserves their private or semi-private dining space exclusively for your event, usually with a dedicated server team and a preset or limited-choice menu.
+The most common format for a wedding weekend crew. A restaurant reserves their private or semi-private dining space exclusively for your event, usually with a dedicated server team and a preset or limited-choice menu.
 
 **What you get:** A curated food experience in a properly staffed setting, without managing the full complexity of a restaurant buyout. The kitchen is running its normal service; your group is sequestered in a space designed for events.
 
@@ -45,7 +45,7 @@ The most common format for groups of 20-40. A restaurant reserves their private 
 - What's the minimum food-and-beverage spend for the room?
 - Can we customize the menu, or is it a fixed offering?
 
-**Best for:** Groups who want a great restaurant experience without the overhead of managing a full buyout. Works especially well for 20-30 people where a private dining room provides genuine intimacy.
+**Best for:** Groups who want a great restaurant experience without the overhead of managing a full buyout. Works especially well for a mid-size wedding party where a private dining room provides genuine intimacy.
 
 ---
 
@@ -59,7 +59,7 @@ You rent the entire restaurant for the evening. No other diners, full service, a
 
 **Realistic use case:** A full restaurant buyout for 30 people on a Thursday in November is feasible for a mid-range wedding budget. The same buyout on the Saturday of Jazz Fest weekend is a different financial conversation entirely.
 
-**Best for:** Groups of 30+ who want the whole venue experience, or groups where the specific restaurant is meaningful (a family favorite, a venue that tells a story about the couple).
+**Best for:** The biggest wedding parties who want the whole venue experience, or groups where the specific restaurant is meaningful (a family favorite, a venue that tells a story about the couple).
 
 ---
 
@@ -71,7 +71,7 @@ Hire a private chef and run the dinner at the villa where the wedding party is s
 
 **What you need:**
 - A villa with a kitchen configured for large-group cooking (full range, multiple ovens, counter space)
-- A private chef or catering team with experience feeding 20-40 people in a residential kitchen
+- A private chef or catering team with experience feeding a full wedding party in a residential kitchen — see the [private chef guide](/guides/private-chef-guide/) for how to book and structure one
 - Rental equipment if the villa doesn't have enough seating (tables, chairs, linens are all rentable)
 - A plan for flow: cocktail hour by the pool, dinner inside or under tents outdoors, toasts somewhere with the right acoustics
 
@@ -152,14 +152,14 @@ For a villa dinner: no transition needed. The night continues at the same addres
 
 The rehearsal dinner ends. The wedding weekend doesn't.
 
-For groups of 20-40 who've just had a great dinner, leaving everyone to independently figure out what comes next is a missed opportunity. New Orleans handles this better than anywhere.
+For a wedding weekend crew who've just had a great dinner, leaving everyone to independently figure out what comes next is a missed opportunity. New Orleans handles this better than anywhere.
 
 Options that work well as a post-dinner program:
-- A private second line: hire a brass band to lead the group from the restaurant to the next venue or back to the villa
+- A private second line: hire a brass band to lead the group from the restaurant to the next venue or back to the villa — the [second line guide](/guides/second-line-guide/) covers permits, timing, and cost
 - A bar in the French Quarter or Bywater that the group takes over informally for an hour
 - Back to the villa: pool, drinks, music, and the exact energy that sets up a perfect next-day wedding
 
-The couples we've seen do this best always have a clear plan for what happens after dinner. Even if half the group peels off, the core crew knows where to go.
+The rehearsal dinners that land best always have a clear plan for what happens after dinner. Even if half the group peels off, the core crew knows where to go.
 
 ---
 
@@ -196,17 +196,10 @@ The best private dining rooms in New Orleans are frequently booked 3-4 months in
 
 ## Where to Stay (And Run Your Villa Dinner)
 
-For wedding groups of 15-40 who want to hold the rehearsal dinner at the accommodation property, the villa format is the most natural fit in New Orleans.
+For a wedding party that wants to hold the rehearsal dinner at the accommodation property, the villa format is the most natural fit in New Orleans — but the right property depends on what the evening needs.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each sleeps up to 30 guests. The Herald's large common areas are particularly well-configured for a seated rehearsal dinner — the indoor space accommodates full-group seating, and the private outdoor areas work for cocktail hour before dinner. Private chefs are familiar with these properties and have cooked large-group dinners here before. Complete privacy means the toasts can go as long as they need to, the brass band can play on the patio, and the night extends naturally without a venue clock running. The Bywater neighborhood also puts your group within walking distance of exactly the kind of bars and courtyards that work well as post-dinner destinations.
+**Editorial examples of what fits:** total seclusion for extended toasts and a brass band on the patio favors a property like Castleday Retreats' Bywater villas, with private outdoor space and no shared walls. A central location one block from the St. Charles Streetcar — useful if the dinner is at a nearby restaurant and the villa is just the staging ground and after-party — favors a property like The Syd's Lower Garden District villas. Deepest same-week inventory and choice favors a property like Heirloom. For groups splitting the bill or mixing budgets, a hotel room block (The Roosevelt, Hotel Peter & Paul, and others) can still host a private dining room for the rehearsal dinner itself. Neither is a booking recommendation — pick by what the evening actually needs, and see the [wedding party guide](/guides/wedding-party/) for how the rehearsal dinner fits into the rest of the weekend.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd's shared outdoor space — heated pool, hot tub, outdoor kitchen — creates a natural cocktail-hour environment before a seated dinner. The Lower Garden District location is one block from the St. Charles Streetcar, which puts the group at Commander's Palace and other classic rehearsal dinner venues without a transportation challenge. If the rehearsal dinner is at a nearby restaurant, The Syd is an ideal pre-dinner staging ground and post-dinner return point. If it's a villa dinner, the outdoor kitchen and common areas are configured for exactly this use. Artist-designed interiors throughout means the space itself makes an impression on guests who haven't been there before.
+For the largest selection, book 6+ months out.
 
-Both properties have hosted wedding weekend rehearsal dinners — some as full villa events, some as the home base for a group leaving for a nearby restaurant and returning afterward.
-
----
-
-## Plan Your Rehearsal Dinner
-
-- Castleday Retreats — Bywater private villas, up to 30 guests per villa, large common areas for seated dinners, private outdoor space for cocktail hours, complete privacy for extended toasts
-- The Syd — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen, shared pool and hot tub, one block from streetcar and near classic rehearsal dinner venues
+[See where to stay for large groups →](/where-to-stay/)
