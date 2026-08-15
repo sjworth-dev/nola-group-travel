@@ -4,14 +4,14 @@ description: "Month-by-month weather reality for planning a large group trip to 
 category: "Planning & Logistics"
 card_title: "Weather Guide"
 card_description: "The honest month-by-month weather breakdown for NOLA group trips—heat, humidity, hurricanes, and what to actually expect."
-date: 2026-05-30
+date: 2026-08-15
 ---
 
 The travel websites will tell you New Orleans has a "subtropical climate" and call it a day. That's technically accurate and practically useless.
 
 Here's what groups actually need to know: New Orleans weather is extreme in both directions—brutally hot and humid from June through September, surprisingly cold during January and early February, with genuinely excellent weather in the narrow bands on either side. Missing these windows is one of the most common planning mistakes large groups make.
 
-This guide runs through every month honestly, explains what the weather means for a group of 15-30, and gives you the tools to plan around it.
+This guide runs through every month honestly, explains what the weather means when the whole crew is trying to move around the city together, and gives you the tools to plan around it.
 
 ## Quick Reference: Month-by-Month at a Glance
 
@@ -38,23 +38,21 @@ This guide runs through every month honestly, explains what the weather means fo
 
 ### The Prime Windows
 
-**March through early April** and **October through November** are the best months for large group trips to New Orleans, full stop. Highs in the 70s. Low humidity by local standards. Comfortable for walking, outdoor dining, and spending real time outside.
+**February through May, and October** are New Orleans' real high season — not just weather-wise but demand-wise. Mardi Gras, [French Quarter Fest](/guides/french-quarter-fest/), spring crawfish season, and [Jazz Fest](/guides/jazz-fest-group-guide/) drive the spring stretch; Voodoo Fest, Halloween, and the year's best weather drive October. Don't mistake October for a quiet fall shoulder month — it's peak, priced and booked like one. For the largest selection in any of these months, book 6+ months out.
 
-The tradeoff: everyone knows this. Jazz Fest (late April-early May), French Quarter Festival (April), and other festivals cluster in this window. Book accommodations for spring at least 4-6 months out.
+Within that window, **March and April** are the sweet spot for pure weather: highs in the 70s, low humidity by local standards, comfortable for walking, outdoor dining, and spending real time outside. **October** matches that weather with cooler crowds once Halloween week passes.
 
-### The Shoulder Windows
+### The Genuine Value Window
 
-**Late February** (post-Mardi Gras, usually) and **early May** (post-Jazz Fest) offer brief windows of good weather with lower event-driven prices.
+Late August through mid-September is the closest thing New Orleans has to a real shoulder season — still hot, but before the October demand ramp and priced well below the spring/October peak. It overlaps the tail of hurricane season, so weigh that risk against the savings (see the [hurricane guide](/guides/nola-group-hurricane-season-guide/) below).
 
-**December** (pre-Christmas) is underrated. Holiday decorations in the French Quarter, decent weather, reduced crowds, often good rental rates. Groups doing a holiday gathering trip should consider December more seriously.
-
-**Late November** (post-Thanksgiving) follows the same logic.
+**December** (pre-Christmas) is underrated. Holiday decorations in the French Quarter, decent weather, reduced crowds. Groups doing a holiday gathering trip should consider it more seriously.
 
 ### Avoid Unless You Know What You're Getting Into
 
-**July and August:** Avoid. Full stop. The heat and humidity combination is genuinely oppressive. Heat indexes regularly exceed 105°F. Outdoor plans become logistically painful. The city's outdoor culture—street food, balconies, second line parades, Frenchmen Street standing outside listening to music—all of it suffers.
+**July and August:** Avoid, weather-wise. The heat and humidity combination is genuinely oppressive. Heat indexes regularly exceed 105°F. Outdoor plans become logistically painful. The city's outdoor culture—street food, balconies, second line parades, Frenchmen Street standing outside listening to music—all of it suffers. The upside: this is New Orleans' value season, with the year's lowest rates.
 
-**September:** Hurricane season peak. Weather is still brutal, and the risk of a hurricane affecting your trip is real enough that it belongs in your planning calculus.
+**September:** Statistical peak of hurricane season. Weather is still brutal for most of the month, and the risk of a storm affecting your trip is real enough that it belongs in your planning calculus.
 
 ---
 
@@ -80,7 +78,7 @@ The tradeoff: everyone knows this. Jazz Fest (late April-early May), French Quar
 
 If you're coming for Mardi Gras, embrace it fully. If you're coming for a corporate retreat or a quiet friends trip, February requires careful date-checking.
 
-**Post-Mardi Gras February (when applicable):** The week after Fat Tuesday is one of the quietest and best times to visit. The crowds evaporate. Prices drop. The city is recovering, which means locals are out and the tourist-to-local ratio flips favorably.
+**Post-Mardi Gras February (when applicable):** The week after Fat Tuesday is one of the quietest stretches of the whole Feb-May high season. The crowds evaporate fast even though it's still nominally peak season. The city is recovering, which means locals are out and the tourist-to-local ratio flips favorably.
 
 ### March
 
@@ -88,7 +86,7 @@ If you're coming for Mardi Gras, embrace it fully. If you're coming for a corpor
 
 **What to expect:** Spring break crowds (mid-March) add energy and logistics complexity. French Quarter Festival (late March or April depending on year) is one of the city's best events.
 
-**For groups:** This is the prime booking window. Four to six months of lead time for popular accommodations is not an exaggeration. March weekends at Castleday and The Syd book faster than any other time of year.
+**For groups:** This is the prime booking window — for the largest selection, book 6+ months out. March weekends book faster than almost any other time of year.
 
 **The catch:** Rain. NOLA gets meaningful spring rain, often in afternoon thunderstorms that blow through quickly. Build flexible afternoon plans.
 
@@ -96,9 +94,9 @@ If you're coming for Mardi Gras, embrace it fully. If you're coming for a corpor
 
 **The honest picture:** Similar to March, trending slightly warmer. Highs reaching into the low 80s by late April. French Quarter Festival (free music, exceptional energy) typically happens in April.
 
-**Jazz Fest:** Late April into early May, Jazz Fest transforms the city. Best live music event in the country for two weekends. If your group is music-focused, plan around it. If you're trying to have a low-key trip, avoid it—prices spike and accommodations go fast.
+**Jazz Fest:** Late April into early May, [Jazz Fest](/guides/jazz-fest-group-guide/) transforms the city. Best live music event in the country for two weekends. If your group is music-focused, plan around it. If you're trying to have a low-key trip, avoid it—accommodations go fast.
 
-**For groups:** April is the other prime booking window. Same lead time advice as March.
+**For groups:** April is the other prime booking window, right alongside March — same urgency applies.
 
 ### May
 
@@ -106,9 +104,9 @@ If you're coming for Mardi Gras, embrace it fully. If you're coming for a corpor
 
 **Jazz Fest conclusion:** The first weekend of May often includes Jazz Fest's second weekend. Plan accordingly.
 
-**Hurricane season begins June 1,** so late May travel doesn't carry hurricane risk, but you can feel the humidity shifting.
+**Hurricane season begins June 1,** so May travel doesn't carry hurricane risk, but you can feel the humidity shifting by late month.
 
-**For groups:** Early May (before Jazz Fest) is a solid booking window with better rates than peak spring. Late May starts to see heat management become a real consideration.
+**For groups:** May is still inside the Feb-May high season — don't expect a discount just because Jazz Fest has wrapped. Late May starts to see heat management become a real consideration.
 
 ### June
 
@@ -130,7 +128,7 @@ If you're coming for Mardi Gras, embrace it fully. If you're coming for a corpor
 
 **Hurricane season:** July is active season. Storms are possible. Trip cancellation insurance is strongly recommended for any July booking.
 
-**For groups:** July is the most common month people regret. "We didn't realize it would be this hot" is something we hear constantly about July trips.
+**For groups:** July is the most common month people regret. "We didn't realize it would be this hot" is the single most predictable piece of feedback from a July trip.
 
 What does work in July:
 - Indoor activities (museums, cooking classes, escape rooms)
@@ -156,29 +154,27 @@ If you go: choose inland-adjacent accommodation with a clear evacuation plan, mo
 
 **The honest picture:** Still hot (highs in the upper 80s), still very humid, and this is the statistical peak of hurricane season. The probability of a storm affecting your trip is highest in September.
 
-**The one thing September has going for it:** Prices. September is the cheapest month to visit New Orleans. Accommodations that are difficult to book in spring are readily available. Restaurants have immediate availability. The city is genuinely local in September—most tourists stay away.
+**The one thing September has going for it:** Prices, especially the first half. Early-to-mid September is the tail end of the genuine value window (late August through mid-September) — accommodations that are hard to book in spring are readily available, restaurants have immediate availability, and the city is genuinely local. That value fades as October's demand ramp approaches.
 
-**For groups:** Same caveats as August. Experienced NOLA visitors with trip cancellation insurance can find excellent value in September. First-timers should book another time.
+**For groups:** Same caveats as August. Experienced NOLA visitors with trip cancellation insurance can find excellent value in early-to-mid September. First-timers should book another time.
 
 ### October
 
 **The honest picture:** The turnaround month. Early October still carries heat and hurricane risk. By mid-October, the weather starts breaking. Late October brings the city's best weather: 75-80°F, manageable humidity, the first real outdoor-friendly afternoons since April.
 
-**Halloween:** New Orleans does Halloween exceptionally well. The Krewe of Boo parade, costume culture throughout the city, and Voodoo Fest (usually late October) make this an excellent time for the right kind of group.
+**Halloween:** New Orleans does Halloween exceptionally well. The [Krewe of Boo parade](/guides/halloween-guide/), costume culture throughout the city, and Voodoo Fest (usually late October) make this an excellent time for the right kind of group — and one of the most heavily booked.
 
-**For groups:** October is underrated and increasingly popular. Lock in October dates 3-4 months ahead, particularly for late October weekends.
+**For groups:** October is peak season, not a quiet fall alternative to spring — book with the same urgency, especially for late October weekends. For the largest selection, book 6+ months out.
 
 **Hurricane caveat:** The season officially ends November 30. October still carries some risk, particularly early in the month. The risk drops significantly by mid-October.
 
 ### November
 
-**The honest picture:** Excellent. One of the two best months to visit (along with March). Highs in the 70s, low humidity, comfortable for outdoor activities at any time of day.
+**The honest picture:** Excellent, and calmer than the Feb-May/October peak stretch. Highs in the 70s, low humidity, comfortable for outdoor activities at any time of day.
 
 **The crowds:** Thanksgiving week brings families and some visitors. Pre-Thanksgiving and post-Thanksgiving are typically quieter.
 
-**For groups:** Strongly recommended, particularly late October through mid-November. This is when locals are most enthusiastic about the city—the brutal summer is over, the Mardi Gras crowds haven't arrived, and the weather rewards being outside.
-
-**Booking window:** Less competitive than spring but still worth planning 2-3 months out for peak fall weekends.
+**For groups:** A strong pick if you want peak-caliber weather without peak-season chaos, particularly early-to-mid November before Thanksgiving. The brutal summer is over and the Mardi Gras crowds haven't arrived yet.
 
 ### December
 
@@ -188,7 +184,7 @@ If you go: choose inland-adjacent accommodation with a clear evacuation plan, mo
 
 **For groups:** Early December (before the 15th) is excellent and underused. Quiet, good weather, immediate reservations. Holiday gathering trips work particularly well here.
 
-**New Year's:** If you're doing a New Year's trip, see the [New Year's guide](/guides/new-years-guide) for full logistics. The Sugar Bowl, Frenchmen Street at midnight, and the fireworks over the river make December 31 in New Orleans a top-tier celebration.
+**New Year's:** If you're doing a New Year's trip, see the [New Year's guide](/guides/new-years-guide/) for full logistics. The Sugar Bowl, Frenchmen Street at midnight, and the fireworks over the river make December 31 in New Orleans a top-tier celebration.
 
 ---
 
@@ -249,7 +245,7 @@ Works year-round. In summer, the best time to be outside is after 9 PM when temp
 
 ## The Hurricane Conversation
 
-If you're visiting June through October, have this conversation with your group before you book.
+If you're visiting June through October, have this conversation with your group before you book. The [hurricane season guide](/guides/nola-group-hurricane-season-guide/) covers the full group-logistics version of this; here's the short version.
 
 ### What Hurricane Season Actually Means
 
@@ -277,39 +273,28 @@ Having this conversation before you arrive—not the night a storm forms—saves
 
 ## Pro Tips
 
-1. **Book spring dates 4-6 months out.** March and April are the best months and the most competitive. Waiting until 8 weeks out for a spring trip is the single most common planning mistake.
+1. **For the largest selection, book 6+ months out.** March, April, and October are the most competitive months on the calendar. Waiting until 8 weeks out for any of them is the single most common planning mistake.
 
-2. **Fall is underrated.** October and November are just as good as spring and often 15-25% cheaper for accommodations and flights.
+2. **November is the value play, not October.** October carries spring-level demand and pricing; November settles down while the weather is nearly as good.
 
 3. **If you go in summer, build in pool time.** Properties with private pools (Castleday) or shared pool complexes (The Syd) become essential infrastructure in summer, not a luxury. The pool is where the trip happens from 11 AM-6 PM.
 
 4. **Check the festival calendar against weather.** Jazz Fest in late April-early May can have cold days (bring layers). Mardi Gras in early February can be 70°F or 45°F.
 
-5. **Rain is not a trip-killer.** NOLA afternoon thunderstorms typically last 20-40 minutes and then pass. Have a rainy-day plan (see the [rainy day guide](/guides/rainy-day-guide)) but don't panic when a storm rolls in.
+5. **Rain is not a trip-killer.** NOLA afternoon thunderstorms typically last 20-40 minutes and then pass. Have a rainy-day plan (see the [rainy day guide](/guides/rainy-day-guide/)) but don't panic when a storm rolls in.
 
 6. **Evening beats afternoon in summer.** The city's best outdoor experiences—Frenchmen Street, levee walks, restaurant patios—all work better from 8 PM onwards in summer. Adjust your schedule accordingly.
 
-7. **January and February can be excellent.** Post-Mardi Gras February and early January before Mardi Gras season are genuinely good, cheap, uncrowded options that most people overlook.
+7. **January is the year's best-kept secret.** It's genuinely the cheapest, least-crowded stretch of the calendar, right before Mardi Gras season ramps up. The week right after Fat Tuesday runs a close second, even though it falls inside the broader Feb-May high season.
 
 ---
 
-## Where to Stay When Weather Matters
+## For a Big Group
 
-Weather shapes where you'll spend time. If you're visiting in summer, you want a property with excellent outdoor space for morning and evening, and shade and water for the afternoon. In cooler months, you want walkability and common spaces where the group can gather.
+Weather is the one variable you can completely control by choosing the right dates. Everything else—activities, restaurants, budget—is more flexible. Book your dates around the weather, not the other way around, and let where you stay follow from what the season demands.
 
-**Castleday Retreats** — Bywater, three private villas, up to 30 guests each. Each villa has a private pool, which in summer becomes the center of the day. The Bywater's walkable restaurant and bar scene means evening activities don't require transportation. The Herald villa's large common areas work particularly well in cold or rainy weather when the group needs to be inside together.
+**Editorial examples of what fits:** in summer, a property with a private pool (like Castleday Retreats' Bywater villas) turns the brutal afternoon into the best hour of the day. In cooler, wetter months, a property with real shared common space (like The Syd's Lower Garden District villas, one block from the streetcar) matters more than outdoor amenities — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how that tradeoff plays out against a hotel room block. Neither is a booking recommendation; both operate year-round.
 
-**The Syd** — Lower Garden District, multiple villas, up to 22 guests. Shared heated pool, hot tub, and sauna—excellent for year-round use. The outdoor kitchen works for outdoor dining in good weather. One block from St. Charles Streetcar means any sub-group can easily navigate to indoor activities during hot or rainy stretches.
+For the largest selection, book 6+ months out.
 
-Both properties are operational year-round and regularly host large groups across all seasons. When you inquire, mention your travel month—they can share what past guests have found to work well at that time of year.
-
----
-
-## Pick the Right Month First
-
-Weather is the one variable you can completely control by choosing the right dates. Everything else—activities, restaurants, budget—is more flexible.
-
-Book your dates around the weather, not the other way around.
-
-- Castleday Retreats — Check availability for your target window
-- The Syd — Multiple villas, year-round booking
+[See where to stay for large groups →](/where-to-stay/)
