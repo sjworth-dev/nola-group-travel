@@ -1,10 +1,10 @@
 ---
 title: "How to Organize Group Gifts on a NOLA Trip"
-description: "Coordinating group gifts for a bachelorette, milestone birthday, or celebration trip to New Orleans. Local vendors, group experiences, and logistics for 10-30 people."
+description: "Coordinating group gifts for a bachelorette, milestone birthday, or celebration trip to New Orleans. Local vendors, group experiences, and logistics for splitting the cost without a headache."
 category: "Planning & Logistics"
 card_title: "Group Gifting Guide"
 card_description: "Group gifts for bachelorettes, milestone birthdays, and celebration trips—what to buy, where to get it, and how to coordinate the money."
-date: 2026-05-30
+date: 2026-08-15
 ---
 
 Somebody in your group is being celebrated. Maybe it's the bride-to-be. Maybe it's a 40th or 50th birthday. Maybe it's a retirement or an anniversary.
@@ -38,17 +38,17 @@ The guest of honor gets their own parasol. The group dances behind. A brass band
 
 This is a $1,000-2,000 experience split across 15-25 people, making it $50-100 per person. No physical gift comes close to this as a memory.
 
-Book 6-8 weeks out. See the [second line guide](/guides/second-line-guide) for logistics.
+Book 6-8 weeks out. See the [second line guide](/guides/second-line-guide/) for logistics.
 
 **Private cooking class**
 
-Hire a private chef to run a cooking class for the whole group. Two hours of cooking together—gumbo, beignets, étouffée, whatever you pick—and then everyone eats the results.
+Hire a private chef to run a cooking class for the whole group. Two hours of cooking together—gumbo, beignets, étouffée, whatever you pick—and then everyone eats the results. See the [cooking class guide](/guides/nola-cooking-class-guide/) for how to book one and the [private chef guide](/guides/private-chef-guide/) for the villa-dinner version of the same idea.
 
 Cost range: $100-150 per person, funded collectively for the guest of honor (meaning everyone pays their own way, and the gift is the experience rather than covering the full cost).
 
 **Spa or salon day**
 
-Book a spa morning for a smaller inner circle. Cover the guest of honor's treatments as the group gift. The rest of the group pays their own way.
+Book a spa morning for a smaller inner circle. Cover the guest of honor's treatments as the group gift. The rest of the group pays their own way. The [spa and wellness guide](/guides/spa-wellness-guide/) covers group booking logistics.
 
 Works best for: bachelorette parties, birthday trips where the guest of honor has one close inner circle.
 
@@ -135,7 +135,7 @@ Works best for: bachelorette parties, milestone birthdays.
 
 The gift here is the experience of walking into a space that's been set up for them specifically.
 
-**Coordination:** Someone from the group arrives early or contacts the rental host to arrange access before the guest of honor arrives. Castleday Retreats and The Syd both accommodate early setup requests—confirm logistics with the host when you book.
+**Coordination:** Someone from the group arrives early or contacts the rental host to arrange access before the guest of honor arrives. Most large-group rental hosts accommodate early setup requests—confirm logistics when you book.
 
 ---
 
@@ -204,7 +204,7 @@ Send one reminder to the whole group at the deadline. Don't chase individuals—
 
 | Occasion | Best Gift Category |
 |----------|-------------------|
-| Bachelorette party | Private second line, room setup, custom items |
+| Bachelorette party | Private second line, room setup, custom items — see [bachelorette party themes](/guides/nola-bachelorette-party-themes/) |
 | Milestone birthday (40/50/60) | Experience gift, local art, group dinner |
 | Retirement trip | Personal keepsake, experience, fine dining |
 | Anniversary trip | Local art, private dinner, couple's experience |
@@ -264,19 +264,10 @@ Send one reminder to the whole group at the deadline. Don't chase individuals—
 
 ## Where You'll Be Opening That Gift
 
-The moment a group gift lands—the reveal, the opening, the reaction—happens somewhere. Make sure that somewhere is worth the memory.
+The moment a group gift lands—the reveal, the opening, the reaction—happens somewhere. Lock in where the trip is staying before you plan the reveal; the venue shapes what's possible for setup, delivery, and the moment itself. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how the accommodation format changes the logistics.
 
-**Castleday Retreats** — Private villas in Bywater, up to 30 guests. The pool decks, common rooms, and private outdoor spaces make a genuinely beautiful backdrop for a gift reveal moment. Previous guests have done everything from surprise second line departures to candlelit dinner reveals in the villa dining rooms.
+**Editorial examples of what fits:** a private villa (like Castleday Retreats' Bywater properties, or The Syd's Lower Garden District villas) gives you a pool deck, common room, or dining table with no hotel lobby and no other guests walking through—just your group in a space that's yours for the duration. A property with deep same-trip inventory (like Heirloom) matters if the reveal needs to happen the same week you're booking. For groups splitting across room blocks, a hotel with connected suites (The Roosevelt, Hotel Peter & Paul, and others) can still stage a private moment in a suite or lounge. Neither is a booking recommendation; pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests. The shared outdoor kitchen and heated pool create a natural gathering point. The artist-designed interiors make every photo of the moment look better than it would anywhere else.
+For the largest selection, book 6+ months out.
 
-Both properties are completely private—no hotel lobby, no other guests walking through, just your group in a space that's yours for the duration of the trip.
-
----
-
-## Start With the Venue
-
-Before you coordinate the gift, lock in where the trip is happening. The venue shapes what's possible for setup, delivery, and the reveal moment.
-
-- Castleday Retreats — Bywater, up to 30 guests per villa
-- The Syd — Lower Garden District, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
