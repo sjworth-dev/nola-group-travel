@@ -4,14 +4,14 @@ description: "The complete guide to building a pre-trip welcome packet for your 
 category: "Planning & Logistics"
 card_title: "Group Welcome Packet"
 card_description: "The exact welcome packet your group needs: neighborhood map, house rules, grocery list, restaurant recs, packing list, and emergency contacts."
-date: 2026-05-30
+date: 2026-08-16
 ---
 
 Nobody reads the group chat retroactively. The address gets asked three times. Someone shows up without bug spray. Another person didn't know there was a grocery stop on the way in.
 
 A welcome packet fixes all of this. One document. Shared before departure. Contains every piece of information anyone will need before they text you asking something you've already explained.
 
-This isn't a "nice to have." For groups of 15-30 people, it's the difference between a chaotic arrival day and one that actually starts the trip well.
+This isn't a "nice to have." Once the trip goes double-digit, it's the difference between a chaotic arrival day and one that actually starts the trip well.
 
 ## Quick Planning Checklist
 
@@ -27,7 +27,7 @@ This isn't a "nice to have." For groups of 15-30 people, it's the difference bet
 
 ## Why You Need This
 
-You're coordinating 15-30 people across different flight schedules, time zones, and life circumstances. Some people are arriving Thursday at 2 PM. Some are coming in at 11 PM. One person is driving from Dallas. Somebody forgot the address.
+You're coordinating a whole crew across different flight schedules, time zones, and life circumstances. Some people are arriving Thursday at 2 PM. Some are coming in at 11 PM. One person is driving from Dallas. Somebody forgot the address.
 
 A welcome packet centralizes every piece of logistics into one reference that anyone can check at any time — without texting you.
 
@@ -57,7 +57,7 @@ This is the first thing people look at. Make it scannable.
 
 New Orleans parking varies by neighborhood. The Bywater has more residential street parking than the CBD or French Quarter. The Lower Garden District is competitive near Magazine Street. Include whatever specific guidance applies to where you're staying — your rental should be able to tell you.
 
-Key pickup: some properties have lockboxes; others require meeting a property manager. Clarify this before departure and document it precisely. "The key is in the lockbox to the left of the front door — the code is XXXX" is useful. "The key is somewhere on the porch" is not.
+Key pickup: some properties have lockboxes; others require meeting a property manager. Clarify this before departure and document it precisely. "The key is in the lockbox to the left of the front door — the code is XXXX" is useful. "The key is somewhere on the porch" is not. See the [villa arrival setup guide](/guides/villa-arrival-setup-guide/) and the [check-in/check-out guide](/guides/group-check-in-check-out-guide/) for the full logistics beyond what belongs in the packet itself.
 
 ---
 
@@ -113,7 +113,7 @@ For groups staying in a villa, meals at the house are part of the trip. Breakfas
 Assign this before arrival. Options:
 - One person goes to the store the morning of arrival, reimbursed from the shared expense fund
 - Two people do the airport run and grocery stop together
-- Order delivery ahead (Instacart, FreshDirect) to the property (confirm the property accepts deliveries)
+- Order delivery ahead (Instacart, FreshDirect) to the property (confirm the property accepts deliveries) — see the [food delivery guide](/guides/nola-food-delivery-guide/) for what actually works and what doesn't
 
 ### Standard Villa Grocery List for 15-20 People
 
@@ -160,7 +160,7 @@ This section does double duty: it tells people where you've already booked, and 
 | [Name] | Friday | 7:30 PM | [#] | [Address] |
 | [Name] | Saturday | 8:00 PM | [#] | [Address] |
 
-Include the address and a Google Maps link. Include what the dress code is if it matters. Flag any restaurants that are BYOB or cash-only.
+Include the address and a Google Maps link. Include what the dress code is if it matters. Flag any restaurants that are BYOB or cash-only. For the actual restaurant list and reservation strategy, start with the [restaurant guide](/guides/restaurant-guide/) — it's built specifically around what handles a large party well.
 
 ### Recs by Meal Type
 
@@ -168,6 +168,7 @@ Include the address and a Google Maps link. Include what the dress code is if it
 - Café Du Monde — beignets, coffee, required stop, expect a line
 - Elizabeth's — the real local brunch, Bywater
 - Slim Goodies — Magazine Street, large plates, no frills
+- See the [brunch guide](/guides/nola-brunch-guide/) for the full group-sized rundown
 
 **Lunch (walk-in, group-sized tables):**
 - Domilise's — legendary po-boy shop
@@ -206,7 +207,7 @@ Write this section assuming something will go wrong for someone. Usually it's mi
 
 - Walk-around cups are legal on public streets in New Orleans. Glass is not allowed in the street.
 - Stay aware in the French Quarter late at night — tourist areas attract pickpockets. Don't walk alone after 2 AM in unfamiliar areas.
-- Hurricane season runs June through November. Check weather apps before outdoor plans.
+- Hurricane season runs June through November. Check weather apps before outdoor plans — see the [weather guide](/guides/nola-weather-guide/) for what each season actually means for your trip.
 - Heat and humidity are serious in summer. Hydrate aggressively. Heat exhaustion is real.
 - The city floods in heavy rain — some streets become temporary rivers. Don't attempt to drive through standing water.
 
@@ -272,19 +273,10 @@ Standard packing guides don't account for what New Orleans actually requires. In
 
 ## Where to Stay: The Foundation
 
-A welcome packet only works because everyone is arriving at the same place. The whole model — shared house rules, communal grocery list, common meeting points — assumes you're staying together.
+A welcome packet only works because everyone is arriving at the same place. The whole model — shared house rules, communal grocery list, common meeting points — assumes you're staying together, which is the case for the [villa route generally](/guides/hotel-vs-villa-guide/) once the trip gets big enough that splitting across hotel rooms starts fragmenting the group.
 
-For groups of 15-30, that means a villa.
+A single dedicated property simplifies every section of the packet: one address, one key procedure, one set of house rules. Bywater villas like Castleday Retreats put a private pool and full kitchen at each house, which works well for a self-contained crew. The Syd, in the Lower Garden District, is built around a shared pool and hot tub one block from the St. Charles Streetcar — a good fit if the group wants a central gathering point. Heirloom's large-format homes across the LGD and Central City are worth checking for short-notice bookings or a specific layout. Hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit mixed budgets or a group that wants separate bills.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Full kitchens, private pools, large common spaces. A single property with one address in the packet, one key procedure, one set of house rules. They handle group bookings routinely and can walk you through check-in logistics before you send the packet.
+Whichever route you pick, confirm the check-in logistics, house rules, and emergency contact before you start writing the packet — that information is what the whole document is built around. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. Designed by local artists — the space itself is worth a section in the packet. Centrally located, which simplifies the neighborhood overview section significantly.
-
-Both properties are designed for groups. They've seen the arrival-day chaos before. Talk to them when you book — they'll give you details that belong in your packet.
-
----
-
-## Start Here
-
-- Castleday Retreats — Bywater, private pools, up to 30 per villa
-- The Syd — Lower Garden District, central location, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
