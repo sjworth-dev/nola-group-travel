@@ -1,10 +1,10 @@
 ---
 title: "Planning a NOLA Trip With Multiple Sub-Groups"
-description: "How to plan a New Orleans group trip when your group has different budgets, schedules, and preferences. The hub-and-spoke model for 15-30 people."
+description: "How to plan a New Orleans group trip when your group has different budgets, schedules, and preferences. The hub-and-spoke model for a crew that's really several crews."
 category: "Planning & Logistics"
 card_title: "Multi-Sub-Group Trips"
 card_description: "Different budgets, different schedules, different interests—same trip. How to make it work."
-date: 2026-05-30
+date: 2026-08-16
 ---
 
 Every group trip eventually runs into the same problem: you're not actually one group.
@@ -56,11 +56,9 @@ This is the framework that actually works.
 
 ### Setting Up Your Hub
 
-For 15-30 people, your hub options in New Orleans are limited but excellent.
+Once your sub-groups add up to a real headcount, your hub options in New Orleans are limited but excellent — see the [full accommodation breakdown](/guides/hotel-vs-villa-guide/) for how villas and hotel room blocks compare on this exact problem.
 
-**Castleday Retreats** — Three private villas in Bywater, each sleeping up to 30 guests. The largest common areas of any large-group rental in the city. Separate villa structures mean night-owl energy doesn't bleed into bedrooms where early risers are sleeping. Private pools for the pool crowd. Full kitchens for anyone who wants to cook. Five minutes from Frenchmen Street for the bar crowd.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared outdoor spaces become a natural gathering point across sub-groups. One block from the St. Charles Streetcar, which makes it easy for any sub-group to break off and navigate independently.
+Bywater villas like Castleday Retreats put separate villa structures on one property, which means night-owl energy doesn't bleed into bedrooms where early risers are sleeping — a real advantage for the hub-and-spoke model specifically. The Syd, in the Lower Garden District, is built around a shared pool and hot tub that becomes a natural cross-sub-group gathering point without anyone having to organize it. Both fit the model; which one fits depends on whether you want separated structures or a shared social center.
 
 ### Anchor Moments
 
@@ -100,7 +98,7 @@ This lets the spenders go to Commander's Palace for Sunday brunch while the budg
 | Individual meals | Each person covers their own |
 | Bar tabs | Each person covers their own unless you agree otherwise |
 
-Use Splitwise or Venmo to track it. One person runs the ledger. Everyone pays before they leave.
+Use Splitwise or Venmo to track it. One person runs the ledger. Everyone pays before they leave — see the [budget tracking guide](/guides/nola-group-budget-tracking-mid-trip-guide/) for how to keep the ledger from becoming its own source of tension mid-trip.
 
 ### When Someone Can't Afford the Rental
 
@@ -148,7 +146,7 @@ The sub-groups share photos in the group chat. They return with stories. That's 
 
 Evenings are where you come back together. At least every other night should be a group dinner.
 
-**Group dinner nights:** Make a reservation that fits your whole count. This is the trip's anchor. Plan nothing else until after dinner.
+**Group dinner nights:** Make a reservation that fits your whole count. This is the trip's anchor — the [restaurant guide](/guides/restaurant-guide/) is organized around exactly this problem. Plan nothing else until after dinner.
 
 **Free evenings:** Everyone does their thing. Frenchmen Street for the music crowd. The pool for the chill crowd. French Quarter for anyone who needs to get it out of their system.
 
@@ -208,7 +206,7 @@ Evening: Full-group dinner reservation (anchor moment #1).
 
 ### Day 3: The Big Group Day
 
-This is the day you do the group activity—second line, swamp tour, cooking class, ghost tour. Something everyone does together.
+This is the day you do the group activity—[second line](/guides/second-line-guide/), [swamp tour](/guides/nola-swamp-tour-guide/), cooking class, ghost tour. Something everyone does together.
 
 Morning: Same flexible start.  
 Early afternoon: Group activity (2-3 hours).  
@@ -255,19 +253,10 @@ Slow morning. Whoever's still there makes coffee. Gradual checkouts. Final pool 
 
 The single most important variable is a property that can absorb multiple sub-groups without conflict.
 
-You need: Common space large enough for the full group. Enough bedrooms that night owls and early risers are genuinely separated. Outdoor space where people can exist without waking anyone up.
+You need: common space large enough for the full group, enough bedrooms that night owls and early risers are genuinely separated, and outdoor space where people can exist without waking anyone up. Before you can organize sub-groups, you need this home base locked in first — build the rest of the plan around it, and read the [villa arrival setup guide](/guides/villa-arrival-setup-guide/) once you have one so day one doesn't undo the planning.
 
-**Castleday Retreats** — Three private villas in Bywater, each sleeping up to 30. Common areas are genuinely large. The private pool becomes the natural hub point for everyone. The Bywater location puts nightlife, restaurants, and the levee walk all within walking distance, so sub-groups can scatter and return easily.
+The field spans a few different shapes of the same idea. Bywater villas like Castleday Retreats separate the group into distinct villa structures, so sub-groups can scatter and return easily without one crowd's energy bleeding into another's sleep schedule. The Syd's shared pool and hot tub in the Lower Garden District pulls sub-groups back together without anyone scheduling it. Heirloom's large-format homes across the LGD and Central City are worth a look for deeper inventory or a short-notice booking. If the group's budgets genuinely can't converge on one property, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) let people keep separate bills while still landing in the same neighborhood — see the [check-in/check-out guide](/guides/group-check-in-check-out-guide/) and [group communication guide](/guides/group-communication-guide/) for the logistics of running that as one trip anyway.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests. Shared outdoor kitchen, heated pool, and sauna create natural cross-sub-group gathering points without forcing it. One block from St. Charles Streetcar means any sub-group can independently navigate to any neighborhood without coordinating a carpool.
+For the largest selection, book 6+ months out.
 
-Both properties accommodate the structure described in this guide: large enough to hold everyone, configured for sub-group independence, with shared outdoor spaces that pull people back together without scheduling it.
-
----
-
-## Start With the Rental
-
-Before you can organize sub-groups, you need a home base. Lock that in first, then build the rest of the plan around it.
-
-- Castleday Retreats — Bywater, up to 30 guests per villa
-- The Syd — Lower Garden District, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
