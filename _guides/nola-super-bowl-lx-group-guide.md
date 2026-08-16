@@ -1,17 +1,17 @@
 ---
 title: "Super Bowl in New Orleans: The Large-Group Planning Guide"
-description: "Complete planning guide for groups of 15-30 attending or experiencing the Super Bowl in New Orleans: ticket strategy, where to watch without tickets, full week structure, accommodation logistics, and how to make the most of one of the most electric weeks in American sports."
+description: "Complete planning guide for a big group attending or experiencing the Super Bowl in New Orleans: ticket strategy, where to watch without tickets, full week structure, accommodation logistics, and how to make the most of one of the most electric weeks in American sports."
 category: "Festivals & Events"
 card_title: "Super Bowl Group Guide"
-card_description: "Super Bowl week in NOLA for groups of 15-30. Ticket strategy, watch party options, full week structure, and accommodation logistics when the city triples in size."
-date: 2026-06-08
+card_description: "Super Bowl week in NOLA with the whole crew. Ticket strategy, watch party options, full week structure, and accommodation logistics when the city triples in size."
+date: 2026-08-16
 ---
 
 Super Bowl week in New Orleans is a different animal from anything the city normally produces. The city transforms in a way that even Mardi Gras season doesn't fully replicate. Every major hotel gets block-reserved by media companies and NFL sponsors. The restaurants are packed at every meal for seven straight days. Bourbon Street looks like New Year's Eve each night starting Tuesday. The convention center and Superdome corridors fill with corporate activations, sponsor parties, and media compounds before the first kickoff has been scheduled.
 
-For groups of 15-30, this is one of the highest-effort, highest-reward trips you can organize. The city's infrastructure is fully deployed. The energy is real and cumulative. It builds across the week. By game day, the entire city has been living inside a single shared moment for six days, and you feel it.
+For a big group, this is one of the highest-effort, highest-reward trips you can organize. The city's infrastructure is fully deployed. The energy is real and cumulative. It builds across the week. By game day, the entire city has been living inside a single shared moment for six days, and you feel it.
 
-The difference between a good Super Bowl week trip and a miserable one comes down almost entirely to planning timing. Groups that lock accommodation and build the framework 9-12 months out have excellent experiences. Groups that start planning 60 days before the game pay punishing prices for whatever's left and spend the week scrambling. The city does not reward late arrivals during Super Bowl week.
+The difference between a good Super Bowl week trip and a miserable one comes down almost entirely to planning timing. Groups that lock accommodation and build the framework early have excellent experiences. Groups that start planning two months before the game pay punishing prices for whatever's left and spend the week scrambling. For the largest selection, book 6+ months out — the city does not reward late arrivals during Super Bowl week.
 
 This guide is about the mechanics: how to get tickets as a large group, how to structure the week, where to be if you don't have game tickets, and how to handle the accommodation challenge that defines every large-group Super Bowl trip.
 
@@ -20,7 +20,7 @@ This guide is about the mechanics: how to get tickets as a large group, how to s
 ## Quick Checklist
 
 - [ ] Decide immediately: is this a "everyone goes to the game" trip or a "some tickets, some watch parties" trip — the two structures require different planning frameworks
-- [ ] Book accommodation 9-12 months out; anything less and your options at the group-friendly properties are gone
+- [ ] Book accommodation as early as possible — for the largest selection, book 6+ months out; anything less and your options at the group-friendly properties are gone
 - [ ] Set a ticket budget before you start shopping — secondary market prices fluctuate wildly and anchoring the group's expectation early prevents conflict
 - [ ] Make dinner reservations for every night of the trip at the same time you confirm accommodation — restaurants fill at the same pace hotels do
 - [ ] Identify one person as the trip logistics coordinator; this week generates too many moving parts for a committee
@@ -62,11 +62,11 @@ Knowing this helps you plan. Neighborhoods even a mile from the Superdome mainta
 
 ## Ticket Strategy for Groups
 
-Getting 15-30 tickets together to the same game is one of the hardest ticket logistics problems in American sports. Here's the honest framework.
+Getting a big group's worth of tickets together to the same game is one of the hardest ticket logistics problems in American sports. Here's the honest framework.
 
 ### Option A: Split the Group
 
-This is the move for most groups over 12 people. Some members get game tickets and attend; others do a structured watch party experience — either a formal fan event, a bar buyout, or the villa with full catering and a big screen. Both groups have a plan from the start; nobody is an afterthought.
+This is the move once the group gets past a dozen or so. Some members get game tickets and attend; others do a structured watch party experience — either a formal fan event, a bar buyout, or the villa with full catering and a big screen. Both groups have a plan from the start; nobody is an afterthought.
 
 This framing changes the dynamics. The watch party group isn't "people who couldn't get tickets." They're doing a different version of the event that has its own value. Plan it that way and it works. Plan it as a consolation prize and it doesn't.
 
@@ -101,7 +101,7 @@ For large groups buying in bulk, the 3-6 month window often produces the best co
 
 ---
 
-## Week Structure for Groups of 15-30
+## Week Structure for the Whole Crew
 
 The best Super Bowl week trips have a deliberate shape. Without structure, the week can become a blur of crowded bars and expensive meals with no memorable throughlines.
 
@@ -158,29 +158,19 @@ Most bars in New Orleans run some version of a Super Bowl watch party, ranging f
 
 ### Buyout Option
 
-A bar buyout specifically for game day is a legitimate move for groups of 10-20 who want the shared-bar energy without competing for space. The economics shift during Super Bowl week — venues know the demand and price accordingly — but for a group that's already committed to the trip budget, a Super Bowl watch party buyout in a New Orleans courtyard bar is a strong option.
+A bar buyout specifically for game day is a legitimate move once the group is big enough to want the shared-bar energy without competing for space. The economics shift during Super Bowl week — venues know the demand and price accordingly — but for a group that's already committed to the trip budget, a Super Bowl watch party buyout in a New Orleans courtyard bar is a strong option.
 
-For more on bar buyout logistics, see our [bar buyout guide](/guides/nola-group-bar-buyout-guide).
+For more on bar buyout logistics, see the [bar buyout guide](/guides/nola-group-bar-buyout-guide/). For a similar mega-event playbook on a smaller time horizon, the [Saints gameday guide](/guides/saints-gameday-mega-guide/) covers the same watch-party-vs-tickets decision for a single regular-season Sunday.
 
 ---
 
 ## Accommodation: The Central Challenge
 
-Accommodation during Super Bowl week follows a simple rule: the best properties book up in the 9-12 month window before the game. Properties that typically have availability weeks in advance have no availability during Super Bowl week at any reasonable price.
+Accommodation during Super Bowl week follows a simple rule: the best properties book up early, and the demand curve for this one week is steeper than anything else on the New Orleans calendar. Properties that typically have availability weeks in advance have no availability during Super Bowl week at any reasonable price. For the largest selection, book 6+ months out — earlier is better, and this is the one week of the year where "earlier" pays off the most.
 
-For groups of 15-30, this creates the familiar large-group problem — hotel room blocks require minimum purchase commitments and coordination overhead, or you end up in rooms scattered across three different hotels. Neither is ideal.
+At full headcount, this creates the familiar large-group problem — hotel room blocks require minimum purchase commitments and coordination overhead, or you end up in rooms scattered across three different hotels. Neither is ideal. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full breakdown of that tradeoff.
 
-### The Timeline
-
-| When You Book | What's Available |
-|---------------|-----------------|
-| 9-12 months before game | Best properties, best rates, full options |
-| 6-9 months | Good options still exist; prices elevated but not extreme |
-| 3-6 months | Significant selection reduction; prices meaningfully higher |
-| Under 3 months | Primarily lower-quality inventory; prices punishing |
-| Under 4 weeks | Whatever remains; rarely anything at acceptable prices |
-
-If you're in the "we want to go to Super Bowl week" conversation and it's 6+ months away: book now. If it's under 3 months out, assess carefully whether the accommodation math works before committing the group.
+If you're in the "we want to go to Super Bowl week" conversation: start the accommodation search now, whatever "now" is when you're reading this. Every week you wait is a week of inventory gone.
 
 ---
 
@@ -190,7 +180,7 @@ Normal NOLA transportation logic does not apply during Super Bowl week.
 
 ### What Changes
 
-**Rideshare:** Surge pricing is constant during peak hours. Wait times during Bourbon Street rush and game day pre/post are significant. Plan accordingly — either build in lead time or walk more than you normally would.
+**Rideshare:** Surge pricing is constant during peak hours. Wait times during [Bourbon Street](/guides/nola-bourbon-street-guide/) rush and game day pre/post are significant. Plan accordingly — either build in lead time or walk more than you normally would; the [rideshare guide](/guides/nola-group-ride-share-master-guide/) covers group-specific tactics for beating surge pricing.
 
 **Driving:** Certain streets near the Superdome and major event venues are restricted on game day. If your group is driving to any event during the week, research restrictions in advance. Do not assume you can park where you normally park.
 
@@ -206,7 +196,7 @@ Game day has its own transportation logic. The city sets up designated routes, r
 
 ## Pro Tips
 
-1. **Make dinner reservations before your friends know you're going.** The restaurants worth eating at during Super Bowl week fill during the same 9-12 month window as the accommodation. If you've locked the villa, immediately lock every dinner reservation for the week. This is not an exaggeration.
+1. **Make dinner reservations before your friends know you're going.** The restaurants worth eating at during Super Bowl week fill on the same early timeline as the accommodation. If you've locked the villa, immediately lock every dinner reservation for the week. This is not an exaggeration.
 
 2. **Assign a dedicated logistics coordinator.** Super Bowl week generates more moving parts than almost any other group trip format: tickets, reservations, game-day transportation, watch party setup, departure logistics. One person owns all of this and has authority to make calls without a group vote. Committee logistics during Super Bowl week will drive someone insane.
 
@@ -222,17 +212,15 @@ Game day has its own transportation logic. The city sets up designated routes, r
 
 ---
 
-## Large-Group Accommodation: Your Two Best Options
+## Large-Group Accommodation
 
-The accommodation challenge during Super Bowl week is the same challenge that defines every large-group NOLA trip, amplified by extreme demand. Hotel room blocks for 15-30 people require minimum commitments and leave your group distributed across multiple floors with no shared common space. A private villa keeps everyone together with shared space to use for the entire week — including the watch party.
+The accommodation challenge during Super Bowl week is the same challenge that defines every large-group NOLA trip, amplified by extreme demand. A hotel room block leaves your group distributed across multiple floors with no shared common space — no home base for the watch party, the pool day recovery, or the after-midnight wind-down. A private villa solves that by keeping everyone together with shared space for the whole week.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private outdoor space that works as a watch party setup, a pool day recovery base, and an after-midnight wind-down when the rest of the city is still operating at full volume. The Bywater location puts you adjacent to the Marigny and Frenchmen Street — the neighborhoods that hold their character best during Super Bowl week while still being a short ride from the Superdome and the main event corridors. Private pools, full kitchens, and complete privacy means your group has a home for the week that no hotel can replicate.
+**Editorial examples of what fits, none of them a booking recommendation:** Castleday Retreats' private-pool [Bywater](/neighborhoods/bywater/) villas put a group within a short ride of the Superdome while staying adjacent to the Marigny and Frenchmen Street — the neighborhoods that hold their character best when the rest of the city is at full volume. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas sit one block from the St. Charles Streetcar, useful during a week when driving downtown gets complicated. Heirloom's deeper inventory across the LGD and Central City is worth checking if the usual villas are already booked by the time your group commits. For groups that want separate bills or a mixed-budget setup, a hotel room block still works — The Roosevelt, Hotel Bennett, and Hotel Peter & Paul are the kind of properties that can absorb a group this size downtown.
 
-These villas book during Super Bowl week 9-12 months in advance. Not early — 9 to 12 months. If you're reading this before you've contacted them, do it now.
+Every one of these fills during Super Bowl week at the same pace as the best restaurants. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which gives you direct access to the entire city during a week when driving is complicated. The shared heated pool, hot tub, sauna, and outdoor kitchen create the watch party and recovery infrastructure your group needs without leaving the property. For groups that want proximity to downtown venues, the Lower Garden District location is a strong call. The artist-designed interiors make it the most distinctive accommodation your group will find during a week when everyone else is staying in a convention hotel.
-
-Both properties fill during Super Bowl week at the same pace as the best restaurants. The booking timeline is serious.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -240,7 +228,4 @@ Both properties fill during Super Bowl week at the same pace as the best restaur
 
 Super Bowl week in New Orleans is one of the best sporting events you can attend as a large group — the city is built for it in a way that most Super Bowl host cities are not. The food is good. The nightlife is real. The streets are walkable. The culture is its own entertainment apart from the game.
 
-Get the planning right and the week takes care of itself.
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, pool, private outdoor space, book 9-12 months out for Super Bowl week
-- The Syd — Lower Garden District villas, up to 22 guests per villa, shared pool and outdoor kitchen, streetcar to the Superdome and every bar district in the city
+Get the planning right and the week takes care of itself. Lock the [accommodation](/where-to-stay/) first, then work outward — dinner reservations, [transportation](/guides/transportation-guide/), and a [logistics coordinator](/guides/nola-group-trip-roles-assignment-guide/) to hold it all together.
