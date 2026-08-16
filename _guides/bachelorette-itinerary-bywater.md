@@ -4,7 +4,7 @@ description: "A Bywater-specific bachelorette itinerary for the whole crew. Bacc
 category: "Bachelorette & Bachelor"
 card_title: "Bywater Bachelorette Itinerary"
 card_description: "Skip Bourbon Street. The Bywater bachelorette—Bacchanal, the neighborhood bar scene, vintage shopping, and your own private pool."
-date: 2026-05-29
+date: 2026-08-16
 ---
 
 Every New Orleans [bachelorette](/guides/bachelorette-party/) group faces the same question around Day 2: why does this feel so much better than Bourbon Street?
@@ -229,7 +229,7 @@ For a Bywater bachelorette group, an Uber to the Uptown end of Magazine Street a
 
 For a Bywater bachelorette, the neighborhood matters more than any single amenity — but the private pool is what the whole itinerary above is structured around. A hotel room doesn't give you a shared space to gather, a kitchen for the house-brunch mornings, or a pool for the sacred recovery hour.
 
-**Editorial examples of what fits:** properties like Castleday Retreats (private-pool Bywater villas, full kitchens) put a group within walking distance of Bacchanal Wine and a 10-minute walk to [Frenchmen Street](/guides/live-music-guide/). If the [Lower Garden District](/neighborhoods/lower-garden-district/) near Magazine Street and the St. Charles Streetcar is a better fit for your group, The Syd offers a shared heated pool and hot tub one block from the streetcar line. Neither is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room block for a group this size.
+**Editorial examples of what fits:** properties like Castleday Retreats (private-pool Bywater villas, full kitchens) put a group within walking distance of Bacchanal Wine and a 10-minute walk to [Frenchmen Street](/guides/live-music-guide/). If the [Lower Garden District](/neighborhoods/lower-garden-district/) near Magazine Street and the St. Charles Streetcar is a better fit, The Syd offers a shared heated pool and hot tub one block from the streetcar line. Heirloom's larger inventory across the LGD and Central City is worth a look if your dates are tight and the usual villas are booked. None of these is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room block for a group this size.
 
 For the largest selection, book 6+ months out.
 
