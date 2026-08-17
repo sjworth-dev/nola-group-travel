@@ -1,15 +1,15 @@
 ---
 title: "Self-Guided NOLA Cocktail History Tour for Groups"
-description: "Where each New Orleans classic cocktail was invented, what to order at each stop, and how to run the route for 15-25 people. The Sazerac, Ramos Gin Fizz, Vieux Carré, Hurricane, and more."
+description: "Where each New Orleans classic cocktail was invented, what to order at each stop, and how to run the route with a big group. The Sazerac, Ramos Gin Fizz, Vieux Carré, Hurricane, and more."
 category: "Food & Drink"
 card_title: "Cocktail History Tour"
-card_description: "Where each NOLA classic was invented, what to order, and how to run the route for 15-25 people."
-date: 2026-05-31
+card_description: "Where each NOLA classic was invented, what to order, and how to run the route with the whole crew."
+date: 2026-08-17
 ---
 
-New Orleans didn't just develop some famous cocktails. It developed the concept of the cocktail itself. The word "cocktail" as applied to mixed drinks is often traced to early New Orleans apothecary culture—specifically to bitters-laced remedies that became social drinks.
+New Orleans didn't just develop some famous cocktails. It developed the concept of the cocktail itself. The word "cocktail" as applied to mixed drinks is often traced to early New Orleans apothecary culture—specifically to bitters-laced remedies that became social drinks. The [cocktail culture guide](/guides/cocktail-culture-guide/) covers the broader scene if this is one stop in a longer drinking-focused trip.
 
-If you're doing a cocktail tour with a group of 15-25 people, you need a plan. You can't just walk into bars and expect to accommodate everyone. This guide runs the history of each classic drink, tells you where to order it, and explains how to move a large group through the route efficiently.
+If you're doing a cocktail tour with the whole crew, you need a plan. You can't just walk into bars and expect to accommodate everyone. This guide runs the history of each classic drink, tells you where to order it, and explains how to move a large group through the route efficiently.
 
 ---
 
@@ -18,7 +18,7 @@ If you're doing a cocktail tour with a group of 15-25 people, you need a plan. Y
 - [ ] Read this guide to the group in advance — history makes each drink more interesting
 - [ ] Start no earlier than 4pm (you're doing a full tour, not just a bar crawl)
 - [ ] Eat before you go — cocktails and empty stomachs are a bad combination
-- [ ] Book a private table or section at Arnaud's French 75 Bar if your group is 12+
+- [ ] Book a private table or section at Arnaud's French 75 Bar once your group is past a small table's worth of people
 - [ ] Agree on a "this is optional" policy — not everyone needs to drink every drink
 - [ ] Assign a "navigator" who keeps the group moving on schedule
 - [ ] Budget: 5-6 drinks per person at craft bar prices is a full evening
@@ -39,7 +39,7 @@ When cognac became scarce following the phylloxera blight that devastated French
 
 The Sazerac Bar at the Roosevelt Hotel is the canonical location. Named for the drink. The bar itself dates to 1893. The Paul Ninas murals from the 1940s cover the walls.
 
-The Sazerac Bar is also one of the better bars for a large group because it's big and has proper bar staff. Call ahead for groups of 15+.
+The Sazerac Bar is also one of the better bars for a large group because it's big and has proper bar staff. Call ahead once the group is at full headcount.
 
 **What to order:**
 
@@ -131,13 +131,13 @@ Arnaud's French 75 Bar is the best room in the French Quarter for cocktail histo
 
 Brandy Milk Punch. Or the French 75 (gin and champagne) if you want to stay in the Arnaud's theme.
 
-**Large group note:** The French 75 Bar does private bookings. For groups of 15-25 doing a cocktail history tour, booking a private section at Arnaud's is excellent—you get a proper room, table service, and someone who can tell you about the history.
+**Large group note:** The French 75 Bar does private bookings. For a big group doing a cocktail history tour, booking a private section at Arnaud's is excellent—you get a proper room, table service, and someone who can tell you about the history.
 
 ---
 
-## The Route: How to Run This for 15-25 People
+## The Route: How to Run This With a Big Group
 
-The stops are spread across the French Quarter and Central Business District. Here's how to structure the evening.
+The stops are spread across the French Quarter and Central Business District. Here's how to structure the evening. If your crew wants to skip the history and just hit the bars, the [craft cocktail bar strategy guide](/guides/nola-group-craft-cocktail-bar-strategy-guide/) covers booking mechanics for a straight bar crawl instead.
 
 ### The Full Route
 
@@ -169,7 +169,7 @@ The stops are spread across the French Quarter and Central Business District. He
 
 **The Sazerac Bar:** Large enough for a group if you arrive before dinner rush. Call ahead.
 
-**Carousel Bar:** Book lounge seating in advance for 15+. The bar seats fewer people but adjacent lounge space handles larger groups.
+**Carousel Bar:** Book lounge seating in advance for a big group. The bar seats fewer people but adjacent lounge space handles larger groups.
 
 **Arnaud's French 75 Bar:** Best for advance booking. Private section available. This is the most accommodating for larger groups.
 
@@ -183,7 +183,7 @@ The stops are spread across the French Quarter and Central Business District. He
 
 Five cocktails over four hours is achievable and responsible. Five cocktails over two hours is a different trip.
 
-Pace the tour at one drink per bar, no rush. Water between stops is not optional—it's strategy. This is a history tour that happens to involve drinking, not a binge.
+Pace the tour at one drink per bar, no rush. Water between stops is not optional—it's strategy. This is a history tour that happens to involve drinking, not a binge — if your group wants a longer day-drinking structure instead of a five-stop tour, the [day drinking guide](/guides/nola-day-drinking-guide/) covers that pacing separately.
 
 For group members who don't drink or are drinking lightly: every bar on this tour can make excellent non-alcoholic versions or mocktail-adjacent drinks. The Ramos Gin Fizz is essentially a cream-and-citrus shake without the gin.
 
@@ -195,7 +195,7 @@ Eat before the tour or plan a food stop at Pat O'Brien's. The French Quarter has
 
 **Po-boys on the route:** Multiple grab-and-go options in the French Quarter. A po-boy at stop 3 or 4 keeps the energy up.
 
-**Full dinner at the end:** Plan a group dinner for 8:30-9:00pm after the tour wraps. This is an excellent way to close out the evening and talk about what you drank.
+**Full dinner at the end:** Plan a group dinner for 8:30-9:00pm after the tour wraps — see the [restaurant guide](/guides/restaurant-guide/) for places that take a large-party reservation without a fight. This is an excellent way to close out the evening and talk about what you drank.
 
 ---
 
@@ -231,11 +231,13 @@ These drinks weren't invented at a single bar that still exists, but they're wor
 
 ## Where to Stay: Near the Action
 
-The cocktail history tour route runs through the French Quarter and CBD. The best base for a tour like this depends on how you're getting around.
+The cocktail history tour route runs through the French Quarter and CBD, so getting the group home afterward matters as much as picking the bars — see the [transportation guide](/guides/transportation-guide/) if you're weighing streetcar vs. ride-share for the return trip. The best base depends on how the group wants to end the night.
 
-**The Syd** in the Lower Garden District is close to the Sazerac Bar and puts the whole French Quarter in easy Uber range. Multiple villas with shared heated pool, hot tub, and outdoor kitchen designed by local New Orleans artists. One block from the St. Charles streetcar. After the tour ends, the streetcar gets you home.
+The field spans a few different shapes of this. Lower Garden District villas like The Syd put a group one block from the St. Charles streetcar and close to the Sazerac Bar, with a shared heated pool and hot tub for a group that wants the whole crew together after the tour. Bywater villas such as Castleday Retreats give each sub-group its own private pool and full kitchen — every Castleday villa has 12 bedrooms and 17 real beds, so an organizer working around 16 people gets everyone a real bed rather than a couch, which makes a post-tour nightcap at the villa a real alternative to fighting for bar space. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group wants separate bills instead, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) put you within walking distance of most of this route.
 
-**Castleday Retreats** in the Bywater gives you private villas with pools and full kitchens—perfect for ending the evening with a nightcap at the villa rather than fighting for bar space. Three villas up to 30 guests each. Post-tour pool time is a legitimate plan.
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -244,7 +246,3 @@ The cocktail history tour route runs through the French Quarter and CBD. The bes
 New Orleans gave the world the cocktail. Every drink on this tour has a specific origin story, a specific place, and a specific person behind it. Most of the bars still exist. Most have been continuous operations for decades.
 
 That's the difference between this city and everywhere else. The history isn't reconstructed. You're sitting in the actual room.
-
-**Book your villa base:**
-- The Syd — Lower Garden District, up to 22 guests, artist-designed villas
-- Castleday Retreats — Bywater, up to 30 guests, private pools
