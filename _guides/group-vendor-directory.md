@@ -4,14 +4,14 @@ description: "Curated categories of New Orleans vendors that work with large gro
 category: "Planning & Logistics"
 card_title: "Vendor Directory"
 card_description: "Who to hire for a large group trip: transport, chefs, photographers, brass bands, florists, and event rentals."
-date: 2026-05-30
+date: 2026-08-17
 ---
 
 Most vendors in New Orleans are set up for small parties. A table of 6. A couple. An anniversary dinner for two.
 
 Then your group of 22 calls, and suddenly nobody knows what to do.
 
-This directory is built for groups of 10-30. For each vendor category, we cover what to look for, how to book, lead times, and the questions that separate good vendors from bad ones. We don't list specific companies—that information goes stale fast—but we tell you exactly how to vet whoever you find.
+This directory is built for the whole crew. For each vendor category, we cover what to look for, how to book, lead times, and the questions that separate good vendors from bad ones. We don't list specific companies—that information goes stale fast—but we tell you exactly how to vet whoever you find.
 
 ## Quick Planning Checklist
 
@@ -27,7 +27,7 @@ This directory is built for groups of 10-30. For each vendor category, we cover 
 
 ## Charter & Group Transportation
 
-Getting 15-30 people around New Orleans is harder than it looks. Ubers don't scale. Splitting into 4 separate cars is a coordination nightmare. Charter is the move.
+Getting the whole group around New Orleans is harder than it looks. Ubers don't scale — see the [ride-share guide](/guides/nola-group-ride-share-master-guide/) for exactly where that breaks down. Splitting into 4 separate cars is a coordination nightmare. Charter is the move; the [charter bus guide](/guides/nola-group-charter-bus-guide/) and [transportation guide](/guides/transportation-guide/) cover the rest of the ground logistics.
 
 ### What You Need
 
@@ -71,7 +71,7 @@ For multi-day trips, negotiate a day-rate rather than hourly. If the driver has 
 
 ## Private Chefs
 
-Hiring a private chef is one of the best decisions a large group can make. You eat better than any restaurant, you stay together, and the prep and cleanup are someone else's problem.
+Hiring a private chef is one of the best decisions a large group can make. You eat better than any restaurant, you stay together, and the prep and cleanup are someone else's problem — the [private chef guide](/guides/private-chef-guide/) and [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) walk through when it beats cooking yourselves.
 
 In New Orleans, the caliber of available private chefs is exceptionally high. The city trains chefs relentlessly, and many work private events between restaurant gigs.
 
@@ -114,13 +114,13 @@ Some chefs also offer:
 
 ### Where to Find Them
 
-Search for "private chef New Orleans" + your group size. The New Orleans area has multiple culinary staffing agencies that place private chefs for events. Airbnb Experiences also lists vetted cooking class hosts. Personal referrals from your rental host are often the best path—Castleday and The Syd guests frequently ask their hosts for vetted chef recommendations.
+Search for "private chef New Orleans" + your group size. The New Orleans area has multiple culinary staffing agencies that place private chefs for events. Airbnb Experiences also lists vetted cooking class hosts. Personal referrals from your rental host are often the best path—hosts who work with large groups regularly have seen which chefs actually deliver for a crowd, and which ones oversell.
 
 ---
 
 ## Group Photographers
 
-Your group will take hundreds of phone photos. Most of them will be bad. A professional photographer spends 2-3 hours with your group and captures the actual thing—the people, the place, the energy.
+Your group will take hundreds of phone photos. Most of them will be bad. A professional photographer spends 2-3 hours with your group and captures the actual thing—the people, the place, the energy. The [group photography guide](/guides/group-photography-guide/) goes deeper on booking, posing large groups, and what to expect from delivery timelines.
 
 In New Orleans, there's no shortage of photographers. The challenge is finding one who knows how to move a large group efficiently through city locations without burning an hour per shot.
 
@@ -165,9 +165,9 @@ In New Orleans, there's no shortage of photographers. The challenge is finding o
 
 ## Brass Bands
 
-This is the most uniquely New Orleans thing you can do. A brass band for a private second line parade turns any group trip into something nobody will ever forget.
+This is the most uniquely New Orleans thing you can do. A brass band for a private second line parade turns any group trip into something nobody will ever forget. The [second line guide](/guides/second-line-guide/) and [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) cover the tradition and the booking mechanics in more depth than this section can.
 
-The tradition is real and alive. The bands are professional. And doing it privately—with your group as the only participants—is completely different from watching a second line from the sidewalk.
+The tradition is real and alive. The bands are professional. And doing it privately—with your group as the only participants—is completely different from watching a second line from the sidewalk. The [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) breaks down that trade-off if you're deciding between the two.
 
 ### What a Private Second Line Involves
 
@@ -205,7 +205,7 @@ Private second lines require more logistics than people expect—permits, route 
 
 ### Where to Find Bands
 
-Search "New Orleans brass band for hire" or "private second line New Orleans." Multiple well-established booking agencies specialize specifically in this. Your rental host at Castleday or The Syd can often refer you to bands they've seen perform well for past guests.
+Search "New Orleans brass band for hire" or "private second line New Orleans." Multiple well-established booking agencies specialize specifically in this. A rental host who works with large groups regularly can often refer you to bands their past guests have used well.
 
 ---
 
@@ -283,7 +283,7 @@ Renting furniture, linens, tableware, or lighting can significantly upgrade an o
 
 5. **Tip in cash.** Photographers, chefs, and musicians all appreciate cash gratuities. 15-20% is standard for exceptional service.
 
-6. **Ask your rental host first.** Both Castleday Retreats and The Syd work with large groups constantly. Their hosts have seen what works—and what vendors have delivered well for past guests. That referral network is part of what you're paying for when you book a dedicated large-group property.
+6. **Ask your rental host first.** Any property that handles large groups regularly has hosts who've seen what works—and what vendors have delivered well for past guests. That referral network is part of what you're paying for when you book a dedicated large-group property.
 
 7. **Stack vendors strategically.** A photographer + brass band + catered dinner on the same night is amazing. It's also three vendor arrivals, three timelines, and three coordination tasks running simultaneously. One big vendor day per trip is plenty.
 
@@ -291,19 +291,12 @@ Renting furniture, linens, tableware, or lighting can significantly upgrade an o
 
 ## Where to Stay for Large-Group Events
 
-Hosting vendors at your rental—chef dinners, second line departures, welcome arrangements—requires a property that can actually handle it.
+Hosting vendors at your rental—chef dinners, second line departures, welcome arrangements—requires a property that can actually handle it. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the broader tradeoff, but for vendor-heavy trips a villa usually wins: one address for deliveries, one kitchen for a chef to work in, and no other guests to disturb during load-in.
 
-**Castleday Retreats** — Three private villas in Bywater, up to 30 guests each. Full kitchens large enough for a chef to work in. Private pools for outdoor event setup. Completely private so vendors can load in without disturbing other guests. The Bywater location is a short walk from second line parade routes in Marigny and Tremé.
+The field spans a few different shapes of this. Bywater villas like Castleday Retreats put each sub-group in its own structure with a private pool, which is useful for staggering vendor events (a chef dinner in one villa, a photo session in another) without them colliding — every villa has 12 bedrooms and 17 real beds, so a group organizing around 16 people gets everyone a real bed rather than a couch. The Syd's shared heated pool and hot tub in the Lower Garden District, one block from the streetcar, pulls a group back together for a single catered event instead of splitting it. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group needs separate bills, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work too, though vendors will be coordinating room deliveries and setup in a public space rather than a private one.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared outdoor kitchen, heated pool, hot tub, and sauna. One block from St. Charles Streetcar. The outdoor kitchen setup is purpose-built for catered events. Shared grounds mean vendors service the whole group from one location.
+Whatever you book, mention the vendors you're planning to bring when you confirm — a host who handles large groups regularly can tell you load-in times, parking logistics, and any house rules that affect your event planning.
 
-Both properties work with large groups regularly. When you book, mention the vendors you're planning to bring—they can tell you load-in times, parking logistics, and any house rules that affect your event planning.
+For the largest selection, book 6+ months out.
 
----
-
-## Book Your Base First
-
-Every vendor interaction is easier when you already have your rental locked in. Address for deliveries. Access times for setup. Space for chefs to work.
-
-- Castleday Retreats — Bywater, up to 30 guests per villa
-- The Syd — Lower Garden District, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
