@@ -4,7 +4,7 @@ description: "The exact playbook for the first two hours at your New Orleans vil
 category: "Planning & Logistics"
 card_title: "Villa Arrival Setup"
 card_description: "Don't wing the first two hours. Here's the exact move order for setting up your NOLA villa and making the trip launch right."
-date: 2026-05-31
+date: 2026-08-17
 ---
 
 The first two hours at a villa make or break the energy for the whole trip. Groups that nail the arrival are eating great food, drinking cold drinks, and laughing in the pool by hour three. Groups that don't spend two days in logistical catch-up.
@@ -78,9 +78,11 @@ Send one or two people maximum. Three people at the grocery store is three times
 
 ### Grocery Run Logistics
 
-**Near Castleday Retreats (Bywater):** The Bywater has a small grocery scene. Most groups run to Rouses Market or Whole Foods in the Lower Garden District for a full shop. Closer options exist for quick beer and wine.
+**Bywater:** A small grocery scene. Most groups run to Rouses Market or Whole Foods in the Lower Garden District for a full shop. Closer options exist for quick beer and wine.
 
-**Near The Syd (Lower Garden District):** Multiple grocery and specialty options within a short drive. Magazine Street has specialty food shops for snacks and prepared food if you're doing a light first night.
+**Lower Garden District:** Multiple grocery and specialty options within a short drive. Magazine Street has specialty food shops for snacks and prepared food if you're doing a light first night.
+
+If nobody wants to leave the villa at all, delivery can cover the essentials — see the [food delivery guide](/guides/nola-food-delivery-guide/) for what actually works for a group-sized order, and the [grocery and cooking guide](/guides/group-grocery-cooking-guide/) for structuring the bigger shop once the first night is handled.
 
 ---
 
@@ -114,6 +116,8 @@ Don't leave this for when everyone's tired and slightly drunk at midnight.
 **Friends:** The "pick your spot when you arrive" approach works if the group is low-drama. Otherwise, assign in advance and post in the group chat.
 
 **Mixed groups (friends + couples + randoms):** Make a map. Post it. Done.
+
+Whatever method you use, decide it in the same thread you're already using for logistics — the [group communication guide](/guides/group-communication-guide/) covers how to keep that channel useful instead of chaotic once the trip starts.
 
 ### The Key Rules
 
@@ -172,15 +176,15 @@ Good NOLA welcome drinks:
 
 Make a decision about dinner before people arrive, or be prepared to decide within 30 minutes of everyone arriving.
 
-The wrong move: "Where does everyone want to eat?" to 18 people at 7pm. This takes 45 minutes and someone always ends up resentful.
+The wrong move: "Where does everyone want to eat?" to a group that's already tired at 7pm. This takes 45 minutes and someone always ends up resentful.
 
-The right move: One person books a restaurant for the group in advance. Or the group agrees on a vibe ("casual Bywater neighborhood spots, let's walk and see what's open") before anyone lands.
+The right move: One person books a restaurant for the group in advance — the [restaurant guide](/guides/restaurant-guide/) has options that actually take large-party reservations. Or the group agrees on a vibe ("casual neighborhood spots, let's walk and see what's open") before anyone lands.
 
 **Good first-night options by location:**
 
-**Bywater (near Castleday):** Walk the neighborhood. The Bywater has excellent options within walking distance of the villas.
+**Bywater:** Walk the neighborhood. Excellent options within walking distance of the villas in that part of town.
 
-**Lower Garden District (near The Syd):** Magazine Street corridor has excellent options in both directions. St. Charles streetcar can get the group uptown or downtown in minutes.
+**Lower Garden District:** Magazine Street corridor has excellent options in both directions. The St. Charles streetcar can get the group uptown or downtown in minutes.
 
 ---
 
@@ -196,7 +200,7 @@ The right move: One person books a restaurant for the group in advance. Or the g
 
 **Not downloading Splitwise before arrival.** You will owe money for something in the first hour. Have the app ready.
 
-**Assuming everyone knows checkout time.** Post it in the group chat before day one.
+**Assuming everyone knows checkout time.** Post it in the group chat before day one — the [check-in/check-out guide](/guides/group-check-in-check-out-guide/) covers the other end of this trip in the same detail.
 
 ---
 
@@ -214,19 +218,19 @@ The right move: One person books a restaurant for the group in advance. Or the g
 
 6. **Take a group photo early.** Day one, everyone's fresh, hair's done. Don't wait until the last night when you're wrecked.
 
-7. **Figure out the Uber/Lyft dynamic before the first night out.** Who's calling cars? Does everyone have the app? Any designated drivers? Decide this before 10pm, not during.
+7. **Figure out the ride-share dynamic before the first night out.** Who's calling cars? Does everyone have the app? Any designated drivers? Decide this before 10pm, not during — the [ride-share guide](/guides/nola-group-ride-share-master-guide/) covers what actually works once the group splits up.
 
 ---
 
-## Large Group Logistics: The Castleday and Syd Advantage
+## Large Group Logistics: Why a Villa Makes This Easier
 
-Private villas are built for this kind of setup. You have full kitchen, full bar area, and common space designed for exactly this—a group of 15-30 people landing and making the space their own.
+This whole sequence — grocery run, bar setup, room assignments — works because a private villa gives you a full kitchen, a full bar area, and common space built for a group to land and make it their own. A hotel room block can't replicate any of this; see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full comparison.
 
-**Castleday Retreats** in the Bywater gives you private villas (The Herald, The Cocodrie, The Florentine) with full kitchens, private pools, and the kind of common space where the bar setup actually works. Up to 30 guests per villa. The Bywater neighborhood is also excellent for a walk-to-dinner first night.
+The field spans a few different shapes of it. Bywater villas like Castleday Retreats put a group in one private structure with its own pool — every villa has 12 bedrooms and 17 real beds, so an organizer working around 16 people gets everyone a real bed rather than a couch, and the Bywater neighborhood is also excellent for a walk-to-dinner first night. The Syd's shared heated pool and hot tub in the Lower Garden District, one block from the streetcar, is built for a group that wants the whole crew together for the welcome drink. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group needs separate bills instead of one shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work too — you lose the shared-kitchen setup this guide is built around, but gain individual check-in.
 
-**The Syd** in the Lower Garden District offers multiple villas around a shared heated pool, hot tub, and outdoor kitchen. One block from the St. Charles streetcar. Welcome drinks by the pool with that outdoor kitchen fired up? That's a first night done right.
+For the largest selection, book 6+ months out.
 
-Neither property has a hotel-check-in vibe. You get the whole villa. You can set up the bar exactly how you want it. That's the point.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -235,7 +239,3 @@ Neither property has a hotel-check-in vibe. You get the whole villa. You can set
 Groups that nail the first two hours have a better trip. Not because of luck—because the tone is set, the bar is stocked, people know where to sleep, and everyone's been handed a cold drink.
 
 Handle the setup. The rest takes care of itself.
-
-**Ready to lock in your NOLA villa?**
-- Castleday Retreats — Private villas in Bywater, up to 30 guests
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool
