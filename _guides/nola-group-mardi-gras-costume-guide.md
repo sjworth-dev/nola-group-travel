@@ -4,14 +4,14 @@ description: "Sourcing, coordinating, and wearing group costumes for Mardi Gras:
 category: "Festivals & Events"
 card_title: "Mardi Gras Costume Guide"
 card_description: "Group costume planning for Mardi Gras: sourcing options, theme coordination, what survives the night, and how to store everything at the villa."
-date: 2026-06-16
+date: 2026-08-18
 ---
 
 Mardi Gras in New Orleans is a costumed event. Not in the sense that there's a rule — there isn't — but in the sense that showing up in street clothes to a Fat Tuesday parade feels like arriving at a wedding in gym clothes. You're technically allowed. You'll just stand out for the wrong reason.
 
-For a group of 15-30, a coordinated costume is one of the highest-value investments you'll make for the trip. A theme that works creates group cohesion in crowds, makes finding your people trivially easy, and produces photographs that last for years. A costume that doesn't survive until midnight is a liability. The difference between those two outcomes is almost entirely in the planning.
+For the whole crew, a coordinated costume is one of the highest-value investments you'll make for the trip. A theme that works creates group cohesion in crowds, makes finding your people trivially easy, and produces photographs that last for years. A costume that doesn't survive until midnight is a liability. The difference between those two outcomes is almost entirely in the planning.
 
-Here's what actually works for large groups.
+Here's what actually works for large groups — this is one piece of the broader [Mardi Gras group guide](/guides/mardi-gras-group-guide/), which covers parades, accommodation, and transportation for the whole trip.
 
 ---
 
@@ -130,7 +130,7 @@ For groups with time, creativity, and access to materials, making elements of yo
 
 **What you need:** A craft supply run the day before (Michael's or similar, or order supplies to the villa in advance). About 2-3 hours of group crafting time. The activity itself — 20 people decorating masks at a table — is legitimately fun.
 
-**Pair with:** An umbrella-making workshop at a local studio, which teaches the second line parasol tradition and produces a finished product that serves as both costume accessory and cultural experience.
+**Pair with:** An [umbrella-making workshop](/guides/nola-group-second-line-umbrella-making-guide/) at a local studio, which teaches the second line parasol tradition and produces a finished product that serves as both costume accessory and cultural experience.
 
 ---
 
@@ -172,7 +172,7 @@ Twenty people getting into costume simultaneously is organizational chaos unless
 
 **Pre-sort by person:** Bag each person's pieces by name before the trip. When it's time to get dressed, there's no searching through a communal pile for whose hat is whose.
 
-**Group photo immediately after dressing:** Before the morning parade starts, before anyone gets a drink, before weather or crowds impact anything. The costume is at its best in the first five minutes. Capture it then.
+**Group photo immediately after dressing:** Before the morning parade starts, before anyone gets a drink, before weather or crowds impact anything. The costume is at its best in the first five minutes. Capture it then — the [group photography guide](/guides/group-photography-guide/) covers how to actually get a usable shot out of 20 people instead of 20 individual attempts.
 
 **Costume repair kit — bring this:**
 - Safety pins (minimum 30)
@@ -188,7 +188,7 @@ The safety pins alone will be used. Plan for one person in the group to have the
 
 ## Weather Reality for Mardi Gras
 
-Mardi Gras falls in late February or early March. New Orleans February weather ranges from pleasantly cool (low 60s) to genuinely cold (40s) to surprisingly warm (low 70s). Rain is possible. Humidity is always present.
+Mardi Gras falls in late February or early March. New Orleans February weather ranges from pleasantly cool (low 60s) to genuinely cold (40s) to surprisingly warm (low 70s). Rain is possible. Humidity is always present — see the [weather guide](/guides/nola-weather-guide/) for what to actually expect and how to plan around it.
 
 **What this means for costumes:**
 - Layering capability matters — a costume that works over a long-sleeve base layer is more practical than one that requires a specific temperature
@@ -218,13 +218,10 @@ Mardi Gras falls in late February or early March. New Orleans February weather r
 
 ## Where to Stage Your Mardi Gras Costume Adventure
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. For Mardi Gras, Castleday's Bywater location puts you in a neighborhood where second line culture and parade energy are embedded in the streets. The private nature of each villa — no shared hallways, no hotel lobby to navigate in costume at 7am — makes costume staging, group photographs, and the chaotic getting-ready energy of Mardi Gras morning manageable. Pool access between parades, storage space for costume bags, and private outdoor areas for the pre-parade drink. Castleday holds a 4.98 average across 99 reviews.
+Costume staging needs space nobody else is competing for — a room to bag pieces by name, a rack that isn't also someone's hotel closet, and no hallway full of strangers to navigate at 7am in a sequined jacket.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District location puts you directly on the St. Charles parade route — some of New Orleans's biggest Mardi Gras parades roll down St. Charles Avenue, and The Syd is within walking distance. The outdoor spaces are ideal for the group photo and the pre-parade gathering. The artist-designed interiors also make for memorable costume photo backgrounds.
+The field spans a few different shapes of it. Bywater villas like Castleday Retreats put a group in one private structure with its own pool and no shared hallways — every villa has 12 bedrooms and 17 real beds, so an organizer working around 16 people gets everyone a real bed rather than a couch, and the neighborhood itself has second line culture and parade energy embedded in the streets. Castleday holds a 4.98 average across 99 reviews. The Syd's shared heated pool and hot tub in the Lower Garden District, one block from the streetcar, puts a group directly on the St. Charles parade route — useful when the theme is the point and you want the whole crew stepping out together. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group wants separate bills and its own key instead of one shared costume-staging room, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) are also an option, though you'll need to work out where twenty people's costumes actually live.
 
----
+For the largest selection, book 6+ months out.
 
-## Plan Your Mardi Gras Costume
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, second line neighborhood, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, on the St. Charles parade route, shared heated pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
