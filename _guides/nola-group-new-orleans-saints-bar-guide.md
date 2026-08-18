@@ -19,7 +19,7 @@ Here's how to find the right bar, how to behave as a visitor, and how to decide 
 
 - [ ] Check the Saints schedule before your trip — home games, away games, and Monday/Thursday night games affect bar crowd size and energy differently
 - [ ] Choose the right bar type for your group (see below — not all sports bars are equal for large groups on gameday)
-- [ ] Call ahead for groups of 10+ — most Saints bars fill up before kickoff and some reserve sections for large groups with advance notice
+- [ ] Call ahead once your group hits double digits — most Saints bars fill up before kickoff and some reserve sections for large groups with advance notice
 - [ ] Arrive at least 30 minutes before kickoff — the bars you want to be in for a meaningful game will be full by kickoff
 - [ ] Know the basics of Who Dat culture before you walk in (see below)
 - [ ] If anyone in your group is a fan of the opposing team, have a frank conversation about what that looks like in a New Orleans bar
@@ -54,7 +54,7 @@ Your group should be prepared for both the high and the low. If the Saints are w
 
 ## Finding the Right Bar for Your Group
 
-Not all sports bars are the same, and not all sports bars are the right call for a large group.
+Not all sports bars are the same, and not all sports bars are the right call for a large group. This section covers what to look for on gameday specifically; for the fuller property-by-property rundown, see the [New Orleans sports bars for large groups guide](/guides/nola-group-sports-bar-guide/).
 
 ### What to Look For
 
@@ -62,7 +62,7 @@ Not all sports bars are the same, and not all sports bars are the right call for
 
 **Enough TVs for the room:** You want to be able to see a TV from wherever your group is standing. In a large group, this means choosing bars with TVs at multiple heights and angles, not just one big screen at the far end.
 
-**Space for a group of 15-30:** The bars that are best for Saints watching are often not the largest. Finding a bar with a private room, a section with tables together, or enough floor space for your group to cluster requires either advance scouting or advance communication with the bar.
+**Space for the whole crew:** The bars that are best for Saints watching are often not the largest. Finding a bar with a private room, a section with tables together, or enough floor space for your group to cluster requires either advance scouting or advance communication with the bar.
 
 **Sound:** Some sports bars play music over the game broadcast, which is wrong. The bar you want has the game broadcast audio on, maybe mixed with some Saints hype tracks between plays.
 
@@ -70,7 +70,7 @@ Not all sports bars are the same, and not all sports bars are the right call for
 
 **The neighborhood bar with Saints history:** Many NOLA neighborhood bars have been Saints bars for decades — regulars who come back every game, specific seating arrangements, a culture that formed over years. These bars often have more genuine energy than explicitly "sports bar" concepts. They're smaller, which means you need to call ahead for a group.
 
-**The larger dedicated sports bar:** Useful for groups of 20-30 who need space. These can handle the group logistics but the energy is sometimes more diffuse. Look for ones that do a specific Saints game day setup — blocked-off sections for groups, Saints-specific food and drink specials, game-related promotions.
+**The larger dedicated sports bar:** Useful when the crew is big and needs real floor space. These can handle the group logistics but the energy is sometimes more diffuse. Look for ones that do a specific Saints game day setup — blocked-off sections for groups, Saints-specific food and drink specials, game-related promotions.
 
 **The bar with a private room or buyout option:** For groups that want the Saints experience without the logistics of keeping everyone together in a crowded bar, a private room or partial buyout at a sports bar is the cleanest option. Expect to spend on minimum food and beverage commitments.
 
@@ -99,7 +99,7 @@ Caesars Superdome is one of the loudest NFL stadiums in the league. The dome des
 
 For most large groups, the bar is the better call. The logistics of getting tickets for 20 people to a Saints home game — finding 20 seats in the same section, managing the purchase, dealing with the varying budgets in the group — are significant. A bar allows everyone to show up, creates a flexible experience, and still delivers the cultural intensity of watching with local Saints fans.
 
-Reserve the Superdome for smaller sub-groups within your larger party who specifically want the stadium experience, or for situations where tickets are easy (less high-stakes games) and the group has consensus on wanting the full NFL stadium day.
+Reserve the Superdome for smaller sub-groups within your larger party who specifically want the stadium experience, or for situations where tickets are easy (less high-stakes games) and the group has consensus on wanting the full NFL stadium day. If that's the plan, the [Saints Gameday Mega-Guide](/guides/saints-gameday-mega-guide/) covers tickets, seating, and getting the whole crew inside, and the [pre-game tailgate guide](/guides/nola-group-superdome-tailgate-guide/) covers what happens in the parking lots beforehand.
 
 ---
 
@@ -163,7 +163,7 @@ The bar will quiet quickly after a loss. The emotional deflation is real. This i
 
 ## Pro Tips
 
-1. **Call the bar the day before for groups of 10+.** Most Saints bars have experience with groups and will hold a section or give you guidance on the best arrival time. A quick call establishes you as an organized group rather than a mob that just walked in.
+1. **Call the bar the day before once you're double digits.** Most Saints bars have experience with groups and will hold a section or give you guidance on the best arrival time. A quick call establishes you as an organized group rather than a mob that just walked in.
 
 2. **The best Saints bar experiences are in neighborhood bars, not hotel bars.** The hotel bar with the game on is a comfortable fallback. The neighborhood bar two blocks from the residential streets where Saints fans live is where the real energy is.
 
@@ -181,15 +181,17 @@ The bar will quiet quickly after a loss. The emotional deflation is real. This i
 
 ## Base Camp for Gameday
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location gives easy rideshare access to the sports bars near the French Quarter and CBD. A gameday morning at the villa — coffee, villa breakfast, group getting ready — before heading out to the bar is a comfortable and efficient structure. After the game, the Bywater's music scene is the natural evening destination. Castleday holds a 4.98 average across 99 reviews.
+Where the group sleeps matters more on gameday than on a normal night out — you need a base close enough to the bar circuit that getting everyone there, and getting everyone home afterward, isn't its own project.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's Lower Garden District location is directly on the streetcar line — take the St. Charles Streetcar toward downtown for gameday bars, and take it back after the game. The shared outdoor space at The Syd is perfect for post-game debrief before the evening begins.
+A few examples of how different large-group setups fit the day:
 
-For groups that want to watch the Saints at the villa instead of at a bar, both Castleday and The Syd have the TV infrastructure and common area space for a full villa watch party. See the separate Saints watch party villa guide for that format.
+- **Bywater villas** (Castleday Retreats is one option) put you a short rideshare from the bars near the Quarter and CBD, with room for a villa breakfast before kickoff and the neighborhood's music scene as a natural landing spot afterward.
+- **Lower Garden District villas** (The Syd is one option) sit a block off the St. Charles Streetcar — ride it downtown for the game and back after the final whistle, with shared outdoor space for the post-game debrief.
+- **Heirloom's** larger inventory across the LGD and Central City is worth a look if the game got added to your trip on short notice.
+- **Hotel room blocks** (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work well for mixed budgets or groups who each want their own key and bill.
 
----
+For groups that would rather watch from the villa than fight for space at a bar, the [Saints watch party villa guide](/guides/saints-watch-party-guide/) covers that format.
 
-## Plan Your Saints Gameday
+For the largest selection, book 6+ months out — Saints season overlaps some of the year's busiest stretches for large-group accommodations.
 
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
