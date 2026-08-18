@@ -1,17 +1,17 @@
 ---
 title: "Group Check-In and Checkout Logistics"
-description: "The full playbook for villa check-in and checkout with 15-30 people: early arrivals, key distribution, late checkouts, cleaning the villa, and leaving on time without chaos."
+description: "The full playbook for villa check-in and checkout with the whole crew: early arrivals, key distribution, late checkouts, cleaning the villa, and leaving on time without chaos."
 category: "Planning & Logistics"
 card_title: "Check-In & Checkout Playbook"
-card_description: "The logistics of getting 15-30 people in and out of a villa without chaos. Read this before arrival day."
-date: 2026-05-31
+card_description: "The logistics of getting a big group in and out of a villa without chaos. Read this before arrival day."
+date: 2026-08-18
 ---
 
 Nobody thinks about check-in logistics until they're standing outside a locked villa at 2pm with 18 people, two people who flew in at 7am with nowhere to go, and someone asking "who has the door code?"
 
 The groups that handle check-in and checkout well did the planning weeks before arrival day. The groups that don't are the ones stress-texting the property manager from the curb.
 
-This is the planning you need to do.
+This is the planning you need to do — it pairs with the [villa arrival setup guide](/guides/villa-arrival-setup-guide/) for the other end of day one, once the door's actually open.
 
 ---
 
@@ -33,7 +33,7 @@ This is the planning you need to do.
 
 ### Appoint a Group Lead
 
-One person is responsible for all property logistics. They hold:
+One person is responsible for all property logistics — this is one of the roles worth assigning before the trip, alongside the others covered in the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/). They hold:
 - The door code or key pickup instructions
 - The property manager's phone number
 - The check-in time and checkout time
@@ -100,7 +100,7 @@ The early arrival problem is only a problem if you didn't plan for it.
 
 One person (the Group Lead) has the door code. They arrive first or send it to whoever physically arrives first.
 
-Do not text the door code to 18 people in a group chat. You don't know who's screenshotting or sharing it, and it's information your property manager gave to you specifically.
+Do not text the door code to 18 people in a group chat. You don't know who's screenshotting or sharing it, and it's information your property manager gave to you specifically — the [group communication guide](/guides/group-communication-guide/) covers what should and shouldn't live in that thread.
 
 The correct approach: one text to the Group Lead → they're physically present when the code is shared or used.
 
@@ -118,7 +118,7 @@ The damage documentation is not paranoia. It's protection. Without it, you're re
 
 ### Communicating to the Group
 
-When everyone's in, do a 5-minute group briefing:
+Fold this briefing into whatever [welcome packet](/guides/group-welcome-packet-guide/) you're already handing out on arrival — the checkout timeline belongs in writing, not just spoken once. When everyone's in, do a 5-minute group briefing:
 - "Checkout is at [time]. That means bags by the door at [time minus 30 minutes]."
 - "Pool rules are [X]."
 - "Trash goes in [location]."
@@ -191,7 +191,7 @@ The morning of checkout, bags move from rooms to one designated staging area (us
 
 ## Checkout Day: The Timeline
 
-This is the timeline that actually works for a group of 15-20:
+This is the timeline that actually works once the whole crew is up and moving:
 
 | Time | What's happening |
 |------|-----------------|
@@ -243,6 +243,8 @@ Options for the gap between checkout and late flight:
 - Coffee shop or restaurant with bags (ask first)
 - Hotel luggage storage (any major hotel near your neighborhood)
 - The airport's luggage storage if applicable
+
+Whatever you land on, figure out how the group is actually getting to the airport before checkout morning — the [transportation guide](/guides/transportation-guide/) covers ride-share vs. shuttle vs. rental options for moving a big group with luggage.
 
 ---
 
@@ -296,13 +298,13 @@ This is why you took photos on arrival. Present your timestamped photos. If the 
 
 ## Where to Stay: Properties Built for Group Logistics
 
-Checkout and check-in complexity scales with property quality. Properties designed for large groups have better systems, better communication, and fewer surprises.
+Checkout and check-in complexity scales with property quality. Properties designed for large groups have better systems, better communication, and fewer surprises — see the [villa arrival setup guide](/guides/villa-arrival-setup-guide/) for how the good ones set the tone on the way in.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. Designed specifically for large groups — the check-in and checkout processes are structured for groups of 15-30, not retrofitted for them. Each villa is a full home with a single-property entry point.
+The field spans a few different shapes of it. Bywater villas like Castleday Retreats put a group in one private structure with its own pool and a single entry point — every villa has 12 bedrooms and 17 real beds, so an organizer working around 16 people gets everyone a real bed rather than a couch, and there's no shared hallway or lobby to navigate at check-in. The Syd's shared heated pool and hot tub in the Lower Garden District, one block from the streetcar, works well for a group that's fine coordinating one shared code across a few villas on the same property. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group wants separate bills and its own key instead of one shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) hand each person their own check-in — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full trade-off.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, all rooms designed by local artists. One block from the St. Charles Streetcar. Same professional group-oriented operations.
+For the largest selection, book 6+ months out.
 
-Both properties are set up to handle the group logistics questions before you have to ask them.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -311,6 +313,3 @@ Both properties are set up to handle the group logistics questions before you ha
 The groups that have the best villa experiences aren't the ones who spent the most. They're the ones who did the planning before arrival day.
 
 Group check-in and checkout is logistics, not glamour. Do it right and it's invisible. Do it wrong and it defines the trip's end.
-
-- Castleday Retreats — Bywater villas, up to 30 guests, designed for large groups
-- The Syd — Lower Garden District, up to 22 guests, artist-designed villas
