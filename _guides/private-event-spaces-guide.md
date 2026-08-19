@@ -1,10 +1,10 @@
 ---
 title: "Private Event Spaces in New Orleans for Large Groups"
-description: "Private event space options for groups of 15-30 in New Orleans: buyout bars, rooftops, courtyards, and private dining rooms — what's available, what to ask before booking, and how costs break down."
+description: "Private event space options for a big group in New Orleans: buyout bars, rooftops, courtyards, and private dining rooms — what's available, what to ask before booking, and how costs break down."
 category: "Planning & Logistics"
 card_title: "Private Event Spaces Guide"
-card_description: "Buyout bars, rooftops, courtyards, and private dining rooms for groups of 15-30. What to ask and what to expect."
-date: 2026-05-31
+card_description: "Buyout bars, rooftops, courtyards, and private dining rooms for the whole crew. What to ask and what to expect."
+date: 2026-08-19
 ---
 
 There's a point where a reservation isn't enough. You want your group to have a space to themselves — not surrounded by other diners, not competing with strangers for the bartender's attention.
@@ -30,7 +30,7 @@ New Orleans has excellent options for private events. It also has a lot of venue
 
 ### Buyout Bars
 
-A bar buyout means the venue closes to the public for your group. You have the entire space: all the seating, the bartenders, the bar inventory.
+A bar buyout means the venue closes to the public for your group. You have the entire space: all the seating, the bartenders, the bar inventory. The [bar buyout guide](/guides/nola-group-bar-buyout-guide/) goes deeper on how to find and negotiate one.
 
 **What to expect:**
 - Minimum spend required (food and beverage combined, or bar spend only)
@@ -55,10 +55,10 @@ Restaurant private dining rooms separate your group from the main dining room. Y
 **What to expect:**
 - Fixed menus or prix fixe options are common
 - Per-person minimums rather than total minimums
-- Reservations required weeks in advance for groups of 15+
+- Reservations required weeks in advance once the group climbs into the double digits
 - Higher-end restaurants have better private rooms; casual restaurants may not have them at all
 
-**Best for:** Corporate dinners, rehearsal dinners, milestone birthday dinners, reunion dinners.
+**Best for:** [Corporate dinners](/guides/corporate-retreat/), [rehearsal dinners](/guides/nola-group-rehearsal-dinner-guide/), [milestone birthday dinners](/guides/milestone-birthday/), reunion dinners.
 
 **Questions to ask:**
 - Is this truly private (closed door) or semi-private (a partitioned area of the main dining room)?
@@ -95,7 +95,7 @@ New Orleans isn't a skyline city, but rooftops do exist — particularly in the 
 - Weather-dependent
 - Usually tied to hotel or restaurant operations
 
-**Best for:** Sunset cocktail events, corporate parties, milestone celebrations with a view.
+**Best for:** Sunset cocktail events, corporate parties, milestone celebrations with a view. See the [rooftop bar guide](/guides/nola-rooftop-bar-guide/) for specific spots worth calling first.
 
 **Questions to ask:**
 - What's the weather contingency plan?
@@ -136,7 +136,7 @@ Most private event spaces in New Orleans operate on one of these models:
 | Courtyard cocktail party | Varies; minimum spend + possible rental | Outdoor space, catering |
 | Rooftop | Rental fee + catering | Views, space, service |
 
-Note: Venue pricing in New Orleans changes seasonally and with demand. During Mardi Gras, Jazz Fest, Essence Fest, and other peak periods, minimums increase substantially and availability shrinks. Book months ahead for peak dates.
+Note: Venue pricing in New Orleans changes seasonally and with demand. During Mardi Gras, Jazz Fest, Essence Fest, and other peak periods, minimums increase substantially and availability shrinks. Book months ahead for peak dates. Working the venue cost against a real number for the whole trip? The [budget guide](/guides/budget-guide/) has the framework.
 
 ---
 
@@ -206,15 +206,11 @@ A private villa for 20 people gives you:
 - The ability to bring whatever food, drinks, and activities you want
 - None of the logistical complexity of a venue rental
 
-For bachelorette parties, family reunions, birthday celebrations, and corporate retreats that don't require a specific venue aesthetic, the villa often beats the private event space on both experience and cost.
+For bachelorette parties, family reunions, birthday celebrations, and corporate retreats that don't require a specific venue aesthetic, the villa often beats the private event space on both experience and cost — see the full [hotel vs. villa breakdown](/guides/hotel-vs-villa-guide/) if you're weighing the two.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools at every villa, full kitchens, local art throughout, complete privacy. No minimums. No time limits. You can host a dinner party, a cocktail hour, a pool party, or a quiet evening in the same space, on the same day.
+The field spans a few different shapes of it. Bywater villas like Castleday Retreats put a group in one private structure with its own pool — every villa has 12 bedrooms and 17 real beds, so an organizer working around 16 people gets everyone a real bed rather than a couch, and the space is yours around the clock with no minimum and no time limit. The Syd's shared heated pool and hot tub in the Lower Garden District, one block from the streetcar, functions naturally as a communal party area for a group that wants everyone together for the toast. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group needs separate bills instead of one shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work too — you lose the shared-kitchen, host-it-yourself setup, but gain individual check-in.
 
-The Herald villa has the largest common areas and is specifically well-suited for all-hands group events. The Cocodrie has the best outdoor pool and patio setup for cocktail parties and outdoor celebrations. The Florentine is the most elegantly designed for hosting.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, and outdoor kitchen. The shared outdoor space functions naturally as a communal party area. All rooms designed by local New Orleans artists. One block from the St. Charles Streetcar.
-
-Both properties eliminate the venue sourcing problem entirely for groups that are traveling together.
+Any of these eliminates the venue sourcing problem entirely for a group that's already traveling together. For the largest selection, book 6+ months out. See the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) for how to actually run the space once you're in it.
 
 ---
 
@@ -254,7 +250,6 @@ For a group that's staying together for multiple nights, the villa wins on almos
 
 ## Plan Your Private Event
 
-Whether you're booking a venue or setting up your villa as the event space:
+Whether you're booking a venue or setting up your villa as the event space, start with a headcount and a firm date, then work backward. Venues fill on a weeks-out clock; large-group accommodation fills on a months-out clock.
 
-- Castleday Retreats — Bywater, private villas up to 30 guests, private pools
-- The Syd — Lower Garden District, artist-designed villas, up to 22 guests, shared pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
