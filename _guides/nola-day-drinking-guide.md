@@ -4,7 +4,7 @@ description: "The complete playbook for large-group day drinking in NOLA: Bloody
 category: "Nightlife & Music"
 card_title: "Day Drinking Playbook"
 card_description: "Bloody Mary brunch to sunset — how to structure a full NOLA day-drinking day without wrecking your group by 7pm."
-date: 2026-05-31
+date: 2026-08-19
 ---
 
 New Orleans doesn't have a last call. Which means the day starts early and the night never technically ends. This is not an accident. The whole city is optimized for extended drinking in a way nowhere else in America is.
@@ -47,7 +47,7 @@ Here's the framework. Adjust the timeline based on when your group wakes up.
 
 The Bloody Mary is not an accessory. It is a meal. A properly made NOLA Bloody Mary — thick, spiced, garnished with a shrimp — is practically a food group.
 
-Start with a real brunch. This is the foundation of the day. Groups that skip breakfast and go straight to the bar are toasted by 4pm.
+Start with a real [brunch](/guides/nola-brunch-guide/). This is the foundation of the day. Groups that skip breakfast and go straight to the bar are toasted by 4pm.
 
 **What to look for in a brunch spot for groups:**
 - Takes reservations or has a large patio
@@ -92,7 +92,7 @@ This is the anchor experience of the day — the stop that becomes the story. Pi
 
 | Stop Type | What to Order | Why It Works |
 |-----------|---------------|--------------|
-| Classic NOLA cocktail bar | Sazerac or Vieux Carré | History, craft, the real thing |
+| [Classic NOLA cocktail](/guides/nola-cocktail-history-tour/) bar | Sazerac or Vieux Carré | History, craft, the real thing |
 | Frozen drink window | Frozen Daiquiri | Walk-around cup, quintessential NOLA |
 | Rooftop bar | Whatever's on the menu | Views of the city mid-afternoon |
 | Jazz bar with drink minimum | Beer, whiskey | Music adds atmosphere |
@@ -139,7 +139,7 @@ Groups that skip dinner after a day of drinking don't make it past 10pm. The one
 
 After a properly paced day, your group is in good shape at 9pm. You've been drinking since 11am, you've eaten, you've rested, you're ready.
 
-**Frenchmen Street is the move.** Three blocks of live music clubs, no cover at most spots, outdoor patios with music spilling out. Your group can flow between venues for hours.
+**Frenchmen Street is the move.** Three blocks of [live music](/guides/live-music-guide/) clubs, no cover at most spots, outdoor patios with music spilling out. Your group can flow between venues for hours.
 
 **The French Quarter:** Bourbon Street is fine for one pass, especially if anyone in the group hasn't seen it. But you're not spending the night there after you've done a proper day. Frenchmen is where the city lives.
 
@@ -170,7 +170,7 @@ Here's the reality of 10-12 hours of drinking:
 
 ## Hydration Reality
 
-NOLA in summer is 90-95°F with 80%+ humidity. You are sweating. You are drinking. You are losing more water than you think.
+NOLA in summer is 90-95°F with 80%+ humidity — see the [weather guide](/guides/nola-weather-guide/) for the month-by-month reality. You are sweating. You are drinking. You are losing more water than you think.
 
 **The math:** A 12-oz beer in 90° heat does not hydrate you. You need to actively counter-drink.
 
@@ -211,7 +211,7 @@ NOLA in summer is 90-95°F with 80%+ humidity. You are sweating. You are drinkin
 
 1. **Decide the day plan the night before.** Morning debates about where to brunch while 15 people are slow to start will eat an hour of your day.
 
-2. **The person who doesn't drink is the group MVP.** They keep the money straight, get the Ubers, and remember where you left the credit card. Appreciate them.
+2. **The person who doesn't drink is the group MVP.** They keep the money straight, get the Ubers, and remember where you left the credit card. Appreciate them — and see the [tipping guide](/guides/group-tipping-etiquette/) for how to handle a running bar tab without the math turning into an argument.
 
 3. **Don't stay anywhere more than 2 hours.** Movement keeps the energy fresh. Long static sessions at one bar cause the group to fragment and the pace to die.
 
@@ -225,19 +225,12 @@ NOLA in summer is 90-95°F with 80%+ humidity. You are sweating. You are drinkin
 
 ---
 
-## The Accommodation Base Camp
+## For a Big Group
 
-Everything about a long day-drinking day is better with a villa home base you can return to.
+Everything about a long day-drinking day is better with a home base you can duck back into, and nobody worrying about a hotel lobby or scattered room keys at 2am.
 
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens, outdoor spaces. When you need an hour between afternoon bars and dinner — this is where you reset. The Bywater location puts you within walking distance of Bacchanal, Frenchmen Street, and the best day-drinking infrastructure in the city.
+**Editorial examples of what fits:** private-pool Bywater villas (like Castleday Retreats) put a crew within walking distance of Bacchanal, Frenchmen Street, and the rest of the day-drinking infrastructure — useful for that hour of reset between afternoon bars and dinner. A shared-pool Lower Garden District setup (like The Syd) sits one block from the St. Charles Streetcar, which makes it easy to move between neighborhoods all day without parking or rideshares. Deep-inventory operators like Heirloom or a hotel room block are worth considering if the group wants separate bills and its own keys instead of one shared house. None of these is a booking recommendation — pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. The St. Charles Streetcar stop is one block away, which makes it trivially easy to move between neighborhoods throughout the day without worrying about parking or rideshares.
+For the largest selection, book 6+ months out.
 
-Neither option requires anyone to worry about a hotel lobby or scattered room keys at 2am.
-
----
-
-## Book Your Day Drinking Base Camp
-
-- Castleday Retreats — Bywater, private villas, private pools, walkable to everything
-- The Syd — Lower Garden District, artist-designed villas, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
