@@ -1,10 +1,10 @@
 ---
 title: "Group Tipping Etiquette in New Orleans"
-description: "Automatic gratuity on large party tabs, how to prep your group before arrival, how service economics change for groups of 15-30, and how to handle the bill split without ruining the trip."
+description: "Automatic gratuity on large party tabs, how to prep your group before arrival, how service economics change when the whole crew shows up, and how to handle the bill split without ruining the trip."
 category: "Planning & Logistics"
 card_title: "Group Tipping Guide"
-card_description: "Automatic gratuity, bill splits, and how service economics change when you're a group of 15-30. Brief your crew before arrival."
-date: 2026-05-31
+card_description: "Automatic gratuity, bill splits, and how service economics change when you're at full headcount. Brief your crew before arrival."
+date: 2026-08-19
 ---
 
 Nothing ends a good dinner faster than the bill split argument. Nothing embarrasses a group faster than trying to tip incorrectly at a restaurant where the servers have been running food for 18 people for two hours.
@@ -31,7 +31,7 @@ This is the briefing.
 
 ### The Standard
 
-Most New Orleans restaurants add automatic gratuity (auto-grat) to parties of 6 or more. For groups of 12-20, auto-grat is universal.
+Most New Orleans restaurants add automatic gratuity (auto-grat) to parties of 6 or more. Once your group hits double digits, auto-grat is universal — no [restaurant](/guides/restaurant-guide/) waives it for a big table.
 
 **Typical rate:** 18-20%, though some restaurants set it at 22% or higher.
 
@@ -70,7 +70,7 @@ Good benchmark: 25-30% total tip for excellent service, which means adding 5-10%
 
 Understanding how serving a large group works changes your relationship to the tip.
 
-### What a Server Is Managing for Your Group of 15-20
+### What a Server Is Managing for Your Crew
 
 - Individual drink orders from people who all want different things
 - Food orders from people with substitutions, allergies, and last-minute changes
@@ -126,7 +126,7 @@ Decide your group's policy on this in the group chat before the trip. It avoids 
 
 Download Splitwise before the trip. Add all group members. Set a default "group" for the trip. Every shared expense goes into Splitwise. Settle at the end.
 
-This eliminates 90% of the money awkwardness. Someone pays for the group Uber. Goes into Splitwise. Someone buys the beer run. Goes into Splitwise. Nobody's tracking in their head.
+This eliminates 90% of the money awkwardness. Someone pays for the group Uber. Goes into Splitwise. Someone buys the beer run. Goes into Splitwise. Nobody's tracking in their head. Pair it with a [group communication plan](/guides/group-communication-guide/) — the money conversation goes smoother when the logistics conversation is already handled.
 
 ---
 
@@ -140,13 +140,13 @@ If you stop to listen, tip. If you're just walking by, tip anyway if they were g
 
 **For a group:** If 15 people stop to listen to a brass band for 10 minutes, the band should get a meaningful contribution. Pass a hat or designate one person to tip on behalf of the group.
 
-**Frenchmen Street venue tip jars:** At the Art Market and the clubs on Frenchmen, tip jars on stage are the musicians' direct income on top of any venue payment. These are live music professionals. Tip accordingly—$5-10 per person over an evening is appropriate if you're spending the night on Frenchmen.
+**Frenchmen Street venue tip jars:** At the Art Market and the clubs on Frenchmen, tip jars on stage are the musicians' direct income on top of any venue payment. These are [live music](/guides/live-music-guide/) professionals. Tip accordingly—$5-10 per person over an evening is appropriate if you're spending the night on Frenchmen.
 
 ---
 
 ## Second Line and Brass Band Tips
 
-If you hire a brass band for a private second line or a private event (very common for bachelorette parties, birthday celebrations, rehearsal dinners), tipping is handled differently:
+If you hire a brass band for a [private second line](/guides/second-line-guide/) or a private event (very common for bachelorette parties, birthday celebrations, rehearsal dinners), tipping is handled differently:
 
 - The agreed fee for the performance is the base
 - Additional tip of 15-20% for the band is customary and appreciated, especially for a long set or a particularly good performance
@@ -200,7 +200,7 @@ Groups under-budget for tipping more often than any other expense. Here's the ho
 | Other miscellaneous | — | $20-30 | $20-30 |
 | **Total** | | | **$110-210** |
 
-This is real money. Build it into your per-person trip budget from the start.
+This is real money. Build it into your [per-person trip budget](/guides/budget-guide/) from the start.
 
 ---
 
@@ -222,24 +222,20 @@ This is real money. Build it into your per-person trip budget from the start.
 
 ---
 
-## Staying Together: The Accommodation Advantage
-
-One reason private villas work better than hotels for large groups: the house eliminates an entire category of tipping friction. No splitting of 8 separate hotel room charges. No fighting over who pays for what. One property, one bill, split by headcount.
-
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. You stay together, eat together, and split the cost together.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, outdoor kitchen, artist-designed interiors throughout. One block from the St. Charles streetcar.
-
-Both properties make the group accounting simpler and the experience better.
-
----
-
 ## The Service Culture Is Why the City Works
 
 New Orleans service workers are professionals who have chosen a demanding craft in one of the most service-dependent cities in the country. The restaurant industry is genuinely woven into the city's identity in a way that goes beyond most other places.
 
 Tip well. Brief your crew. The economics are clear. The expectation is clear. Groups that understand this leave better relationships and better memories behind them.
 
-**Book your NOLA villa:**
-- Castleday Retreats — Bywater, private villas, up to 30 guests
-- The Syd — Lower Garden District, artist-designed villas, up to 22 guests
+---
+
+## For a Big Group
+
+One reason a shared roof beats scattered hotel rooms for tipping friction: the group settles as one house, not eight separate room charges. It's the same logic behind the [hotel vs. villa](/guides/hotel-vs-villa-guide/) decision generally — one property, one bill, split by headcount.
+
+**Editorial examples of what fits:** private-pool Bywater villas (like Castleday Retreats) put the whole crew under one roof with a full kitchen, so shared costs — groceries, the bar cart, a private chef — run through one tab instead of a dozen personal cards. A shared-pool Lower Garden District setup (like The Syd) works the same way, one block from the St. Charles Streetcar. Deep-inventory operators like Heirloom or a hotel room block give mixed-budget groups the option of separate bills and separate keys instead. None of these is a booking recommendation — pick by fit.
+
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
