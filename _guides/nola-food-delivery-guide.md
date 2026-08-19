@@ -1,10 +1,10 @@
 ---
 title: "Ordering Food Delivery for Your NOLA Villa Group"
-description: "Which delivery platforms work, best large-order restaurants, how to coordinate multiple orders, and what to order for a villa cookout with 15-30 people in New Orleans."
+description: "Which delivery platforms work, best large-order restaurants, how to coordinate multiple orders, and what to order for a villa cookout with the whole crew in New Orleans."
 category: "Food & Drink"
 card_title: "Villa Food Delivery Guide"
-card_description: "Feeding 15-30 people at a New Orleans villa: delivery logistics, what to order, and when to skip delivery entirely."
-date: 2026-05-31
+card_description: "Feeding a big group at a New Orleans villa: delivery logistics, what to order, and when to skip delivery entirely."
+date: 2026-08-19
 ---
 
 Delivery for 15 people is a different problem than delivery for 2. The apps were not designed for it. The restaurants were not designed for it. And the person trying to coordinate it on their phone at 7pm, while 15 hungry people ask "what did you order?" every three minutes, was not designed for it either.
@@ -30,7 +30,7 @@ There are good solutions. This is the guide.
 
 Delivery apps are designed for 1-4 people ordering from one restaurant to one address. That model breaks at scale.
 
-**What actually happens with 15+ people:**
+**What actually happens once the group hits double digits:**
 
 - Everyone has a different restaurant preference
 - Multiple orders go to multiple restaurants
@@ -153,6 +153,8 @@ When you have a villa with a grill and outdoor space, cooking is often better th
 - No one's order is wrong
 - No delivery fee on a $200 order
 
+Not every night needs to be a cookout, though — the [restaurant guide](/guides/restaurant-guide/) and the [private chef guide](/guides/private-chef-guide/) cover the other two ways to eat as a group without anyone cooking.
+
 ### The Cookout Setup
 
 What you need:
@@ -161,7 +163,7 @@ What you need:
 - A prep person who handles the sides while the grill person is working
 - Timing coordination: grill food takes 20-45 minutes depending on what you're making
 
-### What to Grill for 15-20 People
+### What to Grill for the Whole Crew
 
 | Item | Quantity for 15 | Time on grill |
 |------|----------------|--------------|
@@ -171,7 +173,7 @@ What you need:
 | Sausage (boudin or andouille) | 10-12 links | 15-20 minutes |
 | Corn on the cob | 15-20 ears | 15 minutes |
 
-**NOLA-specific:** Boudin sausage is the quintessential NOLA grill item. It's a Cajun pork and rice sausage, different from boudin blanc or noir you'd find elsewhere. Available at grocery stores throughout the city. Grill it until the casing blisters. It's extremely good.
+**NOLA-specific:** Boudin sausage is the quintessential NOLA grill item. It's a Cajun pork and rice sausage, different from boudin blanc or noir you'd find elsewhere. Available at grocery stores throughout the city. Grill it until the casing blisters. It's extremely good. If the group wants a bigger cooking project than a grill night, the [crawfish boil guide](/guides/nola-crawfish-boil-guide/) walks through sourcing and running the real thing.
 
 ---
 
@@ -257,17 +259,10 @@ When you're at a villa and the food situation is urgent:
 
 ## Staying Somewhere That Makes This Easy
 
-A villa with a real kitchen and a grill eliminates most of these logistics problems.
+A villa with a real kitchen and a grill eliminates most of these logistics problems — see the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) and the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) for how to actually run that first shopping trip and kitchen once you land.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens at every villa, private pools, outdoor spaces with grill areas. The kitchens are real — range, oven, full refrigerator, counter space. Cooking for 20 people is actually viable. The Bywater also puts you close to several excellent grocery options and specialty food shops for the arrival-day stock-up run.
+The field spans a few different shapes of it. Bywater villas like Castleday Retreats put a group in one private structure with its own pool and a real kitchen — range, oven, full refrigerator, counter space — so an organizer working around 16 people can actually cook for the group rather than order out every night. The Syd's shared outdoor kitchen in the Lower Garden District, alongside the villa kitchens, is built for the group cookout; the heated pool and hot tub are one block from the streetcar for easy grocery runs. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory. If the group needs separate bills instead of one shared kitchen, hotel room blocks work too — you gain individual check-in but lose the cook-for-everyone setup this guide is built around.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared outdoor kitchen in addition to villa kitchens. Heated pool, hot tub, sauna. The shared outdoor kitchen is purpose-built for the group cookout situation — it's a real outdoor cooking setup, not just a grill. One block from the St. Charles Streetcar for easy grocery runs.
+For the largest selection, book 6+ months out.
 
-Both properties are designed around groups actually cooking and eating together — not just sleeping in adjacent rooms.
-
----
-
-## Feeding Your Group
-
-- Castleday Retreats — Bywater, full kitchens, private pools, up to 30 guests
-- The Syd — Lower Garden District, outdoor kitchen, artist-designed villas, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
