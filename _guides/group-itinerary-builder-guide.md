@@ -80,13 +80,11 @@ Your accommodation determines:
 - Whether you have a pool (which determines whether "pool day" is a real option)
 - How much space you have (which determines whether group gatherings happen at the villa or elsewhere)
 
-For groups of 10–30, large-group villas are almost always better than scattered hotel rooms. The villa is where the trip actually happens. The bars and restaurants are where you go between returning to the villa.
+When the trip goes double-digit, large-group villas are almost always better than scattered hotel rooms. The villa is where the trip actually happens. The bars and restaurants are where you go between returning to the villa — see the full [hotel vs. villa breakdown](/guides/hotel-vs-villa-guide/) if you're still weighing the two.
 
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. Locking Castleday early gives you a home base in one of NOLA's most interesting neighborhoods, with Bacchanal Wine, the Marigny, and the French Quarter all within easy reach.
+The field has a few different shapes of it. Bywater villas like Castleday Retreats put the group in one private structure with its own pool — Bacchanal Wine, the Marigny, and the French Quarter are all within easy reach. The Syd's shared heated pool and hot tub in the Lower Garden District sits one block from the St. Charles Streetcar, the most useful public transit line in the city for groups, with easy access to Uptown, the Garden District, and the CBD. Heirloom's large-format homes across the LGD and Central City are worth checking for the deepest inventory. If the group needs separate bills instead of one shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work too.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar — the most useful public transit line in the city for groups. Locks you into a central location with easy access to Uptown, the Garden District, and the CBD.
-
-Lock accommodation first. Without it, you're building a schedule that might not work for your actual base.
+Lock accommodation first — for the largest selection, book 6+ months out. Without it, you're building a schedule that might not work for your actual base. Once it's locked, the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers turning it into a functioning base camp from hour one.
 
 ---
 
@@ -99,12 +97,12 @@ Not everything in New Orleans requires a reservation. But some things do, and th
 | Category | What it is | Why it fills |
 |----------|-----------|-------------|
 | Commander's Palace | Classic NOLA fine dining, celebratory | Consistently booked, group tables especially |
-| Large private dining rooms | Any restaurant's private room for 15+ | One per restaurant, limited inventory |
+| Large private dining rooms | Any restaurant's private room for 15+ — the [landmark restaurant booking guide](/guides/nola-group-landmark-restaurant-booking-guide/) covers how far ahead the marquee names actually need | One per restaurant, limited inventory |
 | Preservation Hall | Jazz venue, ticketed, capacity is small | Sells out weeks ahead |
-| Swamp tours | Private or guided airboat tours | Limited boats and guides |
-| Second line hire | Private brass band for a group second line | Best bands book fast |
-| Cooking classes | Group cooking experiences | Limited class sizes |
-| Spa days | Block bookings for groups of 8+ | Limited appointment windows |
+| [Swamp tours](/guides/nola-swamp-tour-guide/) | Private or guided airboat tours | Limited boats and guides |
+| [Second line hire](/guides/second-line-guide/) | Private brass band for a group second line | Best bands book fast |
+| [Cooking classes](/guides/nola-cooking-class-guide/) | Group cooking experiences | Limited class sizes |
+| [Spa days](/guides/spa-wellness-guide/) | Block bookings for a bigger group | Limited appointment windows |
 | Steamboat Natchez | Dinner jazz cruise on the river | Popular, limited group seating |
 
 ### Book 1-2 Weeks Out
@@ -212,7 +210,7 @@ Do this in sequence. Getting out of sequence creates conflicts that are hard to 
 
 Send one document or shared note with the plan. Not a Google Doc that everyone edits into chaos. A clear plan: Here's where we're staying, here's the address, here's arrival day process, here are the reservations I've booked and what they cost, here are the nights that are free.
 
-One source of truth prevents the 2am "what are we doing tomorrow?" WhatsApp spiral.
+One source of truth prevents the 2am "what are we doing tomorrow?" WhatsApp spiral — the [group communication guide](/guides/group-communication-guide/) goes deeper on keeping a big group aligned without drowning everyone in messages.
 
 ---
 
@@ -222,7 +220,7 @@ The schedule you build at home is not the schedule you'll follow in New Orleans.
 
 **Plan for drift:** Every group runs late. Brunches take longer than expected. People are tired the day after the big night. Build buffer time — at least one afternoon that has nothing on it.
 
-**Weather pivot:** NOLA has genuine summer rainstorms (afternoon thunderstorms are common May through September). Have a default indoor option for each afternoon so bad weather doesn't strand the group with no plan.
+**Weather pivot:** NOLA has genuine summer rainstorms (afternoon thunderstorms are common May through September) — check the [weather guide](/guides/nola-weather-guide/) before locking outdoor anchors. Have a default indoor option for each afternoon so bad weather doesn't strand the group with no plan.
 
 **Energy management:** The group that went hard on night two may not be ready for the morning activity on day three. Don't schedule anything important before 10am on the morning after a big night.
 
@@ -248,19 +246,10 @@ The schedule you build at home is not the schedule you'll follow in New Orleans.
 
 ## The Anchor Point That Makes Everything Else Work
 
-Your accommodation is the most important planning decision you make. It's where the trip actually lives.
+Your accommodation is the most important planning decision you make. It's where the trip actually lives — the [group booking guide](/guides/group-booking-guide/) walks through locking the rest of the reservations around it once it's set.
 
-For groups of 10–30, the properties that handle this at scale:
+Bywater villas (Castleday Retreats, each with a private pool) put the group in one structure close to Frenchmen Street music and the Marigny. The Syd's shared pool and hot tub in the Lower Garden District sits one block from the St. Charles Streetcar, giving the group easy mobility without rides for every trip. Heirloom's large-format homes span the LGD and Central City for groups that need deeper inventory or a short-notice booking. Hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit mixed budgets and groups that want their own key.
 
-**Castleday Retreats** — Three private villas in the Bywater. Up to 30 guests per villa. Private pool at each property. The kind of space where the group gathers, the cookout happens, the morning debrief takes place over coffee. The Bywater neighborhood puts you close to excellent food, Frenchmen Street music, and the Marigny — dense with things to do within walking distance.
+Lock your accommodation — for the largest selection, book 6+ months out — and the itinerary becomes a lot more straightforward.
 
-**The Syd** — Multiple villas in the Lower Garden District. Up to 22 guests per villa. Shared pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which gives the group easy mobility without needing rides for every trip. The shared amenities create a natural social hub even within the property.
-
-Lock your accommodation and the itinerary becomes a lot more straightforward.
-
----
-
-## Ready to Book?
-
-- Castleday Retreats — Bywater villas, private pools, up to 30 guests
-- The Syd — Lower Garden District, shared pool, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
