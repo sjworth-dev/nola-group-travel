@@ -1,10 +1,10 @@
 ---
 title: "Large Group Brunch Guide for New Orleans"
-description: "Best brunch spots by neighborhood, reservation strategy for groups of 12-20, what to order, and how to turn brunch into the anchor event for your whole day in NOLA."
+description: "Best brunch spots by neighborhood, reservation strategy for the whole crew, what to order, and how to turn brunch into the anchor event for your whole day in NOLA."
 category: "Food & Drink"
 card_title: "NOLA Group Brunch Guide"
-card_description: "Brunch is a New Orleans institution. How to actually do it with 12-20 people: where to go, how to book, what to order, and how to build your day around it."
-date: 2026-06-01
+card_description: "Brunch is a New Orleans institution. How to actually do it at full headcount: where to go, how to book, what to order, and how to build your day around it."
+date: 2026-08-20
 ---
 
 Brunch is not a trend in New Orleans. It's a cultural institution. The city has been eating elaborate late-morning meals with cocktails since before brunch was a marketing category. Every neighborhood has at least one spot worth building a morning around. For large groups, brunch is often the best meal of the trip — leisurely, social, and the natural anchor that organizes the rest of the day.
@@ -32,7 +32,7 @@ Different brunch experiences for different groups.
 
 ### The Sit-Down Reservation Brunch
 
-One restaurant. Full table. Long meal. Two to three rounds of drinks. This is the classic approach and works beautifully for groups of 10-20 when executed correctly.
+One restaurant. Full table. Long meal. Two to three rounds of drinks. This is the classic approach and works beautifully for a big group when executed correctly.
 
 **Best for:** Milestone birthdays, bachelorette brunches, the "we're treating ourselves" day.
 
@@ -56,7 +56,7 @@ Make brunch at the villa.
 
 This is underrated. A well-stocked kitchen, a private patio or pool deck, and no coordinating 18 people to one address at 11am. For the group that includes non-morning people, the villa brunch is the logistics-free alternative.
 
-**What to make:** Eggs every style, bacon or sausage, fruit, biscuits from a mix, a batch of Mimosas or Bloody Marys. Not complicated.
+**What to make:** Eggs every style, bacon or sausage, fruit, biscuits from a mix, a batch of Mimosas or Bloody Marys. Not complicated — the [grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers stocking a villa kitchen for a crowd, and the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers getting it stocked before day one.
 
 **When to use it:** The morning after a late night out. The final morning before checkout when everyone's scattered. A morning when half the group wants to leave at different times.
 
@@ -135,7 +135,7 @@ Beyond the Garden District, Uptown has neighborhood brunch culture that doesn't 
 |-----------|-------------------|-------|
 | 10-12 | 1 week ahead (peak season: 2 weeks) | Some restaurants will take this online; call to confirm |
 | 13-18 | 2 weeks ahead | Always call; deposit often required |
-| 19-25 | 3-4 weeks ahead (peak: 6+ weeks) | Private room or buyout section likely required |
+| 19-25 | 3-4 weeks ahead (peak: 6+ weeks) | Private room or [buyout section](/guides/nola-group-bar-buyout-guide/) likely required |
 | 25+ | 6-8 weeks minimum | Treat this as event catering, not a brunch reservation |
 
 ---
@@ -184,7 +184,7 @@ This is the real move. Brunch as anchor means brunch determines what happens aft
 **The brunch anchor day:**
 1. **Late morning (11am-1pm):** Brunch — 2 hours at minimum for a proper large-group sit-down
 2. **Early afternoon (1pm-3pm):** Walk off the meal. The neighborhood walk immediately after brunch is one of the best experiences on any NOLA trip.
-3. **Mid-afternoon (3pm-5pm):** Free time, pool time, or the day activity
+3. **Mid-afternoon (3pm-5pm):** Free time, a [pool day](/guides/nola-pool-day-guide/), or the day activity
 4. **Evening:** Dinner (lighter than usual — you still have brunch food in you) or pool/villa hangout first, then out later
 
 ### Neighborhoods for the Post-Brunch Walk
@@ -232,25 +232,26 @@ This produces groups that go out well-fed, well-rested, and actually looking for
 | Trip type | Brunch approach |
 |-----------|----------------|
 | Bachelorette | Reservation, private patio if possible, Bloody Mary pitcher, make it a celebration |
-| Corporate retreat | Punctual start time, clear end time, less drinking, real food |
+| [Corporate retreat](/guides/corporate-retreat/) | Punctual start time, clear end time, less drinking, real food |
 | Family reunion | Mixed-age friendly spot with a varied menu, earlier start time |
 | Friends trip | Flexible — the neighborhood crawl works perfectly, no rigid schedule |
 | Milestone birthday | The anchor meal — reserve the private room, have the group there on time |
-| Wedding weekend | Full table at a wedding-appropriate restaurant, confirm with catering coordinator |
+| [Wedding weekend](/guides/nola-group-rehearsal-dinner-guide/) | Full table at a wedding-appropriate restaurant, confirm with catering coordinator |
 
 ---
 
 ## Large-Group Accommodation That Makes Brunch Easier
 
-Being in the right neighborhood puts brunch within walking distance or a short rideshare.
+Being in the right neighborhood puts brunch within walking distance or a short rideshare — and the field has a few different shapes of it.
 
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens. The Bywater and Marigny are adjacent, putting the neighborhood brunch scene — including Bacchanal Wine — at walking distance. For the morning when the group wants to stay home, the kitchen supports a full villa brunch for 30. The villa cookout and brunch situations are equally strong here.
+Bywater villas like Castleday Retreats keep a group around a private pool with a full kitchen, and the Bywater/Marigny brunch scene — including Bacchanal Wine's back wine garden — is at walking distance; each villa has 12 bedrooms and 17 real beds, so an organizer planning around 16 people gets a kitchen that can actually run the full villa-brunch spread. The Syd's Lower Garden District villas sit one block from the St. Charles streetcar, putting Garden District and Uptown brunch spots in easy reach, with a shared outdoor kitchen that covers the villa-brunch option too. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group would rather have separate bills than a shared kitchen, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) put you a short rideshare from any neighborhood's brunch scene.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. One block from St. Charles Streetcar for easy access to Garden District and Uptown brunch spots. The shared outdoor kitchen works for the villa brunch option. The neighborhood puts you within walking distance of Magazine Street and some of the best mid-tier brunch spots in the city.
+For the largest selection, book 6+ months out.
 
 ---
 
 ## Plan the Best Meal of the Trip
 
-- Castleday Retreats — Bywater, private pools, within walking range of top neighborhood brunch
-- The Syd — Lower Garden District, close to Garden District and Uptown brunch spots, up to 22 guests
+Reservation, crawl, or brunch at the villa — pick the format before the morning arrives. It's the easiest part of the day to get wrong by not deciding.
+
+[See where to stay for large groups →](/where-to-stay/)
