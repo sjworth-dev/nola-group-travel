@@ -1,10 +1,10 @@
 ---
 title: "How to Run a Pool Day at Your NOLA Villa"
-description: "Morning setup, day-drinking pacing, food vs. cookout, music logistics, sunscreen reality, and the afternoon nap strategy for groups of 10-30."
+description: "Morning setup, day-drinking pacing, food vs. cookout, music logistics, sunscreen reality, and the afternoon nap strategy for the whole crew."
 category: "Activities & Day Trips"
 card_title: "NOLA Villa Pool Day"
 card_description: "How to actually run a pool day without it collapsing by 3pm. Setup, pacing, food, music, and the nap pivot."
-date: 2026-06-01
+date: 2026-08-20
 ---
 
 A pool day sounds simple. Everyone lounges, someone makes drinks, it's perfect. What actually happens is: nobody brings sunscreen, the speaker dies at noon, someone orders delivery for 18 people and it takes two hours, and half the group is too sunburned to go out that night.
@@ -52,7 +52,7 @@ Keep a full backup stock inside. The cooler empties faster than expected.
 
 ### Ice Situation
 
-This needs to be handled before everyone's awake. Grocery store trip or delivery the night before, or you're buying ice in the morning when you should be enjoying your morning.
+This needs to be handled before everyone's awake. Grocery store trip or delivery the night before — see the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) for getting the kitchen and coolers stocked before day one — or you're buying ice in the morning when you should be enjoying your morning.
 
 **Ice math for a summer day:** 20 people, 6 hours outside → minimum 30 lbs of ice. 40 lbs is better. New Orleans in summer is genuinely hot.
 
@@ -129,7 +129,7 @@ If your villa has a grill and outdoor space, the pool day cookout is usually the
 
 **Pool day cookout setup:**
 - Grill person confirmed the night before (not assigned day-of when the grill is already hot)
-- Grocery run done on arrival day — see the grocery guide
+- Grocery run done on arrival day — see the [grocery and cooking guide](/guides/group-grocery-cooking-guide/)
 - Keep it simple: burgers, hot dogs, chicken thighs, sausage. Don't attempt an elaborate menu for 15 people at a pool.
 - Prep all food inside before bringing it outside. Sun-warmed raw meat is a health situation.
 
@@ -137,7 +137,7 @@ If your villa has a grill and outdoor space, the pool day cookout is usually the
 
 ### The Delivery Case
 
-If you're going delivery, read the villa food delivery guide. The short version: one coordinator, one restaurant, one order, placed 90+ minutes before you want to eat. Add time on weekends and game days.
+If you're going delivery, read the [villa food delivery guide](/guides/nola-food-delivery-guide/). The short version: one coordinator, one restaurant, one order, placed 90+ minutes before you want to eat. Add time on weekends and game days.
 
 **Pool day delivery that works:**
 - Tray orders (jambalaya, fried chicken, BBQ) designed for groups
@@ -153,7 +153,7 @@ If you're going delivery, read the villa food delivery guide. The short version:
 
 ## Sunscreen Reality
 
-You will burn. The sun reflects off the pool water. The NOLA summer sun is equatorial-adjacent.
+You will burn. The sun reflects off the pool water. The NOLA summer sun is equatorial-adjacent — see the [weather guide](/guides/nola-weather-guide/) for what the heat and humidity actually feel like by month before you plan around it.
 
 **The rule:** Apply before getting in the water. Reapply every two hours, more often if people are in the pool. SPF 30 minimum, SPF 50 if you're pale.
 
@@ -179,6 +179,8 @@ The pool day winds down around 4–5pm. The group is sun-tired and slightly day-
 - Reconvene: 7pm–7:30pm, showered, changed, headed out.
 
 This structure consistently produces the best evenings. The group who pushes through to 6pm still drinking is the group that eats dinner an hour late, doesn't get out until 10pm, and has someone tapping out by midnight.
+
+If the plan is to keep the party at the villa instead of heading out, the [villa pool party guide](/guides/villa-pool-party-guide/) covers the version of this day that doesn't wind down at 5pm.
 
 ### Making the Nap Stick
 
@@ -222,17 +224,10 @@ Things worth having that most groups forget:
 
 ## Where to Have This Pool Day
 
-Not every villa pool is equal. The pool's size, privacy, and outdoor setup determines how good the day actually is.
+Not every villa pool is equal. The pool's size, privacy, and kitchen setup determines how good the day actually is — and the field has a few different shapes of it.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with its own private pool. Up to 30 guests per villa. The private pool situation means your group isn't sharing with other guests, managing pool time, or coordinating around anyone else's schedule. The Cocodrie villa is specifically designed around outdoor and pool experience with the most expansive outdoor setup of the three. Full kitchen for the cookout setup.
+Bywater villas like Castleday Retreats put a group around a private pool with no other guests to coordinate around; each villa has 12 bedrooms and 17 real beds, so an organizer planning around 16 people gets everyone a real bed and a full kitchen for the cookout option. The Syd's shared heated pool and hot tub in the Lower Garden District works as a natural gathering point for a group that wants everyone together, one block from the streetcar for whatever's next. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group would rather have separate bills than a shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) trade the private pool for individual check-in — see the full [hotel vs. villa breakdown](/guides/hotel-vs-villa-guide/) if you're weighing that tradeoff.
 
-**The Syd** — Multiple villas in the Lower Garden District with a shared heated pool, hot tub, sauna, and outdoor kitchen. Up to 22 guests per villa. The outdoor kitchen is a genuine asset for the cookout option — it's purpose-built for group cooking, not just a grill bolted to the deck. The shared pool means some coordination if multiple groups are in residence, but the setup is excellent and the hot tub adds a recovery dimension at the end of the day.
+For the largest selection, book 6+ months out.
 
-Both properties are designed for exactly the scenario described in this guide. Real pools, real outdoor space, real kitchens.
-
----
-
-## Your Pool Day
-
-- Castleday Retreats — Private pools, Bywater, up to 30 guests
-- The Syd — Shared pool, outdoor kitchen, Lower Garden District, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
