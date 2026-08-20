@@ -11,6 +11,8 @@ Planning a family reunion is complicated enough without the logistics nightmare.
 
 New Orleans is one of the few cities where all of this actually works. History the older generation will love. Energy the younger generation craves. And food everyone agrees on.
 
+This guide covers the standard reunion trip. If your age range runs wider — toddlers to grandparents in the same week — the [multigenerational family reunion guide](/guides/extended-family-reunion-guide/) goes deeper on mobility needs and the split-schedule model.
+
 ## Why New Orleans for Family Reunions
 
 **Multi-generational appeal.** There's something for every age—from playgrounds to jazz clubs.
@@ -31,6 +33,10 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 **The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location near the streetcar.
 
+**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. Worth checking for deeper inventory or a short-notice booking.
+
+**Hotel room blocks** (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) — If the family would rather have separate bills and own-key privacy than a shared house, this trades the communal kitchen for individual rooms.
+
 ### What to Look For
 
 - **Private pool:** Safe, enclosed space for kids to play while adults relax
@@ -46,8 +52,8 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 ### Day 1: Arrivals
 
 **Throughout the day:**
-- Staggered arrivals, settling in
-- Grocery run (assign someone)
+- Staggered arrivals, settling in — the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers getting the house ready before everyone lands
+- Grocery run (assign someone) — see the [grocery and cooking guide](/guides/group-grocery-cooking-guide/) for stocking a kitchen this size
 - Pool time for early arrivals
 
 **Evening:**
@@ -60,7 +66,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 ### Day 2: All-Ages Day
 
 **Morning:**
-- Breakfast at the house (pancakes, coffee, chaos)
+- Breakfast at the house (pancakes, coffee, chaos) — or turn it into a proper [villa brunch](/guides/nola-brunch-guide/)
 - Head to **City Park**: Storyland playground, Botanical Garden, paddle boats
 
 **Afternoon:**
@@ -85,7 +91,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 **Afternoon:**
 - Regroup at the house
-- Pool time, games, hanging out
+- [Pool time](/guides/nola-pool-day-guide/), games, hanging out
 - This is the point of the reunion—unstructured time together
 
 **Evening:**
@@ -156,7 +162,7 @@ Most reunion meals should happen at your rental. Why:
 - Kids can be kids without disturbing other diners
 
 **Meal ideas:**
-- Crawfish boil (hire someone to do it)
+- [Crawfish boil](/guides/nola-crawfish-boil-guide/) (hire someone to do it)
 - Jambalaya night (one-pot, feeds everyone)
 - Grill night (steaks, burgers, easy)
 - Breakfast buffet (everyone pitches in)
@@ -167,7 +173,7 @@ Not sure whether to hire a private chef or cook yourselves? The [private chef vs
 
 ## Budget Tips
 
-**Biggest savings:** Staying in one large rental vs. multiple hotel rooms. Split a $1,500/night villa 20 ways = $75/person/night.
+**Biggest savings:** Staying in one large rental vs. multiple hotel rooms. Split a $1,500/night villa 20 ways = $75/person/night. The [budget guide](/guides/budget-guide/) has the full framework for working the whole trip against a real number.
 
 **Second biggest:** Cooking most meals at the house. Restaurant meals for 20 add up fast.
 
@@ -216,6 +222,6 @@ New Orleans provides the backdrop. The reunion is what you make of it.
 
 ## Book Your Reunion
 
-For family reunions, a private villa keeps everyone under one roof — the single biggest factor in whether a reunion feels like a gathering or just a vacation people happened to take at the same time. Properties like Castleday Retreats (Bywater, private pools, ADA-accessible options, up to 30 per villa) and The Syd (Lower Garden District, shared pool and hot tub, up to 22 per villa) are built for this.
+For family reunions, a private villa keeps everyone under one roof — the single biggest factor in whether a reunion feels like a gathering or just a vacation people happened to take at the same time. The field has a few shapes of it: Castleday Retreats (Bywater, private pools, ADA-accessible options, up to 30 per villa), The Syd (Lower Garden District, shared pool and hot tub, up to 22 per villa), and Heirloom (LGD/Central City, dozens of large-format homes for deeper inventory) all work. For a family that wants separate bills instead of a shared house, hotel room blocks trade the communal kitchen for individual check-in.
 
 [See where to stay for large groups →](/where-to-stay/)
