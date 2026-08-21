@@ -1,17 +1,17 @@
 ---
 title: "NOLA Jazz Club Deep Dive for Large Groups"
-description: "Club-by-club breakdown of every major New Orleans jazz venue for large groups of 15-25: Frenchmen Street, Preservation Hall, Snug Harbor, Tipitina's, standing room strategy, cover charges, and how to structure a full music night."
+description: "Club-by-club breakdown of every major New Orleans jazz venue for the whole crew: Frenchmen Street, Preservation Hall, Snug Harbor, Tipitina's, standing room strategy, cover charges, and how to structure a full music night."
 category: "Nightlife & Music"
 card_title: "Jazz Club Deep Dive"
-card_description: "How to do a real New Orleans jazz night with 15-25 people. Every major venue, cover charge logistics, standing room strategy, and late-night timing."
-date: 2026-06-01
+card_description: "How to do a real New Orleans jazz night with the whole crew. Every major venue, cover charge logistics, standing room strategy, and late-night timing."
+date: 2026-08-21
 ---
 
 New Orleans is the birthplace of jazz. That's not marketing copy — it's history. And the live music scene here is not a museum. The clubs on Frenchmen Street on a Tuesday night are as alive as anything you'll find anywhere in the world. Jazz in New Orleans is present tense.
 
 The challenge for large groups is that most of these venues were designed for intimate crowds. The Spotted Cat holds maybe 60 people. Snug Harbor's stage room seats fewer than 100. These rooms don't have group reservations. There's no VIP section to call ahead and secure. You show up, you pay the cover, you find space.
 
-This guide explains how to actually do a jazz night with 15-25 people — where to go, when to arrive, how to keep the group together, and how to build an evening that delivers what NOLA's music scene is actually about.
+This guide explains how to actually do a jazz night with the whole crew — where to go, when to arrive, how to keep the group together, and how to build an evening that delivers what NOLA's music scene is actually about. If the group wants a different kind of night out first, the [live music guide](/guides/live-music-guide/) covers the wider scene beyond jazz specifically.
 
 ---
 
@@ -39,7 +39,7 @@ Preservation Hall is the iconic venue — the one you've seen in photographs. A 
 
 For large groups, Preservation Hall requires a different approach than every other venue on this list:
 
-**Buy tickets in advance.** The Hall offers reserved seating (best for groups), standing tickets, and a Saint option that guarantees entry. For 15-25 people, book the reserved or Saint tier — do this weeks in advance for popular dates.
+**Buy tickets in advance.** The Hall offers reserved seating (best for groups), standing tickets, and a Saint option that guarantees entry. At full headcount, book the reserved or Saint tier — do this weeks in advance for popular dates.
 
 **It's not a late-night venue.** Shows typically run in the evening, with sets starting and ending at predictable times. This makes it actually easier to coordinate for large groups.
 
@@ -115,7 +115,7 @@ Tipitina's is Uptown, not Frenchmen Street — it requires a rideshare to reach,
 
 **For large groups:** Tipitina's works best when a specific act is playing that the group wants to see. It's less of a "wander in and explore" venue and more of a "buy tickets in advance and plan the evening around it" venue.
 
-**Group strength:** The larger floor means 25 people can actually be in the same room without it being a problem. This is the venue for groups that want to dance together.
+**Group strength:** The larger floor means the whole crew can actually be in the same room without it being a problem. This is the venue for groups that want to dance together.
 
 **When to go:** Late Friday and Saturday nights feature the longest, most energetic sets. A show that starts at 10:30pm at Tipitina's can go until 2am or later.
 
@@ -147,7 +147,7 @@ Rock 'n' Bowl is the quirky NOLA original: a working bowling alley with a stage 
 
 ## Structuring a Full Music Night
 
-This is the move for 15-25 people who want a real jazz night in New Orleans.
+This is the move for a big group that wants a real jazz night in New Orleans.
 
 ### Option A: Preservation Hall + Frenchmen Street
 
@@ -229,7 +229,7 @@ For when a specific act is worth the Uptown trip.
 
 2. **Arrive before 10pm.** The best spots on Frenchmen Street fill up fast on Thursday, Friday, and Saturday nights. Arriving at 9:30pm is not early — it's correct.
 
-3. **Don't make Bourbon Street the finale.** The natural instinct is to end the night on Bourbon Street because it's close. This is almost always a downgrade. Frenchmen Street at midnight beats Bourbon Street at midnight in every measurable way. Go to Bourbon Street first if you must, then Frenchmen.
+3. **Don't make Bourbon Street the finale.** The natural instinct is to end the night on Bourbon Street because it's close. This is almost always a downgrade. Frenchmen Street at midnight beats Bourbon Street at midnight in every measurable way. Go to [Bourbon Street](/guides/nola-bourbon-street-guide/) first if you must, then Frenchmen — that guide covers the hour it's actually worth. If the group wants a dance floor instead of a listening room on a given night, the [nightclub guide](/guides/nola-group-nightclub-guide/) covers that option too.
 
 4. **One leader per group.** A 20-person jazz night with no one making calls is a disaster. Designate the person who keeps the group moving, decides where to go next, and holds the cover charge fund.
 
@@ -245,17 +245,14 @@ For when a specific act is worth the Uptown trip.
 
 The logistics of a jazz night get much easier when you're staying somewhere with space to pre-game properly and a kitchen for the late-night aftermath.
 
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. Private pools, full kitchens, local art throughout. The Bywater location puts you less than 10 minutes from Frenchmen Street — either a short rideshare or a walkable distance on a temperate night. Pre-gaming on a private pool deck before a Frenchmen Street night is genuinely hard to beat. The late-night return to a villa with a pool is the right ending to a jazz crawl.
+**Editorial examples of what fits:** villas like Castleday Retreats sit in the [Bywater](/neighborhoods/bywater/), less than 10 minutes from Frenchmen Street — a private pool deck for pre-gaming and a walkable or short-rideshare trip home after the last set. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), puts a shared heated pool and hot tub within a short rideshare of Frenchmen and works well for a group that wants everyone gathering in one outdoor space before heading out. Heirloom's deeper bench of large-format homes across the LGD and Central City is worth a look if your dates are tight. None of these is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room block for a group this size.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen, and rooms designed by local New Orleans artists. A short rideshare to Frenchmen Street. The shared outdoor space makes pre-gaming for a large group natural — everyone gathers before the rideshares arrive. Post-jazz-night hot tub is not the worst way to end an evening.
+For the largest selection, book 6+ months out.
 
-Both properties provide the kind of private group space that makes the before and after as good as the music itself.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
 ## Plan Your Jazz Night
 
 Real jazz in a real city. The logistics are manageable — you just need to know the venues.
-
-- Castleday Retreats — Bywater, 10 minutes from Frenchmen Street, up to 30 guests per villa
-- The Syd — Lower Garden District, up to 22 guests, artist-designed interiors
