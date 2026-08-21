@@ -1,13 +1,13 @@
 ---
 title: "Running a Private Pool Party at Your NOLA Villa"
-description: "Music setup, inflatable gear, food and drinks, safety logistics, and the night-after pool party structure for groups of 15-30 at a New Orleans villa."
+description: "Music setup, inflatable gear, food and drinks, safety logistics, and the night-after pool party structure for the whole crew at a New Orleans villa."
 category: "Activities & Day Trips"
 card_title: "Villa Pool Party Guide"
-card_description: "How to run a proper private pool party for 15-30 people. Music, gear, food, safety, and the post-party night-out structure."
+card_description: "How to run a proper private pool party for the whole crew. Music, gear, food, safety, and the post-party night-out structure."
 date: 2026-06-01
 ---
 
-A pool party for 20 people is different from a pool day. A pool day is relaxed. A pool party has music, inflatables, a drink program, and people are actually partying around a pool, not just napping in chairs.
+A pool party for the whole crew is different from a [pool day](/guides/nola-pool-day-guide/). A pool day is relaxed. A pool party has music, inflatables, a drink program, and people are actually partying around a pool, not just napping in chairs.
 
 The difference between a great pool party and a chaotic one comes down to five things: music, drinks, food, safety, and stopping on time. Get those right and it's the trip highlight. Miss one and you know which one you missed.
 
@@ -64,7 +64,7 @@ Pool parties in New Orleans should incorporate New Orleans music. Brass band mus
 
 Inflatables are the visual centerpiece of a pool party. They also create logistical chaos if you don't manage them.
 
-### What to Bring (for 15-20 People)
+### What to Bring (for a Full Villa Group)
 
 | Item | Count | Why |
 |------|-------|-----|
@@ -101,7 +101,7 @@ Set this up before anyone arrives:
 | Category | Setup |
 |----------|-------|
 | Ice | Large tub or multiple coolers. Dedicated ice for drinks, separate from cooling bottles. |
-| Batch cocktails | 2-3 pitchers of premade cocktails. Don't make one at a time for 20 people. |
+| Batch cocktails | 2-3 pitchers of premade cocktails. Don't make one at a time for a full crowd. |
 | Beers and seltzers | Ice-cold, in the cooler, accessible |
 | Non-alcoholic | Sparkling water, lemonade, juice — must be present and visible, not hidden |
 | Cups | Stacked at the bar, easily grabbed |
@@ -113,7 +113,7 @@ This is the second most important role at the pool party (after music). Someone 
 
 This is a rotating role for a 4-hour party. Two or three people each take a 60-90 minute shift so no one person is behind the bar the whole time.
 
-### Batch Cocktails for 20 People
+### Batch Cocktails for a Crowd
 
 Recipes that work at pool-party scale:
 
@@ -178,7 +178,7 @@ This isn't a sit-down dinner — it's enough food that people eat and continue p
 
 ## Safety
 
-This section exists because a pool party for 20 people generates real safety considerations that a casual pool afternoon doesn't.
+This section exists because a pool party for a big group generates real safety considerations that a casual pool afternoon doesn't.
 
 ### Ground Rules to State Out Loud
 
@@ -192,13 +192,13 @@ You don't need to give a lifeguard speech. You need to say these things so that 
 
 ### The Designated Sober or Sober-Adjacent Role
 
-At a pool party with 20 people and alcohol, having one person who's not drinking (or drinking minimally) is a genuine safety asset. This person can see the full picture better than anyone who's been in the sun for three hours.
+At a pool party with the whole crew and alcohol in the mix, having one person who's not drinking (or drinking minimally) is a genuine safety asset. This person can see the full picture better than anyone who's been in the sun for three hours.
 
 Rotate this role if you want. Make it easy to volunteer for. It's not a punishment — it's a role with actual importance.
 
 ### Pool Capacity
 
-Know the pool dimensions and don't exceed a safe density. Most villa pools are not 50-person pools. For 20 people sharing a standard pool, at any given moment maybe 8-12 are in the water. That's fine. 20 people simultaneously trying to get in a 12×24 foot pool is not comfortable or safe.
+Know the pool dimensions and don't exceed a safe density. Most villa pools are not 50-person pools. For a full villa group sharing a standard pool, at any given moment maybe 8-12 are in the water. That's fine. Everyone trying to get in a 12×24 foot pool at once is not comfortable or safe.
 
 ### End-of-Party Water Check
 
@@ -227,9 +227,9 @@ At the end of the pool party (target: 5-5:30pm), execute the same shutdown as a 
 | Evening type | Why it works post-pool party |
 |-------------|------------------------------|
 | Dinner reservation at a nice spot | Pool party energy translates to dinner energy |
-| Frenchmen Street music crawl | Lower-energy option, no reservation needed, easy walk |
+| [Frenchmen Street](/guides/live-music-guide/) music crawl | Lower-energy option, no reservation needed, easy walk |
 | Stay at the villa | Cookout, music, everyone's already home — completely valid |
-| French Quarter lap | Last resort or enthusiastic choice depending on the group |
+| [Bourbon Street](/guides/nola-bourbon-street-guide/) lap | Last resort or enthusiastic choice depending on the group |
 
 The pool party group tends to go out at 8-9pm and stay out well. Build accordingly.
 
@@ -269,15 +269,14 @@ Assign this before the party ends. "We'll deal with it tomorrow" produces a disa
 
 Not every rental can run a proper pool party. You need a real pool, real outdoor space, and a kitchen that can support batch cocktail prep and a cookout.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with its own private pool. Up to 30 guests per villa. The Cocodrie villa has the most expansive outdoor setup for exactly this kind of event. Private pools mean your group has the space without sharing with other guests or managing access times. Full kitchens for batch cocktail prep and food setup.
+**Editorial examples of what fits:** villas like Castleday Retreats sit in the [Bywater](/neighborhoods/bywater/) with a private pool per house — no sharing the water with other guests or working around anyone else's access times, plus a full kitchen for batch cocktail prep. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool, hot tub, and an outdoor kitchen purpose-built for cooking at group scale. Hotel Perle's rooftop pool is worth a look if the group would rather split into suites with separate bills. None of these is a booking recommendation — pick based on whether your group wants one private pool or a shared one, and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff in more depth.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, and an outdoor kitchen purpose-built for the kind of cooking-for-groups scenario that makes pool parties work. The outdoor kitchen is a real asset — it's not a supplementary grill, it's a full outdoor cooking setup.
+For the largest selection, book 6+ months out.
 
-Both properties are designed to support exactly this type of event.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
 ## Ready to Party
 
-- Castleday Retreats — Private pools, Bywater, up to 30 guests
-- The Syd — Outdoor kitchen, shared pool, Lower Garden District, up to 22 guests
+A pool party is the easiest trip highlight to get right, and one of the easiest to blow. Sort the music, the drink program, and the safety basics, set an end time, and let the villa do the rest of the work.
