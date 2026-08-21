@@ -4,7 +4,7 @@ description: "TPC Louisiana, Audubon, City Park, English Turn — how to book te
 category: "Activities & Day Trips"
 card_title: "Large Group Golf"
 card_description: "TPC Louisiana, Audubon, City Park. How to book 16+ players and build the perfect golf day."
-date: 2026-06-02
+date: 2026-08-21
 ---
 
 New Orleans is a legitimate golf city. Not a "there's a course if you look for it" city. A city with a PGA Tour stop, multiple strong public options, and weather that makes early morning rounds exceptional for most of the year.
@@ -46,7 +46,7 @@ A public course inside Audubon Park in Uptown. Bermuda grass, oak-lined fairways
 
 **What you get:** 18-hole public course with a walking culture — Audubon is one of the few courses in the region where many locals choose to walk rather than cart. Friendly pace, scenic, unpretentious. Adjacent to the Audubon Zoo and the park's running and cycling paths.
 
-**For large groups:** Strong option for groups that want a more relaxed round. Easier booking than TPC Louisiana, lower price point, and the location means you're already in one of the best neighborhoods in the city when you finish. Magazine Street, Camellia Grill, and Uptown bars are all nearby.
+**For large groups:** Strong option for groups that want a more relaxed round. Easier booking than TPC Louisiana, lower price point, and the location means you're already in one of the best neighborhoods in the city when you finish. Magazine Street, Camellia Grill, and [Uptown](/neighborhoods/uptown/) bars are all nearby.
 
 **Best for:** Groups where skill levels vary widely, groups that want the activity without the full tournament experience, groups combining golf with a morning Uptown neighborhood exploration.
 
@@ -54,7 +54,7 @@ A public course inside Audubon Park in Uptown. Bermuda grass, oak-lined fairways
 
 ### City Park Golf Courses
 
-City Park has multiple courses. The Bayou Oaks facility at City Park is one of the largest public golf facilities in the South — four courses total, ranging from a full 18-hole championship course to shorter par-3 layouts.
+[City Park](/neighborhoods/mid-city/) has multiple courses. The Bayou Oaks facility at City Park is one of the largest public golf facilities in the South — four courses total, ranging from a full 18-hole championship course to shorter par-3 layouts.
 
 **What you get:** Maximum flexibility. If some guys want a serious round and others want something casual, City Park can accommodate both at the same time on different courses. The championship course is a strong track; the par-3 courses are good for groups with beginners or people who just want to swing clubs without committing to four hours.
 
@@ -137,7 +137,7 @@ This is how you run it cleanly.
 
 **6:30 AM** — Coffee and light breakfast at the house. Do not eat a full meal before a round in summer heat.
 
-**7:00 AM** — Depart for the course. This is why transportation logistics matter the night before.
+**7:00 AM** — Depart for the course. This is why [transportation logistics](/guides/transportation-guide/) matter the night before — figure out who's driving vans and who's ordering rideshares before anyone's standing in the driveway with clubs.
 
 **7:30 AM** — Arrive, check in, warm up, first tee. Early tee time beats the heat by at least an hour on warm-weather trips.
 
@@ -153,9 +153,9 @@ The round is done. Half your group is sore. The other half is already talking ab
 
 **Option 1: Lunch near the course.** If you're at TPC Louisiana, you're 30 minutes south of the city — ask the pro shop for the move nearby. If you're at Audubon or City Park, you're already in the middle of solid neighborhoods with good options.
 
-**Option 2: Return to the house.** Order food delivered, decompress by the pool, transition to the afternoon naturally. This is often the better call for a large group — the logistics of getting 16+ people into a restaurant post-round without a reservation is its own adventure.
+**Option 2: Return to the house.** Order food delivered, decompress by the pool, transition to the afternoon naturally. This is often the better call for a large group — getting a big crew into a restaurant post-round without a reservation is its own adventure. The [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers stocking the house so this option is actually ready to go.
 
-**Option 3: Post-round bar stop.** A nearby bar with outdoor seating, cold beer, and pub food. Works especially well when you're already in Uptown after Audubon — Magazine Street and the surrounding neighborhood offers multiple options.
+**Option 3: Post-round bar stop.** A nearby bar with outdoor seating, cold beer, and pub food. Works especially well when you're already in Uptown after Audubon — Magazine Street and the surrounding neighborhood offers multiple options. The [day-drinking guide](/guides/nola-day-drinking-guide/) has the pacing framework for turning a noon finish into an afternoon that doesn't wreck the evening.
 
 ---
 
@@ -181,7 +181,7 @@ For groups returning to the city from TPC Louisiana or English Turn, the post-ro
 | March – May | Excellent | Festival season — book accommodations and tee times early |
 | June – September | Hot and humid | Early tee times only; afternoon rounds are punishment |
 
-The sweet spot for a golf-centered group trip is October through May. If your trip is in summer and you want a round, commit to the 7 AM tee time. No exceptions.
+The sweet spot for a golf-centered group trip is October through May — check the [best-time-to-visit guide](/guides/nola-group-best-time-to-visit-guide/) if golf is one factor among several in picking dates. If your trip is in summer and you want a round, commit to the 7 AM tee time. No exceptions.
 
 ---
 
@@ -205,17 +205,21 @@ The sweet spot for a golf-centered group trip is October through May. If your tr
 
 ## Where to Stay for a Golf Group Trip
 
-The post-round home base is where the golf trip lives between the tee box and the bar. You want a pool, a kitchen for breakfast prep, and enough space that 16–20 people aren't on top of each other.
+The post-round home base is where the golf trip lives between the tee box and the bar. You want a pool, a kitchen for breakfast prep, and enough space that the whole crew isn't on top of each other after a 6:30 AM wake-up.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. The Cocodrie has the best outdoor setup — pool, outdoor seating, the kind of space where post-round beers turn into a full evening. The Herald has the largest common areas for a group that wants to spread out and debrief. For a large golf group that wants to cook breakfast before the round and come back to a real space after, Castleday is purpose-built for this.
+A few shapes of the field fit this trip. Bywater villas like Castleday Retreats put the group in one private structure with its own pool — good for a group that wants to cook breakfast before the round and come back to a real space after. The Syd's shared heated pool and hot tub sit in the Lower Garden District, one block from the St. Charles Streetcar, which puts Audubon within easy reach without a full rideshare production. Heirloom's large-format homes across the LGD and Central City are worth checking for deep inventory. Hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit a group that wants separate bills.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar, which means easy access to Audubon if you want to skip Ubers. The shared amenities make The Syd feel more like a resort compound than a rental — good for groups where the social gathering is as important as the round itself.
-
-Both are better than scattered hotel rooms in every respect that matters for a golf group: there's a kitchen for early breakfast, a pool for the afternoon, and one central place to gather that doesn't require tipping a bartender.
+Whichever shape fits, a shared roof beats scattered hotel rooms for a golf trip specifically: there's a kitchen for the early breakfast, a pool for the afternoon, and one central place to gather that doesn't require tipping a bartender. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the full tradeoff if you're still deciding, and the [group itinerary builder](/guides/group-itinerary-builder-guide/) covers structuring the rest of the day around the round.
 
 ---
 
 ## Plan Your Golf Trip
 
-- Castleday Retreats — Private villas in the Bywater, up to 30 guests, private pools
-- The Syd — Lower Garden District, up to 22 guests, shared pool and hot tub
+1. Lock the tee time — TPC Louisiana weekends go first
+2. Book the house — for the largest selection, book 6+ months out
+3. Pick the format (scramble for mixed skill) and assign one person to run logistics
+4. Sort post-round plans before you leave the house that morning
+
+Starting from zero on the whole trip, not just the round? The [group trip planning guide](/guides/plan-a-group-trip/) runs the full sequence in order.
+
+[See where to stay for large groups →](/where-to-stay/)
