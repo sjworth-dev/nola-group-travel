@@ -1,11 +1,64 @@
 ---
 layout: guide
-title: "New Orleans Festivals & Events 2026-2027"
-description: "Complete guide to Mardi Gras, Jazz Fest, Essence Fest, and every major New Orleans event. Exact dates, what to expect, and how to plan for large groups."
+title: "New Orleans Festivals & Events 2026–2027: Every Date"
+description: "Exact dates for Mardi Gras 2027, Jazz Fest, Essence, Southern Decadence, and every festival worth planning a group trip around — plus the weekends to book early."
 category: "Events"
 date: 2026-01-14
 permalink: /events/
 ---
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Southern Decadence 2026",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-07",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {"@type": "Place", "name": "French Quarter", "address": {"@type": "PostalAddress", "addressLocality": "New Orleans", "addressRegion": "LA", "addressCountry": "US"}},
+    "description": "Labor Day weekend LGBTQ+ celebration in the French Quarter, anchored by the Sunday parade.",
+    "url": "https://nolagrouptravel.com/events/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Voodoo Music + Arts Experience 2026",
+    "startDate": "2026-10-29",
+    "endDate": "2026-11-01",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {"@type": "Place", "name": "City Park", "address": {"@type": "PostalAddress", "addressLocality": "New Orleans", "addressRegion": "LA", "addressCountry": "US"}},
+    "description": "Halloween-weekend music festival in New Orleans.",
+    "url": "https://nolagrouptravel.com/events/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Mardi Gras 2027",
+    "startDate": "2027-01-29",
+    "endDate": "2027-02-09",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {"@type": "Place", "name": "Citywide parade routes", "address": {"@type": "PostalAddress", "addressLocality": "New Orleans", "addressRegion": "LA", "addressCountry": "US"}},
+    "description": "Carnival parade season climaxing on Fat Tuesday, February 9, 2027. Parades are free and public.",
+    "url": "https://nolagrouptravel.com/events/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Festival",
+    "name": "Essence Festival 2027",
+    "startDate": "2027-07-01",
+    "endDate": "2027-07-04",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {"@type": "Place", "name": "Caesars Superdome and citywide venues", "address": {"@type": "PostalAddress", "addressLocality": "New Orleans", "addressRegion": "LA", "addressCountry": "US"}},
+    "description": "July 4th weekend celebration of Black music and culture, anchored at the Superdome.",
+    "url": "https://nolagrouptravel.com/events/"
+  }
+]
+</script>
 
 New Orleans has more festivals per capita than anywhere in America. Mardi Gras is just the beginning—there's a major event almost every month, and each one transforms the city in different ways.
 
