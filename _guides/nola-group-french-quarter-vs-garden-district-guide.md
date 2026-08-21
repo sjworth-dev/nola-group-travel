@@ -1,6 +1,6 @@
 ---
-title: "French Quarter vs. Garden District: Where Should Your Group Stay?"
-description: "The comparison every first-time group organizer googles. Here's the honest answer for groups of 10 or more—and why the real decision is probably not the one you're framing."
+title: "French Quarter vs Garden District: Where to Stay"
+description: "Party at the center or peace on the streetcar line? The two most famous New Orleans neighborhoods compared for where a group should sleep."
 category: "Planning & Logistics"
 card_title: "French Quarter vs. Garden District"
 card_description: "The comparison every first-time group organizer googles. The honest answer for groups of 10+ is more useful than a simple winner."

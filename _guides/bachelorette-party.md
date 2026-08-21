@@ -1,6 +1,6 @@
 ---
-title: "How to Plan a New Orleans Bachelorette Party"
-description: "Everything you need to plan the perfect New Orleans bachelorette party. Where to stay, what to do, where to eat, and how to coordinate a large group people."
+title: "New Orleans Bachelorette Party: The Full Plan"
+description: "The complete New Orleans bachelorette playbook — where to stay, the dinner that wows, an itinerary that survives Saturday, and what it really costs."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Party"
 card_description: "Everything you need to plan the perfect New Orleans bach party—from where to stay to what to do."

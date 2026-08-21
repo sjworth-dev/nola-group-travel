@@ -1,6 +1,6 @@
 ---
-title: "New Orleans Family Reunion Guide"
-description: "Plan a multi-generational family reunion in New Orleans. Accommodations, activities, and dining for large groups."
+title: "Family Reunion in New Orleans: The Full Playbook"
+description: "How to plan a New Orleans family reunion that works for ages 8 to 80 — where to stay together, group dinners, activities, and a planning timeline."
 category: "Friends & Family"
 card_title: "Family Reunions"
 card_description: "Bring three generations together in one place. Activities and dining that work for everyone."

@@ -1,6 +1,6 @@
 ---
-title: "Lakeview Neighborhood Guide for Groups"
-description: "Lakeview neighborhood guide for large groups visiting New Orleans: lakefront access, City Park adjacency, local restaurants, and the character of one of NOLA's most livable residential neighborhoods."
+title: "Lakeview, New Orleans: A Group's Guide"
+description: "Lakefront sunsets, City Park next door, and blessed quiet — Lakeview is the un-touristy base. What groups gain and give up by staying out here."
 category: "Neighborhoods"
 date: 2026-05-26
 ---

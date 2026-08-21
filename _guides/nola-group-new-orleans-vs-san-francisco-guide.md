@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. San Francisco: Which One Actually Fits Your Group?"
-description: "The West Coast girls-trip debate, settled honestly. Fisherman's Wharf/Mission District landmark-and-nightlife framing vs. a live-music city, lodging (SF's hotel-room market vs. purpose-built villas), California/international dining vs. Creole-Cajun, and the flight-cost-and-hilly-city tradeoff."
+title: "New Orleans vs San Francisco for a Group Trip"
+description: "One costs twice as much; the other doubles down on fun. Food, weather, nightlife, and group logistics compared — with a verdict."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. San Francisco"
 card_description: "Golden Gate photo ops and cable cars, or Frenchmen Street brass bands? The honest comparison for group organizers weighing San Francisco against New Orleans."

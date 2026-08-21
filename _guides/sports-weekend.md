@@ -1,6 +1,6 @@
 ---
-title: "New Orleans Sports Weekend Group Guide"
-description: "Saints gameday, Pelicans games, and sports weekends in New Orleans with large groups. How to do it right—tickets, tailgating, transportation, and where to stay."
+title: "New Orleans Sports Weekend: The Group Guide"
+description: "Saints games, the Superdome, sports bars that hold a crowd, and how to build a full weekend around kickoff with a big group."
 category: "Festivals & Events"
 card_title: "Sports Weekends"
 card_description: "Saints game, Pelicans night, or just a sports-focused group trip to one of the loudest cities in the NFL."

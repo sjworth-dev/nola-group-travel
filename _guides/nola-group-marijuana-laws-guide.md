@@ -1,6 +1,6 @@
 ---
-title: "Is Weed Legal in New Orleans? What Groups Need to Know"
-description: "No, marijuana isn't legal in New Orleans—but small-amount possession is decriminalized. Here's the actual distinction, where public consumption still isn't allowed, and how it plays out differently at a villa vs. a hotel."
+title: "Is Weed Legal in New Orleans? The Real Rules"
+description: "No — but small-amount possession is decriminalized in the city. What that actually means, where the line sits, and what still gets visitors in trouble."
 category: "Planning & Logistics"
 card_title: "Marijuana Laws"
 card_description: "Decriminalized isn't the same as legal. Here's what that actually means for a group trip."

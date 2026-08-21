@@ -1,6 +1,6 @@
 ---
-title: "Getting Around New Orleans with a Large Group"
-description: "Transportation guide for large groups in New Orleans. Streetcars, rideshare math, party buses, bikes, airport transfers, and how to stop spending your trip coordinating Ubers."
+title: "Getting Around New Orleans With a Group"
+description: "Streetcars, rideshares, walking, and the airport run — how a big group moves around New Orleans without losing anyone, with real costs and times."
 category: "Planning & Logistics"
 card_title: "Getting Around"
 card_description: "Streetcars, rideshare math, party buses. How to move large groups without losing anyone."

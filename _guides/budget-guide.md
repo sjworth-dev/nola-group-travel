@@ -1,6 +1,6 @@
 ---
-title: "New Orleans Group Trip Budget Guide"
-description: "What a group trip to New Orleans actually costs. Line-by-line budget breakdowns at three levels—budget, mid-range, and luxury—for groups of 10-30."
+title: "What a New Orleans Group Trip Really Costs"
+description: "Line-by-line budgets for a New Orleans group trip at three spending levels — lodging, food, drinks, transport — with the math done per person."
 category: "Planning & Logistics"
 card_title: "Budget Guide"
 card_description: "What a NOLA group trip actually costs. Line-by-line breakdowns for budget, mid-range, and luxury."

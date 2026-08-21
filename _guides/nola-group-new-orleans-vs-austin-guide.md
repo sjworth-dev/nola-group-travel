@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Austin: Which One Actually Fits Your Group?"
-description: "Live music capital vs. the city that invented American music. An honest comparison for groups of 10 or more covering nightlife, food, lake days vs. villa-pool culture, heat, and large-group rental inventory."
+title: "New Orleans vs Austin for a Group Trip"
+description: "Sixth Street or Frenchmen? Breakfast tacos or beignets? The two loudest good-time cities in the South, compared honestly for big groups."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Austin"
 card_description: "6th Street or Frenchmen Street? The real comparison for group organizers, covering music, food, outdoor activities, villas, and heat."

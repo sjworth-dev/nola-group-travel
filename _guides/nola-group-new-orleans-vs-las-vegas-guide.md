@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Las Vegas: Which One Actually Fits Your Group?"
-description: "The most common bachelorette-and-big-birthday debate, settled honestly. Nightlife structure, lodging, cost, food, and the desert-heat-vs-Gulf-humidity question — a real comparison for groups of 10 or more."
+title: "New Orleans vs Las Vegas for a Group Trip"
+description: "Vegas is engineered fun; New Orleans is the real thing. Costs, logistics, nightlife, and recovery breakfasts compared for bachelor parties and crews."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Las Vegas"
 card_description: "Table service or brass bands? The honest comparison for group organizers weighing the two, covering nightlife, lodging, cost, and climate."

@@ -1,10 +1,10 @@
 ---
-title: "New Orleans Restaurants for Large Groups: The Complete Guide"
-description: "Where to eat in New Orleans with large groups. Organized by neighborhood, occasion, and group size—with booking strategy and the restaurants that actually handle large parties well."
+title: "New Orleans Restaurants That Take Big Groups"
+description: "Where big groups actually get a table in New Orleans — private rooms, buyouts, the famous names worth it, and the booking call that gets you in."
 category: "Food & Drink"
 card_title: "Restaurant Guide"
 card_description: "Where to eat with large groups. The restaurants that handle large groups well—and the ones to skip."
-date: 2026-07-20
+date: 2026-08-20
 ---
 
 Feeding a group of 15 in New Orleans is not hard. Feeding a group of 25 at the right restaurant, without a two-hour wait or a prix-fixe trap, requires knowing where to go.
@@ -133,7 +133,22 @@ Beyond the tourist neighborhoods, there are places locals drive to because they'
 
 ---
 
-## By Occasion
+## Private Dining Rooms for Large Groups
+
+The phrase you want on the phone is "private dining room." New Orleans' grand old restaurants were built for exactly this — big family occasions in their own room, with their own server, on one menu. It solves every large-group problem at once: no shouting across three tables, no split-check chaos, no strangers at elbow distance.
+
+From the restaurants covered above, these are the proven private-room options:
+
+| Restaurant | Neighborhood | What you get | How to book |
+|-----------|--------------|--------------|-------------|
+| Commander's Palace | Garden District | Private dining rooms; large parties handled routinely | Reserve weeks out; months for festival periods |
+| Galatoire's | French Quarter | Private dining upstairs, old-school service | Call for parties of 8+ |
+| Antoine's | French Quarter | Historic private rooms, formal | Call ahead for private rooms |
+| August | CBD | Private dining, polished and corporate-friendly | Book through the restaurant directly |
+
+If every private room in town is taken — festival weekends do that — the fallback is a reserved section at a restaurant from the neighborhood lists above, booked by phone with a manager, not through an app.
+
+## Group Dining by Occasion
 
 ### The Bachelorette Dinner
 
@@ -143,7 +158,7 @@ You want: a beautiful room, good cocktails, and a kitchen that doesn't blink at 
 
 **Avoid:** Anything without a reservation policy for large groups, anywhere on Bourbon Street.
 
-### The Corporate Dinner
+### The Corporate or Team Dinner
 
 You want: private dining or a reserved section, professional service, a good wine list, and ideally the ability to put the whole table on one card.
 

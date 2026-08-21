@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Savannah: The Honest Group-Trip Comparison"
-description: "Both are go-to Southern historic-district picks for a bachelorette or a big girls' trip — and both let you carry a drink down the street. Here's the real comparison for a big group: nightlife hours, food depth, walkability, and large-group rental inventory, with a verdict by trip type."
+title: "New Orleans vs Savannah for a Group Trip"
+description: "Two walkable, haunted, drink-in-hand Southern cities — but they are not interchangeable. Which one fits your crew, settled category by category."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Savannah"
 card_description: "Two Southern cities that both let you drink on the street. The honest comparison for a big group — nightlife, food, walkability, and where you'll actually all sleep."

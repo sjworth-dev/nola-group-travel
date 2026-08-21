@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Atlanta: Which One Actually Fits Your Group?"
-description: "The Southern-hub bachelorette-and-group-trip debate, settled honestly. Upscale lounge scene vs. no-cover live music, lodging, food, and cost — a real comparison for a big group deciding between the two."
+title: "New Orleans vs Atlanta for a Group Trip"
+description: "Atlanta has the flights; New Orleans has the reason to fly. Nightlife, food, cost, and group logistics compared — with a verdict."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Atlanta"
 card_description: "Rooftop lounges or brass bands on the street? The honest comparison for group organizers weighing Atlanta against New Orleans."

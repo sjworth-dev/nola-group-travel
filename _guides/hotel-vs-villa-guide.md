@@ -1,6 +1,6 @@
 ---
-title: "Hotel vs. Private Villa for Large Groups in New Orleans: The Definitive Comparison"
-description: "What a hotel actually gives your group vs. what a private villa gives you — the real math on cost-per-person, the practical differences in group experience, and when each option makes sense for different trip types."
+title: "Hotel vs Villa for a New Orleans Group Trip"
+description: "Room block or one big house? The honest math on cost, togetherness, and logistics — and the group sizes where each option genuinely wins."
 category: "Planning & Logistics"
 card_title: "Hotel vs. Villa"
 card_description: "The actual math, the real differences, and when each option makes sense for your group."

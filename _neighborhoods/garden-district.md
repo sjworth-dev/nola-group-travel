@@ -1,6 +1,6 @@
 ---
-title: "The Garden District: New Orleans' Most Beautiful Neighborhood"
-description: "The Garden District is New Orleans at its most visually stunning. Antebellum mansions, Lafayette Cemetery, Commander's Palace, and Magazine Street—all within walking distance. Group travel guide."
+title: "Garden District, New Orleans: Group Guide"
+description: "Mansions, oaks, and the streetcar line — the Garden District is the postcard. How a big group does it right: what to see, where to eat, whether to stay."
 category: "Neighborhoods"
 date: 2026-05-22
 ---

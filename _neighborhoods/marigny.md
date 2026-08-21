@@ -1,6 +1,6 @@
 ---
-title: "The Marigny: Frenchmen Street and New Orleans' Best Live Music Neighborhood"
-description: "The Faubourg Marigny is where New Orleans' real music scene lives. Group travel guide to Frenchmen Street, where to eat, and why staying next door in the Bywater makes everything easier."
+title: "The Marigny, New Orleans: A Group's Guide"
+description: "Frenchmen Street's live music, Creole cottages, and locals' bars one neighborhood off the Quarter. Why groups base here and what to know first."
 category: "Neighborhoods"
 date: 2026-05-22
 ---

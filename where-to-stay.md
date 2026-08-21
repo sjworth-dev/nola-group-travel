@@ -1,7 +1,7 @@
 ---
 layout: guide
-title: "Where to Stay in New Orleans With Large Groups"
-description: "Finding accommodations for a big group in New Orleans is hard—most rentals cap at 10. Every real option, compared honestly: villas, whole houses, group suites, and hotels."
+title: "Where Big Groups Can Actually Stay in New Orleans"
+description: "Most rentals cap at ten. Every real option for a big group — whole-house villas, guesthouses, suite hotels, and room blocks — compared honestly."
 category: "Accommodations"
 date: 2026-07-07
 permalink: /where-to-stay/

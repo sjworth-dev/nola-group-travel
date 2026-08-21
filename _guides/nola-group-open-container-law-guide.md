@@ -1,6 +1,6 @@
 ---
-title: "New Orleans Open Container Law: What Groups Need to Know"
-description: "Can you drink on the street in New Orleans? Yes—here's the actual rule: plastic cups only, where it applies, where it doesn't, and how it changes group bar-crawl and pool-day logistics."
+title: "New Orleans Open Container Rules, Explained"
+description: "Yes, you can walk with a drink — in a plastic cup, in the right places. The actual rules, the exceptions, and the mistakes that draw a ticket."
 category: "Planning & Logistics"
 card_title: "Open Container Law"
 card_description: "Yes, you can drink on the street. Here's the actual rule, not the rumor."

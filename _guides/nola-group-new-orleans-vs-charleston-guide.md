@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Charleston: The Real Comparison for Group Trips"
-description: "Both cities show up on every bachelorette and girls-trip shortlist. Here's the honest comparison for groups of 10 or more — music, food, villa inventory, nightlife hours, and heat — with real verdicts by trip type."
+title: "New Orleans vs Charleston for a Group Trip"
+description: "Charleston is prettier at brunch; New Orleans is better at midnight. Cost, food, nightlife, and logistics compared for a crew traveling together."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Charleston"
 card_description: "Two historic Southern cities, two very different group trips. Here's the honest comparison covering music, food, villas, and nightlife."

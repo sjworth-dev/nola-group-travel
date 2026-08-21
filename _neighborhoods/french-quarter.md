@@ -1,6 +1,6 @@
 ---
-title: "The French Quarter: A Group Travel Guide"
-description: "The French Quarter is New Orleans' most iconic neighborhood. What's worth your time, what to skip, and how to navigate it with a large group."
+title: "French Quarter With a Group: The Honest Guide"
+description: "The Quarter is where you go out, not necessarily where you sleep. What works for big groups, what's tourist bait, and the blocks worth your night."
 category: "Neighborhoods"
 date: 2026-05-22
 ---

@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Memphis: The Honest Group-Trip Comparison"
-description: "Two Deep South music cities with their own open-container strips, deep BBQ-vs-Creole food identities, and completely different nightlife clocks. Here's the real comparison for a big group deciding between them — music depth, food range, walkability, and large-group rental inventory, with a verdict by trip type."
+title: "Memphis or New Orleans? The Group-Trip Verdict"
+description: "Blues and barbecue vs brass and Creole. Both are music cities you can afford — here's which one fits your group, settled category by category."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Memphis"
 card_description: "Beale Street or Frenchmen Street? The honest comparison for a music-first group — heritage, BBQ vs. Creole, nightlife hours, and where the whole crew actually sleeps."

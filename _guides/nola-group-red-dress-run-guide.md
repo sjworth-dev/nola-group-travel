@@ -1,6 +1,6 @@
 ---
 title: "Red Dress Run New Orleans: The Group Guide"
-description: "How to run the Red Dress Run with a big group — the Hash House Harriers charity fun-run/bar crawl through the French Quarter and Marigny where everyone wears a red dress, held every August. Format, dress code, and how to plan around it."
+description: "How to do the Red Dress Run with the whole crew — registration, rally points, and keeping twenty people together at the city's reddest charity fun run."
 category: "Festivals & Events"
 card_title: "Red Dress Run"
 card_description: "New Orleans' August charity fun-run where everyone — every gender — wears a red dress. Format, route, dress code, and how to run it with a big group."

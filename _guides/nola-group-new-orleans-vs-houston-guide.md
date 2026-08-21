@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Houston: Which One Actually Fits Your Group?"
-description: "The Gulf Coast girls-trip and bachelorette debate, settled honestly. Washington Avenue and Montrose bars vs. a live-music city, lodging (Houston's hotel/short-term-rental market vs. purpose-built villas), Houston's genuinely diverse food scene vs. Creole-Cajun tradition, and the short-regional-drive tradeoff."
+title: "New Orleans vs Houston for a Group Trip"
+description: "One is a city you visit, the other is a city you live in. Food, nightlife, cost, and logistics compared for group trips — with a clear verdict."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Houston"
 card_description: "Montrose bar crawl or Frenchmen Street brass band? The honest comparison for group organizers weighing Houston against New Orleans."

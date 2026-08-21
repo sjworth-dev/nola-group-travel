@@ -1,6 +1,6 @@
 ---
-title: "New Orleans vs. Chicago: Which One Actually Fits Your Group?"
-description: "The major-city girls-trip debate, settled honestly. Deep-dish and River North nightlife vs. a live-music city, lodging (Chicago's hotel-room market vs. purpose-built villas), food and drink culture, and the lake-city-in-winter vs. Gulf-city-in-winter tradeoff."
+title: "New Orleans vs Chicago for a Group Trip"
+description: "Big-shoulders food city or the 24-hour party in the swamp? Weather, cost, walkability, and nightlife compared — with a verdict for group trips."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Chicago"
 card_description: "River North rooftop or Frenchmen Street? The honest comparison for group organizers weighing Chicago against New Orleans."

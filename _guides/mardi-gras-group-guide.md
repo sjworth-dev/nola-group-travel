@@ -1,6 +1,6 @@
 ---
-title: "Mardi Gras Group Guide: Planning for Large Groups"
-description: "The complete logistics guide for bringing a large group to New Orleans for Mardi Gras. Parades, accommodation, transportation, and everything that goes wrong when you don't plan."
+title: "Mardi Gras 2027 With a Group: The Survival Plan"
+description: "Fat Tuesday is February 9, 2027. Parade strategy, where to stand, where to sleep, what it costs, and how a big group does Carnival right."
 category: "Festivals & Events"
 card_title: "Mardi Gras"
 card_description: "The biggest party in America. Here's how to do it right with large groups."

@@ -1,6 +1,6 @@
 ---
-title: "NOLA Neighborhood Comparison for Group Trips: Bywater vs. Marigny vs. Lower Garden District vs. French Quarter"
-description: "Side-by-side comparison of the four main bases for large group trips to New Orleans: Bywater, Marigny, Lower Garden District, and French Quarter. Covers nightlife access, food density, walking character, noise levels, and accommodation options for groups of 10-30."
+title: "New Orleans Neighborhoods, Compared for Groups"
+description: "French Quarter, Marigny, Garden District, Bywater and beyond — where a big group should actually base, compared on noise, walkability, and beds."
 category: "Planning & Logistics"
 card_title: "NOLA Neighborhood Comparison for Groups"
 card_description: "The neighborhood you base your group trip in shapes everything else about the trip. Bywater, Marigny, Lower Garden District, and French Quarter each have a different answer for groups of 10-30. Here's the honest breakdown."
