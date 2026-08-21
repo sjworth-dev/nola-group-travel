@@ -82,7 +82,7 @@ In the Refresh step, take the TOP unchecked item here instead of the oldest-date
 - [ ] `_guides/nola-group-neighborhood-comparison-guide.md` — #16.8, 79 impr. Refresh, and weave links to it from the individual neighborhood pages during their refreshes.
 - [ ] `_guides/budget-guide.md` — #8.1, 69 impr. Verify every number; freshness matters on cost content.
 - [ ] `_guides/nola-group-new-orleans-vs-savannah-guide.md` — best vs page (#7.4, 350 impr). Refresh dates/facts, tighten the verdict, cross-link the other top vs pages.
-- [ ] `_guides/bachelorette-party.md` — highest-value occasion query, currently #62. Deep rebuild toward best-on-internet: a real hour-by-hour itinerary, current costs, booking scripts. Expect slow rank gains; do the work anyway.
+- [x] (done Aug 20 2026, by hand — deep rebuild) `_guides/bachelorette-party.md` — highest-value occasion query, currently #62. Deep rebuild toward best-on-internet: a real hour-by-hour itinerary, current costs, booking scripts. Expect slow rank gains; do the work anyway.
 - [ ] `_guides/bachelor-party.md` — same treatment, currently #27.
 
 Done Aug 20 2026 (by Sam's direction, outside the bot): sitewide title/description rewrite on the 30 pages with impressions; `/events/` retitled with Event JSON-LD; restaurant-guide private-dining section; corporate-retreat venue-heading rewrite; `/about/` editorial-policy page; `/privacy/` page.
