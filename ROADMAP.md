@@ -71,19 +71,38 @@ The Aug 5 blanket freeze has evolved, not lifted. **The bot still never chooses 
 
 **Why the change.** Search Console connected Aug 5 2026 and now has real data (28d to Aug 19: 98 clicks, 9,460 impressions, avg position 14.3, 339 pages with impressions). The data says the site's problem is not missing pages — it's existing pages sitting at positions 8–20 and titles that don't earn the click. So the work is refresh-for-rank and titles, not volume. The vs-city template retirement stands for *bot-generated* pages; note however that the existing vs-city pages are among the site's best rankers (#5–8 for "new orleans vs savannah/chicago/memphis" etc.), so refreshing them is high-value work.
 
+### Search Strategy: Top of Funnel First (directive, Aug 20 2026)
+
+This site competes at the TOP of the funnel — the searches people type before or just after they pick New Orleans, while the trip is still an idea and one organizer is doing all the googling. That is where an independent editorial guide can win (booking sites own the accommodation-booking queries), and per Search Console it is where the site's best rankings already are.
+
+Funnel definitions for this site:
+
+- **Top — build here:** city-choice comparisons ("nashville or new orleans", "savannah vs new orleans" — note real queries come in BOTH phrasing directions); is-New-Orleans-right-for-X questions; dates/season/festival queries ("new orleans festivals 2027", "best time to visit new orleans"); occasion head terms and early-planning queries ("new orleans bachelorette party", "bachelor party itinerary", "guys trip planner", "how far ahead should i book").
+- **Mid — maintain, don't chase:** where-to-stay, neighborhoods, group dining, corporate venues.
+- **Bottom / in-trip — lowest priority:** transportation, logistics, laws. Keep the law guides sharp (they draw real impressions) but new investment goes up-funnel.
+
+Practical meaning: the Search Refresh Queue below is ordered top-of-funnel first — work it strictly top-down. Interlink passes favor top-of-funnel pages. Any future Up Next item should target a top-of-funnel query unless a human explicitly says otherwise.
+
+The Aug 20 2026 GSC read behind this (28d): vs-city pages rank #5–8 with meaningful impressions (Savannah ~56 across phrasings, Chicago ~38, Charleston ~28, Vegas ~11) but near-zero clicks — a title/snippet problem on the site's best asset. The bachelorette cluster is the biggest gap: ~230 impressions across "new orleans bachelorette …" variants, all at positions 48–71. Bachelor cluster ~90 impressions at #24–49. Events/2027-dates queries are the site's strongest performers (#5.9 with actual clicks) and are also top-of-funnel — people picking dates.
+
 ### Search Refresh Queue (replaces oldest-first refresh while items remain)
 
-In the Refresh step, take the TOP unchecked item here instead of the oldest-dated guide. Check it off (`[x]` + date) when done. A human refills this queue from Search Console data; the bot never adds to it.
+In the Refresh step, take the TOP unchecked item here instead of the oldest-dated guide. Check it off (`[x]` + date) when done. A human refills this queue from Search Console data; the bot never adds to it. The queue is ordered top-of-funnel first per the Search Strategy section — never reorder it.
 
 - [x] (done Aug 20 2026, by hand) `_guides/nola-group-marijuana-laws-guide.md` — queries "is weed legal in new orleans" (#10, 89 impr/28d), "can you smoke weed in new orleans" (#11). Open with a 2–3 sentence direct answer (the featured-snippet shape: verdict first, nuance after). Verify every legal claim is current for 2026; keep question-format H2s.
 - [x] (done Aug 20 2026, by hand) `_guides/nola-group-open-container-law-guide.md` — "new orleans open container" cluster (#8.8, 251 impr). Same direct-answer-first treatment; verify current rules.
-- [ ] `_neighborhoods/lakeview.md` — #9.5 with 192 impr, nearly page 1. Refresh facts, add 3+ inline links to/from related guides (City Park, family-reunion, quiet-base themes).
-- [ ] `_guides/transportation-guide.md` — "getting around new orleans" (#37.6, 40 impr). Restructure the intro and H2s around that exact phrase; verify streetcar fares and airport-transfer costs.
-- [ ] `_guides/nola-group-neighborhood-comparison-guide.md` — #16.8, 79 impr. Refresh, and weave links to it from the individual neighborhood pages during their refreshes.
-- [ ] `_guides/budget-guide.md` — #8.1, 69 impr. Verify every number; freshness matters on cost content.
-- [ ] `_guides/nola-group-new-orleans-vs-savannah-guide.md` — best vs page (#7.4, 350 impr). Refresh dates/facts, tighten the verdict, cross-link the other top vs pages.
 - [x] (done Aug 20 2026, by hand — deep rebuild) `_guides/bachelorette-party.md` — highest-value occasion query, currently #62. Deep rebuild toward best-on-internet: a real hour-by-hour itinerary, current costs, booking scripts. Expect slow rank gains; do the work anyway.
-- [ ] `_guides/bachelor-party.md` — same treatment, currently #27.
+- [ ] `_guides/nola-group-new-orleans-vs-savannah-guide.md` — best vs page (#5–6, ~56 impr/28d across both phrasing directions). Refresh dates/facts, tighten the verdict, make sure title/H2s read for both "new orleans vs savannah" AND "savannah vs new orleans", add a short bachelorette-verdict paragraph, cross-link the other top vs pages.
+- [ ] `_guides/nola-group-new-orleans-vs-chicago-guide.md` — #6–7, ~38 impr/28d. Same treatment as the Savannah page.
+- [ ] `_guides/nola-group-new-orleans-vs-charleston-guide.md` — #6.6–8.6, ~28 impr/28d. Same treatment.
+- [ ] `_guides/nola-group-new-orleans-vs-nashville-guide.md` — ranks #6 but only ~2 impr/28d. Nashville is the single biggest rival city for bachelorette groups, so impressions this low mean the page isn't matching how people actually phrase the choice ("nashville or new orleans", "new orleans or nashville which is better"). Rework title, intro, and H2s around the choice framing, with an explicit bachelorette verdict.
+- [ ] `_guides/nola-group-new-orleans-vs-las-vegas-guide.md` — #7.6, ~11 impr/28d. Same treatment as the Savannah page.
+- [ ] `_guides/bachelor-party.md` — same deep-rebuild treatment as bachelorette (~90 impr/28d across variants, positions #24–49; itinerary/planner long-tail queries visible in GSC).
+- [ ] `_guides/nola-group-best-time-to-visit-guide.md` — ZERO impressions in 28d = effectively not ranking for "best time to visit new orleans" or any month query, on a pure top-of-funnel topic. Rebuild month-by-month with verdicts per the Seasonality section; front-load the search phrase in the title.
+- [ ] `_neighborhoods/lakeview.md` — mid-funnel. #9.5 with 192 impr, nearly page 1. Refresh facts, add 3+ inline links to/from related guides (City Park, family-reunion, quiet-base themes).
+- [ ] `_guides/nola-group-neighborhood-comparison-guide.md` — mid-funnel. #16.8, 79 impr. Refresh, and weave links to it from the individual neighborhood pages during their refreshes.
+- [ ] `_guides/budget-guide.md` — mid-funnel. #8.1, 69 impr. Verify every number; freshness matters on cost content.
+- [ ] `_guides/transportation-guide.md` — in-trip. "getting around new orleans" (#37.6, 40 impr). Restructure the intro and H2s around that exact phrase; verify streetcar fares and airport-transfer costs.
 
 Done Aug 20 2026 (by Sam's direction, outside the bot): sitewide title/description rewrite on the 30 pages with impressions; `/events/` retitled with Event JSON-LD; restaurant-guide private-dining section; corporate-retreat venue-heading rewrite; `/about/` editorial-policy page; `/privacy/` page.
 
@@ -97,7 +116,7 @@ The site has 300+ guides. A new page only earns its place if real people search 
 2. **NOLA-specific** — the answer must depend on New Orleans (neighborhoods, venues, seasons, laws, festivals). Generic group-travel advice ("managing group texts", "hot tub etiquette", "leftover food") is banned — it has no search demand tied to this site and dilutes topical authority.
 3. **Not already covered** — search `_guides/` for overlapping slugs/titles first. If an existing guide covers 70%+ of it, refresh/expand that guide instead (commit prefix `expand:`).
 
-Prioritize, in order: (a) occasion + NOLA head terms, (b) seasonal/event queries with dates, (c) "X vs Y" comparison queries, (d) specific question queries ("can you drink on the street in new orleans"). Villa-life micro-topics are capped: the category is full; add nothing more to it without an explicit human request.
+Prioritize, in order (top-of-funnel first, per the Search Strategy section): (a) city-choice / "X vs Y" comparison queries, (b) occasion + NOLA head terms and early-planning queries (itinerary, planner, how-far-ahead), (c) seasonal/event queries with dates, (d) specific question queries ("can you drink on the street in new orleans"). Villa-life micro-topics are capped: the category is full; add nothing more to it without an explicit human request.
 
 ## Title & Snippet Conventions (set Aug 20 2026 — follow on every page touched)
 
@@ -166,7 +185,7 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 3. Read 2–3 existing `_guides/*.md` files to match voice exactly before writing
 4. **New content — only from `## Up Next`.** If Up Next has an active human-added item, write that page (top item first), following the Content Structure section. If Up Next is empty — the normal state — write nothing new and do not substitute any other kind of new page.
 5. **Refresh (1 page/run):** take the TOP unchecked item in the Search Refresh Queue (in the New Pages section above); only when that queue is fully checked off, fall back to the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references (including specific festival year/date ranges — Mardi Gras, Jazz Fest, etc.), add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`. **Event dates: check against `_data/nola_calendar.yml`** (maintained calendar data, regenerated in place — never edit it): `confidence: exact` dates are reliable computed dates (Carnival parades float with Easter — never assume last year's date); `announced`/`typical` ones get a quick online check before the guide names a specific date.
-6. **Interlink (1 pass/run):** pick one high-value older guide (occasion or event guides first) and weave inline links to newer related guides into its body where they help the reader. Commit as `seo:`.
+6. **Interlink (1 pass/run):** pick one high-value older guide (top-of-funnel pages first: vs-city, occasion, event/date guides) and weave inline links to newer related guides into its body where they help the reader. Commit as `seo:`.
 7. **Property balance sweep (3 pages/run):** per the Property Balance directive above — pick 3 pages naming Castleday or The Syd, reduce/neutralize per the rules, commit as `fix:`.
 8. **Backlog — humans only.** Never add active items to `## Up Next` or the Search Refresh Queue. If you notice something genuinely worth writing, add it as an HTML comment under `## Up Next` prefixed `PARKED:` — never as an active item.
 9. Commit prefixes: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
