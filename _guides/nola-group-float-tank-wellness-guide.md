@@ -3,8 +3,8 @@ title: "Float Tanks, Cryo & Recovery Wellness for NOLA Groups"
 description: "Float tanks, cryotherapy, and recovery wellness experiences for groups coming off a hard night in New Orleans: booking logistics, the Day 2 recovery structure, and how to sequence wellness into a party trip."
 category: "Activities & Day Trips"
 card_title: "Float Tanks & Recovery Wellness"
-card_description: "Float tanks, cryo, and recovery wellness experiences for groups of 8-20 — how to build a Day 2 recovery structure and sequence wellness into a New Orleans party trip."
-date: 2026-06-14
+card_description: "Float tanks, cryo, and recovery wellness experiences for the whole crew — how to build a Day 2 recovery structure and sequence wellness into a New Orleans party trip."
+date: 2026-08-21
 ---
 
 Day 2 in New Orleans is a specific problem. The city is built for staying out until 3am. The heat, the walking, the back-to-back late nights — by the second morning, half your group is wrecked, and the only plan anyone can execute is lying horizontal near a pool. That's fine, and sometimes that's the right answer. But for groups who want to actually recover and come back for a second strong night, intentional wellness makes a measurable difference.
@@ -27,7 +27,7 @@ This guide covers what works, what's available in NOLA, how to structure it, and
 - [ ] The villa kitchen is a recovery tool: stock it with eggs, yogurt, fruit, and electrolyte drinks on arrival
 - [ ] Schedule recovery activities for mid-morning (10am-noon), not early morning — groups won't make a 7am yoga class on Day 2
 - [ ] For groups with a mix of "I need real recovery" and "I'm totally fine," build a parallel track: wellness crew and pool crew reunite for brunch or lunch
-- [ ] Check whether your villa has a hot tub or sauna — the built-in recovery infrastructure at The Syd changes the calculus considerably
+- [ ] Check whether your villa has a hot tub — built-in pool and hot tub infrastructure changes the recovery-day calculus considerably
 
 ---
 
@@ -41,7 +41,7 @@ Here's what actually helps after a long NOLA night:
 
 **Controlled cold reduces inflammation.** Ice baths, cold plunges, and cryotherapy all do the same basic thing: vasoconstriction followed by vasodilation as the body rewarms, flushing metabolic waste and reducing systemic inflammation. A two-minute cryo session or a 10-minute cold plunge achieves this.
 
-**Controlled heat after cold is the combination.** Sauna after cold therapy accelerates the recovery cycle. If your villa has a sauna (The Syd has one), the cold-to-hot sequence is a complete in-house recovery protocol.
+**Controlled heat after cold is the combination.** Sauna after cold therapy accelerates the recovery cycle. If your villa has a sauna, the cold-to-hot sequence is a complete in-house recovery protocol — otherwise, an infrared sauna session at a wellness center (below) does the same job.
 
 **Sleep is the one thing that can't be replaced.** If half the group was up until 4am, there's no supplement or experience that replaces the hour of sleep they didn't get. Build morning rest time into the recovery day structure — don't schedule the first thing until 10am.
 
@@ -107,7 +107,7 @@ Infrared saunas heat the body directly (as opposed to traditional saunas that he
 
 **For group wellness:** Infrared sauna rooms that hold 4-8 people exist at some NOLA wellness centers. They're one of the more group-friendly recovery tools because multiple people can share a session. Combined with cold therapy — a cold plunge or pool before or after — the sauna amplifies the recovery effect.
 
-**At The Syd:** The shared sauna is included for guests. This changes the recovery day structure significantly — you don't need to book or transport a group anywhere. The cold-to-hot protocol (pool cold plunge → sauna → heated pool recovery) is available in-house.
+**If your villa has a sauna:** Confirm it before you book, don't assume it from a listing photo. A villa with a real in-house sauna changes the recovery day structure significantly — the cold-to-hot protocol (pool cold plunge → sauna → heated pool recovery) is available without booking or transporting anyone.
 
 ---
 
@@ -212,8 +212,8 @@ For groups who didn't wreck themselves on Night 1 and want wellness as enrichmen
 | Infrared sauna | Medium (4-8 per room) | 30-45 min | $ | Small-group sessions; best paired with cold |
 | Mobile massage (in-villa) | High (multiple therapists) | 60-90 min/person | $$-$$$ | Full-group morning; scales with therapist count |
 | Group yoga | High (private class) | 60-90 min | $ | Active recovery; whole group together |
-| Villa pool + sauna (The Syd) | Full group | Flexible | Included | At-home recovery baseline, no booking needed |
-| Villa private pool (Castleday) | Full group | Flexible | Included | Pool-only recovery; fully private |
+| Villa pool + hot tub (shared-amenity villas) | Full group | Flexible | Included | At-home recovery baseline, no booking needed |
+| Villa private pool (single-structure villas) | Full group | Flexible | Included | Pool-only recovery; fully private |
 
 ---
 
@@ -227,7 +227,7 @@ The food culture in NOLA is genuinely useful for recovery. A few specific notes:
 
 **The crawfish boil situation:** Groups doing a villa crawfish boil on Day 3 or 4 often find it's the best-feeling day of the trip. The combination of protein, sodium from the seasoning, and the physical act of peeling and eating slowly forces the group to rehydrate and consume substance. It's accidental recovery nutrition.
 
-**Coconut water availability:** Gas stations and corner stores throughout NOLA stock coconut water. Build a run into the group's Day 1 grocery stop — it costs almost nothing and changes Day 2 meaningfully.
+**Coconut water availability:** Gas stations and corner stores throughout NOLA stock coconut water. Build a run into the group's [Day 1 grocery stop](/guides/group-grocery-cooking-guide/) — it costs almost nothing and changes Day 2 meaningfully.
 
 ---
 
@@ -245,23 +245,22 @@ The food culture in NOLA is genuinely useful for recovery. A few specific notes:
 
 6. **Build a parallel track for Day 2.** Not everyone needs the same recovery format. The wellness track (float, cryo, yoga) and the pool track (sleep in, float in the water, eat at the outdoor kitchen) should exist simultaneously with a clear reunion point. Forcing everyone onto one track creates resentment from the people who wanted the other.
 
-7. **Infrared sauna plus cold pool is available in-house at The Syd.** If you're staying at The Syd, the sauna-pool recovery protocol costs nothing and requires no booking. Two rounds of 15 minutes in the sauna followed by 5 minutes in the heated pool (which you can cool with cold water if needed) is a complete recovery session. Factor this into the decision about whether you need to book external wellness experiences at all.
+7. **Check for an in-house sauna before you book external wellness.** A handful of shared-amenity villas include a real sauna alongside the pool — if yours does, two rounds of 15 minutes in the sauna followed by 5 minutes in the heated pool is a complete recovery session, no booking required. Confirm the amenity directly with the property; don't assume it from a listing photo.
 
 ---
 
-## The 15-30 Person Property Setup for Recovery Days
+## The Property Setup for Recovery Days
 
 Where you stay is the foundation of a functional recovery day. The in-property amenities determine how much logistical coordination is actually required.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths for up to 30 guests. The private pool at each villa is the recovery day anchor — a full day at the pool with no strangers, no hotel policy about outside food, and no time limit is genuinely different from a hotel experience. The multiple bedrooms mean everyone can sleep as late as they need without the group being held to one schedule. The full kitchen supports the recovery nutrition approach: someone runs to the corner store, someone makes eggs, someone handles the Pedialyte situation. Castleday's 4.98 average across 99 reviews reflects, in part, that the group experience holds up well even on the slow days. For mobile massage: with 12 rooms, you have enough dedicated space to run 4-5 simultaneous therapist sessions.
+Bywater villas like Castleday Retreats put the group in one private structure with its own pool — a full day at the pool with no strangers, no hotel policy about outside food, and no time limit is genuinely different from a hotel experience. The multiple bedrooms mean everyone can sleep as late as they need, and with a dozen rooms there's enough dedicated space to run several simultaneous mobile-massage sessions. The Syd's shared heated pool and hot tub in the Lower Garden District work well for groups where the social side of recovery matters as much as the rest — everyone drifting in and out of the same pool rather than each sleeping in on their own. Confirm any additional amenity (sauna, outdoor kitchen) directly with whichever property you book; don't assume it from a listing photo. Heirloom's large-format homes are worth checking too, especially for a short-notice booking.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every interior designed by local New Orleans artists. The Syd is the better property for groups with an active wellness recovery goal: the shared heated pool, hot tub, sauna, and outdoor kitchen constitute a complete in-house wellness facility. The sauna-to-cold-therapy-to-hot-pool recovery sequence doesn't require leaving the property. The outdoor kitchen means recovery meals happen in the same space as recovery activities — there's no coordination logistics of getting 20 people to a brunch spot. For groups where wellness is an explicit part of the trip (not just Day 2 rescue), The Syd's infrastructure delivers it without an external booking.
-
-Both properties are fully private — no shared elevator with strangers while someone in your group is wearing compression socks and looking rough, no judgment, no checkout time pressure on a recovery morning. The property is yours for the stay.
+Whichever shape fits, a private property beats a hotel for a recovery day specifically: no shared elevator with strangers while someone in your group is wearing compression socks and looking rough, no judgment, no checkout time pressure on a slow morning. The [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers stocking the house before Day 1 so the recovery infrastructure is already there when you need it.
 
 ---
 
 ## Book Your Recovery-Ready NOLA Base
 
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms for full rest and mobile massage setup, full kitchen for recovery nutrition
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool + hot tub + sauna, outdoor kitchen, artist-designed interiors — the complete in-house wellness recovery property
+For the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
