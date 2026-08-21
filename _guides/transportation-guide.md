@@ -4,12 +4,12 @@ description: "Streetcars, rideshares, walking, and the airport run — how a big
 category: "Planning & Logistics"
 card_title: "Getting Around"
 card_description: "Streetcars, rideshare math, party buses. How to move large groups without losing anyone."
-date: 2026-07-19
+date: 2026-08-20
 ---
 
-Transportation is where group trips fall apart. Someone's always waiting. The Uber math doesn't work. You spend 20 minutes coordinating cars to go somewhere 10 minutes away.
+**The short answer:** getting around New Orleans is walking plus a $1.25 streetcar plus rideshares — in that order. The core neighborhoods are flat and closer together than the map suggests, the streetcar covers the St. Charles and Canal corridors for pocket change ($3 buys an unlimited day pass), and rideshares fill the gaps. A big group adds two wrinkles: the airport run needs a plan, and a night out for the whole crew is charter-van math, not five-Ubers math.
 
-New Orleans is actually a good city for groups. It's flat, it's compact, and it has a working streetcar system that costs $1.25. If you plan transportation right, you'll spend almost no time thinking about it. If you don't plan, you'll spend the whole trip in a group chat arguing about who's paying for the surge.
+Transportation is where group trips fall apart. Someone's always waiting. The Uber math doesn't work. You spend 20 minutes coordinating cars to go somewhere 10 minutes away. If you plan it right, you'll spend almost no time thinking about it. If you don't, you'll spend the whole trip in a group chat arguing about who's paying for the surge.
 
 ## Quick Checklist
 
@@ -22,9 +22,9 @@ New Orleans is actually a good city for groups. It's flat, it's compact, and it 
 
 ---
 
-## Getting From the Airport
+## Getting From the Airport (MSY) Into New Orleans
 
-Louis Armstrong New Orleans International Airport (MSY) is about 15 miles west of downtown. It's not walkable or Streetcar-accessible from downtown. You need a plan.
+Louis Armstrong New Orleans International Airport (MSY) is about 15 miles west of downtown. It's not walkable or streetcar-accessible from downtown. You need a plan.
 
 ### Options
 
@@ -36,7 +36,7 @@ Cost: Roughly $35-55 per car under normal conditions. Multiply by number of cars
 
 **Taxi**
 
-Still operates in New Orleans. Taxis are licensed, metered, and consistent. For groups traveling in pairs or small clusters, taxis from the airport are reliable. The taxi staging area at MSY is clearly marked.
+The underrated airport option, because the price is set by the city: a **flat $36 from MSY to downtown for one or two passengers, or $15 per person for three or more**. No meter anxiety, no surge. Four people in one cab is $60, guaranteed, which routinely beats a surged rideshare. The taxi staging area at MSY is clearly marked.
 
 **Pre-arranged van or shuttle**
 
@@ -60,13 +60,13 @@ For groups of 20-30, chartering a vehicle for airport pickup is efficient and so
 
 ---
 
-## The Streetcar
+## Getting Around New Orleans by Streetcar
 
 The St. Charles Streetcar is one of the oldest continuously operating streetcar lines in the world, and it's a legitimate mode of transport — not just a tourist attraction.
 
 ### The Lines
 
-**St. Charles Line:** Runs from Canal Street through the Central Business District, up St. Charles Avenue through the Garden District, and out to Carrollton/Uptown. This is the most useful line for visitors. One block from The Syd in the Lower Garden District.
+**St. Charles Line:** Runs from Canal Street through the Central Business District, up St. Charles Avenue through the Garden District, and out to Carrollton/Uptown. This is the most useful line for visitors, and it skirts the Lower Garden District — one reason that neighborhood works so well as a group base.
 
 **Canal Street Line:** Runs along Canal Street from the river into Mid-City. Connects to the French Quarter area at the river end.
 
@@ -76,9 +76,7 @@ The St. Charles Streetcar is one of the oldest continuously operating streetcar 
 
 A full group doesn't fit on one car at once during peak hours. Plan for 2-3 boarding attempts, or use the streetcar for 2-4 people at a time while the rest walk or rideshare.
 
-**Jazzy Pass:** A reloadable transit card that works on all streetcar lines and buses. For a multi-day trip, loading a card is faster than paying per ride.
-
-**Cash:** If you don't have a card, exact change required — $1.25 per ride. Drivers don't make change.
+**Fares:** A single ride is **$1.25** (exact change — operators don't make change). The better move for a multi-day trip is a **Jazzy Pass**: $3 for one day, $9 for three days, $15 for five, unlimited rides on every streetcar, bus, and ferry. Buy it in the Le Pass app or at ticket machines at major stops — the app version means twenty people don't need twenty exact-change moments.
 
 **Travel time:** The St. Charles line is slow. It stops at every block. Plan 30-45 minutes to get from the Lower Garden District to Canal Street — longer during rush hour or Mardi Gras season. It's beautiful and comfortable. It's not fast.
 
@@ -86,9 +84,9 @@ A full group doesn't fit on one car at once during peak hours. Plan for 2-3 boar
 
 ---
 
-## Rideshare (Uber/Lyft)
+## Getting Around New Orleans by Rideshare
 
-Works well in New Orleans during normal conditions. Several important caveats for large groups:
+Uber and Lyft work well in New Orleans during normal conditions. Several important caveats for large groups:
 
 ### The Math Problem
 
@@ -151,7 +149,7 @@ New Orleans is unusually bikeable for a Southern city. It's flat, the neighborho
 
 Biking through the Bywater, the Garden District, or along Esplanade Avenue reveals a version of the city you don't see from a car window. Many of the best blocks in New Orleans are residential — the architecture, the front porches, the overgrown gardens — and biking lets you move through them at a pace that makes sense.
 
-**Neutral Ground Bike Share (Blue Bikes):** Docked and dockless bike share available throughout the city. Reasonable day rates. Good for individuals and pairs, but coordinating 15 bikes takes time.
+**Blue Bikes (the city's bike share):** Stations throughout the core neighborhoods, reasonable day rates. Good for individuals and pairs, but coordinating fifteen bikes takes time.
 
 **Rental shops:** Several shops in the Quarter, Marigny, and elsewhere rent bikes by the day. For a group, call ahead to reserve enough bikes.
 
@@ -163,7 +161,7 @@ Biking through the Bywater, the Garden District, or along Esplanade Avenue revea
 
 ---
 
-## Walking
+## Getting Around New Orleans on Foot
 
 Do it more than you think you will.
 
@@ -173,9 +171,9 @@ New Orleans' core neighborhoods are closer together than they look on a map. The
 
 | From | To | Walk Time |
 |------|-----|-----------|
-| Lower Garden District (The Syd) | French Quarter | 15-20 min |
+| Lower Garden District | French Quarter | 15-20 min |
 | Lower Garden District | Warehouse District | 10-15 min |
-| Bywater (Castleday) | Frenchmen Street | 10-15 min |
+| Bywater | Frenchmen Street | 10-15 min |
 | Bywater | French Quarter | 25-30 min |
 | French Quarter | Frenchmen Street | 5-10 min |
 | Garden District | Commander's Palace | 5 min |
@@ -231,7 +229,7 @@ For groups of 15+, chartering a coach or van for day trips is usually more pract
 
 6. **Budget for surge pricing.** It's real, it's significant on weekends, and planning for it removes the stress.
 
-7. **Frenchmen Street is walkable from the Bywater.** If you're staying at Castleday Retreats, the best music scene in the city is a 10-minute walk. That fact alone changes the transportation math for music nights.
+7. **Frenchmen Street is walkable from the Bywater.** If your group is based in the Bywater, the best music scene in the city is a 10-15 minute walk. That fact alone changes the transportation math for music nights.
 
 ---
 

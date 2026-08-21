@@ -4,8 +4,10 @@ description: "Line-by-line budgets for a New Orleans group trip at three spendin
 category: "Planning & Logistics"
 card_title: "Budget Guide"
 card_description: "What a NOLA group trip actually costs. Line-by-line breakdowns for budget, mid-range, and luxury."
-date: 2026-07-21
+date: 2026-08-20
 ---
+
+**The short answer:** a 3-night New Orleans group trip runs about **$330–490 per person on a budget, $600–870 mid-range, and $1,060–1,750+ at the luxury tier** — excluding flights. The single biggest lever is a filled-to-capacity shared house; the most-forgotten line items are airport transfers, auto-gratuity on big-group dinners, and drinks.
 
 Nobody budgets honestly for New Orleans. Groups either under-budget dramatically (New Orleans is cheap, right?) or over-budget out of anxiety (we don't know what things cost here).
 
@@ -154,10 +156,10 @@ Louis Armstrong New Orleans International Airport (MSY) is 20-25 minutes from do
 
 | Option | Cost | Notes |
 |--------|------|-------|
-| Rideshare (UberX/Lyft) | $35-55 each way | Each car seats 4 |
-| Taxi | $35-50 each way | Fixed rate from airport |
+| Rideshare (UberX/Lyft) | $35-55 each way | Each car seats 4; surges on festival weekends |
+| Taxi | $36 flat (1-2 riders) or $15/person (3+) | City-set flat rate to downtown — four people is $60, guaranteed |
 | Chartered van/shuttle | $80-150/van each way | 12-15 passenger |
-| Airport shuttle service | $20-25/person | Shared, slower |
+| Airport shuttle service | $24/person one-way | Shared, slower; $44 round trip |
 
 **For groups of 15+:** Charter a van or two for airport transfers. It's cheaper per person than individual rideshares and logistically much easier — the [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the charter-vs-rideshare math and staggered-arrival strategy in more detail.
 
@@ -166,7 +168,7 @@ Louis Armstrong New Orleans International Airport (MSY) is 20-25 minutes from do
 | Option | Cost | Notes |
 |--------|------|-------|
 | Rideshare (per trip, per car) | $8-25 | Groups need multiple cars |
-| Streetcar | $1.25/ride | Unlimited day pass available |
+| Streetcar | $1.25/ride | $3 unlimited 1-day Jazzy Pass (Le Pass app) |
 | Bike rental | $25-50/day | Good for active groups |
 | Chartered van (daily) | $200-400 | 12-15 passenger |
 
