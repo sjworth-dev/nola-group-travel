@@ -36,7 +36,7 @@ Generic US travel-industry assumptions about "shoulder season" do NOT apply to N
 
 ## Content Structure (New Pages)
 
-> **New guide pages are FROZEN as of Aug 5 2026** — see the "New Pages: FROZEN" section below. This section is dormant reference for when the freeze lifts, and for checking structure while refreshing existing pages. It does not authorize creating anything.
+> **New guide pages are HUMAN-GATED as of Aug 20 2026** — see the "New Pages: Human-Gated, Demand-Driven" section below. The bot writes a new page ONLY when a human has placed it in `## Up Next`; an empty Up Next still means no new pages. This section is the structural reference for those pages and for refreshes.
 
 Every new page must have:
 
@@ -65,23 +65,31 @@ The only valid `category` values. The `/guides/` index page groups by these exac
 
 ---
 
-## New Pages: FROZEN (as of Aug 5 2026)
+## New Pages: Human-Gated, Demand-Driven (updated Aug 20 2026 by Sam's direction)
 
-**Do not create new guide pages.** Skip step 4 of the Per-Run Procedure entirely. Every run is Refresh + Interlink only.
+The Aug 5 blanket freeze has evolved, not lifted. **The bot still never chooses its own new-page topics.** New pages are written ONLY when a human adds an item to `## Up Next` (each item names its target query and the demand evidence). An empty Up Next is the normal steady state and means: no new pages this run.
 
-This is a deliberate human decision made on traffic data — not an oversight, not a bug, not an empty backlog to helpfully refill. Do not resume new-page writing for any reason, and do not treat a short or empty `## Up Next` as license to write something.
+**Why the change.** Search Console connected Aug 5 2026 and now has real data (28d to Aug 19: 98 clicks, 9,460 impressions, avg position 14.3, 339 pages with impressions). The data says the site's problem is not missing pages — it's existing pages sitting at positions 8–20 and titles that don't earn the click. So the work is refresh-for-rank and titles, not volume. The vs-city template retirement stands for *bot-generated* pages; note however that the existing vs-city pages are among the site's best rankers (#5–8 for "new orleans vs savannah/chicago/memphis" etc.), so refreshing them is high-value work.
 
-**Why.** Measured Jun 1 – Aug 2 2026 across all 383 guides: **449 total views, 271 users, and only 136 guides drew even one view in nine weeks.** The ~300 bot-written `nola-group-*` pages accounted for roughly 184 of those views; the single best one got 8. The strongest pages on the site are the older, shorter-slug human-written guides (`restaurant-guide` 43 views, `family-reunion` 21, `wedding-party` 14). Publishing at ~0.3 views/page/month dilutes topical authority and spends crawl budget for nothing — the exact failure the Topic Selection Bar below was written to prevent.
+### Search Refresh Queue (replaces oldest-first refresh while items remain)
 
-**The "New Orleans vs. [City]" template is retired.** 25 of them shipped Jul 14 – Aug 5 2026. The best performer among them (`vs-savannah`, one of the earliest and most plausible) has 5 views. Do not write another under any phrasing, slug, or framing. Generating an infinite template that technically names a target query satisfies the letter of the bar below and defeats its purpose.
+In the Refresh step, take the TOP unchecked item here instead of the oldest-dated guide. Check it off (`[x]` + date) when done. A human refills this queue from Search Console data; the bot never adds to it.
 
-**When the freeze lifts:** only when a human edits this section. Google Search Console is being connected now (the site has never had it, so there has never been rank, query, or impression data). Once real query data exists, new topics get chosen from terms the site already ranks on page 2 for — not from templates. Until then, Refresh + Interlink are the whole job, and they are measurably improving the pages that do get traffic.
+- [ ] `_guides/nola-group-marijuana-laws-guide.md` — queries "is weed legal in new orleans" (#10, 89 impr/28d), "can you smoke weed in new orleans" (#11). Open with a 2–3 sentence direct answer (the featured-snippet shape: verdict first, nuance after). Verify every legal claim is current for 2026; keep question-format H2s.
+- [ ] `_guides/nola-group-open-container-law-guide.md` — "new orleans open container" cluster (#8.8, 251 impr). Same direct-answer-first treatment; verify current rules.
+- [ ] `_neighborhoods/lakeview.md` — #9.5 with 192 impr, nearly page 1. Refresh facts, add 3+ inline links to/from related guides (City Park, family-reunion, quiet-base themes).
+- [ ] `_guides/transportation-guide.md` — "getting around new orleans" (#37.6, 40 impr). Restructure the intro and H2s around that exact phrase; verify streetcar fares and airport-transfer costs.
+- [ ] `_guides/nola-group-neighborhood-comparison-guide.md` — #16.8, 79 impr. Refresh, and weave links to it from the individual neighborhood pages during their refreshes.
+- [ ] `_guides/budget-guide.md` — #8.1, 69 impr. Verify every number; freshness matters on cost content.
+- [ ] `_guides/nola-group-new-orleans-vs-savannah-guide.md` — best vs page (#7.4, 350 impr). Refresh dates/facts, tighten the verdict, cross-link the other top vs pages.
+- [ ] `_guides/bachelorette-party.md` — highest-value occasion query, currently #62. Deep rebuild toward best-on-internet: a real hour-by-hour itinerary, current costs, booking scripts. Expect slow rank gains; do the work anyway.
+- [ ] `_guides/bachelor-party.md` — same treatment, currently #27.
 
----
+Done Aug 20 2026 (by Sam's direction, outside the bot): sitewide title/description rewrite on the 30 pages with impressions; `/events/` retitled with Event JSON-LD; restaurant-guide private-dining section; corporate-retreat venue-heading rewrite; `/about/` editorial-policy page; `/privacy/` page.
 
-## Topic Selection Bar (DORMANT — see freeze above)
+## Topic Selection Bar (for humans refilling Up Next)
 
-Retained for when the freeze lifts. It does not authorize new pages while the freeze is in force.
+Every Up Next item a human adds must pass this bar. The bot does not use this section to invent topics — it exists so queue items are chosen well.
 
 The site has 300+ guides. A new page only earns its place if real people search for it. Before adding anything to Up Next, it must pass ALL of:
 
@@ -90,6 +98,13 @@ The site has 300+ guides. A new page only earns its place if real people search 
 3. **Not already covered** — search `_guides/` for overlapping slugs/titles first. If an existing guide covers 70%+ of it, refresh/expand that guide instead (commit prefix `expand:`).
 
 Prioritize, in order: (a) occasion + NOLA head terms, (b) seasonal/event queries with dates, (c) "X vs Y" comparison queries, (d) specific question queries ("can you drink on the street in new orleans"). Villa-life micro-topics are capped: the category is full; add nothing more to it without an explicit human request.
+
+## Title & Snippet Conventions (set Aug 20 2026 — follow on every page touched)
+
+- The layout emits the page `title` BARE — no "| New Orleans Group Travel Guide" suffix is appended anymore. Never re-add a brand suffix inside `title:`.
+- Titles: ≤60 characters, front-load the search phrase, verdict/specific over generic ("Is Weed Legal in New Orleans? The Real Rules", not "Marijuana Laws Guide"). Include a year only when it's deterministic and maintained (festival dates).
+- Descriptions: 140–160 characters, verdict-first with one concrete hook. They are the ad copy of the search result; write them like it.
+- Do not rewrite the Aug 20 2026 titles/descriptions on the 30 top-traffic pages except to fix a factual error or update a date — they are set from Search Console data.
 
 ## Property Reference Rules
 
@@ -128,7 +143,7 @@ This is an independent, unbiased guide. ALL big-group properties get equal edito
 - Verified Castleday facts you may cite: 12 bedrooms / 17 real beds / 8 baths per villa, 14-30 guests per villa, ~90 across all three, The Florentine is ADA-accessible, 4.98 avg rating across 99 reviews. Pitch the ~16-person organizer ("everyone gets a real bed"); never lead with "sleeps 30."
 - `category` frontmatter must be one of the 11 fixed taxonomy values — the `/guides/` index and related-guides block depend on exact string matches
 - Never hand-edit hardcoded page lists in `_layouts/` or `_includes/` to surface new content — the `/guides/` index, `/neighborhoods/` index, and per-guide related block are generated automatically from frontmatter
-- **New guide pages are frozen (Aug 5 2026)** — see the "New Pages: FROZEN" section. An empty `## Up Next` is the correct steady state; do not refill it, and do the Refresh and Interlink steps regardless.
+- **New guide pages are human-gated (Aug 20 2026)** — see the "New Pages: Human-Gated, Demand-Driven" section. The bot writes a new page only from a human-added `## Up Next` item; an empty Up Next stays empty. Refresh and Interlink run every run regardless.
 
 ---
 
@@ -139,10 +154,10 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 1. `git pull --rebase origin main`
 2. Read this ROADMAP.md top to bottom — internalize voice, rules, guardrails
 3. Read 2–3 existing `_guides/*.md` files to match voice exactly before writing
-4. **New content — SKIP. Frozen since Aug 5 2026.** Write no new guide pages. See the "New Pages: FROZEN" section above for the traffic data behind this. Do not substitute a different kind of new page (comparison, listicle, hub, index) for the frozen one.
-5. **Refresh (1 page/run):** pick the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references (including specific festival year/date ranges — Mardi Gras, Jazz Fest, etc.), add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`. **Event dates: check against `_data/nola_calendar.yml`** (maintained calendar data, regenerated in place — never edit it): `confidence: exact` dates are reliable computed dates (Carnival parades float with Easter — never assume last year's date); `announced`/`typical` ones get a quick online check before the guide names a specific date.
+4. **New content — only from `## Up Next`.** If Up Next has an active human-added item, write that page (top item first), following the Content Structure section. If Up Next is empty — the normal state — write nothing new and do not substitute any other kind of new page.
+5. **Refresh (1 page/run):** take the TOP unchecked item in the Search Refresh Queue (in the New Pages section above); only when that queue is fully checked off, fall back to the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references (including specific festival year/date ranges — Mardi Gras, Jazz Fest, etc.), add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`. **Event dates: check against `_data/nola_calendar.yml`** (maintained calendar data, regenerated in place — never edit it): `confidence: exact` dates are reliable computed dates (Carnival parades float with Easter — never assume last year's date); `announced`/`typical` ones get a quick online check before the guide names a specific date.
 6. **Interlink (1 pass/run):** pick one high-value older guide (occasion or event guides first) and weave inline links to newer related guides into its body where they help the reader. Commit as `seo:`.
-7. **Backlog — SKIP while the freeze is in force.** Do not refill `## Up Next`. Leaving it empty is correct and expected. If you notice something genuinely worth writing once the freeze lifts, add it as an HTML comment under `## Up Next` prefixed `PARKED:` — never as an active item.
+7. **Backlog — humans only.** Never add active items to `## Up Next` or the Search Refresh Queue. If you notice something genuinely worth writing, add it as an HTML comment under `## Up Next` prefixed `PARKED:` — never as an active item.
 8. Commit prefixes: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
 9. Log every action as a changelog entry in `ROADMAP-ARCHIVE.md` (`YYYY-MM-DD HH:MM UTC — <prefix>: <what changed>`). Done items and changelog live ONLY in the archive file — never re-grow them in this file.
 10. **Post a one-line status to Slack `#automations` (channel `C0BALH031G8`) — required every run, including no-op runs.** Format: `STATUS: <ngt> — <what changed>`, one line, very brief. Examples:
@@ -155,10 +170,10 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 
 ## Up Next
 
-New pages are FROZEN (see the freeze section above). This list is intentionally empty.
-Four queued `New Orleans vs. [City]` items (Portland, San Juan, New York, Los Angeles) were removed
-on Aug 5 2026 along with the retirement of that template — they are not parked for later, the
-template is retired. Do not re-add them.
+Intentionally empty (the normal state — new pages happen only when a human adds an item here).
+The bot-generated vs-city template stays retired: the four removed items (Portland, San Juan,
+New York, Los Angeles) are not parked and must not return. Refreshing the EXISTING vs-city pages
+is queue work, not new-page work.
 
 
 
