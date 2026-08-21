@@ -25,17 +25,13 @@ That short list is below — every real option in town, compared honestly. No sp
 
 Everyone under one roof, one kitchen, one long table. The category to beat for celebrations.
 
-![A Bywater villa compound with private pool, lawn, and basketball court](/assets/images/bywater-villa-compound.jpg)
-
-**Castleday Retreats — Bywater.** Three private villas, each with 12 bedrooms and 17 real beds, hosting 14–30 guests apiece (book all three for up to ~90). Private pool at each villa, local art throughout, full kitchens, and no shared spaces with strangers. Best for groups that want total seclusion — bachelorettes with their own pool, retreats that need privacy to actually work.
-
-**The Syd — Lower Garden District.** Multiple villas sleeping up to 22 each, every room designed by local New Orleans artists. Heated pool, hot tub, sauna, and outdoor kitchen shared between units, one block from the St. Charles streetcar. Best for groups that want to be central — walking distance to downtown venues, the Convention Center, and a 10-minute walk to the Quarter.
-
 **Heirloom — Lower Garden District & Central City.** The deepest inventory in the category: dozens of large-format homes, from grand 1860s renovations to entire new-construction compounds. Design-forward and professionally run — and the scale means Heirloom is often the answer when everything else is booked. One honest note: the houses are more consistent than the blocks they sit on, so check the exact address before you pay a deposit.
 
-**The Mazant — Bywater.** An 1880s Greek Revival on the National Register, run as a licensed guesthouse. Sleeps up to 18, heated pool and spa, and a yard built for crawfish boils — Condé Nast Traveler named it the best Airbnb for a large gathering in 2025. If your group fits in 18 and wants one historic house, it's a genuinely great booking, which is why it's reserved months out.
+**The Mazant — Bywater.** An 1880s Greek Revival on the National Register, run as a licensed guesthouse. Sleeps up to 18, heated pool and spa, and a yard built for crawfish boils — Condé Nast Traveler named it the best Airbnb for a large gathering in 2025. If your group fits in 18 and wants one historic house, book early; it's reserved months out.
 
-![A Lower Garden District courtyard pool with umbrellas and loungers, seen from above](/assets/images/lgd-courtyard-pool.jpg)
+**Castleday Retreats — Bywater.** Three private villas of 12 bedrooms each, hosting 14–30 guests apiece, with a private pool at each. The seclusion option: no shared facilities, at the cost of being a ride away from downtown.
+
+**The Syd — Lower Garden District.** Villas sleeping up to 22 each, sharing a heated pool, hot tub, and outdoor kitchen, one block from the St. Charles streetcar. The central-location option: walkable to downtown, with shared rather than private amenities.
 
 ## Group Suites — the New Hybrid Hotels
 
@@ -44,6 +40,12 @@ The newest category in town: hotel buildings carved into giant multi-bedroom sui
 **Hotel Perle — CBD / Warehouse District.** St. Charles at Julia. Suites run two to seven bedrooms each, with kitchens and laundry, plus a rooftop pool and bar. You can walk to the WWII Museum, the Convention Center, and half the restaurants your group will argue about.
 
 **The Revelry — Central City.** Baronne Street, two blocks off the St. Charles streetcar. Three apartment-style floors sleeping six to nine each, wrapped around a saltwater pool. Take one floor for a dozen or the whole building for thirty-plus.
+
+**Roami — CBD / downtown.** Apartment-hotel buildings booked unit by unit: The Lola runs to seven-bedroom units, The Mandeville to twelve bedrooms sleeping about two dozen. Hotel-style booking and no host to text — the trade is separate units rather than one shared house.
+
+**The Natchez Vacation Rentals — near the Quarter.** Apartment-style rentals sharing a saltwater pool and hot tubs, openly aimed at bachelorette parties and reunions. Apartments-plus-pool-scene rather than everyone in one great room.
+
+**Right at the threshold?** If your headcount is 11–16, two smaller options open up: **The Lookout Inn** (Bywater, maxes out around 12) and **The Mayfair Hotel** (small hotel taking groups to about 16). Below 11, the whole regular rental market is yours and you don't need this page.
 
 ## Hotels With Room Blocks
 
@@ -72,12 +74,16 @@ Book 2-3 rentals near each other on Airbnb.
 
 | Property | Neighborhood | Sleeps | Pool | Best for |
 |----------|--------------|--------|------|----------|
-| Castleday Retreats | Bywater | 14–30 per villa (~90 across three) | Private, each villa | Total privacy and seclusion |
-| The Syd | Lower Garden District | Up to 22 per villa | Shared heated pool + hot tub | Being central to everything |
 | Heirloom | LGD & Central City | Varies by home, up to 30+ | Many homes | Choice and availability |
 | The Mazant | Bywater | Up to 18 | Heated pool + spa | One historic house |
+| Castleday Retreats | Bywater | 14–30 per villa | Private, each villa | Privacy and seclusion |
+| The Syd | Lower Garden District | Up to 22 per villa | Shared heated pool + hot tub | Central location |
 | Hotel Perle | CBD / Warehouse | 2–7 BR per suite | Rooftop | Suites with separate bills |
 | The Revelry | Central City | 6–9 per floor, ~30 total | Saltwater | A floor per crew |
+| Roami | CBD / downtown | Up to 12 BR per unit, ~24 | Varies by building | Hotel-style booking at scale |
+| The Natchez | Near the Quarter | Apartments, varies | Shared saltwater + hot tubs | Apartments plus a pool scene |
+| The Mayfair Hotel | Uptown | Groups to ~16 | — | Hotel service, mid-size crew |
+| The Lookout Inn | Bywater | ~12 max | Small pool | Right at the threshold |
 | Room blocks | Various | Unlimited | Hotel pools | Mixed budgets, conferences |
 
 ## How to Book
@@ -102,9 +108,9 @@ For the largest selection, book 6+ months out. There's no real "slow weekend" fo
 
 There's no single best answer — there's a best answer for your trip:
 
-- **A celebration where being together is the point** → a villa or whole house. Castleday for seclusion and a private pool; The Syd for a central base; The Mazant if you're 18 or fewer and want one historic house.
+- **A celebration where being together is the point** → a villa or whole house. The Mazant if you fit in one historic building; Heirloom for the widest choice of houses; Castleday if seclusion and a private pool matter most; The Syd if being near the streetcar matters more.
 - **Booking late, or picky about the exact house** → Heirloom's inventory gives you the most to choose from.
-- **Everyone wants their own bill and their own key** → Hotel Perle or The Revelry. Group suites are the honest middle path, and nobody has to Venmo anybody.
+- **Everyone wants their own bill and their own key** → Hotel Perle, The Revelry, or Roami. Group suites are the honest middle path, and nobody has to Venmo anybody.
 - **Mixed budgets, light sleepers, or a conference on the calendar** → a hotel room block, and the concierge does the coordinating.
 
 Whatever you pick, book something actually built and permitted for your headcount — that single decision does more for the trip than anything else on this site.

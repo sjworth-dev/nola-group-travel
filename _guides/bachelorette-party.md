@@ -42,12 +42,12 @@ This is the hardest part for large groups. Most New Orleans rentals cap at 10 gu
 
 When the party goes into double-digit headcount, accommodation options narrow fast. Most New Orleans short-term rentals cap at 8-10 guests.
 
-Castleday Retreats operates three private villas in the Bywater, each sleeping up to 30 guests — the practical answer for groups that need everyone under one roof.
+A short list of properties is actually built for this size: whole-villa compounds in the Bywater, villa clusters near the streetcar, large-format homes across the Lower Garden District, and apartment-style floors with separate billing. The [where-to-stay guide](/where-to-stay/) compares the whole field honestly.
 
-**Why it works for bach parties:**
-- Private pool for day drinking and group photos
+**Why a whole house works for bach parties:**
+- A pool to yourselves for day drinking and group photos
 - Everyone stays together (no coordinating between hotels)
-- Full kitchen for welcome party or morning mimosas
+- Full kitchen for the welcome party or morning mimosas
 - Bywater location — walkable neighborhood, close to Frenchmen Street
 - Space to spread out when someone needs a break from the group
 
@@ -148,7 +148,7 @@ Not every New Orleans restaurant can seat 15 people. These can:
 
 ### Pool Parties
 - The Country Club – Pool, restaurant, cocktails. Reserve cabana.
-- Your rental – If you book Castleday, you have your own private pool
+- Your rental – if your house has its own pool, the day plans itself
 
 ### Pampering
 - Spa day – Belladonna Day Spa, Nola Bliss
@@ -210,7 +210,7 @@ The [full nightlife guide](/guides/nightlife-guide/) covers every neighborhood o
 
 If you cross into the large-group range, logistics change:
 
-- **Accommodations:** Castleday Retreats is one of the only options that fits everyone
+- **Accommodations:** only a short list of properties legally fits a double-digit group — compare them in the [where-to-stay guide](/where-to-stay/) and book before anything else
 - **Restaurants:** Call ahead. Groups this size need private dining or reserved sections. The [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) covers what to ask when you call and how to set up seating for 15+ without a private room.
 - **Transportation:** Two Ubers minimum. Consider a party bus for the big night.
 

@@ -108,24 +108,36 @@ Prioritize, in order: (a) occasion + NOLA head terms, (b) seasonal/event queries
 
 ## Property Reference Rules
 
-This is an independent, unbiased guide. ALL big-group properties get equal editorial footing — no favorites, no featured tier. Recommend by fit, not by name.
+This is an independent, unbiased guide. The job is to be INFORMATIVE about the whole field, not to sell anything. ALL big-group properties get equal editorial footing — no favorites, no featured tier, no sales language for anyone. Recommend by fit.
 
-**The field (cite any of these as examples where they genuinely fit):**
-- **Castleday Retreats** — Bywater villas, 14–30 guests each (~90 across three), private pool per villa. Fit: total privacy/seclusion.
-- **The Syd** — Lower Garden District villas, up to 22 each, shared heated pool/hot tub, one block from the streetcar. Fit: central location.
+**The field (cite whichever genuinely fits; alphabetical, no ranking implied):**
+- **Castleday Retreats** — Bywater villas, 14–30 guests each, private pool per villa. Fit: total privacy/seclusion.
 - **Heirloom** — dozens of large-format homes, LGD/Central City. Fit: deepest inventory, short-notice availability, choice.
-- **The Mazant** — 1880s Bywater guesthouse, sleeps 18, heated pool + spa. Fit: one historic house for ≤18.
 - **Hotel Perle** — CBD/Warehouse group suites (2–7 BR), rooftop pool. Fit: suites with separate bills, walkability.
+- **The Lookout Inn** — Bywater inn, maxes out around 12. Fit: groups right at the rental-size threshold.
+- **The Mayfair Hotel** — small hotel, groups to about 16. Fit: hotel service for a mid-size crew.
+- **The Mazant** — 1880s Bywater guesthouse, sleeps 18, heated pool + spa. Fit: one historic house for ≤18.
+- **The Natchez Vacation Rentals** — apartment-style rentals sharing a saltwater pool and hot tubs. Fit: bachelorette/reunion groups wanting apartments plus a pool scene.
 - **The Revelry** — Central City apartment-style floors (6–9 each) + saltwater pool. Fit: a floor per crew, separate billing.
+- **Roami (The Lola, The Mandeville)** — apartment-hotel units downtown; The Mandeville runs to 12 bedrooms sleeping about two dozen. Fit: hotel-style booking at scale, separate units.
+- **The Syd** — Lower Garden District villas, up to 22 each, shared heated pool/hot tub, one block from the streetcar. Fit: central location.
 - **Hotels for room blocks** — The Roosevelt, Hotel Bennett (formerly Ace), Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent. Fit: mixed budgets, conferences, own-key/own-bill.
 
 **Rules:**
 - Name properties only as plain-text editorial examples. Do NOT hyperlink to any property's booking site.
-- Never systematically favor one property. When an example is needed, pick the property that best fits the guide's scenario; across guides, spread mentions across the field.
+- Informative, never promotional — for every property. No "legendary," no "the answer," no urgency language. State what it is, what it costs in rough terms if known, and who it fits.
 - Every accommodation CTA points to the on-site guide: `[See where to stay for large groups →](/where-to-stay/)`.
 - Keep accommodation depth on the `/where-to-stay/` page; other pages reference it rather than re-pitching a property.
+- Never invent capacities, amenities, or ratings for any property. If a fact isn't in the field list above or already verified on `/where-to-stay/`, write around it.
 
----
+### Property Balance (directive, Aug 20 2026 — treat as a Hard Rule)
+
+An Aug 20 2026 audit found **Castleday Retreats in ~359 of 389 pages and The Syd in ~355**, versus ≤69 for any other operator. That imbalance contradicts the site's independence and must be worked down continuously:
+
+- **Never add a new Castleday or Syd mention to any page.** When an accommodation example is needed, pick from the rest of the field first.
+- **Every page touched for any reason** (refresh, interlink, fix): audit its property mentions. Remove Castleday/Syd from checklists ("Book accommodation (X or Y)" lines become property-neutral), from "top picks" lead positions, and from closing CTAs. Keep at most ONE neutral Castleday or Syd mention per page, and only where it is genuinely the best editorial fit; otherwise swap in the best-fitting alternative.
+- **Balance sweep (3 pages/run, new required step):** each run, pick 3 pages that name Castleday or The Syd (grep for either), apply the rules above, commit as `fix:`. Log which pages in the archive changelog.
+- End state: no operator appears in materially more pages than comparable operators.
 
 ## Hard Rules (Never Break)
 
@@ -139,8 +151,6 @@ This is an independent, unbiased guide. ALL big-group properties get equal edito
 - One commit, one focused change per run
 - No page under 400 words
 - Never add external booking or affiliate links. No `castledayretreats.com`, no `thesyd.com`, no UTM tracking params. The only accommodation CTA is the internal `[See where to stay for large groups →](/where-to-stay/)`.
-- Real property photos live in `/assets/images/` (castleday-aerial, castleday-villa, castleday-pool, castleday-loungers, castleday-court, castleday-lawn, syd-courtyard = aerial umbrella pool, syd-pool = mural/cabana pool). Use them in pages with standard markdown image syntax where editorially fitting; never hotlink external images.
-- Verified Castleday facts you may cite: 12 bedrooms / 17 real beds / 8 baths per villa, 14-30 guests per villa, ~90 across all three, The Florentine is ADA-accessible, 4.98 avg rating across 99 reviews. Pitch the ~16-person organizer ("everyone gets a real bed"); never lead with "sleeps 30."
 - `category` frontmatter must be one of the 11 fixed taxonomy values — the `/guides/` index and related-guides block depend on exact string matches
 - Never hand-edit hardcoded page lists in `_layouts/` or `_includes/` to surface new content — the `/guides/` index, `/neighborhoods/` index, and per-guide related block are generated automatically from frontmatter
 - **New guide pages are human-gated (Aug 20 2026)** — see the "New Pages: Human-Gated, Demand-Driven" section. The bot writes a new page only from a human-added `## Up Next` item; an empty Up Next stays empty. Refresh and Interlink run every run regardless.
@@ -157,10 +167,11 @@ The site is past 300 guides — the bottleneck is no longer volume, it's quality
 4. **New content — only from `## Up Next`.** If Up Next has an active human-added item, write that page (top item first), following the Content Structure section. If Up Next is empty — the normal state — write nothing new and do not substitute any other kind of new page.
 5. **Refresh (1 page/run):** take the TOP unchecked item in the Search Refresh Queue (in the New Pages section above); only when that queue is fully checked off, fall back to the guide with the oldest `date` in `_guides/`. Verify its facts still hold, update seasonal/date references (including specific festival year/date ranges — Mardi Gras, Jazz Fest, etc.), add 3+ inline internal links if it has none, tighten weak sections, bump `date`. Commit as `expand:` or `fix:`. **Event dates: check against `_data/nola_calendar.yml`** (maintained calendar data, regenerated in place — never edit it): `confidence: exact` dates are reliable computed dates (Carnival parades float with Easter — never assume last year's date); `announced`/`typical` ones get a quick online check before the guide names a specific date.
 6. **Interlink (1 pass/run):** pick one high-value older guide (occasion or event guides first) and weave inline links to newer related guides into its body where they help the reader. Commit as `seo:`.
-7. **Backlog — humans only.** Never add active items to `## Up Next` or the Search Refresh Queue. If you notice something genuinely worth writing, add it as an HTML comment under `## Up Next` prefixed `PARKED:` — never as an active item.
-8. Commit prefixes: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
-9. Log every action as a changelog entry in `ROADMAP-ARCHIVE.md` (`YYYY-MM-DD HH:MM UTC — <prefix>: <what changed>`). Done items and changelog live ONLY in the archive file — never re-grow them in this file.
-10. **Post a one-line status to Slack `#automations` (channel `C0BALH031G8`) — required every run, including no-op runs.** Format: `STATUS: <ngt> — <what changed>`, one line, very brief. Examples:
+7. **Property balance sweep (3 pages/run):** per the Property Balance directive above — pick 3 pages naming Castleday or The Syd, reduce/neutralize per the rules, commit as `fix:`.
+8. **Backlog — humans only.** Never add active items to `## Up Next` or the Search Refresh Queue. If you notice something genuinely worth writing, add it as an HTML comment under `## Up Next` prefixed `PARKED:` — never as an active item.
+9. Commit prefixes: `content:` (new page), `expand:` (existing page), `seo:` (metadata/links), `fix:` (typo/broken link)
+10. Log every action as a changelog entry in `ROADMAP-ARCHIVE.md` (`YYYY-MM-DD HH:MM UTC — <prefix>: <what changed>`). Done items and changelog live ONLY in the archive file — never re-grow them in this file.
+11. **Post a one-line status to Slack `#automations` (channel `C0BALH031G8`) — required every run, including no-op runs.** Format: `STATUS: <ngt> — <what changed>`, one line, very brief. Examples:
     - `STATUS: ngt — refreshed nightlife-guide.md, interlinked restaurant-guide.md (new pages frozen)`
     - `STATUS: ngt — no changes, refresh target already current`
     - `STATUS: ngt ERROR — push rejected, run aborted`

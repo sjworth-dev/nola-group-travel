@@ -115,7 +115,7 @@ For groups that want to control the experience completely, you can hire a brass 
 
 ### Option C: Villa Second Line
 
-For groups that can't coordinate timing with a real second line, bring the energy back to the villa. A brass band on the villa's outdoor space, your group with their finished parasols, a second line that circles the property and ends at the pool. This requires a brass band booking and checking with Castleday or The Syd about outdoor music, but it's the most controlled version of the experience.
+For groups that can't coordinate timing with a real second line, bring the energy back to the villa. A brass band on the villa's outdoor space, your group with their finished parasols, a second line that circles the property and ends at the pool. This requires a brass band booking and checking with your property about outdoor music, but it's the most controlled version of the experience.
 
 ---
 

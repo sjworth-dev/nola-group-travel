@@ -230,7 +230,7 @@ This theme has two phases: pool phase and evening phase.
 
 | Venue | Why It Works |
 |-------|-------------|
-| Your villa (Castleday or The Syd) | Day 1 is entirely here |
+| Your villa | Day 1 is entirely here |
 | Bacchanal Wine | Outdoor wine garden with live music — perfect transition from pool day to evening |
 | Pat O'Brien's | Large courtyard, Hurricanes, the famous fountain |
 | Any outdoor bar or courtyard | This group wants to be outside |

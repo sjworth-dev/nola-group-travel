@@ -29,11 +29,11 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 ### For Large Groups
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens, multiple bedrooms. Ground-floor options for mobility needs.
+**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. The deepest inventory, which matters when a reunion's dates are fixed by the family calendar rather than by availability.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location near the streetcar.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens, ground-floor options for mobility needs.
 
-**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. Worth checking for deeper inventory or a short-notice booking.
+**The Syd** — Villas in the Lower Garden District sleeping up to 22 each, with a shared heated pool and hot tub, near the streetcar.
 
 **Hotel room blocks** (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) — If the family would rather have separate bills and own-key privacy than a shared house, this trades the communal kitchen for individual rooms.
 
@@ -190,7 +190,7 @@ Not sure whether to hire a private chef or cook yourselves? The [private chef vs
 
 **6 months before:**
 - [ ] Lock in dates with key family members
-- [ ] Book accommodation (Castleday or The Syd)
+- [ ] Book accommodation — compare the field in the [where-to-stay guide](/where-to-stay/)
 - [ ] Create shared document for logistics
 
 **2 months before:**

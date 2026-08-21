@@ -125,7 +125,7 @@ A mobile massage company sends multiple therapists to your property. Sessions ru
 - Ensure each room has enough floor or table space (therapists typically bring their own tables)
 - Schedule from 9am through 1pm; this covers the full group without running into the afternoon
 
-**The villa logistics:** For a group at Castleday or The Syd, the multiple-room layout is an asset — separate bedrooms become individual treatment rooms. A group of 20 with four therapists working simultaneously through four rooms is a functional day-spa setup without anyone leaving the property.
+**The villa logistics:** For a group in a whole-house villa, the multiple-room layout is an asset — separate bedrooms become individual treatment rooms. A group of 20 with four therapists working simultaneously through four rooms is a functional day-spa setup without anyone leaving the property.
 
 ---
 

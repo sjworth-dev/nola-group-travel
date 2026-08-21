@@ -27,13 +27,13 @@ This guide covers everything for large groups — where to stay, what to do, and
 
 Most rentals cap at 10 guests. For larger groups, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down why a purpose-built rental usually beats a stack of hotel rooms for this trip type. The field is broader than any one name:
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. Good if you want a home base away from the chaos.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. One block from St. Charles streetcar. More central location.
-
 **The Revelry** — Apartment-style floors in Central City, each holding 6-9 guests, with a shared saltwater pool. A good fit if the group is really a few smaller crews combining and wants separate billing per floor.
 
 **Hotel Perle** — CBD/Warehouse District group suites with a rooftop pool. Works well if the plan leans heavily on walking to nightlife rather than a quieter home base.
+
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space to spread out. The home-base-away-from-the-chaos option.
+
+**The Syd** — Villas in the Lower Garden District sleeping up to 22 each, with a shared heated pool and outdoor kitchen, a block from the streetcar. The central option.
 
 ### Location Considerations
 
