@@ -4,18 +4,18 @@ description: "Yes, you can walk with a drink — in a plastic cup, in the right 
 category: "Planning & Logistics"
 card_title: "Open Container Law"
 card_description: "Yes, you can drink on the street. Here's the actual rule, not the rumor."
-date: 2026-07-18
+date: 2026-08-20
 ---
 
-Yes, you can walk down the street with a drink in New Orleans. That's the short answer, and it's the reason half your group already showed up assuming they can carry a daiquiri anywhere in the city with no consequences. They can't. Here's the actual rule.
+**Yes, you can walk down the street with a drink in New Orleans — in a plastic cup, in the tourist core.** That's the short answer, and it's the reason half your group already showed up assuming they can carry a daiquiri anywhere in the city with no consequences. They can't. The written rule, city code Sec. 54-404, bans drinking from **opened glass containers** on public streets and sidewalks in the French Quarter — the area bounded by Canal Street, Rampart Street, Esplanade Avenue, and the river. The universal practice built around that rule is the plastic go-cup.
 
-New Orleans allows open containers on public streets and sidewalks, but the law has real conditions: plastic or foam only, no glass, no cans, and it doesn't cover the whole city. Get this wrong with a group of fifteen and you're the reason someone's holding a citation on day one. Get it right and it's one less thing anyone has to think about for the rest of the trip.
+Two conditions matter: the container (plastic, never glass) and the geography (the drink-in-hand reputation belongs to the Quarter, the CBD, and the Frenchmen Street strip — not the whole city). Get this wrong with a group of fifteen and you're the reason someone's holding a citation on day one. Get it right and it's one less thing anyone has to think about for the rest of the trip.
 
 This guide covers what the ordinance actually says, where it applies, where it quietly stops applying, and what that means for how you move a big group between bars, pools, and parade routes.
 
 ## Quick Planning Checklist
 
-- [ ] Confirm your group knows the material rule: plastic/foam to-go cups only, never glass or cans
+- [ ] Confirm your group knows the material rule: plastic to-go cups, never glass
 - [ ] Ask every bar for a to-go cup before you leave—most French Quarter and Frenchmen Street bars offer one automatically
 - [ ] Don't assume the rule applies outside downtown and the Quarter—residential neighborhoods are a different story
 - [ ] Plan your bar-crawl route around bars that pour to-go without a fight
@@ -25,11 +25,11 @@ This guide covers what the ordinance actually says, where it applies, where it q
 
 ---
 
-## The Actual Rule
+## What the Law Actually Says
 
 New Orleans' open container law permits alcohol in public in specific zones, under specific conditions. It is not a blanket "drink anywhere" law, and treating it like one is the single most common mistake group trips make.
 
-**The container matters.** Plastic and foam cups are allowed. Glass bottles and aluminum cans are not permitted on the street—if you buy a beer in a can or a drink in a glass, you need to transfer it to a plastic to-go cup before you walk out. Most bars in the French Quarter and Frenchmen Street corridor hand these out without being asked. If a bartender doesn't offer one, ask. It's a normal request, not an imposition.
+**The container is the bright line — and the written ban is glass.** City code Sec. 54-404 prohibits carrying or drinking from an opened glass container on any public street, sidewalk, park, or right-of-way in the French Quarter. Plastic and foam cups are the safe harbor everyone uses. A beer can sits in a gray zone — it isn't what the ordinance names, but it isn't the local custom either, and during parades glass and cans both get treated as problems along the route. The zero-thought move: transfer anything glass or canned into a plastic to-go cup before you walk out. Most bars in the French Quarter and Frenchmen Street corridor hand these out without being asked. If a bartender doesn't offer one, ask. It's a normal request, not an imposition.
 
 **Container size has a practical ceiling.** There's no need to carry anything larger than a standard cup. Oversized "yard" containers and novelty cups sold on Bourbon Street are marketed as souvenirs, not a loophole—treat them the same as any other to-go cup: no glass, no cans, walk don't drive.
 
@@ -37,13 +37,13 @@ New Orleans' open container law permits alcohol in public in specific zones, und
 
 ---
 
-## Where It Applies (and Where It Doesn't)
+## Where Can You Drink on the Street? (and Where You Can't)
 
 This is the part most first-time group organizers get wrong: the open container allowance is not citywide.
 
 | Area | Open Container Status |
 |------|----------------------|
-| French Quarter | Allowed (plastic/foam cups) |
+| French Quarter (Canal to Esplanade, Rampart to the river) | Allowed — plastic cups; glass is the explicit violation |
 | Frenchmen Street / Marigny commercial strip | Allowed (plastic/foam cups) |
 | CBD / Central Business District | Allowed (plastic/foam cups) |
 | Official parade routes during Mardi Gras and other parades | Allowed along the route while the parade permit is active |
@@ -75,7 +75,7 @@ A group of ten to twenty people moving as a pack changes the math on all of this
 
 New Orleans police are not aggressively hunting open container violations in the French Quarter—the entire tourism economy assumes people are walking around with drinks. What actually draws attention:
 
-1. **Glass or cans in hand**, which is the clearest, most visible violation of the material rule
+1. **Glass in hand**, which is the explicit, written violation — and the most visible one
 2. **Visible public intoxication**—stumbling, disorderly behavior, or someone who can't stand unassisted is a separate and more serious issue than the cup itself
 3. **Drinking in a parked or moving vehicle**, which is enforced more strictly than street drinking
 4. **Large glass bottles being passed around a group**, which reads as a bigger problem than one person's cup
@@ -94,7 +94,7 @@ A group that's loud but orderly, carrying plastic cups, isn't the target of enfo
 
 4. **Treat residential neighborhoods differently than the tourist core.** If you're walking back to a rental in a quieter part of town, that's not the zone the "you can drink here" reputation is describing.
 
-5. **Never carry glass bottles or aluminum cans on the street**, even briefly. If a bar serves your drink in glass and you want to walk with it, ask them to pour it into plastic first.
+5. **Never carry glass on the street**, even briefly — it's the one container the ordinance names. If a bar serves your drink in glass and you want to walk with it, ask them to pour it into plastic first; do the same with cans and nobody will ever look twice.
 
 6. **Understand that open container legal doesn't mean consequence-free.** Public intoxication and disorderly conduct are separately enforceable and matter more to how your night goes than the cup material.
 

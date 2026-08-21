@@ -75,8 +75,8 @@ The Aug 5 blanket freeze has evolved, not lifted. **The bot still never chooses 
 
 In the Refresh step, take the TOP unchecked item here instead of the oldest-dated guide. Check it off (`[x]` + date) when done. A human refills this queue from Search Console data; the bot never adds to it.
 
-- [ ] `_guides/nola-group-marijuana-laws-guide.md` — queries "is weed legal in new orleans" (#10, 89 impr/28d), "can you smoke weed in new orleans" (#11). Open with a 2–3 sentence direct answer (the featured-snippet shape: verdict first, nuance after). Verify every legal claim is current for 2026; keep question-format H2s.
-- [ ] `_guides/nola-group-open-container-law-guide.md` — "new orleans open container" cluster (#8.8, 251 impr). Same direct-answer-first treatment; verify current rules.
+- [x] (done Aug 20 2026, by hand) `_guides/nola-group-marijuana-laws-guide.md` — queries "is weed legal in new orleans" (#10, 89 impr/28d), "can you smoke weed in new orleans" (#11). Open with a 2–3 sentence direct answer (the featured-snippet shape: verdict first, nuance after). Verify every legal claim is current for 2026; keep question-format H2s.
+- [x] (done Aug 20 2026, by hand) `_guides/nola-group-open-container-law-guide.md` — "new orleans open container" cluster (#8.8, 251 impr). Same direct-answer-first treatment; verify current rules.
 - [ ] `_neighborhoods/lakeview.md` — #9.5 with 192 impr, nearly page 1. Refresh facts, add 3+ inline links to/from related guides (City Park, family-reunion, quiet-base themes).
 - [ ] `_guides/transportation-guide.md` — "getting around new orleans" (#37.6, 40 impr). Restructure the intro and H2s around that exact phrase; verify streetcar fares and airport-transfer costs.
 - [ ] `_guides/nola-group-neighborhood-comparison-guide.md` — #16.8, 79 impr. Refresh, and weave links to it from the individual neighborhood pages during their refreshes.
