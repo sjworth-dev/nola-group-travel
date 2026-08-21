@@ -40,13 +40,19 @@
        survives any future change to the GA4 tag below. Do not remove either one. -->
   <meta name="google-site-verification" content="Q9Cs15l6QYBEwdc-72m_EzloWVPLKBNkBlvGRKpkEw0">
 
-  <!-- Analytics — GA4 property "NOLA Group Travel" (its own property; never reuse the CastleDay tag) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NCXH4RWEH7"></script>
+  <!-- Analytics — GA4 property "NOLA Group Travel" (its own property; never reuse the CastleDay tag).
+       Tag is skipped for automated browsers (navigator.webdriver) to keep scraper/bot noise out of GA. -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-NCXH4RWEH7');
+    if (!navigator.webdriver) {
+      var gaScript = document.createElement('script');
+      gaScript.async = true;
+      gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-NCXH4RWEH7';
+      document.head.appendChild(gaScript);
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-NCXH4RWEH7');
+    }
   </script>
 </head>
 <body>
