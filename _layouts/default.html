@@ -17,8 +17,15 @@
     })();
   </script>
 
-  <!-- SEO (emits title, description, canonical, Open Graph) -->
-  {% seo %}
+  <!-- SEO (emits description, canonical, Open Graph). The title tag is hand-rolled so page
+       titles keep their full length in search results instead of losing ~30 characters to
+       a "| New Orleans Group Travel Guide" suffix nobody searches for. -->
+  {% if page.url == "/" %}
+  <title>{{ site.title }} — {{ site.tagline }}</title>
+  {% else %}
+  <title>{{ page.title | default: site.title }}</title>
+  {% endif %}
+  {% seo title=false %}
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">

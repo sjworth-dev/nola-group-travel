@@ -6,7 +6,8 @@ url: "https://nolagrouptravel.com"
 baseurl: ""
 
 # SEO
-author: New Orleans Group Travel Guide
+# No `author:` on purpose — jekyll-seo-tag would emit it as a schema.org Person,
+# and the site has no named human author; the publisher is the site itself.
 twitter:
   card: summary_large_image
 social:
