@@ -135,13 +135,13 @@ The French Quarter is walkable from Bywater (Castleday) in 20-30 minutes or a sh
 | Option | Notes |
 |--------|-------|
 | Three separate Airbnbs | Functionally three different trips happening simultaneously |
-| Castleday Retreats single villa | Fits 20 comfortably in 12 BR / 17 real beds — this is the sweet spot pitch |
+| Castleday Retreats single villa | Fits 20 comfortably in 12 BR / 17 real beds |
 | The Syd single villa | Fits up to 22 — close fit, but the shared pool and social spaces carry it |
-| Two Castleday villas (40 total) | Option for groups that want more room |
+| Heirloom large-format home | Worth checking for deep inventory at this size or a short-notice booking |
 
 At 20, the case for a single dedicated group villa is overwhelming. Everyone in the same building, one kitchen, one pool, one set of house rules, one checkout day. The alternative — multiple rental units across the neighborhood — means the trip fractures into sub-groups who only see each other during scheduled events.
 
-Castleday's pitch for 20-person groups specifically: 12 bedrooms and 17 real beds per villa means everyone gets a real bed. Not a pullout, not an air mattress, not the awkward "well technically the couch folds out." That matters at day four of a trip when everyone is tired.
+Real bed count matters more than the sleeps-X headline at this tier — a listing can "sleep 20" on a mix of pullouts and air mattresses. Confirm the actual bed breakdown before you book. That matters at day four of a trip when everyone is tired.
 
 ### Activities
 
@@ -189,9 +189,9 @@ Charter van or charter bus, full stop. At 25 people, the calculation is simple: 
 
 | Option | Notes |
 |--------|-------|
-| Castleday Retreats single villa | 12 BR, 17 real beds — fits 14-30, designed for this headcount |
-| The Syd single villa | 22-person max — tight at 25; consider two villas |
-| Two Castleday villas (60 total) | Ideal for 25-45 with multi-villa strategy |
+| Castleday Retreats single villa | 12 BR, 17 real beds — fits up to 30 |
+| The Syd single villa | 22-person max — tight at 25; consider a second property |
+| Hotel room block | The Roosevelt, Hotel Bennett, and similar handle 25 across separate rooms with separate bills |
 
 At 25, the villa's room count matters more than the headline "sleeps X" number. Castleday's 17 real beds per villa means 17 guests have private sleeping surfaces; the remaining 8 use flexible configurations within the 12 bedrooms. Know the breakdown before you book and confirm it with the property.
 
@@ -249,11 +249,9 @@ The table above isn't an argument for smaller groups. It's an argument for match
 
 The accommodation question is the foundation everything else rests on. Getting this right before you pick a headcount — or at least within the first week of planning — is the single highest-leverage logistics decision of the trip.
 
-**Castleday Retreats** handles groups from 14 to 30 in their Bywater villas, and groups up to 90+ across all three villas simultaneously. Each villa has 12 bedrooms and 17 real beds — that's the pitch for the 16-person organizer who wants everyone sleeping in an actual bed. Private pool at every villa, full kitchen, completely private. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews. The Bywater location puts the group in one of NOLA's most interesting residential neighborhoods with the Marigny and French Quarter walkable.
+The field has a few genuinely different shapes. Bywater villas like Castleday Retreats put one group of 14-30 in a private structure with its own pool — each villa runs 12 bedrooms and 17 real beds, the pitch for an organizer who wants everyone sleeping in an actual bed rather than a pullout. The Syd's shared heated pool and hot tub sit in the Lower Garden District, one block from the St. Charles Streetcar, and fit groups up to about 22 per villa — the courtyard becomes the group's social hub rather than each villa having its own. Heirloom's large-format homes across the LGD and Central City are worth checking at any tier for deep inventory or a short-notice booking, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit groups that want separate bills over a shared kitchen.
 
-**The Syd** handles groups up to 22 per villa in the Lower Garden District, with every room designed by a different local New Orleans artist. The shared heated pool, hot tub, sauna, and outdoor kitchen create social infrastructure that's different from the private-pool model — the courtyard becomes the group's social hub. One block from the St. Charles Streetcar line for easy movement across the city. Best for groups where central location and shared social space are priorities over total privacy.
-
-Both properties book early. For peak season dates (Jazz Fest, FQF, Mardi Gras, New Year's, Saints playoff windows), the lead time is months, not weeks.
+Properties across the field book early. For the largest selection, book 6+ months out.
 
 ---
 
@@ -261,5 +259,4 @@ Both properties book early. For peak season dates (Jazz Fest, FQF, Mardi Gras, N
 
 Get the accommodation right first. Everything else follows.
 
-- Castleday Retreats — Bywater villas, 14-30 guests, private pools, 12 BR / 17 real beds per villa
-- The Syd — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, local artist interiors
+[See where to stay for large groups →](/where-to-stay/)
