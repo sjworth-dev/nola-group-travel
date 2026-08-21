@@ -1,11 +1,13 @@
 ---
-title: "The Best Time to Visit New Orleans With a Group: A Month-by-Month Breakdown"
-description: "New Orleans runs on an inverted calendar — October is peak, not shoulder, and summer is the real bargain. The honest month-by-month reference for a group organizer choosing dates."
+title: "Best Time to Visit New Orleans: The Honest Month-by-Month"
+description: "October is peak, not shoulder; summer is the bargain. The honest month-by-month verdict on when to visit New Orleans — and what each month really costs."
 category: "Planning & Logistics"
 card_title: "Best Time to Visit"
 card_description: "October is peak, not shoulder. Summer is the bargain, not the mistake. The honest month-by-month reference for picking your dates."
-date: 2026-07-31
+date: 2026-08-20
 ---
+
+**The short answer:** the best time to visit New Orleans is **October** for weather, **February through May** for the festival run (Mardi Gras, French Quarter Fest, Jazz Fest), and **late January or late August through mid-September** for value. The catch is that you can rarely have all three at once — October's perfect weather comes with the year's fullest pricing, and the cheap months are cheap because of the heat.
 
 Every generic "best time to visit" list defaults to the same script: spring and fall are shoulder season, summer is brutal, book the shoulder months for the best mix of weather and value. None of that applies here.
 
@@ -39,7 +41,7 @@ Most U.S. destinations follow a simple rhythm: summer is peak, spring and fall a
 
 ---
 
-## Month-by-Month
+## Best Time to Visit New Orleans, Month by Month
 
 | Month | Season Tier | Weather | What's Happening | Verdict |
 |-------|-------------|---------|-------------------|---------|
@@ -75,6 +77,12 @@ Late January gets you the year's lowest rates and a city still fully operating, 
 June through November also carries hurricane risk, which is a separate consideration from the pricing calendar entirely — the [hurricane season guide](/guides/nola-group-hurricane-season-guide/) breaks down what a watch or warning actually means for a booked trip and how to plan around it.
 
 ---
+
+## What's the Worst Time to Visit New Orleans?
+
+If the question is purely comfort: mid-July through mid-August. The heat index regularly clears 100°F, midday outdoor plans dissolve, and afternoon thunderstorms are a daily appointment. It's survivable — the [summer group trip guide](/guides/nola-group-summer-trip-guide/) shows how to build a trip around pool hours and air conditioning — but nobody should book it *unaware*.
+
+The sneakier worst time is a festival weekend you didn't know about. Landing on Mardi Gras, Jazz Fest, or Essence by accident means double pricing, booked-out restaurants, and closed parade-route streets for a group that just wanted a normal weekend. Two minutes on the [events calendar](/events/) before locking dates prevents the whole category of mistake.
 
 ## Don't Confuse Risk Season With Value Season
 

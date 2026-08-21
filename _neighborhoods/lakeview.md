@@ -2,7 +2,7 @@
 title: "Lakeview, New Orleans: A Group's Guide"
 description: "Lakefront sunsets, City Park next door, and blessed quiet — Lakeview is the un-touristy base. What groups gain and give up by staying out here."
 category: "Neighborhoods"
-date: 2026-05-26
+date: 2026-08-20
 ---
 
 Lakeview is what New Orleans looks like when it's just being a city — not performing for tourists, not leaning into its own mythology, just being a livable neighborhood where people have houses, kids, and opinions about where to get a good po-boy.
@@ -27,7 +27,7 @@ Lakeview is a mostly residential neighborhood built on slightly higher ground th
 
 ## City Park: The Main Event
 
-For large groups in Lakeview, City Park is the primary destination. Plan at least half a day here.
+For large groups in Lakeview, City Park is the primary destination. Plan at least half a day here — or make it the anchor of a full day with the [Mid-City + City Park full-day guide](/guides/nola-group-mid-city-city-park-full-day-guide/).
 
 | Feature | What It Is | Group Notes |
 |---------|-----------|------------|
@@ -85,7 +85,7 @@ Lakeview is not walking distance from the French Quarter or most major hotel are
 
 **For large groups:** If you're moving 15+ people to City Park, coordinate multiple Ubers or arrange a charter van. Parking at City Park is available and free, so driving in private vehicles is viable for groups with cars.
 
-**Local tip:** The Canal Street streetcar runs from the CBD to City Park — it's slow but free (with a Jazzy Pass) and gives you a look at the Canal Street corridor on the way. Worth it once; for subsequent trips, take the Uber.
+**Local tip:** The Canal Street streetcar runs from the CBD to City Park — slow but cheap, and it gives you a look at the Canal Street corridor on the way. Worth it once; for subsequent trips, take the Uber. The [transportation guide](/guides/transportation-guide/) has the full streetcar-vs-rideshare math for moving a crew.
 
 ---
 
@@ -95,7 +95,7 @@ Lakeview is not walking distance from the French Quarter or most major hotel are
 
 **It isn't:** A nightlife destination, a dense restaurant scene, or a tourist neighborhood. There's nothing wrong with it — it's just not built for that.
 
-**The right use case for large groups:** A half-day or full-day excursion from wherever your group is based. City Park in the morning, lakefront walk in the afternoon, dinner back in your home neighborhood. It's a recovery-pace day that covers real ground without requiring logistics.
+**The right use case for large groups:** A half-day or full-day excursion from wherever your group is based. City Park in the morning, lakefront walk in the afternoon, dinner back in your home neighborhood. It's a recovery-pace day that covers real ground without requiring logistics — the kind of day a [family reunion](/guides/family-reunion/) itinerary is built around, and a natural reset day in any longer trip. For where Lakeview sits against the neighborhoods groups actually sleep in, see the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/).
 
 ---
 
@@ -131,17 +131,10 @@ Lakeview is not walking distance from the French Quarter or most major hotel are
 
 ## Where to Stay for Lakeview-Adjacent Trips
 
-Most groups visiting New Orleans are based in Bywater, Lower Garden District, French Quarter, or Garden District — which are all 15–20 minutes from Lakeview and City Park by car. You don't need to stay in Lakeview to make good use of it; you need a reliable way to get there and back.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. From the Bywater, City Park is a 15-minute Uber north — an easy day trip. The private pools at each villa (The Herald, The Cocodrie, The Florentine) mean you don't need to travel far for the outdoor pool experience the lakefront trip provides. Bywater puts you between Frenchmen Street (10 minutes west) and City Park (15 minutes north), which is a good base for a multi-day itinerary that covers both.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. From the Lower Garden District, City Park is a 15-minute drive north. The St. Charles Streetcar connection is worth knowing for this trip — the Canal Street streetcar from downtown gets you to City Park, which is a reasonable adventure for groups who want to navigate transit rather than Ubers. The Syd's shared heated pool, hot tub, and sauna mean the outdoor amenity at the villa competes well with the lakefront — use both.
+Most groups visiting New Orleans are based in the Bywater, Lower Garden District, French Quarter, or Garden District — all 15–20 minutes from Lakeview and City Park by car. You don't need to stay in Lakeview to make good use of it; you need a reliable way to get there and back, and almost any base neighborhood delivers that. The [where-to-stay overview](/where-to-stay/) compares the whole large-group field by neighborhood and format.
 
 ---
 
 ## The Bottom Line
 
 Lakeview and City Park are the parts of New Orleans that most visitors miss and most residents love. If your group has a day with some flexibility — especially a recovery day where you want to be outside without being in the tourist circuit — this is the right call. City Park alone justifies the trip. The lakefront at sunset makes it worth writing home about.
-
-- Castleday Retreats — Bywater villas, 15 minutes from City Park, private pools, up to 30 guests
-- The Syd — Lower Garden District, up to 22 guests, streetcar access to the Canal Street line north to City Park

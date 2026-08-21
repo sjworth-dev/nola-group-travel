@@ -3,13 +3,13 @@ title: "New Orleans Neighborhoods, Compared for Groups"
 description: "French Quarter, Marigny, Garden District, Bywater and beyond — where a big group should actually base, compared on noise, walkability, and beds."
 category: "Planning & Logistics"
 card_title: "NOLA Neighborhood Comparison for Groups"
-card_description: "The neighborhood you base your group trip in shapes everything else about the trip. Bywater, Marigny, Lower Garden District, and French Quarter each have a different answer for groups of 10-30. Here's the honest breakdown."
-date: 2026-06-29
+card_description: "The neighborhood you base your group trip in shapes everything else about the trip. Bywater, Marigny, Lower Garden District, and French Quarter each answer differently for a big group. Here's the honest breakdown."
+date: 2026-08-20
 ---
 
 Where you stay in New Orleans determines what kind of trip you have. Not entirely — you'll move around the city regardless — but the neighborhood shapes the default evening, the noise at 2am, the walkability of your first morning, and the tone your group absorbs just by being there.
 
-Large groups have fewer neighborhood options than small groups. You need enough accommodation to house 10-30 people together, which means private villas or adjacent houses rather than hotel blocks. That constraint narrows the field to neighborhoods where that kind of accommodation exists at scale — and where the surrounding environment actually supports a group experience.
+Large groups have fewer neighborhood options than small groups. You need enough accommodation to house the whole crew together, which means private villas or adjacent houses rather than hotel blocks. That constraint narrows the field to neighborhoods where that kind of accommodation exists at scale — and where the surrounding environment actually supports a group experience.
 
 Four neighborhoods dominate the conversation for large NOLA groups: the Bywater, the Marigny, the Lower Garden District, and the French Quarter. Each has a real identity, real trade-offs, and a different answer for different group types.
 
@@ -42,6 +42,8 @@ Four neighborhoods dominate the conversation for large NOLA groups: the Bywater,
 
 ## Bywater
 
+*Deep dive: [the Bywater neighborhood guide](/neighborhoods/bywater/)*
+
 The Bywater is where the artists moved when the Marigny got expensive and the French Quarter got too loud. It's still a residential neighborhood — shotgun doubles, Creole cottages, narrow sidewalks — but it's dense with murals, local bars, and the kind of infrastructure that suggests people actually live there.
 
 For large groups, the Bywater has the best accommodation options in the city. Private villas with pools, courtyards, and space for 15-30 people exist here in a way they don't in most other neighborhoods. The Bywater is also quieter than the Marigny — not silent, but the ambient noise level at 2am is lower, which matters if your group has mixed sleep schedules.
@@ -55,6 +57,8 @@ The Bywater's best nightlife (Frenchmen Street) is a 10-15 minute walk or a shor
 ---
 
 ## Marigny
+
+*Deep dive: [the Marigny neighborhood guide](/neighborhoods/marigny/)*
 
 The Marigny sits between the Bywater and the French Quarter and contains Frenchmen Street — which is, by most measures, the best live music block in the country for walk-in, no-cover, authentic New Orleans music. If live music is the centerpiece of your trip, the Marigny is the address that puts you closest to it.
 
@@ -70,6 +74,8 @@ Group villa availability is more limited in the Marigny than in the Bywater. The
 
 ## Lower Garden District
 
+*Deep dive: [the Lower Garden District neighborhood guide](/neighborhoods/lower-garden-district/)*
+
 The Lower Garden District is the residential neighborhood that sits between the Warehouse District and the traditional Garden District. It's quiet in a way that neither the Marigny nor the French Quarter is — the streets are tree-lined, the architecture is Greek Revival and Victorian, and the ambient neighborhood tone is one of people who live there rather than people visiting it.
 
 The St. Charles streetcar runs along the northern edge, which matters more than it sounds: it's transit to Uptown, the Garden District, and the CBD that doesn't require a rideshare. Magazine Street's restaurant and bar corridor runs through the neighborhood and extends in both directions. The proximity to the Warehouse District arts scene is a walkable bonus.
@@ -83,6 +89,8 @@ The LGD's distance from the French Quarter and Frenchmen Street is real. If your
 ---
 
 ## French Quarter
+
+*Deep dive: [the French Quarter neighborhood guide](/neighborhoods/french-quarter/)*
 
 The French Quarter is the city's oldest neighborhood and its most tourist-saturated. Bourbon Street's nightlife infrastructure is designed for very high volume; the residential blocks off Bourbon (Esplanade, Dauphine, Burgundy) are a different world — quieter, local, historic. Most group accommodation in the French Quarter is on or near the commercial side, which puts you in the noise.
 
@@ -126,11 +134,11 @@ Every group needs to eat. The question is whether the neighborhood provides food
 
 ## The Accommodation Question
 
-For groups of 10-30, the accommodation options are narrower than for smaller groups. The neighborhoods with the strongest private villa inventory are the Bywater and the Lower Garden District.
+Once a group goes double-digit, the accommodation options narrow fast. The neighborhoods with the strongest private villa inventory are the Bywater and the Lower Garden District.
 
 The Bywater is home to several multi-villa property clusters that can house 30+ guests — groups who need that capacity will find more options here than anywhere else in the city. Properties with private pools and courtyard space are relatively common compared to the French Quarter, where those features are limited by the historic lot sizes.
 
-The Lower Garden District has a strong villa inventory in the 15-25 guest range, with properties that benefit from the neighborhood's residential character and outdoor space.
+The Lower Garden District has a strong villa inventory for mid-size-to-large crews, with properties that benefit from the neighborhood's residential character and outdoor space.
 
 The Marigny's inventory is smaller. The French Quarter has options but at higher price points and with less outdoor infrastructure.
 
@@ -174,10 +182,8 @@ For groups comparing neighborhoods primarily based on accommodation capability, 
 
 ## Choosing Your Base
 
-The neighborhood question is the first real decision of a large group NOLA trip. Get it right and the trip has a foundation; get it wrong and you're spending energy on logistics instead of experience.
+The neighborhood question is the first real decision of a large group NOLA trip — it comes right after dates in the [planning sequence](/guides/plan-a-group-trip/). Get it right and the trip has a foundation; get it wrong and you're spending energy on logistics instead of experience.
 
-For groups of 15-30 who want a private, villa-centered experience with good outdoor space, the Bywater leads. Castleday Retreats, located in the Bywater, offers multiple villas — up to 30 guests per villa, with private pools, full kitchens, and local-art-filled interiors — within walking distance of the Marigny corridor and Crescent Park's riverside.
-
-For groups who want a central base closer to Magazine Street and the St. Charles Streetcar, the Lower Garden District is the move. Properties like The Syd, located one block from the streetcar in the Lower Garden District, cluster multiple villas around shared amenities — heated pool, hot tub, sauna, outdoor kitchen — for groups up to 22 per villa.
+The short version: a big crew that wants a private, villa-centered trip with real outdoor space looks first at the Bywater; a crew that wants the streetcar, Magazine Street, and a central launch point looks at the Lower Garden District; a music-first crew squeezes into the Marigny; and the French Quarter is for short trips where sleeping inside the postcard is the point. The [where-to-stay overview](/where-to-stay/) compares the actual properties — villas, large-format homes, apartment formats, and room blocks — across all of them.
 
 [See where to stay for large groups →](/where-to-stay/)
