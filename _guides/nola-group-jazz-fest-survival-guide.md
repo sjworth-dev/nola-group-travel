@@ -1,15 +1,15 @@
 ---
 title: "Jazz Fest Survival Guide for Large Groups"
-description: "Jazz Fest for groups of 10-30: fairgrounds navigation, the multi-stage problem, when to split up vs. stay together, the food situation, transport in and out, and how to pace a group across a full Jazz Fest day without casualties."
+description: "Jazz Fest for the whole crew: fairgrounds navigation, the multi-stage problem, when to split up vs. stay together, the food situation, transport in and out, and how to pace a group across a full Jazz Fest day without casualties."
 category: "Festivals & Events"
 card_title: "Jazz Fest Survival Guide"
-card_description: "How to survive Jazz Fest with 15-30 people: transportation, stages, food, and pacing without a single casualty."
-date: 2026-06-20
+card_description: "How to survive Jazz Fest with the whole crew: transportation, stages, food, and pacing without a single casualty."
+date: 2026-08-22
 ---
 
 Jazz Fest is not a normal festival. It's a 7-stage, 500-act, two-weekend, heat-and-humidity-soaked event at the Fair Grounds Race Course — and the groups that struggle are always the ones that treat it like a normal concert, where you show up, find your people, and follow the headliner around.
 
-For groups of 10-30, Jazz Fest requires an actual strategy. The fairgrounds are large enough to lose a group member in. The food situation requires decision-making under pressure. The mid-afternoon sun is a legitimate threat. And the "should we all go to the main stage together" question comes up every 20 minutes and has to be handled before it kills the vibe.
+For the whole crew, Jazz Fest requires an actual strategy. The fairgrounds are large enough to lose a group member in. The food situation requires decision-making under pressure. The mid-afternoon sun is a legitimate threat. And the "should we all go to the main stage together" question comes up every 20 minutes and has to be handled before it kills the vibe.
 
 This guide is the logistics brief your group needs before the first day. Read it before you pick up your wristbands.
 
@@ -18,7 +18,7 @@ This guide is the logistics brief your group needs before the first day. Read it
 ## Quick Checklist
 
 - [ ] Buy tickets before arrival — Jazz Fest does not sell weekend tickets at the gate in meaningful quantities and regularly sells out
-- [ ] Book accommodation 4-6 months out for Jazz Fest weekends — Bywater, Marigny, and Mid-City in particular fill up fast
+- [ ] Book accommodation early — for the largest selection, book 6+ months out. Bywater, Marigny, and Mid-City in particular fill up fast
 - [ ] Download the official Jazz Fest app — it has the full set schedule, stage maps, and food vendor locations in one place
 - [ ] Designate a group rally point before you enter the grounds each day — a specific landmark, not "near the main stage"
 - [ ] Set a mid-afternoon check-in time for everyone: "3pm at the WWOZ tent" keeps the group aware of each other without constant coordination
@@ -62,7 +62,7 @@ Split into groups of 4-6 by music taste or energy level. No one is obligated to 
 
 Stay loosely connected throughout the day, moving between stages in a flexible cluster. Works best for groups with overlapping music preferences and similar energy levels. Falls apart with groups where preferences diverge widely.
 
-**The honest recommendation:** Sub-group from the start, check in at midday and again at the end of the afternoon, and consolidate for the main headliner set if there's one everyone cares about. This is how Jazz Fest works best for groups of 15-30.
+**The honest recommendation:** Sub-group from the start, check in at midday and again at the end of the afternoon, and consolidate for the main headliner set if there's one everyone cares about. This is how Jazz Fest works best when the trip goes double-digit.
 
 ---
 
@@ -198,19 +198,18 @@ Jazz Fest doesn't end when the fairgrounds close. The evening programming in the
 
 ## Large Group Accommodation for Jazz Fest
 
-The villa beats the hotel for Jazz Fest attendance in every meaningful way. After 6+ hours on a fairground in heat and humidity, what the group needs is: a pool, a shower, a kitchen to restock and hydrate, and a private outdoor space where everyone can decompress without paying for another service.
+The [villa beats the hotel](/guides/hotel-vs-villa-guide/) for Jazz Fest attendance in most ways that matter. After 6+ hours on a fairground in heat and humidity, what the group needs is a pool, a shower, a kitchen to restock and hydrate, and a private outdoor space where everyone can decompress without paying for another service.
 
-The villa is that infrastructure. For Jazz Fest specifically, proximity matters — the closer to the Fair Grounds (or to the streets with easy transport), the less friction on the daily in-and-out.
+For Jazz Fest specifically, proximity matters — the closer to the Fair Grounds (or to the streets with easy transport), the less friction on the daily in-and-out. Check the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide too — late April into May is peak season citywide, not just at the fairgrounds, so accommodation and everything else books up early.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with private pools, full kitchens, 12 bedrooms, and 17 real beds per villa. Groups of 14-30 fit cleanly in a single villa; groups up to 90 can take all three. The Bywater location puts the group a rideshare ride from the Fair Grounds, in a neighborhood with its own restaurant and bar scene for the evening. The private pool is the Jazz Fest daily recovery tool — arrive back from the grounds, pool, decompress, dinner. 4.98 average rating across 99 reviews.
+**Editorial examples of what fits:** Castleday Retreats runs three private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool and full kitchen (12 bedrooms, 17 real beds per villa) — a rideshare ride from the Fair Grounds, in a neighborhood with its own restaurant and bar scene for the evening. The Syd, in the Lower Garden District, has a shared heated pool and hot tub one block from the St. Charles Streetcar line, which can cut rideshare costs for festival transport. Heirloom's larger inventory of large-format homes is worth checking for a late booking, and a downtown hotel room block works for a group that wants separate keys and bills. Confirm amenities directly with any property — don't book around an amenity that isn't guaranteed.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen in the courtyard make The Syd's post-festival recovery setup hard to beat for social groups. One block from the St. Charles Streetcar line — you can take the streetcar toward Mid-City and cut the rideshare costs for the festival transport. Local artist-designed interiors make the villa itself worth spending time in, not just a place to sleep.
+For the largest selection, book 6+ months out.
 
-Both properties book quickly for Jazz Fest weekends. Four to six months out is not too early. The attendees who wait until February for a late-April Jazz Fest weekend are doing a different kind of festival experience: hotels, multiple bookings, logistics sprawl.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
-## Book Your Jazz Fest Base
+## Recover, Then Go Again
 
-- Castleday Retreats — Bywater, 14-30 guests per villa, private pool, 12 BR / 17 real beds
-- The Syd — Lower Garden District, up to 22 guests, shared pool + hot tub + sauna, streetcar access
+Jazz Fest days are long, hot, and loud — pace them like the structure above, and don't skip the villa recovery window before the evening starts. Coordinating a group this size gets easier with a plan everyone's seen in advance; the [group communication guide](/guides/group-communication-guide/) and [transportation guide](/guides/transportation-guide/) cover the logistics that make a multi-day festival run sustainable instead of a slog.
