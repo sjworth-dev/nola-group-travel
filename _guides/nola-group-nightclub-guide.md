@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Nightclub Guide for Large Groups"
-description: "VIP tables, bottle service, guest lists, and private room bookings at New Orleans nightclubs for groups of 15-30. What's worth the money, what to skip, and how the economics actually work."
+description: "VIP tables, bottle service, guest lists, and private room bookings at New Orleans nightclubs for the whole crew. What's worth the money, what to skip, and how the economics actually work."
 category: "Nightlife & Music"
 card_title: "NOLA Nightclub Guide"
-card_description: "VIP tables, bottle service, guest lists, and private rooms for groups of 15-30. The real economics and what's actually worth doing."
-date: 2026-06-11
+card_description: "VIP tables, bottle service, guest lists, and private rooms for the whole crew. The real economics and what's actually worth doing."
+date: 2026-08-22
 ---
 
 New Orleans nightclubs work differently than what most groups are used to. The city's 24-hour alcohol laws, walk-around cup culture, and the density of live music venues mean that traditional nightclub logic — pay cover, find a table, order expensive bottles — competes with a dozen better options. Most nights, the clubs lose.
@@ -89,7 +89,7 @@ Bottle service at a NOLA nightclub has the same economics as bottle service anyw
 A bottle of spirit that retails for a certain price will be priced several times higher at a nightclub. This is not a hidden fee or a scam — it's the price of the table, the service, and the experience. The question is whether that price makes sense for your group.
 
 **When bottle service makes sense for your group:**
-- You have 15-25 people who want a shared, cohesive nightclub experience
+- Your whole crew wants a shared, cohesive nightclub experience
 - Your group would otherwise be spending heavily at individual bars anyway
 - You need a guaranteed meeting point where everyone knows where to find the group
 - The occasion (bachelorette, milestone birthday, VIP-feel celebration) justifies elevated spend
@@ -120,7 +120,7 @@ Most NOLA nightclubs and promoters can add a group to a guest list for weekend e
 1. Call the venue directly and ask for the events or promotions contact
 2. Look for the promoter or host who runs the specific night you're targeting — venues post these on their social media
 3. Contact a concierge at your hotel or villa — they often have relationships with promoters
-4. Ask your villa host (Castleday and The Syd both have local connections that can help with this)
+4. Ask your villa or hotel host — many have relationships with local promoters who can help with this
 
 **What to tell them:** Your group size, the date, and the occasion. Larger groups often get better treatment — a group of 20 bachelorettes is good business for any promoter.
 
@@ -161,15 +161,15 @@ Private rooms in NOLA clubs are less standardized than in Vegas or Miami. Ask sp
 
 ## What Actually Works Instead
 
-This is the honest local's perspective: for most groups of 15-30 in New Orleans, the traditional nightclub format is not the best nightlife play. Here's what typically delivers more.
+This is the honest take: for most crews at full headcount in New Orleans, the traditional nightclub format is not the best nightlife play. Here's what typically delivers more.
 
 **A Frenchmen Street late night** — Free to enter, multiple venues to rotate through, genuine live music, energy that peaks naturally between midnight and 2am. No minimum spend. Your group flows between spaces. Better music than most clubs. This is how locals do it.
 
-**A bar buyout** — For the same or sometimes less total spend than a nightclub minimum, you can get exclusive use of a bar or courtyard. Your group has privacy, no strangers wandering through, no competing noise, and a space that reflects New Orleans rather than a generic club aesthetic. See the full guide on bar buyouts for the mechanics.
+**A bar buyout** — For the same or sometimes less total spend than a nightclub minimum, you can get exclusive use of a bar or courtyard. Your group has privacy, no strangers wandering through, no competing noise, and a space that reflects New Orleans rather than a generic club aesthetic. See the [full guide on bar buyouts](/guides/nola-group-bar-buyout-guide/) for the mechanics.
 
 **A brass band-fueled second line** — Hire a band for two hours. Take over a courtyard or a bar's outdoor space. A second line for 20 people is a private nightclub with live music, total control over the experience, and zero minimum spend drama.
 
-**The villa as the party** — A private pool party at a Castleday villa or The Syd, with a Bluetooth speaker and a bottle order from the liquor store, often delivers more fun for large groups than a nightclub at a fraction of the cost.
+**The villa as the party** — A private [pool party](/guides/villa-pool-party-guide/) at your own rental, with a Bluetooth speaker and a bottle order from the liquor store, often delivers more fun for large groups than a nightclub at a fraction of the cost.
 
 None of this means skip clubs entirely. It means use them intentionally, for the right occasion, for the right crowd.
 
@@ -237,19 +237,12 @@ Getting 20 people to the same club, into the same section, at the same time, is 
 
 ---
 
-## The 15-30 Person Accommodation Play
+## The After-Club Accommodation Play
 
-The most overlooked factor in nightclub group trips isn't the club — it's where you go after. Nightclubs end. The group is awake. Everyone's somewhere between energized and tired. Having a private villa means the after-party is automatic: you walk in, the pool is there, the kitchen is stocked, and whoever's still going can keep going on your terms.
+The most overlooked factor in nightclub group trips isn't the club — it's where you go after. Nightclubs end. The group is awake. Everyone's somewhere between energized and tired. Having a private base means the after-party is automatic: you walk in, the pool is there, the kitchen is stocked, and whoever's still going can keep going on your terms.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private outdoor space — pools, covered areas, and room for a group to decompress after a night out. The Bywater location is close to Frenchmen Street, which makes the after-club transition seamless: leave the venue, walk to Frenchmen, absorb one final set, then back to the villa. Castleday hosts also have relationships with local promoters and can help with VIP and guest list logistics for groups.
+**Editorial examples of what fits:** Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool — the Bywater location is close to Frenchmen Street, which makes the after-club transition seamless: leave the venue, walk to Frenchmen, absorb one final set, then back to the villa. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub one block from the streetcar, within reach of the CBD club district. Heirloom's larger inventory of large-format homes is worth checking on shorter notice, and a hotel room block works for a group that wants separate keys and bills after a night out. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool, hot tub, and sauna are specifically valuable as post-club recovery infrastructure. The streetcar is one block away — accessible from anywhere downtown and a reasonable option for groups who want to avoid Uber surge after a club night. The Syd's location also puts you within reach of the CBD club district without a long return trip.
+For the largest selection, book 6+ months out.
 
-Both properties are significantly better after-club options than 30 people trying to figure out late-night logistics from a hotel block.
-
----
-
-## Plan Your Night Out
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street walkable, local connections for club and guest list logistics
-- The Syd — Lower Garden District villas, up to 22 guests per villa, shared pool and hot tub, St. Charles Streetcar access, CBD club district proximity
+[See where to stay for large groups →](/where-to-stay/)
