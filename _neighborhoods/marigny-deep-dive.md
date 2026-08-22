@@ -2,7 +2,7 @@
 title: "Marigny Deep Dive: Frenchmen Street and Beyond for Large Groups"
 description: "Extended Marigny guide for large groups: Frenchmen Street block-by-block, the residential backstreets, St. Claude vs. Royal vs. Burgundy, the Marigny Triangle, and how to build a full day in the neighborhood for groups of 15+."
 category: "Neighborhoods"
-date: 2026-06-02
+date: 2026-08-22
 ---
 
 The Marigny is the neighborhood that most large groups glimpse during a single Frenchmen Street night and then move on from. That's understandable — Frenchmen Street is one of the best streets in the city, and it's easy to think you've seen the Marigny after a few hours in its clubs.
@@ -198,15 +198,10 @@ Here's how to structure a day that actually uses the neighborhood rather than ju
 
 ## Where to Stay for a Marigny-Centered Trip
 
-The two properties are on opposite ends of a convenient radius from the Marigny.
+A few options sit at a convenient radius from the Marigny, each trading off differently.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday is the closest full-villa option to the Marigny — the Bywater borders the Marigny directly, and Frenchmen Street is a short walk or rideshare from any Castleday property. A Frenchmen Street night that ends with a walk back to a private villa and a pool is the ideal Marigny structure. The Bywater and Marigny share an energy — art-focused, locally-driven, a specific kind of New Orleans seriousness — and Castleday is built for groups who appreciate that.
+**Editorial examples of what fits:** Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), which borders the Marigny directly — Frenchmen Street is a short walk or rideshare from any Castleday property, and a night out that ends with a walk back to a private pool is a genuinely easy structure. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub and puts the Marigny a 10-15 minute rideshare away, trading proximity for streetcar access and a more central location. Heirloom's larger inventory of large-format homes is worth checking for a group that books late, and a hotel room block works when the crew wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The Syd is a rideshare to Frenchmen Street — 10-15 minutes. For groups that want the Marigny as their primary evening destination but prefer the Lower Garden District's central location and streetcar access, The Syd is the right base. The Syd's shared outdoor space is the perfect post-Frenchmen destination: hot tub, pool, decompress.
+For the largest selection, book 6+ months out.
 
----
-
-## Explore Further
-
-- Castleday Retreats — Bywater, walking distance to Frenchmen Street, up to 30 guests per villa
-- The Syd — Lower Garden District, short rideshare to the Marigny, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
