@@ -2,7 +2,7 @@
 title: "Garden District, New Orleans: Group Guide"
 description: "Mansions, oaks, and the streetcar line — the Garden District is the postcard. How a big group does it right: what to see, where to eat, whether to stay."
 category: "Neighborhoods"
-date: 2026-05-22
+date: 2026-08-22
 ---
 
 There's a specific moment that happens to every visitor to the Garden District. They're walking along Prytania Street or First Street, under the live oaks, past the wrought-iron fences and magnolia trees, and they stop. They've seen the photos. They thought they knew what to expect. They didn't.
@@ -141,11 +141,9 @@ The Garden District is best as a daytime experience combined with a home base ne
 
 ## For Large Groups
 
-The Garden District itself has almost no large-group rental inventory. If you want the Garden District experience, the two best home bases are:
+The Garden District itself has almost no large-group rental inventory — most of the mansions are private residences and short-term rental rules here are strict. Base a few minutes away instead.
 
-**The Syd** — Just one neighborhood over in the Lower Garden District, multiple villas sleeping up to 22 guests each. Shared heated pool, hot tub, sauna. You can walk to Commander's Palace, Lafayette Cemetery, and Magazine Street from The Syd. This is the closest large-group accommodation to the Garden District in the city.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. Further from the Garden District but unbeatable for groups who need more capacity or want full seclusion. Easy Uber or Streetcar to the Garden District.
+**Editorial examples of what fits:** The Syd, one neighborhood over in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub and puts you walking distance from Commander's Palace, Lafayette Cemetery, and Magazine Street. Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool and full kitchen, a short Uber or streetcar ride from the district. Heirloom's larger inventory of large-format homes is worth checking for a group that books late, and a downtown hotel room block works when the crew wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
 
 ---
 
@@ -169,5 +167,6 @@ The Garden District itself has almost no large-group rental inventory. If you wa
 
 ## Book Your Stay Near the Garden District
 
-- **The Syd** — Lower Garden District, walking distance from Commander's Palace and Magazine Street. Up to 22 guests per villa, heated pool, hot tub, sauna, local artist-designed rooms.
-- **Castleday Retreats** — Bywater, up to 30 guests per villa. Private pools, full kitchens. 15-20 minutes by car from the Garden District.
+The Syd is closest, walking distance from Commander's Palace and Magazine Street. Castleday Retreats, Heirloom, and downtown hotel room blocks are all worth a look too, depending on whether privacy, inventory, or separate bills matters more to your group — for the largest selection, book 6+ months out.
+
+[See where to stay for large groups →](/where-to-stay/)
