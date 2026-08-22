@@ -4,7 +4,7 @@ description: "Music setup, inflatable gear, food and drinks, safety logistics, a
 category: "Activities & Day Trips"
 card_title: "Villa Pool Party Guide"
 card_description: "How to run a proper private pool party for the whole crew. Music, gear, food, safety, and the post-party night-out structure."
-date: 2026-06-01
+date: 2026-08-22
 ---
 
 A pool party for the whole crew is different from a [pool day](/guides/nola-pool-day-guide/). A pool day is relaxed. A pool party has music, inflatables, a drink program, and people are actually partying around a pool, not just napping in chairs.
@@ -269,7 +269,7 @@ Assign this before the party ends. "We'll deal with it tomorrow" produces a disa
 
 Not every rental can run a proper pool party. You need a real pool, real outdoor space, and a kitchen that can support batch cocktail prep and a cookout.
 
-**Editorial examples of what fits:** villas like Castleday Retreats sit in the [Bywater](/neighborhoods/bywater/) with a private pool per house — no sharing the water with other guests or working around anyone else's access times, plus a full kitchen for batch cocktail prep. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool, hot tub, and an outdoor kitchen purpose-built for cooking at group scale. Hotel Perle's rooftop pool is worth a look if the group would rather split into suites with separate bills. None of these is a booking recommendation — pick based on whether your group wants one private pool or a shared one, and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff in more depth.
+**Editorial examples of what fits:** villas like Castleday Retreats sit in the [Bywater](/neighborhoods/bywater/) with a private pool per house — no sharing the water with other guests or working around anyone else's access times. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub one block from the streetcar. Hotel Perle's rooftop pool is worth a look if the group would rather split into suites with separate bills — confirm any kitchen or bar setup with the property directly before planning around it. None of these is a booking recommendation — pick based on whether your group wants one private pool or a shared one, and the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff in more depth.
 
 For the largest selection, book 6+ months out.
 
