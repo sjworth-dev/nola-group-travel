@@ -3,8 +3,8 @@ title: "New Orleans Cooking Classes for Large Groups"
 description: "Cooking classes for large groups in New Orleans: the New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun distinctions, what you'll make, and how to turn a 2-hour class into a full morning activity."
 category: "Activities & Day Trips"
 card_title: "Cooking Class Guide"
-card_description: "The New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun — how to do a real cooking class with 15-25 people."
-date: 2026-06-02
+card_description: "The New Orleans School of Cooking, private chef instruction at the villa, Creole vs. Cajun — how to do a real cooking class with the whole crew."
+date: 2026-08-22
 ---
 
 A cooking class in New Orleans is one of those activities that works for every type of group. Corporate retreats that need a team activity. Bachelorette parties looking for an afternoon that isn't a bar. Family reunions where mixing generations matters. Couples trips wanting an authentic experience beyond restaurants.
@@ -45,7 +45,7 @@ The New Orleans School of Cooking has been running culinary classes in the Frenc
 
 **What you make:** The curriculum rotates but typically includes classic Louisiana dishes — gumbo, jambalaya, red beans and rice, bread pudding, pralines, bananas Foster. Different class formats focus on different dishes.
 
-**Group logistics:** The school has a large demonstration kitchen that can accommodate sizable groups. For private group bookings, they can customize the curriculum, timing, and meal components. Call directly to discuss private group options for 15-25+ people rather than trying to book through the standard ticketing process.
+**Group logistics:** The school has a large demonstration kitchen that can accommodate sizable groups. For private group bookings, they can customize the curriculum, timing, and meal components. Call directly to discuss private group options for a bigger crew rather than trying to book through the standard ticketing process.
 
 **Why it works for large groups:** You don't need to worry about everyone crowding around a single stovetop. The demonstration format is designed for audiences. It's also efficient — you get context, history, technique, and a meal all in one session.
 
@@ -57,7 +57,7 @@ The New Orleans School of Cooking has been running culinary classes in the Frenc
 
 For groups staying at a private villa, bringing the instructor to you is a different and often better experience. You're in your own kitchen. You're cooking on your own stove. The class is structured around your group alone.
 
-**How it works:** A private chef or culinary instructor comes to the villa with ingredients, mise en place already done, and a structured lesson plan. Groups of 8-20 work hands-on, with everyone participating in actual cooking rather than watching.
+**How it works:** A private chef or culinary instructor comes to the villa with ingredients, mise en place already done, and a structured lesson plan. A moderate-sized group works hands-on, with everyone participating in actual cooking rather than watching.
 
 **Why it can be better for the right group:** The hands-on format creates more engagement. It's noisier, more social, more chaotic, and more fun for groups that want to participate rather than observe. It also ends in a meal you cooked together, which is a different experience than restaurant food.
 
@@ -67,7 +67,7 @@ For groups staying at a private villa, bringing the instructor to you is a diffe
 - Confirm they bring all ingredients and equipment, or discuss kitchen needs in advance
 - Establish the timeline clearly: class length, meal time, cleanup expectations
 
-**Group kitchen logistics:** Villa kitchens vary. Castleday Retreats and The Syd have full kitchens, but a single kitchen feeding 20 people a hands-on class requires some station planning. Ask the instructor how they structure large groups — rotating cooking stations, assignment of specific tasks to subgroups, etc.
+**Group kitchen logistics:** Villa kitchens vary widely — confirm the setup before you book around it. Even a real, full-size kitchen feeding a full crew a hands-on class requires some station planning. Ask the instructor how they structure large groups — rotating cooking stations, assignment of specific tasks to subgroups, etc.
 
 ---
 
@@ -162,15 +162,14 @@ This is NOLA. People want to drink during the cooking class.
 
 ## Where to Stay for a Cooking-Focused Trip
 
-Private instruction works best at a property with a real kitchen. Both Castleday and The Syd have the kind of full residential kitchens that make villa cooking instruction practical.
+Private instruction works best at a property with a real kitchen, not a hotel-room kitchenette. Confirm kitchen setup with any property directly before booking around it — a villa cooking class for a full crew needs actual counter space and stove capacity, not just a listed amenity.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. Castleday's full villa kitchens are set up for real cooking — not hotel-room kitchenettes. A private chef instruction class in a Castleday kitchen, followed by eating what you made around a large table, is the ideal villa cooking experience. The Bywater location also puts you close to some of the city's best food shops and markets for the post-class grocery run.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. The Bywater location also puts you close to some of the city's best food shops and markets for the post-class grocery run.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Rooms designed by local New Orleans artists. Shared outdoor kitchen, heated pool, hot tub, sauna. The Syd's outdoor kitchen extends the cooking experience beyond the villa interior — the outdoor space is designed for group meals and gatherings. After a morning class, The Syd's pool and outdoor kitchen area is the natural place to decompress and eat.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool and hot tub one block from the streetcar. After a morning class, the pool area is a natural place to decompress and eat.
 
----
+**Heirloom** has the deepest inventory of large-format homes in the city if your group is booking on short notice, and a downtown hotel room block works for a crew that wants separate keys and bills alongside a private chef visit.
 
-## Plan Your Cooking Class
+For the largest selection, book 6+ months out.
 
-- Castleday Retreats — Bywater, up to 30 per villa, full kitchens, private pools
-- The Syd — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool
+[See where to stay for large groups →](/where-to-stay/)
