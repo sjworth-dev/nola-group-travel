@@ -3,13 +3,13 @@ title: "New Orleans Group Fishing Guide"
 description: "Inshore marsh, offshore Gulf, and Lake Pontchartrain fishing for large groups: how to book charter boats, split groups across multiple vessels, what species to target by season, and the full fishing-day structure for a NOLA guys trip."
 category: "Activities & Day Trips"
 card_title: "Group Fishing Guide"
-card_description: "Inshore, offshore, Pontchartrain. How to book charters for 15-25 people, split across boats, and build a full fishing day around it."
-date: 2026-06-02
+card_description: "Inshore, offshore, Pontchartrain. How to book charters for the whole crew, split across boats, and build a full fishing day around it."
+date: 2026-08-22
 ---
 
 New Orleans is surrounded by water. The Mississippi River. Lake Pontchartrain. The Atchafalaya Basin. The coastal marshes of Barataria. The Gulf of Mexico, less than an hour south. Most visitors have no idea they're standing in the middle of one of the most productive fishing regions in North America.
 
-For large groups — especially guys trips and sports-focused weekends — fishing is the activity that fills the morning before the drinking starts. It produces genuine shared experience. It does not require everyone to be an expert. And the fishing around New Orleans is legitimately world-class, not tourist-grade.
+For large groups — especially guys trips and sports-focused weekends — fishing is the activity that fills the morning before the drinking starts. It produces genuine shared experience. It does not require everyone to be an expert. And the fishing around New Orleans is legitimately world-class, not tourist-grade. If your group wants time on the water without the pre-dawn wake-up, a [swamp tour](/guides/nola-swamp-tour-guide/) covers similar territory at a slower pace.
 
 The challenge for groups is logistics. Charter boats have capacity limits. A group of 20 needs multiple vessels, which means coordination. This guide explains how to actually book and execute a full fishing day for a large group.
 
@@ -22,7 +22,7 @@ The challenge for groups is logistics. Charter boats have capacity limits. A gro
 - [ ] Book at least 3-4 weeks out for weekend dates — popular captains fill fast, especially spring and fall
 - [ ] Confirm vessel capacity and whether you need one boat or multiple
 - [ ] Ask about departure times — most inshore charters leave well before sunrise
-- [ ] Coordinate transportation to the marina (charter a van or minibus — multiple Ubers to a pre-dawn departure is chaos)
+- [ ] Coordinate [transportation](/guides/transportation-guide/) to the marina (charter a van or minibus — multiple Ubers to a pre-dawn departure is chaos)
 - [ ] Pack: sunscreen, polarized sunglasses, hat, water, snacks, layers for early morning
 - [ ] Confirm fishing licenses — most charter captains cover this in the trip price, but confirm in writing
 - [ ] Plan the rest of the day around a late-morning or noon return and a group meal
@@ -113,7 +113,7 @@ Most charter boats provide rods, reels, tackle, and bait. You do not need to bri
 | Summer (Jun–Aug) | Speckled trout, flounder | Yellowfin, mahi-mahi, wahoo | Flounder, speckled trout |
 | Fall (Sep–Nov) | Redfish (peak season), speckled trout | Yellowfin tuna, amberjack | Speckled trout, redfish |
 
-**Bottom line:** Fall is the best overall window for inshore fishing, particularly September through November when redfish are in the grass and speckled trout are stacked. Spring is the best window for offshore yellowfin tuna. Summer works but heat and mosquitoes at pre-dawn departures are significant.
+**Bottom line:** Fall is the best overall window for inshore fishing, particularly September through November when redfish are in the grass and speckled trout are stacked — and per the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide, October is also the city's best all-around month, so a fishing morning pairs well with the rest of a fall trip. Spring is the best window for offshore yellowfin tuna. Summer works but heat and mosquitoes at pre-dawn departures are significant.
 
 ---
 
@@ -201,15 +201,8 @@ Offshore is the full-day commitment. Budget nothing else for that day.
 
 After a 5am departure, you need a home base worth coming back to. That means a kitchen for a fish fry, a pool for the afternoon, and space for the whole group to gather.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. If you're cooking your catch at home — and you should — Castleday's full villa kitchens are the right setup. Private pool for the afternoon recovery. Castleday's Bywater location also puts you close to the best spots for a fishing-day evening out.
+**Editorial examples of what fits:** Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a full kitchen and private pool — good for cooking the catch and recovering afterward, close to the neighborhood's own bar and restaurant scene for the evening. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub one block from the St. Charles Streetcar. Heirloom's larger inventory of large-format homes is worth checking for a group that books late, and a hotel room block works when the crew wants separate keys and bills. Confirm kitchen setup and amenities directly with any property before you plan the fish fry around it — don't book on an assumption.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen. For a group doing a fish fry or cookout after a fishing day, The Syd's outdoor kitchen is the perfect venue. Come back from the marina, clean up, get the grill going, and feed 20 people by 3pm.
+For the largest selection, book 6+ months out.
 
-Both properties give you the private space, kitchen access, and outdoor areas that make a fishing day complete — from the pre-dawn departure to the post-fish meal.
-
----
-
-## Book Your Fishing Trip
-
-- Castleday Retreats — Bywater, up to 30 per villa, full kitchens for the post-catch cook
-- The Syd — Lower Garden District, up to 22 per villa, outdoor kitchen, shared pool
+[See where to stay for large groups →](/where-to-stay/)
