@@ -4,7 +4,7 @@ description: "Everything large groups need to know about New Orleans swamp tours
 category: "Activities & Day Trips"
 card_title: "Swamp Tour Guide"
 card_description: "Private vs. group, airboat vs. pontoon, what to actually expect. The complete swamp tour playbook."
-date: 2026-06-02
+date: 2026-08-22
 ---
 
 New Orleans sits at the edge of one of the largest wetland systems in North America. The Atchafalaya Basin, the Honey Island Swamp, the coastal marshes of Barataria — these aren't decorative backdrops. They're living ecosystems with alligators, egrets, roseate spoonbills, nutria, turtles, and cypress forests draped in Spanish moss. You are an hour from genuine Louisiana wilderness.
@@ -33,7 +33,7 @@ Most people don't realize there are two completely different types of swamp tour
 
 An airboat is a flat-bottomed vessel propelled by an aircraft-style propeller mounted on the back. They move fast — fast enough to be exhilarating. They skim over shallow marsh water, navigate through vegetation, and can get into places a traditional boat can't reach.
 
-**The experience:** Loud, fast, windy, and visually dramatic. Everyone is leaning into turns and watching the scenery blur. The guide speaks through a headset and you hear through speakers. Wildlife encounters still happen — alligators surface, birds scatter — but the speed and noise reduce close-range interaction with wildlife.
+**The experience:** Loud, fast, windy, and visually dramatic. Everyone is leaning into turns and watching the scenery blur. The guide speaks through a headset and you hear through speakers. Wildlife encounters still happen — alligators surface, birds scatter — but the speed and noise reduce close-range interaction with wildlife. If your group wants the full case for airboats over the quieter alternatives, the [airboat deep dive](/guides/nola-group-airboat-deep-dive-guide/) goes further into operators and what a ride actually feels like.
 
 **Best for:** Groups that want the adventure and spectacle over quiet observation. Groups with restless members, younger participants, or anyone who responds to speed and noise. Groups doing a swamp tour as the "active/exciting" box of the trip rather than as nature education.
 
@@ -55,7 +55,7 @@ A larger, slower boat — often covered, often guided by someone who grew up fis
 
 ### Kayak Tours
 
-A third option for groups with more adventurous participants. Guided kayak tours into the bayou put you in the water rather than on top of it. Slower than both boat options, more physically engaging, and the closest encounter with the ecosystem you can get.
+A third option for groups with more adventurous participants. Guided kayak tours into the bayou put you in the water rather than on top of it. Slower than both boat options, more physically engaging, and the closest encounter with the ecosystem you can get. The [full kayak breakdown](/guides/nola-group-bayou-kayak-guide/) covers routes, gear, and multi-guide logistics in more depth than this section can.
 
 **For large groups:** Most kayak swamp tours cap at 10-12 participants per guide. A group of 20 would need two guides and two departure boats. Coordinating this is doable but requires more advance planning.
 
@@ -94,7 +94,7 @@ You book the entire boat. It's your group, your guide, your schedule — within 
 
 **Why it's worth it for groups of 15+:** The guide calibrates the experience to your group. You stop where you want. You ask the questions you want. You stay longer at the interesting spots and move faster through the others. There's no stranger awkwardness when half your group wants to take photos while the other half is already bored.
 
-**Cost reality:** Private tours cost more per boat but not necessarily per person once your group is large enough to fill the boat. At 15-20 people, the premium over shared departures narrows considerably.
+**Cost reality:** Private tours cost more per boat but not necessarily per person once your group is large enough to fill the boat. Once the whole crew is on board, the premium over shared departures narrows considerably.
 
 **How to book:** Call operators directly. Ask specifically about private group departures for your count. Get a quote. Compare 2-3 operators.
 
@@ -146,7 +146,7 @@ Multiple operators base here. Good first-swamp-tour option for groups on tighter
 
 ## Transportation for Large Groups
 
-Getting 15-25 people from the city to a swamp tour departure is a logistics problem you need to solve before the day of.
+Getting the whole crew from the city to a swamp tour departure is a logistics problem you need to solve before the day of. The [transportation guide](/guides/transportation-guide/) covers vehicle options and pricing in full; here's what applies specifically to a swamp tour departure.
 
 **Option 1: French Quarter or hotel pickup.** Several operators offer round-trip transportation included in the tour price. This is the easiest option for large groups — one van picks everyone up, delivers everyone back. Confirm capacity when booking.
 
@@ -228,7 +228,7 @@ If your group wants to go deeper than a 2-hour swamp tour, consider a full-day t
 
 This is not a quick addition to a swamp tour day. It's its own day trip. But if you have 4-5 days and want one day that goes further into Louisiana culture, Cajun Country offers a different ecosystem, different food culture, and a chance to see the French Louisiana tradition that's distinct from New Orleans proper.
 
-See the [Day Trips Guide](/guides/day-trips) for the full Cajun Country day structure.
+See the [Day Trips Guide](/guides/day-trips/) for the full Cajun Country day structure.
 
 ---
 
@@ -252,17 +252,10 @@ See the [Day Trips Guide](/guides/day-trips) for the full Cajun Country day stru
 
 ## Where to Stay for a Swamp-Focused Trip
 
-A swamp tour is a half-day activity. The other half of that day is at your home base. Make the base worth coming back to.
+A swamp tour is a half-day activity. The other half of that day is at your home base — and after a morning sunburned and muddy from a boat deck, that base needs a pool and a kitchen, not a lobby.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, completely private. Coming back from a swamp tour to a private pool and a full kitchen for a group lunch is the ideal post-tour afternoon. Castleday's Bywater location also puts you walking distance from Frenchmen Street for an easy evening after a full outdoor day.
+**Editorial examples of what fits:** Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool and full kitchen — good for a group lunch straight off the boat, with Frenchmen Street walkable for the evening. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub one block from the St. Charles Streetcar. Heirloom's larger inventory of large-format homes is worth checking on shorter notice, and a hotel room block works for a group that wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar. The Syd's shared outdoor amenities — pool, hot tub, outdoor kitchen — are perfect for a group that wants to decompress together after a day in the heat. Cook a late lunch, get in the pool, eat again. That's the move.
+For the largest selection, book 6+ months out.
 
-Both properties are better than hotel rooms for a group coming back sunburned and muddy from a swamp tour. You need a pool and a kitchen, not a lobby.
-
----
-
-## Plan Your Swamp Tour Trip
-
-- Castleday Retreats — Private villas in the Bywater, up to 30 guests, private pools
-- The Syd — Lower Garden District, up to 22 guests, shared pool, hot tub, sauna
+[See where to stay for large groups →](/where-to-stay/)
