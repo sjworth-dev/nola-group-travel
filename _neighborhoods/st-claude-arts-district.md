@@ -2,7 +2,7 @@
 title: "St. Claude Arts District — New Orleans Group Travel Guide"
 description: "The full neighborhood guide for the St. Claude Arts District: the galleries and studios, the Second Saturday art walk, the community context, and what the neighborhood actually looks and feels like for a group visit."
 category: "Neighborhoods"
-date: 2026-06-04
+date: 2026-08-23
 ---
 
 The St. Claude Arts District runs along St. Claude Avenue from the French Quarter edge down through the Bywater and into the Lower Ninth Ward. It is the least curated, most genuinely alive art corridor in New Orleans — the kind of place where studios are in shotgun houses, galleries are in former auto shops, and the line between commercial art space and working artist's home is intentionally blurred.
@@ -42,7 +42,7 @@ This is the main event. Galleries open, studios welcome visitors, new shows debu
 - The sidewalk between spaces is part of the event — people cluster outside, music sometimes, definitely conversations
 
 **Group logistics for Second Saturday:**
-- A group of 15-25 does not need to move as a unit through galleries. Let people self-organize into smaller clusters of 4-6 and agree on a central meeting point.
+- The whole crew doesn't need to move as a unit through galleries. Let people self-organize into smaller clusters of 4-6 and agree on a central meeting point.
 - Splitting into groups also means a single large group doesn't overwhelm a small studio space
 - Not every space can handle 20 people at once; stagger your entries
 - Plan to be in the neighborhood from 6pm to at least 9pm; earlier arrivals get the most space in popular shows
@@ -181,15 +181,8 @@ Second Saturdays occur monthly, year-round. The art walk is not affected by weat
 
 The St. Claude Arts District is deepest in the Bywater and the Marigny. Proximity to these neighborhoods means you can walk to the art walk and to Frenchmen Street without any transportation.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Castleday properties sit within the arts district itself — the Bywater is the heart of the St. Claude scene. Walking to galleries and back to the villa, sending groups in different directions during a Second Saturday, ending the night at the private pool after Frenchmen Street: this is the ideal setup. The art-filled interiors of the villas are in conversation with the neighborhood — Castleday was built with the same local-art sensibility as the spaces you'll be visiting.
+A Bywater villa like Castleday sits within the arts district itself, with the private pool waiting on the other end of a Second Saturday night. Heirloom's larger inventory across the Lower Garden District and Central City is worth checking if you're booking closer to the date. A Lower Garden District villa, including The Syd, runs a 15-20 minute Uber from the St. Claude core — manageable, and useful if the trip is combining St. Claude with other Lower Garden District activities like the Oretha Castle Haley corridor or Magazine Street. Confirm current amenities directly before booking rather than assuming a specific pool or kitchen setup. If St. Claude is one stop among several neighborhoods rather than the whole trip, a downtown hotel room block or Hotel Perle's suites also put the group within rideshare range.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Syd is a 15-20 minute Uber from the St. Claude core, which is entirely manageable. For groups combining a St. Claude Second Saturday with other Lower Garden District activities — the Oretha Castle Haley corridor, Magazine Street, the streetcar line — The Syd's position makes sense. The shared heated pool, hot tub, sauna, and outdoor kitchen are excellent recovery amenities after a full evening of gallery-hopping.
+For the largest selection, book 6+ months out.
 
-If St. Claude is the central activity of your trip, Castleday's Bywater location is the natural home base. If St. Claude is one stop among several neighborhoods, either property works.
-
----
-
-## Plan Your St. Claude Visit
-
-- Castleday Retreats — Bywater villas inside the arts district, private pools, art throughout, up to 30 guests per villa
-- The Syd — Lower Garden District villas, streetcar and rideshare access to St. Claude, shared pool and outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
