@@ -180,9 +180,7 @@ Bourbon Street drops a giant fleur-de-lis at midnight. The entire city becomes a
 
 ### For Large Groups
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens perfect for holiday cooking. Space for the whole extended family.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool and hot tub. Central location.
+The field spans private-pool villas to hotel-style suites — pick by what the holiday actually needs. Heirloom has the deepest inventory of large-format homes if you're booking short-notice. Hotel Perle's CBD suites give grandparents and kids separate bills and separate quiet. The Syd's Lower Garden District villas work when the group wants a shared pool and central location. Castleday's Bywater villas fit a group that wants total privacy for the whole extended family.
 
 ### What Matters for Holidays
 
@@ -198,7 +196,7 @@ Bourbon Street drops a giant fleur-de-lis at midnight. The entire city becomes a
 
 ### Book Early
 
-Holiday rentals book 6-12 months ahead. Thanksgiving and NYE are especially competitive.
+For the largest selection, book 6+ months out. Thanksgiving and NYE are especially competitive.
 
 ### Restaurant Reservations
 
@@ -239,8 +237,6 @@ Holidays are about being together. New Orleans just gives you a better backdrop 
 
 ## Book Your Holiday Gathering
 
-For holiday large groups, you need a villa with a real kitchen and a real dining area — not a hotel. Holiday cooking is part of the experience, and a big common space is what turns a trip into an actual gathering.
-
-Castleday Retreats (Bywater, up to 30 guests per villa, private pools, full kitchens) and The Syd (Lower Garden District, up to 22 guests per villa, shared heated pool and hot tub, outdoor kitchen) are the two large-group options in New Orleans. Book early — Thanksgiving and New Year's weeks fill 4-6 months out.
+For holiday large groups, you need a real kitchen and a real dining area — hotel rooms don't give you either. Holiday cooking is part of the experience, and a big common space is what turns a trip into an actual gathering. Villas cover that best, but a hotel room block still works for a mixed-budget family that wants separate keys and bills. For the largest selection, book 6+ months out — Thanksgiving and New Year's weeks go first.
 
 [See where to stay for large groups →](/where-to-stay/)
