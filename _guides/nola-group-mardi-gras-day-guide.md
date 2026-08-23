@@ -1,19 +1,19 @@
 ---
 title: "Mardi Gras Day Guide for Large Groups in New Orleans"
-description: "Fat Tuesday for groups of 15-30: the Zulu and Rex parade routes and timing, navigating the streets with 20 people, the St. Charles neutral ground strategy, managing the late-afternoon stretch, and what actually happens at midnight when the city goes quiet."
+description: "Fat Tuesday at full headcount: the Zulu and Rex parade routes and timing, navigating the streets with the whole crew, the St. Charles neutral ground strategy, managing the late-afternoon stretch, and what actually happens at midnight when the city goes quiet."
 category: "Festivals & Events"
 card_title: "Mardi Gras Day (Fat Tuesday)"
-card_description: "Zulu and Rex parade timing, the St. Charles neutral ground strategy for groups of 20, the post-parade afternoon drift, and what happens at midnight when the city goes quiet."
-date: 2026-06-24
+card_description: "Zulu and Rex parade timing, the St. Charles neutral ground strategy for the whole crew, the post-parade afternoon drift, and what happens at midnight when the city goes quiet."
+date: 2026-08-23
 ---
 
 Mardi Gras Day is the best day and the hardest day. It is the culmination of a two-week season that has been building since January 6th — weeks of parades, parties, and costume escalation — and it arrives on a Tuesday when the entire city has been operating on whatever sleep is left after the weekend.
 
-For groups of 15-30, Fat Tuesday requires more advance planning than any other day of the season. The parades overlap. The crowds are at their peak. Movement is slow. People get separated. And none of the normal logistics — rideshares, restaurant reservations, any of it — behave the way they do on a normal day.
+At full headcount, Fat Tuesday requires more advance planning than any other day of the season. The parades overlap. The crowds are at their peak. Movement is slow. People get separated. And none of the normal logistics — rideshares, restaurant reservations, any of it — behave the way they do on a normal day.
 
 But done right, Mardi Gras Day is unlike anything else a group can experience in this city or anywhere else. The Zulu parade is one of the most significant parades in the city's history. The Rex parade is the city's formal carnival king. The streets of the Garden District and Uptown on Fat Tuesday morning have a collective energy that takes about 20 minutes to describe accurately and is better experienced than described.
 
-This guide is the logistics brief.
+This guide is the logistics brief for the day itself. If you're still working out the rest of the [Mardi Gras season](/guides/mardi-gras-group-guide/) — which weekend to arrive, which parades matter before Fat Tuesday — start there and come back here for the day-of plan.
 
 ---
 
@@ -58,7 +58,7 @@ Rex is the official carnival king of New Orleans. The Rex parade is the most for
 
 The "neutral ground" is what New Orleanians call the median strip running down the center of St. Charles Avenue. On Mardi Gras Day, the neutral ground along St. Charles between Jackson Avenue and Napoleon Avenue is the premium viewing location.
 
-Here is why it works for groups of 15-30:
+Here is why it works when the group is at full headcount:
 
 **Space:** The neutral ground is wide enough to set up a cluster of 20 people without blocking anyone's view. On the sidewalks flanking the avenue, a group of 20 becomes a crowd management problem. On the neutral ground, 20 people is a normal-sized cluster.
 
@@ -150,7 +150,7 @@ This is not a performance. The city is not doing this for your group's benefit. 
 
 ## Pro Tips
 
-1. **Costumes are group logistics, not just group aesthetics.** Twenty people in matching or coordinated costumes are findable in a crowd. Twenty people in individual costumes are not. If you are planning a group costume, make it visible from 30 feet away — tall headwear, bright colors, structural elements. Matching t-shirts are better than nothing but are indistinguishable at crowd density.
+1. **Costumes are group logistics, not just group aesthetics.** Twenty people in matching or coordinated costumes are findable in a crowd. Twenty people in individual costumes are not. If you are planning a group costume, make it visible from 30 feet away — tall headwear, bright colors, structural elements. Matching t-shirts are better than nothing but are indistinguishable at crowd density. The [costume guide](/guides/nola-group-mardi-gras-costume-guide/) covers sourcing and coordination in more depth.
 
 2. **The Zulu coconut is not thrown randomly.** Float riders select recipients. Making eye contact, being enthusiastic, and being positioned at a visible point on the neutral ground increases your odds. Being in costume increases them further. Reaching for every throw decreases them — float riders tend to reward attention rather than aggression.
 
@@ -168,12 +168,14 @@ This is not a performance. The city is not doing this for your group's benefit. 
 
 ## Large Group Accommodation for Mardi Gras
 
-Mardi Gras week accommodation books out a year in advance. If you are planning to be in New Orleans for Fat Tuesday, the booking conversation begins in February or March of the prior year. By January, the remaining options at any villa or hotel are what everyone else has already passed on.
+For the largest selection, book 6+ months out. The handful of properties built for a group this size fill on roughly the same clock all year, so lead time buys choice — not just availability.
 
 The villa advantage for Mardi Gras is specific: you have a base, a kitchen, and a private outdoor space on what is otherwise the most logistically demanding day of the year in New Orleans. The walk-around culture of the city means the villa is your support infrastructure — a place to rehydrate, change costumes, drop off throws, rest, and relaunch — rather than just sleeping quarters.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater location puts the group in a neighborhood with its own Mardi Gras energy — the Bywater and Marigny have house parades, neighborhood celebrations, and the St. Claude corridor adds its own character to the season. The private courtyard and pool are the recovery infrastructure for the day's physical demands. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Three private villas in the Bywater, 14–30 guests each, with a private pool per villa. The Bywater location puts the group in a neighborhood with its own Mardi Gras energy — the Bywater and Marigny have house parades, neighborhood celebrations, and the St. Claude corridor adds its own character to the season. A private courtyard and pool are real recovery infrastructure for the day's physical demands.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The shared heated pool, hot tub, sauna, and outdoor kitchen give the group both the midday recovery space and the post-day decompression the hotel blocks cannot provide. The Lower Garden District location puts the group close to the St. Charles parade route — a significantly shorter walk to the neutral ground than from most other neighborhoods.
+**The Syd** — Villas in the Lower Garden District, up to 22 guests per villa, sharing a heated pool, hot tub, and outdoor kitchen. The Lower Garden District location puts the group close to the St. Charles parade route — a significantly shorter walk to the neutral ground than from most other neighborhoods.
+
+Both fit the day well; a hotel room block near St. Charles is the other honest option if the group wants separate keys and doesn't need a shared courtyard to recover in. The [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) has more on how the Bywater and Lower Garden District stack up for a trip like this.
 
 [See where to stay for large groups →](/where-to-stay/)
