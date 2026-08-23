@@ -4,7 +4,7 @@ description: "Five complete bachelorette party theme concepts for New Orleans gr
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Party Themes"
 card_description: "Five complete NOLA bachelorette themes — costume direction, venues, schedule, and decor for whatever your headcount looks like."
-date: 2026-06-02
+date: 2026-08-23
 ---
 
 New Orleans is the best city in the country for a bachelorette party. The food is excellent, the bars never close, the streets are designed for walking groups, and the city itself provides visual and cultural material that makes any theme feel earned rather than forced.
@@ -247,7 +247,7 @@ This theme has two phases: pool phase and evening phase.
 - "Pool Queen" banner or "Bride's Last Float" banner
 - Sunscreen station (a basket with 5-6 bottles of SPF 30+) — practical and appreciated
 
-**Drink setup:** Frozen cocktail machines can be rented in New Orleans. Worth looking into for a group of 15+ who want a full pool bar. Ask your host or search local party supply rental companies.
+**Drink setup:** Frozen cocktail machines can be rented in New Orleans. Worth looking into if the whole crew wants a full pool bar. Ask your host or search local party supply rental companies.
 
 ---
 
