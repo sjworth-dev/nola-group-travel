@@ -2,7 +2,7 @@
 title: "Warehouse District & Arts District: Group Travel Guide"
 description: "New Orleans' Warehouse District has the city's best restaurant cluster, world-class museums, and easy access to the Convention Center and Superdome. Here's how groups should use it."
 category: "Neighborhoods"
-date: 2026-05-23
+date: 2026-08-23
 ---
 
 The Warehouse District is where New Orleans stopped being a 19th-century port city and became a 21st-century cultural capital. The warehouses along Julia Street and Camp Street have been converted into galleries, museums, hotels, and some of the most acclaimed restaurants in the South.
@@ -25,7 +25,7 @@ For groups, the Warehouse District is the most practical base in the city after 
 
 **Large-group rentals.** Like the French Quarter, the Warehouse District is more of a hotel neighborhood than a rental neighborhood. Large-group properties are limited. Most groups using the Warehouse District as a base will be in hotels — which means your 20 people are scattered across different floors, not together in one house.
 
-**The solution:** Stay at a large-group property nearby and treat the Warehouse District as a destination. From Castleday Retreats in the Bywater, you're 10-15 minutes by rideshare. From The Syd in the Lower Garden District, you're 10 minutes.
+**The solution:** Stay at a large-group property nearby and treat the Warehouse District as a destination. A Bywater villa like Castleday puts you 10-15 minutes away by rideshare; a Lower Garden District villa is closer to 10 minutes. Hotel Perle's own suites sit right in the Warehouse District itself if the group would rather skip the commute entirely.
 
 **Noise and tourism.** The Warehouse District is quieter than the Quarter but busier than residential neighborhoods. Proximity to the Convention Center means you'll occasionally share the streets with large convention crowds.
 
@@ -116,9 +116,9 @@ This is the main event. The Warehouse District restaurant cluster is the best in
 
 The Warehouse District is about 10-15 minutes by rideshare from most of the city's major neighborhoods.
 
-**From the Bywater (Castleday Retreats):** 10-15 minutes by rideshare down the riverfront. Walking is possible (~25-35 minutes along the river road) and actually scenic — the Crescent Park path gets you most of the way.
+**From the Bywater:** 10-15 minutes by rideshare down the riverfront. Walking is possible (~25-35 minutes along the river road) and actually scenic — the Crescent Park path gets you most of the way.
 
-**From the Lower Garden District (The Syd):** 8-12 minutes by rideshare along Magazine Street. Or walk Magazine — it's about 20-25 minutes and passes some good shops and bars on the way.
+**From the Lower Garden District:** 8-12 minutes by rideshare along Magazine Street. Or walk Magazine — it's about 20-25 minutes and passes some good shops and bars on the way.
 
 **From the French Quarter:** Walk. The Warehouse District begins at the edge of the Quarter. It's 10-15 minutes on foot.
 
@@ -156,15 +156,10 @@ The Warehouse District is about 10-15 minutes by rideshare from most of the city
 
 ## For Large Groups: Where to Stay
 
-The Warehouse District itself has limited options for groups of 15-30. Hotels can work logistically, but they scatter your group. For the best experience, stay at a large-group property nearby.
+The Warehouse District itself has limited options for a group at full headcount — hotels can work logistically, but they scatter the group across floors. For the best experience, stay at a large-group property nearby and treat the Warehouse District as a destination rather than a base.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art throughout. You're 10-15 minutes from the Warehouse District by rideshare, with the Crescent Park walk as a scenic option. Book well ahead.
+A Bywater villa like Castleday puts the group together under one roof with a private pool, 10-15 minutes away by rideshare (or a scenic walk via Crescent Park). A Lower Garden District villa, including The Syd, runs closer to 10 minutes and sits on the same Magazine Street corridor as many of the restaurants above. Heirloom's larger inventory across the Lower Garden District and Central City is worth checking for short-notice availability. If the group wants suites with separate bills instead of a shared house, Hotel Perle's own group suites sit right in the Warehouse District, and a downtown hotel room block is another option. Confirm current amenities directly before booking rather than assuming a specific pool or kitchen setup.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Slightly closer to the Warehouse District than Castleday, and on the same Magazine Street corridor as many Warehouse District restaurants.
+For the largest selection, book 6+ months out.
 
-Both options let your group stay together — in actual houses with kitchens, pools, and common space — while being close enough to the Warehouse District for any dinner, museum, or event.
-
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, 10-15 min from Warehouse District
-- **The Syd** — Lower Garden District, up to 22 per villa, 8-12 min from Warehouse District
+[See where to stay for large groups →](/where-to-stay/)
