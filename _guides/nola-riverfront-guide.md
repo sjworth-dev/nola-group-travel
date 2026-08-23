@@ -3,8 +3,8 @@ title: "New Orleans Riverfront Guide for Large Groups"
 description: "Everything on or near the Mississippi River for large groups: the Moonwalk, Algiers Ferry crossing, Woldenberg Park, Steamboat Natchez, and how to build a half-day around the riverfront."
 category: "Activities & Day Trips"
 card_title: "Riverfront Guide"
-card_description: "The Moonwalk, Algiers Ferry, Woldenberg Park, Steamboat Natchez. How to build a half-day on the Mississippi with 15-25 people."
-date: 2026-06-02
+card_description: "The Moonwalk, Algiers Ferry, Woldenberg Park, Steamboat Natchez. How to build a half-day on the Mississippi with the whole group."
+date: 2026-08-23
 ---
 
 The Mississippi River made New Orleans. The city exists because of it — the port, the commerce, the cultural exchange that poured in from every direction for three centuries. The river is not a backdrop here. It's the reason everything else exists.
@@ -86,7 +86,7 @@ The Algiers Ferry is the best free activity in New Orleans, and most visitors do
 
 ## Steamboat Natchez
 
-The Steamboat Natchez is an authentic steam-powered stern-wheel riverboat that runs tours on the Mississippi from its dock near the French Market.
+The Steamboat Natchez is an authentic steam-powered stern-wheel riverboat that runs tours on the Mississippi from its dock near the French Market. For the full breakdown of cruise options, pricing, and group logistics, see the [Steamboat Natchez guide](/guides/nola-group-steamboat-natchez-guide/).
 
 **What it is:** A working steamboat — not a replica — with guided narration and live jazz. The Natchez runs harbor/jazz cruises (roughly 2 hours) and dinner cruises (roughly 2.5 hours).
 
@@ -144,9 +144,9 @@ Check the Natchez schedule for current departure times — they vary by season a
 
 The riverfront is perfectly positioned to combine with adjacent neighborhoods.
 
-**With the French Quarter:** The Moonwalk is literally behind Jackson Square. A riverfront morning flows naturally into a French Quarter walk — Royal Street for architecture, Bourbon Street if you need to check that box, cocktails at a classic bar.
+**With the [French Quarter](/neighborhoods/french-quarter/):** The Moonwalk is literally behind Jackson Square. A riverfront morning flows naturally into a French Quarter walk — Royal Street for architecture, Bourbon Street if you need to check that box, cocktails at a classic bar.
 
-**With the Warehouse District:** Walk from Woldenberg Park toward the Convention Center and you're in the Warehouse District — galleries, the WWII Museum, good restaurants. A riverfront morning plus a Warehouse District afternoon is a full day with almost no transit required.
+**With the [Warehouse District](/neighborhoods/warehouse-district/):** Walk from Woldenberg Park toward the Convention Center and you're in the Warehouse District — galleries, the WWII Museum, good restaurants. A riverfront morning plus a Warehouse District afternoon is a full day with almost no transit required.
 
 **With Algiers Point:** The ferry delivers you to Algiers Point — a quiet, well-preserved neighborhood that most New Orleans visitors never see. It's worth 30-45 minutes of walking, particularly for groups interested in 19th-century architecture and a completely different vibe from the tourist areas.
 
@@ -172,15 +172,8 @@ The riverfront is perfectly positioned to combine with adjacent neighborhoods.
 
 ## Where to Stay for a Riverfront-Focused Trip
 
-Both Castleday and The Syd put you within an easy rideshare of the riverfront. Neither requires long transit.
+Most of the large-group inventory sits within an easy rideshare of the riverfront, so pick by fit rather than proximity. A Bywater villa like Castleday puts you close to the downriver end of the French Quarter and the Marigny, with Frenchmen Street a natural evening extension after a day near the water. Hotel Perle's CBD/Warehouse suites and a downtown hotel room block both land you within walking distance of Woldenberg Park and the Aquarium, with separate bills if the group wants that. The Lower Garden District villa cluster, including The Syd, sits one block from the St. Charles Streetcar — a way to reach the riverfront without rideshares, boarding at the foot of St. Charles and riding toward Canal Street. Check current amenities and layouts directly before booking; don't assume a specific pool, sauna, or kitchen setup without confirming it. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through how to weigh those trade-offs.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, completely private. Castleday's Bywater location is slightly closer to the downriver end of the French Quarter and the Marigny, making Frenchmen Street and the riverfront adjacent areas natural evening extensions after a day spent near the water. The private pool at Castleday is the afternoon recovery after a morning of walking the levee.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The Syd's streetcar access gives you an option for getting to and from the riverfront without rideshares — board at the foot of St. Charles and ride toward Canal Street. The shared outdoor space at The Syd is the return-home destination after a full riverfront morning.
-
----
-
-## Plan Your Riverfront Day
-
-- Castleday Retreats — Bywater, up to 30 guests per villa, private pools
-- The Syd — Lower Garden District, up to 22 guests, shared pool, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
