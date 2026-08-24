@@ -2,14 +2,14 @@
 title: "Uptown New Orleans: Group Travel Guide"
 description: "Uptown New Orleans has the best street in the city (Magazine Street), Audubon Park, and neighborhood restaurants locals actually eat at. Here's how to use it for group trips."
 category: "Neighborhoods"
-date: 2026-05-23
+date: 2026-08-24
 ---
 
 Uptown is where New Orleans residents actually live. Big oak trees, wide porches, the St. Charles Streetcar rattling past beautiful Victorians. Magazine Street running the full length of it with boutiques, restaurants, and neighborhood bars that have been there for decades.
 
 For groups, Uptown is less of a home base and more of a full-day destination — one of the best days you'll have in New Orleans, actually. Audubon Park for the morning. Magazine Street for the afternoon. A neighborhood restaurant for dinner. The streetcar home.
 
-That said, if you're staying in the Lower Garden District at The Syd — one block from the St. Charles Streetcar — you're essentially at the bottom of Uptown. The whole neighborhood is accessible without a car.
+That said, if you're staying in the Lower Garden District — one block from the St. Charles Streetcar — you're essentially at the bottom of Uptown. The whole neighborhood is accessible without a car.
 
 ## What Uptown Is Good For
 
@@ -152,13 +152,8 @@ The restaurants in Uptown that have been serving the same locals for 20+ years a
 
 ## For Large Groups: Where to Stay
 
-Uptown doesn't have the inventory for groups of 15-30. The right strategy is to stay at a large-group property nearby and day-trip in.
+Uptown doesn't have the inventory for a full-size group trip — the housing stock is single-family homes, not large rentals. The right strategy is to stay at a large-group property nearby and day-trip in.
 
-**The Syd** is in the Lower Garden District — one block from the St. Charles Streetcar, which is the gateway to all of Uptown. Multiple villas sleeping up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. Artist-designed interiors. You're five minutes from the bottom of Magazine Street and directly on the streetcar line. This is the best base for groups who want easy Uptown access.
+The Syd, in the Lower Garden District, is one block from the St. Charles Streetcar — the most direct line into Uptown, with a shared heated pool and hot tub for the days nobody wants to leave. Heirloom's large-format homes in the Lower Garden District and Central City put you a short rideshare from the bottom of Magazine Street with more choice on short notice. A hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately. For total privacy, Castleday Retreats' Bywater villas are a rideshare or streetcar ride from Uptown rather than a walk.
 
-**Castleday Retreats** is in the Bywater — farther from Uptown than The Syd, but still accessible by rideshare in 15-20 minutes, or by streetcar via Canal Street. Three private villas sleeping up to 30. Private pools, full kitchens, local art throughout. The right choice if complete privacy is the priority.
-
-## Book Your Stay
-
-- **The Syd** — Lower Garden District, up to 22 per villa, one block from the St. Charles Streetcar
-- **Castleday Retreats** — Bywater, up to 30 per villa, private pools, easy rideshare to Uptown
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
