@@ -2,7 +2,7 @@
 title: "French Quarter With a Group: The Honest Guide"
 description: "The Quarter is where you go out, not necessarily where you sleep. What works for big groups, what's tourist bait, and the blocks worth your night."
 category: "Neighborhoods"
-date: 2026-05-22
+date: 2026-08-24
 ---
 
 Every visitor to New Orleans ends up in the French Quarter. That's not a bad thing. You should go. But groups who make the Quarter their entire strategy usually end up overpaying, under-sleeping, and missing most of what makes New Orleans actually great.
@@ -131,15 +131,11 @@ The Quarter is easy to reach from anywhere in the city. If you're staying at eit
 
 Here's the honest answer about the French Quarter and large groups: **don't try to stay here.** Large-group rentals in the Quarter are extremely limited due to city regulations, and what exists is expensive and often loud.
 
-The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base.
+The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base. Castleday Retreats' Bywater villas run up to 30 guests each with a private pool per villa, 15-20 minutes from the Quarter on foot and walking distance to Frenchmen Street. The Syd's Lower Garden District villas run up to 22 guests with a shared heated pool and hot tub, one block from the St. Charles Streetcar into the Quarter. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look for short-notice availability, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, art-filled interiors. You're 15-20 minutes from the Quarter on foot, 5 minutes by Uber. The Bywater is also walking distance to Frenchmen Street, which is better than Bourbon Street anyway.
+Neither property is inside the French Quarter. That's the point — the whole crew gets a real home base to gather, relax, and decompress, while staying close enough for the Quarter experiences worth having.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, local artist-designed interiors. One block from the St. Charles Streetcar, which takes you to Canal Street in 10 minutes.
-
-Both options give you a real home base—a place where 15-30 people can actually gather, relax, eat meals together, and decompress—while keeping you close enough to the Quarter for the experiences that are worth it.
-
-Neither property is inside the French Quarter. That's the point.
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
 
 ## Pro Tips
 
@@ -169,10 +165,3 @@ Neither property is inside the French Quarter. That's the point.
 | Frenchmen Street | 1 block | Walking distance | 10-min Uber |
 
 The pattern is clear. The Quarter is where you go. The Bywater and Lower Garden District are where you stay.
-
-## Book Your Group Stay
-
-For large groups visiting the French Quarter:
-
-- **Castleday Retreats** — Private villas in the Bywater, up to 30 guests each, 15 minutes from the Quarter on foot
-- **The Syd** — Art-designed villas in the Lower Garden District, up to 22 guests each, 10 minutes from the Quarter by streetcar
