@@ -4,7 +4,7 @@ description: "The WWII Museum deep dive, NOMA, the Ogden, and the Backstreet Cul
 category: "Activities & Day Trips"
 card_title: "Museum Day Guide"
 card_description: "WWII Museum, NOMA, the Ogden Museum, and the Backstreet Cultural Museum — group ticket logistics, discount structures, and how to structure a full museum day without burning out your group by noon."
-date: 2026-06-16
+date: 2026-08-24
 ---
 
 New Orleans has more museums per capita than almost any American city, and most of them are world-class. The National WWII Museum alone could anchor a full trip. NOMA is one of the South's finest art museums. The Ogden Museum of Southern Art is small, focused, and devastating. The Backstreet Cultural Museum is essential context for understanding the city's living traditions.
@@ -191,13 +191,6 @@ This is the real logistics challenge. Here's what kills museum days:
 
 The WWII Museum and the Ogden are in the Warehouse District. NOMA is in City Park (Mid-City). The Backstreet Cultural Museum is in the Tremé. The most efficient base depends on which museums anchor your day.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, the Backstreet Cultural Museum and the Tremé are a short rideshare north, the WWII Museum and Ogden are 15 minutes into the Warehouse District, and NOMA is accessible via City Park. After a full museum day, returning to a private villa with a pool and full kitchen — rather than a hotel lobby — gives the group space to decompress and talk through what they experienced. Castleday holds a 4.98 average across 99 reviews.
+Bywater villas (Castleday Retreats, private pool per villa) put the Backstreet Cultural Museum and the Tremé a short rideshare north, the WWII Museum and Ogden 15 minutes into the Warehouse District, and NOMA reachable via City Park — a private pool and full kitchen to decompress in after a full day on your feet beats a hotel lobby. The Syd's Lower Garden District villas sit within a 10-minute rideshare of the Warehouse District museums, with the streetcar connecting to Uptown and Mid-City. Heirloom's large-format homes across the Lower Garden District and Central City add more inventory for a bigger crew. A hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who'd rather split by floor.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District location puts the Warehouse District museums within a 10-minute rideshare, and the streetcar connects to Uptown and Mid-City. Groups based at The Syd returning from a museum day have immediate access to the outdoor kitchen, heated pool, and evening spaces for the natural post-museum decompression.
-
----
-
-## Plan Your Museum Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen, St. Charles Streetcar access
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
