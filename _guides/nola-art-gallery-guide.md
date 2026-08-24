@@ -4,12 +4,12 @@ description: "The NOLA gallery scene for large groups: Warehouse District galler
 category: "Culture & History"
 card_title: "Art Gallery Guide"
 card_description: "Warehouse District, St. Claude Arts District, gallery walk logistics, and what to actually look for. The group gallery guide that doesn't assume everyone is an art person."
-date: 2026-06-03
+date: 2026-08-24
 ---
 
 New Orleans has a serious visual art scene. Most visitors never find it. The groups that do tend to come back specifically for it.
 
-There are two distinct gallery zones in the city, each with a different character, different price points, and different ways of engaging with the work. You don't need to be an art person to have a good time in a New Orleans gallery. You do need a plan for keeping 15-25 people engaged without the back half of the group checking their phones by the second room.
+There are two distinct gallery zones in the city, each with a different character, different price points, and different ways of engaging with the work. You don't need to be an art person to have a good time in a New Orleans gallery. You do need a plan for keeping the whole group engaged without the back half checking their phones by the second room.
 
 This guide covers both districts, the logistics of running a group gallery experience, and what actually makes the galleries in New Orleans worth your time.
 
@@ -41,7 +41,7 @@ You don't have to choose one or the other for your trip. But treat them as separ
 
 ## Warehouse District / Julia Street
 
-Julia Street between Camp and Magazine is the established core of New Orleans's commercial gallery scene. This is where you find galleries with national standing, showing established and mid-career artists alongside significant Louisiana work.
+Julia Street between Camp and Magazine is the established core of New Orleans's commercial gallery scene, in the [Warehouse District](/neighborhoods/warehouse-district/). This is where you find galleries with national standing, showing established and mid-career artists alongside significant Louisiana work.
 
 **What the galleries here look like:**
 
@@ -67,7 +67,7 @@ The galleries are typically open Tuesday through Saturday, closing Sundays and M
 
 ## St. Claude Arts District
 
-The St. Claude Arts District runs along St. Claude Avenue through the Marigny and into the Bywater. This is the working-artist half of the New Orleans art scene.
+The [St. Claude Arts District](/neighborhoods/st-claude-arts-district/) runs along St. Claude Avenue through the [Marigny](/neighborhoods/marigny/) and into the [Bywater](/neighborhoods/bywater/). This is the working-artist half of the New Orleans art scene.
 
 Where Julia Street galleries are polished commercial spaces, the St. Claude corridor is studios, artist collectives, independent galleries run out of converted houses, and creative spaces doing things that don't fit the commercial model. The work here is newer, more experimental, less vetted — which means it's also more exciting and more uneven.
 
@@ -177,17 +177,8 @@ The visitors who get the most out of New Orleans galleries are not the ones who 
 
 ## Where to Stay for an Arts-Focused Trip
 
-The two gallery districts are on opposite ends of the relevant geography — Julia Street in the Warehouse District, St. Claude in the Marigny and Bywater.
+The two gallery districts are on opposite ends of the relevant geography — Julia Street in the Warehouse District, St. Claude in the Marigny and Bywater. Pick a base by which district your group cares about more, and don't expect any single property to split the difference perfectly.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater puts you directly adjacent to the St. Claude Arts District and a short walk from Frenchmen Street. For arts-focused groups where the St. Claude corridor and Marigny are the primary gallery zone, Castleday's location is ideal. The art-filled interiors of the villas themselves — local artists throughout — are part of the experience from the moment you arrive.
+Castleday Retreats' Bywater villas (up to 30 guests, private pool per villa) sit directly adjacent to the St. Claude Arts District and a short walk from Frenchmen Street — the natural fit if the St. Claude corridor is your primary gallery zone. The Syd's Lower Garden District villas (up to 22 guests, shared heated pool and hot tub) are one block from the St. Charles Streetcar, which reaches Julia Street and the Warehouse District without a car — a reasonable base for the commercial-gallery circuit. Heirloom's large-format homes in the Lower Garden District and Central City are worth checking too, especially for a bigger crew or a shorter booking window. A downtown hotel room block (The Roosevelt, Hotel Peter & Paul) works for mixed budgets who want to split by floor.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room in The Syd's villas was designed by a local New Orleans artist — the building is a gallery experience in itself. One block from the St. Charles Streetcar, which connects you to both the Warehouse District (downtown toward Julia Street) and Uptown. Shared heated pool, hot tub, sauna, and outdoor kitchen. For groups doing the Warehouse District gallery circuit, the Lower Garden District is a reasonable base.
-
-For a trip structured around St. Claude and the Marigny gallery scene: Castleday's Bywater location is the clear choice. For Warehouse District gallery days with Uptown dinners: The Syd's central location works better.
-
----
-
-## Plan Your Arts Trip
-
-- Castleday Retreats — Bywater villas, local art throughout, walking distance to St. Claude Arts District and Frenchmen Street, up to 30 guests
-- The Syd — Lower Garden District, every room designed by a local artist, streetcar access, up to 22 guests per villa
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
