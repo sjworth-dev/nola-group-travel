@@ -4,14 +4,14 @@ description: "The frank guide to Bourbon Street for large groups: what's actuall
 category: "Nightlife & Music"
 card_title: "Bourbon Street Guide"
 card_description: "What's worth the detour, what to skip, and how to use Bourbon Street as one act in a bigger night — not the whole thing."
-date: 2026-06-03
+date: 2026-08-24
 ---
 
 Every large group that comes to New Orleans ends up on Bourbon Street at some point. That's fine. Go. Do it.
 
 But go with a plan. Bourbon Street rewards groups who treat it as one act in a larger evening — not the main event. It punishes groups who wander in without a destination, lose half their people to random bars, and spend the rest of the night trying to regroup.
 
-Here's the honest assessment from people who've seen this play out thousands of times: Bourbon Street is not the real New Orleans. It is, however, an experience worth having once — on your terms.
+Here's the honest assessment: Bourbon Street is not the real New Orleans. It is, however, an experience worth having once — on your terms.
 
 ## Quick Checklist
 
@@ -136,13 +136,13 @@ There are two ways groups go wrong on Bourbon Street.
 This is the three-act evening structure that works for most groups.
 
 **Act 1 — 7–9pm: Dinner**
-Eat a real meal. The Quarter has excellent restaurants. You don't need to eat on Bourbon Street.
+Eat a real meal. The Quarter has excellent restaurants — the [restaurant guide](/guides/restaurant-guide/) covers group-friendly reservations. You don't need to eat on Bourbon Street.
 
 **Act 2 — 9–11pm: Bourbon Street**
 Hit Lafitte's (early, briefly, it's better when you can actually move). Walk to Pat O'Brien's for the courtyard experience. Walk-around cup down the strip. One more stop if the group wants it. Leave by 11pm.
 
 **Act 3 — 11pm–late: Frenchmen Street**
-Walk up Esplanade (15 minutes, flat, nice walk). Land on Frenchmen Street. The music is live, the bars are better, the crowd is different. Stay here until you're done.
+Walk up Esplanade (15 minutes, flat, nice walk). Land on [Frenchmen Street](/guides/live-music-guide/). The music is live, the bars are better, the crowd is different. Stay here until you're done.
 
 This structure gives your group the full picture of New Orleans nightlife without spending all night in one zone.
 
@@ -180,7 +180,7 @@ Plan for it:
 
 ### Getting There and Back
 
-The French Quarter is walkable from many hotel areas. From a Bywater or Marigny villa, it's about 20-25 minutes on foot or a short Uber.
+The [French Quarter](/neighborhoods/french-quarter/) is walkable from many hotel areas. From a [Bywater](/neighborhoods/bywater/) or [Marigny](/neighborhoods/marigny/) villa, it's about 20-25 minutes on foot or a short Uber. The [transportation guide](/guides/transportation-guide/) covers streetcar routes and rideshare logistics for the rest of the trip.
 
 Getting back after midnight is the challenge. Twenty people cannot reliably fit into four spontaneous Ubers. Your options:
 - **Party bus or shuttle** booked in advance — eliminates all coordination problems
@@ -213,17 +213,12 @@ ATMs on Bourbon Street exist at high density and charge fees that add up. Withdr
 
 ## Where to Stay for the Bourbon Street Experience
 
-The accommodation conversation for large groups on a Bourbon Street trip is actually not about being close to Bourbon. You don't need to be a two-minute walk from the strip. You need a base camp that handles 15-30 people comfortably and is an easy Uber or walk from the Quarter.
+The accommodation conversation for large groups on a Bourbon Street trip isn't really about being close to Bourbon. You don't need to be a two-minute walk from the strip. You need a base camp that handles the whole crew comfortably and is an easy Uber or walk from the Quarter.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine. You're about 25 minutes on foot from Bourbon Street, 10 minutes by Uber. More importantly, you're a 15-minute walk from Frenchmen Street — which is where your group should end up after Bourbon anyway. Private pools for the recovery day. Full kitchens for the pre-night dinner. Complete privacy for the group.
+Bywater villas (Castleday Retreats, private pool per villa) put you about 25 minutes on foot from Bourbon Street, 10 minutes by Uber — and closer still to Frenchmen Street, which is where your group should end up after Bourbon anyway. Heirloom's large-format homes in the Lower Garden District and Central City give a deeper bench of inventory if you're booking on a shorter runway. Hotel Perle's CBD/Warehouse District suites put you within walking distance of both the Quarter and the Warehouse District bar scene, with separate bills if the group wants that. A downtown hotel room block (The Roosevelt, Hotel Saint Vincent) works for mixed budgets who'd rather split by floor than share a house.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which takes you directly into the French Quarter area. Shared heated pool, hot tub, sauna, and outdoor kitchen. The artist-designed rooms set the right mood before you even leave for the night. For groups doing more of a Bourbon Street plus Warehouse District night, the Lower Garden District location is slightly more convenient.
+For a first-timer trip where Bourbon Street is on the checklist, pick by proximity and group size rather than name — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the tradeoffs.
 
-For a first-timer trip where Bourbon Street is on the checklist: either property works. For groups wanting to use the night structure above (Bourbon then Frenchmen): Castleday's Bywater location is ideal — you end Frenchmen Street and walk home.
+For the largest selection, book 6+ months out.
 
----
-
-## Plan Your Trip
-
-- Castleday Retreats — Bywater villas, walking distance to Frenchmen Street, private pools, up to 30 guests
-- The Syd — Lower Garden District villas, streetcar to the Quarter, shared pool and hot tub, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
