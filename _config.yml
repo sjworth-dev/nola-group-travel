@@ -13,6 +13,14 @@ twitter:
 social:
   name: New Orleans Group Travel Guide
 
+# Analytics
+# PostHog project API key (public client key, phc_…). Empty = the snippet in
+# _layouts/default.html renders nothing and no event ever leaves the page.
+# This must be NGT's OWN project key — never the shared CastleDay/Syd key,
+# which would fingerprint this independent site in view-source (same rule
+# that got NGT its own GA property instead of the CastleDay tag).
+posthog_key: ""
+
 # Build settings
 markdown: kramdown
 permalink: pretty

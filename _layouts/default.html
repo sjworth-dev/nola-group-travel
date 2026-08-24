@@ -54,6 +54,28 @@
       gtag('config', 'G-NCXH4RWEH7');
     }
   </script>
+  {% if site.posthog_key != "" %}
+  <!-- PostHog — the site's own project (see posthog_key in _config.yml; never the shared
+       CastleDay/Syd key). Self-hosted array.js, same navigator.webdriver bot gate as GA,
+       host-gated to the apex so localhost and preview builds never send data. -->
+  <script>
+    if (!navigator.webdriver && location.hostname === 'nolagrouptravel.com') {
+      var phScript = document.createElement('script');
+      phScript.async = true;
+      phScript.src = '{{ "/assets/js/posthog-array.js" | relative_url }}?v=1.403.0';
+      phScript.onload = function () {
+        window.posthog && window.posthog.init('{{ site.posthog_key }}', {
+          api_host: 'https://us.i.posthog.com',
+          capture_pageview: true,
+          capture_pageleave: true,
+          person_profiles: 'identified_only',
+          session_recording: { maskAllInputs: true }
+        });
+      };
+      document.head.appendChild(phScript);
+    }
+  </script>
+  {% endif %}
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
