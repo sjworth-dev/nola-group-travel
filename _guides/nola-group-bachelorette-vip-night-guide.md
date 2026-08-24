@@ -9,7 +9,7 @@ date: 2026-08-24
 
 "VIP" is the most overused word in New Orleans nightlife marketing. Every promoter promises it. Every venue offers it. And most groups who book it end up standing in a roped-off area that's two feet from the general admission crowd, wondering what exactly they paid for.
 
-This guide is for bachelorette organizers who want to plan a night that actually feels elevated — not just one that costs more. Here's what you're actually buying when you pay for VIP, where that money genuinely improves the experience, and where it doesn't.
+This guide is for bachelorette organizers who want to plan a night that actually feels elevated — not just one that costs more. Here's what you're actually buying when you pay for VIP, where that money genuinely improves the experience, and where it doesn't. If you're still building the rest of the weekend, the [bachelorette party guide](/guides/bachelorette-party/) covers the full itinerary this night slots into.
 
 The honest summary: the best bachelorette nights in New Orleans aren't built around a club table. They're built around a private space, a good getting-ready phase, a moment of entrance, and the group being together without logistics falling apart. A club can deliver that. So can a villa cocktail hour and a targeted night out. Knowing the difference is the whole game.
 
@@ -54,7 +54,7 @@ Guest list is **not** VIP. It is a door deal. You will be in general admission t
 
 **Use guest list for:** Getting in without paying cover before you decide whether you want to upgrade inside.
 
-**Don't use guest list for:** Anchoring your bachelorette night.
+**Don't use guest list for:** Anchoring your bachelorette night. The [nightclub guide](/guides/nola-group-nightclub-guide/) breaks down which venues actually suit a large group versus which ones just have good marketing.
 
 ### Tier 2: VIP Table / Bottle Service
 
@@ -106,7 +106,7 @@ The honest answer is that most bachelorette groups planning a "VIP night at a cl
 
 ## The $2,000 Club vs. The $2,000 Villa Night: An Honest Comparison
 
-This is the question we get asked constantly, in different forms. Here's how the math and the experience actually compare.
+Here's how the math and the experience actually compare.
 
 ### $2,000 at a Club
 
@@ -136,7 +136,7 @@ The move, for most groups, is option two. The move for a group that specifically
 
 Here's what actually makes a night genuinely memorable versus merely expensive:
 
-**The getting-ready phase.** This is consistently underrated. When the group has a beautiful private space to get ready in — a villa with real bathrooms, good lighting, room to spread out, music on — the energy builds organically. The pre-night ritual matters more than most organizers budget for.
+**The getting-ready phase.** This is consistently underrated. When the group has a beautiful private space to get ready in — a villa with real bathrooms, good lighting, room to spread out, music on — the energy builds organically. The pre-night ritual matters more than most organizers budget for. The [bachelorette party themes guide](/guides/nola-bachelorette-party-themes/) has specific villa cocktail-hour setups if you want to build the phase out further.
 
 **The entrance moment.** Whether it's arriving at a restaurant in full matching looks, the group walking into a venue together, or descending a villa staircase for photos — there should be at least one organized moment of arrival. This is the shot everyone keeps.
 
@@ -150,7 +150,7 @@ Here's what actually makes a night genuinely memorable versus merely expensive:
 
 ## When Club VIP Is Actually the Right Call
 
-We're not anti-club. There's a real use case.
+There's a real use case for club VIP — this isn't an anti-club argument.
 
 Book the VIP table if:
 - Your group specifically wants to dance in a nightclub setting for most of the night
@@ -203,7 +203,7 @@ Nightclub promoters are a real part of the NOLA nightlife economy. They can be g
 
 The right villa changes the math on everything in this guide. A private property gives you the cocktail hour venue, the getting-ready space, the home base, and the late-night return.
 
-Castleday Retreats' Bywater villas run up to 30 guests with a private pool per villa — everyone gets a real bed, and the Bywater neighborhood gives you an authentically New Orleans backdrop without the tourist-clogged French Quarter experience. The Syd's Lower Garden District villas run up to 22 guests with a shared heated pool and hot tub, good ground for the cocktail hour and the day-after decompression, one block from the St. Charles Streetcar. Heirloom's large-format homes across the Lower Garden District and Central City are worth checking for a bigger crew or a shorter booking window, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for a mixed-budget group that wants separate bills.
+Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas run up to 30 guests with a private pool per villa — everyone gets a real bed, and the Bywater neighborhood gives you an authentically New Orleans backdrop without the tourist-clogged French Quarter experience. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas run up to 22 guests with a shared heated pool and hot tub, good ground for the cocktail hour and the day-after decompression, one block from the St. Charles Streetcar. Heirloom's large-format homes across the Lower Garden District and Central City are worth checking for a bigger crew or a shorter booking window, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for a mixed-budget group that wants separate bills. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the full tradeoff.
 
 ---
 
