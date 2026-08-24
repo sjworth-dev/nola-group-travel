@@ -4,12 +4,12 @@ description: "The complete guide to booking a private bar or courtyard buyout fo
 category: "Planning & Logistics"
 card_title: "Bar & Courtyard Buyouts"
 card_description: "Get exclusive use of a bar, courtyard, or jazz club for your group. What it costs, how to negotiate, and when a villa beats a buyout."
-date: 2026-06-08
+date: 2026-08-24
 ---
 
 New Orleans is one of the few cities where buying out a bar for your group is both feasible and genuinely worth doing. The courtyard bars, jazz clubs, and neighborhood spots here were built for exactly this — intimate private parties in spaces that feel lived-in, not like hotel ballrooms with a cash bar.
 
-The challenge is that most groups approach this without a framework. They call a venue cold, get quoted a number they don't understand, and either overpay or walk away assuming it's not possible. The process is simpler than it looks.
+The challenge is that most groups approach this without a framework. They call a venue cold, get quoted a number they don't understand, and either overpay or walk away assuming it's not possible. The process is simpler than it looks. If you're still deciding on dates and structure, start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) and come back to this once the shape of the trip is set.
 
 This guide covers the mechanics: how buyouts work, what you're actually paying for, how to negotiate, and when a villa is the smarter play.
 
@@ -69,9 +69,9 @@ This is what most groups are actually looking for when they say "buy out a bar."
 
 ### Neighborhood Jazz Clubs
 
-Second-tier Frenchmen Street venues and neighborhood jazz clubs occasionally offer buyouts on Monday through Wednesday nights, when foot traffic is lower. You get a full band included — or negotiate one as part of the deal — a bar program, and a venue that already has the right energy baked in.
+Second-tier [Frenchmen Street](/neighborhoods/marigny/) venues and neighborhood jazz clubs occasionally offer buyouts on Monday through Wednesday nights, when foot traffic is lower. You get a full band included — or negotiate one as part of the deal — a bar program, and a venue that already has the right energy baked in. If live music is the point of the night rather than a bonus, the [live music guide](/guides/live-music-guide/) covers the rest of the venue landscape.
 
-The catch: these spaces are small. Groups above 25 often feel cramped. For 10-20 people, a jazz club buyout is one of the most memorable events you can plan in New Orleans.
+The catch: these spaces are small. Groups above 25 often feel cramped. For a smaller crew, a jazz club buyout is one of the most memorable events you can plan in New Orleans.
 
 ### Rooftop Bars
 
@@ -134,9 +134,9 @@ The event coordinator at most bars has done this hundreds of times. You haven't.
 
 ## What It Costs
 
-Ranges vary enough that specific numbers would mislead more than help — venue quality, neighborhood, season, and your group size all move the number significantly. What holds true across the board:
+Ranges vary enough that specific numbers would mislead more than help — venue quality, neighborhood, season, and your group size all move the number significantly. The [budget guide](/guides/budget-guide/) has the fuller cost breakdown for the rest of the trip; here's what holds true for a buyout specifically:
 
-**Minimum spends** at smaller neighborhood spots for groups of 15-20 are typically manageable if your group is planning to drink anyway. The minimum often turns out to be close to what your group would have spent at a bar without a buyout.
+**Minimum spends** at smaller neighborhood spots are typically manageable for a mid-size crew planning to drink anyway. The minimum often turns out to be close to what your group would have spent at a bar without a buyout.
 
 **Courtyard and club buyouts** in higher-demand locations and on weekends carry meaningful rental fees in addition to minimums. Budget for both the space and the bar commitment as separate line items.
 
@@ -174,7 +174,7 @@ Here's where honest advice diverges from what most bar guides say: a private vil
 | Noise | Venue rules and neighbor context | Pool, patio, or living area |
 | Post-event plan | Everyone leaves at the same time | No transition needed |
 
-For a group of 15-30, the math often favors the villa once you factor in minimum spends, venue fees, and bar pricing at event rates versus buying your own product.
+At full headcount, the math often favors the villa once you factor in minimum spends, venue fees, and bar pricing at event rates versus buying your own product. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) goes deeper on that trade-off beyond just the one event night.
 
 That said, a bar buyout offers something a villa genuinely doesn't: you're in a New Orleans venue with New Orleans history. The tile floor, the pressed tin ceiling, the overgrown courtyard you found on a side street — that specificity of place is worth something. The best trips combine both: a villa as home base for the pool days and late nights, and a bar buyout for one focused event night.
 
@@ -200,17 +200,10 @@ That said, a bar buyout offers something a villa genuinely doesn't: you're in a 
 
 ## The Villa Option: When Buyout Economics Don't Add Up
 
-For groups of 15-30, the private villa is the format that scales most cleanly. You're not managing venue contracts or minimum spends. You're not negotiating with a bar coordinator who's handled twenty events this month and has no particular reason to accommodate your specific requests.
+At full headcount, the private villa is the format that scales most cleanly. You're not managing venue contracts or minimum spends. You're not negotiating with a bar coordinator who's handled twenty events this month and has no particular reason to accommodate your specific requests.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine each have private outdoor space that handles a catered event, a brass band performance, or a full pool party with no minimum spend and no noise clock from a venue. The Bywater location also puts you inside the neighborhood with the highest concentration of the kind of bars that do informal, low-friction buyouts if you want one night out. The hosts here have relationships with band contacts, private chefs, and event vendors — which means the buyout experience can come to you.
+Castleday Retreats' Bywater villas (up to 30 guests, private pool per villa) handle a catered event, a brass band performance, or a full pool party with no minimum spend and no noise clock from a venue — and the Bywater has the highest concentration of the kind of bars that do informal, low-friction buyouts if you still want one night out. The Syd's Lower Garden District villas (up to 22 guests, shared heated pool and hot tub) put you a block from the St. Charles Streetcar for nights when you want a bar buyout in addition to the villa base. Heirloom's large-format homes across the Lower Garden District and Central City are worth checking for a bigger crew or a shorter booking window, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works when the group wants separate bills.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, and outdoor kitchen make The Syd a complete private event venue for the nights when leaving the property isn't the move. The shared outdoor space accommodates a catered dinner, a private bartender setup, or a DJ without any of the venue contract complexity. One block from the St. Charles Streetcar for the nights when you want the bar buyout experience in addition to the villa base.
+The best trips often combine both models: a villa as the primary event space, and a bar buyout for one focused night out.
 
-Both properties have hosted groups who used the villa as the primary event space and did a bar buyout for one night out — the best of both models.
-
----
-
-## Plan Your Event Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private outdoor space, Bywater courtyard bar access nearby
-- The Syd — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen and shared pool, streetcar access to every bar district in the city
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
