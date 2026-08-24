@@ -1,10 +1,10 @@
 ---
-title: "Self-Guided Walking Tour Guide for Groups of 10-30 in New Orleans"
+title: "Self-Guided Walking Tour Guide for Large Groups in New Orleans"
 description: "Self-guided walking tours for large groups in New Orleans: four neighborhood routes (French Quarter, Garden District, Marigny/Bywater, Tremé), what to narrate at each stop, group pacing logistics, and how to structure a walking tour morning that doesn't feel like homework."
 category: "Activities & Day Trips"
 card_title: "Self-Guided Walking Tour Guide"
-card_description: "Four self-guided walking tour routes for groups of 10-30: French Quarter, Garden District, Marigny/Bywater, and Tremé. What to narrate, how to pace a large group, and how to make a walking tour morning actually fun."
-date: 2026-06-17
+card_description: "Four self-guided walking tour routes for the whole crew: French Quarter, Garden District, Marigny/Bywater, and Tremé. What to narrate, how to pace a large group, and how to make a walking tour morning actually fun."
+date: 2026-08-24
 ---
 
 Walking tours in New Orleans are worth doing. The city's architecture, its layers of history, its neighborhood-level texture — all of this is best understood on foot at a slow pace with someone pointing out what you'd otherwise walk past.
@@ -35,7 +35,7 @@ Here are four routes — one hour to two hours each — with enough stop-by-stop
 
 ### Group Size Management
 
-For groups of 15-30, the line problem is real. A group of 25 people walking single file stretches half a block and makes narration impossible.
+Once the group hits double digits, the line problem is real. A group of 25 people walking single file stretches half a block and makes narration impossible.
 
 **The solution:** Walk in a loose cluster, not a line. On sidewalks, this means some people walk in the street. In New Orleans, pedestrians in the street is normal — the street and the sidewalk are shared space, especially in the French Quarter and the Tremé.
 
@@ -191,13 +191,6 @@ Rampart Street is the historical boundary of the French Quarter on the Tremé si
 
 ## Home Base for a Walking Morning
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group within walking distance of the Marigny/Bywater route and a short walk or rideshare from the French Quarter and Tremé routes. Starting a morning walk from Castleday's courtyard with coffee before heading out is the right rhythm. Returning to the private pool after 90 minutes on foot in NOLA heat is the right recovery. Castleday holds a 4.98 average across 99 reviews.
+Pick a base by which route your group cares about most. Bywater villas (Castleday Retreats, private pool per villa) put you within walking distance of the Marigny/Bywater route and a short rideshare from the French Quarter and Tremé routes — a good rhythm for starting the morning with coffee and returning to a private pool after 90 minutes on foot in NOLA heat. The Syd's Lower Garden District villas sit one block from the St. Charles Streetcar, right at the start of the Garden District route. Heirloom's large-format homes across the Lower Garden District and Central City are worth checking for a bigger crew or a shorter booking window. A hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who'd rather split by floor.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location is natural for the Garden District route — the route essentially starts in the blocks around The Syd's neighborhood. Walk out the front door and you're in the Garden District walking tour already.
-
----
-
-## Plan Your Walking Morning
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
