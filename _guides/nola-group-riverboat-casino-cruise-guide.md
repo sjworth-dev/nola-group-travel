@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Riverboat Casino Cruise & Waterfront Gambling Guide for Large Groups"
-description: "Casino cruises, poker nights, and waterfront gambling experiences for large groups in New Orleans: the riverboat vs. Harrah's decision, villa poker tournament setup, and full evening structure for 10-30 people."
+description: "Casino cruises, poker nights, and waterfront gambling experiences for large groups in New Orleans: the riverboat vs. Harrah's decision, villa poker tournament setup, and full evening structure for the whole crew."
 category: "Activities & Day Trips"
 card_title: "Riverboat Cruises & Casino Nights"
-card_description: "Waterfront gambling, the Steamboat Natchez dinner cruise, and villa poker tournaments for groups of 10-30 — what's real, what's worth it, and how to structure the evening."
-date: 2026-06-14
+card_description: "Waterfront gambling, the Steamboat Natchez dinner cruise, and villa poker tournaments for the whole crew — what's real, what's worth it, and how to structure the evening."
+date: 2026-08-24
 ---
 
 The Mississippi riverboat gambling tradition is part of New Orleans's history. The paddlewheelers of the 19th century, the legal gaming boats of the 20th century, and the waterfront gaming options available today all trade on that story. For large group trips, the question is whether an actual water-based gambling experience is the right move — or whether the romance of a riverboat cruise is better experienced separately from the gambling component.
@@ -199,15 +199,8 @@ For groups who want the water experience separately from any gambling component:
 
 ## The Accommodation Layer
 
-A waterfront or gambling evening typically ends at a specific time, and where you land after matters.
+A waterfront or gambling evening typically ends at a specific time, and where you land after matters — especially for a villa poker night, which needs real indoor living space for a couple of tables.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts the group within a short rideshare of Harrah's, the French Quarter waterfront, and the Steamboat Natchez dock at the Canal Street Wharf. For villa poker nights, the indoor living spaces at each Castleday villa handle two poker tables comfortably, and the outdoor areas — particularly The Cocodrie — work for late-night cash game continuation. Castleday has a 4.98 average rating across 99 reviews.
+Bywater villas (Castleday Retreats, private pool per villa) put the group within a short rideshare of Harrah's, the French Quarter waterfront, and the Steamboat Natchez dock at the Canal Street Wharf. The Syd's Lower Garden District villas sit on the St. Charles Streetcar line, making the Canal Street trip easy without rideshare surge pricing on weekend nights, with a shared heated pool and hot tub for the post-casino recovery day. Heirloom's large-format homes across the Lower Garden District and Central City add more inventory for a bigger crew or a shorter booking window. A hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who'd rather split by floor and bill separately.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's St. Charles Streetcar connection makes getting to and from the Canal Street area easy without rideshare surge pricing on weekend nights. For villa poker nights, The Syd's common spaces support a full tournament setup.
-
----
-
-## Plan Your Gambling Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, spacious indoor areas for villa poker setups, private pools, short rideshare to Harrah's and the waterfront
-- The Syd — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to Canal Street, shared heated pool and hot tub for post-casino recovery
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
