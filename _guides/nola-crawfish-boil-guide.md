@@ -4,7 +4,7 @@ description: "Everything your group needs to pull off a proper NOLA crawfish boi
 category: "Activities & Day Trips"
 card_title: "Villa Crawfish Boil Guide"
 card_description: "Sourcing live crawfish, equipment, the boil technique, and how to make it the centerpiece of your NOLA trip."
-date: 2026-06-03
+date: 2026-08-25
 ---
 
 A crawfish boil is not a side activity. Done right, it is the whole day.
@@ -94,7 +94,7 @@ These estimates assume crawfish is the main event, not a side. If you're also co
 
 ### Renting vs. Buying
 
-For a one-time group trip, rent. Most party supply rental companies in New Orleans carry crawfish boil setups. A full kit — pot, burner, basket, paddle — typically rents as a package. Call ahead to confirm availability, especially in April and May.
+For a one-time group trip, rent. Most party supply rental companies in New Orleans carry crawfish boil setups. A full kit — pot, burner, basket, paddle — typically rents as a package. Call ahead to confirm availability, especially in April and May. Sort out who's covering what before anyone lands; the [group vendor directory](/guides/group-vendor-directory/) and a shared [budget tracker](/guides/budget-guide/) save you from the "wait, who ordered the crawfish" conversation on the day of.
 
 If you're doing this multiple times or the group is large enough that buying makes sense, a good propane burner and 80-quart pot runs more than renting but becomes an asset. For a group trip, renting is the move.
 
@@ -229,21 +229,23 @@ The move is fast once you get the rhythm. You should be able to peel 5-6 crawfis
 
 6. **Clean up before you go inside.** Shell waste left on an outdoor table in New Orleans heat becomes a problem quickly. Have everyone help clear the table immediately after the meal. Sweep shells into bags, roll up the butcher paper, hose down the surface.
 
-7. **Do it on day two, not day one.** A crawfish boil is best when the group is already comfortable together. First-day energy is often more formal. Day two, everyone's loose and this activity hits its peak.
+7. **Do it on day two, not day one.** A crawfish boil is best when the group is already comfortable together. First-day energy is often more formal. Day two, everyone's loose and this activity hits its peak — right around when the [day-two slump](/guides/nola-group-day-two-slump-guide/) usually needs solving anyway.
+
+8. **Book it into the [villa arrival setup](/guides/villa-arrival-setup-guide/) plan, not around it.** Confirm the outdoor gas hookup and table space before you book, not after you've already signed a lease that turns out to have a tiny balcony.
 
 ---
 
-## The 11-30 Person Reality: Why a Villa Is the Only Logical Setting
+## Why a Villa Is the Only Logical Setting
 
-You cannot do a proper crawfish boil without outdoor space and a propane setup. Restaurants that do crawfish boils are great for smaller groups, but for 20+ people who want to actually run the boil themselves, you need your own outdoor space.
+You cannot do a proper crawfish boil without outdoor space and a propane setup. Restaurants that run crawfish boils are fine for a table of six. They can't host the version described above — the burner, the tables under butcher paper, the whole crew descending on one pile of shellfish at once.
 
-This is not an activity you can do in a hotel room or a parking lot. It's a backyard activity — you need a table area, outdoor access, somewhere to run a propane burner safely, and space for the group to crowd around.
+This is not an activity you can do in a hotel room or a parking lot. It's a backyard activity — you need a table area, outdoor access, somewhere to run a propane burner safely, and space for everyone to crowd around.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private outdoor pools and outdoor spaces at each villa. Castleday properties have the private outdoor footprint that makes a crawfish boil practical: you can set up a propane burner, spread tables with butcher paper, and do a full 100-lb boil for the whole group without any coordination or noise complaints. The Herald, The Cocodrie, and The Florentine each have distinct outdoor areas — contact them directly to confirm the best setup for your boil logistics.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen, heated pool, and hot tub. The outdoor kitchen is built for exactly this kind of communal cooking — the utilities and surface area are already there, so you're not improvising a burner setup on a balcony. One block from the St. Charles Streetcar if you need a grocery run mid-boil.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's shared outdoor kitchen space is built for group meals — it's designed around exactly this kind of communal cooking and eating. For a crawfish boil, the outdoor kitchen area gives you the infrastructure (utilities, surface area, shared space) to make the activity happen. One block from the St. Charles Streetcar if you need to make a grocery run.
+**The Mazant** — An 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. One historic house instead of a cluster of units, if the group would rather share a single roof — and a pool to fall into once the peeling's done.
 
-For a crawfish boil specifically, both properties work. Castleday gives you fully private space at each villa; The Syd gives you a shared outdoor kitchen designed for this kind of group cooking activity. Confirm logistics with the property when you book.
+Either fits, along with the rest of the field: see [where to stay for large groups](/where-to-stay/) for the full rundown of what handles a boil-sized crowd. The requirement is outdoor space and a group that won't mind smelling like Zatarain's for the rest of the night.
 
 ---
 
@@ -257,9 +259,4 @@ This is the centerpiece of a New Orleans group trip that nobody forgets.
 
 ---
 
-## Book Your Boil Headquarters
-
-The setup matters as much as the food.
-
-- Castleday Retreats — Bywater private villas, outdoor space, up to 30 guests per villa
-- The Syd — Lower Garden District, shared outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
