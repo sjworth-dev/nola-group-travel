@@ -4,7 +4,7 @@ description: "The honest breakdown of what works and what breaks at every group 
 category: "Planning & Logistics"
 card_title: "Group Size Sweet Spot"
 card_description: "What works at 10, 15, 20, and 25 people. The honest logistics breakdown before you finalize your headcount."
-date: 2026-06-20
+date: 2026-08-25
 ---
 
 The number your group settles on for a NOLA trip is not just a headcount. It determines which restaurants can seat you, how many vehicles you need, what accommodations are available, and whether certain activities are logistically possible at all.
@@ -46,8 +46,8 @@ Two Uber XLs or one rented 10-passenger van. Both are easy and cheap. Rideshare 
 | Option | Notes |
 |--------|-------|
 | Airbnb / vacation rental 4-5 BR | Feasible, widely available |
-| Castleday Retreats single villa | 12 BR, 17 real beds — you have room to spread out |
-| The Syd single villa | 10 people is comfortable, plenty of common space |
+| The Lookout Inn | Bywater inn, maxes out around 12 — right-sized without extra room going unused |
+| The Mayfair Hotel | Small hotel, groups to about 16 — hotel service for a size this manageable |
 
 At 10 people, you have options. You can use a standard short-term rental or a dedicated group villa. The villa advantage is real even at 10 — kitchen, pool, common space — but you're not forced into it by logistics the way larger groups are.
 
@@ -87,8 +87,8 @@ For airport arrivals with staggered flights, a chartered van makes even more sen
 | Option | Notes |
 |--------|-------|
 | Multi-listing Airbnb strategy | Fragmented experience, separate kitchens, no unified space |
-| Castleday Retreats single villa | 12 BR, 17 real beds — the right fit, everyone gets a real bed |
-| The Syd single villa | Up to 22 guests — room to grow, shared amenities |
+| The Mazant | 1880s Bywater guesthouse, sleeps 18, heated pool + spa — one historic house instead of scattered units |
+| Heirloom large-format home | Deep inventory across LGD/Central City — worth checking for short-notice availability at this size |
 
 At 15, the dedicated group villa becomes the obvious choice. The math on a single villa vs. multiple short-term rentals usually favors the villa, and more importantly, the group experience of being in one property instead of scattered across two or three addresses is the entire point of a group trip.
 
@@ -128,7 +128,7 @@ At 20, rideshare is not a group transportation strategy — it's chaos. You need
 - A 20-25 passenger charter bus for any full-group movement
 - Rideshare in sub-groups of 4-5 with a designated meeting point and a realistic time buffer
 
-The French Quarter is walkable from Bywater (Castleday) in 20-30 minutes or a short Lyft. The streetcar is viable from The Syd's Lower Garden District location. But for airport runs, winery tours, swamp tours, or any full-group movement outside walking distance, charter transportation is worth the cost.
+The French Quarter is walkable from Bywater bases in 20-30 minutes or a short Lyft. The streetcar is viable from Lower Garden District bases. But for airport runs, winery tours, swamp tours, or any full-group movement outside walking distance, charter transportation is worth the cost.
 
 ### Villa Sleeping Arrangements
 
@@ -136,7 +136,7 @@ The French Quarter is walkable from Bywater (Castleday) in 20-30 minutes or a sh
 |--------|-------|
 | Three separate Airbnbs | Functionally three different trips happening simultaneously |
 | Castleday Retreats single villa | Fits 20 comfortably in 12 BR / 17 real beds |
-| The Syd single villa | Fits up to 22 — close fit, but the shared pool and social spaces carry it |
+| The Revelry | Central City apartment-style floors (6-9 each) + saltwater pool — a floor per crew with separate billing |
 | Heirloom large-format home | Worth checking for deep inventory at this size or a short-notice booking |
 
 At 20, the case for a single dedicated group villa is overwhelming. Everyone in the same building, one kitchen, one pool, one set of house rules, one checkout day. The alternative — multiple rental units across the neighborhood — means the trip fractures into sub-groups who only see each other during scheduled events.
@@ -189,13 +189,13 @@ Charter van or charter bus, full stop. At 25 people, the calculation is simple: 
 
 | Option | Notes |
 |--------|-------|
-| Castleday Retreats single villa | 12 BR, 17 real beds — fits up to 30 |
-| The Syd single villa | 22-person max — tight at 25; consider a second property |
+| Heirloom large-format home | Deep inventory across LGD/Central City — worth checking for something sized right in one property |
+| Roami (The Mandeville) | Runs to 12 bedrooms sleeping about two dozen — hotel-style booking with separate units |
 | Hotel room block | The Roosevelt, Hotel Bennett, and similar handle 25 across separate rooms with separate bills |
 
-At 25, the villa's room count matters more than the headline "sleeps X" number. Castleday's 17 real beds per villa means 17 guests have private sleeping surfaces; the remaining 8 use flexible configurations within the 12 bedrooms. Know the breakdown before you book and confirm it with the property.
+At 25, a villa's room count matters more than the headline "sleeps X" number. A listing can advertise capacity for the full group while only a fraction of that count sleeps in an actual bedroom — the rest on pullouts or air mattresses. Know the breakdown before you book and confirm it with the property.
 
-If your group needs more breathing room, two Castleday villas gives you ~60 capacity with two private pools and two full kitchens — the group shares the courtyard and outdoor space and uses both buildings. This is the move for groups of 25+ who want everyone to have a bed without compromise.
+If your group needs more breathing room, some Bywater-villa operators let you book two adjacent properties for close to double the capacity, sharing a courtyard and outdoor space across both buildings. This is the move for a crew that wants everyone to have a bed without compromise.
 
 ### Activities
 
@@ -249,7 +249,7 @@ The table above isn't an argument for smaller groups. It's an argument for match
 
 The accommodation question is the foundation everything else rests on. Getting this right before you pick a headcount — or at least within the first week of planning — is the single highest-leverage logistics decision of the trip.
 
-The field has a few genuinely different shapes. Bywater villas like Castleday Retreats put one group of 14-30 in a private structure with its own pool — each villa runs 12 bedrooms and 17 real beds, the pitch for an organizer who wants everyone sleeping in an actual bed rather than a pullout. The Syd's shared heated pool and hot tub sit in the Lower Garden District, one block from the St. Charles Streetcar, and fit groups up to about 22 per villa — the courtyard becomes the group's social hub rather than each villa having its own. Heirloom's large-format homes across the LGD and Central City are worth checking at any tier for deep inventory or a short-notice booking, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit groups that want separate bills over a shared kitchen.
+The field has a few genuinely different shapes. The Mazant and The Lookout Inn put a smaller crew under one historic Bywater roof — one house, one pool, nobody scattered across listings. Heirloom's large-format homes across the LGD and Central City are worth checking at any tier for deep inventory or a short-notice booking. The Revelry and Roami split larger groups across apartment-style floors or units with separate billing, which matters when budgets vary inside one group. Bywater and Lower Garden District villa operators fit the biggest headcounts under one roof with a private or shared pool — see the tier tables above for which bed count actually matches your group. And hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit groups that want separate bills over a shared kitchen.
 
 Properties across the field book early. For the largest selection, book 6+ months out.
 
