@@ -4,7 +4,7 @@ description: "How to be a good neighbor in Bywater or the Lower Garden District,
 category: "Villa Life"
 card_title: "Noise and Neighbor Guide"
 card_description: "There's a real line between a group enjoying a private villa and a group creating a problem for the neighborhood. How to be a good neighbor in Bywater or the Lower Garden District — and what to do when things escalate."
-date: 2026-06-21
+date: 2026-08-25
 ---
 
 New Orleans has a culture of late nights and loud music. That culture is real and it's beautiful and it's part of why you came here. It's also a culture that exists in the city's commercial spaces — the bars, the clubs, the streets with a live music permit.
@@ -206,19 +206,12 @@ What doesn't work is the approach where the outdoor party continues without modi
 
 ## The Properties That Understand This
 
-The properties that work for large groups long-term in these neighborhoods have thought carefully about the indoor/outdoor balance and have built properties that support both.
+The properties that work for large groups long-term in these neighborhoods have thought carefully about the indoor/outdoor balance and have built properties that support both — private outdoor space (pool, courtyard) for the afternoon and evening, large interior common areas for when the party has to move inside.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The Herald, The Cocodrie, and The Florentine are designed around private outdoor space that works well for groups — pools, courtyards, outdoor furniture — and large interior common areas that are genuinely good for indoor gatherings. The indoor/outdoor transition at Castleday isn't a downgrade. The interior spaces are where the trip continues after the outdoor phase ends. Castleday's house rules reflect the neighborhood context and are worth reading carefully before arrival.
+In Bywater, that's Castleday Retreats' villas: private pools and courtyards outdoors, big interior common rooms that don't feel like a downgrade once the music comes in. In the Lower Garden District, The Syd's shared courtyard, pool, and hot tub are the outdoor phase, one block from the St. Charles Streetcar if the group wants to leave the property rather than push past its window. Heirloom's homes span both neighborhoods and are worth checking if neither of those fits your dates. Read whichever property's house rules carefully before arrival — they reflect the neighborhood context this guide is about.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The Syd's shared courtyard with heated pool, hot tub, and sauna is the outdoor phase. The individual villa interiors — each designed by a local New Orleans artist — are where the evening continues. The LGD location puts The Syd one block from the St. Charles Streetcar, which means if the group wants to extend the night, the option is to leave the property rather than push the property's outdoor space past its appropriate window.
-
-Both properties have 4.98 average ratings across 99 reviews. That rating reflects groups that are fun, that respect the property, and that treat the neighborhood appropriately. The rating depends on that continued.
+See [where to stay for large groups](/where-to-stay/) for the full field. For the largest selection, book 6+ months out.
 
 ---
-
-## Book Your Group Villa
-
-- Castleday Retreats — Bywater, 14-30 guests, private pools, large interior common areas
-- The Syd — Lower Garden District, up to 22 guests, shared pool, hot tub, sauna
 
 The groups that have the best villa experience in New Orleans are the ones who treat the neighborhood the way they'd want their own neighborhood treated. It's not a complicated calculation. And it turns out that keeping the music inside after 10pm doesn't actually end the party — it just moves it to the room with better acoustics.
