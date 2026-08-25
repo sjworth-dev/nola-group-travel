@@ -4,7 +4,7 @@ description: "Which NOLA hotels sell pool day passes, how the day pass process a
 category: "Activities & Day Trips"
 card_title: "Hotel Pool Day Pass Guide"
 card_description: "Day passes and pool access for large groups who don't have their own villa pool: what's available, what it costs, and the honest comparison against booking a villa."
-date: 2026-06-18
+date: 2026-08-25
 ---
 
 Every year, groups of 20 show up in New Orleans in August thinking they'll figure out the pool situation when they get there. Some call ahead. Most don't.
@@ -77,7 +77,7 @@ This is the math that usually ends the conversation.
 | Food options | Menu-limited | Whatever you source |
 | **Total daily cost** | **$700-1,500+ for 4-6 hours** | **Covered in villa nightly rate** |
 
-The villa nightly rate for a property that sleeps 20 people is amortized across the full stay. The pool is included every day of your trip, not once at additional cost. The per-night cost per person at Castleday Retreats or The Syd, divided across a group of 16-22 people, is often comparable to or less than what a hotel room costs per person — with the pool, the private space, and the kitchen included.
+The villa nightly rate for a property that sleeps 20 people is amortized across the full stay. The pool is included every day of your trip, not once at additional cost. The per-night cost per person at a pool-equipped villa, split across a big group, is often comparable to or less than what a hotel room costs per person — with the pool, the private space, and the kitchen included.
 
 ---
 
@@ -89,7 +89,7 @@ There are limited situations where the hotel pool day pass approach is the right
 
 **It's a small sub-group.** Not 20 people — 5 or 6 people who want to spend an afternoon at a hotel pool. Individual or small-group day passes are considerably more accessible and the experience is appropriate for the group size.
 
-**A specific hotel pool is the experience.** A few rooftop hotel pools in New Orleans have exceptional views and a specific ambiance that's worth experiencing. If the pool itself is the point — not the pool day as a primary activity — and you can coordinate 8-10 people as day guests, some hotels will accommodate a modest group.
+**A specific hotel pool is the experience.** A few rooftop hotel pools in New Orleans have exceptional views and a specific ambiance that's worth experiencing. If the pool itself is the point — not the pool day as a primary activity — and your day-guest headcount stays modest, some hotels will accommodate the group.
 
 **Off-season and weekday access.** Hotels are more flexible about day pass logistics during quieter periods. If you're traveling in late January or mid-September, a weekday call to the hotel pool manager may produce a workable arrangement that wouldn't exist in July or during Mardi Gras season.
 
@@ -146,15 +146,8 @@ This is the pool day that people remember. The hotel pool day pass is the pool d
 
 ## The Better Answer: Group Accommodation with Private Pools
 
-If a pool day matters to your group — and it usually does — the right solution is to be somewhere with a private pool from the start.
+If a pool day matters to your group — and it usually does — the right solution is to be somewhere with a private pool from the start rather than renting one by the hour.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with a private pool, 12 bedrooms, 17 real beds, 8 baths, and capacity for up to 30 guests. At Castleday, the pool is yours from check-in to checkout — no day pass fee, no minimum spend, no shared access with strangers, no hotel rules about noise or outside food. The Cocodrie villa has Castleday's best outdoor setup for a pool day. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+A handful of large-group properties are built around exactly this. Castleday Retreats' Bywater villas each have a private pool — yours from check-in to checkout, no day pass fee, no minimum spend, no shared access with strangers, no hotel rules about outside food. The Syd's Lower Garden District villas share a heated pool and hot tub instead, the social center of the property, one block from the St. Charles Streetcar. The Natchez Vacation Rentals leans further into the pool-day angle still — apartment-style units built around a shared saltwater pool and hot tubs, aimed squarely at groups who want the pool scene as part of the stay, not a side errand.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's pool and courtyard are the social center of the property — the shared heated pool with its mural and cabana setup is the right scale for a group of 22 that wants an all-day pool environment with built-in amenities. One block from the St. Charles Streetcar.
-
----
-
-## The Bottom Line
-
-- Castleday Retreats — Bywater private villas, up to 30 guests, private pools at each villa, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool, hot tub, sauna, outdoor kitchen
+See [where to stay for large groups](/where-to-stay/) for the full field, including which properties actually have a pool versus which don't. For the largest selection, book 6+ months out.
