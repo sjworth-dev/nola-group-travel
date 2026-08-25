@@ -13,7 +13,7 @@ It's not even close for most groups.
 
 Jazz Fest is a ticketed, fairgrounds-based event that requires logistics: shuttles, sunscreen, wristbands, seven stages spread across an old racetrack, and a mid-afternoon sun that can genuinely end your night before it starts. French Quarter Festival is free, spread across the French Quarter's streets and outdoor stages, and structured so that your group can split up, reunite, eat everything, and reconvene at will — all without a logistics coordinator.
 
-This guide covers everything: what FQF actually is, why it works for groups, how to move 20 people through four days of outdoor stages and vendor food, and how to structure the experience so nobody hits a wall by Friday afternoon.
+This guide covers everything: what FQF actually is, why it works for groups, how to move a crowd through four days of outdoor stages and vendor food, and how to structure the experience so nobody hits a wall by Friday afternoon. If FQF is one stop on a longer trip, start with the [group trip planning guide](/guides/plan-a-group-trip/) and come back here for the FQF-specific logistics.
 
 ---
 
@@ -147,7 +147,7 @@ The last day is typically a half-day of programming and a slower atmosphere.
 - Extended villa morning
 - Hit the festival mid-afternoon for a final run through the vendors
 - Catch any remaining sets the group wants to see
-- Plan the Sunday evening separately from the festival: Sunday in New Orleans is second line day (check the Social Aid and Pleasure Club schedule), then Frenchmen Street for a proper finale
+- Plan the Sunday evening separately from the festival: Sunday in New Orleans is [second line day](/guides/second-line-guide/) (check the Social Aid and Pleasure Club schedule), then Frenchmen Street for a proper finale
 
 ---
 
@@ -185,7 +185,7 @@ Designate a fallback bar before each evening: somewhere within two blocks of the
 
 5. **Don't overschedule the non-festival time.** A four-day festival plus restaurant reservations every night plus activities every morning is a recipe for a burned-out group by Sunday. Keep the mornings and the late nights loose.
 
-6. **Water is an active strategy.** It's New Orleans in April. The temperature is manageable but the humidity is real. Alternate water with everything else, keep the villa stocked, and don't let the group go four hours on beer and daiquiris alone.
+6. **Water is an active strategy.** It's New Orleans in April. The temperature is manageable but the humidity is real. Alternate water with everything else, keep the villa stocked, and don't let the group go four hours on beer and daiquiris alone. If the trip stretches into a full [jazz fest survival](/guides/nola-group-jazz-fest-survival-guide/) run too, budget real recovery time between the two.
 
 7. **FQF works as an anchor, not an obligation.** The festival is always there. If a sub-group wants to skip a session and take the streetcar to the Garden District, that's a valid choice. The festival doesn't require attendance from dawn to close — it's the backdrop to a New Orleans trip, not the itinerary itself.
 
