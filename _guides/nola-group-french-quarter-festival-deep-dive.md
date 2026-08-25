@@ -1,10 +1,10 @@
 ---
 title: "French Quarter Festival Deep Dive for Large Groups"
-description: "French Quarter Festival logistics for groups of 15-30: free stages, crowd movement, the food vendor circuit, and why FQF beats Jazz Fest for most groups."
+description: "French Quarter Festival logistics for the whole crew: free stages, crowd movement, the food vendor circuit, and why FQF beats Jazz Fest for most groups."
 category: "Festivals & Events"
 card_title: "French Quarter Fest Deep Dive"
-card_description: "Free stages, incredible food vendors, and a manageable crowd. The complete FQF playbook for groups of 15-30."
-date: 2026-06-19
+card_description: "Free stages, incredible food vendors, and a manageable crowd. The complete FQF playbook for the whole crew."
+date: 2026-08-25
 ---
 
 Two festivals dominate the New Orleans spring calendar. Everyone has heard of Jazz Fest. But groups that actually know how to plan a trip pick French Quarter Festival.
@@ -61,7 +61,7 @@ What makes FQF work for groups:
 | Villa access mid-day | Easy return | Difficult — usually a full day commitment |
 | Best for groups who | Want flexibility and free access | Want specific headliners or Jazz Fest specifically |
 
-**The verdict for most groups:** FQF is the better festival for groups of 15-30 that want flexibility, easy food access, and the ability to pace themselves across four days. Jazz Fest is worth it if there's a specific lineup your group has waited for, or if the group is genuinely festival-obsessed and prepared for the commitment.
+**The verdict for most groups:** FQF is the better festival for a big crew that wants flexibility, easy food access, and the ability to pace itself across four days. Jazz Fest is worth it if there's a specific lineup your group has waited for, or if the group is genuinely festival-obsessed and prepared for the commitment.
 
 Both are worth doing in the same trip if the scheduling aligns. They don't overlap.
 
@@ -151,7 +151,7 @@ The last day is typically a half-day of programming and a slower atmosphere.
 
 ---
 
-## Crowd Movement for Groups of 15-30
+## Crowd Movement for a Big Group
 
 The biggest challenge of FQF for large groups is not the crowds — it's keeping the group from turning into a logistical committee every time it needs to move.
 
@@ -195,17 +195,10 @@ Designate a fallback bar before each evening: somewhere within two blocks of the
 
 A four-day festival run requires a home base that functions as a proper recovery station: kitchen, outdoor space, refrigerator for groceries, pool for the post-festival decompression. A hotel room is not that home base.
 
-For groups of 15-30 attending FQF, the villa model is the obvious solution — and the question is which property fits your group's rhythm.
+When the trip goes double-digit for FQF, the villa model is the obvious solution — and the question is which property fits the group's rhythm.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. The Bywater location puts you in the neighborhood directly adjacent to the Marigny and the edge of the Quarter — walkable to the festival in 15-20 minutes without entering the tourist core of the Quarter itself. After a long FQF evening, returning to a private pool and a full kitchen is the festival survival strategy. The Herald, The Cocodrie, and The Florentine each sleep up to 30 with 12 bedrooms and 17 real beds — everyone gets a real bed, not a pullout. 4.98 average rating across 99 reviews.
+**Roami (The Lola, The Mandeville)** — Apartment-hotel units downtown; The Mandeville runs to 12 bedrooms sleeping about two dozen. Booking works like a hotel but each unit is a separate apartment, which matters when a four-day festival means people keeping very different hours. Downtown puts you within easy reach of the Quarter without being in the middle of the festival crush overnight.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's streetcar access makes festival movement easier: one block from the St. Charles Streetcar line, 10 minutes to the Quarter on the car. The shared heated pool, hot tub, and outdoor kitchen are the post-festival infrastructure your group will use every single day. Central location means the group can be out the door and in the Quarter within 20 minutes of deciding to go.
+**The Syd** — Multiple villas in the Lower Garden District, with a shared heated pool, hot tub, and outdoor kitchen. One block from the St. Charles Streetcar, about 10 minutes to the Quarter on the car — close enough for an easy return, far enough to actually sleep.
 
-Both properties book early for Jazz Fest and FQF season. This is not a last-minute reservation situation.
-
----
-
-## Plan Your FQF Trip
-
-- Castleday Retreats — Bywater villas, 14-30 guests per villa, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, one block from streetcar
+Either works, and so do the rest of the options on [where to stay for large groups](/where-to-stay/) — check availability early, since FQF and Jazz Fest season both book out well ahead. For the largest selection, book 6+ months out.
