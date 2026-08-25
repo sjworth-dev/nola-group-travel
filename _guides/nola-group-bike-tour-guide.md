@@ -4,12 +4,12 @@ description: "Guided tours vs. self-guided, City Park circuits, Garden District 
 category: "Activities & Day Trips"
 card_title: "Group Bike Tour Guide"
 card_description: "Guided vs. self-guided, the best routes for large groups, rental logistics, and how to actually keep 20+ bikes together on flat NOLA streets."
-date: 2026-06-03
+date: 2026-08-25
 ---
 
 New Orleans is one of the most bikeable cities in the country. It's almost completely flat. The neighborhoods are dense, interesting, and close together. The roads in the historic neighborhoods are not always smooth, but they're navigable on a standard bike without any special equipment. You can cover more ground on a bike in two hours than you can in a full day of walking — and you'll see things that cars and tour buses miss entirely.
 
-Cycling with a large group requires more planning than it sounds like. Twenty-plus bikes on a city street need somebody thinking about route, pacing, signals, and what happens when three people fall behind at every stop. This guide covers the routes that work for groups, the logistics of making it happen, and how to make cycling an activity your whole group actually enjoys rather than a slog.
+Cycling with a large group requires more planning than it sounds like. Twenty-plus bikes on a city street need somebody thinking about route, pacing, signals, and what happens when three people fall behind at every stop. This guide covers the routes that work for groups, the logistics of making it happen, and how to make cycling an activity your whole group actually enjoys rather than a slog. If you're still sequencing the rest of the trip around it, the [group trip planning guide](/guides/plan-a-group-trip/) is the place to start.
 
 ## Quick Checklist
 
@@ -69,7 +69,7 @@ This is the first decision to make, and the honest answer for most groups over 1
 
 City Park is massive — one of the largest urban parks in the country. The roads and paths inside the park are well-maintained, lightly trafficked, and scenic. Bayou St. John runs along the park's eastern edge and provides an easy out-and-back path that's excellent for groups.
 
-**What you see:** The Museum of Art, the Sculpture Garden, the botanical garden, the old oak tree groves, the lagoons, the carousel (worth a stop). The Bayou St. John section passes through a residential neighborhood that's one of the most beautiful in the city.
+**What you see:** The Museum of Art, the Sculpture Garden, the botanical garden, the old oak tree groves, the lagoons, the carousel (worth a stop). The Bayou St. John section passes through a residential neighborhood that's one of the most beautiful in the city. If the group wants to make a full day of it on foot instead, the [Mid-City and City Park day guide](/guides/nola-group-mid-city-city-park-full-day-guide/) covers the same ground without the bikes.
 
 **Logistics note:** Rentals are available near the park. If your group is based in Mid-City or the Bywater, you're close. From Uptown or the Quarter, this requires getting to the park first — either riding there or transporting bikes.
 
@@ -84,7 +84,7 @@ City Park is massive — one of the largest urban parks in the country. The road
 
 This route covers the Garden District's mansion streets (Prytania, Coliseum, Chestnut), Magazine Street through the shopping and restaurant corridor, and connects to the Uptown neighborhood if you want to extend it.
 
-**What you see:** Antebellum mansions, Lafayette Cemetery No. 1, the Magazine Street commercial strip, Audubon Park (excellent for a stop), and the oak-canopied streets that make Uptown one of the most architecturally remarkable neighborhoods in the country.
+**What you see:** Antebellum mansions, Lafayette Cemetery No. 1, the Magazine Street commercial strip, Audubon Park (excellent for a stop), and the oak-canopied streets that make Uptown one of the most architecturally remarkable neighborhoods in the country. For a slower, shopping-and-eating version of the same corridor, see the [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/).
 
 **Logistics note:** Magazine Street has bike lanes in sections. The Garden District residential streets are calm. The tricky section for large groups is the Garden District to Uptown transition — stay on Prytania or Magazine rather than cutting through side streets, which can fragment the group.
 
@@ -193,7 +193,7 @@ Cycling works well as a morning activity that sets up the rest of the day.
 
 **Bike ride + brunch:** A City Park circuit followed by brunch in the Marigny or Mid-City is the correct Saturday morning.
 
-**Bike ride + WWII Museum:** Cycle to the Warehouse District, lock up or return bikes near the museum, spend the afternoon inside. This works particularly well starting from Lower Garden District or the French Quarter.
+**Bike ride + WWII Museum:** Cycle to the Warehouse District, lock up or return bikes near the museum, spend the afternoon inside. This works particularly well starting from Lower Garden District or the French Quarter — the [WWII Museum guide](/guides/nola-group-wwii-museum-guide/) covers group tickets and timing.
 
 **Bike ride + Frenchmen Street:** A late afternoon River-to-Frenchmen route that ends at Frenchmen Street in time for live music starting is one of the best ways to enter the Frenchmen Street scene without an Uber.
 
@@ -223,15 +223,8 @@ Cycling works well as a morning activity that sets up the rest of the day.
 
 Base camp location matters for cycling. You want to be in or near a neighborhood with direct access to your primary routes — or within easy reach of a rental shop.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is ideal for cycling: you're adjacent to Crescent Park, a short ride from Frenchmen Street, and connected to the river levee route and the Lafitte Greenway. Private pools and full kitchens mean the post-ride recovery is handled at home. The villa setting — completely private, with outdoor space — is perfect for regrouping after a long ride.
+For City Park and Lafitte Greenway routes, a Bywater base — Castleday Retreats' villas, for instance — puts you adjacent to Crescent Park and connected to the river levee route without a transfer. For Garden District and Magazine Street routes, Lower Garden District options like The Syd sit one block from the St. Charles Streetcar with Magazine Street's bike infrastructure at the door. Heirloom's inventory spans both areas if neither single property fits your dates. Whichever base you pick, private pools and full kitchens (not every property has both — check before booking) mean the post-ride recovery is handled at home rather than in an Uber back to a hotel.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar and within easy reach of Magazine Street's bike infrastructure. Garden District cycling routes (Route 2) are walkable from the front door. The shared heated pool, hot tub, and sauna are the right post-cycling amenities. For groups cycling the Garden District / Uptown routes, The Syd's Lower Garden District location is the natural home base.
+For the largest selection, book 6+ months out.
 
-For City Park and Lafitte Greenway focused trips: Castleday's Bywater location is slightly more convenient. For Garden District and Magazine Street routes: The Syd is better positioned.
-
----
-
-## Plan Your Cycling Trip
-
-- Castleday Retreats — Bywater villas, direct access to river levee and Crescent Park routes, private pools, up to 30 guests
-- The Syd — Lower Garden District villas, Garden District and Magazine Street routes at the door, shared pool and hot tub, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
