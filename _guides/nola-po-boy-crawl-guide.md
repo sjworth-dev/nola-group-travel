@@ -4,7 +4,7 @@ description: "The definitive NOLA po-boy crawl guide for large groups: the class
 category: "Food & Drink"
 card_title: "Po-Boy Crawl Guide"
 card_description: "Classic shops, neighborhood gems, what to order, and the right order to visit them. The po-boy crawl your group actually needs."
-date: 2026-06-03
+date: 2026-08-25
 ---
 
 The po-boy is New Orleans's signature sandwich, and it is genuinely unlike any other sandwich in the country. The bread alone — a specific Louisiana French bread with a crispy crust and an impossibly soft, airy interior — cannot be replicated anywhere else. The fillings range from fried shrimp to roast beef debris to oysters to boudin. The whole thing gets ordered "dressed" (lettuce, tomato, pickles, mayo) unless you specify otherwise.
@@ -101,7 +101,7 @@ A three-stop po-boy crawl works best when the stops are sequenced by neighborhoo
 
 **Starting in the French Quarter:** Natural entry point. Lots of walking options between stops. Combine with a stroll down Royal or Chartres between shops.
 
-**Mid-route in the Marigny or Bywater:** Many of the best non-tourist po-boy shops are in these neighborhoods. Walking distance from the Quarter. Also close to Castleday Retreats' Bywater location if you're based there.
+**Mid-route in the Marigny or Bywater:** Many of the best non-tourist po-boy shops are in these neighborhoods. Walking distance from the Quarter. Also close to Bywater-based villa stays if that's where the group is anchored.
 
 **Ending in Mid-City or Uptown:** For groups willing to take an Uber between stops, the neighborhoods outside the tourist zone have excellent independent shops that are significantly less crowded.
 
@@ -172,15 +172,12 @@ A po-boy crawl works well as the anchor activity for a day structured around eat
 
 A food crawl trip in New Orleans is best anchored in a neighborhood that gives you walkable access to the Bywater, Marigny, and French Quarter — the main po-boy geography.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is prime po-boy territory — neighborhood shops, minimal tourist density, and you're a 20-minute walk from the French Quarter starting points. The Herald, The Cocodrie, and The Florentine each have full kitchens, which matters when half your group wants to cook the evening after a big food day. Private pools for the post-crawl recovery.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is prime po-boy territory — neighborhood shops, minimal tourist density, and a walk from the French Quarter starting point. The Herald, The Cocodrie, and The Florentine each have full kitchens, which matters when half the group wants to cook that evening after a big food day. Private pools for the post-crawl recovery.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar, which connects you to Uptown and Magazine Street neighborhood shops. Shared heated pool, hot tub, sauna, and outdoor kitchen. If your food day includes Magazine Street or Uptown stops, the Lower Garden District location is well positioned.
+**Hotel Perle** — CBD/Warehouse District group suites (2-7 BR) with a rooftop pool. Separate bills suit a group with mixed food budgets, and the CBD puts you within walking range of the Quarter stops and a short ride from Uptown and Magazine Street.
 
-For food-focused trips where the Bywater and Marigny are your primary neighborhoods: Castleday's Bywater location is ideal. For groups wanting more flexibility across the whole city: either property works.
+For food-focused trips centered on the Bywater and Marigny: Castleday's location is the better fit. For a hotel-style stay with separate bills: Hotel Perle covers that. See the [full field](/where-to-stay/) for everything in between.
 
 ---
 
-## Plan Your Food Trip
-
-- Castleday Retreats — Bywater villas, walkable to French Quarter and Marigny, full kitchens, private pools, up to 30 guests
-- The Syd — Lower Garden District villas, streetcar access, shared pool and outdoor kitchen, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
