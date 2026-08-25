@@ -9,7 +9,7 @@ date: 2026-06-23
 
 Every year, some well-meaning person in the group chat floats the camping option. "It's right there at the fairgrounds. We wake up and we're already there. It'll be an adventure."
 
-This guide is for that moment. Before the group commits to something no one fully researched, here is the straight comparison: what Jazz Fest camping actually is, what a private villa in Bywater or Marigny actually gives you, how the transport shakes out, and when each option is the right call.
+This guide is for that moment. Before the group commits to something no one fully researched, here is the straight comparison: what Jazz Fest camping actually is, what a private villa in Bywater or Marigny actually gives you, how the transport shakes out, and when each option is the right call. For the festival itself — lineup strategy, stage logistics, food — start with the [Jazz Fest group guide](/guides/jazz-fest-group-guide/); this page is just the housing decision underneath it.
 
 For most large groups — especially groups with a mix of ages, anyone who values sleep, or anyone who plans to use New Orleans as a city during Jazz Fest week — the villa wins. Not because camping is bad. Because for a group of 14 to 30 people, the math changes completely.
 
@@ -126,7 +126,7 @@ Arriving at the fairgrounds at 11 AM when the crowds are still manageable, havin
 
 ### The Midday Return
 
-This is the move that separates experienced Jazz Fest goers from first-timers: leave the fairgrounds in the early-to-mid afternoon, return to the villa for a few hours, then go back for the headliners in the evening.
+This is the move that separates experienced Jazz Fest goers from first-timers: leave the fairgrounds in the early-to-mid afternoon, return to the villa for a few hours, then go back for the headliners in the evening. It's the same logic behind the [Jazz Fest day-two pivot](/guides/nola-group-jazz-fest-day-two-pivot-guide/) — knowing when to bail on a day and reset rather than push through it.
 
 The 1-4 PM window at Jazz Fest is the hardest part of the day. It is the hottest, the most crowded, and the most draining. Experienced locals often leave during this window and return. A villa makes this possible. Camping does not.
 
@@ -199,7 +199,7 @@ If your group is genuinely split, lean toward the villa and let the camping advo
 
 3. **Designate a house manager.** Someone who stays loosely coordinated on when people are coming back, keeps the kitchen stocked, and is the point of contact for the group. This does not mean one person is stuck at the villa — it means the role exists.
 
-4. **Stock the villa before day one.** Do a grocery run the evening before the first festival day. Coffee, eggs, bread, butter, fruit, sunscreen, electrolyte packets, beer for the pool afternoon. You will not want to do a grocery run after a day at the fairgrounds.
+4. **Stock the villa before day one.** Do a grocery run the evening before the first festival day. Coffee, eggs, bread, butter, fruit, sunscreen, electrolyte packets, beer for the pool afternoon. You will not want to do a grocery run after a day at the fairgrounds — the [festival packing guide](/guides/nola-music-festival-packing-guide/) covers what to bring from home versus buy once you land.
 
 5. **Use the shuttle at least once.** The official Jazz Fest shuttles eliminate the surge pricing problem on return. Find the nearest pickup to your villa, use it on your heaviest day, and see if it works for your group's schedule.
 
