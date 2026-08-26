@@ -13,7 +13,7 @@ New Orleans does something different.
 
 St. Patrick's Day in New Orleans — specifically, the Irish Channel parade and the Magazine Street sequence that follows — is a neighborhood event that happens to take place on or near March 17. The Irish Channel is one of the oldest working-class Irish neighborhoods in the American South, and its community has been running a St. Patrick's parade through their streets since 1947. The parade throws cabbage and potatoes from the floats. The bars on Magazine Street have been doing this for generations. The whole thing has the feel of a neighborhood celebrating its own identity rather than a calendar event marketed to tourists.
 
-For a large group, St. Patrick's Day in New Orleans is one of the most underrated group experiences in the city. Here's everything you need to know.
+For a large group, St. Patrick's Day in New Orleans is one of the most underrated group experiences in the city. Here's everything you need to know. If you're still building the rest of the trip around it, start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -32,7 +32,7 @@ For a large group, St. Patrick's Day in New Orleans is one of the most underrate
 
 ## The Irish Channel: Context
 
-The Irish Channel is a neighborhood in the Lower Garden District and Uptown area, bounded roughly by Magazine Street to the riverside and Tchoupitoulas Street toward the river, running from the 2000s to the 4000s blocks of Magazine Street.
+The [Irish Channel](/neighborhoods/irish-channel/) is a neighborhood in the Lower Garden District and Uptown area, bounded roughly by Magazine Street to the riverside and Tchoupitoulas Street toward the river, running from the 2000s to the 4000s blocks of Magazine Street.
 
 Irish immigrants began settling here in the 1840s, working the docks and the river trade. The neighborhood developed a distinct working-class Irish Catholic identity that persists today even as the demographics have shifted over the generations. The St. Patrick's parade reflects this — it is organized by neighborhood associations and Catholic organizations, not tourism boards, and the participants include three-generation families who have been watching or riding in the parade their whole lives.
 
@@ -96,7 +96,7 @@ At Mardi Gras, the float riders throw beads, doubloons, cups, and toys. At the I
 
 ## The Magazine Street Bar Sequence
 
-After the parade passes, the group needs somewhere to go. Magazine Street delivers.
+After the parade passes, the group needs somewhere to go. Magazine Street delivers — the [full-day Magazine Street guide](/guides/nola-group-magazine-street-full-day-guide/) is worth a look if the group wants to turn this into more than a parade-and-bars afternoon.
 
 This is not a rigid crawl — it's an organic movement up and down a 10-block stretch where every bar has been hosting St. Patrick's Day crowds for decades. The logic is: you watch the parade from a spot near a bar, you go into that bar when the parade passes, you eventually move to the next spot.
 
@@ -130,7 +130,7 @@ This is not a rigid crawl — it's an organic movement up and down a 10-block st
 
 The vegetable throws aren't just for show — people actually cook them. The combination of parade-thrown cabbage, potatoes, and carrots maps directly to the classic Irish boiled dinner. This is not a coincidence. The neighborhood roots run that deep.
 
-**Villa option:** If your group is in a villa, collecting the parade throws and making the traditional boiled dinner that evening is the move that ties the whole day together. Corned beef is available at grocery stores in advance (buy it before the 17th, when the rush hits). Boil with the parade vegetables. Eat at the villa table. This is the night two or three story.
+**Villa option:** If your group is in a villa, collecting the parade throws and making the traditional boiled dinner that evening is the move that ties the whole day together. Corned beef is available at grocery stores in advance (buy it before the 17th, when the rush hits). Boil with the parade vegetables. Eat at the villa table. This is the night two or three story. St. Patrick's Day also lands right in the middle of [spring crawfish season](/guides/nola-group-spring-crawfish-festival-season-guide/), so if a boiled dinner isn't enough of a production, a crawfish boil is a real option the same trip.
 
 ### Food on the Parade Route
 
