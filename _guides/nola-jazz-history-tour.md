@@ -4,14 +4,14 @@ description: "The real jazz history tour for large groups: Congo Square origins,
 category: "Activities & Day Trips"
 card_title: "NOLA Jazz History Tour"
 card_description: "Congo Square to Frenchmen Street — a self-guided jazz history tour that's actual history, not a bar crawl with a soundtrack."
-date: 2026-06-04
+date: 2026-08-26
 ---
 
 New Orleans didn't just birth jazz — it continues to perform it on streets, in second line parades, at corner bars on Tuesday nights with no cover charge. The music is not museum-preserved here. It's alive in the same neighborhoods where it started. Which means a jazz history tour for your group can be genuinely immersive if you approach it right.
 
 Most "jazz tours" in New Orleans are either too shallow (ride a bus, hear one song, buy a T-shirt) or too academic (lecture heavy, not enough actual music). The approach that works for large groups is a structured self-guided walk that hits the historically significant sites in the right order, explains why each one matters, and finishes where the music still happens every night.
 
-This is a walking tour that you organize. It covers about three miles. You can do it in half a day, or stretch it to a full day if you want to eat along the way.
+This is a walking tour that you organize. It covers about three miles. You can do it in half a day, or stretch it to a full day if you want to eat along the way. If you're still sequencing the rest of the trip around it, the [group trip planning hub](/guides/plan-a-group-trip/) is the place to start.
 
 ## Quick Checklist
 
@@ -72,7 +72,7 @@ The neighborhood is residential and you're a guest in it. Don't be loud, don't t
 
 **What to note:**
 - The scale of the houses: shotgun doubles, Creole cottages, houses built close to the street. These are working-class houses, not mansions. Jazz did not come from wealth.
-- The Backstreet Cultural Museum, if it's open, is worth a stop (small, run by a community member, focused on second line culture, Mardi Gras Indians, and jazz funerals — give a donation)
+- The Backstreet Cultural Museum, if it's open, is worth a stop (small, run by a community member, focused on second line culture, Mardi Gras Indians, and jazz funerals — give a donation). If your group wants a deeper cultural morning here instead of just a walk-through, the [Tremé culture immersion guide](/guides/nola-group-treme-culture-immersion-guide/) builds a whole itinerary around this neighborhood.
 - The density of the neighborhood relative to the French Quarter across Rampart Street. The Quarter was European and merchant-class. The Tremé was working-class and Black. The music traveled across Rampart Street.
 
 **Historical framing for your group:** The musicians who developed early jazz in this neighborhood were not performing for tourists. They were playing for funerals, for second line parades, for social club celebrations. The music came from community ritual, not from a stage. Keep that context in mind as the tour continues.
@@ -147,7 +147,7 @@ The music here is not a performance of a tradition for tourists — it's the loc
 - Walk the entire block first before committing to a venue — there are five to eight clubs operating simultaneously and you want to know what's on before everyone disperses
 - Let people split and reconvene. A group of twenty doesn't all need to be in the same club — let people find the sound they want and agree on a meeting point and a departure time
 - The outdoor street musicians are sometimes as good as the indoor acts. Give generously.
-- The Apple Barrel and Spotted Cat and d.b.a. are the anchor venues; they're small and fill up fast
+- The Apple Barrel and Spotted Cat and d.b.a. are the anchor venues; they're small and fill up fast — the [jazz club deep dive](/guides/nola-jazz-club-deep-dive/) breaks down cover charges and standing-room strategy venue by venue if you want to plan the night in more detail
 
 ---
 
@@ -210,7 +210,7 @@ You don't need to be a music scholar to enjoy what you're hearing. But knowing t
 
 6. **Rain doesn't stop the music.** Frenchmen Street venues are mostly indoor. A rain event doesn't end the evening — it just condenses everyone into the clubs. On a rainy Friday night, the clubs are tighter and often louder and the street musicians duck under awnings and keep playing.
 
-7. **The second line tradition is still operating.** New Orleans second line parades happen most Sundays from roughly October through June — actual neighborhood social club parades, not staged events. If your trip overlaps with one, nothing on this tour compares to following a brass band down a neighborhood street for thirty minutes.
+7. **The second line tradition is still operating.** New Orleans second line parades happen most Sundays from roughly October through June — actual neighborhood social club parades, not staged events. If your trip overlaps with one, nothing on this tour compares to following a brass band down a neighborhood street for thirty minutes. The [second line guide](/guides/second-line-guide/) covers how to find one, and how to book a brass band for your own private one if the dates don't line up.
 
 ---
 
@@ -218,15 +218,6 @@ You don't need to be a music scholar to enjoy what you're hearing. But knowing t
 
 The jazz history tour starts in the Tremé, moves through the Quarter, and ends in the Marigny. Where you're based determines how far you're walking and how easily you can finish the night on Frenchmen Street.
 
-**Castleday Retreats** — Three private villas in Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is one block from Frenchmen Street — you walk home from the last stop of the tour without an Uber. The private pool at each villa is perfect for a late-night debrief after a full evening at Frenchmen Street. The art-filled interiors match the neighborhood's character; the kitchen works for a group breakfast before the day tour begins.
+Bywater is the closest base to this tour's finish — one block from Frenchmen Street, so the walk home after the last set doesn't need a rideshare. Castleday Retreats' villas there (private pool, 14–30 guests apiece) fit a group that wants to end the night without going anywhere. Groups pairing this tour with the Garden District or Uptown are often better served by a Lower Garden District base near the St. Charles streetcar — The Syd's villas there share a heated pool and outdoor kitchen — or by looking at Heirloom, which has the widest inventory of large-format houses across several neighborhoods if the Bywater and Lower Garden District options don't fit your dates or headcount. A hotel room block (The Roosevelt, Hotel Peter & Paul, Hotel Saint Vincent) is worth considering too if the group wants separate rooms and its own bills rather than one shared house.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The St. Charles Streetcar runs from the front of the neighborhood to Canal Street, where you can walk into the Quarter or catch a cab to the Tremé. The shared heated pool, hot tub, and outdoor kitchen give the group a landing spot after the evening's music. For groups combining the jazz tour with the Garden District and Uptown, The Syd's position is better.
-
-Both properties put you close enough to walk or take a short ride to every stop on this tour. The Castleday Bywater location is the natural choice for groups centering the trip on music.
-
----
-
-## Plan Your Jazz History Trip
-
-- Castleday Retreats — Bywater villas one block from Frenchmen Street, private pools, art throughout, up to 30 guests per villa
-- The Syd — Lower Garden District villas, streetcar access to the French Quarter and music corridor, shared pool and outdoor kitchen, up to 22 guests per villa
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
