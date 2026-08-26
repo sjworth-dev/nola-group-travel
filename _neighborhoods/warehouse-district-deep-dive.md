@@ -2,7 +2,7 @@
 title: "Warehouse District Deep Dive for Large Groups"
 description: "Extended Warehouse District guide for groups: WWII Museum logistics, gallery district block-by-block, the restaurant cluster, evening bar scene, and how to build a complete day in this neighborhood."
 category: "Neighborhoods"
-date: 2026-06-03
+date: 2026-08-26
 ---
 
 The Warehouse District is the most underrated neighborhood in New Orleans for large groups. It has the WWII Museum — one of the best museums in the country, full stop. It has a genuine gallery district that makes Warehouse Arts District a real name and not just a real estate label. It has an excellent restaurant cluster concentrated enough that you don't need a car. And it has a bar scene that's calmer and more spread out than Bourbon Street without being as deep as Frenchmen Street.
@@ -144,8 +144,8 @@ The Warehouse District is accessible from most neighborhoods in New Orleans.
 | Starting Point | Best Route |
 |---------------|-----------|
 | French Quarter | 10-15 minute walk via Canal Street or Decatur |
-| Lower Garden District / The Syd | 10-minute walk up Magazine Street |
-| Bywater / Castleday Retreats | 20-25 minute walk or short Uber |
+| Lower Garden District | 10-minute walk up Magazine Street |
+| Bywater | 20-25 minute walk or short Uber |
 | Uptown | Streetcar on St. Charles to the end of the line, then walk |
 | Mid-City | Uber recommended |
 
@@ -189,17 +189,8 @@ The Warehouse District is accessible from most neighborhoods in New Orleans.
 
 ## Where to Stay for a Warehouse District Trip
 
-The Warehouse District is centrally located enough that you can reach it easily from multiple neighborhoods. The best base camps for groups doing a Warehouse District-focused day:
+The Warehouse District itself leans toward Hotel Perle's CBD/Warehouse group suites — separate bills, walkable to everything in this guide — but groups based elsewhere in the city reach it easily too. A Lower Garden District base (The Syd is one option there) is directly adjacent via Magazine Street, an easy walk to the WWII Museum. A Bywater base (Castleday Retreats, for instance) is a 20-minute Uber, not walkable, but works well as part of a multi-day trip that includes the Warehouse District as one day among several. Heirloom's inventory spans several of these neighborhoods if you want more options to compare. Confirm any amenity you're counting on directly with the property before you book.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. The Lower Garden District is directly adjacent to the Warehouse District — Magazine Street connects the two neighborhoods seamlessly. You can walk to the WWII Museum in about 15 minutes from The Syd. One block from the St. Charles Streetcar for other parts of the city. Shared heated pool, hot tub, sauna, and outdoor kitchen. The artist-designed interiors are a good conversation starter if your group is doing the gallery walk.
+For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping up to 30 guests. The Bywater is a 20-minute Uber from the Warehouse District — not walkable, but an easy ride. Private pools and full kitchens make the villa a complete home base for a multi-day trip that includes the Warehouse District as one day among several. The Bywater location is also ideal if your group wants to combine the museum day with a Frenchmen Street evening.
-
-For Warehouse District-centric trips where you're spending most of the day there: The Syd's proximity makes it the natural choice. For multi-neighborhood trips where the Warehouse District is one stop: either property works.
-
----
-
-## Plan Your Trip
-
-- The Syd — Lower Garden District, adjacent to the Warehouse District, streetcar access, up to 22 guests per villa
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, short Uber to the Warehouse District
+[See where to stay for large groups →](/where-to-stay/)
