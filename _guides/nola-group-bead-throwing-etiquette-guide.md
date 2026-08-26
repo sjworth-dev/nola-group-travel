@@ -4,7 +4,7 @@ description: "The float rider's perspective on who gets the good throws, what ac
 category: "Festivals & Events"
 card_title: "Bead Culture for Groups"
 card_description: "What float riders actually throw and why, neutral ground positioning, parade-by-parade bead quality, and what to do with 50 pounds of beads at the end of the night."
-date: 2026-06-18
+date: 2026-08-26
 ---
 
 Most visitors to Mardi Gras think of bead catching as random. Float riders lean over the side and throw things, you catch what you catch, and the whole thing is a lottery. That's not how it works.
@@ -13,7 +13,7 @@ Float riders — krewe members who ride the floats and throw the goods — are m
 
 Understanding this changes how you experience Mardi Gras parades. If you're standing there passively looking up, you're getting the leftover brass beads. If you're making eye contact, calling out, positioning correctly, and working with your group, you're getting the good stuff.
 
-Here's what to know.
+Here's what to know. For the full picture of dates, parade routes, and logistics, start with the [main Mardi Gras group guide](/guides/mardi-gras-group-guide/).
 
 ---
 
@@ -53,7 +53,7 @@ In New Orleans, the neutral ground is the median — the grassy or paved strip d
 
 Here's why: when a float rolls down St. Charles Avenue, there are crowds on both sidewalks (the parade side) and crowds on the neutral ground. The float passes between these two groups. The riders on the left side of the float are throwing to the sidewalk crowd. The riders on the right side are throwing to the neutral ground crowd. From the neutral ground, you have access to throws from every rider on the passing side of the float — and you are below and in direct line of sight, not competing with the curb-side crowd.
 
-**Neutral ground strategy for a group of 20:**
+**Neutral ground strategy for a group of 20 on the [Uptown](/neighborhoods/uptown/) St. Charles route:**
 
 - Get there early. 45 minutes to an hour before the first float is the minimum for a decent spot.
 - Spread out across a 15-20 foot section. A line of people rather than a cluster gives each person their own catching zone.
@@ -102,7 +102,7 @@ Before the parade starts, identify a specific landmark as the group meetup point
 
 In rough order of effectiveness:
 
-1. **Costumes** — Specifically, coordinated group costumes. A group of 20 people in matching or thematically connected costumes is noticed from the float before you're even in throwing range. Riders see you coming and plan for you.
+1. **Costumes** — Specifically, coordinated group costumes (see the [group costume guide](/guides/nola-group-mardi-gras-costume-guide/) for how to actually pull this off). A group of 20 people in matching or thematically connected costumes is noticed from the float before you're even in throwing range. Riders see you coming and plan for you.
 2. **Calling the krewe name** — Riders identify with their krewe and respond to it. "Bacchus!" or "Rex!" yelled directly at a rider as the float passes does more than generic yelling.
 3. **Signs** — Handmade signs with specific rider-targeted messaging work. "Second grade teacher needs beads" or anything personal and readable gets attention.
 4. **Eye contact and pointing** — Point directly at a rider, hold eye contact, nod. This communicates: "I see you specifically." Riders respond to being seen as individuals.
@@ -159,21 +159,14 @@ None of this is inaccessible. It just requires knowing it exists.
 
 6. **Never store beads in hotel elevators or narrow hallways.** 20 people each carrying a bag of beads through a hotel lobby is a logistical problem. Establish a bead drop point at the villa or hotel room and send someone there with the accumulated catches every hour or two.
 
-7. **Know the difference between Mardi Gras Day and Mardi Gras season.** Mardi Gras Day (Fat Tuesday) is the final day. The Saturday and Sunday before are equally good for parade-watching and significantly less crowded on the streets. For large groups, the weekend before Fat Tuesday often provides better positioning, more space, and equivalent or better parades.
+7. **Know the difference between Mardi Gras Day and Mardi Gras season.** Mardi Gras Day (Fat Tuesday) is the final day — see the [Mardi Gras Day guide](/guides/nola-group-mardi-gras-day-guide/) for how that one day differs from the rest of the season. The Saturday and Sunday before are equally good for parade-watching and significantly less crowded on the streets. For large groups, the weekend before Fat Tuesday often provides better positioning, more space, and equivalent or better parades.
 
 ---
 
 ## Where to Stage Your Mardi Gras HQ
 
-Large group Mardi Gras requires a home base that can absorb 20 people, all their costumes, and whatever they caught today. A hotel room doesn't do this. A villa does.
+Large group Mardi Gras requires a home base that can absorb a big crew, all their costumes, and whatever they caught today. A hotel room doesn't do this easily; a villa or a suite-style property does. A Bywater base (Castleday Retreats is one option) puts you within reach of both the Uptown St. Charles route by rideshare and the closer-in Marigny/Bywater neighborhood parades, with a private pool that works as a pre-parade staging area and a post-parade decompression zone. A Lower Garden District base (The Syd, for instance) sits close enough to St. Charles Avenue to walk to the parade route. Heirloom's inventory spans both areas, and a hotel room block works fine for groups who'd rather keep separate bills. Whichever base you pick, confirm the amenities you're counting on directly with the property — don't assume.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is an easy position for accessing both the Uptown St. Charles route (via rideshare) and the Marigny/Bywater neighborhood parades that roll closer to home. The private pool at each villa doubles as a pre-parade staging area and a post-parade decompression zone. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District sits directly adjacent to the Uptown parade route — getting to St. Charles Avenue from The Syd is a 10-minute walk. For groups prioritizing parade positioning over all else, this is the move.
-
----
-
-## Plan Your Mardi Gras Group Trip
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, walkable to St. Charles parade route, heated pool, outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
