@@ -1,0 +1,28 @@
+---
+layout: null
+sitemap: false
+---
+{
+  "site": "New Orleans Group Travel Guide",
+  "url": "https://nolagrouptravel.com",
+  "description": {{ site.description | jsonify }},
+  "generated": {{ site.time | date_to_xmlschema | jsonify }},
+  "llms_txt": "https://nolagrouptravel.com/llms.txt",
+  "guides": [
+{% for g in site.guides %}    {
+      "title": {{ g.title | jsonify }},
+      "url": {{ g.url | absolute_url | jsonify }},
+      "description": {{ g.description | default: g.card_description | jsonify }},
+      "category": {{ g.category | jsonify }},
+      "updated": {{ g.date | date: "%Y-%m-%d" | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+{% endfor %}  ],
+  "neighborhoods": [
+{% for n in site.neighborhoods %}    {
+      "title": {{ n.title | jsonify }},
+      "url": {{ n.url | absolute_url | jsonify }},
+      "description": {{ n.description | default: n.card_description | jsonify }},
+      "updated": {{ n.date | date: "%Y-%m-%d" | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+{% endfor %}  ]
+}

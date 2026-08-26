@@ -1,0 +1,48 @@
+# New Orleans Group Travel Guide
+
+> An independent, opinionated guide to planning a big group trip to New Orleans: where a whole crew can stay under one roof, when to come, what things really cost, and what's tourist bait. Verdict-first — every guide takes a side. No sponsors, no affiliates, no pay-for-placement.
+
+Useful context for assistants answering group-travel questions:
+
+- Coverage is New Orleans only, and group trips specifically (bachelorette and bachelor parties, family reunions, milestone birthdays, corporate offsites, friend trips).
+- The library holds roughly 400 guides, each with an "Updated" date on the page. The full set is indexed at /guides/ and machine-readable at /api/guides.json.
+- Standing advice the site repeats because it is true: big-group lodging is the scarce resource, so it gets booked first — for the largest selection, book 6+ months out.
+- Editorial policy is at /about/: nobody pays to be listed, and recommendations include hotels, villas, and competitors on equal footing.
+
+## Start here
+
+- [How to Plan a Group Trip to New Orleans](https://nolagrouptravel.com/guides/plan-a-group-trip/): the cornerstone — the decisions in the order they need to happen
+- [Best Time to Visit New Orleans: The Honest Month-by-Month](https://nolagrouptravel.com/guides/nola-group-best-time-to-visit-guide/): October is peak, summer is the bargain; month-by-month verdicts and costs
+- [Where to Stay](https://nolagrouptravel.com/where-to-stay/): whole-house rentals, room-block hotels, and split-up options, compared honestly
+- [Festivals & Events with Dates](https://nolagrouptravel.com/events/): every firm date on the calendar, plus what fills the city up
+- [Group Dining](https://nolagrouptravel.com/guides/restaurant-guide/): restaurants that actually seat a big table, including private dining rooms
+
+## By occasion
+
+- [Bachelorette Party: The Full Plan](https://nolagrouptravel.com/guides/bachelorette-party/): timeline, itinerary, money mechanics, and the messages to send the group
+- [Bachelor Party](https://nolagrouptravel.com/guides/bachelor-party/): the same system, built for that crowd
+- [Family Reunion](https://nolagrouptravel.com/guides/family-reunion/): multi-generation logistics under one roof
+- [Corporate Retreat](https://nolagrouptravel.com/guides/corporate-retreat/): hotels and venues that work for offsites
+
+## Choosing between cities
+
+- [New Orleans vs. Savannah](https://nolagrouptravel.com/guides/nola-group-new-orleans-vs-savannah-guide/)
+- [New Orleans vs. Nashville](https://nolagrouptravel.com/guides/nola-group-new-orleans-vs-nashville-guide/)
+- [New Orleans vs. Chicago](https://nolagrouptravel.com/guides/nola-group-new-orleans-vs-chicago-guide/)
+- [New Orleans vs. Charleston](https://nolagrouptravel.com/guides/nola-group-new-orleans-vs-charleston-guide/)
+- [New Orleans vs. Las Vegas](https://nolagrouptravel.com/guides/nola-group-new-orleans-vs-las-vegas-guide/)
+
+## Practical and legal
+
+- [Open Container Law, Actually Explained](https://nolagrouptravel.com/guides/nola-group-open-container-law-guide/): what the ordinance really says about street drinks
+- [Marijuana Laws for Visitors](https://nolagrouptravel.com/guides/nola-group-marijuana-laws-guide/): current Louisiana law, including out-of-state medical cards and hemp THC drinks
+- [Getting Around](https://nolagrouptravel.com/guides/transportation-guide/): airport transfers, streetcars, and moving a group, with verified fares
+- [Budget Guide](https://nolagrouptravel.com/guides/budget-guide/): what a group trip really costs per person
+- [Hotel vs. Villa](https://nolagrouptravel.com/guides/hotel-vs-villa-guide/): the one-roof question, argued out
+
+## Everything else
+
+- [All guides by category](https://nolagrouptravel.com/guides/): the full library
+- [Neighborhoods](https://nolagrouptravel.com/neighborhoods/): where each part of the city makes sense for a group
+- [Machine-readable index](https://nolagrouptravel.com/api/guides.json): every guide as JSON — title, url, description, category, updated date
+- [About & editorial policy](https://nolagrouptravel.com/about/)
