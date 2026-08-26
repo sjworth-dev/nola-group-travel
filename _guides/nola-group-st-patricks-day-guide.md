@@ -4,7 +4,7 @@ description: "St. Patrick's Day in New Orleans for large groups: the Irish Chann
 category: "Festivals & Events"
 card_title: "St. Patrick's Day"
 card_description: "The Irish Channel parade, cabbage throws, the Parasol's tradition, Magazine Street all afternoon. NOLA's St. Patrick's Day is not a bar holiday — it's a neighborhood event."
-date: 2026-06-18
+date: 2026-08-26
 ---
 
 Most American cities do St. Patrick's Day as a bar holiday. Green beer, crowded pubs, amateur-hour crowds. It's fine. It's the same everywhere.
@@ -156,11 +156,11 @@ That's worth planning around.
 
 ## Large Group Accommodations for St. Patrick's Day
 
-St. Patrick's Day in New Orleans falls around March 17, which is in the shoulder season between Mardi Gras (February) and Jazz Fest (late April/early May). This makes it one of the better windows for large group bookings — not peak pricing, but the weather is excellent (mid-60s to low 70s, dry) and the city is in event mode without being at maximum capacity.
+St. Patrick's Day in New Orleans falls around March 17 — squarely inside the city's February–May peak season (Mardi Gras, spring crawfish season, French Quarter Fest, and Jazz Fest all stack up in this stretch). Don't expect a shoulder-season discount: the weather is excellent, the city is in event mode, and large-group accommodations book like it.
 
-**The Syd** — The Syd is in the Lower Garden District, adjacent to the Magazine Street corridor and a 10-15 minute walk from the Irish Channel parade zone. Multiple villas sleeping up to 22 guests each, every room designed by local New Orleans artists. The shared heated pool and outdoor kitchen are the recovery plan after a full day on Magazine Street. The Syd's location puts you one block from the St. Charles Streetcar and walking distance to everything on the Irish Channel route.
+A base in the Lower Garden District puts you closest to the action — a 10–15 minute walk from the Irish Channel parade zone and one block from the St. Charles streetcar. The Syd's villas there (shared heated pool, hot tub, outdoor kitchen) fit that spot well. For groups who'd rather host the post-parade villa dinner somewhere fully private, Castleday Retreats' Bywater villas (private pool per villa) are a rideshare away and built for exactly that kind of large-format meal. Heirloom is worth a look too if neither fits your dates or headcount — it has the widest inventory of large-format houses across several neighborhoods.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is a rideshare away from the Irish Channel, but the private nature of the property — private pool, complete privacy, full kitchen — makes it ideal for hosting the post-parade villa dinner with parade-caught vegetables, a large-format meal, and no neighbors to consider. 4.98 stars across 99 reviews.
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -194,11 +194,4 @@ St. Patrick's Day in New Orleans falls around March 17, which is in the shoulder
 
 6. **The villa dinner option is one of the best things about doing this with a group.** Parade-caught vegetables, corned beef, a big table — this is the night that becomes the trip memory. Plan for it.
 
-7. **Book everything well in advance.** St. Patrick's Day weekend is not Mardi Gras crowding, but it is a real event that fills up large-group accommodations earlier than you expect.
-
----
-
-## Plan the Trip
-
-- The Syd — Lower Garden District, walkable to the Irish Channel, up to 22 guests per villa, shared pool
-- Castleday Retreats — Bywater, up to 30 guests per villa, private pool, perfect for the post-parade villa dinner
+7. **Book everything well in advance.** St. Patrick's Day weekend sits inside the city's peak season, and large-group accommodations go early — for the largest selection, book 6+ months out.
