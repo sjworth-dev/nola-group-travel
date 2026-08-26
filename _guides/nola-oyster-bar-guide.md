@@ -1,15 +1,15 @@
 ---
 title: "New Orleans Oyster Bar Guide for Large Groups"
-description: "The group guide to raw bars and oyster culture in New Orleans: where to eat oysters, how to order at a proper oyster bar, Gulf oyster season, and how to structure an oyster crawl for 15-25 people."
+description: "The group guide to raw bars and oyster culture in New Orleans: where to eat oysters, how to order at a proper oyster bar, Gulf oyster season, and how to structure an oyster crawl for the whole crew."
 category: "Food & Drink"
 card_title: "NOLA Oyster Bar Guide"
-card_description: "Raw, chargrilled, Rockefeller, fried. How to order at a proper NOLA oyster bar and run an oyster crawl for 15-25 people."
-date: 2026-06-04
+card_description: "Raw, chargrilled, Rockefeller, fried. How to order at a proper NOLA oyster bar and run an oyster crawl for the whole group."
+date: 2026-08-26
 ---
 
 New Orleans is one of a handful of cities in the country where oysters are genuinely part of the food culture — not a trend, not a luxury add-on, but something locals eat on a Tuesday afternoon at a bar that's been doing it the same way for generations. The Gulf of Mexico produces a specific oyster that's plump, briny, and unlike the smaller East Coast varieties most people know. The city has built an entire institution around eating them.
 
-For large groups, the oyster bar is one of the best stops you can make. It's fast, it's communal, it works for groups who don't all want the same thing, and the ritual of eating oysters at a proper bar — watching the shucker work, passing the hot sauce, debating preparations — is a shared experience that holds a group of twenty together in a way that a big restaurant table doesn't.
+For large groups, the oyster bar is one of the best stops you can make. It's fast, it's communal, it works for groups who don't all want the same thing, and the ritual of eating oysters at a proper bar — watching the shucker work, passing the hot sauce, debating preparations — is a shared experience that holds a big crew together in a way that a large restaurant table doesn't. If you're still sequencing the rest of the trip, the [group trip planning guide](/guides/plan-a-group-trip/) is the place to start.
 
 Here's how to do it right.
 
@@ -82,7 +82,7 @@ What to expect: A denser, more complex preparation than chargrilled. The butter 
 
 Large Gulf oysters dredged in seasoned cornmeal and fried to order. Usually served as part of a po-boy, as a platter with sides, or as a topping on various dishes. Different from the raw bar experience — this is more of a lunch or dinner preparation than a quick crawl stop.
 
-The fried oyster po-boy is a full discussion in its own right (see the po-boy crawl guide). For an oyster crawl, focus on raw and chargrilled.
+The fried oyster po-boy is a full discussion in its own right — see the [po-boy crawl guide](/guides/nola-po-boy-crawl-guide/). For an oyster crawl, focus on raw and chargrilled.
 
 ---
 
@@ -96,7 +96,7 @@ This is where large groups go wrong. An oyster bar is not a restaurant with a me
 
 **Chargrilled:** These come off the grill by the dozen or half-dozen. Order to the kitchen, not the shucker. The timing is usually 8-12 minutes per batch.
 
-**For groups of 15-25:** The math works out to roughly 6-8 oysters per person if you're doing this as a proper stop. For 20 people, that's 10-14 dozen. Don't order all at once — order 4-5 dozen, eat them, order more. Staggered ordering gives you fresher oysters and lets you gauge how hungry people actually are.
+**For the whole crew:** The math works out to roughly 6-8 oysters per person if you're doing this as a proper stop — for 20 people, that's 10-14 dozen. Don't order all at once — order 4-5 dozen, eat them, order more. Staggered ordering gives you fresher oysters and lets you gauge how hungry people actually are.
 
 ### The Group Ordering System
 
@@ -109,11 +109,11 @@ This is where large groups go wrong. An oyster bar is not a restaurant with a me
 
 ## The Oyster Crawl Structure
 
-An oyster crawl for 15-25 people works on the same logic as any food crawl: three stops, different experiences at each, a route that makes geographic sense. You're not stuffing yourselves at each stop — you're tasting and comparing.
+An oyster crawl for the whole crew works on the same logic as any food crawl: three stops, different experiences at each, a route that makes geographic sense. You're not stuffing yourselves at each stop — you're tasting and comparing.
 
 ### Stop 1: The Classic Raw Bar
 
-Start at a traditional French Quarter or nearby raw bar. The French Quarter has the oldest oyster establishments in the city, some with bar setups that haven't changed in decades. You're eating here for the history and the raw bar experience — the ritual of watching a shucker work, the ice, the half shells, the hot sauce lineup.
+Start at a traditional [French Quarter](/neighborhoods/french-quarter/) or nearby raw bar. The French Quarter has the oldest oyster establishments in the city, some with bar setups that haven't changed in decades. You're eating here for the history and the raw bar experience — the ritual of watching a shucker work, the ice, the half shells, the hot sauce lineup.
 
 **What to order:** A dozen raw per group of four people (sharing). Maybe a plate of Oysters Rockefeller for the table to try. Keep it relatively light — two more stops are coming.
 
@@ -139,7 +139,7 @@ Drago's Seafood Restaurant in the CBD is the most famous destination for chargri
 
 ### Stop 3: The Neighborhood Raw Bar
 
-End somewhere outside the tourist corridor. The Uptown and Mid-City neighborhoods have raw bar programs attached to local restaurants that serve the same Gulf oysters with much shorter lines and a completely different atmosphere. This is the stop where you understand that oysters aren't a special occasion food in New Orleans — they're Tuesday.
+End somewhere outside the tourist corridor. The [Uptown](/neighborhoods/uptown/) and [Mid-City](/neighborhoods/mid-city/) neighborhoods have raw bar programs attached to local restaurants that serve the same Gulf oysters with much shorter lines and a completely different atmosphere. This is the stop where you understand that oysters aren't a special occasion food in New Orleans — they're Tuesday.
 
 **What to order:** A final round of raw on the half shell. A cold beer. Maybe a fried oyster plate if anyone's still hungry.
 
@@ -190,23 +190,14 @@ Before you walk into a serious raw bar, know these terms.
 
 6. **The chargrilled oyster is the group unifier.** If your group has a split between oyster-lovers and oyster-skeptics, the chargrilled oyster resolves it almost every time. It's accessible, it's warm, it's rich without being challenging. Make this stop mandatory.
 
-7. **Plan the crawl route the day before.** For 15-25 people, calling ahead to let the restaurant know you're coming as a large group means they can prep for your order and not be blindsided. Many smaller raw bars will appreciate the heads-up; some larger ones won't need it.
+7. **Plan the crawl route the day before.** For a big group, calling ahead to let the restaurant know you're coming means they can prep for your order and not be blindsided. Many smaller raw bars will appreciate the heads-up; some larger ones won't need it.
 
 ---
 
 ## Staying as a Large Group Near NOLA's Oyster Scene
 
-New Orleans oyster culture is spread across the city but concentrates in the French Quarter, the CBD, Bywater, and Uptown. Where you're based affects how easily you can run a proper crawl.
+New Orleans oyster culture is spread across the city but concentrates in the French Quarter, the CBD, Bywater, and Uptown. Where you're based affects how easily you can run a proper crawl — a Bywater villa (Castleday Retreats is one option there) puts you within walking distance of the French Quarter raw bars and a short ride from the CBD's chargrilled institutions, while a Lower Garden District base (The Syd, for instance) sits a block from the St. Charles Streetcar that connects to Uptown's neighborhood raw bars and Magazine Street. Heirloom's inventory spans both areas if neither single property fits your dates, and a hotel room block (own bill, own key) works fine too if a private villa isn't the priority. Whichever base fits your crawl route, a full kitchen is worth having if the group wants to do a second oyster night at home with a bushel from a market — check that amenity before you book, since not every property has it.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater puts you 20-25 minutes on foot from the French Quarter raw bars and a short Uber from the CBD chargrilled institutions. After the crawl, the private pool at The Cocodrie or The Herald is exactly where you want to be — horizontal, cold beer in hand, talking about which dozen was the best. The Florentine's full kitchen is useful if you want to do a second-night oyster experience at the villa with a bushel from a market. Bywater is also walking distance to Frenchmen Street for the evening after.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which connects you to Uptown's neighborhood raw bars and Magazine Street. The shared heated pool, hot tub, and outdoor kitchen are ideal for a post-crawl recovery situation — a group of 20 people sprawled around a pool at 4pm after a three-stop oyster morning is one of the better ways to spend an afternoon in New Orleans. If your crawl includes Uptown stops, the Lower Garden District location means you can walk or streetcar to the last stop and back without managing Ubers.
-
-For groups running a French Quarter to Bywater/Marigny oyster crawl route: Castleday's Bywater location is the ideal home base. For groups building an Uptown-heavy day: The Syd wins on position.
-
----
-
-## Plan Your Oyster Trip
-
-- Castleday Retreats — Bywater villas, walking distance to French Quarter raw bars, private pools, up to 30 guests per villa
-- The Syd — Lower Garden District villas, streetcar to Uptown and the Quarter, shared pool and outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
