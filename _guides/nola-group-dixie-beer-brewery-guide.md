@@ -1,10 +1,10 @@
 ---
 title: "NOLA Craft Beer and Brewery Guide for Large Groups"
-description: "Brewery visits, craft beer taprooms, and NOLA beer culture for large groups: which taprooms can handle groups of 15-25, which offer tours, the local craft beer landscape, and how to build a half-day brewery crawl."
+description: "Brewery visits, craft beer taprooms, and NOLA beer culture for large groups: which taprooms can handle the whole crew, which offer tours, the local craft beer landscape, and how to build a half-day brewery crawl."
 category: "Nightlife & Music"
 card_title: "Craft Beer & Brewery Guide"
-card_description: "The NOLA craft beer taproom scene for large groups: which breweries accommodate groups, tours, private buyouts, and building a half-day brewery crawl for 15-25 people."
-date: 2026-06-17
+card_description: "The NOLA craft beer taproom scene for large groups: which breweries accommodate a crowd, tours, private buyouts, and building a half-day brewery crawl."
+date: 2026-08-26
 ---
 
 New Orleans is not famous for craft beer the way it's famous for cocktails and spirits. That's fine — the cocktail scene is world-class and deserves its reputation. But the city has developed a legitimate local craft beer scene in the last decade, and for groups that want an afternoon activity that isn't another bar crawl or another swamp tour, a brewery crawl is a strong option.
@@ -181,13 +181,6 @@ Best for groups where the crawl ends near a restaurant the organizer has already
 
 ## Home Base for a Brewery Afternoon
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group in proximity to the St. Claude corridor taprooms and a short ride from the Warehouse District cluster. Returning to a Castleday villa after a 5-hour brewery crawl means a private pool, a full kitchen for a late snack, and no need to manage a hotel lobby in a tired, beer-happy state. Castleday holds a 4.98 average across 99 reviews.
+The Bywater puts your group close to the St. Claude corridor taprooms and a short ride from the Warehouse District cluster — Castleday Retreats' villas there (private pool per villa) give a group somewhere quiet to land after a five-hour crawl. If Uptown and Magazine Street's newer taprooms are more the focus, a Lower Garden District base near the streetcar works better; The Syd's villas there share a heated pool, hot tub, and outdoor kitchen. Heirloom is worth a look too — it has the widest inventory of large-format houses if neither of those fits your dates or headcount.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's Uptown-adjacent location gives easy access to the Magazine Street corridor and the Freret Street area, where some of the city's newer taprooms have taken root. Post-crawl, the shared outdoor kitchen and pool at The Syd is exactly the right recovery environment.
-
----
-
-## Plan Your Brewery Crawl
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)

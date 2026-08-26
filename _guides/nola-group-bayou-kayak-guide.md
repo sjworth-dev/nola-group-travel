@@ -3,8 +3,8 @@ title: "Bayou St. John and City Park Kayaking Guide for Large Groups"
 description: "Kayaking Bayou St. John and City Park lagoons for large groups: rental logistics, guided vs. self-guided, the specific paddling experience on an urban bayou, wildlife, and a morning structure that pairs with City Park breakfast."
 category: "Activities & Day Trips"
 card_title: "Bayou Kayaking Guide"
-card_description: "Kayak Bayou St. John and the City Park lagoons with your group of 10-30: rental logistics, guided vs. self-guided options, wildlife reality, and a complete morning structure."
-date: 2026-06-16
+card_description: "Kayak Bayou St. John and the City Park lagoons with the whole crew: rental logistics, guided vs. self-guided options, wildlife reality, and a complete morning structure."
+date: 2026-08-26
 ---
 
 Bayou St. John is one of the most distinctive waterways in urban America. A narrow, slow-moving bayou that cuts through Mid-City from Lake Pontchartrain toward the city's interior, it was historically one of New Orleans's primary transport routes — the path through which Native Americans and later French colonists moved between the lake and the city's high ground. Today it's lined with 19th-century homes, Spanish-moss-draped oaks, and a running path that makes it one of the most consistently beautiful corridors in New Orleans.
@@ -159,13 +159,6 @@ Do both if you have the time. They don't overlap.
 
 ## Home Base for a Bayou Morning
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bayou St. John is a short rideshare north from Castleday's Bywater location — 10-15 minutes to the launch point. The morning structure works particularly well from Castleday: wake up, coffee in the kitchen, rideshare to the bayou for the morning paddle and City Park breakfast, back at the villa by early afternoon for pool time. Castleday holds a 4.98 average across 99 reviews.
+Bayou St. John is a 10-15 minute rideshare from most large-group bases, so the choice comes down to what the rest of the day looks like. Castleday Retreats' Bywater villas (private pool per villa) suit a group that wants a quiet, private landing spot for afternoon pool time after the paddle. The Syd's Lower Garden District villas (shared heated pool, hot tub, outdoor kitchen) work well for groups routing through Mid-City on the way back. Heirloom is worth a look too if neither fits your dates or headcount — it has the widest inventory of large-format houses across several neighborhoods.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed rooms and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. From The Syd, Bayou St. John is a 10-15 minute rideshare through Mid-City. The natural return rhythm — bayou morning, City Park breakfast, back to The Syd for afternoon pool time — builds one of the better group day structures in New Orleans.
-
----
-
-## Plan Your Bayou Morning
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool, hot tub, sauna, outdoor kitchen
+For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
