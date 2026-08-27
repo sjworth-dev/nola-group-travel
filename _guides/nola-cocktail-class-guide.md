@@ -3,15 +3,15 @@ title: "New Orleans Cocktail Classes for Large Groups"
 description: "Group cocktail-making classes and mixology workshops in New Orleans: what's available, group sizes, what you actually make, the private bartender option for villa groups, and how to turn a 2-hour class into a full evening activity."
 category: "Activities & Day Trips"
 card_title: "Cocktail Class Guide"
-card_description: "Mixology workshops, private bartender sessions at the villa, and classic NOLA cocktails you'll actually make — how to run a cocktail class for 10-30 people."
-date: 2026-06-05
+card_description: "Mixology workshops, private bartender sessions at the villa, and classic NOLA cocktails you'll actually make — for a dozen of you or the whole wedding party."
+date: 2026-08-27
 ---
 
 New Orleans invented the American cocktail. That's not marketing language — it's historically accurate. The Sazerac, Peychaud's Bitters, the Ramos Gin Fizz, the Vieux Carré: all born here. The city's relationship with mixed drinks is over two centuries old, and the infrastructure for teaching that tradition to groups exists in multiple formats.
 
 A cocktail-making class is one of the best large-group activities in the city for a specific reason: it scales. A group of 25 making Sazeracs together is loud, social, competitive, and genuinely fun. You don't need everyone to be a cocktail enthusiast. You need a shaker and a willing instructor.
 
-For bachelorette parties, it's a standout afternoon activity that isn't a bar crawl. For corporate groups, it's a team activity with a built-in product you drink. For friends trips, it's a way to spend two hours together doing something rather than just sitting somewhere. This guide covers what's available, what it actually looks like, and the villa private bartender option that most groups don't know about.
+For bachelorette parties, it's a standout afternoon activity that isn't a bar crawl. For corporate groups, it's a team activity with a built-in product you drink. For friends trips, it's a way to spend two hours together doing something rather than just sitting somewhere. This guide covers what's available, what it actually looks like, and the villa private bartender option that most groups don't know about. (If you haven't nailed down dates and a place to stay yet, [start with the planning sequence](/guides/plan-a-group-trip/) first — this activity slots in easily once those are locked.)
 
 ---
 
@@ -57,7 +57,7 @@ An instructor walks the group through 3-5 classic NOLA cocktails. Each person ma
 
 **The French Quarter and CBD advantage:**
 
-Several serious bars in the Quarter and CBD offer private group instruction in spaces with real bar setups. The experience of learning to make a Sazerac in an 1800s-era building with a proper marble bar is genuinely different from doing it in a generic event space.
+Several serious bars in the [Quarter](/neighborhoods/french-quarter/) and [CBD](/neighborhoods/cbd/) offer private group instruction in spaces with real bar setups. The experience of learning to make a Sazerac in an 1800s-era building with a proper marble bar is genuinely different from doing it in a generic event space.
 
 ---
 
@@ -135,7 +135,7 @@ This works best when the venue is in or near the French Quarter, where a post-cl
 
 | Time | Activity |
 |------|----------|
-| 10:00 AM | Pool time |
+| 10:00 AM | [Pool time](/guides/villa-pool-party-guide/) |
 | 11:30 AM | Brunch food; bloody marys |
 | 1:00 PM | Bartender arrives |
 | 1:30–3:00 PM | Cocktail class |
@@ -175,7 +175,7 @@ Ask for references from previous large-group events. Anyone with real experience
 
 1. **The Sazerac is the one that matters.** Every cocktail class should include it. It's the oldest American cocktail, it was invented here, and making it correctly — rinsing the glass with Herbsaint, stirring cold, no ice in the glass — teaches technique. If an instructor skips it, that's a red flag.
 
-2. **Food before, not during.** Arrange snacks before the class starts. Drinking four cocktails on an empty stomach over 90 minutes ends the night early. Charcuterie, bread, anything that slows absorption. This is logistics, not optional.
+2. **Food before, not during.** Arrange snacks before the class starts — [grocery-run or delivery](/guides/nola-food-delivery-guide/) both work. Drinking four cocktails on an empty stomach over 90 minutes ends the night early. Charcuterie, bread, anything that slows absorption. This is logistics, not optional.
 
 3. **Assign someone as the class assistant.** For groups of 20+, the instructor can't manage everyone's shaker at once. Pick a willing person in the group to help move things along. It's usually the organizer or someone who's been in a commercial kitchen before.
 
@@ -191,15 +191,6 @@ Ask for references from previous large-group events. Anyone with real experience
 
 ## Where to Stay for a Cocktail Class Trip
 
-A private bartender class requires a real kitchen or outdoor bar setup. Both Castleday and The Syd have exactly that.
+A private bartender class needs a real kitchen or a covered outdoor counter, so it's worth weighing that when you pick a place to stay. Castleday Retreats runs Bywater villas with a full kitchen and private pool per house, which keeps the class contained to your own group. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub a block off the St. Charles streetcar — a reasonable base if the plan is class-then-walk-toward-downtown. Heirloom's inventory runs dozens of large-format homes across town, useful if you're booking late and still want full-kitchen options. If a venue-based class is more your speed, a hotel room block sidesteps the kitchen question entirely — for the largest selection, book 6+ months out either way.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, complete privacy. Castleday's villa kitchens provide the counter space and setup that makes a private bartender class functional for groups of 20-30. The Herald has the largest common areas — well-suited to a class where everyone needs elbow room at a station. The Cocodrie's pool area is the natural gathering spot before and after. The Florentine's elegant interior pairs well with the Sazerac-and-Vieux-Carré format for groups that want the aesthetic to match the cocktails. The Bywater location puts you 15 minutes from Frenchmen Street when the class ends and you're ready to go out.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. Artist-designed rooms. Shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen is purpose-built for exactly this kind of group activity — a private bartender setting up a mobile bar in an outdoor kitchen, with the pool twenty feet away and the hot tub available after, is the ideal villa cocktail class setup. The Lower Garden District location is one block from the St. Charles Streetcar and a short Uber from the French Quarter venue options if you choose the class-then-go-out format.
-
----
-
-## Book Your Cocktail Class Trip
-
-- Castleday Retreats — Bywater, three private villas, up to 30 guests each, full kitchens and private pools
-- The Syd — Lower Garden District, multiple villas, up to 22 guests each, outdoor kitchen and shared pool
+[See where to stay for large groups →](/where-to-stay/)
