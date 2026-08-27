@@ -4,12 +4,12 @@ description: "The medical reality of a group in 95°F+ heat at Jazz Fest, Essenc
 category: "Festivals & Events"
 card_title: "Festival Heat Management"
 card_description: "95°F, 85% humidity, direct sun, and a group of 20 who haven't eaten since this morning. Heat management at outdoor NOLA festivals isn't optional — it's the logistics challenge that determines whether you have a great day or a medical emergency."
-date: 2026-06-21
+date: 2026-08-27
 ---
 
 New Orleans in festival season is hot in a specific way that visitors from the rest of the country are not prepared for. It's not Arizona heat — 95°F with 85% humidity and direct sun on a festival fairground with no shade and 80,000 people around you is a different physical experience than anything with lower humidity. Add alcohol, early starts, and a group of 20 people with different hydration habits, different physical baselines, and different levels of willingness to admit they're struggling, and you have the conditions for a serious problem.
 
-Heat illness happens at [Jazz Fest](/guides/jazz-fest-group-guide/). It happens at [Essence Fest](/guides/essence-festival/). It happens on Second Line Sundays in July. It happens on any hot Saturday afternoon when a group of visitors has been outside, drinking, not eating, not drinking water, for six hours. We've seen it. The fix is not complicated — it's just boring, and groups resist the boring fix because they're on vacation.
+Heat illness happens at [Jazz Fest](/guides/jazz-fest-group-guide/). It happens at [Essence Fest](/guides/essence-festival/). It happens on Second Line Sundays in July. It happens on any hot Saturday afternoon when a group of visitors has been outside, drinking, not eating, not drinking water, for six hours. The fix is not complicated — it's just boring, and groups resist the boring fix because they're on vacation.
 
 This guide treats heat management as the logistics problem it is. Plan for it the same way you plan for transportation or food.
 
@@ -112,7 +112,7 @@ The right answer for almost every group on a hot festival day is to not try to s
 
 **Evening phase (6pm – close):** Return for headliners or the evening programming. Temperature has dropped (usually), the body has recovered, and the group is in better shape for the night than if they'd pushed through all day.
 
-This isn't retreating. It's pacing. The groups we've seen struggle are almost always the ones who decided "we're staying all day, we paid for the whole thing" and then had one or two people in serious heat distress by 4pm.
+This isn't retreating. It's pacing. The groups that struggle are almost always the ones who decide "we're staying all day, we paid for the whole thing" and then have one or two people in serious heat distress by 4pm.
 
 **The villa as a base:** This is where having a private villa versus a hotel matters more than almost any other moment in a trip. A private villa with a pool and a working air conditioner is a genuine recovery space. A hotel room that sleeps three people and has one bathroom is not.
 
@@ -199,19 +199,10 @@ The most important thing: don't minimize symptoms and don't wait.
 
 ## Where You're Coming Back To
 
-The villa rotation model works because the villa is worth coming back to.
+The villa rotation model works because the villa is worth coming back to. A hotel room that sleeps three and has one bathroom isn't much of a recovery space for a group of 20; a private rental with a real kitchen and its own outdoor space is.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. On a Jazz Fest day, the Bywater location puts you about 15 minutes from the Fair Grounds. The private pool at each villa — The Herald, The Cocodrie, and The Florentine — is the midday recovery asset. Air conditioning, full kitchen for a real lunch, private outdoor space that isn't a festival crowd. Groups that rotate back to Castleday in the afternoon arrive at the evening headliner set in far better shape than groups who white-knuckled the full day.
+The field varies by neighborhood and what it fits. Castleday Retreats runs Bywater villas with a private pool per house, roughly 15 minutes from the Fair Grounds on a Jazz Fest day. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub about 20 minutes from the Superdome cluster, a workable Essence Fest rotation base. Heirloom's larger inventory spans several neighborhoods if those two don't have the dates or headcount you need. Whichever you book, confirm the AC and the pool situation directly — don't assume amenities a listing doesn't state.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The shared heated pool (available even in summer — temperature adjustable), hot tub, sauna, and outdoor kitchen create a full recovery environment. The Syd's Lower Garden District location is a 20-minute ride from Essence Fest's Superdome cluster, making it a practical rotation base for groups attending Essence.
-
-Both properties give you what a hotel room cannot: a real kitchen to rehydrate and eat properly, outdoor space that isn't shared with strangers, and the freedom to recover on your schedule without hotel policy complications.
-
----
-
-## Book Your Festival Base Camp
-
-- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens — 15 minutes from Jazz Fest
-- The Syd — Lower Garden District, up to 22 guests, shared pool and sauna — 20 minutes from Essence Fest
+[See where to stay for large groups →](/where-to-stay/)
 
 Plan the heat management the way you plan the festival. The groups that come home talking about the best day of their lives are the ones who planned the break in the middle, drank the water, and came back for the evening set.
