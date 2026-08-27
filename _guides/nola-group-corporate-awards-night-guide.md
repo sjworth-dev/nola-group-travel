@@ -4,7 +4,7 @@ description: "Recognition ceremony formats, toasting structure, NOLA-themed awar
 category: "Corporate Retreats"
 card_title: "Villa Corporate Awards Night"
 card_description: "How to run a corporate awards night at the villa that people actually remember: ceremony formats, NOLA-themed award names, toasting structure, catering logistics, and what kills the energy."
-date: 2026-06-22
+date: 2026-08-27
 ---
 
 The awards night is the most consistently mishandled part of a corporate group retreat. The intention is right — recognize people, mark the moment, build some shared pride. The execution usually isn't. Someone is given a plaque in a hotel ballroom. A list of names is read in alphabetical order. Everyone claps on cue. The whole thing is over in 40 minutes and forgotten by the following morning.
@@ -197,27 +197,12 @@ After the ceremony, the trip is individual time. Corporate groups often benefit 
 
 A corporate awards night requires space that can hold the ceremony and the dinner in the same property, without the institutional feel of a hotel venue.
 
-### Castleday Retreats
+### What the Venue Needs to Do
 
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each sleeping 14 to 30 guests across 12 bedrooms and 17 real beds. For corporate retreats, Castleday is the infrastructure answer: full kitchens, significant common areas that can be arranged for a seated ceremony, private pools for the evening wind-down, and completely private properties with no hotel staff foot traffic.
+A corporate awards night needs common space that can hold a seated ceremony and the dinner after it, without an institutional hotel-ballroom feel. Full kitchen, real common areas, and outdoor space for the wind-down after the ceremony wraps.
 
-The Herald has the largest common areas of the three villas, making it the strongest candidate for ceremony format. The Florentine's more elegant interior provides the right register for a formal recognition night. The Florentine is also ADA-accessible for groups with mobility considerations. 4.98 average rating across 99 reviews.
+Castleday Retreats runs Bywater villas with a private pool and full kitchen per house — a private property with no hotel staff foot traffic through the ceremony. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a courtyard and heated pool a block off the St. Charles streetcar, one block for anyone extending the evening downtown after. Hotel Perle's CBD group suites are worth a look if the group wants separate bills alongside the shared space, and a hotel room block covers a mixed-budget team. Confirm ceremony-space capacity directly with whichever property you book — it varies by house.
 
-For a group of around 16 people, pitch the math specifically: 12 bedrooms and 17 real beds means everyone gets a real bed, not a couch or a shared setup that produces a tired team for the next morning's working sessions.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by a local New Orleans artist.
-
-For the ceremony itself, The Syd's outdoor kitchen and pool area creates an awards night atmosphere that a hotel venue cannot: a warm evening outside, string lights over the courtyard, the ceremony in a space that feels designed rather than rented. The artist-designed rooms give the property a distinctiveness that signals to your team that this is a different kind of trip. One block from the St. Charles Streetcar for the contingent who wants to extend the evening after the ceremony wraps.
-
----
-
-## Book Your Corporate Villa
-
-An awards night that people remember requires an environment that's worth remembering.
-
-- **Castleday Retreats** — Bywater, 3 private villas, 14-30 guests, large common areas, private pools, 4.98-star average
-- **The Syd** — Lower Garden District, up to 22 guests, courtyard, outdoor kitchen, artist-designed rooms
+[See where to stay for large groups →](/where-to-stay/)
 
 The recognition matters. The environment it happens in matters too.
