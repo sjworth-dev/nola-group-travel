@@ -9,7 +9,7 @@ date: 2026-06-22
 
 Every year someone in the group floats the idea. This year, actually do it.
 
-New Orleans at Thanksgiving is one of the most underrated group trip configurations we know of. The weather is ideal, the city is not overrun, the food traditions are distinct and genuinely excellent, and you have access to a full villa kitchen that can actually handle cooking for 20-plus people. Nobody has to clean their house. Nobody has to argue about whose turn it is to host.
+New Orleans at Thanksgiving is one of the most underrated group trip configurations we know of. The weather is ideal, the city is not overrun, the food traditions are distinct and genuinely excellent, and you have access to a full villa kitchen that can actually handle cooking for 20-plus people. Nobody has to clean their house. Nobody has to argue about whose turn it is to host. (If the group hasn't nailed down dates or a place to stay yet, [the planning sequence](/guides/plan-a-group-trip/) is the place to start.)
 
 And if you time it right, you land in the middle of the Bayou Classic—one of the biggest annual events in the city, centered on the Grambling vs. Southern HBCU football game—which turns Thanksgiving weekend in New Orleans into a genuine celebration rather than a quiet holiday limbo.
 
@@ -125,7 +125,7 @@ The difference between a smooth villa Thanksgiving and a chaotic one is assignin
 | Setup and cleanup | Rotate, but designate upfront |
 | Grocery run captain | Does the big run on arrival day |
 
-Don't assume it'll sort itself out. It won't. Assign these on the group chat before you land.
+Don't assume it'll sort itself out. It won't. Assign these on the [group chat](/guides/group-communication-guide/) before you land, and settle the [budget split](/guides/budget-guide/) for groceries and any shared bar tab at the same time.
 
 ---
 
@@ -139,7 +139,7 @@ You don't have to cook every meal. A Thanksgiving villa weekend works best when 
 
 **Friday:** Go out for brunch. This is when the good brunch spots are at their best—the city is still in celebration mode. Hit a neighborhood spot and eat well. Dinner can be villa leftovers (which will be better than the original meal) or a casual dinner out.
 
-**Saturday:** By now half the group wants to explore. Split into sub-groups or do a half-day activity—swamp tour, WWII Museum, Magazine Street—and reconvene for a final dinner.
+**Saturday:** By now half the group wants to explore. Split into sub-groups or do a half-day activity—a [swamp tour](/guides/nola-swamp-tour-guide/), the [WWII Museum](/guides/nola-group-wwii-museum-guide/), or [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/)—and reconvene for a final dinner.
 
 **Sunday:** Slow morning, brunch together, departures.
 
