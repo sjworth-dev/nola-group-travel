@@ -9,7 +9,7 @@ date: 2026-06-21
 
 New Orleans in festival season is hot in a specific way that visitors from the rest of the country are not prepared for. It's not Arizona heat — 95°F with 85% humidity and direct sun on a festival fairground with no shade and 80,000 people around you is a different physical experience than anything with lower humidity. Add alcohol, early starts, and a group of 20 people with different hydration habits, different physical baselines, and different levels of willingness to admit they're struggling, and you have the conditions for a serious problem.
 
-Heat illness happens at Jazz Fest. It happens at Essence Fest. It happens on Second Line Sundays in July. It happens on any hot Saturday afternoon when a group of visitors has been outside, drinking, not eating, not drinking water, for six hours. We've seen it. The fix is not complicated — it's just boring, and groups resist the boring fix because they're on vacation.
+Heat illness happens at [Jazz Fest](/guides/jazz-fest-group-guide/). It happens at [Essence Fest](/guides/essence-festival/). It happens on Second Line Sundays in July. It happens on any hot Saturday afternoon when a group of visitors has been outside, drinking, not eating, not drinking water, for six hours. We've seen it. The fix is not complicated — it's just boring, and groups resist the boring fix because they're on vacation.
 
 This guide treats heat management as the logistics problem it is. Plan for it the same way you plan for transportation or food.
 
@@ -96,7 +96,7 @@ Essence Fest's outdoor stages have better tent structures and overhead coverage 
 
 ### French Quarter Festival
 
-FQF stages are distributed throughout the French Quarter on streets with building shade. The afternoon shade on Royal Street and Decatur Street is meaningfully better than Jazz Fest's open fairground. Still hot, still humid — just more shade available if you position correctly.
+FQF stages are distributed throughout the French Quarter on streets with building shade. The afternoon shade on Royal Street and Decatur Street is meaningfully better than Jazz Fest's open fairground. Still hot, still humid — just more shade available if you position correctly. (See the [full FQF deep dive](/guides/nola-group-french-quarter-festival-deep-dive/) for stage-by-stage logistics.)
 
 ---
 
@@ -133,7 +133,7 @@ The key: pre-agree on where the group is reassembling and at what time. Not "we'
 
 ## Heat Management at Villa Pool Days
 
-Festival days aren't the only context. A full day at the villa pool with a group of 20 has its own heat challenges — less dramatic than a festival, but worth planning.
+Festival days aren't the only context. A [full day at the villa pool](/guides/villa-pool-party-guide/) with a group of 20 has its own heat challenges — less dramatic than a festival, but worth planning.
 
 **The pool paradox:** Being in or near water makes people feel cooler and makes them less likely to drink water. Meanwhile, sun reflection off water surface increases UV exposure, and alcohol consumption at pool days is usually higher than at festivals.
 
