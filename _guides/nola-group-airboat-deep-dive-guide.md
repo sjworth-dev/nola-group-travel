@@ -3,8 +3,8 @@ title: "Airboat Swamp Tour Deep Dive for Large Groups"
 description: "Airboat swamp tours for large groups: airboat vs. pontoon, wildlife reality (what you'll actually see vs. what's in the photos), guide quality indicators, charter vs. commercial tour, and a full half-day structure that includes a Cajun lunch."
 category: "Activities & Day Trips"
 card_title: "Airboat Swamp Tour Guide"
-card_description: "Swamp tours for groups of 10-30: airboat vs. pontoon boat, what you'll actually see vs. what's in the photos, how to find a good guide, and building a full half-day around the swamp experience."
-date: 2026-06-16
+card_description: "Swamp tours for the whole crew: airboat vs. pontoon boat, what you'll actually see vs. what's in the photos, how to find a good guide, and building a full half-day around the swamp experience."
+date: 2026-08-27
 ---
 
 Every large group that visits New Orleans should do a swamp tour. Not because it's on the tourist checklist — because the Louisiana wetlands are genuinely one of the most distinctive ecosystems in North America, and spending a morning on the water gives you a direct experience of the geography that shapes everything else about this city. The swamp is not background. It's the reason New Orleans exists where it does.
@@ -44,7 +44,7 @@ An airboat is a flat-bottomed vessel propelled by an aircraft-type propeller mou
 
 **The alligator dynamic:** Airboats, operated by guides who know the territory, can find alligators reliably in areas where they've been habituated to the boat. The alligators that appear in airboat tour photos — close to the boat, seemingly cooperative — are often animals that have been conditioned to approach by feeding practices (see the feeding wildlife section below).
 
-**Group size:** Airboats are typically smaller than pontoon boats — capacity often ranges from 6-20 passengers depending on the boat. For groups of 20-30, multiple boats or a single large airboat is required.
+**Group size:** Airboats are typically smaller than pontoon boats — capacity often ranges from 6-20 passengers depending on the boat. At full headcount, multiple boats or a single large airboat is required.
 
 **The physical experience:** No railing on the sides in most airboat configurations. The sensation of speed across open water is more pronounced. Motion sickness is not generally an issue (flat water), but the noise and vibration affect some people.
 
@@ -56,7 +56,7 @@ A pontoon boat is a large, flat-decked vessel supported by cylindrical floats, t
 
 **Ecological access:** Pontoon boats are limited to navigable open water — they can't push through dense vegetation or across very shallow marsh. What they can access is the bayou and open swamp, which is where most of the bird life and large wildlife congregates anyway.
 
-**Group size:** Pontoon boats typically carry 20-40+ passengers, making them the practical choice for large groups in a single vessel. One boat, whole group, guide in front with a microphone — this is the most logistically clean option for groups of 20-30.
+**Group size:** Pontoon boats typically carry 20-40+ passengers, making them the practical choice for large groups in a single vessel. One boat, whole group, guide in front with a microphone — this is the most logistically clean option once the trip goes double-digit.
 
 **The experience quality:** A great guide on a pontoon boat delivers a more educational, more sustained experience than a fast airboat transit. A mediocre guide on a pontoon boat is a forgettable boat ride.
 
@@ -161,7 +161,7 @@ Further north, past Laplace. More open water, different ecosystem character. Som
 
 ### Transportation logistics for groups
 
-For a group of 20-30, self-driving in personal vehicles works if everyone has rental cars. If not, a charter van or bus from the city to the launch site is the cleanest option. Many tour operators can refer you to transportation partners who coordinate group pickup.
+At full headcount, self-driving in personal vehicles works if everyone has rental cars. If not, a charter van or bus from the city to the launch site is the cleanest option. Many tour operators can refer you to transportation partners who coordinate group pickup.
 
 ---
 
@@ -214,13 +214,6 @@ Every swamp tour half-day should end with a Cajun lunch. The wetlands geography,
 
 ## Home Base for a Swamp Morning
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. A swamp tour morning departing from Castleday's Bywater location follows a natural rhythm: early coffee in the villa kitchen, departure to the launch site, two hours on the water, Cajun lunch on the road, and return to the Bywater by early afternoon. Castleday's private pool becomes the decompression option after a hot morning in the sun. Castleday holds a 4.98 average across 99 reviews.
+A swamp tour morning follows a natural rhythm regardless of where you're based: early coffee in the villa kitchen, departure to the launch site, two hours on the water, Cajun lunch on the road, and return to the city by early afternoon for pool time. Castleday Retreats' Bywater villas (14–30 guests each, private pool per villa) keep that decompression private. The Syd's Lower Garden District villas (up to 22 guests, shared heated pool and hot tub) sit closer to the highway corridors leading south to the Barataria Preserve. Heirloom's larger inventory of large-format homes is worth checking if you're booking late or need more flexibility on headcount, and a hotel room block works for a mixed-budget group that would rather split up before regrouping at the launch site. Whichever base you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's Lower Garden District base offers easy access to the highway corridors leading south to the Barataria Preserve. Return from the swamp to The Syd puts the group at the shared outdoor kitchen and pool for the afternoon recovery session — the right end to a morning that started in the Louisiana marshes.
-
----
-
-## Plan Your Swamp Morning
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms per villa, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)

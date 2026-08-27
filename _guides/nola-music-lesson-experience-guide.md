@@ -1,10 +1,10 @@
 ---
 title: "Group Music Experiences in New Orleans: Workshops, Clinics & Dance Lessons"
-description: "How to book drum workshops, brass band clinics, second line dance lessons, and full musical half-days for groups of 10-25 in New Orleans. What it costs, how far in advance, and what each format actually delivers."
+description: "How to book drum workshops, brass band clinics, second line dance lessons, and full musical half-days for your group in New Orleans. What it costs, how far in advance, and what each format actually delivers."
 category: "Activities & Day Trips"
 card_title: "Music Workshops & Lessons"
 card_description: "Book a drum workshop, brass band clinic, or second line dance lesson for your group. What's available, how to book, and how to build a full musical half-day."
-date: 2026-06-10
+date: 2026-08-27
 ---
 
 New Orleans doesn't just have music — it manufactures it. The drum patterns that became funk, the improvisation structures that became jazz, the walking brass band tradition that became the soundtrack to celebration and grief alike. This city teaches music the way other cities teach history: from the inside out.
@@ -119,7 +119,7 @@ Working musicians are busy. The instructors who do this well have gig calendars 
 
 ## Building a Full Musical Half-Day
 
-The individual workshop is good. A structured half-day that builds toward something is better. Here's a format that works consistently for groups of 12-25.
+The individual workshop is good. A structured half-day that builds toward something is better. Here's a format that works consistently once the group is past a dozen or so.
 
 ### The Music Immersion Half-Day (5 Hours)
 
@@ -176,7 +176,7 @@ Ask these questions when you're vetting:
 **The tell:** An instructor who's done this many times knows immediately what a drum workshop for 20 people with no musical background looks like. They have an answer for every question. If someone hedges on the basics, keep looking.
 
 **Where to find them:**
-- Your villa host — both Castleday and The Syd hosts work regularly with groups and can make introductions to trusted providers
+- Your villa host or property manager — many work regularly with groups and can point you toward providers they trust; ask before you look elsewhere
 - NOLA cultural organizations and community arts centers in the Tremé and Marigny
 - Local event coordinators who specialize in group experiences
 - Referrals from other groups who've done it
@@ -207,15 +207,6 @@ Do not use Yelp or Google reviews as your primary filter. The providers who do t
 
 The neighborhood matters for this experience. The music traditions of New Orleans are geographically specific — they live in the Tremé, the Bywater, the Marigny. Being based near those neighborhoods isn't just logistically convenient; it's part of the experience.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine sit at the edge of the cultural geography that produced what you'll be learning in a workshop. A drum circle in The Cocodrie's private outdoor space, a dance lesson in the courtyard, a brass band performance before dinner — all of this is available without leaving the neighborhood. The Castleday hosts have relationships with local music providers and can connect you with instructors who are the real thing, not the tourism version. Walking distance to Frenchmen Street makes the evening continuation seamless.
+Castleday Retreats' Bywater villas (14–30 guests each, private pool per villa) sit at the edge of that cultural geography and are within walking distance of Frenchmen Street for the evening continuation. The Syd's Lower Garden District villas (up to 22 guests, shared heated pool and hot tub) are a short ride from the Tremé and Marigny, with a shared outdoor common area that works for a villa-based session. Heirloom's inventory spans neighborhoods across the city if you want a specific area and are booking later than ideal, and a hotel room block near the Quarter or CBD keeps the group central without committing to a single neighborhood. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The shared outdoor kitchen, pool, and common areas provide excellent workshop space for villa-based sessions. The Lower Garden District is a short Lyft or streetcar ride from the Tremé and Marigny, making travel to a cultural venue straightforward. The Syd hosts can connect groups with providers for both villa-based sessions and off-site workshops. One block from the St. Charles Streetcar for groups that want to continue into the French Quarter after an evening session.
-
-Both properties have hosted groups that incorporated music workshops into their stay. The hosts know who to call.
-
----
-
-## Plan Your Musical Half-Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private outdoor space, heartland of the brass band tradition
-- The Syd — Lower Garden District villas, up to 22 guests per villa, shared outdoor space, close to Tremé and Marigny cultural venues
+[See where to stay for large groups →](/where-to-stay/)
