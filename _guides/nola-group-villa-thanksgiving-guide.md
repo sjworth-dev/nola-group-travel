@@ -1,15 +1,15 @@
 ---
 title: "NOLA Villa Thanksgiving for Large Groups"
-description: "The case for spending Thanksgiving in New Orleans with 20-30 people: Bayou Classic weekend, villa kitchens, Cajun traditions, and why late November is the city's best-kept secret."
+description: "The case for spending Thanksgiving in New Orleans with the whole extended crew: Bayou Classic weekend, villa kitchens, Cajun traditions, and why late November is the city's best-kept secret."
 category: "Festivals & Events"
 card_title: "Villa Thanksgiving in NOLA"
-card_description: "Skip the flight home. Spend Thanksgiving in New Orleans with 20-30 people and actually enjoy it."
-date: 2026-06-22
+card_description: "Skip the flight home. Spend Thanksgiving in New Orleans at full headcount and actually enjoy it."
+date: 2026-08-27
 ---
 
 Every year someone in the group floats the idea. This year, actually do it.
 
-New Orleans at Thanksgiving is one of the most underrated group trip configurations we know of. The weather is ideal, the city is not overrun, the food traditions are distinct and genuinely excellent, and you have access to a full villa kitchen that can actually handle cooking for 20-plus people. Nobody has to clean their house. Nobody has to argue about whose turn it is to host. (If the group hasn't nailed down dates or a place to stay yet, [the planning sequence](/guides/plan-a-group-trip/) is the place to start.)
+New Orleans at Thanksgiving is one of the most underrated group trip configurations going. The weather is ideal, the city is not overrun, the food traditions are distinct and genuinely excellent, and you have access to a full villa kitchen that can actually handle cooking at full headcount. Nobody has to clean their house. Nobody has to argue about whose turn it is to host. (If the group hasn't nailed down dates or a place to stay yet, [the planning sequence](/guides/plan-a-group-trip/) is the place to start.)
 
 And if you time it right, you land in the middle of the Bayou Classic—one of the biggest annual events in the city, centered on the Grambling vs. Southern HBCU football game—which turns Thanksgiving weekend in New Orleans into a genuine celebration rather than a quiet holiday limbo.
 
@@ -17,7 +17,7 @@ And if you time it right, you land in the middle of the Bayou Classic—one of t
 
 ## Quick Checklist
 
-- [ ] Book the villa 6-9 months out—Thanksgiving weekend fills early
+- [ ] Book the villa early—Thanksgiving weekend fills fast; for the largest selection, book 6+ months out
 - [ ] Assign a kitchen coordinator before the trip, not during it
 - [ ] Source your turkey or turducken before you arrive (local butchers and grocery chains take pre-orders)
 - [ ] Stock the villa on arrival day with staples, drinks, and snacks
@@ -42,7 +42,7 @@ This is the city's sweet spot—past the brutal heat and hurricane season, befor
 
 Thanksgiving is not Mardi Gras. It's not Jazz Fest. The French Quarter is not wall-to-wall tourists. The good restaurants have availability. The streets are walkable. Villa rental rates are noticeably softer than peak season.
 
-You get the city without the city being at full throttle. That's exactly what you want when you're managing a group of 20-30 people who mostly want to be together rather than battle the masses.
+You get the city without the city being at full throttle. That's exactly what you want when you're managing an extended crew who mostly want to be together rather than battle the masses.
 
 ### The City Actually Celebrates It
 
@@ -67,7 +67,7 @@ If your group has any interest in live music, sports, or NOLA culture, this is w
 
 ---
 
-## Cooking for 20-30 in a Villa Kitchen
+## Cooking for the Whole Crew in a Villa Kitchen
 
 This is where the private villa earns its keep. A hotel cannot do what a full villa kitchen does for Thanksgiving. You need counter space, multiple burners, a real oven, and room for multiple cooks to move without elbowing each other.
 
@@ -160,7 +160,7 @@ This should be obvious, but it's worth spelling out because some groups still de
 | Kids/noise | Constant hotel management anxiety | Not your problem |
 | Feels like a holiday | No | Yes |
 
-For 20-30 people spending Thanksgiving together, the villa is not a luxury upgrade—it's the only configuration that actually works for what you're trying to do.
+For an extended family or friend group spending Thanksgiving together, the villa is not a luxury upgrade—it's the only configuration that actually works for what you're trying to do.
 
 ---
 
@@ -184,40 +184,6 @@ For 20-30 people spending Thanksgiving together, the villa is not a luxury upgra
 
 ## Large Group Accommodations
 
-Two properties that are built for exactly this kind of trip.
-
-### Castleday Retreats — Bywater
-
-Castleday Retreats operates three private villas in the Bywater—The Herald, The Cocodrie, and The Florentine—each with 12 bedrooms, 17 real beds, and 8 bathrooms. Capacity is 14-30 guests per villa, and the full kitchens are the reason you're here.
-
-**For a Thanksgiving group of around 16:** Everyone gets a real bed. Not a pullout, not a cot. A real bed. That's a rarity at this group size and it matters after a long holiday weekend.
-
-The Florentine is ADA-accessible. The Bywater location is one of the best neighborhoods in the city—walkable, local, not tourist-saturated. You're a short ride from everything but far enough from Bourbon Street that you can actually sleep.
-
-With a 4.98 average rating across 99 reviews, this is a property that delivers.
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### The Syd — Lower Garden District
-
-The Syd runs multiple villas in the Lower Garden District, each accommodating up to 22 guests. The shared amenities—heated pool, hot tub, sauna, and outdoor kitchen—make this a strong option for groups who want more than just a place to sleep.
-
-Every room is designed by a local New Orleans artist. The aesthetic is distinctive and genuinely local in a way most rentals aren't. The outdoor kitchen is relevant for Thanksgiving specifically—more cooking surface, more options for overflow prep, and a great space for the post-meal hangout.
-
-One block from the St. Charles Streetcar means the whole city is accessible without needing to organize rides for every outing.
-
-[See where to stay for large groups →](/where-to-stay/)
-
----
-
-## Book Your Thanksgiving Villa
-
-Thanksgiving weekend in New Orleans books up. If the dates work for your group, move on it.
-
-Both properties are built for the kind of gathering this is: multiple bedrooms, real kitchens, space to be a group rather than a collection of hotel rooms scattered across different floors.
-
-**Castleday Retreats** — Bywater, 14-30 guests per villa, 12 bedrooms / 17 real beds / 8 baths, full kitchens, The Florentine is ADA-accessible, 4.98 rating across 99 reviews
-
-**The Syd** — Lower Garden District, up to 22 guests per villa, heated pool + hot tub + sauna + outdoor kitchen, artist-designed rooms, one block from the streetcar
+The kitchen is the whole point of a villa Thanksgiving, so weigh accommodation options with that first. Castleday Retreats runs private Bywater villas (14–30 guests each, private pool per villa, full kitchens) if the group wants total separation from everyone else's holiday. The Syd's Lower Garden District villas (up to 22 guests, shared heated pool and hot tub, one block off the St. Charles Streetcar) put the group within an easy ride of Magazine Street and the Garden District for Friday and Saturday outings. Heirloom has the deepest inventory of large-format homes if you're booking later than you'd like and need flexibility on headcount or neighborhood, and a hotel room block is worth considering for a family group with mixed budgets or generations who'd rather have their own keys and bills even while gathering for the Thursday meal. Whichever route you take, a real kitchen — multiple burners, real oven, counter space for several cooks at once — is the non-negotiable, and Thanksgiving weekend books up: for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
