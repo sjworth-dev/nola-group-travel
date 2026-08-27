@@ -1,17 +1,17 @@
 ---
-title: "Jazz Brunch in New Orleans for Large Groups: The Complete Guide"
-description: "How to plan a jazz brunch for groups of 12-25 in New Orleans — Commander's Palace, Dooky Chase, the French Quarter classics, reservation logistics, what to order, and how to build a full Sunday around a sit-down jazz brunch."
+title: "New Orleans Jazz Brunch for a Big Group: Where to Go"
+description: "How to plan a jazz brunch for the whole crew in New Orleans — Commander's Palace, Dooky Chase, the French Quarter classics, reservation logistics, what to order, and how to build a full Sunday around it."
 category: "Food & Drink"
 card_title: "NOLA Jazz Brunch Guide"
-card_description: "Commander's Palace, Dooky Chase, the French Quarter institutions. How to book, what to order, and how to structure a full Sunday around a sit-down jazz brunch for 12-25 people."
-date: 2026-06-05
+card_description: "Commander's Palace, Dooky Chase, the French Quarter institutions. How to book, what to order, and how to structure a full Sunday around a sit-down jazz brunch when the trip goes double-digit."
+date: 2026-08-27
 ---
 
 Sunday brunch with live jazz is not a concept that New Orleans invented and then exported. It's a concept that New Orleans invented and then kept for itself. The version you'll find in most other cities — a DJ playing over bottomless mimosas in a loud dining room — is a pale imitation of what happens in this city's serious dining rooms on Sunday mornings.
 
 A proper New Orleans jazz brunch is a full occasion. Live brass or traditional jazz while you eat. White tablecloths and serious food. A dining pace that treats the meal as the day's main event, not a prelude to something else. When it's done right — which means the right restaurant, a reservation that's been managed properly, and a group that shows up ready to sit and eat — it's one of the most distinctly New Orleans experiences you can have.
 
-For large groups, the jazz brunch is also one of the few anchor experiences that holds 20 people together for two and a half hours without anyone losing interest. The music, the food, and the ritual of the thing work on everyone simultaneously. Plan this right and it becomes the moment the whole trip gets organized around.
+For large groups, the jazz brunch is also one of the few anchor experiences that holds the whole crew together for two and a half hours without anyone losing interest. The music, the food, and the ritual of the thing work on everyone simultaneously. Plan this right and it becomes the moment the whole trip gets organized around. (If you haven't locked in dates and a place to stay yet, [start with the planning sequence](/guides/plan-a-group-trip/) first — brunch slots in easily once those are set.)
 
 ## Quick Checklist
 
@@ -49,7 +49,7 @@ For groups, Commander's Palace is the aspirational choice. The food is exception
 
 What to order: turtle soup with a splash of sherry, pecan-crusted Gulf fish, anything egg-based on the brunch menu, and the bread pudding soufflé for dessert. Do not leave without the bread pudding soufflé.
 
-**Group note:** Ask specifically for a private or semi-private room if you're 15+. A table of 20 in the main dining room during a busy Sunday jazz brunch is manageable but loud. A separated space makes the experience significantly more cohesive.
+**Group note:** Ask specifically for a private or semi-private room once the group hits double digits. A big table in the main dining room during a busy Sunday jazz brunch is manageable but loud. A separated space makes the experience significantly more cohesive. It's the same reason a serious [garden district walking tour](/guides/nola-group-garden-district-walking-tour-guide/) beforehand works better in smaller clusters than as one big herd.
 
 ---
 
@@ -59,7 +59,7 @@ What to order: turtle soup with a splash of sherry, pecan-crusted Gulf fish, any
 
 The Sunday buffet brunch at Dooky Chase is a communal experience — not the same format as a seated jazz brunch, but with live music and a spread that represents the full range of New Orleans Creole cooking. For groups, the buffet format actually works well: different eating speeds, different preferences, and the ability to go back for more without a server managing 20 individual plates.
 
-**Why bring your group here:** Because a trip to New Orleans that only touches the French Quarter and Garden District is incomplete. Dooky Chase is a piece of the city's history that most tourists miss. The experience of eating in that room, understanding the history, and tasting the food is educational in the best possible way — it makes the trip richer.
+**Why bring your group here:** Because a trip to New Orleans that only touches the French Quarter and Garden District is incomplete. Dooky Chase is a piece of the city's history that most tourists miss. The experience of eating in that room, understanding the history, and tasting the food is educational in the best possible way — it makes the trip richer. Pair it with a [Tremé culture walk](/guides/nola-group-treme-culture-immersion-guide/) if the group has the morning to spare before the meal.
 
 **Group note:** The buffet format means less management stress for the group organizer. No menu selection coordination, no staggered plate timing. Call ahead to confirm the Sunday brunch setup and whether they can accommodate your full group.
 
@@ -140,9 +140,9 @@ If your group needs to be somewhere at 1pm, you're either booking a different ac
 
 ### Mid-Afternoon (1:00-4:00pm)
 
-After a serious jazz brunch, the correct answer is not another major activity. The correct answer is the villa pool, a slow walk through whichever neighborhood you're in, or a long sit on a porch somewhere with cold drinks. A group that does Commander's followed immediately by a swamp tour has made a scheduling error.
+After a serious jazz brunch, the correct answer is not another major activity. The correct answer is the [villa pool](/guides/villa-pool-party-guide/), a slow walk through whichever neighborhood you're in, or a long sit on a porch somewhere with cold drinks. A group that does Commander's followed immediately by a swamp tour has made a scheduling error.
 
-The Garden District option: after Commander's, the Magazine Street window (just walk it), the Lafayette Cemetery, and back to the hotel or villa for a few hours before evening plans.
+The Garden District option: after Commander's, [the Magazine Street window](/guides/nola-group-magazine-street-full-day-guide/) (just walk it), the Lafayette Cemetery, and back to the hotel or villa for a few hours before evening plans.
 
 The French Quarter option: after a Quarter jazz brunch, wander down to the river, walk the Moonwalk, sit at a café, and ease into the afternoon. Frenchmen Street starts getting interesting in the evening — you have time.
 
@@ -176,7 +176,7 @@ Having eaten a serious midday meal, the group won't need a full dinner. This ope
 
 5. **The music is happening — acknowledge it.** This sounds obvious but large groups often treat the live jazz as background ambience and talk over it. Make one moment during brunch where you say "everyone stop and listen for a minute." A jazz trio doing a second line version of a standard at a table next to you deserves that.
 
-6. **Logistics: arrive 15 minutes before your reservation, not 15 minutes after.** For a group of 20, someone will be late. Arriving before your reservation means the early people are at the bar, not leaving 20 others waiting at a reserved table while the kitchen idles. Tell the group the reservation is 15 minutes earlier than it actually is.
+6. **Logistics: arrive 15 minutes before your reservation, not 15 minutes after.** At full headcount, someone will be late. Arriving before your reservation means the early people are at the bar, not leaving the rest of the table waiting while the kitchen idles. Tell the group the reservation is 15 minutes earlier than it actually is.
 
 7. **Consider a jazz brunch as a Thursday or Friday option for smaller groups.** The iconic Sunday jazz brunch experience is real, but several restaurants run jazz brunches or jazz lunches on weekdays with far shorter reservation lead times. For a group of 12-15 that can't coordinate a Sunday, a Thursday jazz lunch at Arnaud's or Antoine's is a legitimate and less-competed option.
 
@@ -186,15 +186,6 @@ Having eaten a serious midday meal, the group won't need a full dinner. This ope
 
 Where your group stays affects the Sunday morning logistics considerably. A group based far from the restaurant faces split arrival times, Uber surge pricing during Sunday morning peak, and a stressed organizer managing stragglers.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Bywater is 15-20 minutes by Uber to Commander's Palace in the Garden District, and 10-15 minutes to the French Quarter jazz brunch institutions. The morning structure works naturally: coffee and café au lait at the villa kitchen, a group Uber (or two) to the restaurant, and then back to The Cocodrie's private pool for the ideal post-brunch afternoon recovery. All three villas — The Herald, The Cocodrie, and The Florentine — have full kitchens for the morning setup before the reservation. The privacy of the Bywater location also means no competition for street parking or narrow Quarter corridors before a big meal.
+The [Lower Garden District](/neighborhoods/lower-garden-district/) is the strongest general-purpose base for a Commander's Palace brunch — it's a walk or a short streetcar ride to the Garden District stop, so the group can arrive together instead of trickling in from separate rideshares. The Syd runs villas there, up to 22 guests each, sharing a heated pool and hot tub a block off the streetcar line, which makes the coffee-then-streetcar-then-brunch morning easy to coordinate. For the French Quarter institutions — Arnaud's, Antoine's, Court of Two Sisters — a Bywater or French Quarter base cuts the ride down instead; Castleday Retreats' Bywater villas (14–30 guests, private pool per villa) put the morning kitchen and the Quarter reservation within a short ride of each other. Heirloom's inventory spans dozens of large-format homes if you're booking late and need more flexibility on neighborhood or headcount, and a hotel room block near the Quarter or CBD works well for groups on mixed budgets or that want to book on separate cards. Whichever base you pick, coffee and something light at the kitchen before the group heads out beats showing up to a jazz brunch already hungry — for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa. One block from the St. Charles Streetcar, which runs directly to the Garden District stop for Commander's Palace. For groups doing the Commander's jazz brunch, the Lower Garden District location is genuinely convenient — you can take the streetcar as a group, which is itself a New Orleans experience. After brunch, the walk back through the Garden District or Magazine Street is natural from here, and the afternoon ends at The Syd's shared heated pool, hot tub, and sauna. The artist-designed interiors make coming back to the villa feel like walking into a gallery rather than a hotel corridor.
-
-Both properties give the group a real home base for a Sunday-centered around a serious meal — not a hotel lobby where you're waiting for stragglers to come down from different floors.
-
----
-
-## Plan Your Jazz Brunch Trip
-
-- Castleday Retreats — Bywater villas, 15-20 minutes to Commander's and the Quarter institutions, private pools and full kitchens, up to 30 guests per villa
-- The Syd — Lower Garden District villas, streetcar to Commander's Palace, shared pool and outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
