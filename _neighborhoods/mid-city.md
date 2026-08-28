@@ -2,7 +2,7 @@
 title: "Mid-City New Orleans: Group Travel Guide"
 description: "Mid-City has City Park, Bayou St. John, the Jazz Fest grounds, and restaurants locals drive across town for. The neighborhood most visitors never find—and shouldn't miss."
 category: "Neighborhoods"
-date: 2026-05-23
+date: 2026-08-28
 ---
 
 Mid-City is the neighborhood most visitors never find. No party strip, no antebellum mansions, no ghost tours. What it has: City Park (one of the largest urban parks in the country), Bayou St. John (a beautiful waterway with kayaking and picnic spots), the Fair Grounds Race Course (home of Jazz Fest), and some of the best neighborhood restaurants in New Orleans.
@@ -129,8 +129,8 @@ Mid-City doesn't have a streetcar line. Rideshare is the most practical option f
 
 | From | To Mid-City | Time |
 |------|-------------|------|
-| Bywater (Castleday) | ~20-25 min | Rideshare |
-| Lower Garden District (The Syd) | ~15-20 min | Rideshare |
+| Bywater | ~20-25 min | Rideshare |
+| Lower Garden District | ~15-20 min | Rideshare |
 | French Quarter | ~15-20 min | Rideshare |
 | Uptown | ~20 min | Rideshare |
 
@@ -170,13 +170,8 @@ Mid-City doesn't have a streetcar line. Rideshare is the most practical option f
 
 Mid-City doesn't have large-group rental inventory. Base yourself nearby.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. About 20-25 minutes from Mid-City by rideshare. Private pools, full kitchens, art throughout. The go-to for groups that need complete privacy and their own outdoor space.
+Castleday Retreats runs villas in the Bywater with a private pool per house, about 20-25 minutes from Mid-City by rideshare — a fit for a group that wants total privacy and its own outdoor space. Heirloom's inventory of large-format homes spans the Lower Garden District and Central City, closer to Mid-City on the rideshare and with more dates available if you're booking later. A hotel room block near the CBD splits the difference — separate bills, and a similar ride to Mid-City as either villa option.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. About 15-20 minutes from Mid-City. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. The right choice for groups who want a central location with easy access to multiple neighborhoods.
+Whichever base you pick, you're trading a few minutes of rideshare time for a real house with a full kitchen and common space — worth it for most groups making City Park the centerpiece of a day. For the largest selection, book 6+ months out.
 
-Both properties let your group stay in one place — a real house with full kitchen, common areas, and outdoor space — while being within easy rideshare distance of Mid-City.
-
-## Book Your Stay
-
-- **Castleday Retreats** — Bywater, up to 30 per villa, private pools
-- **The Syd** — Lower Garden District, up to 22 per villa, streetcar access, outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
