@@ -4,14 +4,14 @@ description: "Guided food tour vs. self-guided culinary crawl for groups of 15-2
 category: "Food & Drink"
 card_title: "Food Tour vs. Self-Guided"
 card_description: "Guided tour or DIY crawl? The honest breakdown of both options for groups of 15-25, with the full self-guided route and logistics."
-date: 2026-06-18
+date: 2026-08-28
 ---
 
 New Orleans is the best food city in America for a group culinary experience. There is no argument here. The question is how to structure it.
 
 You have two real options: hire a professional guide and join or book a private food tour, or build your own self-guided culinary crawl through the neighborhoods. Both work. They're not the same thing, and the right choice depends on what your group actually wants from the experience.
 
-Here's the honest breakdown, and the full DIY route if you go that direction.
+Here's the honest breakdown, and the full DIY route if you go that direction. (Still nailing down the rest of the trip? The [planning sequence](/guides/plan-a-group-trip/) covers the decisions that come before any single day's itinerary.)
 
 ---
 
@@ -111,7 +111,7 @@ For groups: raw bar setup handles large groups well, since there's no cooking ti
 
 The po-boy is the defining New Orleans sandwich. It's not the bread-and-filling that's unique — it's specifically the New Orleans French bread, which has a crisp crust and an airy interior that is produced by a different humidity environment and a different baking tradition than anywhere else. The difference is real and noticeable.
 
-The debate: roast beef (gravy-braised, dressed with lettuce, tomato, pickles, mayonnaise) vs. fried shrimp or oyster (the most ordered seafood option). For a group tasting, order a mix and split: a long po-boy cuts into 6-8 individual portions.
+The debate: roast beef (gravy-braised, dressed with lettuce, tomato, pickles, mayonnaise) vs. fried shrimp or oyster (the most ordered seafood option). For a group tasting, order a mix and split: a long po-boy cuts into 6-8 individual portions. If the po-boy is the stop your group actually cares about, the [po-boy crawl guide](/guides/nola-po-boy-crawl-guide/) builds a whole route around it instead of one stop on a bigger one.
 
 **Stop 4: Gumbo or Red Beans**
 
@@ -123,7 +123,7 @@ For a group tasting portion: a cup of gumbo is the right scale at this point in 
 
 The Sazerac is New Orleans' own drink — rye whiskey, Peychaud's bitters, absinthe rinse, sugar. It is the oldest known American cocktail. Ordering one in New Orleans is an experience that is different from ordering one anywhere else, not because the recipe is different but because the context is.
 
-The frozen daiquiri is the alternative: the daiquiri shop is a specifically New Orleans institution, with to-go cup culture and a range of flavors that are not available at a bar serving fresh cocktails. The rum slush served through a walk-away window is the move for the group member who does not want to order a serious cocktail at 1pm.
+The frozen daiquiri is the alternative: the daiquiri shop is a specifically New Orleans institution, with to-go cup culture and a range of flavors that are not available at a bar serving fresh cocktails. The rum slush served through a walk-away window is the move for the group member who does not want to order a serious cocktail at 1pm. If day drinking is the actual point of the trip rather than one stop on a food crawl, see the [day drinking guide](/guides/nola-day-drinking-guide/) for how to pace a full day of it.
 
 **Stop 6: Pralines**
 
@@ -175,7 +175,7 @@ The 4-5 hour estimate above includes these buffers. If you cut them, you lose ti
 | Self-guided (8 stops, sharing at each) | Approximately $35-55 per person | $700-1,100 total | Full range of dishes, flexibility |
 | Self-guided (individual portions at each stop) | Approximately $60-80 per person | $1,200-1,600 total | Same range, no sharing required |
 
-**The math for sharing:** At each stop, ordering one or two dishes and passing them around costs significantly less than everyone ordering individually — and for a tasting tour, it's actually the right way to eat. You want to taste everything, not fill up on any one thing.
+**The math for sharing:** At each stop, ordering one or two dishes and passing them around costs significantly less than everyone ordering individually — and for a tasting tour, it's actually the right way to eat. You want to taste everything, not fill up on any one thing. Weigh it against the rest of the trip's spend in the [group budget guide](/guides/budget-guide/) before you commit to either format.
 
 ---
 
@@ -203,15 +203,10 @@ If you want some of the guided experience without the full cost or logistics: bo
 
 ---
 
-## The Villas That Feed This
+## Basing Yourself for the Crawl
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Castleday's Bywater location puts you in the neighborhood that has become one of the most food-forward areas in New Orleans — within walking distance of several Marigny and Bywater stops on the self-guided route. After a full day of eating, the villa kitchen and private pool are the recovery plan. 4.98 stars across 99 reviews.
+Bywater and Marigny cover most of this route, so a villa in that corridor keeps the walk between stops short and gives the group a kitchen and a pool to recover in afterward. The Mazant, an 1880s Bywater guesthouse that sleeps up to 18, is one example sized right for a group doing the full 8-stop crawl on foot. For a group wanting apartment-style rooms with separate bills instead, The Revelry's Central City floors sleep 6-9 per unit around a shared saltwater pool — useful if the group wants to split into smaller sub-crews for the tighter restaurant stops and regroup at the end of the day.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's Magazine Street and streetcar access makes it easy to stage from the villa and return between stops — or to end the tour at a Magazine Street restaurant before heading back to the pool. Shared heated pool, hot tub, and sauna.
+Either way, confirm the walk from wherever you're staying to the French Quarter before you build the route — for the largest selection, book 6+ months out.
 
----
-
-## Plan the Crawl
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
