@@ -3,8 +3,8 @@ title: "Warehouse District Dining Guide for Large Groups in New Orleans"
 description: "Restaurant row on Julia and Fulton Streets, private dining rooms, pre-event dinners near the Convention Center and Caesars Superdome, and group logistics for the Warehouse District food scene."
 category: "Food & Drink"
 card_title: "Warehouse District Dining"
-card_description: "Julia and Fulton Street restaurant corridor, private dining rooms, and pre-event dinner logistics for groups of 10-30 near the Convention Center and Caesars Superdome."
-date: 2026-06-12
+card_description: "Julia and Fulton Street restaurant corridor, private dining rooms, and pre-event dinner logistics for the whole group near the Convention Center and Caesars Superdome."
+date: 2026-08-28
 ---
 
 The Warehouse District has the most group-functional restaurant infrastructure in New Orleans. That's not an accident — this neighborhood sits between the Convention Center, Caesars Superdome, and the hotel corridor, so a critical mass of restaurants here have been handling large groups for decades. Private dining rooms, semi-private sections, large-format tables, pre-event prix fixe menus — these are standard offerings, not exceptions.
@@ -205,15 +205,10 @@ Both are worth doing over a multi-day trip. The private room makes sense for a o
 
 The Warehouse District sits between two accommodation zones: the CBD hotel corridor (north) and the Bywater/Lower Garden District private villa zone (southeast). Groups attending Convention Center events or Superdome shows face a real strategic decision about where to stay.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 bathrooms — comfortably configured for 14-30 guests with everyone in a real bed. The Bywater is a 10-15 minute Uber to the Warehouse District dining corridor and Caesars Superdome. Groups doing a Convention Center event combined with a group dinner often use Castleday as their home base: private pool at the villa for recovery days, Warehouse District for anchor dinners, Frenchmen Street walkable for late-night music. The Florentine villa is ADA-accessible. Across three villas and nearly 100 reviews, Castleday holds a 4.98 average rating.
+Hotel Perle's CBD/Warehouse District group suites are the closest fit by sheer geography — a short walk to both the Convention Center and the dining corridor, with the rooftop pool for recovery between events. For groups that want a private villa instead, the Bywater and Lower Garden District markets are a 10-15 minute ride away and cover the field: Castleday Retreats runs Bywater villas with a private pool per villa, while The Syd's Lower Garden District villas share a heated pool and sit one block from the St. Charles Streetcar into the CBD. Heirloom's larger inventory across several neighborhoods is worth checking if you're booking on shorter notice or need a specific headcount. For mixed budgets or groups that want to book on separate cards, a room block at one of the CBD hotels keeps everyone close to both the Superdome and the restaurant corridor.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's St. Charles Streetcar access — one block from the property — connects directly to the CBD and the edge of the Warehouse District without dealing with surge pricing from a post-event Uber rush. For groups that want to walk or streetcar to pre-event dinners and then return without logistics friction, The Syd's location is excellent. The artist-designed interiors mean the property itself is worth a pre-dinner hour in the courtyard before heading out.
+For groups with multi-night trips anchored around a Superdome event and a Convention Center day, a private villa beats a hotel on the experience-per-dollar calculation for the nights you're not out at a restaurant — a kitchen for the morning routines, a pool for recovery days, and private space to reconvene after the event.
 
-For groups with multi-night trips anchored around a Superdome event and a Convention Center day, staying at either property beats a hotel on the experience-per-dollar calculation. You get a private kitchen for the morning routines, a pool for recovery days, and private space to reconvene after the event — none of which a CBD hotel room provides.
+Confirm the walk or ride to the Warehouse District before you book — for the largest selection, book 6+ months out.
 
----
-
-## Book Your Group Stay
-
-- Castleday Retreats — Bywater villas, 14-30 guests, private pools, 10-15 minutes to the Warehouse District corridor, 4.98 rating across 99 reviews
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool and hot tub, St. Charles Streetcar to the Warehouse District
+[See where to stay for large groups →](/where-to-stay/)

@@ -3,8 +3,8 @@ title: "New Orleans Hotel Bar Guide for Large Groups"
 description: "Hotel lobby bars, rooftop bars, and when a hotel bar beats a standalone venue for groups of 15-30 in New Orleans. CBD and French Quarter hotel bar survey with capacity and group logistics."
 category: "Nightlife & Music"
 card_title: "NOLA Hotel Bar Guide"
-card_description: "When a hotel bar beats a standalone venue for your group. CBD and French Quarter hotel bars with capacity notes and group logistics for groups of 15-30."
-date: 2026-06-12
+card_description: "When a hotel bar beats a standalone venue for your group. CBD and French Quarter hotel bars with capacity notes and group logistics for the whole crew."
+date: 2026-08-28
 ---
 
 Hotel bars in New Orleans are genuinely good, and they're underused by groups staying at private villas. Most groups staying in Bywater or the Lower Garden District write hotel bars off as "not for us" because they're not staying at a hotel. That's a mistake.
@@ -197,13 +197,8 @@ Hotel bars make sense for groups at private villas in specific situations:
 
 Outside those use cases, your private villa is the better bar.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Herald, Cocodrie, and Florentine each have full kitchens, private outdoor spaces, and enough indoor room to host a full group. For groups who want to build their pre-evening gathering at home before heading out to the French Quarter or CBD hotel bar scene, Castleday is the right base. The Bywater-to-CBD trip is a 10-15 minute Uber.
+A villa with a full kitchen and real outdoor space covers this better than any single hotel lobby — the field includes Castleday Retreats' Bywater villas (private pool per villa, a 10-15 minute Uber to the CBD), The Syd's Lower Garden District villas (shared pool, one block from the St. Charles Streetcar into the CBD and French Quarter), and Heirloom's larger inventory spanning several neighborhoods if you need more choice or shorter notice. For mixed budgets or separate billing, a CBD or French Quarter hotel room block puts the group inside walking distance of the bars this guide covers.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is one block from the St. Charles Streetcar, which connects directly to the CBD and French Quarter. Groups using The Syd can easily route to CBD hotel bars for a pre-event drink and return without dealing with surge pricing from a late Uber. The Syd's outdoor kitchen and pool area is the better pre-event gathering point for most occasions.
+Whichever base you pick, confirm the walk or ride to the CBD or French Quarter before you book — for the largest selection, book 6+ months out.
 
----
-
-## Plan Your Bar Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, short Uber from CBD and French Quarter hotel bar districts
-- The Syd — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar access to CBD and French Quarter
+[See where to stay for large groups →](/where-to-stay/)
