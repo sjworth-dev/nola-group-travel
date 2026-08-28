@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Casino Guide for Large Groups"
-description: "Harrah's Casino, poker rooms, table strategy, and how to structure a casino evening that actually works for a mixed group of 10-30 people in New Orleans."
+description: "Harrah's Casino, poker rooms, table strategy, and how to structure a casino evening that actually works for a mixed, big New Orleans group."
 category: "Nightlife & Music"
 card_title: "Casino Night Guide"
 card_description: "How to do a casino evening right with a large group — table strategy, poker rooms, who plays what, and how to keep everyone engaged."
-date: 2026-06-07
+date: 2026-08-28
 ---
 
-New Orleans has exactly one major casino: Harrah's, right on Canal Street across from the French Quarter. It is large, it is open 24 hours, and it can absolutely anchor a night out for a group of 10-30 people.
+New Orleans has exactly one major casino: Harrah's, right on Canal Street across from the French Quarter. It is large, it is open 24 hours, and it can absolutely anchor a night out for a big group.
 
 But a casino evening with a large group is not something you just walk into. Groups fragment immediately. Budget differences surface fast. Some people want poker, some want roulette, some want to sit at a slot machine with a drink and people-watch. Without a light structure, you lose your group within 15 minutes of walking through the door.
 
-Here's how to do it right.
+Here's how to do it right. (If the casino night is one stop on a bigger trip you're still assembling, [start with the planning sequence](/guides/plan-a-group-trip/) first — the rest slots in easier once dates and a base are locked.)
 
 ## Quick Checklist
 
@@ -28,7 +28,7 @@ Here's how to do it right.
 
 ## Harrah's New Orleans: What You're Walking Into
 
-Harrah's is the only land-based casino in New Orleans proper. It sits at the foot of Canal Street, about a five-minute walk from Bourbon Street and walking distance from the major downtown hotels.
+Harrah's is the only land-based casino in New Orleans proper. It sits at the foot of Canal Street, about a five-minute walk from [Bourbon Street](/guides/nola-bourbon-street-guide/) and walking distance from the major downtown hotels.
 
 **The basics:**
 - Open 24 hours, 365 days a year
@@ -45,7 +45,7 @@ The size works in your favor for a large group: there's room for everyone, nobod
 
 ## Who in Your Group Plays What
 
-Before you walk in, do a quick headcount of interests. Most groups of 15-20 break into roughly these categories:
+Before you walk in, do a quick headcount of interests. Most groups break into roughly these categories:
 
 | Type | They Want | Where to Send Them |
 |------|-----------|-------------------|
@@ -122,7 +122,7 @@ That said, slots serve a real purpose for a large group evening:
 
 ## Budget Planning for the Group
 
-The most important pre-casino conversation is about money. Get this out of the way before you arrive.
+The most important pre-casino conversation is about money. Get this out of the way before you arrive — it's the same conversation your [group budget planning](/guides/budget-guide/) should already be having, just for one specific night.
 
 ### Setting Limits
 
@@ -170,7 +170,7 @@ Bring everyone back to the meeting point. Share what happened. Buy the table a r
 
 **Exit (midnight-1am, or earlier if the group is ready)**
 
-Decide together whether you're heading to Frenchmen Street, calling it a night, or finding an after-hours bar. Don't let the casino create the exit — you create it.
+Decide together whether you're heading to [Frenchmen Street or another nightlife stop](/guides/nightlife-guide/), calling it a night, or finding an after-hours bar. Don't let the casino create the exit — you create it.
 
 ---
 
@@ -229,9 +229,9 @@ The best casino evenings for large groups happen on lighter nights when you can 
 
 ---
 
-## The 11-30 Person Casino Logistics
+## Casino Logistics at Full Headcount
 
-For groups at the larger end — 20 to 30 people — the casino works well precisely because it has the capacity to absorb everyone without you becoming an event.
+When the trip goes double-digit, the casino works well precisely because it has the capacity to absorb everyone without you becoming an event.
 
 The challenge is keeping the group coherent enough to still feel like a group. Here's what works:
 
@@ -241,23 +241,18 @@ The challenge is keeping the group coherent enough to still feel like a group. H
 
 **Group chat as the ops channel:** "Craps table near the north bar" is a sufficient location for anyone to find you. Use it.
 
-**The regroup dinner:** If you're a group of 25+ and want a shared dining experience that the casino doesn't interrupt, consider ending at a nearby restaurant rather than the casino bar. The Canal Street area has options. This gives everyone a reason to exit at the same time.
+**The regroup dinner:** If a big enough group wants a shared dining experience that the casino doesn't interrupt, consider ending at a nearby restaurant rather than the casino bar. The Canal Street area has options. This gives everyone a reason to exit at the same time.
+
+**Getting there and back:** Harrah's sits on Canal Street, so [getting the group there and home again](/guides/transportation-guide/) is usually a short rideshare or a streetcar ride, not a logistics project — save the real planning for the exit, when a scattered group needs to reassemble before heading home.
 
 ---
 
-## Where to Stay
+## Where to Stay for a Casino Night
 
 For a casino evening, the question isn't just proximity to Harrah's — it's what kind of home base your group wants to return to at 1am.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). A 10-minute Uber from Harrah's and about 15 minutes on foot from Frenchmen Street — which means your casino evening naturally flows into live music if the group wants to extend the night. Private pools for the next-day recovery. Full kitchens for the pre-casino dinner.
+Hotel Perle's CBD/Warehouse District group suites are the closest genuine fit: it's a short walk from Harrah's, the suites split across 2-7 bedrooms so the group can settle separate bills, and there's a rooftop pool for the next day. If your group wants a full villa instead, Heirloom's inventory spans dozens of large-format homes across several neighborhoods, which helps if you're booking late or need a specific headcount. For mixed budgets or a group that wants to book on separate cards, a room block at one of the downtown hotels — the Roosevelt, Hotel Saint Vincent, the Pontchartrain — keeps everyone a short ride from Canal Street without splitting one bill nineteen ways.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar, which takes you to Canal Street and a short walk from Harrah's. The shared heated pool, hot tub, and sauna at The Syd are particularly useful after a late casino night — the recovery infrastructure is already there.
+Whichever base you pick, confirm the walk or ride to Canal Street before you book — for the largest selection, book 6+ months out.
 
-For groups who want Harrah's to be the centerpiece of one night in a larger trip: both properties handle the logistics easily. For groups whose primary reason for visiting New Orleans is the casino, The Syd's location is slightly more convenient.
-
----
-
-## Plan Your Casino Night
-
-- Castleday Retreats — Bywater villas, private pools, up to 30 guests per villa, easy Uber to Harrah's
-- The Syd — Lower Garden District villas, streetcar to Canal Street, shared pool and hot tub, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)
