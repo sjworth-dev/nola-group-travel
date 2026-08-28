@@ -4,14 +4,14 @@ description: "The complete booking guide for hiring a brass band or organizing a
 category: "Activities & Day Trips"
 card_title: "Hire a Brass Band"
 card_description: "Book a private brass band or second line for your group — costs, lead times, what's included, and what actually happens on the day."
-date: 2026-06-07
+date: 2026-08-28
 ---
 
 A private brass band hire is one of the most New Orleans-specific things your group can do. Not just watch — hire your own band, get your own Grand Marshal, and second-line through the streets of a real New Orleans neighborhood with 20 people dancing behind you. No other city offers this.
 
 But the experience does not book itself. There's a real process here: permits, timing, lead times, what's actually included in a quote, and what separates a legitimate brass band booking from a disappointing one. Most groups research the experience and underestimate the logistics.
 
-This guide is about the mechanics. If you want background on second line culture and how the tradition works, read our [second line guide](/guides/second-line-guide). This one is about writing the check and making it happen.
+This guide is about the mechanics. If you want background on second line culture and how the tradition works, read our [second line guide](/guides/second-line-guide/). This one is about writing the check and making it happen. If the band is one piece of a bigger trip you're still assembling, the [planning sequence](/guides/plan-a-group-trip/) covers the decisions that come before it.
 
 ---
 
@@ -92,16 +92,16 @@ This is where most groups get into trouble. Brass bands with good reputations ar
 
 | Event Date | Recommended Contact Window |
 |------------|---------------------------|
-| Shoulder season (July-September, late January, late November) | 4-6 weeks minimum |
-| Peak fall (October, December) | 8-10 weeks |
+| Value season (June-August, January) | 4-6 weeks minimum |
+| October (the city's actual peak month — not a shoulder window) | 8-10 weeks |
 | Jazz Fest weekend (late April/early May) | 12-16 weeks |
-| Mardi Gras season (January-February) | 12-16 weeks; many top bands book out entirely |
+| Mardi Gras season (dates move with Easter; always check the current year's Fat Tuesday) | 12-16 weeks; many top bands book out entirely |
 | New Year's Eve | 16+ weeks; assume the best bands are already booked |
-| Essence Festival weekend (late June/early July) | 10-12 weeks |
+| Essence Festival weekend (Fourth of July weekend) | 10-12 weeks |
 
 For a licensed street second line with NOPD escort, add 2-4 weeks to these windows on the permitting side. The city's Special Events Office processes permit applications and has its own timeline.
 
-Bottom line: if you're thinking about a brass band for a spring trip, start reaching out in winter. If you're planning around a major festival, reach out before you've confirmed flights.
+Bottom line: New Orleans's calendar runs backwards from most cities' — October and February through May are the high-demand stretch, not a quiet shoulder season. If you're planning around a spring festival, reach out before you've confirmed flights. For accommodation specifically, the same rule always applies: for the largest selection, book 6+ months out.
 
 ---
 
@@ -181,7 +181,7 @@ You're looking for bands that are professional, experienced with private groups,
 **Where to look:**
 - New Orleans musician union referrals
 - NOLA event coordinators who specialize in group experiences
-- Referrals from your villa host (Castleday and The Syd hosts who work regularly with groups often have relationships with booking contacts)
+- Referrals from your rental host — hosts who work regularly with groups often have relationships with booking contacts
 - Recommendations from other travelers who've done this successfully
 
 **Questions to ask when vetting:**
@@ -266,15 +266,8 @@ The afternoon format works better for groups that want the rest of the evening f
 
 The neighborhood context matters for a second line. The Bywater and Tremé are the historical heartland of this tradition — performing or parading through these streets has cultural weight that a second line in a hotel corridor does not.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each sleeping up to 30 guests. The Herald, The Cocodrie, and The Florentine sit in the neighborhood where this tradition lives. A villa second line that starts at the Castleday courtyard gate and parades through the surrounding blocks is the most contextually appropriate format available to a private group in New Orleans. The Cocodrie's outdoor space handles a 6-8 piece band comfortably for a villa performance before or after the parade. The Bywater location also puts you walking distance from Frenchmen Street for the natural evening continuation.
+A villa with real outdoor space in or near the Bywater is the natural home base: it puts the band's warm-up and the post-parade regroup in the same place, and it puts your group walking distance from Frenchmen Street for the evening after. The Mazant, an 1880s Bywater guesthouse that sleeps up to 18, is one example of a single historic house sized right for a villa performance in that neighborhood. If your group is bigger or wants apartment-style separation instead, Heirloom's large-format home inventory spans the Bywater, Lower Garden District, and Central City, which helps if you're booking on shorter notice than the lead times above allow.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Lower Garden District has its own musical history and is a legitimate setting for a brass band event. The outdoor kitchen and shared common areas at The Syd provide the gathering space for a villa performance, and the shared pool and hot tub make the post-second-line recovery natural. One block from the St. Charles Streetcar for groups that want to extend into the French Quarter after.
+Whichever base you pick, confirm with the host before booking the band — noise expectations and courtyard access vary property to property, and it's a five-minute question that saves a headache on the day.
 
-Both properties have hosted groups who've hired brass bands and organized second line events. The hosts know the vendors, know the neighborhoods, and can make introductions. This is worth asking about when you book.
-
----
-
-## Plan Your Second Line
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private outdoor space, heartland of the second line tradition
-- The Syd — Lower Garden District villas, up to 22 guests per villa, shared outdoor kitchen and pool, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
