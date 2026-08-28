@@ -9,9 +9,9 @@ date: 2026-07-17
 
 Austin and New Orleans both pitch themselves as music towns, which is exactly why group chats keep landing on a side-by-side. Past that headline, they're not close to the same trip.
 
-Austin is built around a lake, a swimming hole, a tech-money food scene, and a live-music identity that's mostly about volume and variety of venues. New Orleans is an older city where jazz, brass, and second-line music aren't a scene — they're the ambient soundtrack of a Tuesday afternoon. Both are legitimate answers for a group of 10, 20, or 30 people. They are not the same answer.
+Austin is built around a lake, a swimming hole, a tech-money food scene, and a live-music identity that's mostly about volume and variety of venues. New Orleans is an older city where jazz, brass, and second-line music aren't a scene — they're the ambient soundtrack of a Tuesday afternoon. Both are legitimate answers for a big group. They are not the same answer.
 
-Here's the honest version, not the one a tourism board would write.
+Here's the honest version, not the one a tourism board would write. (Still working out the basics of the trip itself? The [planning sequence](/guides/plan-a-group-trip/) covers the decisions that come before the city comparison.)
 
 ---
 
