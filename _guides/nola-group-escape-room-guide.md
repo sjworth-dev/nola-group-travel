@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Escape Room & Team Puzzle Guide for Large Groups"
-description: "Escape rooms, murder mystery dinners, and team puzzle experiences for groups of 10-30 in New Orleans: venue formats, large-group booking logistics, and how to build a full evening around it."
+description: "Escape rooms and murder mystery dinners for the whole crew in New Orleans: venue formats, booking logistics, and how to build a full evening around it."
 category: "Activities & Day Trips"
 card_title: "Escape Rooms & Team Puzzles"
-card_description: "Escape rooms, murder mystery dinners, and competitive team experiences for groups of 10-30 — booking logistics, what actually works, and how to build an evening around it."
-date: 2026-06-12
+card_description: "Escape rooms, murder mystery dinners, and competitive team experiences for the whole crew — booking logistics, what actually works, and how to build an evening around it."
+date: 2026-08-29
 ---
 
 Escape rooms and murder mystery dinners work well for NOLA group trips, but they require more advance planning than most people expect. The city's escape room scene is real — there are multiple venues with private room options — but the large-group logistics are specific, and a lot of groups show up to discover that a single room holds 8, not 20.
 
-Know the format before you book. Most escape rooms max out at 8-12 people per room. For groups of 15-30, you're either booking multiple simultaneous rooms, looking for multi-room venues that can run your whole group at once, or shifting to a murder mystery dinner format that scales differently.
+Know the format before you book. Most escape rooms max out at 8-12 people per room. Once the group is past that, you're either booking multiple simultaneous rooms, looking for multi-room venues that can run your whole group at once, or shifting to a murder mystery dinner format that scales differently.
 
-Get this right and you have one of the best evening anchors in the city — a two-hour window where everyone's engaged, not just along for the ride.
+Get this right and you have one of the best evening anchors in the city — a two-hour window where everyone's engaged, not just along for the ride. If you're still sequencing the rest of the trip around it, see [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) and [budgeting for the whole crew](/guides/budget-guide/).
 
 ---
 
@@ -109,7 +109,7 @@ The in-villa murder mystery format is excellent for groups staying at a private 
 
 ## Puzzle Hunts and City-Wide Scavenger Hunts
 
-For groups of 15-30 who want the competitive puzzle format but spread across the city rather than confined to a room, city-wide puzzle hunts and scavenger hunt experiences are a strong option.
+For a big group that wants the competitive puzzle format but spread across the city rather than confined to a room, city-wide puzzle hunts and scavenger hunt experiences are a strong option.
 
 Several operators run custom large-group scavenger hunt experiences in New Orleans. Teams of 4-6 people each get a clue list or an app-guided route and work through the French Quarter, Marigny, or other neighborhoods. The group reunites for a final scoring and debrief, usually at a bar.
 
@@ -223,19 +223,8 @@ Set the meet-up time 30 minutes before the venue start time. Assume a 15-minute 
 
 ---
 
-## The 15-30 Person Accommodation Strategy
+## Accommodation Strategy for a Night-Out-Heavy Trip
 
-Escape rooms and murder mystery dinners are evening activities that feed naturally into late nights. Having a private villa as your home base changes the texture of the whole experience.
+Escape rooms and murder mystery dinners are evening activities that feed naturally into late nights. Having a private big-house rental as your home base changes the texture of the whole experience — and for an in-villa murder mystery format, where actors and props come to the property, you need enough private indoor and outdoor space to run the show entirely on-site.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater's proximity to Frenchmen Street and the broader Marigny means that after a 7pm escape room experience, a natural progression to live music or a late-night bar scene is easy to execute. The private pool and outdoor spaces at each villa — particularly The Cocodrie's outdoor setup — are well-suited for the post-activity debrief if the group wants to wind down at home rather than continue out. Castleday's villa hosts can help identify escape room and murder mystery operators and often have referral relationships with local experience providers.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool, hot tub, and sauna make the evening-ending wind-down after an active group experience particularly good — an hour in the hot tub is the natural decompression after a murder mystery dinner. The St. Charles Streetcar one block away gives groups easy access to the CBD, French Quarter, and Frenchmen Street without dealing with rideshare logistics for 20 people.
-
-For groups using the in-villa murder mystery format — actors and props come to your property — both Castleday and The Syd have enough private indoor and outdoor space to run the experience entirely on-site.
-
----
-
-## Book Your Night Out
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street walkable, villa hosts with local vendor connections
-- The Syd — Lower Garden District villas, up to 22 guests per villa, shared pool and hot tub, St. Charles Streetcar for easy access to activity venues
+**Castleday Retreats**, private villas in the [Bywater](/neighborhoods/bywater/), put the group within easy reach of Frenchmen Street for a natural progression from a 7pm escape room into live music or a late-night bar scene. **The Syd**'s shared heated pool, hot tub, and sauna in the Lower Garden District make for a good evening-ending wind-down after an active group experience, and the St. Charles Streetcar one block away gives easy access to the CBD, French Quarter, and Frenchmen Street. **The Revelry**'s apartment-style floors, also in Central City, are worth a look if the group wants separate billing per subgroup rather than one shared house. For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
