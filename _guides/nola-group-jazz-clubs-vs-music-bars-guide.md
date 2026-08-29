@@ -1,10 +1,10 @@
 ---
 title: "Jazz Clubs vs. Music Bars in New Orleans for Large Groups"
-description: "The difference between jazz clubs and music bars in New Orleans for groups of 15-25: sit-down vs. stand-and-listen, cover charges vs. donation jars, reservation mechanics, and which format keeps a group of 20 together without splitting up."
+description: "Jazz club or music bar? Sit-down vs. stand-and-listen, cover charges vs. donation jars, and which format actually keeps a big group together."
 category: "Nightlife & Music"
 card_title: "Jazz Clubs vs. Music Bars Guide"
 card_description: "Sit-down vs. stand-and-listen, cover charges vs. donation jars, reservation mechanics, and which music format keeps a group of 20 together — the honest breakdown for large groups."
-date: 2026-06-25
+date: 2026-08-29
 ---
 
 People use the terms "jazz club" and "music bar" interchangeably when talking about New Orleans. This is a mistake that produces confused evenings, disappointed groups, and nights spent standing in the wrong room wondering why this isn't what you expected.
@@ -38,7 +38,7 @@ A jazz club ticket — whether a formal cover at the door or a per-person minimu
 
 **The best jazz club nights for large groups:**
 
-The jazz clubs that work best for groups of 15-25 are those with:
+The jazz clubs that work best for a big group are those with:
 - A reservable seating section large enough to hold the group
 - Flexible set timing (multiple sets per night, so a late arrival can still catch a full show)
 - A menu or minimum that accommodates a group's ordering pace
@@ -82,7 +82,7 @@ The street has roughly a dozen bars and small venues, most of which have live mu
 
 ### How Frenchmen Street works for groups of 20
 
-The honest assessment: Frenchmen Street is better for groups of 8-12 than for groups of 20. Here is why:
+The honest assessment: Frenchmen Street is better for a smaller crew than for a group that's hit its full headcount. Here is why:
 
 - The individual rooms are small — the largest hold 100-150 standing patrons, but comfortable capacity for conversation and music is lower
 - A group of 20 standing together in a bar creates a logistical presence that is difficult to sustain without blocking other patrons' sight lines or access to the bar
@@ -167,10 +167,8 @@ A group of 20 people should be contributing $40-60 minimum to the hat each time 
 
 ## Large Group Accommodation for a Music Night
 
-Both the Bywater and the Lower Garden District put the group within rideshare range of Frenchmen Street (10 minutes from the Bywater, 15-20 from the Lower Garden District) and within reasonable rideshare range of the French Quarter's jazz clubs.
+Both the [Bywater](/neighborhoods/bywater/) and the Lower Garden District put the group within rideshare range of Frenchmen Street (10 minutes from the Bywater, 15-20 from the Lower Garden District) and within reasonable rideshare range of the French Quarter's jazz clubs.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater's position on the Marigny's eastern border makes Frenchmen Street a 10-minute walk or 5-minute rideshare — close enough that the group can return to the villa at any point in the night and re-launch if energy recovers. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is one block from the St. Charles Streetcar, which runs to the French Quarter — a reasonable transit option for groups heading to a French Quarter jazz club on a night when the timing is flexible.
+The field spans both: **Castleday Retreats** puts you in the Bywater itself, close enough to walk to Frenchmen Street and return to the villa mid-evening if the group wants to regroup before heading back out. **The Mazant**, an 1880s Bywater guesthouse with a heated pool and spa, is the same neighborhood bet for a group of up to 18. **Heirloom**'s inventory across the Lower Garden District and Central City is the move if you're booking close to the date. **The Syd**'s Lower Garden District villas sit one block from the St. Charles Streetcar, which runs to the French Quarter — a reasonable transit option for a jazz-club night when the timing is flexible. See the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) for the fuller Bywater-vs-Lower Garden District case, and check [getting around New Orleans with a group](/guides/transportation-guide/) for the streetcar and rideshare math. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
