@@ -1,17 +1,17 @@
 ---
-title: "MSY Airport Transfers for Large Groups — 10 to 30 People"
-description: "The complete ground transportation guide for getting your group of 10-30 from Louis Armstrong International Airport to New Orleans: charter vans, rideshare coordination, arrival sequencing, and the staggered-arrival problem nobody warns you about."
+title: "MSY Airport Transfers for a Big Group, Done Right"
+description: "Getting the whole crew from MSY to New Orleans: charter vans vs. rideshare staging, staggered arrivals, and the baggage math nobody plans for."
 category: "Planning & Logistics"
 card_title: "MSY Airport Transfer Guide"
-card_description: "Charter vans, rideshare staging, arrival sequencing, and departure logistics for groups of 10-30 flying into New Orleans."
-date: 2026-06-09
+card_description: "Charter vans, rideshare staging, arrival sequencing, and departure logistics for the whole crew flying into New Orleans."
+date: 2026-08-29
 ---
 
-Getting a group of 10-30 people from the airport to their accommodation in New Orleans is not a solved problem. It looks straightforward on paper — everyone lands, everyone gets in cars, everyone arrives. In practice, the staggered arrivals, checked bag delays, and vehicle capacity math create a logistics puzzle that bites groups that haven't planned for it.
+Getting the whole crew from the airport to their accommodation in New Orleans is not a solved problem. It looks straightforward on paper — everyone lands, everyone gets in cars, everyone arrives. In practice, the staggered arrivals, checked bag delays, and vehicle capacity math create a logistics puzzle that bites groups that haven't planned for it. It's one of the pieces worth locking down early — see [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) for where this fits in the sequence.
 
 MSY (Louis Armstrong New Orleans International Airport) is about 15 miles from the French Quarter and Bywater, and about 13 miles from the Lower Garden District. In normal traffic that's 25-35 minutes. During rush hour or after a major festival weekend, it can push 50-60 minutes. Every vehicle in your plan needs to account for this.
 
-This guide covers the real mechanics: what your options are, how to coordinate staggered arrivals, how departure morning works, and how to structure the logistics so nobody is standing at the curb for 45 minutes waiting for a ride.
+This guide covers the real mechanics: what your options are, how to coordinate staggered arrivals, how departure morning works, and how to structure the logistics so nobody is standing at the curb for 45 minutes waiting for a ride. For the rest of how the group gets around once you're on the ground, see [getting around New Orleans with a group](/guides/transportation-guide/).
 
 ---
 
@@ -48,7 +48,7 @@ The new terminal (opened 2019) consolidated everything under one roof. There are
 | Warehouse District | 25-35 min | 45-55 min |
 | Uptown | 35-45 min | 55-70 min |
 
-Rush hour in New Orleans is 7-9am and 4-6:30pm. Friday afternoon is the worst. If your group's bulk arrival lands on a Friday between 3 and 7pm, plan for a long ride and set expectations accordingly.
+Rush hour in New Orleans is 7-9am and 4-6:30pm. Friday afternoon is the worst. If your group's bulk arrival lands on a Friday between 3 and 7pm, plan for a long ride and set expectations accordingly. If drive time from MSY is a real factor in choosing a base, weigh it alongside walkability and vibe in the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) before you book.
 
 ---
 
@@ -69,7 +69,7 @@ The airport has no dedicated bus service to the city anymore — the public tran
 
 ## Charter Vans: The Right Move for Most Groups
 
-For a group of 15-30 where most people are arriving within a 3-4 hour window, one or two charter vans is the cleanest solution. You're not managing multiple rideshare accounts, not doing the per-person math on Uber surge pricing, and not stranding anyone at the airport because their car arrived for two people and there were suddenly four.
+For a bigger group where most people are arriving within a 3-4 hour window, one or two charter vans is the cleanest solution. You're not managing multiple rideshare accounts, not doing the per-person math on Uber surge pricing, and not stranding anyone at the airport because their car arrived for two people and there were suddenly four.
 
 **How charter vans work for airport pickups:**
 
@@ -97,7 +97,7 @@ Most charter companies in New Orleans offer airport pickups on a trip basis or o
 
 ## Rideshare Coordination: How to Run It at Scale
 
-Rideshare (Uber, Lyft) works well for groups if you're honest about the coordination it requires. For groups of 10-15 with staggered arrivals, rideshare is often the most practical approach. For groups of 25-30, coordinating rideshares for the whole group on arrival is a logistics job.
+Rideshare (Uber, Lyft) works well for groups if you're honest about the coordination it requires. For a smaller crew with staggered arrivals, rideshare is often the most practical approach. Once the group hits its full headcount, coordinating rideshares for everyone on arrival is a logistics job.
 
 **The basic model:**
 
@@ -222,17 +222,4 @@ For a well-run group arrival, here's the operational framework:
 
 Getting from the airport is half the equation. Where you're landing matters for everything that follows — neighborhood logistics, walkability, proximity to the activities you've planned.
 
-For groups of 10-30, private villa accommodations eliminate the hotel room coordination problem entirely. Everyone arrives at one address. Bags go to one place. The whole group is in the same building or complex from the moment they arrive. That simplicity is worth a lot after a day of staggered flights.
-
-**Castleday Retreats** — Three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each sleeps up to 30 guests. From MSY, the drive is about 30-40 minutes in normal traffic. The Bywater location means you're in one of the city's most genuinely interesting neighborhoods the moment you step outside — the French Quarter is a 10-minute rideshare, Frenchmen Street is a 5-minute walk. Private pools, full kitchens, art-filled interiors. For a group that wants to arrive and immediately feel like they're somewhere, not just somewhere to sleep, this is the move.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. From MSY, the drive is 30-40 minutes. The location puts you one block from the St. Charles Streetcar line — which means the rest of the city is accessible without coordinating vehicles from the property. Shared heated pool, hot tub, sauna, outdoor kitchen, and interiors designed by local artists. For groups attending downtown events, conventions at the Convention Center, or anything in the CBD, the Lower Garden District location is strategically excellent.
-
-Both properties are set up for the arrival experience: you get keys, you get a space that functions immediately, and you don't have to coordinate 20 people across a hotel floor.
-
----
-
-## Book Your Group Accommodation
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 30-40 minutes from MSY
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool and hot tub, streetcar access, 30-40 minutes from MSY
+Private big-house rentals eliminate the hotel room coordination problem entirely. Everyone arrives at one address, bags go to one place, and the whole group is under one roof from the moment they arrive — worth a lot after a day of staggered flights. The field spans a range of drive times and fits: **Castleday Retreats** (Bywater villas, private pool per villa, about 30-40 minutes from MSY) suits a group that wants total privacy the moment it arrives; **Heirloom** (large-format homes across the Lower Garden District and Central City) has the deepest inventory if you're booking on short notice; **The Mazant** (a single 1880s Bywater guesthouse with a heated pool and spa) fits one group of up to 18 who want a historic house rather than a hotel floor; and **The Syd** (Lower Garden District villas with a shared heated pool and hot tub, one block from the St. Charles streetcar) is the pick if the plan involves moving around the city without a car. Hotels booking a room block — The Roosevelt, Hotel Peter & Paul, and others — remain the right call for mixed budgets or a conference tie-in. For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
