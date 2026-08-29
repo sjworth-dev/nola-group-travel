@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Carriage Tour Guide for Large Groups"
-description: "Horse-drawn carriage tours in the French Quarter for large groups: private carriage bookings, what routes cover, how to use a carriage tour as an arrival-day orientation, and group logistics for 15-30 people."
+description: "Horse-drawn carriage tours in the French Quarter for large groups: private carriage bookings, what routes cover, how to use a carriage tour as an arrival-day orientation, and group logistics for the whole crew."
 category: "Activities & Day Trips"
 card_title: "Carriage Tours for Groups"
-card_description: "Private horse-drawn carriage tours in the French Quarter for groups of 15-30. What routes cover, booking logistics, and why it works as an arrival-day orientation activity."
-date: 2026-06-12
+card_description: "Private horse-drawn carriage tours in the French Quarter for a big group. What routes cover, booking logistics, and why it works as an arrival-day orientation activity."
+date: 2026-08-29
 ---
 
 Horse-drawn carriage tours in the French Quarter are one of the most reliably pleasant arrival-day activities for large groups in New Orleans. They're slow, visually rich, unapologetically touristy, and legitimately useful as a way to orient 20 people who've never been here before.
@@ -17,8 +17,8 @@ The practical challenge for large groups is that a single carriage holds 4-6 peo
 
 ## Quick Checklist
 
-- [ ] Book private carriage tours (your group, your carriages) rather than joining public tours — public tours seat 4-6 people and can't accommodate a group of 15+
-- [ ] For groups of 15-30, you'll need 3-6 carriages depending on carriage capacity — ask operators about their multi-carriage fleet capacity before booking
+- [ ] Book private carriage tours (your group, your carriages) rather than joining public tours — public tours seat 4-6 people and can't accommodate a big group
+- [ ] For a full-headcount group, you'll need 3-6 carriages depending on carriage capacity — ask operators about their multi-carriage fleet capacity before booking
 - [ ] Contact operators 2-4 weeks ahead for regular weekends; 6-8 weeks for Mardi Gras, Jazz Fest, and Essence Fest
 - [ ] Confirm whether all carriages in a multi-carriage booking depart simultaneously or in sequence
 - [ ] Decide on the timing: arrival-day orientation, evening tour, or morning second-day activity
@@ -185,15 +185,8 @@ The carriage tour covers less ground than a bike tour and delivers less historic
 
 ## Home Base for the French Quarter
 
-Groups taking carriage tours out of the French Quarter need a convenient base for before and after. Both the Bywater and the Lower Garden District are within a short Uber of the Quarter's Jackson Square departure points.
+Groups taking carriage tours out of the French Quarter need a convenient base for before and after. Both the [Bywater](/neighborhoods/bywater/) and the Lower Garden District are within a short Uber of the Quarter's Jackson Square departure points.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is a 10-15 minute Uber from Jackson Square, making Castleday a practical base for groups building arrival-day itineraries around the French Quarter carriage tour. The Herald, The Cocodrie, and The Florentine each have enough space for a full group to assemble and depart without the chaos of a hotel lobby coordination. Castleday villa hosts know the local carriage operators and can assist with multi-carriage booking logistics.
+The field spans both: **Castleday Retreats** (Bywater villas, private pool per villa, 14-30 guests each) is a 10-15 minute Uber from Jackson Square, with enough space for a full group to assemble and depart without the chaos of a hotel lobby. **The Syd** (Lower Garden District, up to 22 guests per villa) is one block from the St. Charles Streetcar, which connects to Canal Street and the French Quarter edge without requiring a multi-Uber operation for the whole group. **Heirloom**'s large-format homes across the Lower Garden District and Central City have the deepest inventory on short notice, and a hotel room block remains the right call for a mixed-budget group. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd is one block from the St. Charles Streetcar, which connects to Canal Street and the French Quarter edge without requiring a multi-Uber operation for 20 people. Groups at The Syd heading to an afternoon carriage tour can take the streetcar to Canal, walk three blocks to Jackson Square, and meet their carriages — a simple transit structure that keeps the group together from the start.
-
----
-
-## Book Your Carriage Tour
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, short Uber from Jackson Square carriage departures, villa hosts with local operator connections
-- The Syd — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar to the French Quarter
+[See where to stay for large groups →](/where-to-stay/)

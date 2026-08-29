@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Ghost Tour Guide for Large Groups"
-description: "Private ghost tour bookings vs. joining a public tour for groups of 15-30 in New Orleans. What's actually interesting, what's theatrical, and how to combine it with cemetery visits and cocktail history."
+description: "Private ghost tour bookings vs. joining a public tour for a big group in New Orleans. What's actually interesting, what's theatrical, and how to combine it with cemetery visits and cocktail history."
 category: "Activities & Day Trips"
 card_title: "Ghost Tours for Large Groups"
-card_description: "Private vs. public ghost tours for groups of 15-30. What's genuinely compelling, what's theatrical, and how to build the full haunted NOLA evening."
-date: 2026-06-12
+card_description: "Private vs. public ghost tours for a big group. What's genuinely compelling, what's theatrical, and how to build the full haunted NOLA evening."
+date: 2026-08-29
 ---
 
 New Orleans has a genuine claim to haunted. The city's history — colonialism, slavery, yellow fever epidemics, floods, fires, and two and a half centuries of dense urban layering — left real darkness in the physical landscape. The above-ground cemeteries, the Creole townhouses, the former hospital complexes, and the bayou edges all carry historical weight that most American cities don't have.
 
 What the city's ghost tour industry has done with that history is a different question. Some of it is rigorous and honest — genuinely interesting historical interpretation with ghost stories as the entry point. Some of it is theatrical to the point of parody — jump scares, fabricated legends, and performances calibrated for bachelor parties who want an excuse to be dramatic.
 
-As a group of 15-30, you have the power to choose your version. And the decision you make — public tour vs. private booking, theatrical vs. historical — shapes whether ghost tours are a highlight of your trip or an expense you regret.
+As a big group, you have the power to choose your version. And the decision you make — public tour vs. private booking, theatrical vs. historical — shapes whether ghost tours are a highlight of your trip or an expense you regret.
 
 ---
 
@@ -91,7 +91,7 @@ For groups wanting to include this cemetery in their experience:
 2. Confirm in writing that your tour includes internal access to the cemetery, not just an exterior stop
 3. Understand that group sizes inside the cemetery may be capped — some authorized operators run smaller groups through even if your overall tour group is larger
 
-Other cemeteries — Lafayette Cemetery No. 1 in the Garden District, St. Louis Cemetery No. 3 in Mid-City, and others — have more flexible access arrangements. Lafayette Cemetery in particular is within a residential neighborhood and can be visited more freely during daylight hours.
+Other cemeteries — Lafayette Cemetery No. 1 in the Garden District, St. Louis Cemetery No. 3 in Mid-City, and others — have more flexible access arrangements (the [dedicated cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) covers the full logistics for a standalone daytime visit). Lafayette Cemetery in particular is within a residential neighborhood and can be visited more freely during daylight hours.
 
 **Cemetery etiquette for large groups:** Above-ground tombs are active burial sites. Some are maintained by families. Photography is generally acceptable; touching tombs, climbing on structures, or leaving unauthorized offerings is not. For large groups, designate someone to manage the group's behavior in the cemetery before you enter.
 
@@ -133,7 +133,7 @@ The post-tour bar stop is important. Ghost tours create conversation energy that
 
 New Orleans has a cocktail history that parallels its ghost history — the Sazerac, the Vieux Carré, and the Ramos Gin Fizz all have documented origins in specific bars, most of them in historic buildings. Pairing a ghost tour with a cocktail history crawl creates a unified evening narrative: you're walking through New Orleans history at multiple layers simultaneously.
 
-See the cocktail history tour guide for the specific stops and structure. The ghost tour and cocktail history crawl pair naturally and share some of the same physical spaces.
+See the [cocktail history tour guide](/guides/nola-cocktail-history-tour/) for the specific stops and structure. The ghost tour and cocktail history crawl pair naturally and share some of the same physical spaces.
 
 ### The Cemetery + Brunch Structure (Morning Option)
 
@@ -181,15 +181,8 @@ This works especially well for groups with mixed interest levels — you get the
 
 ## The Accommodation Layer
 
-A private villa is a meaningful upgrade for ghost tour trip planning. The historical French Quarter neighborhoods the tours cover are within Uber distance of both the Bywater and Lower Garden District. Coming back to a private pool and villa after a late-night cemetery tour is different from returning to a hotel corridor.
+A private villa is a meaningful upgrade for ghost tour trip planning. The historical French Quarter neighborhoods the tours cover are within Uber distance of both the [Bywater](/neighborhoods/bywater/) and Lower Garden District. Coming back to a private pool and villa after a late-night cemetery tour is different from returning to a hotel corridor.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater sits just east of the Marigny, within easy Uber or rideshare access of the French Quarter ghost tour departure points. After a 10pm tour ends in the French Quarter or Tremé, the Bywater is a natural next step — Frenchmen Street is en route, or you continue straight back to The Herald, The Cocodrie, or The Florentine's private pool for the late-night debrief. Castleday villa hosts are a reliable resource for recommending specific reputable tour operators.
+The field spans both. **Castleday Retreats** (Bywater villas, private pool per villa, 14-30 guests each) sits just east of the Marigny, within easy Uber of the French Quarter ghost tour departure points — after a 10pm tour ends, Frenchmen Street is en route, or the group continues straight back to a private pool for the late-night debrief. **The Syd** (Lower Garden District, up to 22 guests per villa, shared heated pool and hot tub) is a short Uber from the French Quarter and Tremé tour circuits, with St. Charles Streetcar access that connects to the CBD without requiring rideshare logistics for a full group. **Heirloom**'s large-format homes across the Lower Garden District and Central City are the move on short notice, and a hotel room block works for a mixed-budget group. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's Lower Garden District location is a short Uber from the French Quarter and Tremé tour circuits. The St. Charles Streetcar access from The Syd connects to the CBD and upper French Quarter edges without requiring ride-share logistics for a full group. After a ghost tour ends, The Syd's shared hot tub and outdoor kitchen provide a natural late-evening wind-down space.
-
----
-
-## Book Your Haunted Evening
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, Frenchmen Street walkable, villa hosts who can recommend reputable tour operators
-- The Syd — Lower Garden District villas, up to 22 guests per villa, shared pool and hot tub, St. Charles Streetcar to French Quarter tour district
+[See where to stay for large groups →](/where-to-stay/)
