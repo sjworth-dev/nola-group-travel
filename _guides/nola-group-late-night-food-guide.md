@@ -1,15 +1,15 @@
 ---
 title: "New Orleans Late-Night Food Guide for Large Groups"
-description: "Where large groups eat after midnight in New Orleans: open-late kitchens, 24-hour spots, delivery strategy, and the 2am food run logistics for groups of 10-30."
+description: "Where the whole crew eats after midnight in New Orleans: open-late kitchens, 24-hour spots, delivery strategy, and the 2am food run logistics."
 category: "Food & Drink"
 card_title: "Late-Night Food Guide"
-card_description: "After-midnight food for groups of 10-30 in NOLA: 24-hour spots, open-late kitchens, delivery strategy, and the 2am run logistics."
-date: 2026-06-11
+card_description: "After-midnight food for a big group in NOLA: 24-hour spots, open-late kitchens, delivery strategy, and the 2am run logistics."
+date: 2026-08-30
 ---
 
 New Orleans doesn't close. The bars stay open past 4am. The music on Frenchmen Street runs until the last person leaves. And at some point around midnight, your group of 20 people will collectively realize that nobody has eaten in four hours and someone needs to make a decision.
 
-Late-night food logistics for large groups is a solvable problem, but only if you think about it before you're standing outside a closed restaurant at 1:30am arguing about what to do. New Orleans has genuine options — 24-hour spots, open-late kitchens, delivery that works even late, and the villa kitchen that most groups underuse. The key is knowing which option fits your situation.
+Late-night food logistics for a big group is a solvable problem, but only if you think about it before you're standing outside a closed restaurant at 1:30am arguing about what to do. New Orleans has genuine options — 24-hour spots, open-late kitchens, delivery that works even late, and the villa kitchen that most groups underuse. The key is knowing which option fits your situation. If this is one piece of a bigger trip you're still sequencing, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -61,7 +61,7 @@ Frenchmen Street itself is a live music corridor; the food is secondary. But the
 
 ### You're back at the villa
 
-This is actually the most practical late-night food situation for a group of 15-30. You're at home base. The kitchen is right there.
+This is actually the most practical late-night food situation once the trip goes double-digit. You're at home base. The kitchen is right there.
 
 **Options at the villa:**
 - **Stock the kitchen before going out.** A full villa kitchen that's stocked with eggs, bread, cold cuts, cheese, and snacks handles a group returning at 2am with minimal coordination. This is the move.
@@ -105,7 +105,7 @@ If your group is returning to the villa and ordering delivery, a few logistics m
 
 **Order before you arrive home.** Place the order when you're 20-30 minutes out so the delivery window overlaps with your arrival. Ordering after you're home adds the full delivery window to an already late night.
 
-**One person orders, one app.** Multiple people placing separate orders through different apps creates chaos. Designate one person to consolidate the order — they collect requests via group chat, place one order, and split the cost afterward through Venmo or the trip's shared payment setup.
+**One person orders, one app.** Multiple people placing separate orders through different apps creates chaos. Designate one person to consolidate the order — the same [single-coordinator logic](/guides/group-communication-guide/) that keeps the rest of the trip from dissolving into group texts — who collects requests via group chat, places one order, and splits the cost afterward through the [group's shared payment setup](/guides/budget-guide/).
 
 **Know the delivery address.** Some villas have quirky addresses or are inside gated properties. Confirm the delivery address and any access notes with the property host before going out.
 
@@ -117,9 +117,9 @@ If your group is returning to the villa and ordering delivery, a few logistics m
 
 Several private chefs in New Orleans take late bookings for groups — not at midnight, but a late dinner at 10-11pm after the group has been out for the first act of the evening is a format that works cleanly. The group returns to the villa around 10pm; the chef has been cooking since 9; dinner is served.
 
-This is a more expensive option than ordering pizza, but for the right occasion — a milestone birthday, a corporate group that wants an elevated experience, a bachelorette group that wants one truly special dinner — the format is excellent. You get a private chef, a kitchen that smells right, and dinner for 20 people without anyone having to choose a restaurant at midnight.
+This is a more expensive option than ordering pizza, but for the right occasion — a milestone birthday, a corporate group that wants an elevated experience, a bachelorette group that wants one truly special dinner — the format is excellent. You get a private chef, a kitchen that smells right, and dinner for the whole crew without anyone having to choose a restaurant at midnight.
 
-See the private chef guide for full logistics on booking.
+See the [private chef guide](/guides/private-chef-guide/) for full logistics on booking, or the [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) if you're still deciding which format fits your group.
 
 ---
 
@@ -169,15 +169,6 @@ The late-night food coordination problem is real. Here's the framework that prev
 
 ## Home Base Is the Answer
 
-Most late-night food solutions for large groups lead back to the villa. Having a good one makes this the easiest part of the trip.
+Most late-night food solutions for a big group lead back to the villa. Having one with a real kitchen makes this the easiest part of the trip. The fit depends on what the rest of the day looks like: **Heirloom**'s large-format homes across the Lower Garden District and Central City give a group choosing on short notice a full kitchen and enough counter space for a genuine 2am cooking session; **Castleday Retreats** puts a private pool per villa in the Bywater, close enough that groups winding down from Frenchmen Street pass right through it; **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, has a shared outdoor kitchen that turns late-night cooking into a group hang instead of a scrum around one stove; and a room block at a CBD hotel works for a crew that would rather order delivery to a lobby than manage a kitchen at all. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine). Each villa has a full kitchen equipped for cooking and entertaining at scale. The Bywater location also has a neighborhood infrastructure — a few late-night spots within walking range, and delivery that works late to the neighborhood. Groups returning from Frenchmen Street pass through Bywater naturally.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared outdoor kitchen makes late-night cooking a communal rather than chaotic event — there's space for the group to congregate, eat, and wind down outside rather than clustering in a single kitchen. The streetcar access makes delivery coordination easy (one person stays at the villa to receive orders; the rest wind down by the pool).
-
----
-
-## Plan Your Late Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, full kitchens, near Frenchmen Street, delivery-accessible location
-- The Syd — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen, shared pool, streetcar access to the whole city
+[See where to stay for large groups →](/where-to-stay/)
