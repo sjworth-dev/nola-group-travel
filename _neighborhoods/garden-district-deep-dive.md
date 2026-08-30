@@ -2,14 +2,14 @@
 title: "Garden District Deep Dive: The Group Travel Guide"
 description: "The extended Garden District guide for large groups—mansion walk by block, Lafayette Cemetery, Commander's Palace, Magazine Street section by section, and how to structure a full day here."
 category: "Neighborhoods"
-date: 2026-05-31
+date: 2026-08-30
 ---
 
-You've seen the Garden District on the neighborhood overview. This is the full version.
+You've seen the [Garden District neighborhood overview](/neighborhoods/garden-district/). This is the full version. If it's the Lower Garden District you're actually weighing as a home base, that's [its own guide](/neighborhoods/lower-garden-district/).
 
 The Garden District rewards groups that actually spend time here rather than doing a single drive-by. It's one of the most walkable sections of the city for a group, with a route that works for everyone from architecture nerds to people who just want a good lunch and a walk through the cemetery.
 
-This guide runs the neighborhood section by section, covers the mansion walk by block, and explains how groups of 15-30 can build a half-day or full day around it.
+This guide runs the neighborhood section by section, covers the mansion walk by block, and explains how a big group can build a half-day or full day around it.
 
 ---
 
@@ -85,7 +85,7 @@ For large groups (15+), guided tours work best with advance booking.
 
 **Time needed:** 30-45 minutes for a good walk-through. An hour with a guided tour.
 
-**Group logistics:** The cemetery is fairly large and not crowded in the morning. 15-30 people can move through comfortably.
+**Group logistics:** The cemetery is fairly large and not crowded in the morning. A big group can move through comfortably.
 
 ---
 
@@ -105,7 +105,7 @@ Turtle soup. Bread pudding soufflé. Whatever the specials are that day. This is
 
 **The Saturday or Sunday jazz brunch:**
 
-If your group trip includes a Saturday or Sunday morning, Commander's jazz brunch is one of the best things you can do with a group in this city. Live jazz, tableside preparation, multiple courses. Book this. Book it early.
+If your group trip includes a Saturday or Sunday morning, Commander's jazz brunch is one of the best things you can do with a group in this city. Live jazz, tableside preparation, multiple courses. Book this. Book it early — the [group jazz brunch guide](/guides/nola-group-jazz-brunch/) covers the format and other venues if Commander's doesn't have room.
 
 | Dining format | Notes |
 |--------------|-------|
@@ -208,20 +208,12 @@ A full Garden District day adds Uptown Magazine Street extension, Audubon Park, 
 
 ## Where to Stay: Central to Everything
 
-If you're running a Garden District day as part of a longer trip, where you stay affects how easy it is.
+If you're running a Garden District day as part of a longer trip, where you stay affects how easy it is. **The Syd**, one block from the streetcar in the Lower Garden District, is the closest base for a Garden District day — walking distance to the Magazine Street corridor and a short streetcar ride from Commander's, with a shared heated pool and hot tub. **Castleday Retreats** in the Bywater is a 15-20 minute Uber or a scenic streetcar ride from Canal Street — not a problem for a day trip, with a private pool per villa once you're back. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth comparing for a group booking on short notice, and a room block at a CBD hotel works for a crew that wants separate bills instead of a shared villa. For the largest selection, book 6+ months out.
 
-**The Syd** in the Lower Garden District is the closest base for a Garden District day. You're walking distance to the Magazine Street corridor and a short streetcar ride from Commander's. Multiple villas with shared heated pool, hot tub, outdoor kitchen—and Artist-designed interiors throughout. Up to 22 guests per villa.
-
-**Castleday Retreats** in the Bywater is a 15-20 minute Uber or a scenic streetcar-from-Canal-Street trip. Not a problem at all for a day trip to the Garden District. Three private villas up to 30 guests each, with private pools.
-
-Both give you the full-villa experience that works best for a group of 15-30.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
 ## One Final Thing
 
 The Garden District is a residential neighborhood. Mansions are private residences. Look, appreciate, photograph the architecture from the street — but don't walk up driveways, don't peer in windows, and don't treat it like a theme park. Be respectful. This is someone's home, and it's also a genuinely beautiful part of this city.
-
-**Book your NOLA base:**
-- The Syd — Lower Garden District, closest to the Garden District walk
-- Castleday Retreats — Bywater, 3 private villas up to 30 guests

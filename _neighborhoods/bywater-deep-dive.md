@@ -2,14 +2,14 @@
 title: "Bywater Deep Dive: The Local's Guide for Groups"
 description: "The extended Bywater neighborhood guide for groups: Bacchanal Wine, the levee walk, art scene by block, street-by-street breakdown, and a walking tour for first-timers."
 category: "Neighborhoods"
-date: 2026-05-30
+date: 2026-08-30
 ---
 
 Most visitors to New Orleans see the French Quarter. A smaller number make it to Frenchmen Street. A much smaller number—the ones who really get it—spend real time in the Bywater.
 
-That's exactly why the Bywater works for groups. It's a neighborhood full of actual New Orleanians doing their actual lives. The restaurants are excellent and uncrowded. The bars are real. The streets feel alive without feeling like a production.
+That's exactly why the Bywater works for groups. It's a neighborhood full of actual New Orleanians doing their actual lives. The restaurants are excellent and uncrowded. The bars are real. The streets feel alive without feeling like a production. For the shorter overview before this deep dive, see the [Bywater neighborhood guide](/neighborhoods/bywater/); for how it stacks up against the rest of the city's neighborhoods, the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) has the full breakdown.
 
-For large groups, there's an added dimension: the Bywater is home to Castleday Retreats, three private villas that sleep up to 30 guests each. Groups staying in Bywater aren't just visiting the neighborhood—they're living in it for a few days. This guide tells you everything you need to know to use it well.
+For large groups, there's an added dimension: the Bywater is home to Castleday Retreats' private villas, several of which sleep up to 30 guests. Groups staying in Bywater aren't just visiting the neighborhood—they're living in it for a few days. This guide tells you everything you need to know to use it well.
 
 ---
 
@@ -145,7 +145,7 @@ Return via Royal Street, walking toward the Marigny end. This section of Royal h
 **Stop 5 — Bacchanal Wine (30-45 min)**
 End at Bacchanal. Buy something from the wine shop, find space in the courtyard. If it's before noon, they serve coffee. If it's after noon, you know what you're doing. This is where the group decompresses and the tour organically ends.
 
-**Optional extension:** Continue up Royal into the Marigny, which bleeds into Frenchmen Street. This is a 10-minute walk and connects the Bywater tour to the music corridor.
+**Optional extension:** Continue up Royal into the Marigny, which bleeds into Frenchmen Street. This is a 10-minute walk and connects the Bywater tour to the music corridor — see the [Marigny neighborhood guide](/neighborhoods/marigny/) for what's on the other end.
 
 ---
 
@@ -169,7 +169,7 @@ The Bywater's restaurant scene punches above its weight. This is a neighborhood 
 - Most Bywater restaurants seat up to 20-25 with advance reservation
 - Call at least 2-3 weeks ahead for large party reservations
 - Many restaurants are small and intimate—walk-ins for 15+ rarely work
-- Several restaurants are within walking distance of Castleday's three villas
+- Several restaurants are within walking distance of the neighborhood's villa accommodations
 
 **General guidance:** The Bywater rewards restaurant research. Look up what's currently open and well-regarded in the neighborhood, because the scene evolves and specific spots open and close. The concentration of good food in a small geographic area means that most groups can walk to multiple options from a single base.
 
@@ -202,25 +202,17 @@ Groups who haven't been to New Orleans often default to French Quarter accommoda
 | Photo opportunities | Exceptional | Good but crowded |
 | Private pool options | Yes (Castleday) | Almost none |
 
-For large groups specifically, the choice is easy: the Bywater has what the French Quarter doesn't, and the French Quarter is close enough to visit whenever you want.
+For large groups specifically, the choice is easy: the Bywater has what the French Quarter doesn't, and the French Quarter is close enough to visit whenever you want. See the [French Quarter vs. Garden District comparison](/guides/nola-group-french-quarter-vs-garden-district-guide/) for how those two stack up if the Bywater doesn't end up being the pick.
 
 ---
 
 ## Large Group Accommodations in the Bywater
 
-For groups of 11-30, Castleday Retreats is the anchor of the Bywater's large-group accommodation scene.
+Once the trip goes double-digit, **Castleday Retreats** is the anchor of the Bywater's large-group accommodation scene — villas of 14 to 30 guests each, a private pool per villa, and full kitchens, all genuinely in the neighborhood rather than a rideshare away from it.
 
-Three private villas, each sleeping up to 30 guests:
+It's not the only option worth knowing about. **Heirloom**'s large-format homes reach into the Bywater and neighboring Marigny for a group comparing layouts on short notice. **The Lookout Inn**, also in the Bywater, fits a group right at the rental-size threshold without needing a full villa. And for a group that's landed on a base outside the neighborhood, **The Syd** in the Lower Garden District offers a comparable private-villa experience with a shared pool and hot tub, one block from the streetcar.
 
-**The Herald** — Largest common areas. Best for full-group gatherings, morning coffee setups, and any event where the group needs to be in one room.
-
-**The Cocodrie** — Best outdoor space. The pool and exterior setup here is the destination for pool days, late-night hangs, and outdoor dinners.
-
-**The Florentine** — Most elegant design. The art and interior details here are the most refined of the three. Good for groups who want the more polished aesthetic.
-
-All three: private pool, full kitchen, local art throughout, completely private.
-
-If you're staying in the Bywater with a smaller group (up to 22), The Syd in the Lower Garden District offers a similar private villa experience with shared outdoor amenities and excellent location—it's worth knowing about even if you're researching the Bywater specifically.
+For the largest selection, book 6+ months out.
 
 ---
 

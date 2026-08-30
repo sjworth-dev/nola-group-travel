@@ -2,7 +2,7 @@
 title: "Mid-City Deep Dive: Bayou St. John, City Park, and the Neighborhood That Locals Actually Live In"
 description: "An extended guide to Mid-City New Orleans for large groups: Bayou St. John, the Lafitte Greenway, City Park, and the restaurants and bars that tourists never find."
 category: "Neighborhoods"
-date: 2026-05-26
+date: 2026-08-30
 ---
 
 Mid-City is where New Orleans lives when it's not performing for tourists. No ghost tours on every corner. No Hurricane specials. Just one of the most livable urban neighborhoods in the South, built around a bayou, anchored by one of the most spectacular urban parks in the country, and increasingly home to some of the city's best eating and drinking.
@@ -213,17 +213,8 @@ From Lower Garden District (The Syd area): about 15 minutes by Uber.
 
 ## Where to Stay
 
-Mid-City is a destination for day visits — not the best base for a large group, since accommodations there don't have the capacity or amenities that make a large rental work. The neighborhoods that work best as home base give you easy access to Mid-City while keeping you close to the nightlife and dining density of other neighborhoods.
+Mid-City is a destination for day visits — not the best base for a large group, since accommodations there don't have the capacity or amenities that make a large rental work. The neighborhoods that work best as home base give you easy access to Mid-City while keeping you close to the nightlife and dining density of other neighborhoods. The Bywater puts you close to the Lafitte Greenway (the walking/biking corridor into Mid-City) and is where **Castleday Retreats**' private-pool villas sit; the Lower Garden District, where **The Syd**'s shared pool and outdoor kitchen are, connects to Mid-City directly via the Canal Street streetcar; **Heirloom**'s large-format homes are spread across both areas for a group comparing layouts on short notice; and a room block at a CBD hotel works for a crew that wants separate bills and easy rideshare access instead. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater puts you close to the Lafitte Greenway, which is your walking/biking corridor into Mid-City. From The Herald, The Cocodrie, or The Florentine, you can bike the Greenway to City Park in under an hour. The private pools are the recovery infrastructure you need after a full day of outdoor activity.
+Mid-City itself pairs naturally with the Tremé for a music and culture day, and with the Bywater for a bayou-connected neighborhood immersion — see the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) for how they stack up.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests. The Canal Street streetcar stops near the Syd's neighborhood and runs directly into Mid-City. For groups using public transit as part of the experience, this is a useful connection. The outdoor kitchen and shared pool make it easy to decompress after a day of walking City Park.
-
----
-
-## More NOLA Neighborhood Guides
-
-Mid-City pairs naturally with the Tremé for a music and culture day, and with the Bywater for a bayou-connected neighborhood immersion. If Mid-City is on your list, those two neighborhoods should be too.
-
-- Castleday Retreats — Bywater base camp, up to 30 per villa
-- The Syd — Lower Garden District, streetcar access, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
