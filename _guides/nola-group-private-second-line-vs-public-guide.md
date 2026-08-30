@@ -1,17 +1,17 @@
 ---
 title: "Private Second Line vs. Joining a Public Parade for Groups"
-description: "Private hired second line vs. joining a neighborhood Social Aid and Pleasure Club parade: what each experience actually feels like, how much each costs, how to book, what to expect from the band, and which option is right for a group of 10-30."
+description: "Private hired second line vs. joining a neighborhood Social Aid and Pleasure Club parade: what each experience actually feels like, how much each costs, how to book, what to expect from the band, and which option is right for your group."
 category: "Nightlife & Music"
 card_title: "Private vs. Public Second Line for Groups"
 card_description: "A private second line with a hired brass band is one of the great large-group experiences in New Orleans. So is joining a public parade as a respectful visitor. They're completely different experiences. Here's how to choose."
-date: 2026-06-29
+date: 2026-08-30
 ---
 
 The second line is one of the defining cultural experiences of New Orleans, and there are two distinct ways a visiting group can participate in it. The first is joining a public Social Aid and Pleasure Club parade as a spectator and street participant. The second is hiring a brass band for a private second line — your group, your route, your music.
 
 These are not variations on the same experience. They're fundamentally different in format, cost, cultural relationship, and what you walk away with.
 
-This guide covers both, honestly, so your group can make the right choice.
+This guide covers both, honestly, so your group can make the right choice. If a second line is one stop in a bigger itinerary you're still building, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full sequence, and the [general second line guide](/guides/second-line-guide/) covers the tradition itself in more depth than either format-specific breakdown below.
 
 ---
 
@@ -58,7 +58,7 @@ Nothing, for the second line participation itself. Vendors on the route sell foo
 
 ### The Logistics for a Group
 
-A group of 10-20 people can join a public second line without special arrangements. The crowd is large enough that your group is absorbed into it naturally. Some coordination is useful:
+A big group can join a public second line without special arrangements. The crowd is large enough that your group is absorbed into it naturally. Some coordination is useful — the same [Sunday second line logistics](/guides/nola-group-second-line-sunday-guide/) apply whether you're chasing one club's route or just showing up for one parade:
 
 - Arrive at the starting point before the parade begins; finding the crowd mid-route is harder
 - Keep the group together during the first 15-20 minutes, then let natural drift happen — some people will be closer to the band, some farther back
@@ -81,7 +81,7 @@ Joining a public second line as a visitor is welcome. Being a visitor who treats
 
 A private second line is a group hiring a brass band — typically a five-to-ten-piece band — to lead a second line procession for the group's exclusive experience. Your group is the parade. The band leads; you follow, dancing through streets or a specific route.
 
-Private second lines are used for bachelorette parties, bachelor parties, wedding receptions, birthday celebrations, corporate events, and any group occasion where "hire a brass band and parade through the streets" sounds like the right move.
+Private second lines are used for [bachelorette parties](/guides/bachelorette-party/), [bachelor parties](/guides/bachelor-party/), wedding receptions, birthday celebrations, corporate events, and any group occasion where "hire a brass band and parade through the streets" sounds like the right move.
 
 It often is.
 
@@ -109,7 +109,7 @@ General range: several hundred dollars for a smaller band for 45 minutes up to $
 
 ### How to Book
 
-The brass band vendor ecosystem in New Orleans is well-established. Most bands and booking agencies that handle private second lines can be found through:
+The brass band vendor ecosystem in New Orleans is well-established — see the [jazz and second line band booking guide](/guides/nola-jazz-second-line-bookings/) for vendor-specific detail. Most bands and booking agencies that handle private second lines can be found through:
 
 - Word of mouth from wedding and event planners who work the NOLA market
 - Direct inquiry to bands who have existing visibility on social media or via performance at public events
@@ -121,7 +121,7 @@ When you contact a vendor:
 3. Ask about the route and whether they handle permit logistics or you do
 4. Get a written quote and a clear cancellation policy
 
-Book 4-8 weeks out minimum. Weekend dates during Mardi Gras season (February-March) and festival season (April-May) book faster.
+Book 4-8 weeks out minimum. Weekend dates during [Mardi Gras season](/guides/mardi-gras-group-guide/) (February-March) and festival season (April-May) book faster.
 
 ### The Route
 
@@ -130,7 +130,7 @@ A private second line can be routed through a neighborhood if the vendor handles
 - A routed neighborhood second line is more authentic and more memorable; the public streets and occasional bystanders add energy
 - A private property second line is simpler to arrange and avoids permit questions; it works well for villa-based receptions or wedding events
 
-Popular route neighborhoods include the French Quarter, the Bywater, the Tremé, and the Lower Garden District. Most vendors have established relationships with permit processes and preferred routes.
+Popular route neighborhoods include the French Quarter, the [Bywater](/neighborhoods/bywater/), the [Tremé](/neighborhoods/treme/), and the [Lower Garden District](/neighborhoods/lower-garden-district/). Most vendors have established relationships with permit processes and preferred routes.
 
 ---
 
@@ -145,7 +145,7 @@ Popular route neighborhoods include the French Quarter, the Bywater, the Tremé,
 | Memorable for the group | Very high | High |
 | Authentic to the tradition | Adjacent — inspired by, not the same thing | Directly |
 | Scheduling flexibility | Book your date | Dependent on club schedule |
-| Best group size | 10-30 (the band performs to your group) | Any |
+| Best group size | Any size the band can be heard by (the band performs to your group) | Any |
 | Physical demand | Moderate (30-60 minutes walking/dancing) | Moderate (2-3 hours, longer route) |
 
 ---
@@ -177,7 +177,7 @@ If your group is in New Orleans for a long weekend and your dates allow it, expe
 
 1. **A private second line is not a substitute for the real thing — it's a different thing.** The Social Aid and Pleasure Club parade has a history and community meaning that a private hired event doesn't replicate. Be clear with your group about what you're doing and why.
 
-2. **Umbrellas are props, not optional.** Whatever format you're in, have umbrellas or handkerchiefs. The visual of a group second-lining without them looks wrong and feels wrong. For a private second line, they're usually provided. For a public parade, bring your own decorated umbrella or buy one at a vendor on the route.
+2. **Umbrellas are props, not optional.** Whatever format you're in, have umbrellas or handkerchiefs. The visual of a group second-lining without them looks wrong and feels wrong. For a private second line, they're usually provided. For a public parade, bring your own decorated umbrella or buy one at a vendor on the route — or [make your own as a pre-parade group activity](/guides/nola-group-second-line-umbrella-making-guide/).
 
 3. **The brass band sets the pace, not you.** In a private second line, you follow the band. Don't try to direct them, request changes mid-parade, or walk ahead of the music. Let the musicians lead; that's the whole structure.
 
