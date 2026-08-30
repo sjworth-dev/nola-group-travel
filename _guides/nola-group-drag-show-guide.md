@@ -3,15 +3,15 @@ title: "New Orleans Drag Shows for Large Groups: The Complete Guide"
 description: "Drag shows and queer performance venues for large groups in New Orleans: how to book private tables, what to expect, tipping culture, and how to structure a full evening around the performance."
 category: "Nightlife & Music"
 card_title: "Drag Shows for Large Groups"
-card_description: "Private table booking, tipping culture, what to expect, and how to structure a full NOLA evening around drag performance for groups of 10-30."
-date: 2026-06-13
+card_description: "Private table booking, tipping culture, what to expect, and how to structure a full NOLA evening around drag performance for the whole crew."
+date: 2026-08-30
 ---
 
 New Orleans has one of the most authentic drag cultures in the American South. This isn't a novelty act imported for tourist consumption — it's a scene that has existed here for decades, rooted in the same queer community that has made the French Quarter's gay bar corridor one of the most enduring in the country. The performers are local artists, many of them working across multiple venues and formats. The audiences are mixed — tourists, regulars, locals, bachelorette parties, birthday groups, first-timers, and longtime fans sitting at the same bar.
 
 For large groups, drag shows solve a specific trip-planning problem: they're high-energy, social, and entertaining without requiring everyone to have identical interests. A group of 20 with varying nightlife preferences — some want to dance, some want to drink, some want something to watch, some just want to be in a room where something interesting is happening — all find something in a good drag performance.
 
-The challenge at 15-30 people is logistics. You can't just walk into a small cabaret venue and seat a large group together on a Saturday night. The private table question, the tipping reality, how to pick the right type of performance for your group's energy — these decisions shape whether drag night is a genuine highlight or a chaotic evening of standing in doorways.
+The challenge at full headcount is logistics. You can't just walk into a small cabaret venue and seat a large group together on a Saturday night. The private table question, the tipping reality, how to pick the right type of performance for your group's energy — these decisions shape whether drag night is a genuine highlight or a chaotic evening of standing in doorways.
 
 ---
 
@@ -84,7 +84,7 @@ Call the venue directly. Email works for some venues, but a phone call gets you 
 
 ### Table Minimums: The Math
 
-Most venue private tables require a food and/or beverage minimum. For groups of 15-30, this minimum is often achievable without much effort — a group spending two to three hours at a drag venue will typically hit it naturally. But confirm the number and do the math before you commit.
+Most venue private tables require a food and/or beverage minimum. For a big group, this minimum is often achievable without much effort — a group spending two to three hours at a drag venue will typically hit it naturally. But confirm the number and do the math before you commit.
 
 The mistake groups make is booking without asking and then discovering at the end of the night that they owe $800 in food and beverage minimums that the group didn't know about. This is solvable with a 3-minute conversation before the booking.
 
@@ -100,7 +100,7 @@ Tipping performers at drag shows is not optional in the sense that it's cultural
 
 Cash is the format. Some venues have moved toward digital tips (QR codes linked to payment platforms), but cash is universal and immediate. Plan for cash before you arrive.
 
-Designate one or two people in the group to manage tipping on behalf of the table. Twenty people each individually trying to have singles ready and time their approach to a performer is chaos. Far better: one person collects $5-10 per head from the table at the start of the night and holds a tipping fund. That person manages the tips throughout the show. The rest of the group can participate whenever they want but isn't responsible for the coordination.
+Designate one or two people in the group to manage tipping on behalf of the table. Twenty people each individually trying to have singles ready and time their approach to a performer is chaos. Far better: one person collects $5-10 per head from the table at the start of the night and holds a tipping fund. That person manages the tips throughout the show — the same [single-coordinator logic](/guides/group-communication-guide/) that saves the rest of the trip from group-text chaos. The rest of the group can participate whenever they want but isn't responsible for the coordination.
 
 **How much?** We're not going to invent a specific number. What's honest: the $1 tip has become genuinely inadequate at NOLA's better venues. Performers are artists with preparation time, costuming costs, and a show to run. If your group has 20 people and is watching a 90-minute performance with four performers, doing the math on what's meaningful given the entertainment value you're receiving is the right framework.
 
@@ -110,7 +110,7 @@ Designate one or two people in the group to manage tipping on behalf of the tabl
 
 ## The Evening Structure Around Drag Night
 
-A drag show is a 90-120 minute anchor. Here's how to build an evening around it.
+A drag show is a 90-120 minute anchor. Here's how to build an evening around it — the [day drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) covers how to pace a full day into a night like this one.
 
 ### The Bachelorette / Birthday Group Structure
 
@@ -194,17 +194,6 @@ The corridor is walkable within the French Quarter. Groups can move between venu
 
 ## The Accommodation Layer for Queer Nightlife Trips
 
-Where you stay shapes the drag night experience. The French Quarter venues are the core destination, but the return trip and pre-show setup both factor in.
+Where you stay shapes the drag night experience. The French Quarter venues are the core destination, but the return trip and pre-show setup both factor in — a private base means getting ready, collecting the tipping fund, and doing a group portrait all happen in your own space before anyone changes into something different, and there's no front desk to navigate at 2am on the way back in. The field spans several fits. **Castleday Retreats** puts a group in the Bywater, just east of the Marigny and Frenchmen Street — a short rideshare from the drag corridor, with a private pool per villa for the wind-down after. **The Syd**, in the Lower Garden District, is one block from the St. Charles Streetcar, which runs directly toward Canal Street and the edge of the French Quarter, and its shared heated pool and hot tub are already there when the group gets back. **Heirloom**'s large-format homes across the Lower Garden District and Central City are the pick for a group comparing layouts on short notice, and **Hotel Perle**'s CBD/Warehouse group suites are worth a look for a crew that wants separate bills and walkability instead of a single house. For the largest selection, book 6+ months out. Working out where drag night fits against the rest of the trip? Start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/), and see the [bachelorette party guide](/guides/bachelorette-party/) for the full itinerary version if that's the occasion.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths per villa. The Bywater sits just east of the Marigny and Frenchmen Street — a short rideshare from the French Quarter drag corridor. For bachelorette groups and friend trips, the villa structure means pre-show prep happens in your own space: getting ready, collecting the tipping fund, doing a group portrait before anyone changes into something different. After a midnight drag show, the private pool at The Cocodrie or The Herald is a natural wind-down. Castleday has a 4.98 average rating across 99 reviews. For groups of 16-22, pitch the ~16-person organizer model: everyone gets a real bed, the villa costs less per person than blocking hotel rooms, and you have private space to start and end the night.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd is one block from the St. Charles Streetcar, which runs directly to Canal Street and the edge of the French Quarter — useful for getting to the drag corridor without competing for surge-priced rideshare on a Saturday night. The shared heated pool, hot tub, sauna, and outdoor kitchen at The Syd make the post-show return something to look forward to rather than just the end of the night. For LGBTQ+ groups and ally bachelorette parties, The Syd's artist-designed interiors and central location are a natural fit.
-
-Both properties are completely private — no shared hotel hallways, no front desk to navigate at 2am, no noise complaints from strangers. You come back from the drag show and the space is yours.
-
----
-
-## Book Your NOLA Drag Weekend Base
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, short rideshare to the French Quarter drag corridor, ideal for bachelorette and friend trip groups of 14-30
-- The Syd — Lower Garden District villas, up to 22 guests per villa, St. Charles Streetcar one block away, shared heated pool and hot tub, artist-designed interiors, ideal for LGBTQ+ groups and design-forward friend trips
+[See where to stay for large groups →](/where-to-stay/)
