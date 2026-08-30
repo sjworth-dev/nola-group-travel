@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Boat Trip & Booze Cruise Guide for Large Groups"
-description: "Mississippi River and Lake Pontchartrain boat trips for groups of 15-30: Steamboat Natchez, private pontoon charters, sunset cruises, and how to structure a full boat day in New Orleans."
+description: "Mississippi River and Lake Pontchartrain boat trips for the whole crew: Steamboat Natchez, private pontoon charters, sunset cruises, and how to structure a full boat day in New Orleans."
 category: "Activities & Day Trips"
 card_title: "Booze Cruises & Boat Trips"
-card_description: "From Steamboat Natchez dinner cruises to private pontoon charters — how to get your group of 15-30 on the water in New Orleans."
-date: 2026-06-11
+card_description: "From Steamboat Natchez dinner cruises to private pontoon charters — how to get the whole crew on the water in New Orleans."
+date: 2026-08-30
 ---
 
-New Orleans sits at a bend in the Mississippi River and is surrounded by water — the river, Lake Pontchartrain to the north, Lake Borgne to the east, and a maze of bayous and canals throughout. Getting your group out on the water is one of the most distinctly NOLA experiences available, and for groups of 15-30, the logistics are more manageable than most people assume.
+New Orleans sits at a bend in the Mississippi River and is surrounded by water — the river, Lake Pontchartrain to the north, Lake Borgne to the east, and a maze of bayous and canals throughout. Getting your group out on the water is one of the most distinctly NOLA experiences available, and at full headcount, the logistics are more manageable than most people assume.
 
 The range of options is wide. The Steamboat Natchez is a genuine 19th-century paddlewheel boat with dinner service and jazz. Private pontoon charters give you a relaxed floating platform for a few hours with your own group. Sunset cruises are a straightforward 90-minute experience with drinks included. Lake Pontchartrain fishing and speedboat charters exist for groups who want something more active.
 
-None of these require you to be a boat person. They require advance booking and a small amount of logistics management.
+None of these require you to be a boat person. They require advance booking and a small amount of logistics management. If the boat day is one piece of a bigger trip, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full sequence.
 
 ---
 
@@ -61,7 +61,7 @@ These work well as a warm-up act for an evening that continues on Frenchmen Stre
 
 ### Private Pontoon and Boat Charters — Mississippi River
 
-Several charter companies operate private vessels out of marinas accessible from the French Quarter and the Warehouse District area. A private pontoon or deck boat for 15-25 people gives you a two- to four-hour window on the river with your group and nobody else.
+Several charter companies operate private vessels out of marinas accessible from the French Quarter and the Warehouse District area. A private pontoon or deck boat for the whole crew gives you a two- to four-hour window on the river with your group and nobody else.
 
 **Why private almost always wins for large groups:**
 
@@ -92,13 +92,13 @@ Lake Pontchartrain sits on the northern edge of the city and offers a completely
 
 A half-day charter on Lake Pontchartrain works well for groups who want to combine water time with something active: fishing, tubing, or just cruising at speed. The Causeway Bridge — the longest bridge over water in the United States — is visible from the lake, which is its own kind of landmark.
 
-**Fishing charters** on Lake Pontchartrain for groups of 6-12 are covered in the group fishing guide. For non-fishing boat day purposes, look for motorboat and pontoon charters operating from the south shore marinas.
+**Fishing charters** on Lake Pontchartrain for a smaller crew are covered in the [group fishing guide](/guides/nola-group-fishing-guide/). For non-fishing boat day purposes, look for motorboat and pontoon charters operating from the south shore marinas.
 
 ### Bayou and Swamp Boat Experiences
 
 Technically not a "booze cruise" in the traditional sense, but worth mentioning here: several operators run flat-bottom airboat and pontoon experiences through the bayous south and west of the city. These cover different terrain from the river and lake — cypress trees, marshland, alligators, and wildlife rather than city skyline and bridges.
 
-If your group wants to see the Louisiana landscape from the water, the swamp tour is the right category. If your group wants a social, drinks-in-hand floating experience, the river and lake options above are more appropriate. See the dedicated swamp tour guide for logistics on the bayou side.
+If your group wants to see the Louisiana landscape from the water, the swamp tour is the right category. If your group wants a social, drinks-in-hand floating experience, the river and lake options above are more appropriate. See the [dedicated swamp tour guide](/guides/nola-swamp-tour-guide/) for logistics on the bayou side.
 
 ---
 
@@ -145,13 +145,13 @@ The coordination challenge for a boat trip is real. Vessels have hard departure 
 
 **Set a meeting time 30 minutes before departure.** Not the departure time — 30 minutes before it. People will be late. Build it in.
 
-**Designate a headcount person.** Before the boat leaves, one person confirms everyone is on board. This is not optional.
+**Designate a headcount person.** Before the boat leaves, one person confirms everyone is on board. This is not optional — the same [single-coordinator logic](/guides/group-communication-guide/) that keeps the rest of the trip from dissolving into group texts.
 
 **Communicate the boarding location clearly.** "At the river" is not sufficient. Specify the dock name, the street address, and a landmark. The Toulouse Street Wharf and various marina departure points are in different places. Share a pin in the group chat.
 
 **Have a phone-dead contingency.** Someone always has a dead phone. Designate a physical meeting spot that doesn't require a phone to find.
 
-**Handle payment before the day.** The worst time to deal with Venmo math is standing on a dock. Either collect the charter fee in advance through your group's payment platform or designate one person to pay and be repaid later.
+**Handle payment before the day.** The worst time to deal with Venmo math is standing on a dock. Either collect the charter fee in advance through your group's payment platform or designate one person to pay and be repaid later — the same up-front math covered in the [group budget guide](/guides/budget-guide/).
 
 ---
 
@@ -210,23 +210,12 @@ A boat trip is rarely the entire day — it's a 2-3 hour window in a larger stru
 
 6. **Combine with the Algiers Ferry.** If your group wants to get on the water without booking a charter, the Algiers Point ferry from the French Quarter riverfront is free and runs throughout the day. It's not a party boat, but it crosses the Mississippi and the return trip on a clear evening with the city skyline behind you is legitimately beautiful. Worth doing as a 45-minute add-on even if you have a separate charter booked.
 
-7. **Private charters for groups at the higher end (25-30 people) may require a larger vessel.** Not all charter boats hold 30 people comfortably. When booking for groups of 25+, ask specifically about the boat's capacity and whether it handles that group comfortably in terms of seating and deck space, not just legal maximum capacity.
+7. **A big crew at full headcount may require a larger vessel.** Not all charter boats hold a large group comfortably. When booking for the whole trip, ask specifically about the boat's capacity and whether it handles that group comfortably in terms of seating and deck space, not just legal maximum capacity.
 
 ---
 
-## The Villa Connection: Before and After the Water
+## Where to Stay Before and After the Water
 
-The best boat trips start and end at home base. A villa gives you a kitchen for pre-boat snacks and drinks assembly, a private outdoor space for the wind-down afterward, and the flexibility to organize a group of 20 without managing hotel logistics.
+The best boat trips start and end at home base. A villa gives you a kitchen for pre-boat snacks and drinks assembly, a private outdoor space for the wind-down afterward, and the flexibility to organize a big crew without managing hotel logistics. The field spans several fits depending on what the rest of the day needs. **Castleday Retreats** puts you in the Bywater, close to the river and a short Uber from the French Quarter riverfront departure points for both the Steamboat Natchez and private charters, with a private pool per villa for the recovery hang after. **The Syd**, in the Lower Garden District one block from the St. Charles Streetcar, has its own shared heated pool and hot tub already on site before you add a boat day to it. **Heirloom**'s large-format homes across the Lower Garden District and Central City are the pick for a group comparing layouts on short notice, and a room block at one of the CBD hotels works for a crew that wants separate bills and hotel service instead. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is close to the river and a short Uber from the French Quarter riverfront departure points for both the Steamboat Natchez and private charters. The Cocodrie's private pool and outdoor setup makes it a natural recovery and hangout space before or after a boat day. Castleday hosts can help with booking recommendations for local charter operators.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Syd's shared heated pool and outdoor kitchen are designed for exactly the kind of leisurely group day that a morning boat trip anchors. Post-cruise afternoons at The Syd's pool, with the outdoor kitchen available for a late lunch, are a structure that groups use repeatedly. One block from the St. Charles Streetcar, which connects easily to the riverfront.
-
-Both properties are 10-20 minutes from the major departure points by Uber, and both give you space to prepare (pre-trip drinks, snack assembly, sunscreen application for a group of 20) without the chaos of a hotel lobby.
-
----
-
-## Book Your Time on the Water
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, short Uber to riverfront charter departures
-- The Syd — Lower Garden District villas, up to 22 guests per villa, outdoor kitchen and shared pool, streetcar to the riverfront
+[See where to stay for large groups →](/where-to-stay/)
