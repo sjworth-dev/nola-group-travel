@@ -4,14 +4,14 @@ description: "The desert-pool-crawl-vs-live-music-city bachelorette debate, sett
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Scottsdale"
 card_description: "Pool cabanas or brass bands on the street? The honest comparison for group organizers weighing Scottsdale against New Orleans."
-date: 2026-07-30
+date: 2026-08-30
 ---
 
 Scottsdale shows up in almost every bachelorette-party group chat that also mentions New Orleans. It's the other reigning desert-Southwest answer to "where should we do this" — a pool-day-drinking, resort-and-golf-cart scene built specifically around groups who want a curated few days in the sun.
 
 The two cities aren't really competing on the same terrain. Scottsdale's entire trip revolves around daytime pool clubs and a produced resort infrastructure that knows exactly how to host a bachelorette party. New Orleans doesn't have a pool-club industry at all — its version of "the trip is the point" runs on live music, food, and a street culture that never really closes.
 
-Here's the honest version of the comparison: pool culture vs. live-music culture, lodging, food, and the heat question that decides more trips than either city's tourism board admits.
+Here's the honest version of the comparison: pool culture vs. live-music culture, lodging, food, and the heat question that decides more trips than either city's tourism board admits. Still working out the trip from scratch? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) sequences the decisions in order.
 
 ---
 
@@ -30,7 +30,7 @@ Here's the honest version of the comparison: pool culture vs. live-music culture
 
 Scottsdale's whole model is built around the day. Pool clubs at the big resorts open late morning, run bottle service and DJ sets on the deck, and the trip largely wraps by early evening once the group is sunburned and ready for dinner. It's a genuinely great format for a bachelorette group that wants to spend two straight days in a swimsuit with a drink in hand.
 
-New Orleans runs on the opposite clock. The city doesn't have a pool-club scene — group pool time here happens at your own rental, not at a public deck with bottle service. What New Orleans has instead is a night that starts at dinner and doesn't really end: live music on [Frenchmen Street](/guides/live-music-guide/), bars with no closing time, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) culture that spans both.
+New Orleans runs on the opposite clock. The city doesn't have a pool-club scene — group pool time here happens at your own rental, not at a public deck with bottle service. What New Orleans has instead is a night that starts at dinner and doesn't really end: live music on [Frenchmen Street](/guides/live-music-guide/), bars with no closing time, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) culture that spans both. The [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) covers how to pick venues once the group is actually here.
 
 **The real distinction:** Scottsdale sells you an all-day pool event you pay to access. New Orleans gives your group a private pool at the house during the day and a free, unstructured city at night. If your group wants the produced poolside spectacle, Scottsdale wins that specific format. If your group wants nights built around music instead of a DJ set, New Orleans wins.
 
@@ -84,7 +84,7 @@ For New Orleans specifically, check the actual calendar before assuming a "summe
 
 **Pick Scottsdale if:** your group wants a produced, daytime pool-club experience with bottle service and DJ sets, a modern Southwestern food scene, and doesn't mind driving or golf-carting between a resort and Old Town.
 
-**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a public pool deck, wants nights that run on the city's own clock instead of a resort's schedule, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/).
+**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a public pool deck, wants nights that run on the city's own clock instead of a resort's schedule, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/) or the [girls trip guide](/guides/nola-group-girls-trip-guide/) if the occasion isn't a bachelorette.
 
 ---
 
@@ -102,7 +102,7 @@ For New Orleans specifically, check the actual calendar before assuming a "summe
 
 6. **Ask what "the highlight of the day" means to your group.** If the answer is a cabana and a DJ set, that's a Scottsdale answer. If it's a brass band on the street at 11 PM, that's a New Orleans answer.
 
-7. **Don't underestimate transportation in Scottsdale.** Golf carts and rideshares between the resort corridor and Old Town add real time and cost that a walkable New Orleans neighborhood mostly avoids.
+7. **Don't underestimate transportation in Scottsdale.** Golf carts and rideshares between the resort corridor and Old Town add real time and cost that a walkable New Orleans neighborhood mostly avoids — see the [transportation guide](/guides/transportation-guide/) for what getting around New Orleans actually costs and takes.
 
 ---
 
