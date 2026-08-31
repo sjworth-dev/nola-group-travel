@@ -1,13 +1,13 @@
 ---
 title: "Bourbon Street Cocktail Tour for Large Groups"
-description: "Self-guided cocktail route on and around Bourbon Street for groups of 10-30: which bars are worth the tourist tax, which are pure theater, how to move 20 people through the Quarter efficiently, and the 3-stop structure that ends somewhere you actually want to be."
+description: "Self-guided cocktail route on and around Bourbon Street for the whole crew: which bars are worth the tourist tax, which are pure theater, how to move 20 people through the Quarter efficiently, and the 3-stop structure that ends somewhere you actually want to be."
 category: "Nightlife & Music"
 card_title: "Bourbon Street Cocktail Tour"
 card_description: "The honest Bourbon Street cocktail guide for large groups: which bars are worth it, which are theater, and the 3-stop structure that ends somewhere real."
-date: 2026-06-16
+date: 2026-08-31
 ---
 
-Bourbon Street exists. You're going to go. The question isn't whether to visit — it's how to do it without losing the group to overpriced hurricanes, questionable liquor, and a street so loud and dense that coordination becomes impossible.
+Bourbon Street exists. You're going to go. The question isn't whether to visit — it's how to do it without losing the group to overpriced hurricanes, questionable liquor, and a street so loud and dense that coordination becomes impossible. Still sequencing the rest of the trip? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 The answer is a structure. You don't meander Bourbon Street with 20 people. You pick 3 stops, you walk the strip as connective tissue, and you exit on your own terms to somewhere you actually want to be. Done that way, Bourbon Street is an experience worth having. Left unstructured, it's an expensive, exhausting waste of the first night's energy.
 
@@ -74,7 +74,7 @@ The walk between stops is the point, not dead time. Bourbon Street with 20 peopl
 
 The middle stop is where you spend more time and drink better. These are bars on or adjacent to Bourbon Street that have real cocktail programs or genuinely good bars behind the tourist surface.
 
-**The hotel bars adjacent to Bourbon:** Several French Quarter hotels have lobby bars and courtyard bars that are within a block of Bourbon Street but operate at a different quality level. These bars offer good cocktails, more seating, lower decibel levels, and the ability to actually hear the people you came with. Groups of 15-25 can often find seating in these courtyards, especially if you arrive between stops rather than at peak crowd moments.
+**The hotel bars adjacent to Bourbon:** Several French Quarter hotels have lobby bars and courtyard bars that are within a block of Bourbon Street but operate at a different quality level. These bars offer good cocktails, more seating, lower decibel levels, and the ability to actually hear the people you came with. A big group can often find seating in these courtyards, especially if you arrive between stops rather than at peak crowd moments.
 
 **Old Absinthe House** (240 Bourbon Street) — Worth a visit as a genuine historical bar. The space is real — the building dates to 1807, the bar top is original, the walls are covered in business cards. The absinthe drip service is a good group activity. Cocktails are better than average for Bourbon Street. Busy but navigable.
 
@@ -86,7 +86,7 @@ The middle stop is where you spend more time and drink better. These are bars on
 
 This is where you exit the Bourbon Street experience into something better. Options:
 
-**Frenchmen Street, Marigny** — Walk or rideshare from Lower Bourbon to Frenchmen Street. Takes 15 minutes on foot down Esplanade Avenue, through a genuinely pretty neighborhood. You arrive at the live music corridor that is to NOLA what Bourbon Street pretends to be: spontaneous, musician-driven, outdoors, free or minimal cover, and actually good. Multiple venues, the art market on weekend nights, and the feeling that you're in a real city rather than a theme park version of one.
+**Frenchmen Street, [Marigny](/neighborhoods/marigny/)** — Walk or rideshare from Lower Bourbon to Frenchmen Street. Takes 15 minutes on foot down Esplanade Avenue, through a genuinely pretty neighborhood. You arrive at the [live music](/guides/live-music-guide/) corridor that is to NOLA what Bourbon Street pretends to be: spontaneous, musician-driven, outdoors, free or minimal cover, and actually good. Multiple venues, the art market on weekend nights, and the feeling that you're in a real city rather than a theme park version of one.
 
 This is the move. End every Bourbon Street night on Frenchmen Street.
 
@@ -153,13 +153,6 @@ The smart move is to order something low-stakes at Bourbon Street's tourist bars
 
 ## Where Your Group Stays Matters for Bourbon Street Access
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday is in the Bywater, which makes Frenchmen Street your neighbor and makes Bourbon Street a deliberate 15-minute trip. That geography is correct — Frenchmen is the nightly home base and Bourbon Street is the excursion, rather than the reverse. Return from Bourbon Street, get cleaned up, head back out to Frenchmen. Castleday's private pools and outdoor spaces are also the right landing structure when you're back from the Quarter at 1am and the group wants to decompress. Castleday holds a 4.98 average across 99 reviews.
+Where you're based shapes how the night actually plays out. Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas make Frenchmen Street your neighbor and Bourbon Street a deliberate 15-minute trip — the right geography for a group that wants Bourbon as the excursion, not the default, with a private pool for the wind-down at 1am. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, puts the Quarter a streetcar ride away and keeps Uptown and the Garden District immediately accessible for when the group wants something quieter. Heirloom's large-format homes across the Lower Garden District and Central City give a group comparing locations on short notice the choice of either base. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the French Quarter and Bourbon Street are a streetcar ride or short rideshare. The Lower Garden District location means you're not walking distance to Bourbon Street — which is mostly an advantage. You choose your Quarter nights intentionally rather than drifting there by default, and you have the Uptown and Garden District neighborhoods immediately accessible for when you want something better.
-
----
-
-## Plan Your Bourbon Street Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, Frenchmen Street walkable, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and hot tub, St. Charles Streetcar one block away
+[See where to stay for large groups →](/where-to-stay/)

@@ -4,14 +4,14 @@ description: "The Steamboat Natchez jazz cruise for large groups: what the exper
 category: "Activities & Day Trips"
 card_title: "Steamboat Natchez Guide"
 card_description: "The Steamboat Natchez for large groups: what the two-hour jazz cruise actually delivers, group booking logistics, honest expectations, and how to build a full riverfront afternoon around it."
-date: 2026-06-17
+date: 2026-08-31
 ---
 
-The Steamboat Natchez is a real, operating, steam-powered sternwheeler that does two jazz cruises a day on the Mississippi River out of the French Quarter. It is not a replica and it is not a theme park attraction — it is a working vessel with a steam calliope, a live Dukes of Dixieland jazz band, and approximately 600 passengers on a good day.
+The Steamboat Natchez is a real, operating, steam-powered sternwheeler that does two jazz cruises a day on the Mississippi River out of the [French Quarter](/neighborhoods/french-quarter/). It is not a replica and it is not a theme park attraction — it is a working vessel with a steam calliope, a live Dukes of Dixieland jazz band, and approximately 600 passengers on a good day.
 
-That last number is the thing to understand before you book. This is a large commercial cruise operation, and the experience is best when you go in knowing exactly what it is: a two-hour narrated boat ride on the Mississippi River with live jazz in the main cabin, a full bar, and views of the river that you cannot get standing on the levee. For groups of 10-30, it is a good activity with some specific logistics to handle.
+That last number is the thing to understand before you book. This is a large commercial cruise operation, and the experience is best when you go in knowing exactly what it is: a two-hour narrated boat ride on the Mississippi River with live jazz in the main cabin, a full bar, and views of the river that you cannot get standing on the levee. For the whole crew, it is a good activity with some specific logistics to handle.
 
-Here's how to do it right.
+Here's how to do it right. If you're still sequencing the rest of the trip around it, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -70,7 +70,7 @@ Most group pricing kicks in at 15+ passengers. Call the box office directly or c
 
 ### Coordinating Arrival
 
-For a group of 20-30 people, the boarding process is the operational challenge. Everyone needs to arrive at the same dock at the same time with their tickets.
+At full headcount, the boarding process is the operational challenge. Everyone needs to arrive at the same dock at the same time with their tickets.
 
 **The solution:** Designate one person as the ticket holder and the assembly point. Set a meeting time 30 full minutes before departure. The French Quarter is the kind of neighborhood where 5 people will get distracted by a street musician, a bar with an open door, or a praline shop, and arrive late. Account for this.
 
@@ -193,13 +193,6 @@ Algiers Point itself has a walkable riverfront park, a levee path, and a small n
 
 ## Base Camp for a Riverfront Day
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, a riverfront afternoon works as a natural half-day outing — take a rideshare or the Rampart streetcar toward the Quarter, spend the afternoon on the river, and return to Bywater for the evening. The private pool at Castleday is the right decompression option after a hot afternoon on the water. Castleday holds a 4.98 average across 99 reviews.
+A riverfront afternoon works from either side of the city. From **Castleday Retreats**' [Bywater](/neighborhoods/bywater/) villas, it's a short rideshare or streetcar ride to the Quarter dock, with a private pool waiting for the return. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, has direct streetcar access toward the Canal Street riverfront terminal — a natural transit route for an afternoon that includes the ferry crossing. **Heirloom**'s large-format homes across the Lower Garden District and Central City are the pick for a group that wants the choice of layout on short notice, and a hotel room block in or near the Quarter suits a crew that wants to walk to the dock. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location gives direct streetcar access to the Canal Street riverfront terminal — a natural transit route for a riverfront afternoon that includes the ferry crossing.
-
----
-
-## Plan Your Riverfront Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+[See where to stay for large groups →](/where-to-stay/)

@@ -3,15 +3,15 @@ title: "New Orleans Burlesque and Cabaret Guide for Large Groups"
 description: "Burlesque and cabaret for large groups in New Orleans: the venues, private table or room bookings, tipping culture, show formats (classic vs. neo-burlesque), and building a full evening around a show."
 category: "Nightlife & Music"
 card_title: "Burlesque & Cabaret Guide"
-card_description: "The New Orleans burlesque scene for groups of 10-30: venue formats, private table bookings, tipping culture, classic vs. neo-burlesque, and building a full evening around a show."
-date: 2026-06-16
+card_description: "The New Orleans burlesque scene for the whole crew: venue formats, private table bookings, tipping culture, classic vs. neo-burlesque, and building a full evening around a show."
+date: 2026-08-31
 ---
 
 New Orleans has a long, continuous relationship with performance art that other American cities don't. The vaudeville and burlesque traditions that shaped the city's 20th-century entertainment culture never fully disappeared — they evolved, fractured, and re-emerged in a contemporary burlesque and cabaret scene that's genuinely vibrant and, on the right night, genuinely spectacular.
 
 This is not Vegas-style showgirl entertainment. NOLA burlesque draws on neo-burlesque traditions: performer-driven, often politically charged, deeply creative, and rooted in the individual performer's voice rather than a choreographed production format. The best shows combine original costumes, careful music selection, and precise physical performance in a way that feels closer to performance art than strip club entertainment.
 
-For large groups — bachelorettes, birthday weekends, corporate groups looking for something memorable, friend trips — a burlesque show is one of NOLA's strongest "you can't get this anywhere else" experiences. But getting 20 people into a small venue, understanding the etiquette, and building the right evening around it requires planning.
+For large groups — [bachelorettes](/guides/bachelorette-party/), birthday weekends, corporate groups looking for something memorable, friend trips — a burlesque show is one of NOLA's strongest "you can't get this anywhere else" experiences. But getting 20 people into a small venue, understanding the etiquette, and building the right evening around it requires planning.
 
 ---
 
@@ -57,7 +57,7 @@ Some NOLA venues program both on the same night. Some specialize in one or the o
 
 Some NOLA venues are specifically oriented around burlesque and variety performance. These spaces are designed for the format — intimate, with sightlines from most angles, tipping culture built into the audience relationship. Contact these venues directly for group booking: they're accustomed to coordinating large groups and often have VIP sections or reserved table arrangements.
 
-**For groups of 15-30:** Call ahead and describe your group. Dedicated burlesque venues can usually accommodate a party of 20 if you book in advance — but seating 20 people through the door at showtime expecting available space is not a viable strategy.
+**For a big group:** Call ahead and describe your group. Dedicated burlesque venues can usually accommodate a party of 20 if you book in advance — but seating 20 people through the door at showtime expecting available space is not a viable strategy.
 
 ### Bar Venues with Regular Burlesque Programming
 
@@ -117,14 +117,14 @@ Book dinner before the show, not after. The show absorbs the emotional and socia
 
 **The French Quarter before show timing:** If the venue is in or near the French Quarter, dinner on Decatur Street or the lower French Quarter works as a 90-minute pre-show anchor.
 
-**Bywater and Marigny venues:** Dinner at a Marigny or Bywater restaurant (Bacchanal, a neighborhood spot) positions the group well for shows in that corridor.
+**Bywater and Marigny venues:** Dinner at a [Marigny](/neighborhoods/marigny/) or [Bywater](/neighborhoods/bywater/) restaurant (Bacchanal, a neighborhood spot) positions the group well for shows in that corridor.
 
 ### After the Show
 
 The show ends, the group is energized and has a shared experience to process. This is the ideal transition moment to a late-night venue that sustains the energy rather than killing it.
 
 **Options that work:**
-- Frenchmen Street for live music — a natural continuation of the performance evening
+- [Frenchmen Street for live music](/guides/live-music-guide/) — a natural continuation of the performance evening
 - A bar with late-night energy in the French Quarter or Marigny
 - Return to the villa for the villa-as-capstone experience — music, drinks, the pool, the group in one space recapping what happened
 
@@ -173,13 +173,6 @@ The answer to most of these is yes, but you have to ask in advance. Showing up o
 
 ## Where to Stay for a Burlesque Night
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts you close to the Marigny and Frenchmen Street performance corridor — short rideshare to most burlesque venues, walkable from some. For bachelorette groups using burlesque as the night's anchor, the Castleday villa is the ideal pre-show staging ground (getting ready together, pre-game in the kitchen, the pool on return) and post-show landing spot. Castleday holds a 4.98 average across 99 reviews.
+Home base matters for a performance night that ends late. Castleday Retreats' Bywater villas put you close to the Marigny and Frenchmen Street performance corridor — a short rideshare to most burlesque venues, with a private pool for the pre-show staging and the post-show wind-down. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, has a shared outdoor kitchen and pool that work well as the evening's post-show landing spot. Heirloom's large-format homes across the Lower Garden District and Central City give a group comparing layouts on short notice a full kitchen for pre-gaming before curtain. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. The Syd's access to the St. Charles Streetcar and its central position make it efficient to reach burlesque venues across the city. The shared outdoor kitchen and pool become the evening's post-show destination — the right environment for a group returning from a high-energy performance night.
-
----
-
-## Plan Your Burlesque Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, perfect Marigny/Frenchmen access, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, outdoor kitchen, central location
+[See where to stay for large groups →](/where-to-stay/)
