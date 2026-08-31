@@ -4,14 +4,14 @@ description: "Above-ground cemeteries as a group activity in New Orleans: St. Lo
 category: "Activities & Day Trips"
 card_title: "Cemetery Tour Guide"
 card_description: "New Orleans's above-ground cemeteries for groups — St. Louis Cemetery entry requirements, Lafayette Cemetery logistics, guided vs. self-guided, photography tips, and the full half-day structure."
-date: 2026-06-15
+date: 2026-08-31
 ---
 
 New Orleans above-ground cemeteries are not a tourist gimmick. They exist because the city sits below sea level — historically, below-ground burials waterlogged and surfaced during floods. The above-ground tomb tradition developed as a practical engineering solution and evolved into one of the most architecturally distinctive burial cultures in the world.
 
 The resulting "cities of the dead" — dense, walled clusters of family tombs, mausoleums, and society vaults arranged in narrow stone corridors — are genuinely striking. For large groups, a cemetery visit is one of the more unusual half-day options in the city, combining history, architecture, and cultural context in a way that works for almost every group composition.
 
-The mistake is treating it as a quick walk-through. An hour is not enough. Structure the visit properly and it becomes one of the trip's more memorable experiences.
+The mistake is treating it as a quick walk-through. An hour is not enough. Structure the visit properly and it becomes one of the trip's more memorable experiences. If you're still working out where this fits in the trip, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -33,11 +33,11 @@ The mistake is treating it as a quick walk-through. An hour is not enough. Struc
 
 ### St. Louis Cemetery No. 1 (French Quarter)
 
-The oldest standing cemetery in New Orleans, established in the late 18th century. The most famous cemetery in the city, the most architecturally dense, and the most historically significant. This is where prominent Creole families, voodoo practitioners, civic leaders, and ordinary residents have been interred for over two centuries.
+The oldest standing cemetery in New Orleans, established in the late 18th century, on the edge of the [French Quarter](/neighborhoods/french-quarter/). The most famous cemetery in the city, the most architecturally dense, and the most historically significant. This is where prominent Creole families, voodoo practitioners, civic leaders, and ordinary residents have been interred for over two centuries.
 
 **The entry situation:** St. Louis No. 1 no longer allows independent entry. Visitors must join a licensed guided tour through the Archdiocese of New Orleans. This policy was put in place after years of vandalism — tombs were defaced and damaged by unsupervised visitors. The guided tour requirement is strictly enforced.
 
-**For large groups:** Contact the Archdiocese of New Orleans directly to book group tours. Tour groups are capped in size, so a party of 20-30 may need to book multiple tour slots or a private group tour. Book well in advance — popular dates fill up.
+**For large groups:** Contact the Archdiocese of New Orleans directly to book group tours. Tour groups are capped in size, so a big group may need to book multiple tour slots or a private group tour. Book well in advance — popular dates fill up.
 
 **What you see:** Dense rows of oven tombs (wall vaults), elaborate family mausoleums, the tomb commonly attributed to Marie Laveau. The space is compact and intimate — the cemetery feels like a labyrinth of stone corridors. The density is striking in a way photographs don't convey.
 
@@ -45,7 +45,7 @@ The oldest standing cemetery in New Orleans, established in the late 18th centur
 
 ### Lafayette Cemetery No. 4 (Garden District)
 
-Located in the Garden District near Washington Avenue, Lafayette Cemetery is a different experience from St. Louis No. 1. It's larger, more open, with significant tree cover — the live oaks create a canopy overhead that changes the atmosphere entirely. The cemetery is free, open to the public, and does not require a guided tour.
+Located in the [Garden District](/neighborhoods/garden-district/) near Washington Avenue, Lafayette Cemetery is a different experience from St. Louis No. 1. It's larger, more open, with significant tree cover — the live oaks create a canopy overhead that changes the atmosphere entirely. The cemetery is free, open to the public, and does not require a guided tour.
 
 **For large groups:** Lafayette is operationally simpler. You arrive, you enter, you explore. No reservation required. The larger footprint means your group of 20 isn't crowding into narrow corridors — there's room to spread out and self-organize.
 
@@ -159,13 +159,13 @@ The above-ground tomb tradition isn't just a visual curiosity. It tells you some
 
 3. **Don't rush.** The tendency with cemeteries is to move through quickly because there's an awkward energy about lingering. Resist it. The best experiences come from slowing down, examining specific tombs closely, reading inscriptions, and letting the atmosphere settle in.
 
-4. **Pair with a historically rich neighborhood context.** The French Quarter before St. Louis No. 1, the Garden District before Lafayette — visiting the neighborhoods that surround these cemeteries before entering them gives you cultural context that enriches the visit.
+4. **Pair with a historically rich neighborhood context.** The French Quarter before St. Louis No. 1, the Garden District before Lafayette — visiting the neighborhoods that surround these cemeteries before entering them gives you cultural context that enriches the visit. For groups who want more of the region's history in the same trip, the [plantation tour guide](/guides/nola-group-plantation-tour-guide/) covers the half-day option outside the city.
 
 5. **The overcast days are often the best photography days.** The contrast between white stone tombs and a dark overcast sky produces dramatically different light than a sunny day. If you have flexibility about which day to visit, watch the weather and go on the overcast day.
 
 6. **Allow for emotional variation in the group.** Some people find cemetery visits deeply affecting; others find them purely architectural. Both responses are valid. Don't pressure everyone toward the same emotional register. The contemplative people and the architecturally curious people can coexist without everyone performing the same reaction.
 
-7. **Lafayette Cemetery + Commander's Palace = one of NOLA's best cultural half-days.** Lafayette Cemetery and Commander's Palace (the historic Garden District restaurant) are directly across the street from each other. A cemetery visit followed by lunch at Commander's, or Commander's brunch followed by a cemetery walk, is an efficient and genuinely excellent half-day.
+7. **Lafayette Cemetery + Commander's Palace = one of NOLA's best cultural half-days.** Lafayette Cemetery and Commander's Palace (the historic Garden District restaurant — see the [restaurant guide](/guides/restaurant-guide/) for group reservation strategy) are directly across the street from each other. A cemetery visit followed by lunch at Commander's, or Commander's brunch followed by a cemetery walk, is an efficient and genuinely excellent half-day.
 
 ---
 
@@ -173,13 +173,6 @@ The above-ground tomb tradition isn't just a visual curiosity. It tells you some
 
 Cemetery visits pair well with a Garden District base or a Bywater base — both neighborhoods have walking distance to cultural context.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. From Castleday's Bywater location, St. Louis No. 1 is a short rideshare to the French Quarter, and Lafayette Cemetery is 15-20 minutes by streetcar or rideshare through the Garden District. The villa's intimate atmosphere — art-filled interiors, private pool — provides a different kind of contemplative environment to return to after the cemetery half-day. Castleday holds a 4.98 average across 99 reviews.
+**The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, puts Lafayette Cemetery within a 5-10 minute walk — about as close as major group accommodation gets to the Garden District cemetery corridor. From the Bywater, **Castleday Retreats** is a short rideshare to St. Louis No. 1 in the French Quarter. **Heirloom**'s large-format homes span the Lower Garden District and Central City for a group that wants the neighborhood without committing to one property, and a room block at a Garden District-adjacent hotel works for a crew that would rather split bills than share a kitchen. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, and outdoor kitchen. The Syd's Lower Garden District location puts Lafayette Cemetery within a 5-10 minute walk — the closest major group accommodation to the Garden District cemetery corridor. Walk out of The Syd, cross through the neighborhood, and you're at the cemetery gate.
-
----
-
-## Plan Your Cemetery Visit
-
-- Castleday Retreats — Bywater villas, up to 30 guests, art-filled interiors, private pools, easy access to both cemetery districts
-- The Syd — Lower Garden District villas, up to 22 guests, walking distance to Lafayette Cemetery, shared outdoor kitchen and heated pool
+[See where to stay for large groups →](/where-to-stay/)
