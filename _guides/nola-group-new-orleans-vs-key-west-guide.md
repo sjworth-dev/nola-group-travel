@@ -4,14 +4,14 @@ description: "Boat-and-day-drinking island culture vs. live-music city, lodging,
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Key West"
 card_description: "Sunset catamarans or brass bands on the street? The honest comparison for group organizers weighing Key West against New Orleans."
-date: 2026-07-30
+date: 2026-08-31
 ---
 
 Key West shows up constantly in the same bachelorette and girls-trip group chats as New Orleans, and for a genuinely different reason than Scottsdale or Vegas does. It isn't a resort-pool pitch — it's a boat-and-bar-crawl island where the whole trip revolves around water, sunset, and a few famous blocks of Duval Street.
 
 New Orleans doesn't have an island to sail around or a sunset to schedule a catamaran cruise for. What it has instead is a city built for walking between live music venues, a food culture centuries deep, and nights that run on their own clock rather than a boat departure time.
 
-Here's the honest version: island water culture vs. live-music city, lodging, food, and the hurricane-season risk both destinations genuinely share.
+Here's the honest version: island water culture vs. live-music city, lodging, food, and the hurricane-season risk both destinations genuinely share. Still working out what kind of trip this is at all? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two destinations genuinely diverge in a way that changes the w
 
 Key West's big-group lodging model runs on small historic guesthouses, condo blocks, and boutique resort rooms — the island's compact footprint and historic building stock mean very few properties are built to hold a large group under one roof. A big group in Key West is usually splitting several smaller units rather than sharing one house.
 
-New Orleans has a genuinely developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a boat or car to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a genuinely developed purpose-built large-group villa market, concentrated in neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a boat or car to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like Castleday Retreats (private-pool Bywater villas built for total privacy) or Heirloom (dozens of large-format homes across the Lower Garden District and Central City, with deep short-notice availability) represent the kind of purpose-built group housing New Orleans has developed at a scale Key West's guesthouse-and-condo market doesn't really match. Neither is a booking recommendation — they're representative of a category, and hotel room blocks (properties like Hotel Bennett or The Pontchartrain) are the answer for a mixed-budget group in either destination.
 
@@ -84,7 +84,7 @@ For New Orleans specifically, that risk window is separate from the pricing/dema
 
 **Pick Key West if:** your group wants a compact, boat-and-bar island trip built around sunset sails, snorkeling, and a walkable strip of bars, and doesn't need a large shared house to gather in at night.
 
-**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool and kitchen close to the entertainment core, wants nights that run on the city's own clock instead of a boat schedule, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/) or the [bachelor party guide](/guides/bachelor-party/).
+**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool and kitchen close to the entertainment core, wants nights that run on the city's own clock instead of a boat schedule, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/), the [bachelor party guide](/guides/bachelor-party/), or the [girls trip guide](/guides/nola-group-girls-trip-guide/).
 
 ---
 
