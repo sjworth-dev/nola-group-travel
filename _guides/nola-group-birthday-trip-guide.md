@@ -4,14 +4,14 @@ description: "Planning a large group trip to New Orleans for someone's birthday:
 category: "Weddings & Celebrations"
 card_title: "Group Birthday Trip"
 card_description: "Making one person feel celebrated in a group of 20 in New Orleans: the structure, the surprises, the dinner decision, and the private second line option."
-date: 2026-06-17
+date: 2026-08-31
 ---
 
-New Orleans does birthdays well. The city has the infrastructure for celebration built into it — brass bands, second lines, private courtyard dinners, a culture that treats any occasion as a reason to mark it with some ceremony. A group of 20 people coming to celebrate someone's birthday has more to work with here than almost anywhere else in the country.
+New Orleans does birthdays well. The city has the infrastructure for celebration built into it — brass bands, second lines, private courtyard dinners, a culture that treats any occasion as a reason to mark it with some ceremony. A group of 20 people coming to celebrate someone's birthday has more to work with here than almost anywhere else in the country. (If the birthday itself is the milestone — a 30th, 40th, 50th — see the [milestone birthday guide](/guides/milestone-birthday/) for the number-specific version of this.)
 
 The challenge is not finding things to do. The challenge is organizing 20 people around celebrating one person without it collapsing into a standard group trip where the birthday gets mentioned at dinner and then everyone goes to the same bar they'd have gone to anyway.
 
-This guide is about structure. How to make the honoree feel like this trip is actually for them. How to involve the group without coordinating a surprise from 20 people (impossible). And what NOLA-specific elements — the private second line, the villa birthday dinner, the birthday parade — can make this trip genuinely different.
+This guide is about structure. How to make the honoree feel like this trip is actually for them. How to involve the group without coordinating a surprise from 20 people (impossible). And what NOLA-specific elements — the [private second line](/guides/second-line-guide/), the villa birthday dinner, the birthday parade — can make this trip genuinely different. If you're still sequencing the birthday trip against everything else, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -21,7 +21,7 @@ This guide is about structure. How to make the honoree feel like this trip is ac
 - [ ] Have a direct conversation with the honoree about what kind of celebration they want: surprise elements vs. planned together, big dinner vs. casual gathering, going out vs. villa-based
 - [ ] Choose accommodation that creates a central gathering point — the birthday person should have a home base, not a hotel room
 - [ ] Build the itinerary around one anchor birthday moment (the dinner, the second line, the morning toast — pick one)
-- [ ] Book any private or buyout experiences 4-6 weeks out: private second lines, private dining rooms, chef dinners
+- [ ] Book any private or buyout experiences 4-6 weeks out: private second lines, private dining rooms, [chef dinners](/guides/private-chef-guide/)
 - [ ] Handle the cake logistics separately from the dinner — most groups forget this and scramble at the last minute
 - [ ] Designate who is handling the group gift, if there is one — not everyone needs to coordinate; one person takes it
 - [ ] Plan one morning or afternoon activity that is genuinely for the birthday person, not just the most popular group option
@@ -60,11 +60,11 @@ Pick one of these. Don't try to do all three.
 
 ### Anchor Option 1: The Villa Birthday Dinner
 
-A private dinner at the villa — villa kitchen or private chef — for 15-25 people, with the birthday dinner table set deliberately, the meal built around what the birthday person loves, and the evening structured around them.
+A private dinner at the villa — villa kitchen or private chef — for the whole crew, with the birthday dinner table set deliberately, the meal built around what the birthday person loves, and the evening structured around them.
 
 This is the move for birthdays that are more about connection than spectacle. The intimacy of a dinner at your own villa, with 20 people who showed up specifically for this person, is something a restaurant reservation can't replicate.
 
-See the villa dinner night guide for the full setup structure. For a birthday specifically, add: a dedicated table centerpiece for the honoree's seat, the cake arriving at the right moment (coordinated in advance, not improvised), and a group toast structure where 3-5 people have been asked to say something rather than an open-floor toast that produces awkward silence.
+See the [villa dinner night guide](/guides/nola-group-villa-dinner-night-guide/) for the full setup structure. For a birthday specifically, add: a dedicated table centerpiece for the honoree's seat, the cake arriving at the right moment (coordinated in advance, not improvised), and a group toast structure where 3-5 people have been asked to say something rather than an open-floor toast that produces awkward silence.
 
 ### Anchor Option 2: The Restaurant Buyout or Private Dining Room
 
@@ -80,7 +80,7 @@ A private dining room at a meaningful restaurant, where the whole group has the 
 
 This is the most New Orleans birthday experience available. A private second line — a brass band leading your group through the streets or through a neighborhood, with the birthday person at the front carrying an umbrella or a banner — is a genuine cultural tradition and a completely unique way to mark a birthday.
 
-**What it involves:** Hiring a brass band (typically 8-12 musicians), deciding on a route, deciding whether you want a permit or want to keep it on private streets and sidewalks, and outfitting the birthday person with a decorated umbrella and sash.
+**What it involves:** Hiring a brass band (typically 8-12 musicians), deciding on a route, deciding whether you want a permit or want to keep it on private streets and sidewalks, and outfitting the birthday person with a decorated umbrella and sash. See [booking a brass band for a second line](/guides/nola-jazz-second-line-bookings/) for the full booking process, and [private second line vs. public](/guides/nola-group-private-second-line-vs-public-guide/) if you're weighing the permit question.
 
 **Cost range:** Private brass bands for a second line typically start around $500-800 for an hour, depending on the band size and the day/time. Parade permits add cost and logistics if you're going on public streets.
 
@@ -197,15 +197,8 @@ The birthday cake that arrives perfectly is a small thing that lands outsized. T
 
 ## Large Group Accommodation for a Birthday Trip
 
-The birthday trip is one occasion where accommodation matters more than usual. The villa is not just a place to sleep — it's the backdrop for the cake, the morning toast, the late-night conversations, and the arrival moment when the birthday person walks in and sees 20 people waiting.
+The birthday trip is one occasion where accommodation matters more than usual. The villa is not just a place to sleep — it's the backdrop for the cake, the morning toast, the late-night conversations, and the arrival moment when the birthday person walks in and sees the group waiting.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. With 12 bedrooms, 17 real beds, and 8 baths per villa, Castleday is built for the sweet spot: groups of around 16-22 where everyone gets a real bed and the villa feels full without feeling crowded. The private pool at each villa, the full kitchen for a birthday dinner, and the complete privacy (no other guests) make Castleday the right home base for a birthday trip that happens at the villa as much as out in the city. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
+The field spans several fits. **Castleday Retreats** puts a group in Bywater villas with a private pool per house — full privacy for a birthday dinner that happens entirely at home base. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, has a shared heated pool and hot tub that doubles as the birthday-morning gathering spot. **Heirloom**'s large-format homes across the Lower Garden District and Central City give a group comparing layouts on short notice the choice to match the honoree's preference. **The Mazant**, an 1880s Bywater guesthouse that sleeps up to 18 with a heated pool and spa, is a fit for a birthday group that wants one historic house rather than a scattered footprint. For groups who'd rather book a hotel and split off for the birthday dinner, a room block gives everyone their own key and bill. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared heated pool, hot tub, sauna, and outdoor kitchen are the birthday villa courtyard at their best — a gathering space for the whole group that feels celebratory without requiring any setup. The outdoor kitchen is purpose-built for a birthday dinner. One block from the St. Charles Streetcar.
-
----
-
-## Plan the Birthday Trip
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, artist-designed interiors
+[See where to stay for large groups →](/where-to-stay/)
