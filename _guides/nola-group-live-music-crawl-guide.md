@@ -1,13 +1,13 @@
 ---
 title: "New Orleans Live Music Crawl Guide for Large Groups"
-description: "How to move a group of 10-30 through Frenchmen Street and NOLA's live music corridors: timing sets, paying cover vs. walking, keeping everyone together, and structuring the full night."
+description: "How to move the whole crew through Frenchmen Street and NOLA's live music corridors: timing sets, paying cover vs. walking, keeping everyone together, and structuring the full night."
 category: "Nightlife & Music"
 card_title: "Live Music Crawl Guide"
-card_description: "Move your group of 10-30 through Frenchmen Street and NOLA's live music venues: set timing, cover logistics, keeping everyone together, and the full evening structure."
-date: 2026-06-15
+card_description: "Move the whole crew through Frenchmen Street and NOLA's live music venues: set timing, cover logistics, keeping everyone together, and the full evening structure."
+date: 2026-09-01
 ---
 
-Frenchmen Street is the most concentrated live music corridor in North America. Within four blocks you can hear jazz, blues, funk, Latin, brass band, R&B, and experimental — all on the same night, often simultaneously spilling out the doors of competing venues. For a group of 10-30, this creates both an enormous opportunity and a logistical challenge.
+Frenchmen Street is the most concentrated live music corridor in North America. Within four blocks you can hear jazz, blues, funk, Latin, brass band, R&B, and experimental — all on the same night, often simultaneously spilling out the doors of competing venues. For the whole crew, this creates both an enormous opportunity and a logistical challenge. Still sequencing this against the rest of the trip? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 The opportunity: your group doesn't have to agree on one sound for the whole night. You move, you sample, you let the best set pull you in when you find it.
 
@@ -152,7 +152,7 @@ For groups doing their first NOLA music night: Frenchmen Street is the move. It'
 
 Frenchmen Street's best surprise is when a brass band appears — either as a venue act or as a second line that materializes on the street itself.
 
-If you hear a brass band outside, follow it. A second line that forms on Frenchmen on a weekend night is a spontaneous gathering that can pull 50-200 people into the street, with musicians playing while the group moves. Your group of 20 slides right in.
+If you hear a brass band outside, follow it. A [second line](/guides/second-line-guide/) that forms on Frenchmen on a weekend night is a spontaneous gathering that can pull 50-200 people into the street, with musicians playing while the group moves. Your group slides right in.
 
 This is one of the things that can't be planned and shouldn't be. The structure of the evening exists to make you available for this moment when it happens.
 
@@ -162,7 +162,7 @@ This is one of the things that can't be planned and shouldn't be. The structure 
 
 **Before:** Dinner is the natural lead-in. A restaurant in the Marigny, the French Quarter, or the Bywater — nearby, substantial, with a reservation. End dinner by 7:00-7:30pm and walk to Frenchmen from there.
 
-**After:** The crawl either continues to Bourbon Street (the reliable 2am+ option) or pivots to late-night food (Café Du Monde, a taco truck, Dat Dog near the Marigny). For groups based at a villa, the post-crawl return is when the villa pool deck or living room becomes the night's finale.
+**After:** The crawl either continues to [Bourbon Street](/guides/nola-bourbon-street-guide/) (the reliable 2am+ option) or pivots to late-night food (Café Du Monde, a taco truck, Dat Dog near the Marigny). For groups based at a villa, the post-crawl return is when the villa pool deck or living room becomes the night's finale.
 
 ---
 
@@ -186,17 +186,6 @@ This is one of the things that can't be planned and shouldn't be. The structure 
 
 ## Where to Stay for a Music Night
 
-The closer you are to Frenchmen Street, the better the music crawl experience. Walking home at midnight beats waiting for a rideshare at 1am.
+The closer you are to Frenchmen Street, the better the music crawl experience. Walking home at midnight beats waiting for a rideshare at 1am. **Castleday Retreats**' [Bywater](/neighborhoods/bywater/) villas put you within walking distance of Frenchmen Street, with a private pool deck for the post-crawl recap. **The Syd**, in the [Lower Garden District](/neighborhoods/lower-garden-district/), is a streetcar ride from Frenchmen — the St. Charles line to Canal Street, then a short walk into the Quarter and over to the Marigny — with a shared pool and hot tub for the return. **Heirloom**'s large-format homes across the Lower Garden District and Central City add flexible layouts for a crew that booked on short notice. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you within a 10-15 minute walk of Frenchmen Street — close enough to walk there, close enough to walk home. After the crawl, the villa pool deck is the natural landing spot: music on the speakers, drinks from the kitchen, everyone together recapping the night. Castleday holds a 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a rideshare or streetcar ride from Frenchmen — the St. Charles Streetcar to Canal Street, then a short walk into the Quarter and over to the Marigny. The Syd's post-crawl infrastructure — outdoor kitchen, pool, hot tub at night — is the right landing spot for a group returning from a long music night.
-
-Both properties are built for groups who want to own the space before and after the night out, not just pass through a hotel lobby.
-
----
-
-## Ready to Plan Your Music Night?
-
-- Castleday Retreats — Bywater villas, up to 30 guests, Frenchmen Street walkable, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool and outdoor kitchen, one block from St. Charles Streetcar
+[See where to stay for large groups →](/where-to-stay/)

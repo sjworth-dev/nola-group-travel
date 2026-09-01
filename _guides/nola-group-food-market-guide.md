@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Food Market Guide for Large Groups"
-description: "French Market, Crescent City Farmers Market, and St. Roch Market for large groups of 10-30 — the difference between tourist markets and working markets, what to buy vs. what to skip, and how to structure a morning around food discovery."
+description: "French Market, Crescent City Farmers Market, and St. Roch Market for the whole crew — the difference between tourist markets and working markets, what to buy vs. what to skip, and how to structure a morning around food discovery."
 category: "Food & Drink"
 card_title: "Food Market Guide"
 card_description: "The French Market, Crescent City Farmers Market, and St. Roch Market for large groups — what to buy, what to skip, and how to build a morning around NOLA food culture."
-date: 2026-06-15
+date: 2026-09-01
 ---
 
 New Orleans has three distinct market experiences for groups. They are not interchangeable, and which one you go to first says something about what you understand about the city.
 
 The French Market is one of the oldest public markets in the country. It's also heavily trafficked by tourists, which means it's a mixed experience — some genuine local vendors, some souvenir sprawl. The Crescent City Farmers Market is where locals actually shop. St. Roch Market is a food hall, not a traditional market at all, but one of the better food discovery experiences in the city for groups who want variety in a compact space.
 
-Know what each one is before you go. A morning built around markets can be one of the most genuinely New Orleans experiences on a group trip — or it can be a walk through a flea market buying hot sauce keychains. The difference is entirely in how you approach it.
+Know what each one is before you go. A morning built around markets can be one of the most genuinely New Orleans experiences on a group trip — or it can be a walk through a flea market buying hot sauce keychains. The difference is entirely in how you approach it. Still sequencing this against the rest of the trip? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -42,7 +42,7 @@ This is the real one. The Crescent City Farmers Market is a legitimate working f
 - Honey, hot sauces, jams, and specialty Louisiana products
 - Fresh Gulf seafood at certain times of year
 
-**For groups:** The Saturday morning market in the Warehouse District is the main event. It's well-organized, relatively compact, and functions well for groups of 15-20 who want to spread out, shop independently, and meet back for a coordinated breakfast or purchase.
+**For groups:** The Saturday morning market in the Warehouse District is the main event. It's well-organized, relatively compact, and functions well for a crew that wants to spread out, shop independently, and meet back for a coordinated breakfast or purchase.
 
 **The villa angle:** The Crescent City Farmers Market is a legitimate supply run for a villa stay. Buy produce for the week, pick up eggs and local proteins, grab fresh bread, and load up on the condiments and specialty items you can't get at a regular grocery store. Groups staying a full weekend or week should plan one market morning as a semi-functional shopping trip.
 
@@ -157,7 +157,7 @@ If your group is staying in a villa with a full kitchen — and Castleday Retrea
 - Buy produce, eggs, proteins, bread
 - Return to the villa and spend the afternoon with everything you need for a home-cooked dinner
 
-A villa crawfish boil or shrimp boil using Gulf shrimp bought from a market vendor is a completely different experience from eating out every night. It's also significantly cheaper per person once you split the cost of ingredients across the group.
+A villa crawfish boil or shrimp boil using Gulf shrimp bought from a market vendor is a completely different experience from eating out every night — see the [crawfish boil guide](/guides/nola-crawfish-boil-guide/) for sourcing and method. It's also significantly cheaper per person once you split the cost of ingredients against the [budget guide](/guides/budget-guide/)'s overall trip numbers.
 
 ---
 
@@ -181,15 +181,6 @@ A villa crawfish boil or shrimp boil using Gulf shrimp bought from a market vend
 
 ## Where to Stay for a Market Morning
 
-A villa with a real kitchen makes the market morning actually matter — what you buy gets cooked.
+A villa with a real kitchen makes the market morning actually matter — what you buy gets cooked. **Castleday Retreats**' [Bywater](/neighborhoods/bywater/) villas put you close to the farmers market in the Warehouse District, the French Market in the Quarter, and St. Roch Market in the same neighborhood corridor. **The Syd**, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared outdoor kitchen that's the natural destination for what you buy — shrimp boils, crawfish boils, and laid-back weekend cooking happen best around a proper outdoor setup. **Heirloom**'s large-format homes across the Lower Garden District and Central City add real counter space for a bigger haul. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater with full kitchens. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater location puts Castleday close to the farmers market in the Warehouse District (short rideshare), the French Market in the French Quarter (15 minutes), and St. Roch Market (blocks away in the same neighborhood corridor). Buy at the market, cook at the villa. Rated 4.98 across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District with full kitchens and a shared outdoor kitchen. Up to 22 guests per villa. The Syd's outdoor kitchen is the destination for what you buy at the market — shrimp boils, crawfish boils, and laid-back weekend cooking happen best around a proper outdoor setup.
-
----
-
-## Plan Your Market Morning
-
-- Castleday Retreats — Bywater villas, full kitchens, up to 30 guests, close to all three markets
-- The Syd — Lower Garden District villas, shared outdoor kitchen, up to 22 guests, one block to St. Charles Streetcar
+[See where to stay for large groups →](/where-to-stay/)

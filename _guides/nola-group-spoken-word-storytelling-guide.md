@@ -4,14 +4,14 @@ description: "Spoken word events, storytelling shows, and literary performance v
 category: "Activities & Day Trips"
 card_title: "Spoken Word & Storytelling"
 card_description: "Literary performance, spoken word, and storytelling events for groups in New Orleans — NOLA's literary culture, private event formats, and how to build an evening around a storytelling anchor."
-date: 2026-06-15
+date: 2026-09-01
 ---
 
 New Orleans has the most distinctive literary and storytelling culture of any American city. The combination of French and Creole oral tradition, a long history of music and performance that blurs the line between narrative and song, a bar culture where storytelling is social currency, and a literary legacy that runs through Tennessee Williams, Truman Capote, Anne Rice, and dozens of others — this is a city that takes the spoken word seriously.
 
 For large groups, this creates a category of evening activity that doesn't exist anywhere else: literary and storytelling performances that function as anchor activities, providing 60-90 minutes of shared experience around which the rest of the night builds. The format works because it doesn't require everyone to share the same taste in music. A compelling storyteller or spoken word performer plays to every demographic simultaneously.
 
-This guide covers how to find these events, how to structure the evening around them, and how to take the experience from passive attendance to active group engagement.
+This guide covers how to find these events, how to structure the evening around them, and how to take the experience from passive attendance to active group engagement. Still sequencing the rest of the trip? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -143,7 +143,7 @@ New Orleans has a network of literary and performance organizations that operate
 
 **Cultural organizations:** The New Orleans arts ecosystem includes organizations focused on oral history, Black literary tradition, and community storytelling. These organizations sometimes host public events or can connect you with performers for private events.
 
-**Comedy and improv venues:** The line between comedy storytelling and spoken word storytelling blurs in NOLA. Some of the best storytelling performers in the city work in comedy venues. The Howlin' Wolf, the AllWays Lounge, and similar venues host storytelling formats alongside comedy.
+**Comedy and improv venues:** The line between comedy storytelling and spoken word storytelling blurs in NOLA. Some of the best storytelling performers in the city work in [comedy](/guides/nola-group-comedy-show-guide/) venues. The Howlin' Wolf, the AllWays Lounge, and similar venues host storytelling formats alongside comedy.
 
 ---
 
@@ -187,7 +187,7 @@ These are real historical touchpoints worth knowing before a literary evening in
 
 5. **For private performances, set up the space correctly.** A performer in front of 20 people in a room where some are sitting at a table eating, some are standing in the kitchen, and some are on a couch half-watching is not a private performance — it's ambient entertainment. Make a real audience space. Chairs, clear sightlines, everyone facing the same direction.
 
-6. **Connect the performance to the city.** The best literary evenings in NOLA connect to something the group experienced or will experience. A story about Hurricane Katrina is more powerful after a day in the Tremé. A spoken word poem about the Mississippi is more resonant after a riverfront walk. If you can sequence activities to reinforce each other, do it.
+6. **Connect the performance to the city.** The best literary evenings in NOLA connect to something the group experienced or will experience. A story about Hurricane Katrina is more powerful after a day in the [Tremé](/neighborhoods/treme/). A spoken word poem about the Mississippi is more resonant after a riverfront walk. If you can sequence activities to reinforce each other, do it.
 
 7. **Don't schedule the storytelling event on the first night.** Groups need a night to arrive, orient, and loosen up before they're ready to sit in focused attention for 90 minutes. A storytelling evening works best on night 2 or 3 when the group has already built shared references and is ready for a quieter, reflective experience.
 
@@ -195,15 +195,6 @@ These are real historical touchpoints worth knowing before a literary evening in
 
 ## The Right Setting for a Literary Evening
 
-The villa is the natural home for a literary evening, whether as the base of operations for an evening out or as the venue for a private performance.
+The villa is the natural home for a literary evening, whether as the base of operations for an evening out or as the venue for a private performance. **Castleday Retreats**' [Bywater](/neighborhoods/bywater/) villas sit in NOLA's most literary neighborhood — the concentration of artists, writers, and performers is higher here than anywhere else in the city — with living spaces that can host a seated private performance and a pool deck for after. **The Syd**, one block from the St. Charles Streetcar in the [Lower Garden District](/neighborhoods/lower-garden-district/), puts the group a streetcar ride from the literary bar culture clustered in the French Quarter, with a shared courtyard that doubles as an outdoor performance space. **Heirloom**'s large-format homes across the Lower Garden District and Central City add flexible living-room layouts for a group booking on short notice. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is NOLA's most literary neighborhood — the concentration of artists, writers, and performers is higher here than anywhere else in the city. Several Castleday villas have living spaces that can accommodate a private performance for 20-30 people seated. The post-performance pool deck is one of the better literary evening endings the city offers. Castleday holds a 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's location is one block from the St. Charles Streetcar — which runs directly to the French Quarter and the literary bar culture clustered there. The Syd's shared courtyard also works as an outdoor performance space for private events on warm evenings.
-
----
-
-## Plan Your Literary Evening
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private performance space, pool deck for post-show conversation
-- The Syd — Lower Garden District villas, up to 22 guests, St. Charles Streetcar to literary bar culture, outdoor courtyard for events
+[See where to stay for large groups →](/where-to-stay/)
