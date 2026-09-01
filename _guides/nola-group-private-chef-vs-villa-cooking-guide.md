@@ -1,10 +1,10 @@
 ---
 title: "Private Chef vs. Cooking Yourselves at the Villa: The Full Decision Guide"
-description: "Decision matrix, cost comparison at different group sizes, what a private chef actually delivers versus what the marketing says, and which occasion warrants which option for NOLA groups of 10-30."
+description: "Decision matrix, cost comparison at different group sizes, what a private chef actually delivers versus what the marketing says, and which occasion warrants which option for a NOLA group trip."
 category: "Planning & Logistics"
 card_title: "Private Chef vs. Cook Yourselves"
 card_description: "Should you hire a private chef for your villa dinner or cook yourselves? The math and the experience are different at every group size. Here's how to decide."
-date: 2026-07-02
+date: 2026-09-01
 ---
 
 Every NOLA group villa trip hits the same moment: someone floats the private chef idea. It sounds elevated. It feels like a treat. It might also be completely unnecessary, or it might be exactly the right call depending on your group size, your budget, your occasion, and what you actually want the night to feel like.
@@ -13,7 +13,7 @@ Private chef bookings in NOLA have exploded over the last few years. The supply 
 
 Cooking for yourselves at a well-equipped villa kitchen is also not the default-lesser option. For the right group on the right night, a villa cook-yourself dinner — collaborative, loud, NOLA ingredients, someone making drinks while someone else manages the gumbo — is as good as it gets.
 
-This guide cuts through both narratives and gives you an honest decision framework: what a private chef actually delivers, what self-catering actually requires, the real cost comparison at different group sizes, and the occasions that call for each.
+This guide cuts through both narratives and gives you an honest decision framework: what a private chef actually delivers, what self-catering actually requires, the real cost comparison at different group sizes, and the occasions that call for each. See the [private chef guide](/guides/private-chef-guide/) for how to actually book one once you've decided. Still sequencing the rest of the trip? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) has the full order of operations.
 
 ---
 
@@ -106,7 +106,7 @@ The cost gap between private chef and self-catering is real but narrower than mo
 
 The general pattern: private chef becomes relatively better value as group size increases, because the fee splits across more people while your labor savings stay the same. Self-catering is most compelling at smaller group sizes where the kitchen workload is manageable and the per-head cost gap is largest.
 
-Don't make this decision based on a rough estimate — price out the actual grocery list before assuming self-catering is significantly cheaper.
+Don't make this decision based on a rough estimate — price out the actual grocery list before assuming self-catering is significantly cheaper, and weigh it against the rest of the trip's numbers in the [budget guide](/guides/budget-guide/).
 
 ---
 
@@ -145,7 +145,7 @@ What to steer away from: generic "elevated American" menus that don't use the lo
 
 There's a middle path most groups don't consider: hire a private chef for the main course and one or two sides, and self-cater the drinks and appetizer hour.
 
-The appetizer-and-drinks hour at a villa is genuinely easy to self-cater — cheese, charcuterie, local crackers and bread, a batch cocktail batch-mixed before anyone arrives. The main course is where the complexity and timing pressure are highest, and that's exactly what a private chef handles well.
+The appetizer-and-drinks hour at a villa is genuinely easy to self-cater — cheese, charcuterie, local crackers and bread, a [batch cocktail](/guides/nola-group-cocktail-party-hosting-guide/) mixed before anyone arrives. The main course is where the complexity and timing pressure are highest, and that's exactly what a private chef handles well.
 
 This hybrid approach also allows for a pre-dinner hour where the group is together in the kitchen and courtyard with drinks, with the dinner landing as the transition rather than being the whole event. It's a natural structure for a celebration night.
 
@@ -169,7 +169,7 @@ If you're going the private chef route, these are the questions to have answered
 
 1. **Private chef at 25+ people is usually the right call, full stop.** The complexity of cooking for that many people at a villa, maintaining timing across multiple dishes, and doing it at a quality that justifies the occasion — hire a professional. The per-person cost at that scale is almost always worth it.
 
-2. **If you're self-catering, one person owns the kitchen.** Not two people, not a rotating committee. One person is the executive chef for the evening. Everyone else is sous chef when asked. This is the single biggest factor in whether a villa cook-together works.
+2. **If you're self-catering, one person owns the kitchen.** Not two people, not a rotating committee. One person is the executive chef for the evening. Everyone else is sous chef when asked — the same [single-coordinator logic](/guides/group-communication-guide/) that keeps the rest of the trip from turning into a group-text free-for-all.
 
 3. **Source ingredients the day before, not the day of.** The day-of grocery run is a trip day time sink that rarely goes as fast as planned. Buy ingredients the evening before and you wake up ready to cook.
 
@@ -187,6 +187,6 @@ If you're going the private chef route, these are the questions to have answered
 
 A villa with serious kitchen infrastructure makes this whole decision more viable in both directions. The private chef option is more attractive when the kitchen can actually support a professional working at scale — good equipment, counter space, and a layout that allows service. The self-catering option is more viable when the kitchen is genuinely equipped for large-group output rather than just technically a "full kitchen."
 
-Properties like Castleday Retreats in the Bywater and The Syd in the Lower Garden District both have kitchens built for groups rather than apartments adapted for them. When you're comparing options, ask about the specific kitchen setup rather than accepting "full kitchen" as meaningful information.
+Properties like Castleday Retreats in the [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) both have kitchens built for groups rather than apartments adapted for them. When you're comparing options, ask about the specific kitchen setup rather than accepting "full kitchen" as meaningful information.
 
 [See where to stay for large groups →](/where-to-stay/)
