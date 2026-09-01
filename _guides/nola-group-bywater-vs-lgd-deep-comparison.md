@@ -1,17 +1,17 @@
 ---
 title: "Bywater vs. Lower Garden District for Large Groups: The Deep Comparison"
-description: "Head-to-head comparison of Bywater and Lower Garden District for groups of 10-30: villa inventory, neighborhood feel, walkability, noise, and which trip type belongs in which neighborhood."
+description: "Head-to-head comparison of Bywater and Lower Garden District for the whole crew: villa inventory, neighborhood feel, walkability, noise, and which trip type belongs in which neighborhood."
 category: "Planning & Logistics"
 card_title: "Bywater vs. LGD: Deep Group Comparison"
 card_description: "Both neighborhoods have the villa infrastructure to house a large group. The question is which one actually fits your trip. Here's the honest side-by-side — villa inventory, noise, morning character, nightlife access, and which group type wins where."
-date: 2026-06-30
+date: 2026-09-01
 ---
 
 Most group organizers narrow it to two neighborhoods before they even start seriously shopping: Bywater or Lower Garden District. Both have private villa inventory at the scale large groups require. Both are residential without being remote. Both feel like New Orleans rather than a theme park version of it.
 
 The mistake is treating them as interchangeable options that come down to price or availability. They're not interchangeable. They're two genuinely different trip bases that suit different group types, different itineraries, and different ideas of what NOLA is supposed to feel like.
 
-This guide is the deep comparison. Not the overview — for that, see the neighborhood comparison guide. This is the full breakdown specifically for groups making the Bywater-or-LGD call: villa inventory, walkability reality, noise at midnight, morning character, and the decision matrix that settles it.
+This guide is the deep comparison. Not the overview — for that, see the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/). This is the full breakdown specifically for groups making the Bywater-or-LGD call: villa inventory, walkability reality, noise at midnight, morning character, and the decision matrix that settles it. Still working out the rest of the trip? Start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/).
 
 ---
 
@@ -48,7 +48,7 @@ This guide is the deep comparison. Not the overview — for that, see the neighb
 
 ### The Neighborhood
 
-The Bywater is the city's most art-dense residential neighborhood. Shotgun houses and Creole cottages painted in deep greens and yellows. Murals on almost every block. Crescent Park running along the river. The kind of streets where you walk past a yard and wonder whether the sculpture garden is permanent installation or someone's private collection.
+The [Bywater](/neighborhoods/bywater/) is the city's most art-dense residential neighborhood. Shotgun houses and Creole cottages painted in deep greens and yellows. Murals on almost every block. Crescent Park running along the river. The kind of streets where you walk past a yard and wonder whether the sculpture garden is permanent installation or someone's private collection.
 
 It doesn't feel like a tourist neighborhood. It feels like a place people live — because it is. The bars are neighborhood bars. The coffee shops are neighborhood coffee shops. When your group walks out of the villa for a morning walk, you're moving through a working New Orleans neighborhood, not a zone maintained for visitors.
 
@@ -78,7 +78,7 @@ Quiet. The Bywater at 8am is as close to a proper neighborhood morning as you'll
 
 ### The Neighborhood
 
-The Lower Garden District is the residential block between the Warehouse District and the traditional Garden District. It's older-feeling than the Bywater — Greek Revival and Victorian-era architecture, enormous live oaks over the streets, a density of buildings that have been there since the 1840s.
+The [Lower Garden District](/neighborhoods/lower-garden-district/) is the residential block between the Warehouse District and the traditional Garden District. It's older-feeling than the Bywater — Greek Revival and Victorian-era architecture, enormous live oaks over the streets, a density of buildings that have been there since the 1840s.
 
 It's quiet in a way that surprises people. The neighborhood tone is residential rather than artsy. Families and long-term residents, not galleries and mural projects. That's not a criticism — it means your group is staying in a place that's actually used as a place to live, which keeps the streets calm and the early mornings peaceful.
 
@@ -110,10 +110,10 @@ Slower, greener, and more traditional than the Bywater. The LGD's morning street
 | Villa-centered trip (pool days, courtyard hours, cook-in nights) | **Either** | Both have strong outdoor infrastructure |
 | Uptown/Garden District/Magazine Street-focused itinerary | **LGD** | Walkable to Magazine corridor; streetcar access to Garden District |
 | Art and culture immersion | **Bywater** | Neighborhood character, murals, Crescent Park, St. Claude |
-| Corporate retreat or professional group | **LGD** | Quieter streets, easier CBD access, more refined neighborhood tone |
-| Bachelorette or birthday: party-forward | **Bywater** | Better villa courtyard infrastructure; proximity to Frenchmen corridor |
+| [Corporate retreat](/guides/corporate-team-building-guide/) or professional group | **LGD** | Quieter streets, easier CBD access, more refined neighborhood tone |
+| [Bachelorette](/guides/bachelorette-party/) or birthday: party-forward | **Bywater** | Better villa courtyard infrastructure; proximity to Frenchmen corridor |
 | Bachelorette: spa-and-brunch focused | **LGD** | Magazine Street corridor for shops and restaurants; streetcar flexibility |
-| Family reunion with mixed ages | **Either** | Depends on activity priorities; both have space |
+| [Family reunion](/guides/family-reunion/) with mixed ages | **Either** | Depends on activity priorities; both have space |
 | First-time NOLA group | **Bywater** | More distinctive NOLA neighborhood character; Crescent Park walkability |
 | Group that wants to feel close to everything | **LGD** | Slightly more central by geography; easier to multiple destinations by car |
 
@@ -161,9 +161,9 @@ Private walled pool in a Bywater villa versus a shared heated pool with a hot tu
 
 The Bywater and LGD comparison isn't abstract — it maps directly to the two most prominent dedicated large-group villa options in the city.
 
-Castleday Retreats in the Bywater represents the Bywater model at its most developed: three private villas, each with a private pool, walled courtyard, local art throughout, and 12 bedrooms and 17 real beds per villa. The pitch is privacy. One group, one property. No shared anything with strangers. You're in a Bywater neighborhood that looks and feels like New Orleans while having a completely self-contained villa experience.
+Castleday Retreats in the Bywater represents the Bywater model at its most developed: villas of 14-30 guests each, with a private pool per property. The pitch is privacy. One group, one property. No shared anything with strangers. You're in a Bywater neighborhood that looks and feels like New Orleans while having a completely self-contained villa experience.
 
-The Syd in the Lower Garden District is the LGD model: multiple villas with a shared heated pool, hot tub, sauna, and outdoor kitchen. Local artist-designed interiors. One block from the St. Charles Streetcar. The pitch is amenity density — more poolside infrastructure, more outdoor social space, and a central LGD address that walks to Magazine Street and streetcars to the Garden District.
+The Syd in the Lower Garden District is the LGD model: villas of up to 22 guests sharing a heated pool and hot tub, one block from the St. Charles Streetcar. The pitch is amenity density — more poolside infrastructure, more outdoor social space, and a central LGD address that walks to Magazine Street and streetcars to the Garden District.
 
 The choice between them reflects the broader Bywater-vs-LGD decision. Which version of the trip are you building?
 
