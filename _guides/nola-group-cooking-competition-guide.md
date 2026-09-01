@@ -1,13 +1,13 @@
 ---
 title: "Villa Cooking Competition Guide for Large Groups in New Orleans"
-description: "Villa cooking competition for groups of 15-30: team formats, NOLA-specific challenge themes (gumbo-off, po-boy throwdown, praline competition), judging structure, and a full evening built around the competition."
+description: "Villa cooking competition for the whole crew: team formats, NOLA-specific challenge themes (gumbo-off, po-boy throwdown, praline competition), judging structure, and a full evening built around the competition."
 category: "Activities & Day Trips"
 card_title: "Villa Cooking Competition"
-card_description: "How to run a full cooking competition at the villa for groups of 15-30: team formats, NOLA challenge themes (gumbo-off, po-boy throwdown, praline competition), judging logistics, and the full evening structure."
-date: 2026-06-16
+card_description: "How to run a full cooking competition at the villa for the whole crew: team formats, NOLA challenge themes (gumbo-off, po-boy throwdown, praline competition), judging logistics, and the full evening structure."
+date: 2026-09-01
 ---
 
-The best group activity for 20 people in a private villa is often the one that uses the villa itself. You have a full kitchen, a long table, a group that's already together, and two hours to fill before anyone wants to go out. A cooking competition — structured as an actual competition, with teams, a theme, a judging panel, and a prize — turns that time into one of the most memorable parts of the trip.
+The best group activity for a big crew in a private villa is often the one that uses the villa itself. You have a full kitchen, a long table, a group that's already together, and two hours to fill before anyone wants to go out. A cooking competition — structured as an actual competition, with teams, a theme, a judging panel, and a prize — turns that time into one of the most memorable parts of the trip. Still sequencing the rest of the trip? Start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/).
 
 This is not "everyone cooks dinner together." This is a competition with stakes, trash talk, a formal judging panel, and a winner. The distinction matters. Structure and stakes create engagement. Loose group cooking creates chaos and one person doing all the work.
 
@@ -89,7 +89,7 @@ Total: 50 points possible. Announce scores per category, then total. The reveal 
 
 ### The Po-Boy Throwdown
 
-**The challenge:** Each team creates an original po-boy. They can use the classic formats (roast beef debris, fried shrimp, fried oyster, hot sausage) or invent something new, but it has to work as a po-boy.
+**The challenge:** Each team creates an original po-boy. They can use the classic formats (roast beef debris, fried shrimp, fried oyster, hot sausage) or invent something new, but it has to work as a po-boy. If the group wants a taste-testing version rather than a cook-off, see the [po-boy crawl guide](/guides/nola-po-boy-crawl-guide/) instead.
 
 **Why it works:** Less technical than gumbo, more creative. The challenge is "what is a great po-boy" rather than "can you execute a specific technique." Teams with less cooking confidence can compete here.
 
@@ -119,7 +119,7 @@ Total: 50 points possible. Announce scores per category, then total. The reveal 
 
 ### The Jambalaya Duel
 
-**The challenge:** Creole jambalaya vs. Cajun jambalaya, or simply a best-jambalaya-of-the-night competition with multiple teams.
+**The challenge:** Creole jambalaya vs. Cajun jambalaya, or simply a best-jambalaya-of-the-night competition with multiple teams. For a lower-stakes group cooking format built around one big pot instead of a judged competition, see the [crawfish boil guide](/guides/nola-crawfish-boil-guide/).
 
 **Why it works:** Jambalaya is the classic one-pot NOLA dish and lends itself perfectly to large-group cooking — the final product feeds everyone. The Creole (with tomatoes) vs. Cajun (without tomatoes, rice cooked directly in the pot) distinction creates a natural team-differentiation structure.
 
@@ -184,7 +184,7 @@ The prize's actual value is secondary to its existence as a declared stake. The 
 
 2. **Pre-portion the dry ingredients.** If teams are all making gumbo, pre-measure out the flour, spices, and rice into separate bowls for each team before the competition starts. The competition should be about cooking, not about measuring powdered cayenne.
 
-3. **Designate a grocery shopper, not a committee.** One person buys everything on the list. Sending teams to buy their own ingredients creates unequal supply and takes hours.
+3. **Designate a grocery shopper, not a committee.** One person buys everything on the list. Sending teams to buy their own ingredients creates unequal supply and takes hours — the same single-point-of-contact principle covered in the [group communication guide](/guides/group-communication-guide/).
 
 4. **The judge theater matters.** Judges who deliver verdicts with gravity and commentary make the competition better. If your judges announce scores matter-of-factly, the competition loses energy. Brief the judges to play up the drama.
 
@@ -192,7 +192,7 @@ The prize's actual value is secondary to its existence as a declared stake. The 
 
 6. **Don't let the winner gloat before the final.** In multi-dish competitions, announce running scores after each course but withhold the final standings until the end. This keeps the competition alive rather than deflating it when the lead becomes insurmountable.
 
-7. **The cleanup detail should be clear in advance.** In the excitement of a competition, the kitchen can become genuinely chaotic. Decide before you start: losing teams clean, or everyone cleans, or you hire it done. An unresolved cleanup creates friction after the high of the competition.
+7. **The cleanup detail should be clear in advance.** In the excitement of a competition, the kitchen can become genuinely chaotic. Decide before you start: losing teams clean, or everyone cleans, or you hire it done. An unresolved cleanup creates friction after the high of the competition. If the competition is one part of a longer villa evening, the [villa game night guide](/guides/nola-group-villa-game-night-guide/) covers what to run next.
 
 ---
 
@@ -200,13 +200,6 @@ The prize's actual value is secondary to its existence as a declared stake. The 
 
 A cooking competition of this scope requires a real kitchen — full-size range, significant counter space, multiple burners, adequate prep area for 3-5 teams operating simultaneously. Not every group rental has this.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's full kitchen infrastructure and spacious indoor common areas make cooking competitions genuinely feasible for groups of 20-30. The kitchen is designed to support groups cooking real meals, not just reheating takeout. The private, enclosed nature of the villa means the competition energy stays contained — no other guests to disturb, no venue curfew to manage around. Castleday holds a 4.98 average across 99 reviews.
+The field has a few genuine fits. **Castleday Retreats** (Bywater villas, 14-30 guests each, private pool per villa) has the indoor common-area square footage for a full kitchen competition with the energy contained — no other guests to disturb, no venue curfew to manage around. **The Syd** (Lower Garden District, up to 22 guests, shared heated pool and hot tub) pairs its indoor kitchens with a shared outdoor kitchen, which extends jambalaya and grill-based competitions into the exterior space. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking for a group booking on short notice. Whichever fits, confirm the kitchen has real range and counter space for 3-5 teams before you commit. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with full kitchens and a shared outdoor kitchen, heated pool, hot tub, sauna, and local artist-designed interiors. The Syd's outdoor kitchen extends the cooking competition into the exterior space — jambalaya competitions, crawfish boil throwdowns, and grill-based competitions translate naturally to the outdoor kitchen format. The indoor/outdoor kitchen combination at The Syd is ideal for groups of 15-22 doing a cooking evening.
-
----
-
-## Ready to Cook?
-
-- Castleday Retreats — Bywater villas, up to 30 guests, full kitchens, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, indoor kitchen + outdoor kitchen, shared heated pool and hot tub
+[See where to stay for large groups →](/where-to-stay/)
