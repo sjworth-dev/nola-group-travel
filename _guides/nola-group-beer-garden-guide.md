@@ -4,7 +4,7 @@ description: "Beer gardens, outdoor bar courtyards, and open-air drinking spots 
 category: "Nightlife & Music"
 card_title: "Beer Gardens & Outdoor Bars"
 card_description: "Which NOLA outdoor drinking venues actually work for groups of 20+, how to book them, and when outdoor drinking is and isn't the move seasonally."
-date: 2026-06-14
+date: 2026-09-02
 ---
 
 New Orleans is a city that drinks outside. The walk-around cup culture, the open courtyards, the gas-lamp-lit corner bars with doors propped open to the street — this is a city designed for outdoor socializing. For large groups, finding the right outdoor venue is both easier and harder than it looks: easier because the options are abundant, harder because most spaces that look spacious online can only comfortably handle 20 people if you book ahead and understand the capacity reality.
@@ -52,7 +52,9 @@ A bar with an attached patio — often partially covered, often smaller than it 
 
 ### The Rooftop Bar
 
-A genuinely elevated option — see our [rooftop bar guide](/guides/nola-rooftop-bar-guide) for the full breakdown. Relevant here: most rooftop bars in NOLA seat 30-50 people total. A group of 20 is half the venue. Getting a reserved section is sometimes possible; walk-in availability for large groups on weekends is unlikely.
+A genuinely elevated option — see our [rooftop bar guide](/guides/nola-rooftop-bar-guide/) for the full breakdown. Relevant here: most rooftop bars in NOLA seat 30-50 people total. A group of 20 is half the venue. Getting a reserved section is sometimes possible; walk-in availability for large groups on weekends is unlikely.
+
+Still mapping the shape of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) sequences this decision alongside the rest of the itinerary.
 
 ---
 
@@ -60,7 +62,7 @@ A genuinely elevated option — see our [rooftop bar guide](/guides/nola-rooftop
 
 ### Frenchmen Street (Marigny)
 
-The best outdoor drinking scene for groups is concentrated on and around Frenchmen Street. The bars have outdoor seating, the street itself is a walk-around-cup corridor, and the density means your group can flow between venues without rideshare logistics.
+The best outdoor drinking scene for groups is concentrated on and around Frenchmen Street in [Marigny](/neighborhoods/marigny/). The bars have outdoor seating, the street itself is a walk-around-cup corridor, and the density means your group can flow between venues without rideshare logistics.
 
 The outdoor format here is less "beer garden" and more "everyone spills out onto the sidewalk from multiple venues." This works excellently for groups that don't need to anchor in one place — a bar crawl where the outdoor element is the sidewalk itself, cups in hand.
 
@@ -74,19 +76,19 @@ Several Magazine Street bars have outdoor seating — patios, second floors with
 
 ### The Warehouse District
 
-Newer beer-garden-adjacent venues and outdoor patios have opened in the Warehouse District as the neighborhood has developed. The larger footprints of warehouse-era buildings mean some venues have genuine outdoor square footage that doesn't exist in the French Quarter.
+Newer beer-garden-adjacent venues and outdoor patios have opened in the [Warehouse District](/neighborhoods/warehouse-district/) as the neighborhood has developed. The larger footprints of warehouse-era buildings mean some venues have genuine outdoor square footage that doesn't exist in the French Quarter.
 
 **Best for:** Groups staying in or near the CBD or Warehouse District; afternoon outdoor sessions before an event at the Superdome.
 
 ### Mid-City
 
-Mid-City has outdoor formats that don't exist elsewhere in the city — actual grass, actual open air, picnic-table-and-keg energy. If your group has a car or is willing to rideshare, Mid-City offers the best true beer garden experience in New Orleans. Less touristy, better prices, more genuine neighborhood feel.
+[Mid-City](/neighborhoods/mid-city/) has outdoor formats that don't exist elsewhere in the city — actual grass, actual open air, picnic-table-and-keg energy. If your group has a car or is willing to rideshare, Mid-City offers the best true beer garden experience in New Orleans. Less touristy, better prices, more genuine neighborhood feel.
 
 **Best for:** Groups who've done the French Quarter and want an authentic local outdoor session.
 
 ### Bywater
 
-The Bywater's bar scene is increasingly strong. Several spots have courtyard seating or outdoor areas with genuine group capacity. This neighborhood is also the home base for groups staying at Castleday Retreats — which means the outdoor bar and the home base are a short walk apart.
+The [Bywater's](/neighborhoods/bywater/) bar scene is increasingly strong. Several spots have courtyard seating or outdoor areas with genuine group capacity — handy for groups who've based themselves in the neighborhood.
 
 **Best for:** Groups based in the Bywater who want to stay in the neighborhood.
 
@@ -111,7 +113,7 @@ The honest truth about summer outdoor drinking in NOLA: it's possible, but it's 
 
 **Pitchers:** Not all outdoor venues serve pitchers. They're operationally convenient for groups — one trip to the bar serves multiple people, fewer transaction interruptions. Ask before you settle in.
 
-**Walk-around cups:** New Orleans's open container law applies to the street, not to patched-together outdoor seating. You can walk from a bar onto the street with your drink as long as it's in a plastic or paper cup (glass is illegal on the street). This is one of the most useful logistics details for group bar crawls — you don't need to finish your drink before leaving a venue.
+**Walk-around cups:** New Orleans's [open container law](/guides/nola-group-open-container-law-guide/) applies to the street, not to patched-together outdoor seating. You can walk from a bar onto the street with your drink as long as it's in a plastic or paper cup (glass is illegal on the street). This is one of the most useful logistics details for group bar crawls — you don't need to finish your drink before leaving a venue.
 
 **Canned beer self-service:** Some Mid-City and Bywater beer garden formats operate with coolers of canned beer on a self-serve or order-at-the-bar basis. This is operationally excellent for large groups — no waiting for individual drink service, no tab confusion.
 
@@ -137,7 +139,7 @@ The specific problem large groups face at outdoor bars: dispersion. Without wall
 
 **The anchor point:** Designate one table or area as the group's home base. Wherever the ice bucket, the group's stuff, and the most social people are is the anchor. Sub-groups drift out from here and return. Without an anchor, the group dissolves completely.
 
-**Round coordination:** For groups of 12+, individual drink orders become chaos. Designate one or two people as bar runners for each round. Collect orders, run to the bar, distribute. A tab on one card simplifies this further.
+**Round coordination:** For groups of 12+, individual drink orders become chaos. Designate one or two people as bar runners for each round. Collect orders, run to the bar, distribute. A tab on one card simplifies this further — see the [group communication guide](/guides/group-communication-guide/) for how to keep a crew this size organized without a group chat meltdown.
 
 **The standing problem:** Outdoor bars often have less seating than the capacity suggests. A group of 20 at a venue with 10 seats means half the group is standing. Standing is fine for the first hour and fatiguing by the third. Know your group's tolerance and have a seated dinner reservation in your back pocket.
 
@@ -163,15 +165,4 @@ The specific problem large groups face at outdoor bars: dispersion. Without wall
 
 ## The Villa as the Best Outdoor Bar in the City
 
-For groups that want outdoor drinking without venue logistics, the villa pool deck is the answer.
-
-**Castleday Retreats** — Three private villas in the Bywater, each with a private pool, outdoor seating areas, and a full kitchen stocked for outdoor entertaining. The Cocodrie in particular has outdoor spaces built for extended socializing — covered outdoor areas, pool deck seating, and complete privacy for a group of up to 30. No table minimum, no closing time, no minimum bar spend. Stock the cooler, set up the speakers, and you have a private beer garden available at any hour. Each Castleday villa has 12 bedrooms, 17 real beds, and 8 baths; the 4.98 average rating across 99 reviews speaks to what consistently works.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen, heated pool, hot tub, and sauna in the courtyard. The Syd's shared outdoor spaces are built for exactly this use: a group that wants outdoor socializing with its own infrastructure, designed by local New Orleans artists, with a streetcar stop one block away for when you want to venture out.
-
----
-
-## Plan Your Outdoor Session
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pool and outdoor areas, the city's best private outdoor setting for groups of 14-30
-- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and heated pool, one block from St. Charles Streetcar
+For groups that want outdoor drinking without venue logistics — no table minimum, no closing time, no crowd to fight for a seat — a villa pool deck or courtyard is worth weighing against a night out. Stock a cooler, set up speakers, and the whole crew has a private outdoor space on its own schedule. Big-group properties handle this differently: Castleday Retreats' Bywater villas each come with a private pool and outdoor seating; The Syd's Lower Garden District villas share a heated pool and hot tub a block from the streetcar; Heirloom's large-format homes add deep inventory and short-notice availability across several neighborhoods; and a hotel room block keeps things simple for a group that wants separate keys and separate bills. For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
