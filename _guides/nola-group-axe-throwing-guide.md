@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Axe Throwing & Competitive Activity Guide for Large Groups"
-description: "Axe throwing, rage rooms, and competitive physical activity venues for groups of 10-30 in New Orleans: booking logistics, tournament formats, and how to build an evening around it."
+description: "Axe throwing, rage rooms, and competitive physical activity venues for the whole crew in New Orleans: booking logistics, tournament formats, and how to build an evening around it."
 category: "Activities & Day Trips"
 card_title: "Axe Throwing & Competitive Activities"
-card_description: "Axe throwing, rage rooms, and competitive physical venues for groups of 10-30 — booking logistics, tournament formats, and the full evening structure."
-date: 2026-06-14
+card_description: "Axe throwing, rage rooms, and competitive physical venues for a big group — booking logistics, tournament formats, and the full evening structure."
+date: 2026-09-02
 ---
 
 Axe throwing has a real place on a large group trip to New Orleans. The format works: competitive without being physically demanding, easy to learn in five minutes, and structured enough that you have something to do while you drink.
 
 The NOLA axe throwing scene is real. Several venues operate in the metro area with lane formats that accommodate groups, beer service, and staff who set up tournaments for large parties. It's not a gimmick activity — it's one of the more reliable evening anchors for a mixed group where some people aren't interested in another night at a bar.
 
-The key is understanding the lane logistics and booking correctly. Walk in without a reservation for a group of 20 and you're waiting. Book ahead and request a tournament format, and you have a structured 2-3 hour activity that everyone can participate in.
+The key is understanding the lane logistics and booking correctly. Walk in without a reservation for a group of 20 and you're waiting. Book ahead and request a tournament format, and you have a structured 2-3 hour activity that everyone can participate in — the kind of thing worth slotting in early when you're [sequencing the whole trip](/guides/plan-a-group-trip/).
 
 ---
 
@@ -35,20 +35,20 @@ The key is understanding the lane logistics and booking correctly. Walk in witho
 
 A lane accommodates one or two throwers at a time. A coach (the venue's term) walks your group through technique, runs a short practice session, and manages the tournament format.
 
-For most groups:
-- 8-12 people fit in a 2-lane setup comfortably for a standard 90-minute session
-- 15-24 people need 3-4 lanes and a tournament bracket to keep everyone engaged
-- 25-30 people need a venue with enough lanes to run everyone simultaneously, or you rotate in structured rounds
+As a rough guide to lane math:
+- A smaller crew fits in a 2-lane setup comfortably for a standard 90-minute session
+- A mid-size group needs 3-4 lanes and a tournament bracket to keep everyone engaged
+- The whole crew at full headcount needs a venue with enough lanes to run everyone simultaneously, or you rotate in structured rounds
 
-The waiting-around problem is real at larger group sizes. A well-run tournament format solves it. A poorly organized session where half the group stands around waiting to throw solves nothing. Ask the venue how they structure groups of your size before you book.
+The waiting-around problem is real at larger group sizes. A well-run tournament format solves it. A poorly organized session where half the group stands around waiting to throw solves nothing. Ask the venue how they structure groups of your size before you book — and put one person in charge of lane scheduling so the question doesn't get re-litigated in the [group chat](/guides/group-communication-guide/) the morning of.
 
 ### Tournament Formats
 
 **Round Robin:** Every participant throws against every other participant across a set of rounds. Best for groups where everyone wants maximum individual throwing time and competition fairness. Runs long.
 
-**Single Elimination Bracket:** Tournament-style head-to-head matchups. Eight people compete, four advance, two to the final, one winner. Fast, dramatic, works well for groups of 10-16.
+**Single Elimination Bracket:** Tournament-style head-to-head matchups. Eight people compete, four advance, two to the final, one winner. Fast, dramatic, works well for a mid-size crew.
 
-**Team Competition:** The group splits into teams, each team's scores aggregate per round. Best for large groups of 20+ where individual round-robins would take too long. Teams compete, not individuals. This format also works naturally for corporate team-building contexts.
+**Team Competition:** The group splits into teams, each team's scores aggregate per round. Best when the trip goes double-digit and individual round-robins would take too long. Teams compete, not individuals. This format also works naturally for [corporate team-building](/guides/corporate-team-building-guide/) contexts.
 
 **The Bullseye Challenge:** Points for hitting the center target, with a "clutch bullseye" bonus that can flip the narrative of a round. Good for mixed-skill groups — beginners occasionally get lucky and hit the center, which creates shared moments regardless of experience level.
 
@@ -64,7 +64,7 @@ Rage rooms — smash rooms — sit in the same category as axe throwing: physica
 
 **For large groups:** Rage rooms don't scale the way axe throwing does. You're cycling a group of 20 through in small batches, and each session runs 10-15 minutes. This makes rage rooms a supporting attraction — a before-or-after add-on — rather than a 2-hour group anchor.
 
-**Best use case:** Book 2-3 rage room sessions at the start of an evening, then transition to a bar or restaurant. Good for bachelorette parties where the photo opportunity matters as much as the activity itself.
+**Best use case:** Book 2-3 rage room sessions at the start of an evening, then transition to a bar or restaurant. Good for [bachelorette parties](/guides/bachelorette-party/) where the photo opportunity matters as much as the activity itself.
 
 ---
 
@@ -79,7 +79,7 @@ Rage rooms — smash rooms — sit in the same category as axe throwing: physica
 | Mini-golf | Up to 6/hole | 60-90 min | Yes | Yes | Some venues |
 | Bowling | 4-6/lane | 90 min | Yes | Yes | Usually |
 
-For pure "everyone's engaged and competitive at the same time" performance with alcohol service, axe throwing is the strongest option in this category.
+For pure "everyone's engaged and competitive at the same time" performance with alcohol service, axe throwing is the strongest option in this category. If your group wants competition without a physical component, a [scavenger hunt](/guides/nola-group-scavenger-hunt-guide/) covers the same ground on foot around the Quarter.
 
 ---
 
@@ -125,7 +125,7 @@ For pure "everyone's engaged and competitive at the same time" performance with 
 
 ### Lead Time
 
-For weekend slots, book 1-2 weeks in advance for groups under 15. For groups of 15-30, book 2-3 weeks out and confirm your tournament format request in writing.
+For weekend slots, book 1-2 weeks in advance for a smaller group. Once the trip goes double-digit, book 2-3 weeks out and confirm your tournament format request in writing.
 
 Festival weekends — Mardi Gras, Jazz Fest, Essence Fest — book 6+ weeks ahead. Venues fill and walk-in groups get turned away.
 
@@ -166,7 +166,7 @@ People who "don't do physical activities" often find axe throwing the exception 
 
 5. **Split competitive people across teams, not onto the same team.** If you're doing a team format and your group has three or four very competitive people, split them across teams. Put them against each other, not together. Teams stacked with competitive players run away with the tournament and make it less fun for everyone else.
 
-6. **Build a small cash prize pool.** Collect $5-10 per person before the activity and award it to the tournament winner. This costs almost nothing per person but changes the energy of every single throw. People play harder when there's a tangible — if small — stake.
+6. **Build a small cash prize pool.** Collect $5-10 per person before the activity and award it to the tournament winner. This costs almost nothing per person — worth accounting for in the [group budget](/guides/budget-guide/) alongside the lane fee — but changes the energy of every single throw. People play harder when there's a tangible — if small — stake.
 
 7. **Confirm the lane safety zones before the tournament starts.** Some venues run lanes in a configuration where spectators can stand adjacent to the throwing area; others require clear zones during throws. Know which configuration you're in before the tournament so the group knows where to be when they're not throwing.
 
@@ -174,15 +174,4 @@ People who "don't do physical activities" often find axe throwing the exception 
 
 ## The Accommodation Layer
 
-After an active 2-hour axe throwing session, where you return to matters.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests (The Herald, The Cocodrie, The Florentine) with 12 bedrooms, 17 real beds, and 8 baths. Private pools at each villa are the natural post-competition recovery space. For groups doing an afternoon axe throwing session, returning to a Castleday villa for pool time and villa drinks before dinner is the move. Castleday has a 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors, shared heated pool, hot tub, and sauna. After an evening axe throwing session, the hot tub and sauna combination at The Syd is the natural wind-down. The St. Charles Streetcar one block away gives groups an easy return without rideshare logistics for 20 people.
-
----
-
-## Book the Competition Base
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, private pools, short drive to NOLA axe throwing venues
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and hot tub, St. Charles Streetcar access
+After an active session, where you return to matters. [Castleday Retreats](/neighborhoods/bywater/) runs private villas in the Bywater with a pool at each one — the natural recovery spot for a group that did an afternoon session and wants pool time before dinner. [The Syd](/neighborhoods/lower-garden-district/) has villas up to 22 guests around a shared heated pool and hot tub in the Lower Garden District, a block from the St. Charles Streetcar, which solves the getting-everyone-home problem after an evening session. Heirloom's large-format homes across LGD and Central City add short-notice availability if you're booking close to the date, and a hotel room block (with private-room dinner reservations nearby) works fine for groups that would rather split the bill and keep separate keys. For the full rundown of what fits which group, see [where to stay for large groups](/where-to-stay/) — and for the largest selection, book 6+ months out.
