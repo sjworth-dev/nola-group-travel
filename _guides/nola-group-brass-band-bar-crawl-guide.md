@@ -1,17 +1,17 @@
 ---
 title: "Second Line Bar Crawl with a Hired Brass Band for Large Groups"
-description: "Private second line bar crawl with a hired brass band for groups of 15-30: what a private second line costs, permit requirements, route structure, and how to turn a bar crawl into a moving street party."
+description: "Private second line bar crawl with a hired brass band for the whole crew: what a private second line costs, permit requirements, route structure, and how to turn a bar crawl into a moving street party."
 category: "Nightlife & Music"
 card_title: "Brass Band Bar Crawl Guide"
-card_description: "How to hire a brass band and run a second line bar crawl for groups of 15-30: costs, permits, route structure, and turning a bar crawl into a moving street party."
-date: 2026-06-16
+card_description: "How to hire a brass band and run a second line bar crawl for a big group: costs, permits, route structure, and turning a bar crawl into a moving street party."
+date: 2026-09-02
 ---
 
 A bar crawl with a hired brass band walking with your group is one of the more distinctly New Orleans experiences you can design. Instead of twenty people shuffling between venues trying to decide where to go next, you have a band leading from the front, playing as you walk, and the street itself becomes part of the entertainment. People watch from stoops and sidewalks. Strangers join in for a block. The energy compounds.
 
-This is a private second line — not a Social Aid and Pleasure Club second line, which is a cultural institution with deep community roots and its own structure. What you're hiring is a brass band to lead your group through a planned bar crawl route, creating the second line format (band leads, group follows) for a private group experience. Understanding the distinction matters.
+This is a private second line — not a [Social Aid and Pleasure Club second line](/guides/second-line-guide/), which is a cultural institution with deep community roots and its own structure. What you're hiring is a brass band to lead your group through a planned bar crawl route, creating the second line format (band leads, group follows) for a private group experience. Understanding the distinction matters — see [private second line vs. joining a public one](/guides/nola-group-private-second-line-vs-public-guide/) for the full comparison.
 
-Done right, this is the most memorable night of the trip. Done wrong — wrong route, wrong timing, no permits, a band that cancels last minute — it's expensive chaos. Here's how to do it right.
+Done right, this is the most memorable night of the trip. Done wrong — wrong route, wrong timing, no permits, a band that cancels last minute — it's expensive chaos. Here's how to do it right — and if you're still sequencing the rest of the week around it, start with the [group trip planning guide](/guides/plan-a-group-trip/).
 
 ---
 
@@ -80,7 +80,7 @@ The band plays while walking between venues. These intervals — typically 5-15 
 
 ### The Marigny/Bywater Corridor
 
-**Why it works:** The Frenchmen Street area and the St. Claude corridor are culturally appropriate for second line activity, have bars spaced at reasonable intervals, and neighborhoods where street music is ambient and expected. Residents along this corridor are accustomed to hearing brass bands at night.
+**Why it works:** The Frenchmen Street area and the St. Claude corridor are culturally appropriate for second line activity, have bars spaced at reasonable intervals, and neighborhoods where street music is ambient and expected — see the [Marigny](/neighborhoods/marigny/) and [Bywater](/neighborhoods/bywater/) neighborhood guides for the fuller picture. Residents along this corridor are accustomed to hearing brass bands at night.
 
 **The crowd response:** This is the corridor where strangers join in. A second line moving through the Marigny on a weekend night is not unusual enough to cause alarm — it fits the neighborhood's character — but it's visible enough that people on stoops and in front of bars look up and often step into the line for a block.
 
@@ -88,7 +88,7 @@ The band plays while walking between venues. These intervals — typically 5-15 
 
 ### The French Quarter
 
-**Why it works:** Tourist density means your second line is immediately visible to a large audience. Bourbon Street has specific hours where you can move through with a band and the energy is additive rather than disruptive.
+**Why it works:** Tourist density in [the Quarter](/neighborhoods/french-quarter/) means your second line is immediately visible to a large audience. Bourbon Street has specific hours where you can move through with a band and the energy is additive rather than disruptive.
 
 **The tradeoff:** The French Quarter has more noise competition (other live music, bar sound systems) and more logistical complexity for getting 20 people plus a band through dense tourist crowds. It's spectacular as a spectacle; it's also more chaotic to manage.
 
@@ -96,7 +96,7 @@ The band plays while walking between venues. These intervals — typically 5-15 
 
 ### The Warehouse District
 
-**Why it works:** Cleaner streets, lower ambient noise, and the neighborhood character works well on weekend evenings. If your group is based near the CBD or Convention Center, this route is logistically convenient.
+**Why it works:** Cleaner streets, lower ambient noise, and the [neighborhood character](/neighborhoods/warehouse-district/) works well on weekend evenings. If your group is based near the CBD or Convention Center, this route is logistically convenient.
 
 **The tradeoff:** Less inherently "second line neighborhood" than the Marigny/Bywater — fewer locals on stoops responding to the band. More photogenic in a formal sense; less culturally embedded.
 
@@ -165,7 +165,7 @@ The decorated parasol and handkerchief are second line accessories — participa
 
 For private groups, bringing umbrellas or colorful handkerchiefs for the group to wave while walking is an optional but excellent addition. It creates visual cohesion for the group (you can see where your people are in a crowd), produces better photographs, and participates more fully in the tradition.
 
-A decorated parasol or second line umbrella can be purchased at various NOLA vendors or made during an umbrella-making workshop earlier in the trip.
+A decorated parasol or second line umbrella can be purchased at various NOLA vendors or made during an [umbrella-making workshop](/guides/nola-group-second-line-umbrella-making-guide/) earlier in the trip.
 
 ---
 
@@ -189,13 +189,4 @@ A decorated parasol or second line umbrella can be purchased at various NOLA ven
 
 ## Where to Stage Your Second Line Night
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location places you at the doorstep of the Marigny and Frenchmen Street second line corridor — the most culturally appropriate geography for a private second line experience. Pre-second line dinner logistics, post-second line villa return (pool, outdoor space, music), and the short walking and rideshare distances all work in your favor from a Bywater base. Castleday holds a 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and shared outdoor spaces including a heated pool, hot tub, sauna, and outdoor kitchen. From The Syd in the Lower Garden District, a second line route through the Garden District corridor or into the Warehouse District is accessible. The St. Charles Streetcar connection makes the route logistics flexible. Post-second line return to The Syd — outdoor kitchen for late-night food, heated pool, the full group together — is the right landing structure.
-
----
-
-## Plan Your Second Line Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, Frenchmen Street walkable, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool, St. Charles Streetcar access
+A Bywater base puts you at the doorstep of the Marigny and Frenchmen Street second line corridor — the most culturally appropriate geography for this kind of night, and Castleday Retreats runs private villas there with a pool at each one for the post-second line landing. The Syd's Lower Garden District villas, with a shared heated pool and hot tub, put a route through the Garden District or Warehouse District corridor within reach, and the St. Charles Streetcar keeps the route logistics flexible. Heirloom's inventory across LGD and Central City is worth a look if you're booking on short notice, and a hotel room block works for groups that would rather keep separate keys. For the full comparison, see [where to stay for large groups](/where-to-stay/) — for the largest selection, book 6+ months out.
