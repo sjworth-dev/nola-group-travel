@@ -1,13 +1,13 @@
 ---
 title: "Rehearsal Dinner Venues in New Orleans for Large Groups"
-description: "Private venue guide for rehearsal dinners in New Orleans: courtyard restaurants, rooftop options, villa dinner format vs. restaurant private room, and the full comparison for groups of 20-50."
+description: "Private venue guide for rehearsal dinners in New Orleans: courtyard restaurants, rooftop options, villa dinner format vs. restaurant private room, and the full comparison for the whole wedding party."
 category: "Weddings & Celebrations"
 card_title: "Rehearsal Dinner Venues"
-card_description: "Courtyard restaurants, private rooms, rooftop options, and the villa dinner format — full comparison for groups of 20-50."
-date: 2026-06-20
+card_description: "Courtyard restaurants, private rooms, rooftop options, and the villa dinner format — the full comparison for a wedding-weekend crew of any size."
+date: 2026-09-02
 ---
 
-New Orleans is one of the best cities in the world for a rehearsal dinner. The food is serious, the private spaces are genuinely beautiful, the courtyard tradition runs deep, and there's enough variety in venue format and budget tier that groups of 20 to 50 can find something that feels right without settling.
+New Orleans is one of the best cities in the world for a rehearsal dinner. The food is serious, the private spaces are genuinely beautiful, the courtyard tradition runs deep, and there's enough variety in venue format and budget tier that a wedding party of almost any size can find something that feels right without settling. This is one piece of the larger [wedding weekend](/guides/wedding-weekend-guide/) — see the [New Orleans weddings guide](/guides/new-orleans-weddings-guide/) for how it fits with everything else.
 
 What makes a great rehearsal dinner in NOLA specifically: the food has to be good (you're in New Orleans — there's no excuse for generic banquet food), the atmosphere has to feel distinctly local (if your guests flew in for this, they want to feel like they're somewhere), and the logistics have to accommodate a group that's emotionally keyed up and not necessarily moving efficiently.
 
@@ -51,7 +51,7 @@ The most traditional format. A restaurant carves out a private room — sometime
 
 **For large groups (35+):** Most restaurant private rooms max out at 35-40 covers. At 50+, you're often looking at either a full buyout or splitting the party, which almost never works emotionally.
 
-**Minimum spend reality:** Most private rooms at quality New Orleans restaurants have food and beverage minimums in the several-thousand-dollar range for weekend evenings. This is not the venue fee — it's the minimum you must spend on food and wine, separate from any room fee. Get the full breakdown before you tour.
+**Minimum spend reality:** Most private rooms at quality New Orleans restaurants have food and beverage minimums in the several-thousand-dollar range for weekend evenings. This is not the venue fee — it's the minimum you must spend on food and wine, separate from any room fee. Get the full breakdown before you tour, and weigh it against the rest of the wedding weekend's [budget](/guides/budget-guide/).
 
 ---
 
@@ -101,7 +101,7 @@ The villa dinner format is the most intimate option and the one that produces th
 
 **Best for:** Groups of 20-40. The couple who wants the rehearsal dinner to feel personal rather than formal. Wedding parties that include children who would struggle in a late-night restaurant format. Groups where budget needs to be controlled without compromising the quality of the experience.
 
-**Private chef:** A private chef hired for the evening produces an exceptional meal in a villa kitchen and typically stays through service and cleanup. This is the move for a villa rehearsal dinner that needs to compete with a restaurant on food quality.
+**Private chef:** A private chef hired for the evening produces an exceptional meal in a villa kitchen and typically stays through service and cleanup. This is the move for a villa rehearsal dinner that needs to compete with a restaurant on food quality — see the [private chef guide](/guides/private-chef-guide/) for how to book one.
 
 **Catering:** Catering companies can deliver a rehearsal dinner setup to a villa and run service. More options at lower price points than private chefs, but less personalized.
 
@@ -168,17 +168,10 @@ For Mardi Gras season and Jazz Fest weekends: add 3-6 months to all timelines. T
 
 ## Hosting the Rehearsal Dinner at Your Group Villa
 
-The most intimate rehearsal dinner format is often the right call for smaller wedding parties. If your wedding party and immediate family is 25-35 people, a villa dinner avoids the minimum spend mechanics of private restaurant rooms, gives you complete control over timing and atmosphere, and creates a genuinely personal experience.
+The most intimate rehearsal dinner format is often the right call for a smaller wedding party. Keeping the core group and immediate family under one roof avoids the minimum-spend mechanics of private restaurant rooms and gives you complete control over timing and atmosphere.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each with full kitchens, large dining and common areas, and private outdoor courtyard and pool spaces. The Florentine is noted as the most elegant of the three villas and is ADA-accessible — relevant if your wedding party includes guests with mobility considerations. At 12 bedrooms and 17 real beds per villa, housing the core wedding party and immediate family in one location makes rehearsal dinner logistics considerably simpler. Castleday has hosted wedding groups specifically and can advise on catering and chef referrals.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, outdoor kitchen, and courtyard make The Syd's outdoor spaces a natural setting for a pre-dinner cocktail hour followed by a villa dinner. One block from the St. Charles Streetcar, making the transition to and from the ceremony venue easy if the rehearsal is nearby.
+Big-group properties handle this differently. Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas each have full kitchens, 12 bedrooms, and private outdoor courtyard and pool spaces — housing the wedding party in one location. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub a block from the St. Charles Streetcar, making the transition to and from a nearby ceremony venue simple. Heirloom's large-format homes add the widest choice across neighborhoods, and a hotel room block keeps mixed budgets separate under one roof. For the largest selection, book 6+ months out — and start earlier for peak season, per the timeline below. Full comparison at [where to stay for large groups →](/where-to-stay/)
 
 ---
 
-## Plan Your Rehearsal Dinner
-
-- Castleday Retreats — Bywater, 14-30 guests, The Florentine is ADA-accessible and most elegant
-- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen and courtyard
-
-New Orleans is one of the best cities in the country to have a rehearsal dinner. Don't let logistics get between you and that fact.
+New Orleans is one of the best cities in the country to have a rehearsal dinner. Don't let logistics get between you and that fact — and if you're still working out the rest of the weekend, the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) and the [group trip planning hub](/guides/plan-a-group-trip/) are good next stops.
