@@ -4,12 +4,12 @@ description: "Hosting a villa cocktail party for groups of 30+: inviting locals 
 category: "Villa Life"
 card_title: "Villa Cocktail Party"
 card_description: "Invite locals, merge sub-groups, or just give the trip an event it doesn't usually have. The full setup guide for a villa cocktail party of 30+ people."
-date: 2026-06-18
+date: 2026-09-02
 ---
 
 Most large group trips to New Orleans follow a pattern: go out to bars and restaurants every night, return to the villa late, repeat. This is fine. It's also the most passive way to use the villa.
 
-The villa cocktail party inverts the logic. Instead of taking the group out, you bring something to the villa. You use the courtyard, the pool deck, the outdoor kitchen — the spaces that distinguish the villa from a hotel — as a venue. You serve real drinks and real food. You create a reason for the group to gather in a way that restaurants and bars don't produce.
+The villa cocktail party inverts the logic. Instead of taking the group out, you bring something to the villa. You use the courtyard, the pool deck, whatever outdoor space the [villa](/guides/plan-a-group-trip/) has — the spaces that distinguish it from a hotel — as a venue. You serve real drinks and real food. You create a reason for the group to gather in a way that restaurants and bars don't produce.
 
 This works for groups that want to invite other people — locals, other trip sub-groups, new connections made during the trip — into the villa experience. It also works as a purely internal event when the group wants one evening that's more structured than "find your own spot at the bar."
 
@@ -23,8 +23,8 @@ The 3-hour cocktail party format is the most useful tool in a large group trip o
 - [ ] Set a firm time window: 6:00–9:00pm or 7:00–10:00pm; a cocktail party with a defined end is more enjoyable than one that drifts into the rest of the evening
 - [ ] Plan the bar before the canapé — drinks are the event, food is the support
 - [ ] Source canapé components the morning of: French Market for fruit, produce, and specialty items; Rouses for charcuterie, cheese, crackers, prepared items
-- [ ] Set up the courtyard or pool deck two hours before the start
-- [ ] Designate one or two people as bartenders for the evening — self-service works for a small group, but 30+ people need traffic management
+- [ ] Set up the courtyard or pool deck two hours before the start (see the [villa arrival setup guide](/guides/villa-arrival-setup-guide/) for the broader move-in checklist)
+- [ ] Designate one or two people as bartenders for the evening — self-service works for a small group, but a bigger crew needs traffic management
 - [ ] Plan the post-party transition: the cocktail party ends at a defined time and the group moves somewhere, or disperses, or continues informally — decide in advance
 - [ ] Check villa rules on external guests before inviting anyone outside the booking
 
@@ -48,7 +48,7 @@ The cocktail party is the right format for a large villa evening for specific re
 
 ### Internal Group Only
 
-Your 15-30 people, no outside guests. The cocktail party format works even when the group is just the group — it creates structure and formality that a regular villa evening doesn't have.
+Just your crew, no outside guests. The cocktail party format works even when the group is just the group — it creates structure and formality that a regular villa evening doesn't have.
 
 Use this format for: welcome parties on arrival night, birthday celebrations, rehearsal dinner alternatives, or any occasion where the group wants a dedicated social event.
 
@@ -60,7 +60,7 @@ If anyone in the group has connections in New Orleans — friends, family, work 
 
 **What to say:** "We're renting a villa in the Bywater / Lower Garden District for the week. Having people over Thursday evening. Come by, have a drink, meet the group." Simple.
 
-**How many:** The courtyard can handle more people than the headcount suggests. A Castleday villa courtyard with a private pool can accommodate 40-50 people for a standing cocktail party. The Syd's shared outdoor space handles even larger groups.
+**How many:** A private courtyard or pool deck can handle more people than the headcount suggests for a standing cocktail party — but confirm the real number with your specific villa rather than assuming the whole guest list fits.
 
 ### Merging Two Trip Sub-Groups
 
@@ -76,7 +76,7 @@ The bar is the center of the event. Everything else supports it.
 
 ### Scale for 30+ People
 
-For a two-to-three-hour cocktail party with 30 guests, plan for 2-3 drinks per person. This is 60-90 drinks total.
+For a two-to-three-hour cocktail party with 30 guests, plan for 2-3 drinks per person. This is 60-90 drinks total — build the number into the trip's [budget](/guides/budget-guide/) rather than discovering it at checkout.
 
 | Component | Quantity for 30 people |
 |-----------|----------------------|
@@ -234,7 +234,7 @@ The cocktail party has three acts. Knowing the structure lets you manage the eve
 
 At 2:30-2:45, the host makes a brief announcement: "We're heading to [Frenchmen Street / dinner / wherever] at 9. Party wraps up here at 9. Thanks for coming."
 
-This is not awkward. It's useful. It gives external guests a graceful exit point and gives the group a signal that the evening's next phase is coming. Without the announcement, the party drifts past its natural end and becomes a different, worse event.
+This is not awkward. It's useful. It gives external guests a graceful exit point and gives the group a signal that the evening's next phase is coming. Without the announcement, the party drifts past its natural end and becomes a different, worse event. The [group communication guide](/guides/group-communication-guide/) covers how to make announcements like this land without a scramble.
 
 ---
 
@@ -252,13 +252,4 @@ That's the thing worth doing.
 
 ## The Villas That Make This Possible
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyards and pool decks are purpose-built for exactly this use — completely private, no shared outdoor space with other guests, full control of the environment. The Florentine, The Cocodrie, and The Herald each have distinct outdoor configurations; The Cocodrie's pool and outdoor space is the strongest for large cocktail parties. For multi-group events or occasions where you want to buy out all three villas (capacity: ~90 guests), the option exists. 4.98 stars across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared outdoor spaces — a heated pool, hot tub, sauna, outdoor kitchen, and courtyard — create a larger communal outdoor environment that naturally accommodates cocktail parties of 30-50 people across multiple villa bookings. The outdoor kitchen is the bar station; the pool area is the party zone; the courtyard is the extended space when the event grows.
-
----
-
-## Host the Party
-
-- Castleday Retreats — Bywater private villas, up to 30 guests each (~90 across all three), private pool, 4.98 stars
-- The Syd — Lower Garden District, up to 22 guests per villa, shared outdoor kitchen and pool, artist-designed interiors
+What you actually need is private outdoor space that's yours for the evening — no venue fee, no closing time, no one else's cocktail party bumping into yours. Big-group properties differ mainly in how that space is arranged: Castleday Retreats' private [Bywater](/neighborhoods/bywater/) villas each come with their own pool and courtyard, fully private with no shared outdoor space to negotiate. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub, which works well when the party is meant to spill across more than one booking. Heirloom's large-format homes widen the search if neither fits, and a hotel room block is the move when the group also wants separate keys and bills. For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
