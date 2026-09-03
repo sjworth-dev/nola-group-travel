@@ -1,23 +1,23 @@
 ---
 title: "Departure Day for NOLA Group Trips"
-description: "Baggage logistics, staggered flight windows, what to do with 4 hours between checkout and a 6pm flight, and the surprisingly manageable problem of getting 20+ people out of New Orleans without losing anyone on the last day."
+description: "Baggage logistics, staggered flight windows, what to do with 4 hours between checkout and a 6pm flight, and the surprisingly manageable problem of getting the whole crew out of New Orleans without losing anyone on the last day."
 category: "Planning & Logistics"
 card_title: "Departure Day Guide"
 card_description: "The last day of a NOLA group trip is the one nobody planned. Different flight times, bags in the lobby, uncertain weather, and a group that's tired and emotionally ready to go home but practically can't yet. Here's how to manage it."
-date: 2026-06-21
+date: 2026-09-03
 ---
 
 Departure day on a group trip is the logistics problem that gets no attention during the planning phase and then surprises everyone when it arrives.
 
 On a solo trip, departure day is simple: pack, check out, go to the airport. On a group trip of 20 people with flights departing between 11am and 8pm, departure day is a multi-hour window of overlapping schedules, bags in various states of packed, a checkout time that happens before most of the group can leave, and the question of what to do with the four-to-six people who are stuck in New Orleans until 5pm.
 
-This guide is about managing that day well. It's also about the fact that departure day, when planned correctly, can actually be good — a slow last morning, a final meal, one last walk through a neighborhood. The groups that end their trips with good feelings rather than stressful chaos are almost always the ones who planned the last day the way they planned the first one.
+This guide is about managing that day well. It's also about the fact that departure day, when planned correctly, can actually be good — a slow last morning, a final meal, one last walk through a neighborhood. The groups that end their trips with good feelings rather than stressful chaos are almost always the ones who planned the last day the way they planned the [first one](/guides/villa-arrival-setup-guide/).
 
 ---
 
 ## Quick Checklist
 
-- [ ] Collect everyone's departure times before the trip begins (ask in the group chat)
+- [ ] Collect everyone's departure times before the trip begins (ask in the [group chat](/guides/group-communication-guide/))
 - [ ] Designate a checkout coordinator — one person managing the "keys and walkthrough" process
 - [ ] Establish bag storage logistics: where do early-checkout bags go while the hotel window is open?
 - [ ] Identify who has the earliest flights and what time they need to leave the villa
@@ -145,7 +145,7 @@ This is the underplanned gap that causes departure day stress. But it can also b
 
 ### Things That Work for the Bridge Window
 
-**A specific neighborhood destination** — Pick a neighborhood the group didn't get to fully explore and spend two to three hours there. French Quarter, Garden District, Marigny. Bags in storage or at the hotel, one afternoon of actual tourism without the pressure of a full itinerary.
+**A specific neighborhood destination** — Pick a [neighborhood](/guides/nola-group-neighborhood-comparison-guide/) the group didn't get to fully explore and spend two to three hours there. French Quarter, Garden District, Marigny. Bags in storage or at the hotel, one afternoon of actual tourism without the pressure of a full itinerary.
 
 **A proper last meal** — This is the move. The group that can sit down for a real lunch at a place they didn't get to during the trip, without luggage and without a timeline, is having a good last day. Plan this the night before; walk-in for a party of 8-10 at lunch is easier than at dinner.
 
@@ -185,7 +185,7 @@ MSY (Louis Armstrong New Orleans International Airport) has specific timing char
 
 ### Transportation to MSY
 
-**Group charter:** The cleanest option for sending a large group to the airport at the same time. One vehicle, one driver, everyone together. Works for groups departing in the same time window. Costs more than rideshare but eliminates coordination.
+**Group charter:** The cleanest option for sending a large group to the airport at the same time — see the [transportation guide](/guides/transportation-guide/) for how it compares to the other options. One vehicle, one driver, everyone together. Works for groups departing in the same time window. Costs more than rideshare but eliminates coordination.
 
 **Rideshare split:** For groups with staggered departure times, two or three rideshares leaving at different times. The coordination burden is per-subgroup rather than for the whole party. Works well.
 
@@ -239,7 +239,7 @@ This doesn't need to be orchestrated. But it does need to not be completely impr
 
 5. **Early-flight people should pack the night before, completely.** This isn't about travel anxiety — it's about not having their departure process disturb the rest of the group at 5am. Bags packed, documents out, rideshare scheduled the night before.
 
-6. **Leave honest feedback for the property.** Both Castleday and The Syd maintain high ratings because guests leave honest, detailed reviews. If the property was excellent — which it usually is — the review that takes 5 minutes helps future groups make better decisions.
+6. **Leave honest feedback for the property.** Whatever you booked, a detailed review helps future groups make better decisions than a marketing page ever will. The review that takes 5 minutes is worth writing while the trip is still fresh.
 
 7. **Send the group photo before everyone leaves the airport.** Not when you get home, not sometime in the next week. While you're at the airport or on the plane. The group chat stays active and the trip gets a proper digital close.
 
@@ -249,15 +249,8 @@ This doesn't need to be orchestrated. But it does need to not be completely impr
 
 The best departure morning is one where you don't want to leave — which means the property made that possible.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The morning-of-departure dynamic at Castleday is genuinely good: full kitchen for the last coffee, a courtyard where people can sit at their own pace, and enough common area that the group isn't on top of each other while they pack. The Bywater location puts you about 20-25 minutes from MSY — enough buffer for most flight windows.
+The field runs wide. Castleday Retreats' Bywater villas give a group a full kitchen for the last coffee and a courtyard where people can sit at their own pace without being on top of each other while they pack. The Syd's Lower Garden District villas are centrally located — within easy range of the French Quarter for a final morning walk, with a shared outdoor space that suits a slow last morning. Hotel room blocks (The Roosevelt, Hotel Peter & Paul, and similar) simplify checkout further, since each guest owns their own key and bill. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The Syd's central location is a genuine advantage on departure day: quick access to the airport via the highway from the LGD, within easy range of the French Quarter for a final morning walk, and the shared outdoor space works well for the slow last morning that turns checkout from a stressful event into a proper send-off.
-
----
-
-## Book Your NOLA Group Villa
-
-- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
-- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, central location
+[See where to stay for large groups →](/where-to-stay/)
 
 Departure day doesn't have to be the worst part of the trip. Plan it the way you planned the arrival day, and it can actually be the close the trip deserves.
