@@ -3,15 +3,15 @@ title: "New Orleans Jazz Workshop & Sit-In Guide for Large Groups"
 description: "Jazz workshop and sit-in experiences for large groups in New Orleans: music lesson providers who work with large groups, the difference between watching and participating, how to structure a music half-day, and what it means to sit in on a real New Orleans jazz session."
 category: "Activities & Day Trips"
 card_title: "Jazz Workshop & Sit-In Guide"
-card_description: "Jazz workshops and sit-in experiences for groups of 10-25 — music lesson providers, participation vs. spectatorship, half-day structure, and what a real NOLA jazz sit-in looks like."
-date: 2026-06-15
+card_description: "Jazz workshops and sit-in experiences for the whole crew — music lesson providers, participation vs. spectatorship, half-day structure, and what a real NOLA jazz sit-in looks like."
+date: 2026-09-03
 ---
 
 Most groups that come to New Orleans experience jazz as an audience. They stand at the edge of a Frenchmen Street club, they listen to a Preservation Hall set, they tip the brass band at a second line. All of that is worth doing. But there's a different version of engaging with NOLA jazz that's available to large groups, and most visitors don't find it.
 
 Workshops where musicians teach the group rhythm, call-and-response, or instrument basics. Venues where a participant from your group can sit in with the house band. Private sessions where a jazz musician works with your group on improvisation concepts without expecting anyone to actually improvise. These are the participatory layer of NOLA's music culture — and they're genuinely available to groups who know how to access them.
 
-This guide covers both ends of the spectrum: structured workshops you book in advance, and the informal sit-in culture that exists at NOLA venues for musicians in the group who already play.
+This guide covers both ends of the spectrum: structured workshops you book in advance, and the informal sit-in culture that exists at NOLA venues for musicians in the group who already play. (Still working out where this fits against the rest of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions in order.)
 
 ---
 
@@ -130,7 +130,7 @@ Less common at jazz sessions: synthesizers, electric guitars with effects, folk 
 
 **7:00pm** — Group dinner in the Marigny or French Quarter
 
-**8:30pm** — Frenchmen Street live music crawl
+**8:30pm** — [Frenchmen Street live music crawl](/guides/nola-group-live-music-crawl-guide/)
 
 **The connection:** The workshop in the afternoon gives the group a vocabulary. On Frenchmen Street that evening, they hear differently. The drummer doing something they clapped in the workshop. The call-and-response phrase they practiced, now happening between a trumpet and a trombone. The education activates the experience.
 
@@ -204,15 +204,6 @@ Briefing the group before a workshop or sit-in evening makes the experience more
 
 ## The Music Base
 
-Jazz workshops and sit-in evenings both begin and end at the villa. The villa is where you brief the group, where private sessions happen, and where you return after a Frenchmen Street night.
+Jazz workshops and sit-in evenings both begin and end at the villa. The villa is where you brief the group, where private sessions happen, and where you return after a Frenchmen Street night. The field runs wide: Castleday Retreats has villas in the [Bywater](/neighborhoods/bywater/), a working artists' neighborhood where private workshop sessions and musician referrals happen naturally, an easy walk from Frenchmen Street. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas have courtyard space that works well for an in-villa session, one block from the St. Charles Streetcar for the ride to Frenchmen Street. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, and a hotel room block works for groups mixing budgets. Whatever you pick, for the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is a working artists' neighborhood — the specific kind of community where private workshop sessions, musician referrals, and access to the local music ecosystem happens naturally. Castleday's spaces can accommodate an in-villa private music session for groups of up to 30. The proximity to Frenchmen Street (10-15 minute walk) makes the workshop-then-live-music sequence operationally smooth. Castleday holds a 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's courtyard and outdoor kitchen areas create natural workshop and post-session gathering spaces. The St. Charles Streetcar — one block away — connects directly to the Canal Street corridor and the short walk to Frenchmen Street for the evening's live music.
-
----
-
-## Plan Your Music Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests, artist neighborhood for private session access, Frenchmen Street walkable
-- The Syd — Lower Garden District villas, up to 22 guests, shared courtyard for workshop space, one block from St. Charles Streetcar
+[See where to stay for large groups →](/where-to-stay/)
