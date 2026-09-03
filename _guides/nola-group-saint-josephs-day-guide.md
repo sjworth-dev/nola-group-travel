@@ -4,14 +4,14 @@ description: "The Mardi Gras Indian processions on Super Sunday, neighborhood al
 category: "Festivals & Events"
 card_title: "St. Joseph's Day & Super Sunday Guide"
 card_description: "Mardi Gras Indian Super Sunday processions, neighborhood altars on March 19, and how to engage respectfully as an out-of-town group with two of New Orleans' most extraordinary cultural traditions."
-date: 2026-06-23
+date: 2026-09-03
 ---
 
 Two events happen in New Orleans in March that most visitors don't know about and the ones who do find transformative. St. Joseph's Day on March 19 brings neighborhood altars to front lawns and community centers throughout the city. Super Sunday — typically the third Sunday in March, though the date can shift — is when Mardi Gras Indian tribes process through their neighborhoods in their full handmade suits.
 
 Neither event is organized for tourists. Neither has a central stage or a ticket booth. Both are living cultural traditions that belong to the communities that maintain them. For a large group planning to be in New Orleans around these dates, understanding what's happening and how to engage with it appropriately is the difference between witnessing something genuinely rare and being the kind of group that makes locals wish you weren't there.
 
-This guide is direct about the distinction.
+This guide is direct about the distinction. If you're still sequencing the rest of the trip around it, the [group trip planning hub](/guides/plan-a-group-trip/) covers the decisions that come before and after.
 
 ---
 
@@ -62,7 +62,7 @@ Plan for a morning-into-afternoon structure. Multiple altars, an unhurried pace,
 
 Super Sunday is not related to football. It is the day when Mardi Gras Indian tribes from across New Orleans — Uptown tribes and Downtown tribes — process through their home neighborhoods in their full handmade suits.
 
-Mardi Gras Indians are African American social and cultural organizations that have maintained a tradition of creating elaborate beaded and feathered suits for over a century. The suits are made by hand over the course of a year, are extraordinarily intricate, and are displayed publicly on Mardi Gras morning and on Super Sunday. The tradition has complex roots in cultural exchange between African American and Native American communities in New Orleans, and it represents one of the most sustained and distinctive art forms in the country.
+Mardi Gras Indians are African American social and cultural organizations that have maintained a tradition of creating elaborate beaded and feathered suits for over a century — the same suit-making tradition that shows up on Mardi Gras morning itself, covered in the [Mardi Gras group guide](/guides/mardi-gras-group-guide/). The suits are made by hand over the course of a year, are extraordinarily intricate, and are displayed publicly on Mardi Gras morning and on Super Sunday. The tradition has complex roots in cultural exchange between African American and Native American communities in New Orleans, and it represents one of the most sustained and distinctive art forms in the country.
 
 Super Sunday is when you can actually see the suits. On Mardi Gras morning itself, the tribes process early in specific neighborhoods and the event is less accessible to people who don't know exactly where to be. Super Sunday is more organized and more visible, with processions happening in two main areas: Uptown (starting in the afternoon near A.L. Davis Park) and Downtown (in the Tremé or Seventh Ward, timing confirmed each year by local media and cultural organizations).
 
@@ -110,7 +110,7 @@ Both St. Joseph's Day and Super Sunday are traditions that have survived by bein
 
 Understanding this is not just background information. It changes how you show up. A group that knows what it's looking at — that the suit in front of them took a year to make by hand, that the tradition it represents is older than most of the people watching — interacts with the event differently than a group that stumbled into something colorful on their way to brunch.
 
-The Backstreet Cultural Museum in the Tremé is the best single resource for understanding the Mardi Gras Indian tradition before a Super Sunday visit. It's a small museum with a large impact; a 45-minute visit the day before Super Sunday will change what your group sees on Sunday.
+The Backstreet Cultural Museum in the [Tremé](/neighborhoods/treme/) is the best single resource for understanding the Mardi Gras Indian tradition before a Super Sunday visit. It's a small museum with a large impact; a 45-minute visit the day before Super Sunday will change what your group sees on Sunday.
 
 ---
 
@@ -119,7 +119,7 @@ The Backstreet Cultural Museum in the Tremé is the best single resource for und
 Both events happen outdoors, often over several hours, in unpredictable March weather (New Orleans in March ranges from 60°F and perfect to 80°F and humid to genuinely cold and rainy).
 
 **For St. Joseph's Day:**
-The blessed food at altars is traditional — fava beans, bread, pastry — but not a full meal. Have lunch sorted before or after the altar visits. The Mid-City neighborhood where many altars are concentrated has good restaurant options for a group lunch; make a reservation in advance for groups larger than 10.
+The blessed food at altars is traditional — fava beans, bread, pastry — but not a full meal. Have lunch sorted before or after the altar visits. The [Mid-City](/neighborhoods/mid-city/) neighborhood where many altars are concentrated has good restaurant options for a group lunch; make a reservation in advance for a party of ten or more.
 
 **For Super Sunday:**
 Food trucks and vendors typically set up near the main procession areas. Cash is essential. The food is good — you're in New Orleans, the neighborhood food trucks are operating at a high standard. Budget for a $10-15 street food lunch per person.
@@ -143,7 +143,7 @@ When the dates fall close together or overlap, this is one of the richest cultur
 
 ## Pro Tips
 
-1. **Confirm Super Sunday's exact date before booking travel.** The third Sunday of March sounds fixed but the specific date shifts each year. Local cultural organizations, the Times-Picayune, and WWOZ (the city's community radio station) all confirm it in advance. Book your trip around the confirmed date, not the assumed one.
+1. **Confirm Super Sunday's exact date before booking travel.** The third Sunday of March sounds fixed but the specific date shifts each year, the same way the rest of Carnival season floats with Easter — see the [parade calendar](/guides/nola-group-carnival-season-parade-calendar/) for how that math works. Local cultural organizations, the Times-Picayune, and WWOZ (the city's community radio station) all confirm it in advance. Book your trip around the confirmed date, not the assumed one.
 
 2. **The Backstreet Cultural Museum is essential pre-game for Super Sunday.** It's in the Tremé, it's small, and a guided walk-through from one of the staff will give your group more context than any online reading. Go the day before if possible.
 
@@ -161,23 +161,9 @@ When the dates fall close together or overlap, this is one of the richest cultur
 
 ## Large Group Accommodation in March
 
-March is a shoulder month in New Orleans — off the Mardi Gras peak but still busy, especially when Super Sunday draws visitors who know what it is. Book accommodation early if your dates align with either event.
+March sits inside New Orleans' core high season — Mardi Gras, French Quarter Fest, and spring crawfish season all land in the February–May stretch, and Super Sunday draws its own crowd of people who know what it is. Book accommodation early if your dates align with either event; for the largest selection, book 6+ months out.
 
-### Castleday Retreats
-
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with 12 bedrooms, 17 real beds, and 8 baths, accommodating 14 to 30 guests. The Bywater is adjacent to the Tremé and the Seventh Ward, which puts the group within easy distance of Downtown Super Sunday.
-
-The Florentine is ADA-accessible. 4.98 average rating across 99 reviews. For a trip built around cultural events that require early positioning and flexible pacing, the privacy of a standalone villa beats a hotel block.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, outdoor kitchen, and artist-designed rooms. One block from the St. Charles Streetcar.
-
-The Syd's Garden District location puts it within easy reach of the Uptown Super Sunday procession. The outdoor kitchen and common areas are the right place to debrief after a long outdoor day — set out food, get off your feet, talk through what you saw.
-
----
-
-## See Where to Stay
+For proximity to Downtown Super Sunday, look toward the [Bywater](/neighborhoods/bywater/) or the Tremé itself — Castleday Retreats' Bywater villas put a group within easy distance. For the Uptown procession, [Lower Garden District](/neighborhoods/lower-garden-district/) properties like The Syd are the closer base, with a shared heated pool and hot tub as the right place to debrief after a long outdoor day. Heirloom's inventory spans both areas if neither operator has the dates you need, and a hotel room block works for a group that wants to split up by neighborhood.
 
 [See where to stay for large groups →](/where-to-stay/)
 
