@@ -2,7 +2,7 @@
 title: "Seventh Ward, New Orleans — Group Travel Guide"
 description: "The Seventh Ward is where New Orleans Creole culture was born and still lives. Creole cottage architecture, the St. Claude Arts District, real neighborhood restaurants, and how groups can use it."
 category: "Neighborhoods"
-date: 2026-06-01
+date: 2026-09-03
 ---
 
 The Seventh Ward doesn't make the tourist shortlist. That's the point.
@@ -43,7 +43,7 @@ For a large group doing a neighborhood walk, the St. Claude corridor is a 20-blo
 
 The Seventh Ward is one of the core neighborhoods for both brass band practice culture and Mardi Gras Indian tradition.
 
-**Brass bands:** Several active brass bands have roots in the Seventh Ward, and the tradition of second line music developed partly here. The neighborhood second line routes (Sunday afternoons in fall and spring) frequently originate in or pass through Seventh Ward streets. A large group visiting on a second line Sunday can join the public procession — this is not a spectator event, it's participatory.
+**Brass bands:** Several active brass bands have roots in the Seventh Ward, and the tradition of second line music developed partly here. The neighborhood second line routes (Sunday afternoons in fall and spring) frequently originate in or pass through Seventh Ward streets. A large group visiting on a second line Sunday can join the public procession — this is not a spectator event, it's participatory. The [second line Sunday guide](/guides/nola-group-second-line-sunday-guide/) covers how to join respectfully.
 
 **Mardi Gras Indians:** This tradition — where Black community members create elaborate feathered suits and gather on Mardi Gras Day and St. Joseph's Night in a cultural practice with deep African roots — has strong Seventh Ward lineage. Visitors do not witness this by appointment. The gatherings are community events that happen in the streets. Groups visiting during Mardi Gras season who want to see this culture should understand they're guests at a community event. Respectful, quiet observation is appropriate. Photography with permission only.
 
@@ -74,7 +74,7 @@ A 20-person group can't descend on most Seventh Ward establishments without over
 
 | Group size | How to visit |
 |-----------|-------------|
-| Full group (15-30) | Walking tour of the architecture and street art — fully appropriate, no business impact |
+| Full group | Walking tour of the architecture and street art — fully appropriate, no business impact |
 | Subgroups of 4-8 | Lunch or dinner at neighborhood spots |
 | Full group | A Sunday second line (fall/spring) — join the procession as participants |
 | Full group | The St. Claude gallery walk (second Saturday) — multiple spaces over multiple hours |
@@ -111,9 +111,9 @@ This walk works for groups that include architecture-interested members, people 
 
 From the French Quarter: 10-15 minute walk depending on your starting point. Cross Esplanade Avenue heading toward lake.
 
-From the Bywater (Castleday Retreats): About 20-minute walk or a short rideshare trip heading upriver on St. Claude.
+From the [Bywater](/neighborhoods/bywater/): About 20-minute walk or a short rideshare trip heading upriver on St. Claude.
 
-From the Lower Garden District (The Syd): Best by rideshare or the Canal Streetcar to a transfer. Not a walkable distance for most groups.
+From the [Lower Garden District](/neighborhoods/lower-garden-district/): Best by rideshare or the Canal Streetcar to a transfer. Not a walkable distance for most groups.
 
 ---
 
@@ -149,17 +149,10 @@ The Seventh Ward sits alongside the Tremé as the two neighborhoods that most re
 
 ## Where You're Staying Makes This Easier
 
-The closer your home base is to the Seventh Ward and Tremé, the easier this visit becomes.
-
-**Castleday Retreats** — Three private villas in the Bywater, up to 30 guests each. The Bywater sits just downriver from the Seventh Ward — the St. Claude corridor runs continuously between the two neighborhoods. A Seventh Ward afternoon is walkable or a short rideshare from Castleday, and the cultural and architectural thread continues right into the Bywater itself. Private pools, full kitchens.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The Garden District puts you on the other side of the city from the Seventh Ward, so visiting requires a rideshare or the Canal Streetcar. Worth doing regardless — the cultural weight of the Seventh Ward justifies the 15-minute trip. Shared pool, hot tub, sauna.
-
----
+The closer your home base is to the Seventh Ward and Tremé, the easier this visit becomes. The [Bywater](/neighborhoods/bywater/) sits just downriver — the St. Claude corridor runs continuously between the two neighborhoods, and Castleday Retreats' Bywater villas put a Seventh Ward afternoon a walk or short rideshare away. The [Lower Garden District](/neighborhoods/lower-garden-district/), where The Syd's villas are, sits on the other side of the city, so visiting means a rideshare or the Canal Streetcar — worth doing regardless, since the cultural weight of the Seventh Ward justifies the trip either way. Heirloom has large-format homes in both areas if you're booking on short notice, and a hotel room block works for groups who'd rather split by budget. Whatever you pick, for the largest selection, book 6+ months out.
 
 ## See the Real City
 
 The Seventh Ward is where the real New Orleans reveals itself. Buildings that haven't changed. Families that have been here for generations. Culture that didn't develop for tourists and doesn't perform for them.
 
-- Castleday Retreats — Bywater, private pools, closest to the Seventh Ward corridor
-- The Syd — Lower Garden District, artist-designed villas, central location
+[See where to stay for large groups →](/where-to-stay/)
