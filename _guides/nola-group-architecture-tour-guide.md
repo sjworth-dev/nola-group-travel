@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Architecture Tour Guide for Large Groups"
-description: "Self-guided and guided architecture tours for large groups — Creole cottage, shotgun house, Greek Revival mansion, and cast iron balcony traditions, the best walking routes by neighborhood, and how to read a New Orleans facade for groups of 10-30."
+description: "Self-guided and guided architecture tours for large groups — Creole cottage, shotgun house, Greek Revival mansion, and cast iron balcony traditions, the best walking routes by neighborhood, and how to read a New Orleans facade with the whole crew."
 category: "Activities & Day Trips"
 card_title: "Architecture Tour Guide"
 card_description: "NOLA architecture for large groups — Creole cottages, shotgun houses, Greek Revival mansions, cast iron balconies, the best walking routes by neighborhood, and how to read a NOLA facade."
-date: 2026-06-15
+date: 2026-09-03
 ---
 
 New Orleans has more surviving 19th-century residential architecture than almost any American city. The reason is partly climate, partly economics, partly luck — but the result is a city where you can walk through entire neighborhoods and read two hundred years of building history in the facades of houses that are still occupied, still painted, still alive.
 
 Most tourists absorb the architecture accidentally — they notice the French Quarter's cast iron and the Garden District's mansions and move on. Groups who go one level deeper, who understand what they're looking at and why it looks that way, leave with something more durable than photographs of pretty porches.
 
-This is the guide for doing it right.
+This is the guide for doing it right. (Still working out where an architecture day fits against everything else on the itinerary? The [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions in order.)
 
 ---
 
@@ -24,7 +24,7 @@ This is the guide for doing it right.
 - [ ] Morning light (before 10:00am) is the best time to photograph facades — direct sun later in the day creates harsh shadows on ornate surfaces
 - [ ] Plan for 2-3 hours per neighborhood — rushing an architectural walk defeats the purpose
 - [ ] Do the Garden District mansion walk before or after Lafayette Cemetery for a complete half-day
-- [ ] Keep the group small enough to move and stop together — this is harder with 25+ people; sub-groups of 10-12 work better on residential streets
+- [ ] Keep the group small enough to move and stop together — once the trip goes well past a couple dozen, split into sub-groups of 10-12 for residential streets
 
 ---
 
@@ -110,10 +110,10 @@ Start at the corner of Washington Avenue and Prytania Street. Walk the Garden Di
 
 **Key stops:**
 - The mansion corridor on Prytania, Coliseum, and Camp Streets
-- Lafayette Cemetery No. 4 (Washington Avenue and Prytania)
-- Magazine Street at the Garden District's edge — the commercial strip that forms one border of the neighborhood
+- Lafayette Cemetery No. 4 (Washington Avenue and Prytania) — see the [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) for group logistics on visiting
+- Magazine Street at the Garden District's edge — the commercial strip that forms one border of the neighborhood; a [full day on Magazine Street](/guides/nola-group-magazine-street-full-day-guide/) works well tacked onto the back half of this route
 
-**The natural pairing:** Garden District mansion walk in the morning, Lafayette Cemetery after — a natural 3-4 hour half-day that uses the same rideshare pickup and shares architectural and cultural context.
+**The natural pairing:** Garden District mansion walk in the morning, Lafayette Cemetery after — a natural 3-4 hour half-day that uses the same rideshare pickup and shares architectural and cultural context. A dedicated [Garden District walking tour](/guides/nola-group-garden-district-walking-tour-guide/) goes deeper on stop-by-stop routing if you want more than the architectural framing here.
 
 ### Route 3: Marigny and Bywater Residential Vernacular (2 hours)
 
@@ -125,7 +125,7 @@ Start at Washington Square Park in the Marigny. Walk toward Bywater on Dauphine 
 - The Bywater residential blocks — more intact than the Marigny, less foot traffic
 - Intersection of St. Claude Avenue and Poland Avenue for the mix of building types at the Bywater's core
 
-**The honest case for this route:** The Marigny and Bywater show the same building types as the French Quarter without the tourist overlay. These houses are still homes. The blocks feel like what they are — a working neighborhood — and the architectural walk is genuinely more intimate.
+**The honest case for this route:** The Marigny and Bywater show the same building types as the French Quarter without the tourist overlay. These houses are still homes. The blocks feel like what they are — a working neighborhood — and the architectural walk is genuinely more intimate. If you're staying in the [Bywater](/neighborhoods/bywater/), this route starts a few minutes from your front door.
 
 ---
 
@@ -166,15 +166,6 @@ Start at Washington Square Park in the Marigny. Walk toward Bywater on Dauphine 
 
 ## Where to Stay for an Architecture-Forward Trip
 
-The Bywater and Lower Garden District both sit in neighborhoods with dense architectural fabric — walkable, residential, historically rich.
+The [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) both sit in neighborhoods with dense architectural fabric — walkable, residential, historically rich — and staying in either puts the day's walk minutes from your door instead of a rideshare away. The field runs wide: Castleday Retreats has villas in the Bywater, right in the middle of the neighborhood's Creole cottages and double shotguns. The Syd's Lower Garden District villas sit one block from the St. Charles Streetcar, which puts the Garden District mansion walk within a few minutes' ride. Heirloom has the deepest inventory of large-format homes across both neighborhoods if you're booking on short notice, and a hotel room block (The Roosevelt, Hotel Peter & Paul, and similar) works for groups who'd rather split budgets than share a villa. Whatever you pick, for the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is one of the best-preserved vernacular neighborhoods in the city — Creole cottages, double shotguns, and early 20th-century buildings all on the same residential blocks. Staying at Castleday puts you in the middle of a living architectural museum before the formal walk even starts. Rated 4.98 across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The Syd's location — one block from the St. Charles Streetcar — puts the Garden District mansion walk within minutes by streetcar, and the Irish Channel and Magazine Street corridors are walkable from the villa.
-
----
-
-## Plan Your Architecture Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, surrounded by some of the city's best-preserved residential vernacular architecture
-- The Syd — Lower Garden District villas, up to 22 guests, streetcar to Garden District mansions, artist-designed interiors that reflect the city's living design culture
+[See where to stay for large groups →](/where-to-stay/)
