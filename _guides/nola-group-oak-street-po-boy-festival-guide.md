@@ -3,17 +3,17 @@ title: "Oak Street Po-Boy Festival Guide for Large Groups in New Orleans"
 description: "The Oak Street Po-Boy Festival for large groups: the block party format, vendor strategy, crowd navigation, and why this works better for groups than Jazz Fest as a first NOLA festival experience."
 category: "Festivals & Events"
 card_title: "Oak Street Po-Boy Festival"
-card_description: "The block party format, vendor strategy, crowd navigation, and why this works better for a first NOLA festival experience than Jazz Fest for groups of 15-30."
-date: 2026-06-24
+card_description: "The block party format, vendor strategy, crowd navigation, and why this works better for a big group's first NOLA festival experience than Jazz Fest."
+date: 2026-09-03
 ---
 
 Jazz Fest gets all the attention. The Oak Street Po-Boy Festival gets the locals.
 
 The Po-Boy Festival happens annually in November on Oak Street in the Carrollton neighborhood — the section of Uptown where the streetcar reaches its riverfront turn. The format is straightforward: local restaurants and vendors set up on the street and compete for Po-Boy Festival awards in categories that take the sandwich extremely seriously. The crowd is overwhelmingly New Orleans. The music is live and continuous. The price of admission is free.
 
-For groups of 15-30 visiting NOLA, this is one of the most accessible and genuinely local festival experiences on the calendar. It is small enough that a group of 20 can move through it coherently. It is structured enough that there is a clear thing to do (eat po-boys, compare them, vote). And it is the kind of event that does not appear in the top ten search results for "New Orleans festivals," which means the crowd you are in is predominantly the city's residents rather than the city's visitors.
+For the whole crew visiting NOLA, this is one of the most accessible and genuinely local festival experiences on the calendar. It is small enough that a group of 20 can move through it coherently. It is structured enough that there is a clear thing to do (eat po-boys, compare them, vote). And it is the kind of event that does not appear in the top ten search results for "New Orleans festivals," which means the crowd you are in is predominantly the city's residents rather than the city's visitors.
 
-This guide covers the format, how to work the festival with a large group, and why it consistently outperforms larger festivals for groups who are experiencing New Orleans for the first time.
+This guide covers the format, how to work the festival with a large group, and why it consistently outperforms larger festivals for groups who are experiencing New Orleans for the first time. (Still sequencing the rest of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) walks through the decisions in order.)
 
 ---
 
@@ -43,7 +43,7 @@ The crowd at peak hours is dense in the way that any street festival gets dense,
 
 ## The Case for Po-Boy Fest Over Jazz Fest for First-Timers
 
-Jazz Fest is a world-class music festival. No argument there. But for a first-time NOLA group of 15-30 people, Jazz Fest has structural problems that the Po-Boy Festival does not.
+Jazz Fest is a world-class music festival. No argument there. But for a first-time NOLA group at full headcount, Jazz Fest has structural problems that the Po-Boy Festival does not.
 
 | Factor | Jazz Fest | Po-Boy Festival |
 |--------|-----------|-----------------|
@@ -55,7 +55,7 @@ Jazz Fest is a world-class music festival. No argument there. But for a first-ti
 | Po-boy quality | Fairgrounds food | Competition-level po-boys from the city's best vendors |
 | Commitment | Full-day, hot, demanding | Flexible — come and go |
 
-The argument for the Po-Boy Festival is not that it beats Jazz Fest on music (it does not). It is that for a first NOLA group trip, it delivers the authentic local festival experience without the logistical overhead. You spend the entry fee on po-boys. You spend the navigation energy on eating rather than staging. You leave the festival with a clear sense of what a New Orleans neighborhood celebration actually looks like, which is the experience that sticks.
+The argument for the Po-Boy Festival is not that it beats [Jazz Fest](/guides/jazz-fest-group-guide/) on music (it does not). It is that for a first NOLA group trip, it delivers the authentic local festival experience without the logistical overhead. You spend the entry fee on po-boys. You spend the navigation energy on eating rather than staging. You leave the festival with a clear sense of what a New Orleans neighborhood celebration actually looks like, which is the experience that sticks.
 
 ---
 
@@ -75,7 +75,7 @@ After the reconnaissance walk, split into sub-groups of 3-4 and disperse to diff
 
 **What to order:**
 
-- **Roast beef:** The defining NOLA po-boy. The festival will have multiple roast beef entries competing for the same award, and eating two different roast beef po-boys from two different vendors is one of the more illuminating New Orleans food experiences available. The differences are real and specific.
+- **Roast beef:** The defining NOLA po-boy. The festival will have multiple roast beef entries competing for the same award, and eating two different roast beef po-boys from two different vendors is one of the more illuminating New Orleans food experiences available. The differences are real and specific — if the group wants to keep the comparison going after the festival, the [po-boy smackdown guide](/guides/nola-group-po-boy-smackdown-guide/) sets up a proper head-to-head.
 - **Fried shrimp:** A festival staple. The best fried shrimp po-boys have a specific batter and a specific level of dressing — mayonnaise-based dressed, with lettuce, tomato, and pickles — that varies by vendor interpretation.
 - **Oyster:** If available, the oyster po-boy at the festival is worth the line. Fried Gulf oysters on French bread with the right dressing is a version of the sandwich that does not have a meaningful equivalent outside Louisiana.
 - **The creative entry:** Every year, at least one vendor goes in an unexpected direction — a Vietnamese-inspired po-boy reflecting the city's Vietnamese community, a fusion preparation that the judges will either love or disqualify from the traditional category. Try it.
@@ -88,7 +88,7 @@ The festival is in Carrollton, and the neighborhood context is worth knowing bef
 
 Oak Street itself is the kind of street that NOLA neighborhoods produce naturally: a stretch of shotgun houses and Creole cottages, local bars and small restaurants, a hardware store that has been there since the 1950s, a record shop. The festival occupies the commercial stretch and spills into the adjacent residential blocks.
 
-After the festival — or as a warm-up before the vendors open — Oak Street and the surrounding streets are worth walking. The streetcar runs up St. Charles and makes its turn near here; the Carrollton neighborhood has some of the most intact residential architecture in the city without the tourist circuit of the Garden District.
+After the festival — or as a warm-up before the vendors open — Oak Street and the surrounding streets are worth walking. The [St. Charles Streetcar](/guides/nola-group-st-charles-streetcar-itinerary/) runs up St. Charles and makes its turn near here; the [Riverbend/Carrollton](/neighborhoods/riverbend-carrollton/) neighborhood has some of the most intact residential architecture in the city without the tourist circuit of the Garden District.
 
 **The Maple Street stretch:** A few blocks away from Oak Street, the Maple Street commercial corridor has its own set of bars and restaurants that are not festival-specific. After the afternoon on Oak Street, the Maple Street bars are a natural continuation — local, not tourist-facing, with the specific afternoon energy that follows a neighborhood festival.
 
@@ -148,11 +148,11 @@ The Carrollton and Uptown dining options after the festival provide a good dinne
 
 The Po-Boy Festival happens in November, which is one of the best months to visit New Orleans.
 
-**The weather:** October and November are the city's sweet spot. Humidity has dropped from the summer peak. Temperatures are in the 60-75°F range during the day. Rain is possible but not structurally part of the visit the way it is in late spring. A November outdoor festival is comfortable in a way that the same festival in July is not.
+**The weather:** November is comfortable. Humidity has dropped from the summer peak. Temperatures are in the 60-75°F range during the day. Rain is possible but not structurally part of the visit the way it is in late spring. A November outdoor festival is comfortable in a way that the same festival in July is not.
 
-**The crowds:** November is outside the peak tourist season (Mardi Gras, Jazz Fest, Essence Fest, Halloween). Hotel and villa rates are lower. Restaurant reservations are more available. The city is operating at a sustainable pace rather than at maximum capacity.
+**The crowds:** November sits after October's peak (Halloween in the Quarter, Voodoo Fest, the year's best weather) and before the Mardi Gras buildup — a real lull between two of the city's highest-demand stretches. Rates and reservation availability typically ease off from October's peak. The city is operating at a sustainable pace rather than at maximum capacity.
 
-**The context:** November in New Orleans sits between the end of hurricane season (officially November 1st) and the beginning of the Mardi Gras buildup (which begins in December as krewes start planning and the city's awareness of the season building). It is a moment when the city is genuinely itself rather than performing for its largest events.
+**The context:** November sits in the tail end of hurricane season (which officially runs through the end of the month) and before the Mardi Gras buildup (which begins in December as krewes start planning and the city's awareness of the season building). It is a moment when the city is genuinely itself rather than performing for its largest events.
 
 ---
 
@@ -176,10 +176,6 @@ The Po-Boy Festival happens in November, which is one of the best months to visi
 
 ## Large Group Accommodation for the Po-Boy Festival
 
-The Po-Boy Festival's Carrollton location is an easy streetcar or rideshare from the Bywater and the Lower Garden District — the two neighborhoods with the best large-group villa options in the city.
-
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater-to-Carrollton transit is a rideshare or a streetcar ride (take the St. Claude/Marigny bus to the streetcar, or rideshare directly). The morning-of villa breakfast, the slow coffee, and the post-festival return to the private courtyard structure the day in a way no hotel in the Quarter can. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District to Carrollton transit runs directly up the St. Charles Streetcar line — the group boards at the streetcar stop one block away and rides straight to the Carrollton neighborhood. For groups that want to extend the day into an Uptown evening after the festival, the proximity to the streetcar line makes the movement natural.
+The Po-Boy Festival's Carrollton location is an easy streetcar or rideshare from the [Bywater](/neighborhoods/bywater/) and the [Lower Garden District](/neighborhoods/lower-garden-district/) — two of the neighborhoods with the strongest large-group villa options in the city. Castleday Retreats' Bywater villas and The Syd's Lower Garden District villas both fit; the Lower Garden District has the edge for this specific festival since it sits directly on the St. Charles Streetcar line, which runs straight to Carrollton without a transfer. Heirloom has the deepest inventory across both neighborhoods if you're booking close to the date, and a hotel room block downtown works for groups who'd rather split the streetcar ride into a proper commute than share a kitchen. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
