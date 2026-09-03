@@ -4,12 +4,12 @@ description: "What to pack for your NOLA group trip depends on why you're going 
 category: "Planning & Logistics"
 card_title: "Packing by Group Type"
 card_description: "Bachelorette, corporate, sports weekend, or wedding party — what your group actually needs to pack, and how to share the infrastructure."
-date: 2026-06-21
+date: 2026-09-03
 ---
 
 The generic NOLA packing list is fine. Sunscreen, comfortable shoes, a light rain jacket, something to go out in. You can find that list anywhere. This guide is for the practical problem you actually have: 18 people with 18 different packing strategies, nobody thinking about shared group infrastructure, and someone who inevitably shows up without bug spray expecting the group to have some.
 
-The fix is two things: packing to your group type first, then treating shared supplies as a collective logistics problem rather than everyone's individual problem.
+The fix is two things: packing to your group type first, then treating shared supplies as a collective logistics problem rather than everyone's individual problem. (If you haven't nailed down the rest of the trip's shape yet, the [group trip planning hub](/guides/plan-a-group-trip/) sequences those decisions.)
 
 ---
 
@@ -17,7 +17,7 @@ The fix is two things: packing to your group type first, then treating shared su
 
 - [ ] Identify your group type before anyone packs — it changes what individuals need to bring
 - [ ] Designate one person per subgroup of 4-6 to handle shared infrastructure items (sunscreen, first aid, portable chargers)
-- [ ] Circulate a shared packing list via the group chat at least a week before departure
+- [ ] Circulate a shared packing list via the [group chat](/guides/group-communication-guide/) at least a week before departure
 - [ ] Assign "group supply" responsibility explicitly — don't assume it'll get covered
 - [ ] Check villa amenities before buying things the property already provides
 - [ ] Pack for the weather window of your specific travel dates, not "New Orleans in general"
@@ -30,7 +30,7 @@ The fix is two things: packing to your group type first, then treating shared su
 
 ### Bachelorette Party
 
-The bachelorette trip has a costume element most other group trips don't have. That's the primary packing variable.
+The [bachelorette trip](/guides/bachelorette-party/) has a costume element most other group trips don't have. That's the primary packing variable.
 
 **What's different about bachelorette packing:**
 
@@ -56,7 +56,7 @@ The bachelorette trip has a costume element most other group trips don't have. T
 
 ### Corporate Retreat
 
-The corporate retreat packing list looks like a business trip with outdoor apparel added. The mistake is packing too formally or too informally, depending on which direction the trip leader sets.
+The [corporate retreat](/guides/corporate-team-building-guide/) packing list looks like a business trip with outdoor apparel added. The mistake is packing too formally or too informally, depending on which direction the trip leader sets.
 
 **What's different about corporate retreat packing:**
 
@@ -81,7 +81,7 @@ The corporate retreat packing list looks like a business trip with outdoor appar
 
 ### Sports Weekend
 
-The sports weekend packing challenge is the layered nature of the activities: spectating, potential outdoor activities, potential bar time, and the flexibility to chase wherever the game takes you.
+The [sports weekend](/guides/sports-weekend/) packing challenge is the layered nature of the activities: spectating, potential outdoor activities, potential bar time, and the flexibility to chase wherever the game takes you.
 
 **What's different about sports weekend packing:**
 
@@ -105,7 +105,7 @@ The sports weekend packing challenge is the layered nature of the activities: sp
 
 ### Wedding Party
 
-The wedding party packing situation is uniquely complicated because different members of the group have different roles, different schedules, and different packing needs across a multi-day trip with a highly specific anchor event.
+The [wedding party](/guides/wedding-party/) packing situation is uniquely complicated because different members of the group have different roles, different schedules, and different packing needs across a multi-day trip with a highly specific anchor event.
 
 **What's different about wedding party packing:**
 
@@ -161,9 +161,9 @@ These are consistently the gap in every group packing list:
 
 ## Villa-Specific Packing
 
-When you're staying in a private villa rather than a hotel, a few additional packing categories open up that hotels typically provide but villas sometimes don't — or where the villa's version and your preference diverge.
+When you're staying in a private villa rather than a hotel, a few additional packing categories open up that hotels typically provide but villas sometimes don't — or where the villa's version and your preference diverge. A quick pass through the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) on day one will confirm what's actually there before anyone runs to the store.
 
-**Check the villa's amenity list first.** Castleday and The Syd provide well-stocked villas, but some consumable items (shampoo, conditioner, specialty coffee, specific condiments) are either not provided or provided in quantities that run out with 20 people using them.
+**Check the villa's amenity list first.** Most large-group villas come well-stocked, but some consumable items (shampoo, conditioner, specialty coffee, specific condiments) are either not provided or provided in quantities that run out with 20 people using them.
 
 | Item | Why It Matters for Villa Stays |
 |------|-------------------------------|
@@ -231,15 +231,8 @@ New Orleans weather is not like anywhere else. The temperature is high. The humi
 
 A large group with coordinated packing and shared supplies needs a base of operations that has the space to actually store and access all of it. Hotel rooms don't have that space. A villa does.
 
-**Castleday Retreats** — Three private villas in Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Full kitchens with the equipment a group actually needs, large common areas where you can stage supplies, organize, and distribute shared items, and private pools and courtyards where the group can spread out. The bachelorette parties at Castleday are specifically set up for the group getting-ready infrastructure — large bathrooms, mirrors, and space for the pre-night ritual that a bachelorette group needs.
+The field runs wide here. Castleday Retreats' Bywater villas each have private pools and courtyards where a group can spread supplies out. The Syd's Lower Garden District villas share a heated pool, hot tub, and outdoor kitchen — a natural staging area for a wedding party or corporate group's shared food and gear. Heirloom's large-format homes across the LGD and Central City are the deepest inventory if you're still deciding on dates, and a hotel room block suits a group that would rather each own their key and their bill. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, outdoor kitchen, and courtyard at The Syd give a wedding party or corporate group a central staging area. The outdoor kitchen is where the group's shared food supplies actually get used. One block from the St. Charles Streetcar for anyone who needs to make a supply run.
-
----
-
-## Book Your NOLA Group Trip
-
-- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
-- The Syd — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
 
 Pack right for your group type. Share the load on infrastructure. Arrive ready.
