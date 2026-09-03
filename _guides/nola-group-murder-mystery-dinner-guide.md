@@ -1,24 +1,24 @@
 ---
 title: "New Orleans Murder Mystery Dinner Guide for Large Groups"
-description: "Private and public murder mystery dinner experiences for groups of 10-30 in New Orleans: formats, operators, in-villa shows, bachelorette and corporate customization, and full evening structure."
+description: "Private and public murder mystery dinner experiences for big groups in New Orleans: formats, operators, in-villa shows, bachelorette and corporate customization, and full evening structure."
 category: "Activities & Day Trips"
 card_title: "Murder Mystery Dinners"
-card_description: "Private shows, in-villa experiences, and public murder mystery dinners for groups of 10-30 — how to book, what to customize, and how to build a full evening around it."
-date: 2026-06-14
+card_description: "Private shows, in-villa experiences, and public murder mystery dinners for the whole crew — how to book, what to customize, and how to build a full evening around it."
+date: 2026-09-03
 ---
 
-Murder mystery dinners work for large groups in a way most evening activities don't. You have 15-30 people trying to do something where everyone's engaged — not just the five extroverts while the rest watch. A well-run murder mystery delivers exactly that: roles, stakes, interaction, and a resolution the whole group reaches together.
+Murder mystery dinners work for large groups in a way most evening activities don't. You have the whole crew trying to do something where everyone's engaged — not just the five extroverts while the rest watch. A well-run murder mystery delivers exactly that: roles, stakes, interaction, and a resolution the whole group reaches together.
 
 The format scales. You can run a murder mystery for 10 people in a restaurant private room or for 30 people in a villa with catered dinner and four actors. The customization options — bachelorette scripts, corporate themes, character names pulled from your guest list — are real and often excellent.
 
-The catch is that quality varies enormously between operators and formats. A cheap public show at a tourist restaurant is not the same product as a private event with an experienced company doing a fully customized script. Know what you're buying.
+The catch is that quality varies enormously between operators and formats. A cheap public show at a tourist restaurant is not the same product as a private event with an experienced company doing a fully customized script. Know what you're buying. (If you're still working out where this fits in the trip's overall shape, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions in order.)
 
 ---
 
 ## Quick Checklist
 
 - [ ] Decide: public show (your group joins other guests) or private event (actors perform for your group only) — these are fundamentally different products
-- [ ] For groups of 10+, strongly consider private-only formats; the customization and cohesion are worth the premium
+- [ ] Once the trip goes double-digit headcount, strongly consider private-only formats; the customization and cohesion are worth the premium
 - [ ] For in-villa shows: confirm the operator brings all props, costumes, and scripts; your villa supplies the space and dinner
 - [ ] Book private events 4-6 weeks in advance; bachelorette and corporate dates book faster
 - [ ] Ask about script customization: can character names, inside jokes, or occasion references be incorporated?
@@ -39,9 +39,9 @@ Your group purchases tickets to an existing show running at a restaurant or even
 
 **What you give up:** Cohesion. Your group of 20 is seated at several tables with strangers. The shared debrief — "did you think the butler did it?" — happens fragmentarily because you're not in your own space. Customization is zero.
 
-**When this makes sense:** Groups of 6-10 who want to try the format without committing to a private event. First-timers. Groups on a tight budget. Groups where some members might not be fully bought in.
+**When this makes sense:** A small crew who want to try the format without committing to a private event. First-timers. Groups on a tight budget. Groups where some members might not be fully bought in.
 
-**When it doesn't:** Groups of 15+. Bachelorettes, corporate groups, or birthday trips where the occasion matters. Any trip where group cohesion is part of the point.
+**When it doesn't:** Once the group gets big. Bachelorettes, corporate groups, or birthday trips where the occasion matters. Any trip where group cohesion is part of the point.
 
 ### Private Murder Mystery Events
 
@@ -51,13 +51,13 @@ An operator runs the entire show exclusively for your group. Your group is the a
 
 **What you give up:** A higher per-person cost (you're paying for exclusivity and customization). More lead time required.
 
-**This is the right call for almost all groups of 15+.** The per-person premium is usually modest when you're splitting across 20 people. The experience difference is significant.
+**This is the right call for almost every large group.** The per-person premium is usually modest once you're splitting it across the whole crew. The experience difference is significant.
 
 ### In-Villa Murder Mystery
 
 The operator comes to your property. The show happens in your space — usually the living room, outdoor kitchen, or courtyard — with dinner served by your private chef or a catered delivery.
 
-This format eliminates venue logistics entirely. The group is already home. The actors arrive, the show runs, dinner is served, and everyone ends the evening at the villa. No rideshare coordination, no venue curfews, no minimum bar spend at a restaurant you didn't choose.
+This format eliminates venue logistics entirely. The group is already home — assuming [arrival and setup](/guides/villa-arrival-setup-guide/) went smoothly. The actors arrive, the show runs, dinner is served, and everyone ends the evening at the villa. No rideshare coordination, no venue curfews, no minimum bar spend at a restaurant you didn't choose.
 
 For groups staying at private villas, this is often the highest-value format. The setting is fully yours, the show is customized, and the evening ends exactly where you want it to.
 
@@ -102,9 +102,9 @@ The best operators allow for genuine script customization, not just a name swap.
 - Whether you want guest participation (some people play mini-characters with costumes) or pure spectator format
 - Any inside references you want seeded in
 
-For bachelorette groups: the scenario where the groom is the murder victim, discovered before the wedding, and the bachelorette party has to solve it is a genuine crowd-pleaser. Not every company offers it, but the ones who do pull it off well.
+For [bachelorette groups](/guides/bachelorette-party/): the scenario where the groom is the murder victim, discovered before the wedding, and the bachelorette party has to solve it is a genuine crowd-pleaser. Not every company offers it, but the ones who do pull it off well.
 
-For corporate groups: industry-specific scenarios (the embezzling CFO who becomes the victim, the team retreat that goes wrong) can double as surprisingly effective team-building. The stakes-free but intellectually engaging format works well for corporate groups who hate explicitly structured team activities.
+For corporate groups: industry-specific scenarios (the embezzling CFO who becomes the victim, the team retreat that goes wrong) can double as surprisingly effective team-building — see the [corporate team-building guide](/guides/corporate-team-building-guide/) for how it stacks up against other options. The stakes-free but intellectually engaging format works well for corporate groups who hate explicitly structured team activities.
 
 ---
 
@@ -153,7 +153,7 @@ Murder mystery dinners run 2-3 hours including dinner service. Here's how to str
 
 ### Structure 1: The Villa Night In
 
-**4:30pm** — Private chef arrives, begins dinner prep
+**4:30pm** — [Private chef](/guides/private-chef-guide/) arrives, begins dinner prep
 
 **6:00pm** — Murder mystery operators arrive, set up props and briefing materials
 
@@ -209,7 +209,7 @@ Several companies operate in the New Orleans market and will travel to private v
 
 Search specifically for operators who advertise private group events and villa or offsite capability. Operators who only run fixed public shows at their home venue may not offer the full private experience.
 
-Get at least two quotes. The cost range for a fully private event for 20-30 people varies widely. The per-person math on private events is often better than it initially appears.
+Get at least two quotes. The cost range for a fully private event at full headcount varies widely. The per-person math on private events is often better than it initially appears.
 
 ---
 
@@ -219,7 +219,7 @@ Get at least two quotes. The cost range for a fully private event for 20-30 peop
 
 2. **Assign the lead investigator in advance.** Every murder mystery needs someone willing to actively engage with the actors, ask probing questions, and rally the table's evidence. Ask someone before the event so they're mentally prepared. This isn't about extroversion — it's about willingness.
 
-3. **Set up a shared clue log.** Share a notes app or a paper notebook so the group has one place to track clues. Twenty people trying to hold the full mystery in their heads leads to repeat questions and missed connections.
+3. **Set up a shared clue log.** Share a notes app or a paper notebook so the group has one place to track clues — the same [group-communication](/guides/group-communication-guide/) tools you're already using for the rest of the trip work fine here too. Twenty people trying to hold the full mystery in their heads leads to repeat questions and missed connections.
 
 4. **Order uncomplicated dinner items.** During a murder mystery, the investigative activity competes with the dining experience. This is not the night for dishes requiring sustained attention. Things the group can eat while half-watching an actor interrogation scene work better.
 
@@ -233,15 +233,8 @@ Get at least two quotes. The cost range for a fully private event for 20-30 peop
 
 ## The Accommodation Layer for Murder Mystery Night
 
-If you're doing an in-villa show — the best format for most groups of 15+ — where you stay determines the experience.
+If you're doing an in-villa show — the best format for most large groups — where you stay determines the experience.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The indoor dining and living spaces at each villa are large enough to seat a full group for a catered murder mystery dinner. The Florentine in particular has an elegant indoor setup that works naturally for a dinner-theater format. After the show, the private pool at each villa becomes the post-reveal decompression space. Castleday has a 4.98 average rating across 99 reviews; villa hosts have working relationships with local experience operators and can facilitate vendor connections.
+The field runs wide. Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas each have a private pool, useful for the post-reveal decompression. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub and sit one block from the St. Charles Streetcar, handy if the evening also includes a restaurant-based show. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, and a hotel room block (The Roosevelt, Hotel Peter & Paul, and similar) works for groups mixing budgets who'd rather run the show in a rented event space than a rental. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with rooms designed by local New Orleans artists. The Syd's shared outdoor kitchen and courtyard provide natural staging for a mystery scenario that moves between indoor and outdoor scenes. The shared heated pool and hot tub make the post-show transition smooth. For groups doing a restaurant-based murder mystery, The Syd's St. Charles Streetcar access makes getting to and from venues easy without rideshare logistics for 20 people.
-
----
-
-## Book Your Murder Mystery Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests per villa, large indoor dining spaces, private pools, villa hosts with local vendor connections
-- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared pool and outdoor kitchen, one block from St. Charles Streetcar
+[See where to stay for large groups →](/where-to-stay/)
