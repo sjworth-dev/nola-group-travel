@@ -1,17 +1,17 @@
 ---
 title: "How to Crash a New Orleans Gallery Opening with a Large Group"
-description: "How to attend a New Orleans gallery opening with a large group: St. Claude Second Saturdays, Julia Street openings, the etiquette of walking in, what makes a good gallery night for 15-25 people, and pairing with dinner and a neighborhood bar."
+description: "How to attend a New Orleans gallery opening with a large group: St. Claude Second Saturdays, Julia Street openings, the etiquette of walking in, what makes a good gallery night for the whole crew, and pairing with dinner and a neighborhood bar."
 category: "Activities & Day Trips"
 card_title: "Gallery Opening Guide"
 card_description: "How to do a NOLA gallery opening night with a large group: Second Saturdays on St. Claude, Julia Street Fridays, walk-in etiquette, and what to do after."
-date: 2026-06-16
+date: 2026-09-04
 ---
 
 Gallery openings in New Orleans are semi-public events. That's not a polite fiction — it's how the art economy works here. Galleries hold openings because they want people to see the work, buy the work, and tell other people about the work. A group of 20 people who show up, drink the free wine, engage seriously with the art, and leave without buying anything are still useful to the gallery because they fill the room and create the social proof that makes the work look valued.
 
-You are invited. Not personally, but collectively. Show up, treat it like a real event rather than a tourist activity, and you'll have a gallery night that's one of the more distinctive evenings available in New Orleans.
+You are invited. Not personally, but collectively. Show up, treat it like a real event rather than a tourist activity, and you'll have a gallery night that's one of the more distinctive evenings available in New Orleans. (Still sequencing the rest of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) walks through the decisions in order.)
 
-The key is knowing when these events happen, where they cluster, and how to manage a large group through small gallery spaces without becoming the group that knocked over the sculpture.
+The key is knowing when these events happen, where they cluster, and how to manage a large group through small gallery spaces without becoming the group that knocked over the sculpture. (For more of the city's visual arts scene beyond opening nights, the [art gallery guide](/guides/nola-art-gallery-guide/) covers daytime gallery visits and the museum circuit.)
 
 ---
 
@@ -32,7 +32,7 @@ The key is knowing when these events happen, where they cluster, and how to mana
 
 ### St. Claude Second Saturdays
 
-The most reliable recurring gallery event in New Orleans. On the second Saturday of each month, galleries, studios, and arts spaces along the St. Claude Avenue corridor (from the Marigny through the Bywater and into St. Claude) hold simultaneous openings. This creates a walkable gallery crawl through an active local arts district.
+The most reliable recurring gallery event in New Orleans. On the second Saturday of each month, galleries, studios, and arts spaces along the St. Claude Avenue corridor (from the [Marigny](/neighborhoods/marigny/) through the [Bywater](/neighborhoods/bywater/) and into St. Claude) hold simultaneous openings. This creates a walkable gallery crawl through an active local arts district.
 
 **Why it works for large groups:**
 - Multiple galleries open simultaneously, so the group can split across spaces and reconvene
@@ -53,7 +53,7 @@ Follow local arts organizations and the St. Claude corridor galleries on Instagr
 
 ### Julia Street, Warehouse District — Friday Evenings
 
-Julia Street in the Warehouse District is New Orleans's commercial gallery row. This is where the more established and higher-price galleries operate, representing regional and national artists alongside local work. Friday evenings — not on a fixed date like Second Saturdays, but throughout the year — bring openings to multiple Julia Street galleries.
+Julia Street in the [Warehouse District](/neighborhoods/warehouse-district/) is New Orleans's commercial gallery row. This is where the more established and higher-price galleries operate, representing regional and national artists alongside local work. Friday evenings — not on a fixed date like Second Saturdays, but throughout the year — bring openings to multiple Julia Street galleries. (If your trip lands on the first Saturday of August, the [White Linen Night guide](/guides/nola-group-white-linen-night-guide/) covers the Julia Street corridor's biggest single gallery night of the year.)
 
 **Why it works for large groups:**
 - The Warehouse District has more physical space than the St. Claude corridor — galleries here are larger, some are former industrial spaces, and they can accommodate bigger groups more easily
@@ -204,13 +204,6 @@ Gallery openings run from about 6pm to 10pm, with peak energy in the first two h
 
 ## Where to Stay for Gallery Night Access
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you within walking distance of the St. Claude Arts District and the Second Saturday gallery corridor. The Frenchmen Art Market is a 10-minute walk. For groups with any interest in the local arts scene, this is the right neighborhood to be based in. The private villas accommodate art conversations that continue after the gallery night — common areas large enough for a group to debrief and decompress without the noise of a bar. Castleday holds a 4.98 average across 99 reviews.
+A [Bywater](/neighborhoods/bywater/) base (Castleday Retreats has villas there) puts you within walking distance of the St. Claude Arts District and the Second Saturday gallery corridor, with the Frenchmen Art Market a 10-minute walk. A [Lower Garden District](/neighborhoods/lower-garden-district/) base (The Syd's villas sit here, one block from the St. Charles Streetcar) connects you to the Warehouse District and Julia Street galleries in under 20 minutes without a rideshare. Heirloom has the deepest inventory of large-format homes across both neighborhoods if you're booking on short notice, and a hotel room block downtown puts you a short streetcar or rideshare from either gallery corridor. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's artist-designed interiors are themselves worth engaging with as an orientation to New Orleans visual arts before going out to the galleries — each room in these villas is an original commissioned work. The St. Charles Streetcar connects you to the Warehouse District and Julia Street galleries in under 20 minutes.
-
----
-
-## Plan Your Gallery Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, St. Claude gallery corridor walkable, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors throughout, St. Charles Streetcar one block
+[See where to stay for large groups →](/where-to-stay/)
