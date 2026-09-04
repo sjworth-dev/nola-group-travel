@@ -2,7 +2,7 @@
 title: "Tremé: New Orleans' Oldest Neighborhood"
 description: "Group travel guide to Tremé — birthplace of jazz, historic significance, what to do, proximity to the French Quarter, and why it belongs on every group itinerary."
 category: "Neighborhoods"
-date: 2026-05-24
+date: 2026-09-04
 ---
 
 Tremé is where American music was born. That's not a marketing line — it's historical fact that's been documented, argued about, and ultimately confirmed by historians, musicians, and anyone who has spent time in this neighborhood and can feel what the streets are still carrying.
@@ -68,7 +68,7 @@ This is the stop that separates visitors who understand New Orleans from visitor
 
 The Backstreet Cultural Museum documents Mardi Gras Indian suits, Social Aid and Pleasure Club parades, jazz funerals, and second line culture. It's a small museum in a converted funeral home, and it contains some of the most extraordinary costume work you will ever see in your life.
 
-Mardi Gras Indian suits — elaborate, hand-sewn creations that can weigh over 100 pounds and take a full year to construct — are the centerpiece. The detail, the craft, the cultural significance, and the sheer visual power of these suits is difficult to convey in words.
+Mardi Gras Indian suits — elaborate, hand-sewn creations that can weigh over 100 pounds and take a full year to construct — are the centerpiece. The detail, the craft, the cultural significance, and the sheer visual power of these suits is difficult to convey in words. For the full history behind them, see the [Mardi Gras Indian culture guide](/guides/nola-group-mardi-gras-indian-culture-guide/).
 
 **Practical info:** Verify current hours and admission prices before visiting; small museums like this have variable schedules.
 
@@ -132,7 +132,7 @@ This is a morning or early afternoon activity. Three hours gives you time to act
 
 ### The Sunday Second Line
 
-If you're in New Orleans on a Sunday between September and June, check WWOZ.org for second line parade schedules. Many of the city's Social Aid and Pleasure Clubs are Tremé-based, and parades often move through or near the neighborhood.
+If you're in New Orleans on a Sunday between September and June, check WWOZ.org for second line parade schedules. Many of the city's Social Aid and Pleasure Clubs are Tremé-based, and parades often move through or near the neighborhood — see the [second line Sunday guide](/guides/nola-group-second-line-sunday-guide/) for how to actually show up to one.
 
 Showing up for a Sunday second line in Tremé is the single highest-concentration cultural experience available to a group in New Orleans. Nothing else competes.
 
@@ -140,9 +140,9 @@ Showing up for a Sunday second line in Tremé is the single highest-concentratio
 
 Tremé's borders connect naturally to adjacent neighborhoods. A good group routing:
 
-- **Tremé → Marigny:** Walk down St. Claude toward the Marigny for Frenchmen Street (evening)
+- **Tremé → [Marigny](/neighborhoods/marigny/):** Walk down St. Claude toward the Marigny for Frenchmen Street (evening)
 - **Tremé → French Quarter:** Cross Rampart Street — you're immediately in the Quarter
-- **Tremé → Mid-City:** Follow Esplanade Avenue northwest toward Bayou St. John and City Park
+- **Tremé → [Mid-City](/neighborhoods/mid-city/):** Follow Esplanade Avenue northwest toward Bayou St. John and City Park
 
 ---
 
@@ -176,13 +176,13 @@ A few things worth stating directly:
 
 ---
 
-## Groups of 10-30: Where to Stay
+## Where to Stay for a Culturally Focused Trip
 
-Tremé doesn't have large-group accommodation within its borders, but its closest neighbors do.
+Tremé doesn't have large-group accommodation within its borders, but its closest neighbors do, and a group spending real time here is usually building the whole trip around the city's historically significant neighborhoods — Bywater, Marigny, and Tremé form a connected geography that rewards it.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. From the Bywater, Tremé is a short rideshare or a walkable stretch through the Marigny. This is the natural home base for groups who want to spend serious time in the city's historically significant neighborhoods: Bywater, Marigny, and Tremé form a connected geography that rewards deep exploration. Private pools and full kitchens make the Bywater villa the right base for a culturally focused trip.
+**Castleday Retreats** in the Bywater is a short rideshare or a walkable stretch through the Marigny, with private pools and full kitchens for a group that wants to come back from a heavy day of history and decompress together. Further out, **The Syd** in the Lower Garden District puts the St. Charles Streetcar between the group and the CBD, useful if the trip is anchored more Uptown with Tremé as a day visit; and **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking when you need choice on short notice. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. The St. Charles Streetcar connects Lower Garden District to the CBD quickly, and from there Tremé is a short walk or rideshare. If your group's trip is anchored in Uptown activities but wants to include Tremé on a day visit, this works cleanly. Shared heated pool, hot tub, and sauna for after your neighborhood walks.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -191,6 +191,3 @@ Tremé doesn't have large-group accommodation within its borders, but its closes
 Most visitors spend their entire New Orleans trip in the French Quarter and the Marigny. Those neighborhoods are great. But Tremé is where everything they love about New Orleans came from.
 
 That's worth 3 hours of your trip.
-
-- Castleday Retreats – Bywater, private villas, up to 30/villa
-- The Syd – Lower Garden District, streetcar access, up to 22/villa
