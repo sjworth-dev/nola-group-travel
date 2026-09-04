@@ -1,17 +1,19 @@
 ---
 title: "New Orleans Group Scavenger Hunt Guide for Large Groups"
-description: "Custom and app-guided city scavenger hunts for large groups of 15-30 in New Orleans: team formats, neighborhood routes, scoring logistics, NOLA-specific clue themes, and the full day structure."
+description: "Custom and app-guided city scavenger hunts for large groups in New Orleans: team formats, neighborhood routes, scoring logistics, NOLA-specific clue themes, and the full day structure."
 category: "Activities & Day Trips"
 card_title: "NOLA Group Scavenger Hunt"
-card_description: "City scavenger hunts for groups of 15-30 in New Orleans: app-guided vs. custom, team formats, neighborhood routes, NOLA-specific themes, and full day structure."
-date: 2026-06-15
+card_description: "City scavenger hunts for the whole crew in New Orleans: app-guided vs. custom, team formats, neighborhood routes, NOLA-specific themes, and full day structure."
+date: 2026-09-04
 ---
 
 A city scavenger hunt is one of the best large-group activities NOLA has to offer, for one specific reason: New Orleans is infinitely interesting at street level. Every block has something to find. The architecture, the music, the food culture, the history, the street art — all of it turns a scavenger hunt from a party game into a genuine city discovery.
 
-For groups of 15-30, the format also solves a fundamental large-group problem. Twenty people can't move as a single unit through a city; teams of four can. A scavenger hunt converts your large group into small competing teams, each moving independently through the city, reconvening for scoring and prizes. Everyone gets the group experience and the small-group intimacy at the same time.
+For the whole crew, the format also solves a fundamental large-group problem. Twenty people can't move as a single unit through a city; teams of four can. A scavenger hunt converts your large group into small competing teams, each moving independently through the city, reconvening for scoring and prizes. Everyone gets the group experience and the small-group intimacy at the same time.
 
 Do it well and it's the activity people remember. Do it poorly and it's a confusing afternoon of people looking at their phones.
+
+(Still sequencing the rest of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) walks through the decisions in order.)
 
 ---
 
@@ -76,13 +78,13 @@ The densest concentration of scavenger hunt material in the city. Architecture, 
 
 Better material for groups who've done the French Quarter before. More local-facing, more street art, more architectural variety, better music references.
 
-**Best for:** Groups staying in the Bywater or Marigny who want a neighborhood-based hunt that covers their home territory. Also excellent for groups wanting a less touristy experience.
+**Best for:** Groups staying in the [Bywater](/neighborhoods/bywater/) or [Marigny](/neighborhoods/marigny/) who want a neighborhood-based hunt that covers their home territory. Also excellent for groups wanting a less touristy experience.
 
 **Signature clue types:** Street murals, second line culture references, Frenchmen Street music venue details, shotgun house architectural elements.
 
 ### The Garden District and Magazine Street
 
-Strong visual material — the mansion architecture, Lafayette Cemetery, the Magazine Street commercial corridor. More spread out than the French Quarter; teams will cover more ground.
+Strong visual material — the mansion architecture, Lafayette Cemetery, the Magazine Street commercial corridor. More spread out than the French Quarter; teams will cover more ground. The [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/) and the [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) both cover this territory in more depth if the hunt turns into a longer day.
 
 **Best for:** Groups with a cultural or architectural interest thread; also good for groups who want a Cemetery stop built into the hunt.
 
@@ -103,7 +105,7 @@ What separates a good NOLA scavenger hunt from a generic one is clue design that
 ### Architectural Details
 - Find a specific decorative motif on a named block (fleur-de-lis ironwork, Greek Revival columns, a particular cornice pattern)
 - Photograph the oldest or tallest structure in a designated area
-- Find a Creole cottage vs. a shotgun house and document the differences
+- Find a Creole cottage vs. a shotgun house and document the differences — the [architecture tour guide](/guides/nola-group-architecture-tour-guide/) is a good primer for whoever's writing these clues
 
 ### Music Culture
 - Identify a venue by its exterior signage before finding it on a map
@@ -113,7 +115,7 @@ What separates a good NOLA scavenger hunt from a generic one is clue design that
 ### Food and Drink History
 - Find a location associated with a specific cocktail's origin
 - Locate the oldest operating restaurant in a neighborhood
-- Find a po-boy shop and order a specific regional style to document
+- Find a po-boy shop and order a specific regional style to document — if the debate about which shop wins carries past the hunt, the [po-boy smackdown guide](/guides/nola-group-po-boy-smackdown-guide/) turns it into its own event
 
 ### Street Art and Murals
 - Find murals by local artists (by description, not GPS coordinate)
@@ -221,17 +223,8 @@ Keep prizes experiential rather than physical:
 
 ## The Villa as Hunt HQ
 
-Scavenger hunts need a home base — the briefing point, the finish line, and the celebration space.
+Scavenger hunts need a home base — the briefing point, the finish line, and the celebration space — and where you're staying shapes which neighborhoods are actually convenient to hunt in.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts the hunt launch point within walking distance of the Marigny and French Quarter — two of the best hunting neighborhoods in the city. The villa's outdoor spaces handle the briefing, the return, and the post-hunt celebration without any venue logistics. Pool access on the return makes the prize for the winners even better. Castleday holds a 4.98 average across 99 reviews.
+A [Bywater](/neighborhoods/bywater/) base (Castleday Retreats has villas there) puts the launch point walking distance from the Marigny and French Quarter, two of the best hunting neighborhoods in the city, and the private pool makes a good landing spot for the winning team. A [Lower Garden District](/neighborhoods/lower-garden-district/) base (The Syd's villas sit here, one block from the streetcar) puts the Garden District and Magazine Street routes close to home, with shared courtyard space for the briefing and the scoring reveal. Heirloom has the deepest inventory of large-format homes across both neighborhoods if you're booking on short notice, and a hotel room block works fine too — the finish point just needs to be a lobby bar or a nearby restaurant instead of a courtyard. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's shared courtyard spaces are ideal for pre-hunt briefings and post-hunt celebrations with the whole group together. The outdoor kitchen means the celebration meal can happen right there rather than requiring a restaurant reservation.
-
-Both properties give the organizer a real base of operations and give the group a genuine communal space for the debrief and celebration — which is where half the day's value lives.
-
----
-
-## Plan Your NOLA Hunt
-
-- Castleday Retreats — Bywater villas, up to 30 guests, walking distance to Marigny and French Quarter hunt zones, private pools
-- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and courtyard for hunt HQ
+[See where to stay for large groups →](/where-to-stay/)
