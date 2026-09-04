@@ -2,7 +2,7 @@
 title: "Central Business District (CBD) — New Orleans Group Travel Guide"
 description: "The CBD is New Orleans' downtown core. Here's what groups need to know: hotels, the Superdome, proximity to everything, and what it's actually like to stay here."
 category: "Neighborhoods"
-date: 2026-05-24
+date: 2026-09-04
 ---
 
 The CBD doesn't have a sexy reputation. It's the office towers, the Superdome, the convention center. But as a base for large group travel, it has real advantages that the cooler neighborhoods can't match.
@@ -60,11 +60,7 @@ Large hotel chains with convention-scale capacity are clustered here: the Marrio
 
 You give up togetherness. Twenty people in 10 hotel rooms are just acquaintances who happen to be in the same building. There's no kitchen where people gather at midnight, no shared pool where the real conversations happen, no living room for morning debriefs.
 
-For groups where the connection is the point — not just the event — the CBD hotel model falls short. For those groups:
-
-**Castleday Retreats** in the Bywater (15 minutes from the CBD by car) offers private villas sleeping up to 30, with private pools, full kitchens, and the kind of shared space that creates actual bonding. If your group is here for a convention but you want the trip to feel like more than a work trip, this is worth considering — commute to convention center, retreat to the villa.
-
-**The Syd** in the Lower Garden District is even closer — 10 minutes by Uber, and the St. Charles Streetcar gets you to Canal Street in about 20 minutes. Groups of up to 22 per villa, shared pool, hot tub, and sauna.
+For groups where the connection is the point — not just the event — the CBD hotel model falls short. Hotel Perle, actually based in the CBD/Warehouse District, splits the difference: group suites with separate bills but still walkable to everything on this page. For a fuller kitchen-and-pool setup, that usually means looking to the Bywater or Lower Garden District instead — see the property rundown at the end of this page.
 
 ---
 
@@ -155,10 +151,6 @@ If that's not you — if you're here for New Orleans itself, not just an event i
 
 ## Where to Stay: Beyond CBD Hotels
 
-For groups that want more than a hotel experience:
+For groups that want more than a hotel experience, the field spans a range of setups. **Hotel Perle**, right here in the CBD/Warehouse District, offers group suites with separate bills and a rooftop pool — the closest thing to a villa without leaving the neighborhood. Fifteen to twenty minutes out, **Castleday Retreats** in the Bywater and **The Syd** in the Lower Garden District both put private villas and a shared pool within Uber or streetcar range, and **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking for short-notice availability. Either way, you attend your convention or game, then come back to something that feels like New Orleans — not just a branded hotel room. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Private villas in Bywater, up to 30 guests each. Private pools. Art-filled interiors. 15 minutes from the CBD.
-
-**The Syd** — Multiple villas in Lower Garden District, up to 22 guests each. Shared pool, hot tub, sauna. 20 minutes from the CBD via streetcar.
-
-Both options give your group a real home base. You attend your convention or game, then come back to something that feels like New Orleans — not just a branded hotel room.
+[See where to stay for large groups →](/where-to-stay/)
