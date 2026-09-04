@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Plantation Tour Guide for Large Groups"
-description: "Plantation tours as a large group activity near New Orleans: the difference between heritage tours and romanticized plantation tours, Whitney Plantation logistics, Cajun Country context, and how to structure a meaningful full-day experience for groups of 10-30."
+description: "Plantation tours as a large group activity near New Orleans: the difference between heritage tours and romanticized plantation tours, Whitney Plantation logistics, Cajun Country context, and how to structure a meaningful full-day experience for the whole crew."
 category: "Activities & Day Trips"
 card_title: "Plantation Tour Guide"
-card_description: "Whitney Plantation and heritage tours for large groups — the ethical framing, logistics from New Orleans, Cajun Country context, and full-day structure for 10-30 people."
-date: 2026-06-15
+card_description: "Whitney Plantation and heritage tours for large groups — the ethical framing, logistics from New Orleans, Cajun Country context, and full-day structure for a big crew."
+date: 2026-09-04
 ---
 
 Plantation tours in Louisiana are not all the same, and the differences matter. Some focus on architecture, food, and the lifestyle of planter-class families. Others — most prominently Whitney Plantation — center the experience of enslaved people who built these estates and lived and died there. The distinction is not subtle.
 
 For groups visiting New Orleans who want to understand the region's history, a plantation tour can be one of the most important half-days of the trip. Done right, it's not depressing — it's clarifying. It puts the city's culture, cuisine, music, and architecture into a context that makes everything else click.
 
-This guide covers how to do it right, specifically for groups of 10-30 visiting from New Orleans.
+This guide covers how to do it right for a big group traveling from New Orleans. If you haven't sequenced the rest of the trip yet, [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) walks through the order of operations — a plantation day is the kind of thing you want to schedule early, not squeeze in.
 
 ---
 
@@ -80,7 +80,7 @@ The River Road corridor along both sides of the Mississippi between New Orleans 
 | Laura Plantation | ~50 min | Creole family history, enslaved quarters | Advance recommended |
 | Destrehan Plantation | ~30 min | Creole architecture, mixed history | Walk-in possible |
 
-**For most groups:** Whitney is the anchor. If you have a full day and the group has energy for two sites, pairing Whitney with one of the Creole-history focused sites gives you a more complete picture of the plantation system from multiple perspectives.
+**For most groups:** Whitney is the anchor. If you have a full day and the group has energy for two sites, pairing Whitney with one of the Creole-history focused sites gives you a more complete picture of the plantation system from multiple perspectives. For a version of this day trip built entirely around the Whitney visit and the River Road drive itself, see the [River Road day trip guide](/guides/nola-group-nola-day-trip-river-road-guide/).
 
 ---
 
@@ -109,9 +109,9 @@ This is a long day. It works best with a charter van so the group isn't driving.
 You will not Uber 20 people to a plantation site and back. Charter transport is the correct approach.
 
 **Options:**
-- **Charter van or minibus:** The most practical option for groups of 15-30. A single vehicle, one driver, you set the schedule, no one gets stranded if someone is slow getting back to the parking lot.
-- **Multiple rideshares:** Workable for groups of 10-12. Higher coordination overhead. Someone always ends up in a different car going the wrong direction.
-- **Rental cars:** If the group is smaller (10-14) and people are comfortable driving in Louisiana, two rental cars with designated drivers is reasonable.
+- **Charter van or minibus:** The most practical option once the group gets past a dozen or so people. A single vehicle, one driver, you set the schedule, no one gets stranded if someone is slow getting back to the parking lot. A [charter bus](/guides/nola-group-charter-bus-guide/) is the same logic at full headcount.
+- **Multiple rideshares:** Workable for a smaller crew. Higher coordination overhead. Someone always ends up in a different car going the wrong direction.
+- **Rental cars:** If the group is on the smaller side and people are comfortable driving in Louisiana, two rental cars with designated drivers is reasonable.
 
 Book charter transport as early as you book the tour. The same vehicles that handle airport runs do plantation day trips — they book up, especially on weekends.
 
@@ -148,17 +148,10 @@ A group that's been briefed arrives ready to receive the content. A group that a
 
 ---
 
-## Where to Stay for a Plantation Day Trip
+## The Large-Group Piece: Where You Land After
 
-A plantation tour is a day-trip activity — you return to New Orleans in the evening. Having a villa to come back to matters more after this kind of day than after a night at a bar.
+A plantation tour is a day-trip activity — you return to New Orleans in the evening. Having a real base to come back to matters more after this kind of day than after a night at a bar, because the group usually wants a quiet dinner and a chance to talk rather than another night out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's art-filled interiors and private pool give the group a space to gather and decompress after a heavy day. The Bywater neighborhood itself — Black-owned restaurants, local galleries, the levee walk — provides a meaningful contemporary counterpoint to what you've spent the day learning. Rated 4.98 across 99 reviews.
+This is exactly the kind of headcount that outgrows a hotel floor. A private villa in the [Bywater](/neighborhoods/bywater/) or Lower Garden District, or an apartment-style rental with a shared pool, gives a big group a real kitchen and living space to decompress in rather than scattering to hotel rooms. **Castleday Retreats** in the Bywater and **The Syd** in the Lower Garden District are two options built around private-pool villas at this scale; **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking when you need availability on short notice; and a hotel room block works for groups who'd rather split the bill and walk to dinner separately. For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, designed by local New Orleans artists. The Syd's shared outdoor kitchen and heated pool are perfect for a quiet group dinner after a full-day excursion — cook together, debrief, stay in for the night.
-
----
-
-## Plan Your Plantation Day Trip
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, art-filled interiors, close to Bywater's living Black cultural heritage
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, walkable to the Garden District's antebellum architectural corridor
+[See where to stay for large groups →](/where-to-stay/)
