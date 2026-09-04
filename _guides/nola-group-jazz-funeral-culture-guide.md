@@ -4,14 +4,14 @@ description: "What a jazz funeral is, how to encounter one respectfully as a vis
 category: "Culture & History"
 card_title: "Jazz Funeral Culture Guide"
 card_description: "What jazz funerals actually are, how to encounter one respectfully as a visitor, the difference between public and private, and why this tradition is the key to understanding everything else about New Orleans."
-date: 2026-06-17
+date: 2026-09-04
 ---
 
 If you're lucky, you'll encounter one. A brass band turns onto your street while you're having coffee. The music is slow and mournful at first — a dirge, recognizable even if you can't name it. Then comes the shift. The tempo changes. The mourners, who were walking in quiet procession behind the hearse, begin to move. Umbrellas open. The crowd that gathered on the sidewalk joins in. What began as a funeral becomes something else: a celebration of a life, a communal act of grief and joy at the same time.
 
 This is a jazz funeral. It is not a performance. It is not a tourist attraction. It is a living cultural practice that has been happening in New Orleans since at least the mid-1800s. Understanding what you're looking at — and how to engage with it — matters.
 
-Here's what every large group visiting New Orleans should know.
+Here's what every large group visiting New Orleans should know. (Still sequencing the rest of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) walks through the decisions in order.)
 
 ---
 
@@ -109,9 +109,9 @@ The same songs appear at jazz funerals decade after decade because they carry sp
 
 You cannot understand New Orleans music, New Orleans community, or New Orleans identity without understanding the jazz funeral. It is the thread that connects everything.
 
-**The second line parade:** The weekly neighborhood second line parades that happen on Sunday afternoons throughout fall and spring in New Orleans are direct descendants of the jazz funeral second line. The brass band, the social aid and pleasure club, the community dancing in the street — all of it comes from the same tradition. (See the separate second line guide for how to find and attend a neighborhood second line.)
+**The second line parade:** The weekly neighborhood second line parades that happen on Sunday afternoons throughout fall and spring in New Orleans are direct descendants of the jazz funeral second line. The brass band, the social aid and pleasure club, the community dancing in the street — all of it comes from the same tradition. (See the [second line guide](/guides/second-line-guide/) and the [second line Sunday guide](/guides/nola-group-second-line-sunday-guide/) for how to find and attend a neighborhood second line.)
 
-**Mardi Gras Indians:** The Mardi Gras Indian tradition, in which Black men create elaborate hand-sewn suits and appear on Mardi Gras morning and Super Sunday, is connected to the same network of mutual aid societies and community cultural practices that produce jazz funerals. Understanding one deepens understanding of the other.
+**Mardi Gras Indians:** The [Mardi Gras Indian tradition](/guides/nola-group-mardi-gras-indian-culture-guide/), in which Black men create elaborate hand-sewn suits and appear on Mardi Gras morning and Super Sunday, is connected to the same network of mutual aid societies and community cultural practices that produce jazz funerals. Understanding one deepens understanding of the other.
 
 **New Orleans brass bands today:** The bands you hear on Frenchmen Street on a Friday night are direct inheritors of the jazz funeral tradition. The songs, the instruments, the rhythmic approach — all of it comes from this. When a brass band plays "When the Saints Go Marching In" at a bar in the Marigny, they are playing a jazz funeral song. That context is part of what you're hearing.
 
@@ -168,7 +168,7 @@ This is not a performance. It is a living tradition. New Orleans will show it to
 | 10:15am | Backstreet Cultural Museum — allow 45-60 minutes for the group to move through the collections |
 | 11:15am | Walk through the Tremé residential blocks — Tremé is the oldest surviving African American neighborhood in the country |
 | 12:00pm | Lunch in the Tremé or nearby |
-| 1:30pm | Optional: St. Louis Cemetery No. 1 guided tour (book in advance) |
+| 1:30pm | Optional: St. Louis Cemetery No. 1 guided tour (book in advance — the [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) covers group logistics) |
 | 3:00pm | Return to villa — debrief, pool, free time |
 | 8:00pm | Frenchmen Street — experience the brass band tradition in a live performance context with the cultural context you now have |
 
@@ -194,13 +194,6 @@ This is not a performance. It is a living tradition. New Orleans will show it to
 
 ## Base Camp for a Cultural Deep Dive
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location puts your group in the neighborhood adjacent to the Tremé — the walk to Congo Square, Armstrong Park, and the Backstreet Cultural Museum is reasonable on foot. Returning from a morning of cultural context to the Bywater means proximity to the local music and art scene that carries the same tradition forward. Castleday holds a 4.98 average across 99 reviews.
+A [Bywater](/neighborhoods/bywater/) base (Castleday Retreats has villas there) puts your group in the neighborhood adjacent to the Tremé — the walk to Congo Square, Armstrong Park, and the Backstreet Cultural Museum is reasonable on foot. A [Lower Garden District](/neighborhoods/lower-garden-district/) base (The Syd's villas sit here, one block from the streetcar) gives direct streetcar access to the French Quarter and adjacent neighborhoods for a touring day that covers the cemetery, Congo Square, and the Tremé. Heirloom has the deepest inventory of large-format homes across both neighborhoods if you're booking on short notice, and a hotel room block works fine too — this is a walking-and-transit day more than a villa day. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's location gives direct streetcar access to the French Quarter and adjacent neighborhoods for groups building a cultural touring day that includes the cemetery, Congo Square, and the Tremé.
-
----
-
-## Plan Your NOLA Cultural Trip
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, hot tub, sauna, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
