@@ -3,8 +3,8 @@ title: "New Orleans Second Line Umbrella Making Workshop Guide for Large Groups"
 description: "Hands-on second line umbrella and parasol making workshops for large groups: how to find operators, the craft process, how it connects to NOLA second line culture, and how to incorporate finished parasols into an actual second line experience."
 category: "Activities & Day Trips"
 card_title: "Second Line Umbrella Making"
-card_description: "Parasol and second line umbrella making workshops for groups of 10-30 — craft process, cultural context, how to find operators, and how to use finished umbrellas in an actual second line."
-date: 2026-06-15
+card_description: "Parasol and second line umbrella making workshops for the whole crew — craft process, cultural context, how to find operators, and how to use finished umbrellas in an actual second line."
+date: 2026-09-04
 ---
 
 Second line umbrella and parasol making is one of the most genuinely local workshop experiences you can do in New Orleans. It's not a souvenir activity. It connects directly to one of the city's living cultural traditions — the Social Aid and Pleasure Club second line parades that move through neighborhoods every Sunday — and it produces something you actually use, rather than something you put in a bag and forget about.
@@ -111,7 +111,7 @@ NOLA's Social Aid and Pleasure Club second lines happen every Sunday afternoon f
 
 For groups that want to control the experience completely, you can hire a brass band and organize a permitted private second line route. This is a real production — see our [jazz second line booking guide](/guides/nola-jazz-second-line-bookings) for the full logistics. But the combination of making your own parasols and then marching with them in a private second line you organized is genuinely extraordinary.
 
-**The ideal group size:** 20-30 people is the sweet spot for a private second line. Enough critical mass to feel like a real parade; small enough to move as a coherent group.
+**The ideal group size:** A full crew is the sweet spot for a private second line — enough critical mass to feel like a real parade, small enough to move as a coherent group.
 
 ### Option C: Villa Second Line
 
@@ -132,7 +132,7 @@ For groups that can't coordinate timing with a real second line, bring the energ
 
 ## Group Coordination Considerations
 
-For groups of 20-30, the workshop has logistical dimensions:
+Once the trip goes well past a dozen, the workshop has logistical dimensions:
 
 **Space:** Most workshops require a table per participant for spreading out materials. A group of 25 needs significant table area. Confirm the workshop space can accommodate your group before booking.
 
@@ -150,7 +150,7 @@ Several large-group workshop operators will bring the workshop to your villa rat
 
 Clearing a dining room table or setting up folding tables in the outdoor space creates a workshop environment. The operator brings all materials. The group doesn't have to transport 25 people to a workshop location. And afterward, the second line starts from the villa — either joining a street second line nearby or marching through the neighborhood with the brass band you booked.
 
-When exploring workshop operators, ask specifically: "Do you do private villa workshops for groups of 20-30?" Many do.
+When exploring workshop operators, ask specifically: "Do you do private villa workshops for a group at full headcount?" Many do.
 
 ---
 
@@ -174,13 +174,6 @@ When exploring workshop operators, ask specifically: "Do you do private villa wo
 
 ## The Right Base for a Second Line Workshop Day
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater neighborhood is directly adjacent to the communities where second line culture lives — the Tremé and the Seventh Ward are minutes away. The villa's outdoor spaces and large dining areas can accommodate an in-villa workshop setup for groups of up to 30. After the workshop, the neighborhood provides immediate access to real second line routes. Castleday holds a 4.98 average across 99 reviews.
+A villa base makes the in-villa workshop option straightforward — a dining table or outdoor space for the craft session, then a straight walk or short ride to the second line. Castleday Retreats has villas in the Bywater, directly adjacent to the communities where second line culture lives — the Tremé and the Seventh Ward are minutes away. The Syd's Lower Garden District villas sit one block from the St. Charles Streetcar, an easy transit line to second line neighborhoods, with courtyard space that works well for a workshop setup. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, and a hotel room block works for groups that would rather do the workshop off-site and skip the in-villa logistics. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local-artist-designed rooms and a shared outdoor kitchen, heated pool, hot tub, and sauna. The Syd's courtyard and outdoor spaces work well for in-villa workshop setups — the outdoor kitchen and courtyard are designed for exactly this kind of group-gathering-around-a-shared-activity energy. Post-workshop, the St. Charles Streetcar is one block away for easy transit to second line neighborhoods.
-
----
-
-## Book Your Workshop Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests, adjacent to second line culture neighborhoods, large outdoor spaces for in-villa workshops
-- The Syd — Lower Garden District villas, up to 22 guests, courtyard workshop space, one block from St. Charles Streetcar to second line neighborhoods
+[See where to stay for large groups →](/where-to-stay/)
