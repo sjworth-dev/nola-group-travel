@@ -2,7 +2,7 @@
 title: "Algiers Point: The Other Side of the River"
 description: "Algiers Point neighborhood guide for large groups visiting New Orleans: the free ferry from the French Quarter, historic architecture, what to do on the West Bank, and whether it's worth the trip."
 category: "Neighborhoods"
-date: 2026-05-25
+date: 2026-09-04
 ---
 
 Algiers Point is the only part of New Orleans that sits on the West Bank of the Mississippi River. Take the Canal Street ferry from the French Quarter, cross the Mississippi in seven minutes for free, and you step off into a neighborhood that feels entirely different from the city you just left.
@@ -76,7 +76,7 @@ The ferry return runs into the evening — check the schedule. An early evening 
 **Best occasion for a group visit:**
 - A day with a free morning or early afternoon
 - After a long bar or Bourbon Street night when your group wants a genuinely different kind of experience
-- As part of a walking-and-seeing day that includes the riverfront, the French Quarter, and then the crossing
+- As part of a walking-and-seeing day that includes the riverfront, the [French Quarter](/neighborhoods/french-quarter/), and then the crossing — see the [riverfront evening guide](/guides/nola-group-riverfront-evening-guide/) for how to sequence a full riverfront day
 - A day where half the group wants something active and you want a low-key alternative
 
 ---
@@ -100,7 +100,7 @@ Algiers Point works best as a component of a larger day structure, not as a stan
 - Evening: Your usual program
 
 **The full loop:**
-- Include Algiers as part of a day that covers the riverfront — start at the Aquarium of the Americas, walk the Riverwalk, cross on the ferry to Algiers, spend 90 minutes, return, continue along the riverfront toward the French Quarter
+- Include Algiers as part of a day that covers the riverfront — start at the Aquarium of the Americas, walk the Riverwalk, cross on the ferry to Algiers, spend 90 minutes, return, continue along the riverfront toward the French Quarter. If a jazz cruise is on the itinerary, the [Steamboat Natchez guide](/guides/nola-group-steamboat-natchez-guide/) covers pairing it with the same riverfront stretch.
 
 ---
 
@@ -149,19 +149,14 @@ Algiers Point works best as a component of a larger day structure, not as a stan
 
 ## Where to Stay
 
-Algiers Point is not a base for a group trip — there are no large private villa rentals on the West Bank that serve visitors in this way. Your group will be based on the East Bank and visiting Algiers as a day excursion.
+Algiers Point is not a base for a group trip — there are no large private villa rentals on the West Bank that serve visitors in this way. Your group will be based on the East Bank and visiting Algiers as a day excursion, so what matters is proximity to the ferry terminal rather than the West Bank itself.
 
-For groups wanting to explore all of New Orleans including the West Bank crossing:
+**Castleday Retreats** in the Bywater puts you close to the river and a short Uber or bike ride from the French Quarter ferry terminal. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, connects to the Canal Street line that runs to the ferry landing. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking for short-notice availability, and a hotel room block near the Quarter puts you steps from the ferry terminal itself. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater location puts you well-positioned for a Algiers Point excursion: close to the river, close to the French Quarter ferry terminal (a short Uber or bike ride), and close to Frenchmen Street for the evening. Private pools, full kitchens, complete privacy.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. The Canal Street Streetcar line connects easily to the ferry terminal. The Syd's location in the Lower Garden District puts you near the streetcar lines that serve the entire East Bank, and the cross-river excursion fits naturally into a day that might also include Magazine Street, the Garden District, or Uptown.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
 ## Planning Your Trip
 
 Algiers Point fits best into group trips that already have the French Quarter, Marigny, and main neighborhoods covered and are looking for something different on one of their days. It's the kind of thing you remember and recommend — the crossing that most visitors don't make.
-
-- Castleday Retreats — Bywater, up to 30 guests per villa, private pools, short ride to the ferry terminal
-- The Syd — Lower Garden District, up to 22 guests, streetcar access to Canal Street and the ferry landing
