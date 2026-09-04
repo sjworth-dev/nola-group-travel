@@ -1,17 +1,17 @@
 ---
-title: "Saints Season Group Guide: Gameday Logistics for Groups of 15-30"
+title: "Saints Season Group Guide: Gameday Logistics for Your Crew"
 description: "Full planning guide for taking a large group to a New Orleans Saints home game: Caesars Superdome logistics, the tailgate-to-kickoff timeline, bar vs. stadium decision framework, and the NOLA sports culture that makes a Saints weekend worth the trip."
 category: "Festivals & Events"
 card_title: "Saints Season Full Guide"
-card_description: "Everything a group of 15-30 needs for a Saints home game: Superdome logistics, tailgate structure, the bar vs. stadium decision, and the NOLA sports culture that makes this more than just a football game."
-date: 2026-06-28
+card_description: "Everything the whole crew needs for a Saints home game: Superdome logistics, tailgate structure, the bar vs. stadium decision, and the NOLA sports culture that makes this more than just a football game."
+date: 2026-09-04
 ---
 
 A Saints home game is not like a home game anywhere else. The Caesars Superdome is one of the loudest indoor stadiums in professional football, the tailgate culture is specific to New Orleans in ways that matter, and the city around the stadium is built for the kind of large-group experience that doesn't exist in most NFL markets. The combination of a live game, a charged crowd, and a city that opens fully before and after the final whistle is genuinely hard to replicate.
 
-For a group of fifteen to thirty people, a Saints weekend has a specific set of logistics challenges. Tickets at scale, transport to and from the Superdome, the pre-game structure, and what to do when your group splits between people who want the full stadium experience and people who'd rather watch at a serious Saints bar nearby. All of it is solvable with the right framework.
+For the whole crew, a Saints weekend has a specific set of logistics challenges. Tickets at scale, transport to and from the Superdome, the pre-game structure, and what to do when your group splits between people who want the full stadium experience and people who'd rather watch at a serious Saints bar nearby. All of it is solvable with the right framework.
 
-This guide is the full Saints season playbook for large groups — from deciding whether to go inside the stadium to what to do when the game ends and the city is alive.
+This guide is the full Saints season playbook for large groups — from deciding whether to go inside the stadium to what to do when the game ends and the city is alive. (Still working out where a Saints weekend fits in the bigger trip? The [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions in order.)
 
 ---
 
@@ -55,11 +55,11 @@ For groups above twenty, a hybrid model often works well: ten to twelve go to th
 
 The Superdome sits at the edge of the CBD, roughly a mile from the French Quarter and accessible from Uptown via the St. Charles streetcar. For large groups:
 
-**Charter van or minibus:** The cleanest option for fifteen to twenty people. Drop-off near Champions Square on game day, pickup from a pre-agreed location two hours postgame when Uber surge has settled.
+**Charter van or minibus:** The cleanest option once the group hits double digits. Drop-off near Champions Square on game day, pickup from a pre-agreed location two hours postgame when Uber surge has settled. The [charter bus guide](/guides/nola-group-charter-bus-guide/) covers booking logistics at this scale.
 
 **Rideshare caravan:** Works for smaller sub-groups. Request within a few minutes of each other, share a destination, convoy. The problem is postgame — the demand spike around the Superdome makes this expensive and slow.
 
-**Streetcar:** The St. Charles line connects Uptown and the Garden District to the CBD. For groups staying in the Lower Garden District, this is a legitimate option to the stadium and a solid return route if you're comfortable with post-game crowding.
+**Streetcar:** The [St. Charles streetcar](/guides/nola-group-st-charles-streetcar-itinerary/) connects Uptown and the Garden District to the CBD. For groups staying in the [Lower Garden District](/neighborhoods/lower-garden-district/), this is a legitimate option to the stadium and a solid return route if you're comfortable with post-game crowding.
 
 **Walking:** From the French Quarter, the Superdome is a 15-20 minute walk through the CBD. This works for pre-game. Walking home postgame in a large group at 10pm is reasonable; walking home at 11pm in January in a crowd of 70,000 is slower than it sounds.
 
@@ -110,11 +110,11 @@ A few things that distinguish a real Saints bar from a regular sports bar on gam
 
 For large groups, the two formats that work best:
 
-**Private room booking:** Some sports bars and bars near the Superdome have private rooms or semi-private sections that can be reserved with a minimum spend. For groups of fifteen to twenty, this is the move — you stay together, you have a screen, you have service, and you don't have to compete for table space in a bar that fills up by noon on a 3pm kickoff.
+**Private room booking:** Some sports bars and bars near the Superdome have private rooms or semi-private sections that can be reserved with a minimum spend. Once the group goes well past a dozen, this is the move — you stay together, you have a screen, you have service, and you don't have to compete for table space in a bar that fills up by noon on a 3pm kickoff.
 
 **Early arrival at a large-format bar:** Saints bars with big floors and multiple screens can accommodate walk-in groups if you arrive before capacity builds. For a 3pm kickoff, that means being there by noon. For a noon kickoff, by 10am.
 
-The bars in the Garden District and Uptown corridor — particularly on Magazine Street and the side streets off St. Charles — have some of the most concentrated Saints fandom in the city outside the stadium itself.
+The bars in the Garden District and Uptown corridor — particularly on [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/) and the side streets off St. Charles — have some of the most concentrated Saints fandom in the city outside the stadium itself. If the group wants a proper sports-bar crawl beyond gameday, the [sports bar guide](/guides/nola-group-sports-bar-guide/) covers the rest of the circuit, and [sports-weekend](/guides/sports-weekend/) has the wider framework for building a whole trip around NOLA's sports calendar.
 
 ---
 
@@ -126,7 +126,7 @@ The hour immediately after the game ends, the CBD and French Quarter corridors a
 
 **Option 1: Postgame bar anchor.** Pick a bar — not adjacent to Champions Square — that the group walks to after the game. Spend thirty to sixty minutes there while transport normalizes. The group stays together, the mood is already up or down from the game, and the conversation naturally happens. Then move.
 
-**Option 2: Go straight to Frenchmen Street.** If the stadium or the watch party bar was in the CBD, Frenchmen Street in the Marigny is a fifteen-minute cab ride and a different energy entirely. The game crowd thins, the live music is starting, and NOLA's late-night structure begins.
+**Option 2: Go straight to Frenchmen Street.** If the stadium or the watch party bar was in the CBD, [Frenchmen Street](/neighborhoods/marigny/) in the Marigny is a fifteen-minute cab ride and a different energy entirely. The game crowd thins, the live music is starting, and NOLA's late-night structure begins.
 
 **Option 3: Return to the villa.** For a night-two or night-three group that's already found its rhythm at home base, coming back to the villa after the game and organizing a late night from there is often the right call. The kitchen is open, the drinks are already bought, and the group can decide what kind of night it wants without coordinating in a packed bar.
 
@@ -185,6 +185,6 @@ A Saints weekend for twenty people involves a pre-game window that can last four
 
 Groups spread across multiple hotel rooms coordinate the pre-game timeline by text message — inevitably with sub-groups ready at different times, in different parts of the hotel, unsure whether to wait or meet outside. Groups in a shared villa have a kitchen table to plan around, a front door to leave from, and a place to come home to that's already stocked.
 
-Castleday Retreats in Bywater puts groups east of the CBD — about fifteen minutes by car to the Superdome, with easy access to Frenchmen Street for postgame. The Syd in the Lower Garden District is on the St. Charles Streetcar line, which connects directly to the CBD without requiring a rideshare at all.
+Castleday Retreats in [Bywater](/neighborhoods/bywater/) puts groups east of the CBD — about fifteen minutes by car to the Superdome, with easy access to Frenchmen Street for postgame. The Syd in the Lower Garden District is on the St. Charles Streetcar line, which connects directly to the CBD without requiring a rideshare at all.
 
 [See where to stay for large groups →](/where-to-stay/)
