@@ -2,7 +2,7 @@
 title: "Gentilly Neighborhood Guide for Groups"
 description: "Gentilly for large group trips: Dillard University, Bayou Gentilly, Gentilly Ridge, and the off-the-tourist-map neighborhoods for groups who want to go further into the real New Orleans."
 category: "Neighborhoods"
-date: 2026-05-27
+date: 2026-09-05
 ---
 
 Most group trips to New Orleans follow the same five-neighborhood circuit: French Quarter, Marigny, Bywater, Garden District, Uptown. That circuit is legitimately great. It's also what every group does.
@@ -86,7 +86,7 @@ Several local tour operators run comprehensive post-Katrina tour routes that inc
 | Gentilly | Residential, post-Katrina recovery, HBCU campus | Dillard, bayou, authentic neighborhood fabric | 3–5 miles |
 | Lower Ninth Ward | Post-Katrina history, Holy Cross, community resilience | Katrina memorial, Make It Right houses | 4–6 miles |
 | Algiers Point | Historic district across the river, free ferry access | Architecture, levee views, French Quarter sightline | 15-minute ferry |
-| Mid-City | Transitional neighborhood, local restaurants, Bayou St. John | City Park, restaurant scene, Lafitte Greenway | 2–4 miles |
+| [Mid-City](/neighborhoods/mid-city/) | Transitional neighborhood, local restaurants, Bayou St. John | City Park, restaurant scene, Lafitte Greenway | 2–4 miles |
 | Tremé | Oldest Black neighborhood in America, live music | Congo Square, Backstreet Cultural Museum, jazz roots | Walkable from Quarter |
 
 ---
@@ -100,7 +100,7 @@ Gentilly pairs naturally with a full-day itinerary that prioritizes the parts of
 2. **Mid-morning:** Dillard University campus visit
 3. **Lunch:** Neighborhood restaurant in Gentilly
 4. **Afternoon:** Gentilly levee walk, then drive through the neighborhood
-5. **Late afternoon:** Lower Ninth Ward (continue the post-Katrina context)
+5. **Late afternoon:** [Lower Ninth Ward](/neighborhoods/ninth-ward/) (continue the post-Katrina context)
 6. **Evening:** Return to your base neighborhood for dinner
 
 This produces a day that's meaningfully different from anything on the standard tourist circuit and gives your group a much more complete understanding of the city.
@@ -127,15 +127,8 @@ This produces a day that's meaningfully different from anything on the standard 
 
 ## Where to Stay Near Gentilly
 
-Gentilly itself has limited large-group accommodation options. The closest group-appropriate bases are in the Marigny/Bywater corridor to the south.
+Gentilly itself has limited large-group accommodation options. The closest group-appropriate bases are in the [Bywater](/neighborhoods/bywater/)/Marigny corridor to the south, a straight drive down St. Claude Avenue, or the [Lower Garden District](/neighborhoods/lower-garden-district/) to the west, which gives faster access toward Mid-City and on to Gentilly via the main corridors.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is the closest high-quality group accommodation area to Gentilly — a straight drive down St. Claude Avenue or through the Marigny. Private pools, full kitchens, the Herald, The Cocodrie, and The Florentine each giving your group a genuine home base to return to after a day in the neighborhood.
+Castleday Retreats has private-pool villas in the Bywater; The Syd's Lower Garden District villas share a heated pool and sit one block from the St. Charles Streetcar; Heirloom has the deepest inventory of large-format homes across both areas for a short-notice booking; and a hotel room block works if the group wants separate keys and bills. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District provides fast access to Mid-City and a direct shot toward Gentilly via the main corridors. One block from the St. Charles Streetcar for easy movement across the city.
-
----
-
-## Plan Your Group Trip
-
-- Castleday Retreats — Bywater, private villas up to 30 guests, closest large-group base to Gentilly
-- The Syd — Lower Garden District, up to 22 guests per villa, shared outdoor spaces
+[See where to stay for large groups →](/where-to-stay/)
