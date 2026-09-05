@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Group Volunteer Build Day Guide"
-description: "One-day group volunteer builds in New Orleans for groups of 10-30 — Habitat for Humanity, post-Katrina rebuilding organizations, community garden projects, and how to structure a meaningful service day that doesn't require specialized skills."
+description: "One-day group volunteer builds in New Orleans for the whole crew — Habitat for Humanity, post-Katrina rebuilding organizations, community garden projects, and how to structure a meaningful service day that doesn't require specialized skills."
 category: "Activities & Day Trips"
 card_title: "Group Volunteer Build Day"
-card_description: "Group volunteer builds in New Orleans for 10-30 people — Habitat for Humanity, post-Katrina rebuilding orgs, community gardens, and how to structure a real service day."
-date: 2026-06-15
+card_description: "Group volunteer builds in New Orleans for the whole crew — Habitat for Humanity, post-Katrina rebuilding orgs, community gardens, and how to structure a real service day."
+date: 2026-09-05
 ---
 
 New Orleans has more need for community service than most American cities, and it has more organizations equipped to channel that need into meaningful work than most places you'd consider a volunteer day.
@@ -21,7 +21,7 @@ For a large group visit to New Orleans, a volunteer build day can be one of the 
 - [ ] Contact the organization directly to arrange a group of your size — most have specific group volunteer programs
 - [ ] Clarify what skills are required — most build day work does not require construction experience
 - [ ] Get the full list of what to wear and bring — closed-toe shoes are non-negotiable, sun protection is critical
-- [ ] Arrange charter transport to and from the build site — locations are often in neighborhoods far from tourist areas
+- [ ] Arrange charter transport to and from the build site — locations are often in neighborhoods far from tourist areas; the [charter bus guide](/guides/nola-group-charter-bus-guide/) covers when a reserved vehicle beats rideshares for a group this size
 - [ ] Confirm your group's size is within the organization's capacity for a single day — some cap group sizes
 - [ ] Brief the group the night before: what the work involves, what neighborhood you'll be in, why this organization
 - [ ] Plan for a genuinely full workday — expect 6-8 hours of physical work, not a 2-hour drop-in
@@ -75,7 +75,7 @@ SBP (originally the St. Bernard Project) emerged directly from Katrina recovery 
 - Community infrastructure work
 - Skills training programs for community residents
 
-**Group logistics:** SBP has significant experience with corporate volunteer groups and large organizations. Their group volunteer program is one of the more structured in the city. Check their current New Orleans programs and contact their volunteer coordination team for availability.
+**Group logistics:** SBP has significant experience with corporate volunteer groups and large organizations. Their group volunteer program is one of the more structured in the city. Check their current New Orleans programs and contact their volunteer coordination team for availability. If this is a company offsite rather than a friend group, the [corporate team building guide](/guides/corporate-team-building-guide/) covers how a service day slots into a longer retreat agenda.
 
 ### Community Garden Projects
 
@@ -168,7 +168,7 @@ A group dinner at the villa or a sit-down restaurant is the right call. The conv
 
 ## Pro Tips
 
-1. **Book 2-3 months out for weekend dates.** Weekend group volunteer slots with Habitat and similar organizations go fast, especially in spring and fall when weather is good and group travel is high.
+1. **Book 2-3 months out for weekend dates.** Weekend group volunteer slots with Habitat and similar organizations go fast, especially during New Orleans's actual peak season — October and February through May — when group travel citywide is at its highest.
 
 2. **Bring more water than you think you need.** Physical work in New Orleans humidity — even in winter — depletes people faster than expected. A gallon per person for a full workday is not excessive in summer months.
 
@@ -186,15 +186,10 @@ A group dinner at the villa or a sit-down restaurant is the right call. The conv
 
 ## Where to Stay for a Volunteer Trip
 
-Both properties have the kitchen and common space that makes pre-day preparation and post-day decompression work well for a service-oriented group.
+A build day is a poor fit for a hotel room with no kitchen. Villa breakfast before an 8-hour physical day and a real group dinner after it matter more here than on a typical trip — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full case. The [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers how to stock a kitchen for that kind of day without anyone running a grocery errand at 6am.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The full kitchens mean you can cook a real breakfast before the build and a real dinner after — not logistics to underestimate when your group is doing physical work. The Bywater is also one of the neighborhoods that went through significant post-Katrina recovery, which provides meaningful context for a service-focused visit. Rated 4.98 across 99 reviews.
+The property field spans a real range of fits here. Castleday Retreats (Bywater villas, private pool per villa) puts you in a neighborhood with its own post-Katrina recovery story, which adds context to a service-focused visit. The Syd (Lower Garden District villas, shared heated pool) gives a tired group a pool to recover in and space for the dinner conversation that tends to follow a real day of physical work. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice if your dates are still moving. None of these is a booking recommendation — pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen and heated pool. After a full day of physical work, the pool matters. So does the outdoor kitchen for a group dinner that doesn't require anyone to change out of construction clothes before eating.
+For the largest selection, book 6+ months out.
 
----
-
-## Plan Your Service Day
-
-- Castleday Retreats — Bywater villas, up to 30 guests, full kitchens, Bywater's post-Katrina context blocks from the villa
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool for post-build recovery, outdoor kitchen for group dinners
+[See where to stay for large groups →](/where-to-stay/)
