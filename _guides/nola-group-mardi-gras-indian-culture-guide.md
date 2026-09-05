@@ -1,10 +1,10 @@
 ---
 title: "Mardi Gras Indians Guide for Large Groups Visiting New Orleans"
-description: "What Mardi Gras Indians actually are, how to encounter the culture respectfully, Super Sunday logistics for groups, the suit-making tradition, and what distinguishes this living tradition from a tourist attraction — for groups of 10-30."
+description: "What Mardi Gras Indians actually are, how to encounter the culture respectfully, Super Sunday logistics for a group trip, the suit-making tradition, and what distinguishes this living tradition from a tourist attraction."
 category: "Culture & History"
 card_title: "Mardi Gras Indians Guide"
 card_description: "Mardi Gras Indians for large groups — what the culture is, how to encounter it respectfully, Super Sunday logistics, the suit-making tradition, and what to expect."
-date: 2026-06-15
+date: 2026-09-05
 ---
 
 Mardi Gras Indians are not a Mardi Gras attraction. They are not a parade float. They are not a photo opportunity for tourists.
@@ -13,7 +13,7 @@ They are living practitioners of a Black cultural tradition rooted in the Tremé
 
 Groups visiting New Orleans who encounter this tradition at its genuine edges — early in the morning, in the neighborhoods, with the right preparation — are witnessing something that is not reproduced anywhere else. Groups who treat it as a scheduled photo stop miss the entire point.
 
-This guide helps you understand the tradition, encounter it respectfully, and come away with something more than a photograph.
+This guide helps you understand the tradition, encounter it respectfully, and come away with something more than a photograph. If your trip is still in the shape-it-out stage, the [group trip planning hub](/guides/plan-a-group-trip/) sequences this decision alongside the rest of the itinerary.
 
 ---
 
@@ -58,7 +58,7 @@ The relationship between tribes on the street involves a ritual encounter that i
 
 On Mardi Gras Day (Fat Tuesday), Mardi Gras Indians emerge in the neighborhoods in the morning — typically starting between 8:00am and noon, moving through the streets, stopping for encounters with other tribes and community members.
 
-**Where:** The Tremé and Central City are the primary neighborhoods. There is no single route, no announcements, no Jumbotron. You position yourself in a neighborhood and wait.
+**Where:** The [Tremé](/neighborhoods/treme/) and [Central City](/neighborhoods/central-city/) are the primary neighborhoods. There is no single route, no announcements, no Jumbotron. You position yourself in a neighborhood and wait.
 
 **The reality for groups:** This is not like waiting for a parade. You're standing on a residential street, often without a crowd (yet), watching someone move through their neighborhood. The Indians may appear around a corner, stop for a ritual encounter with another tribe, and then move on. The encounter can last five minutes or forty. Some years you see three chiefs; some years you see one. It's not predictable and that's the point.
 
@@ -68,7 +68,7 @@ On Mardi Gras Day (Fat Tuesday), Mardi Gras Indians emerge in the neighborhoods 
 
 Super Sunday (the Sunday closest to St. Joseph's Day, which falls on March 19) is the second major appearance. This gathering tends to be more concentrated — more tribes visible in a smaller geographic area, more community members, more organized energy.
 
-Super Sunday in Central City typically involves tribes gathering in a specific corridor and processing together through the neighborhood. It's more accessible to visitors than Mardi Gras morning because the concentration is higher. But the same etiquette rules apply.
+Super Sunday in Central City typically involves tribes gathering in a specific corridor and processing together through the neighborhood. It's more accessible to visitors than Mardi Gras morning because the concentration is higher. But the same etiquette rules apply — the [second line etiquette guide](/guides/nola-group-second-line-sunday-guide/) covers the same "observe, don't insert yourself" posture for a related street tradition.
 
 **Timing:** Super Sunday typically starts in the early afternoon, not the morning. Check local resources — WWNO (NOLA's NPR station), Gambit, or culturally connected social media accounts — in the days before your visit for current information.
 
@@ -89,9 +89,9 @@ Outside Mardi Gras season, the tradition is still very much alive.
 
 If your trip doesn't overlap with Mardi Gras or Super Sunday, the Backstreet Cultural Museum in the Tremé is the single most important resource for encountering this tradition as a large group.
 
-The museum houses retired Mardi Gras Indian suits — complete assemblies that let you understand the scale and craft of what goes into each one. The suits alone are worth the trip. The museum also covers second line culture, Social Aid and Pleasure Clubs, and the Jazz Funeral tradition.
+The museum houses retired Mardi Gras Indian suits — complete assemblies that let you understand the scale and craft of what goes into each one. The suits alone are worth the trip. The museum also covers second line culture, Social Aid and Pleasure Clubs, and the [Jazz Funeral tradition](/guides/nola-group-jazz-funeral-culture-guide/) — all three are threads of the same Black New Orleans cultural fabric.
 
-**For large groups:** The museum is small. Groups of 20-30 should coordinate in shifts or arrive staggered to avoid overwhelming the space. Call ahead to discuss group visits.
+**For large groups:** The museum is small. A full-size crew should coordinate in shifts or arrive staggered to avoid overwhelming the space. Call ahead to discuss group visits.
 
 ---
 
@@ -149,23 +149,14 @@ The groups that come away from this encounter understanding something are the on
 
 5. **Dress normally.** Do not wear Mardi Gras beads, feathered boas, or tourist-coded outfits to observe a Mardi Gras Indian appearance. You're there to observe a cultural tradition, not to perform being at Mardi Gras.
 
-6. **The Jazz Fest encounter is more accessible and still real.** If your group visits during Jazz Fest (late April-early May), the Indian performances on the festival stages are legitimate, community-sanctioned expressions of the tradition in a more structured format. This is not a lesser version — it's the community choosing to present the tradition to a larger audience on their own terms.
+6. **The Jazz Fest encounter is more accessible and still real.** If your group's trip lines up with [Jazz Fest](/guides/jazz-fest-group-guide/) (late April-early May), the Indian performances on the festival stages are legitimate, community-sanctioned expressions of the tradition in a more structured format. This is not a lesser version — it's the community choosing to present the tradition to a larger audience on their own terms.
 
 7. **Leave the encounter changed.** If you walk away saying "that was cool" and that's it, you missed it. The tradition involves hundreds of hours of labor, community sacrifice, and cultural resistance — what you witnessed is the surface of something much larger. Go deeper when you get home.
 
 ---
 
-## Where to Stay
+## Where to Stay for This Kind of Trip
 
-The Tremé is a short walk or rideshare from either major property. Having a villa gives the group a place to gather, brief, and decompress around a cultural encounter that deserves more than a quick lap.
+A cultural encounter like this benefits from a base where the group can gather, brief on etiquette, and decompress afterward rather than rushing straight to the next stop. A [Bywater](/neighborhoods/bywater/) base (Castleday Retreats has villas there) is a short drive from the Tremé and Central City. A [Lower Garden District](/neighborhoods/lower-garden-district/) base (The Syd's villas sit here) puts you one block from the St. Charles streetcar line for easy transit into the Tremé. Heirloom has the deepest inventory of large-format homes across both neighborhoods if you're booking on short notice, and a hotel room block works fine too if the group prefers separate keys and bills. Whatever you pick, for the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, a short drive from the Tremé and Central City. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater's own deep cultural roots — the Backstreet Museum is minutes away — make Castleday the right base for a trip that includes meaningful cultural engagement. Rated 4.98 across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Designed by local New Orleans artists. The Syd's St. Charles Streetcar access makes transit easy — one block to the streetcar line that connects Lower Garden District to the entire city corridor.
-
----
-
-## Plan Your Visit
-
-- Castleday Retreats — Bywater villas, 14-30 guests, private pools, close to the Tremé cultural corridor
-- The Syd — Lower Garden District villas, up to 22 guests, streetcar access to every major neighborhood
+[See where to stay for large groups →](/where-to-stay/)
