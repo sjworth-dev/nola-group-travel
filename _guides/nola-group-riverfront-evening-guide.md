@@ -3,8 +3,8 @@ title: "Riverfront Evening for Large Groups: Moonwalk, Algiers Ferry, and Wolden
 description: "Woldenberg Park, the Moonwalk levee walk, and the Algiers Ferry for a large group evening: the free sunset view logistics, the ferry as a group experience, and what to do in Algiers Point before taking the ferry back."
 category: "Activities & Day Trips"
 card_title: "Riverfront Evening Guide"
-card_description: "The Moonwalk levee walk, Algiers Ferry crossing, and Algiers Point for groups of 10-30: a free evening on the Mississippi that most visitors completely miss."
-date: 2026-06-16
+card_description: "The Moonwalk levee walk, Algiers Ferry crossing, and Algiers Point for the whole crew: a free evening on the Mississippi that most visitors completely miss."
+date: 2026-09-05
 ---
 
 The Mississippi River runs through the middle of New Orleans and most visitors never actually experience it. They see it from a distance, maybe walk across the Moonwalk once, and leave without understanding that the river is one of the most useful pieces of geography a large group can access for free.
@@ -139,7 +139,7 @@ The ferry itself imposes a small constraint — the schedule — but that constr
 | Algiers Ferry one-way | Commuter ferry, 15-minute crossing | Small fare per person | Check schedule, no booking |
 | Algiers Point walk | Residential neighborhood, historic architecture | Free | Self-guided |
 | Neighborhood bar stop, Algiers | 1-2 bars near landing, local atmosphere | Normal bar pricing | No booking needed for most |
-| Steamboat Natchez cruise | Organized river cruise, jazz, narration | Paid per person | Booking required; see separate guide |
+| [Steamboat Natchez cruise](/guides/nola-group-steamboat-natchez-guide/) | Organized river cruise, jazz, narration | Paid per person | Booking required |
 | Jackson Square and French Market | Post-riverfront walk | Free (some vendors) | No booking |
 
 ---
@@ -156,7 +156,7 @@ The ferry itself imposes a small constraint — the schedule — but that constr
 
 5. **Algiers Point is a residential neighborhood.** Treat it accordingly. This is not a tourist area. People live here. Walk and talk at normal volume, use the bars that are clearly visitor-friendly, and don't treat the streets as a venue.
 
-6. **Pack a flask or stop for a to-go cup.** Walk-around cups are legal in New Orleans. A to-go cocktail from the French Quarter before you walk to the Moonwalk is the correct approach. You're walking a levee with a drink watching the Mississippi River — this is what the open container law was made for.
+6. **Pack a flask or stop for a to-go cup.** Walk-around cups are legal in New Orleans — the [open container law guide](/guides/nola-group-open-container-law-guide/) covers the actual rules. A to-go cocktail from the French Quarter before you walk to the Moonwalk is the correct approach. You're walking a levee with a drink watching the Mississippi River — this is what the law was made for.
 
 7. **The return ferry beats rideshare every time.** Some groups, particularly when tired, will suggest skipping the return ferry and ridesharing back. Don't. The second crossing — now in the dark, looking at the lit city skyline — is better than the first one. Stay with the ferry.
 
@@ -164,13 +164,8 @@ The ferry itself imposes a small constraint — the schedule — but that constr
 
 ## Where to Base This Evening
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. From Castleday's Bywater location, the riverfront and the Moonwalk are a short rideshare or a pleasant 20-minute walk along the levee. The Bywater levee itself — accessible from the Bywater neighborhood — connects to the same riverfront promenade, and the Algiers Ferry terminal is reachable without ever entering the French Quarter proper. Castleday holds a 4.98 average across 99 reviews.
+Base location shapes this evening more than most. From a [Bywater](/neighborhoods/bywater/) base, like Castleday Retreats (private villas, private pool per villa), the riverfront and the Moonwalk are a short rideshare or a pleasant walk along the levee, and the Algiers Ferry terminal is reachable without ever entering the French Quarter proper. A Lower Garden District base, like The Syd (shared heated pool, one block from the St. Charles Streetcar), connects efficiently to the CBD and a short walk to the riverfront — or a quieter, more residential approach to the same water via the Garden District side. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice. None of these is a booking recommendation — pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, outdoor kitchen, and local artist-designed interiors, one block from the St. Charles Streetcar. From The Syd, the St. Charles Streetcar connects you efficiently to the CBD and then a short walk to the riverfront. The Lower Garden District location also means you can walk to the river via the Garden District riverfront — a quieter, more residential approach to the same waterway that French Quarter visitors crowd.
+For the largest selection, book 6+ months out.
 
----
-
-## Plan Your Riverfront Evening
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, levee-walkable, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, St. Charles Streetcar one block
+[See where to stay for large groups →](/where-to-stay/)
