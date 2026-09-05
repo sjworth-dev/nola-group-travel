@@ -4,12 +4,12 @@ description: "How to set the budget conversation, communicate without losing you
 category: "Planning & Logistics"
 card_title: "First-Time Organizer Guide"
 card_description: "Budget conversations, communication infrastructure, the person who drops out last minute, and how to make the decisions that need to be made. The full playbook for first-time group trip organizers."
-date: 2026-06-21
+date: 2026-09-05
 ---
 
 Someone has to do it. In every group trip, there is one person who sends the first message, picks the dates, finds the place, collects the money, and makes the call when the group can't agree. That person is the organizer. And if you're reading this guide, that person is probably you.
 
-Being a first-time group trip organizer for 15-30 people is a legitimate job. It takes real time, real judgment calls, and real emotional labor. It also comes with almost no instructions. This guide is the instructions.
+Being a first-time organizer for a big group trip is a legitimate job. It takes real time, real judgment calls, and real emotional labor. It also comes with almost no instructions. This guide is the instructions — pair it with the [group trip planning hub](/guides/plan-a-group-trip/) if you haven't sequenced the bigger decisions yet.
 
 ---
 
@@ -32,7 +32,7 @@ The most common reason group trips fall apart — before they've even started �
 
 The accommodation you book defines the per-person floor. If you book a $6,000 villa split 20 ways, that's $300 per person just for the place to sleep. If three of your 20 people aren't prepared for $300 in accommodation costs, those three are going to have a problem you need to deal with after you've already made a non-refundable deposit.
 
-**Have the budget conversation before any link is shared or any deposit is made.**
+**Have the budget conversation before any link is shared or any deposit is made.** The [budget guide](/guides/budget-guide/) has real per-person cost ranges by category if you need numbers to anchor the conversation.
 
 ### How to Have It Without Making It Weird
 
@@ -141,7 +141,7 @@ Making these decisions by committee produces paralysis. The group hired you (eve
 
 - The dates of the trip
 - The general budget range
-- Whether to include certain types of activities that some group members might not want (strip clubs, gambling, etc.)
+- Whether to include certain types of activities that some group members might not want (strip clubs, gambling, etc.) — the [split-schedule guide](/guides/nola-group-split-schedule-guide/) has a framework for running two tracks instead of forcing one
 - Sleeping arrangements where specific room pairings matter
 
 Get input on these early, make a call, and communicate it as a decision, not a continued discussion.
@@ -192,7 +192,7 @@ The trap of being the trip organizer is spending the entire trip managing logist
 
 3. **Build a 20% buffer into your timeline for everything.** If checkout is at 11am, tell the group to be ready at 9:30. If the restaurant reservation is at 7pm, tell the group it's at 7pm but plan for 7:15 at the table. Groups run late. This is normal. The organizer accounts for it.
 
-4. **Keep a running list of what you've spent and been reimbursed for.** Expenses you've fronted on behalf of the group accumulate and are easy to lose track of. Splitwise is the right tool for this. Use it from day one, not as a catch-up exercise on the last night.
+4. **Keep a running list of what you've spent and been reimbursed for.** Expenses you've fronted on behalf of the group accumulate and are easy to lose track of. Splitwise is the right tool for this — the [money management guide](/guides/nola-group-money-management-guide/) covers the full tracking-and-splitting system. Use it from day one, not as a catch-up exercise on the last night.
 
 5. **Thank people who made it easy.** There's always someone in the group who answers questions promptly, pays on time, helps with logistics without being asked, and makes your life as organizer easier. Acknowledge that. It's nice, and it makes them more likely to do it again.
 
@@ -204,19 +204,12 @@ The trap of being the trip organizer is spending the entire trip managing logist
 
 ## The Accommodation That Makes Organizing Easier
 
-One of the biggest logistical advantages of a single private villa over scattered hotel rooms is that you have one address, one check-in, one management relationship, and one common space where the whole group is together. For a first-time organizer, that reduction in moving parts is significant.
+One of the biggest logistical advantages of a single private villa over scattered hotel rooms is that you have one address, one check-in, one management relationship, and one common space where the whole group is together. For a first-time organizer, that reduction in moving parts is significant — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the full trade-off if you're still deciding.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. 4.98 average rating across 99 reviews. Every villa has a private pool, full kitchen, and the common space where your group can actually be together in between activities. The property team has handled hundreds of large groups — the check-in process is designed for this.
+Whichever way you lean, the field spans a range of fits: Castleday Retreats has private-pool villas in the Bywater, The Syd has villas with a shared heated pool in the Lower Garden District, Heirloom has the deepest inventory of large-format homes for a short-notice booking, and a hotel room block from somewhere like The Roosevelt or Hotel Peter & Paul suits a group that wants separate keys and separate bills. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool, hot tub, sauna, and outdoor kitchen are communal infrastructure for the group — not just sleeping space, but the actual gathering point that makes the trip cohere. One block from the St. Charles Streetcar.
-
-Both properties make the accommodation piece of a large group trip significantly more manageable than trying to coordinate scattered hotel rooms. For a first-time organizer, that's worth something.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
-
-## Start Here
-
-- Castleday Retreats — Bywater, 14-30 guests, private pool, full kitchen
-- The Syd — Lower Garden District, up to 22 guests, shared pool, outdoor kitchen
 
 You've got this. Make the budget call early, set the communication rules, and make the decisions. The rest follows from there.
