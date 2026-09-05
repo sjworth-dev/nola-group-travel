@@ -3,8 +3,8 @@ title: "NOLA Night Markets and Pop-Up Vendor Events for Large Groups"
 description: "NOLA night markets, pop-up markets, and weekend vendor events for large groups: what's consistently running vs. seasonal, the French Market after dark, and how to work a group through a crowded market without losing half of them."
 category: "Activities & Day Trips"
 card_title: "NOLA Night Market Guide"
-card_description: "Night markets, pop-up vendor events, and weekend markets for groups of 10-30: what's reliably open, how to navigate them with a large group, and what to actually buy."
-date: 2026-06-16
+card_description: "Night markets, pop-up vendor events, and weekend markets for the whole crew: what's reliably open, how to navigate them with a large group, and what to actually buy."
+date: 2026-09-05
 ---
 
 New Orleans has a market culture that runs parallel to its bar and restaurant culture. On the right weekend, you can move through markets that combine local vendors, live music, food trucks, and art in the same space — and do it in the evening, which is when the city's ambient energy makes everything better.
@@ -42,7 +42,7 @@ New Orleans doesn't have a single night market in the formal sense of a permanen
 
 **Arts markets on the Marigny and Bywater corridors** — On weekends, particularly in fall, winter, and spring (the visitor season), pop-up arts and craft markets appear in parking lots, courtyards, and vacant spaces along the St. Claude corridor and in the Marigny. These are genuine local events with local artisans. The best way to find them is to follow local arts organizations and neighborhood social media in advance of your trip.
 
-**Second Saturday markets on the St. Claude Arts District corridor** — St. Claude Second Saturdays (as distinct from the French Quarter's own gallery events) bring gallery openings, pop-up vendors, and street market energy to the St. Claude corridor on the second Saturday of each month. This is an event-specific market that combines art, food, and vendor browsing in a neighborhood context.
+**Second Saturday markets on the St. Claude Arts District corridor** — St. Claude Second Saturdays (as distinct from the French Quarter's own gallery events) bring gallery openings, pop-up vendors, and street market energy to the St. Claude corridor on the second Saturday of each month. This is an event-specific market that combines art, food, and vendor browsing in a neighborhood context — the [St. Claude Arts District guide](/neighborhoods/st-claude-arts-district/) covers the gallery scene the market plugs into.
 
 **Festival markets** — During major festivals (Jazz Fest, Essence Fest, French Quarter Fest), vendor markets expand dramatically. The Jazz Fest grounds themselves include an extensive Louisiana crafts market that is separate from the music programming and one of the better artisan markets in the South. Festival timing dramatically expands market options.
 
@@ -165,7 +165,7 @@ New Orleans markets are best in the cooler months (October through April). The s
 
 5. **Pop-up markets are harder to plan for — follow them online.** The best recurring pop-up markets in New Orleans announce their schedules on Instagram and Facebook. If the trip includes a weekend and you're interested in the local arts market scene, follow relevant NOLA arts accounts in the weeks before your trip to know what's happening.
 
-6. **The French Market is a starting point, not the whole scene.** After the French Market, a 15-minute walk down Esplanade Avenue reaches Frenchmen Street, which becomes a different kind of market experience on weekend nights — the Frenchmen Art Market operates alongside the music venues and creates a combined market-and-music experience that is uniquely New Orleans.
+6. **The French Market is a starting point, not the whole scene.** After the French Market, a 15-minute walk down Esplanade Avenue reaches Frenchmen Street, which becomes a different kind of market experience on weekend nights — the Frenchmen Art Market operates alongside the music venues and creates a combined market-and-music experience that is uniquely New Orleans. The [live music guide](/guides/live-music-guide/) covers how to work the venues into the same evening.
 
 7. **Market merch makes better souvenirs than French Quarter souvenir shops.** The souvenir shops on Bourbon Street and the Quarter are selling generic merchandise. The vendors at the French Market and the pop-up arts markets are selling work that's at least partly created locally. That distinction matters when you're back home and you look at what you bought.
 
@@ -173,13 +173,8 @@ New Orleans markets are best in the cooler months (October through April). The s
 
 ## Where to Base Your Market Evening
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's Bywater location puts you closest to the St. Claude Arts District markets, the Marigny pop-up market scene, and Frenchmen Street's weekend art market. The French Market is a 15-minute rideshare. The Bywater is also the neighborhood where local markets announce and operate most frequently — your neighbors are the people running these events. Castleday holds a 4.98 average across 99 reviews.
+Base location matters here more than for a lot of activities, since the best markets cluster in specific neighborhoods. A [Bywater](/neighborhoods/bywater/) base, like Castleday Retreats (private villas, private pool per villa), puts you closest to the St. Claude Arts District markets, the [Marigny](/neighborhoods/marigny/) pop-up market scene, and Frenchmen Street's weekend art market — the French Market is a short rideshare. A Lower Garden District base, like The Syd (shared heated pool, one block from the St. Charles Streetcar), trades that proximity for a streetcar ride that reaches the CBD and the French Market in under 20 minutes. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice. None of these is a booking recommendation — pick by fit.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the St. Charles Streetcar reaches the CBD and the French Market in under 20 minutes. The Lower Garden District and Garden District neighborhoods also host their own seasonal markets and neighborhood events that are worth monitoring.
+For the largest selection, book 6+ months out.
 
----
-
-## Plan Your Market Night
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, St. Claude Arts District walkable, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared heated pool and outdoor kitchen, St. Charles Streetcar one block
+[See where to stay for large groups →](/where-to-stay/)
