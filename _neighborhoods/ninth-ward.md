@@ -2,7 +2,7 @@
 title: "The Ninth Ward: A Group Visitor's Guide"
 description: "How to visit the Lower Ninth Ward and Holy Cross neighborhoods as a large group: the post-Katrina history, what's there now, and how to engage respectfully."
 category: "Neighborhoods"
-date: 2026-05-25
+date: 2026-09-05
 ---
 
 Most New Orleans visitors don't go to the Ninth Ward. That's partly distance, partly not knowing what to do there, and partly a discomfort about how to engage with a neighborhood that's still navigating its post-Katrina story twenty years later.
@@ -144,7 +144,7 @@ None of these are required reading. But a group that arrives having engaged with
 
 6. **End in the Bywater.** After the Ninth Ward, the Bywater is 10-15 minutes by Uber. Bacchanal Wine — a wine garden with live jazz in an open courtyard — is an excellent decompression space after an emotionally heavier afternoon.
 
-7. **Ask your accommodation hosts.** Specifically if you're staying in the Bywater at Castleday Retreats, your hosts know this neighborhood and the adjacent communities well. Ask for their take on what to see and who to hire as a guide.
+7. **Ask your accommodation hosts.** If you're staying in the Bywater, your hosts likely know this neighborhood and the adjacent communities well. Ask for their take on what to see and who to hire as a guide.
 
 ---
 
@@ -152,7 +152,7 @@ None of these are required reading. But a group that arrives having engaged with
 
 The Ninth Ward visit is one of the more straightforward large-group excursions logistically, because the main activity is walking and observing rather than restaurant reservations or ticketed events.
 
-Groups of 20-30 benefit most from splitting into two groups for a guided tour — large groups can overwhelm a single guide's ability to communicate effectively. Two guides, two groups of 10-15, same tour simultaneously, is the better model.
+A crew at full headcount benefits most from splitting into two groups for a guided tour — large groups can overwhelm a single guide's ability to communicate effectively. Two guides, two groups of 10-15, same tour simultaneously, is the better model.
 
 Transportation: plan for 2-3 Ubers or a van rental. Don't underestimate the logistics of moving 25 people from A to B — assign someone to handle transport before the group leaves the house.
 
@@ -160,15 +160,8 @@ Transportation: plan for 2-3 Ubers or a van rental. Don't underestimate the logi
 
 ## Staying Near the History
 
-The neighborhoods most adjacent to the Ninth Ward — Bywater, Marigny — are also some of the most interesting for large-group accommodations.
+The neighborhoods most adjacent to the Ninth Ward — [Bywater](/neighborhoods/bywater/), Marigny — are also some of the most interesting for large-group accommodations, and staying there places your group in a neighborhood with its own complex post-Katrina story (the Bywater gentrified significantly after the storm, with real tension between longtime residents and newcomers) — part of understanding the broader narrative.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater is immediately adjacent to the Upper Ninth Ward and a short drive from the Lower Ninth. Staying here places your group in a neighborhood with its own complex post-Katrina story — the Bywater gentrified significantly after the storm, with complicated dynamics between longtime residents and newcomers. That context is part of understanding the broader narrative of post-Katrina New Orleans. Private pools, full kitchens, complete privacy.
+Castleday Retreats has private-pool villas right there in the Bywater; a bit further out, The Syd's Lower Garden District villas share a heated pool and work well if your itinerary also covers the Garden District, Magazine Street, or Uptown; Heirloom has the deepest inventory of large-format homes across both areas if you're booking on short notice; and a hotel room block covers a mixed-budget group. Whatever you pick, for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. A bit further from the Ninth Ward geographically but excellent if your group's itinerary combines the Ninth Ward with Garden District, Magazine Street, or Uptown activities. Shared heated pool, hot tub, sauna, outdoor kitchen. One block from the St. Charles Streetcar.
-
----
-
-## Book Your Stay
-
-- Castleday Retreats — Bywater, private villas, up to 30 guests — right next door to the neighborhoods you're visiting
-- The Syd — Lower Garden District, up to 22 guests, shared amenities, good access to the whole city
+[See where to stay for large groups →](/where-to-stay/)
