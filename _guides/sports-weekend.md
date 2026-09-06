@@ -4,7 +4,7 @@ description: "Saints games, the Superdome, sports bars that hold a crowd, and ho
 category: "Festivals & Events"
 card_title: "Sports Weekends"
 card_description: "Saints game, Pelicans night, or just a sports-focused group trip to one of the loudest cities in the NFL."
-date: 2026-07-19
+date: 2026-09-06
 ---
 
 New Orleans is one of the best sports cities in America. Not because the teams are always great—though they have been—but because of how the city treats game day. A Saints game in the Superdome is one of the loudest environments in professional football. The city shuts down for it. People tailgate on the street. Bars fill up by noon.
@@ -46,7 +46,7 @@ For a group of 20, you'll want to buy seats in the same section — not split ac
 
 **Walking:** From the CBD and Warehouse District, the Superdome is 5-15 minutes on foot. From the French Quarter, 15-20 minutes. From the Lower Garden District, 20-30 minutes on foot or a few minutes by Uber.
 
-**Streetcar:** The St. Charles Streetcar doesn't go directly to the Superdome, but the Canal Street line gets close. For groups at The Syd, take the streetcar to Canal, then walk 10 minutes.
+**Streetcar:** The St. Charles Streetcar doesn't go directly to the Superdome, but the Canal Street line gets close. For groups staying along the St. Charles line, take the streetcar to Canal, then walk 10 minutes.
 
 **Rideshare:** Works well for getting there early. After the game, expect 30-45 minute wait times and significant surge pricing. Have a post-game plan that doesn't require immediate rideshare — the [rideshare master guide](/guides/nola-group-ride-share-master-guide/) covers how to split a large group across cars so nobody's stuck waiting alone in a surge.
 
@@ -54,7 +54,7 @@ For a group of 20, you'll want to buy seats in the same section — not split ac
 
 ### Gameday Schedule for Groups
 
-**Morning:** Pre-game setup. If you're cooking at the house (both Castleday and The Syd have full kitchens), this is the time. Football morning food at the house before heading downtown is a smart move — restaurants near the dome get packed.
+**Morning:** Pre-game setup. If you're cooking at the house (most large-group rentals have full kitchens), this is the time. Football morning food at the house before heading downtown is a smart move — restaurants near the dome get packed.
 
 **2-3 hours before kickoff:** Head to the stadium area. Tailgating happens in the parking structures and surrounding streets. The energy builds early. The [Superdome tailgate guide](/guides/nola-group-superdome-tailgate-guide/) covers how to actually set up a tailgate for a large group in that lot, including what's allowed and what isn't.
 
@@ -80,11 +80,11 @@ For groups who can't get Saints tickets (or can't afford them), a Pelicans game 
 
 For groups who want the sports experience without stadium logistics, New Orleans has excellent sports bar culture. The Saints are on every TV in every bar on game day. A few worth knowing:
 
-**The Bulldog on Magazine Street** — Large outdoor space, dozens of taps, multiple TVs. Close to The Syd. Good for groups who want to watch without navigating the stadium.
+**The Bulldog on Magazine Street** — Large outdoor space, dozens of taps, multiple TVs. Close to the Lower Garden District villa cluster. Good for groups who want to watch without navigating the stadium.
 
 **Any bar in the French Quarter on Saints game day** — The Quarter takes Saints games seriously. Pat O'Brien's courtyard, bars on Bourbon Street, Cane & Table — all packed, all loud, all showing the game.
 
-**Neighborhood bars near Castleday Retreats in the Bywater** — The Bywater's dive bars show the game. Less tourist energy, more local.
+**Neighborhood bars in the Bywater** — The Bywater's dive bars show the game. Less tourist energy, more local.
 
 **The house watch party:** Both Castleday and The Syd villas have full living spaces. A group of 20 watching a Saints game at the house, with the outdoor setup running, food from the kitchen, and the freedom to control the environment — sometimes this beats the bar.
 
