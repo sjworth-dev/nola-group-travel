@@ -2,7 +2,7 @@
 title: "Central City: New Orleans' Oretha Castle Haley Corridor for Group Visitors"
 description: "Central City neighborhood guide for group travelers: the Oretha Castle Haley Arts Corridor, community history, gallery scene, and how to visit respectfully and meaningfully."
 category: "Neighborhoods"
-date: 2026-05-30
+date: 2026-09-06
 ---
 
 Central City doesn't show up on most group travel itineraries. That's a mistake.
@@ -98,10 +98,10 @@ Central City borders several neighborhoods that are worth combining into a full-
 
 | Neighborhood | Distance from OCH | What to Add |
 |-------------|------------------|-------------|
-| Garden District | 10-15 min walk | Historic homes, Magazine Street |
-| Lower Garden District | 10 min walk | Magazine Street restaurants, The Syd |
-| Uptown | 15-20 min walk | Oak Street, Maple Leaf Bar |
-| CBD | 15-20 min by streetcar | Superdome, Convention Center |
+| [Garden District](/neighborhoods/garden-district/) | 10-15 min walk | Historic homes, Magazine Street |
+| [Lower Garden District](/neighborhoods/lower-garden-district/) | 10 min walk | Magazine Street restaurants |
+| [Uptown](/neighborhoods/uptown/) | 15-20 min walk | Oak Street, Maple Leaf Bar |
+| [CBD](/neighborhoods/cbd/) | 15-20 min by streetcar | Superdome, Convention Center |
 
 The St. Charles Streetcar runs near the eastern edge of the neighborhood and connects Central City to the CBD and Uptown. For groups without a vehicle, this is the most convenient transit option.
 
@@ -157,7 +157,7 @@ Groups that understand this context visit differently than groups that don't. Th
 
 4. **The gallery walk works better with a small group.** If you have 20 people, split into groups of 4-5 for the gallery portion. Fifteen people crowding into a small gallery is uncomfortable for everyone.
 
-5. **Combine Central City with Magazine Street.** Magazine runs right through the neighboring areas and gives you a full half-day of context, food, and shopping without needing multiple transit moves.
+5. **Combine Central City with [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/).** Magazine runs right through the neighboring areas and gives you a full half-day of context, food, and shopping without needing multiple transit moves.
 
 6. **Ask at Ashé if they offer any group programming.** They occasionally organize guided visits and community conversations for organized groups. It's worth calling ahead.
 
@@ -167,17 +167,6 @@ Groups that understand this context visit differently than groups that don't. Th
 
 ## Staying Near Central City
 
-Central City doesn't have large-group accommodation on the corridor itself, but two properties close by make excellent bases for groups who want to visit Central City as part of a broader trip.
+Central City doesn't have large-group accommodation on the corridor itself, so groups base nearby. The [Lower Garden District](/neighborhoods/lower-garden-district/) (The Syd's villas, one block from the streetcar) and the [Bywater](/neighborhoods/bywater/) (Castleday Retreats) are both workable, and apartment-style options like Heirloom or a hotel room block downtown put you on the streetcar line too. Whichever base you pick, it should hold the group as one unit for a multi-neighborhood itinerary — for the largest selection, book 6+ months out.
 
-**The Syd** — Lower Garden District, multiple villas sleeping up to 22. One block from the St. Charles Streetcar, which puts you 10-15 minutes from the OCH corridor. The streetcar also connects you to Uptown, the CBD, and back toward the French Quarter. The Syd's location is the most convenient base for Central City visits combined with Magazine Street and Garden District exploration.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Further from Central City but excellent if your group wants a Bywater home base and is making Central City a half-day excursion. The Bywater and the OCH corridor represent two distinct faces of New Orleans' cultural identity — pairing them in a single trip gives you real depth.
-
-Both properties handle large groups and can help you structure a visit to Central City as part of a multi-neighborhood itinerary.
-
----
-
-## Plan Your Visit
-
-- Castleday Retreats — Bywater base, private villas, up to 30 per villa
-- The Syd — Lower Garden District, closest base to Central City, up to 22 per villa
+[See where to stay for large groups →](/where-to-stay/)
