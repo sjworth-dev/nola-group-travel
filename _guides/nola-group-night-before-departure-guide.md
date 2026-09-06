@@ -4,10 +4,10 @@ description: "Coffee logistics, villa cleanup without it feeling like punishment
 category: "Planning & Logistics"
 card_title: "Departure Morning"
 card_description: "The last morning of a NOLA group trip: coffee logistics, villa cleanup without drama, leftover food and alcohol, the slow goodbye, and the last photo before everyone leaves."
-date: 2026-06-18
+date: 2026-09-06
 ---
 
-The departure morning is the most underplanned part of every group trip. The last night gets thought through — the dinner, the bar, the toast. The departure morning gets ignored until 7am when someone realizes checkout is at 10am and the villa needs to be left in good condition and nobody's packed and there are three open bottles of whiskey on the kitchen counter.
+The departure morning is the most underplanned part of every group trip. The [last night](/guides/nola-group-final-night-guide/) gets thought through — the dinner, the bar, the toast. The departure morning gets ignored until 7am when someone realizes checkout is at 10am and the villa needs to be left in good condition and nobody's packed and there are three open bottles of whiskey on the kitchen counter.
 
 A departure morning that goes wrong — rushed, hungover, logistically chaotic — retroactively affects how the whole trip felt. A departure morning that goes right is, paradoxically, one of the best memories of the trip. The image of "standing in the courtyard with coffee, everyone still together, saying goodbye properly" is what people cite when they talk about that trip years later.
 
@@ -33,7 +33,7 @@ The departure morning is shaped entirely by decisions made the night before.
 
 **The three things to handle on the night before departure:**
 
-**1. Settle all shared expenses.** Any Splitwise balance, shared villa costs, shared grocery or supply costs, and group fund logistics should be resolved before the last night ends. The departure morning is not the time for financial conversations. Someone is leaving early. Someone can't do the math. Someone is already upset about something else. Close the money the night before.
+**1. Settle all shared expenses.** Any Splitwise balance, shared villa costs, shared grocery or supply costs, and group fund logistics should be resolved before the last night ends — see the [money management guide](/guides/nola-group-money-management-guide/) if the group hasn't settled on a system yet. The departure morning is not the time for financial conversations. Someone is leaving early. Someone can't do the math. Someone is already upset about something else. Close the money the night before.
 
 **2. Do a first pass of packing.** Not full packing — just the "I know I will forget this if I don't put it in my bag now" pass. Toiletries left in bathrooms, chargers plugged into walls, items left in communal spaces that belong to specific people. This takes 15 minutes the night before and saves 45 minutes of frantic searching the next morning.
 
@@ -157,6 +157,8 @@ Most groups don't all leave at the same time. Early flights, late flights, peopl
 | 11am-1pm | Late flights | Villa access until checkout time; may need luggage storage after checkout |
 | Staying additional nights | Extended guests | Minimal morning disruption; say goodbye properly as the main group leaves |
 
+Staging multiple airport runs for a group this size is its own logistics problem — see the [transportation guide](/guides/transportation-guide/) and the [ride-share strategy guide](/guides/nola-group-ride-share-master-guide/) for how to move everyone without half the group standing around waiting for cars.
+
 **Key principle:** The early-departure people say their goodbyes the night before, not at 5:30am while others are trying to sleep. This is common courtesy. If you're the 7am flight, give your proper goodbyes at the last night bar or at the villa before bed. The 5:30am whispered goodbye in the dark is not a proper goodbye.
 
 **Key principle 2:** Luggage doesn't go in the common areas. Stage luggage in bedrooms until departure time. A foyer full of 20 people's luggage at 8am turns the villa into an obstacle course.
@@ -191,17 +193,8 @@ The departure morning is the last impression of the trip. It shapes how the whol
 
 ---
 
-## The House That Makes the Goodbye Worth Having
+## The Large-Group Accommodation Challenge
 
-The departure morning that lands well is almost always rooted in the right accommodation. A villa with a good courtyard, a real kitchen, and enough space for 20 people to gather is what makes the slow goodbye possible. A collection of hotel rooms does not.
+The departure morning that lands well is almost always rooted in the right accommodation. A villa or apartment-style block with a good courtyard, a real kitchen, and enough common space for the whole group to gather is what makes the slow goodbye possible; see [hotel vs. villa](/guides/hotel-vs-villa-guide/) for how that tradeoff plays out generally. The field spans private-villa operators like Castleday Retreats (Bywater) and The Syd (Lower Garden District), apartment-style options like Heirloom and The Revelry with separate units for staged departures, and hotel room blocks that make an early-flight checkout simple. Whatever you pick, book it early — for the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private courtyards and common spaces are built for the departure morning gathering — coffee in the courtyard, luggage staged by the door, everyone together before the dispersal starts. The full kitchen handles the departure morning coffee production for 20 people without drama. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen and shared courtyard are the right scale for a departure morning that extends the trip an extra two hours before anyone has to leave. The St. Charles Streetcar one block away gets the early-departure crew moving without requiring a rideshare at 7am.
-
----
-
-## Plan the Trip That Earns This Morning
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private courtyards, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
