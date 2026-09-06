@@ -4,7 +4,7 @@ description: "A guide to attending authentic neighborhood second line parades on
 category: "Culture & History"
 card_title: "Second Line Sunday"
 card_description: "How to find and follow a real New Orleans neighborhood second line on Sunday: the Social Aid and Pleasure Club schedule, what to wear, how to move as a large group, and why this is the most authentic thing you can do in New Orleans."
-date: 2026-06-17
+date: 2026-09-06
 ---
 
 The neighborhood second line parade is not a tourist attraction. It is a living cultural institution — one of the oldest and most specific traditions in American urban life. Understanding that distinction matters before you show up.
@@ -21,7 +21,7 @@ Visitors are welcome. New Orleans second line culture is inclusive — the parad
 - [ ] Find the specific club and route (see below — the NOLA Social Aid and Pleasure Club Task Force publishes the schedule)
 - [ ] Dress for it: comfortable shoes you can dance in, clothes you can move in, clothes that will get sweaty
 - [ ] Arrive at the starting point before the parade begins, not mid-route
-- [ ] For a group of 15-30: establish a meeting point and a "we got separated" plan before the parade starts
+- [ ] For the whole crew: establish a meeting point and a "we got separated" plan before the parade starts
 - [ ] Bring cash for vendors along the route — food, drinks, and parade merchandise are cash operations
 - [ ] Bring water — second lines are active, the pace is faster than you expect, and the New Orleans sun is not gentle
 - [ ] Participate: clap, dance, second line — but follow the crowd's lead rather than imposing your energy
@@ -31,7 +31,7 @@ Visitors are welcome. New Orleans second line culture is inclusive — the parad
 
 ## What a Second Line Is
 
-The first line of a traditional New Orleans funeral or celebration was the brass band and the main participants — the club, the honoree, the designated walkers. The second line was everyone else who fell in behind and followed. Over time, the second line became its own cultural form, separate from funerals: a Sunday afternoon neighborhood celebration, organized by Social Aid and Pleasure Clubs, that celebrates the club, the community, and the season.
+The first line of a traditional New Orleans funeral or celebration was the brass band and the main participants — the club, the honoree, the designated walkers. The second line was everyone else who fell in behind and followed. Over time, the second line became its own cultural form, separate from funerals — though the funeral tradition it grew out of is still very much alive; see the [jazz funeral culture guide](/guides/nola-group-jazz-funeral-culture-guide/) if that's the angle your group wants to understand first. What runs on Sundays is a neighborhood celebration, organized by Social Aid and Pleasure Clubs, that celebrates the club, the community, and the season.
 
 The music is provided by a brass band — typically 12-20 musicians including brass instruments, drum kit, and a bass drum that you feel before you hear it. The music is not background. It is the engine. The parade moves to the music and the music shapes how people move.
 
@@ -45,7 +45,7 @@ The Social Aid and Pleasure Clubs are mutual aid and fraternal organizations tha
 
 Each club is identified by its name, its colors, and its costume tradition. The members of the sponsoring club will be in elaborate, specifically-designed outfits — suits, dresses, and accessories that are commissioned and constructed for the parade. The club members are the first line; their visual presence is part of the event.
 
-Understanding this context changes how the second line reads. The club members have spent money and time on their costumes. They are celebrating their community, their history, and each other. The visitors who join the second line are participating in the tail of something that has been building for months.
+Understanding this context changes how the second line reads. The club members have spent money and time on their costumes. They are celebrating their community, their history, and each other. The visitors who join the second line are participating in the tail of something that has been building for months. The Mardi Gras Indian tradition runs on a related but distinct set of rules and rituals — worth a read if your trip also lines up with [Super Sunday](/guides/nola-group-super-sunday-mardi-gras-indian-guide/) or you just want the fuller [Mardi Gras Indian culture](/guides/nola-group-mardi-gras-indian-culture-guide/) picture.
 
 ---
 
@@ -99,7 +99,7 @@ Do not come in a costume. Do not wear beads (Mardi Gras beads on a second line r
 
 Second line participants often carry decorated umbrellas — a tradition in which the umbrella is twirled, pointed skyward, used as a visual element of the dance. These are sold by vendors along the route and sometimes at the starting point. Purchasing one and twirling it is participation, not costume — it's a material form of the tradition.
 
-Second line umbrellas are not regular umbrellas. They are decorative, with ruffles and ribbons, and are meant to be visible and moved. If you buy one, learn how to use it by watching the participants around you.
+Second line umbrellas are not regular umbrellas. They are decorative, with ruffles and ribbons, and are meant to be visible and moved. If you buy one, learn how to use it by watching the participants around you. Groups who want a head start can also [make their own umbrellas](/guides/nola-group-second-line-umbrella-making-guide/) before the parade — showing up with something you built yourself is a different kind of participation than buying one at the route.
 
 ---
 
@@ -137,15 +137,15 @@ The parade moves faster than it looks. A crowd of several hundred moving at a fa
 
 Second lines are neighborhood-specific. Each club has a home territory, and the parade route passes through streets that mean something to the club members and the neighborhood residents. Understanding which neighborhood you're in changes the experience.
 
-The clubs whose parades run through Central City, Tremé, and the 7th Ward are passing through some of the oldest African American cultural neighborhoods in the country. The history of those streets — the community institutions, the musicians who lived on them, the civil rights history — is present in the parade even if it isn't narrated.
+The clubs whose parades run through [Central City](/neighborhoods/central-city/), [Tremé](/neighborhoods/treme/), and the [7th Ward](/neighborhoods/seventh-ward/) are passing through some of the oldest African American cultural neighborhoods in the country. The history of those streets — the community institutions, the musicians who lived on them, the civil rights history — is present in the parade even if it isn't narrated.
 
-If your group includes people who want context before or after the parade, the Backstreet Cultural Museum in Tremé is the primary institution for second line culture, Social Aid and Pleasure Club history, and Mardi Gras Indian tradition. A visit to the Backstreet Museum before a second line makes the parade significantly more meaningful.
+If your group includes people who want context before or after the parade, the Backstreet Cultural Museum in Tremé is the primary institution for second line culture, Social Aid and Pleasure Club history, and Mardi Gras Indian tradition. A visit to the Backstreet Museum before a second line makes the parade significantly more meaningful, and pairs naturally with a [Tremé brass band morning](/guides/nola-group-treme-brass-band-morning-guide/) if your group is building out a full culture-focused day.
 
 ---
 
 ## What the Day Looks Like
 
-Second lines are typically the main afternoon event, and the evening flows naturally from them. The standard structure:
+Second lines are typically the main afternoon event, and the evening flows naturally from them. (Groups who want to catch more than one parade, or follow a route across neighborhoods rather than staying put, should look at the [second line chase guide](/guides/nola-group-sunday-second-line-chase-guide/) instead — it's a different day than the one below.) The standard structure:
 
 | Time | Activity |
 |------|----------|
@@ -205,13 +205,8 @@ The second line is not a performance for visitors. The club members in costume, 
 
 ## Where to Stay for Second Line Sunday
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is adjacent to the St. Claude arts corridor and a short rideshare from the Tremé, Central City, and 7th Ward neighborhoods where many second lines run. After the parade, the villa pool and a return to quiet is the correct structure. 4.98 average across 99 reviews.
+Second lines run through Central City, Tremé, and the 7th Ward, so a base anywhere in the central city puts you a short rideshare from most starting points. The field spans private-villa operators like Castleday Retreats (Bywater) and The Syd (Lower Garden District), Heirloom's larger inventory of large-format homes across the LGD and Central City, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for mixed budgets or groups who each want their own key and bill. Whichever you pick, build in a return-to-base window before the evening — the heat and the walking take more out of a group than the parade itself looks like it would.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District location gives easy rideshare access to second line starting points across the city, and the villa's shared outdoor space is the perfect post-second-line recovery environment — hydrate, change, pool time, then an easy Sunday evening.
+For the largest selection, book 6+ months out.
 
----
-
-## Plan Your Second Line Sunday
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, hot tub
+[See where to stay for large groups →](/where-to-stay/)
