@@ -3,8 +3,8 @@ title: "New Orleans Saints Fan Bar Guide for Out-of-Town Groups"
 description: "The Saints fan bar experience for out-of-town groups: how to find the right sports bar for gameday, what Saints culture feels like vs. other NFL cities, Who Dat etiquette for visitors, and the difference between watching the Saints at a bar vs. Caesars Superdome."
 category: "Festivals & Events"
 card_title: "Saints Fan Bar Guide"
-card_description: "How to watch the Saints at the right New Orleans sports bar for groups of 15-30: finding your spot, Who Dat etiquette for visitors, what makes NOLA gameday culture different from other NFL cities, and bar vs. Caesars Superdome."
-date: 2026-06-17
+card_description: "How to watch the Saints at the right New Orleans sports bar when the whole crew's in town: finding your spot, Who Dat etiquette for visitors, what makes NOLA gameday culture different from other NFL cities, and bar vs. Caesars Superdome."
+date: 2026-09-06
 ---
 
 New Orleans Saints fans are among the most intense NFL fan bases in the country. This is not boosterism — it's a function of history. The Saints were terrible for most of their first four decades and the city kept filling the Superdome anyway. The relationship between the city and the Saints has layers that don't exist in cities with consistently winning franchises.
