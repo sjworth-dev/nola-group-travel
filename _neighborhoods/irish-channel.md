@@ -2,7 +2,7 @@
 title: "Irish Channel: New Orleans Group Travel Guide"
 description: "The Irish Channel neighborhood guide for large groups visiting New Orleans. Magazine Street's southern stretch, St. Patrick's Day parade, neighborhood bars, and why it's worth a half-day."
 category: "Neighborhoods"
-date: 2026-05-29
+date: 2026-09-06
 ---
 
 Most groups skip the Irish Channel. It's not on the typical tourist circuit, it doesn't have the name recognition of the French Quarter or Garden District, and it's easy to miss entirely if you're not looking for it.
@@ -11,7 +11,7 @@ That's mostly to your advantage.
 
 The Irish Channel sits between the Lower Garden District and the river, running along the lower stretch of Magazine Street. It's a working-class historic neighborhood that's gentrified slowly and selectively — old corner bars still outnumber coffee shops, front porches are still lived on, and the streets feel like real New Orleans rather than a set piece for visitors.
 
-For large groups based in the LGD, Garden District, or Bywater, it's an excellent half-day. For groups visiting during St. Patrick's Day weekend, it's mandatory.
+For large groups based in the [LGD](/neighborhoods/lower-garden-district/), [Garden District](/neighborhoods/garden-district/), or [Bywater](/neighborhoods/bywater/), it's an excellent half-day. For groups visiting during [St. Patrick's Day](/guides/nola-group-st-patricks-day-guide/) weekend, it's mandatory.
 
 ## What the Irish Channel Is
 
@@ -76,7 +76,7 @@ St. Patrick's Day in the Irish Channel is one of New Orleans' best events that m
 
 ## Super Sunday: Mardi Gras Indian Gathering
 
-In March (the Sunday closest to St. Joseph's Day, March 19), Mardi Gras Indian tribes gather in the neighborhood in full handmade suits. This is not a packaged tourist event.
+In March (the Sunday closest to St. Joseph's Day, March 19), [Mardi Gras Indian](/guides/nola-group-mardi-gras-indian-culture-guide/) tribes gather in the neighborhood in full handmade suits for [Super Sunday](/guides/nola-group-super-sunday-mardi-gras-indian-guide/). This is not a packaged tourist event.
 
 The suits are extraordinary works of art — beaded, feathered, and hand-built over months or years. The gathering is a living cultural tradition with deep roots in African and Native American heritage.
 
@@ -137,7 +137,7 @@ Groups looking for the most concentrated nightlife experience should still go to
 The Irish Channel works well as an anchor for a broader Magazine Street and Garden District day:
 
 **Sample Half-Day + Irish Channel Structure:**
-- Morning: Garden District walking tour or Magazine Street boutiques (uptown end)
+- Morning: Garden District walking tour or [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/) boutiques (uptown end)
 - Lunch: Parasol's or Tracey's in the Irish Channel (roast beef po-boys)
 - Afternoon: Magazine Street bar crawl, Balcony Bar
 - Late afternoon: Uber to LGD or wherever you're based for pool time before dinner
@@ -148,13 +148,9 @@ This gives you 6-8 hours of structured activity without feeling rushed, and inco
 
 ## Where to Stay for Groups Visiting the Irish Channel
 
-The Irish Channel itself doesn't have large-group private rentals in the same density as nearby neighborhoods. The best bases for groups who want Irish Channel access are:
+The Irish Channel itself doesn't have large-group private rentals in the same density as nearby neighborhoods, so groups base nearby and treat it as an excursion. The field spans The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas (up to 22 guests, one stop up Magazine Street from the Irish Channel) and Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas (up to 30, a 10-15 minute Uber), plus apartment-style options like Heirloom and The Revelry and hotel room blocks for mixed-budget groups. Whichever base you pick, that's a real home base — not scattered hotel rooms, but one place where you can debrief, cook, pool, and actually be together between excursions. For the largest selection, book 6+ months out.
 
-**The Syd** — Lower Garden District, one stop up Magazine Street from the Irish Channel. Multiple villas sleeping up to 22, shared heated pool, hot tub, sauna, and outdoor kitchen. One block from the St. Charles Streetcar. This is the closest large-group rental base to the Irish Channel, and the Magazine Street walk between the neighborhoods is part of the experience.
-
-**Castleday Retreats** — Bywater neighborhood, about 10-15 minutes by Uber from the Irish Channel. Three private villas sleeping up to 30 each, private pools. Better base for groups prioritizing Bywater, Frenchmen Street, and the eastern neighborhoods, with the Irish Channel as a half-day excursion.
-
-Both properties give your group a real home base in New Orleans — not scattered hotel rooms, but one place where you can debrief, cook, pool, and actually be together between excursions.
+[See where to stay for large groups →](/where-to-stay/)
 
 ---
 
@@ -163,6 +159,3 @@ Both properties give your group a real home base in New Orleans — not scattere
 For most groups: spend a half-day in the Irish Channel on your second or third day in the city. Walk from the Garden District end of Magazine Street, eat at Parasol's, have a couple of drinks on this stretch of neighborhood bars, and then move on to wherever your evening is taking you. That's the right amount.
 
 For groups here specifically for St. Patrick's Day: this is your neighborhood. Get here early, claim your parade spot, and plan for a full day on Magazine Street.
-
-- The Syd — Lower Garden District, closest to the Irish Channel, up to 22/villa
-- Castleday Retreats — Bywater, private pools, up to 30/villa
