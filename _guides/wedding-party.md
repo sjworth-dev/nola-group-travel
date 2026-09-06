@@ -4,7 +4,7 @@ description: "Plan wedding parties, guest accommodations, and wedding weekend ac
 category: "Weddings & Celebrations"
 card_title: "Wedding Parties"
 card_description: "Bridesmaids, groomsmen, and out-of-town guests. One place for the whole wedding crew."
-date: 2026-07-15
+date: 2026-09-06
 ---
 
 You're getting married in New Orleans. Or someone you love is. Either way, you need to figure out where the wedding party is staying, what to do the nights before, and how to keep 20+ people organized.
@@ -15,7 +15,7 @@ This guide covers the logistics—because weddings are stressful enough without 
 
 ### The Wedding Party
 
-Bridesmaids, groomsmen, and the couple. Usually 10-20 people who need to be together for photos, prep, and bonding time.
+Bridesmaids, groomsmen, and the couple — the core group who needs to be together for photos, prep, and bonding time.
 
 **What they need:**
 - One rental where everyone can gather
@@ -25,7 +25,7 @@ Bridesmaids, groomsmen, and the couple. Usually 10-20 people who need to be toge
 
 ### Out-of-Town Guests
 
-Extended family and friends traveling for the wedding. Often 15-50+ people who need recommendations.
+Extended family and friends traveling for the wedding — often the biggest chunk of the guest list, and the group most in need of recommendations.
 
 **What they need:**
 - Hotel block or rental suggestions
@@ -47,9 +47,7 @@ Smaller weddings where the entire guest list stays together in one large rental.
 
 ### For Large Wedding Parties
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, multiple bedrooms. Perfect for bridesmaids getting ready together or groomsmen hosting the pre-wedding party.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. One block from St. Charles streetcar, easy access to everything. Shared pool and hot tub for group gatherings.
+The field spans private-villa operators like Castleday Retreats (Bywater, private pools per villa) and The Syd (Lower Garden District, a block off the St. Charles streetcar, shared pool and hot tub), Heirloom's larger inventory of large-format homes across the LGD and Central City for short-notice availability, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for guests who want their own key and bill. Pick for the getting-ready space and common area your wedding party actually needs, not the biggest number on a listing.
 
 ### Bridesmaids vs. Groomsmen
 
@@ -195,7 +193,7 @@ The [pre-wedding activities guide](/guides/pre-wedding-activities-guide/) has a 
 
 Your rental's courtyard or common area works perfectly for casual welcome dinners.
 
-**Restaurant options for 15-30:**
+**Restaurant options for the whole crew:**
 - Compère Lapin (private space available)
 - Cochon (family-style works great)
 - Brennan's courtyard
@@ -290,7 +288,7 @@ For groups moving 15+ people between venues, the [rideshare and ground transport
 
 **Can we do photos at the rental?**
 
-Yes. Most Castleday and The Syd properties photograph beautifully—courtyards, pools, interesting architecture. Many couples do first look and wedding party photos at their rental.
+Yes. Most large-format rental homes photograph beautifully—courtyards, pools, interesting architecture. Many couples do first look and wedding party photos at their rental.
 
 **How early should we book?**
 
@@ -298,16 +296,16 @@ For the largest selection, book 6+ months out.
 
 **Can we host the welcome dinner at the rental?**
 
-Absolutely. Cater it, hire a private chef, or potluck-style. That's the whole point of renting a space this size. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) covers the real cost comparison and what a private chef actually delivers for a group of 15-25.
+Absolutely. Cater it, hire a private chef, or potluck-style. That's the whole point of renting a space this size. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) covers the real cost comparison and what a private chef actually delivers when the trip goes double-digit.
 
 **What about out-of-town guests who aren't in the wedding party?**
 
-Send them to hotels, or book multiple rentals on the same property. The Syd's multiple villas work well for this.
+Send them to hotels, or book multiple rentals from an operator that has more than one property nearby.
 
 ---
 
 ## Book Your Wedding Weekend
 
-For wedding party groups of 15-30, you need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools — good for getting-ready photos) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, easy transport to venues citywide) are both built for exactly this.
+For the whole wedding party, you need one private space where everyone can gather for the getting-ready chaos, the toasts, and the recovery brunch. See the Where to Stay section above for how the field breaks down, and book early — for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
