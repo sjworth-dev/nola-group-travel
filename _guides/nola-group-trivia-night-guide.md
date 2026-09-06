@@ -1,13 +1,13 @@
 ---
 title: "NOLA-Themed Trivia Night at the Villa for Large Groups"
-description: "Running a New Orleans-themed trivia night at the villa for groups of 15-30: question category structure (history, food, music, geography), team formats, scoring systems, prizes, and how to source good NOLA trivia content."
+description: "Running a New Orleans-themed trivia night at the villa for the whole crew: question category structure (history, food, music, geography), team formats, scoring systems, prizes, and how to source good NOLA trivia content."
 category: "Activities & Day Trips"
 card_title: "Villa Trivia Night Guide"
-card_description: "How to run a proper NOLA-themed trivia night at the villa for groups of 15-30: category structure, team formats, scoring, prizes, and where to find good questions."
-date: 2026-06-16
+card_description: "How to run a proper NOLA-themed trivia night at the villa when the trip goes double-digit: category structure, team formats, scoring, prizes, and where to find good questions."
+date: 2026-09-06
 ---
 
-Bar trivia in New Orleans is a perfectly fine way to spend a Tuesday night. Running your own trivia night at the villa, themed specifically to New Orleans, is better — and it's one of the highest-engagement group activities you can organize without leaving the property.
+Bar trivia in New Orleans is a perfectly fine way to spend a Tuesday night. Running your own trivia night at the villa, themed specifically to New Orleans, is better — and it's one of the highest-engagement [group activities](/guides/group-games-activities-guide/) you can organize without leaving the property.
 
 The version that works is not "one person reads questions and everyone answers." That's a quiz. A trivia night is a structured competition with teams, a host who performs, a scoring system that creates tension, and categories that reward knowledge people didn't know they had before the trip.
 
@@ -91,7 +91,7 @@ For nights when trivia is the main event:
 **Topics that produce good questions:**
 - What ingredients go in a proper gumbo (and the roux debate)
 - The difference between Creole and Cajun cuisine
-- Origin of the po-boy sandwich and why it's called that
+- Origin of the po-boy sandwich and why it's called that — if the group has already argued this out at a [po-boy smackdown](/guides/nola-group-po-boy-smackdown-guide/), this round writes itself
 - What "dressed" means on a po-boy (lettuce, tomato, pickles, mayo)
 - The Sazerac cocktail — the debate over whether it's the oldest cocktail in America
 - Where beignets come from and the New Orleans-specific connection
@@ -244,7 +244,7 @@ The host is the most important variable. A host who commits to the performance �
 
 ### Write Your Own: The Best Approach
 
-Questions written specifically about the trip itself are the most engaging trivia content. Use the trip as material:
+Questions written specifically about the trip itself are the most engaging trivia content — the same instinct behind a good [scavenger hunt](/guides/nola-group-scavenger-hunt-guide/): use the trip as material.
 
 - "We visited three neighborhoods today. Name them in the order we visited them."
 - "What was the name of the brass band we saw at Frenchmen Street last night?"
@@ -289,15 +289,8 @@ The combination that works best for most groups: winners don't have to do the ne
 
 ---
 
-## The Villa That Makes This Easy
+## The Large-Group Accommodation Challenge
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths, sleeping up to 30 guests. Castleday's spacious common areas — designed for groups, not hotel-lobby-sized — accommodate the team seating, scoreboard setup, and group energy that trivia night requires. The private nature of the villa means you control the volume, the pace, and the evening without managing around other guests. A trivia night that runs until midnight doesn't bother anyone. Pool access before or after, outdoor space for the teams who want to discuss answers away from the main room. Castleday holds a 4.98 average across 99 reviews.
+Trivia night works best in a space you don't have to share or apologize for — a private living room or courtyard where a scoreboard can sit on the wall all night and a host can perform without bothering other guests. That's an argument for a villa over a hotel floor, and it's worth sorting out early: see [hotel vs. villa](/guides/hotel-vs-villa-guide/) if you haven't settled that question yet. The field spans private-villa operators like Castleday Retreats (Bywater) and The Syd (Lower Garden District), apartment-style options like Heirloom and The Revelry, and hotels that can block rooms for mixed-budget groups. Pick for the common-area layout and privacy you actually need, not the biggest number on a listing — and for the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's artist-designed interior spaces and connected outdoor areas give trivia night an atmosphere that a generic vacation rental doesn't. The common areas handle team seating comfortably, the outdoor kitchen and pool become the post-trivia celebration venue, and the St. Charles location means you can pivot easily to a bar night if the group wants to extend the evening.
-
----
-
-## Ready to Compete?
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools and common areas, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared heated pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/)
