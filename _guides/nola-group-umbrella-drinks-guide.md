@@ -4,14 +4,14 @@ description: "Walk-around cup culture and the iconic New Orleans umbrella drinks
 category: "Nightlife & Music"
 card_title: "Walk-Around Cups & Umbrella Drinks"
 card_description: "Frozen daiquiri, Hand Grenade, Hurricane — what's worth it vs. what's a tourist trap, the walk-around cup law, and how to use outdoor drinking culture as a group mobility tool in New Orleans."
-date: 2026-06-17
+date: 2026-09-07
 ---
 
-New Orleans is one of the few American cities where you can walk down a public street with a drink in your hand. This is not a myth or a misunderstanding of the law — it is the law. Louisiana allows open containers in public, and the city of New Orleans has explicitly permitted walk-around cups in entertainment districts. The cultural result is a city that is in motion in a way most American cities are not. The drink comes with you.
+New Orleans is one of the few American cities where you can walk down a public street with a drink in your hand. This is not a myth or a misunderstanding of the law — it is the law (the [open container law guide](/guides/nola-group-open-container-law-guide/) has the full rules if you want the fine print). Louisiana allows open containers in public, and the city of New Orleans has explicitly permitted walk-around cups in entertainment districts. The cultural result is a city that is in motion in a way most American cities are not. The drink comes with you.
 
 For large groups, this changes the logistics of a night out fundamentally. You don't need to finish your drink before leaving a bar. You don't need to plan your entire evening around one venue. You can keep moving without losing the social thread of the evening. This is genuinely useful.
 
-The ecosystem of drinks that exists specifically to be walked around — the frozen daiquiri from a drive-through, the Hand Grenade from Bourbon Street, the Hurricane from Pat O'Brien's — is a mix of legitimate cultural traditions and tourist-facing products that are not the same thing as good cocktails. Knowing the difference saves money, maintains dignity, and produces a better evening.
+The ecosystem of drinks that exists specifically to be walked around — the frozen daiquiri from a drive-through, the Hand Grenade from Bourbon Street, the Hurricane from Pat O'Brien's — is a mix of legitimate cultural traditions and tourist-facing products that are not the same thing as good cocktails. Knowing the difference saves money, maintains dignity, and produces a better evening. If this is one piece of a bigger night-out puzzle you're still assembling, [plan a group trip](/guides/plan-a-group-trip/) sequences the whole decision stack.
 
 ---
 
@@ -49,7 +49,7 @@ The flavors are the point. The classic NOLA frozen daiquiri is not a margarita-s
 
 **What's not worth it:** The Bourbon Street window "frozen daiquiri" at a tourist bar is often a lower-quality product at a higher price, served in a novelty container designed to be photographed. The container is the product, not the drink. Skip this version.
 
-**The geography:** The best daiquiri shops are not on Bourbon Street. They are in the residential and commercial corridors of the city — Mid-City, the Westbank, East New Orleans. Some of the shops near the French Quarter are legitimate; the ones staffed by people in tourist-bar costumes are not.
+**The geography:** The best daiquiri shops are not on Bourbon Street. They are in the residential and commercial corridors of the city — [Mid-City](/neighborhoods/mid-city/), the Westbank, East New Orleans. Some of the shops near the [French Quarter](/neighborhoods/french-quarter/) are legitimate; the ones staffed by people in tourist-bar costumes are not.
 
 ### The Hurricane
 
@@ -89,7 +89,7 @@ Walk-around cup version: possible, technically, if you pour it into a plastic cu
 
 Beyond the famous tourist drinks, New Orleans has a walk-around cup culture that produces genuinely good, walkable cocktails from places that aren't designed around tourist photographs.
 
-**Batch cocktails from music venues:** On Frenchmen Street, many venues sell drinks in plastic cups at the door for exactly this use — carry into the venue, carry out to the street, move to the next venue without losing your drink. The drinks are generally straightforward (rum and coke, beer, simple cocktails) but they're inexpensive and functional.
+**Batch cocktails from music venues:** On Frenchmen Street in the [Marigny](/neighborhoods/marigny/), many venues sell drinks in plastic cups at the door for exactly this use — carry into the venue, carry out to the street, move to the next venue without losing your drink. The drinks are generally straightforward (rum and coke, beer, simple cocktails) but they're inexpensive and functional.
 
 **Beer and cans:** Walking with a beer or a canned cocktail is the most friction-free version of the walk-around cup. Open, pour into a plastic cup if required, walk. For a large group, having a beer or a seltzers is often the right practical call while moving between destinations.
 
@@ -136,9 +136,9 @@ The two truths about drinking on Bourbon Street:
 
 **Truth 1:** Most of the famous tourist drinks (Hand Grenade, the colorful walk-up window daiquiris) are tourist theater. You can do them for the experience and know that's what they are.
 
-**Truth 2:** There are actual good cocktail bars on and near Bourbon Street where the product is real. These bars exist alongside the tourist operations and serve drinks that are of the city's serious cocktail culture.
+**Truth 2:** There are actual good cocktail bars on and near Bourbon Street where the product is real. These bars exist alongside the tourist operations and serve drinks that are of the city's serious cocktail culture — the [craft cocktail bar strategy guide](/guides/nola-group-craft-cocktail-bar-strategy-guide/) covers how to find them and get a group seated.
 
-For a group of 20, Bourbon Street is a transit corridor and an environment to experience, not a destination to camp at for the full evening. Walk through, have the tourist drinks you want to have, take the group photo, and then move on to the places that are actually worth the time.
+For a group of 20, Bourbon Street is a transit corridor and an environment to experience, not a destination to camp at for the full evening (the [Bourbon Street guide](/guides/nola-bourbon-street-guide/) has the block-by-block version of that argument, and the [French Quarter at night guide](/guides/nola-group-french-quarter-at-night-guide/) covers what to do once you're past it). Walk through, have the tourist drinks you want to have, take the group photo, and then move on to the places that are actually worth the time.
 
 ---
 
@@ -168,15 +168,10 @@ For a summer visit, the frozen daiquiri is the correct walk-around cup vehicle. 
 
 ---
 
-## The Villa as Your Walk-Around Base
+## Your Walk-Around Base
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's Bywater location means you're walking distance from the Marigny and a short rideshare from the French Quarter — the walk-around cup corridor begins at your door. Pre-mix a batch cocktail in the villa, pour into go-cups, and start the evening already in motion. 4.98 average across 99 reviews.
+Wherever your group is staying, the pre-game matters more than the destination: pre-mix a batch cocktail before you leave and the first round of the evening is free and already in motion by the time you hit the street. A [Bywater](/neighborhoods/bywater/) villa like Castleday Retreats puts you walking distance from the Marigny and a short rideshare from the French Quarter. A [Lower Garden District](/neighborhoods/lower-garden-district/) villa like The Syd sits one block from the St. Charles Streetcar for downtown access. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent), round out the field for groups who'd rather have separate keys. Pick for the neighborhood and the pre-game kitchen, not the biggest number on a listing.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's outdoor kitchen and shared courtyard is the natural pre-Bourbon Street staging point: the batch cocktail goes in the dispenser, go-cups are filled, and the group walks out already equipped. One block from the St. Charles Streetcar for downtown access.
+For the largest selection, book 6+ months out.
 
----
-
-## Book Your NOLA Base
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
