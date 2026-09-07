@@ -3,11 +3,11 @@ title: "Villa Po-Boy Smackdown Guide for Large Groups"
 description: "Running a po-boy smackdown at the villa: ordering from multiple spots, blind tasting format, judging criteria (bread ratio, protein, dressing), the roast beef vs. fried seafood debate, and why this beats going out for group dinner on night two."
 category: "Food & Drink"
 card_title: "Villa Po-Boy Smackdown"
-card_description: "How to run a po-boy smackdown at the villa for groups of 15-30: ordering from multiple spots, blind tasting format, judging criteria, and why this is the best group dinner on night two."
-date: 2026-06-17
+card_description: "How to run a po-boy smackdown at the villa when the trip goes double-digit: ordering from multiple spots, blind tasting format, judging criteria, and why this is the best group dinner on night two."
+date: 2026-09-07
 ---
 
-Going out for dinner with 20 people in New Orleans is logistically difficult, frequently expensive, and often less memorable than the solo experiences you'd have if you split up. The restaurants that can seat 20 people on short notice are mostly places you could visit anywhere.
+Going out for dinner with 20 people in New Orleans is logistically difficult, frequently expensive, and often less memorable than the solo experiences you'd have if you split up. The restaurants that can seat 20 people on short notice are mostly places you could visit anywhere — see the [foodie itinerary guide](/guides/nola-group-foodie-itinerary-guide/) if you're still weighing how many of your nights should be sit-down restaurant nights at all.
 
 Here is a better option for night two: the po-boy smackdown.
 
@@ -163,7 +163,7 @@ Have the tasting setup ready before the runners leave: numbers marked, evaluatio
 
 Night one, everyone is excited and wants to go out. Night three, people are tired and want to be taken care of. Night two is the sweet spot for a villa activity: the group has found its rhythm, the initial excitement has settled, and people are ready for something that's genuinely fun rather than just novel.
 
-A night-two po-boy smackdown replaces a logistically difficult group dinner with an activity that requires no reservation, no shared menu negotiation, no waiting for a party of 20 to finish ordering, and no split-check conversation. It is cheaper, more fun, more NOLA-specific, and easier to run than almost any restaurant alternative.
+A night-two po-boy smackdown replaces a logistically difficult group dinner with an activity that requires no reservation, no shared menu negotiation, no waiting for a party of 20 to finish ordering, and no split-check conversation. It is cheaper, more fun, more NOLA-specific, and easier to run than almost any restaurant alternative. If night two goes to the po-boys, save a [themed villa dinner night](/guides/nola-group-themed-villa-dinner-night-guide/) or a [villa game night](/guides/nola-group-villa-game-night-guide/) for later in the trip — spreading the at-home nights out keeps each one feeling like an event instead of a default.
 
 It also generates content the group will reference for the rest of the trip. "Remember when someone gave the Parkway the lowest score on bread?" This is the kind of trip memory that a sit-down dinner at a group-friendly restaurant does not produce.
 
@@ -187,17 +187,10 @@ It also generates content the group will reference for the rest of the trip. "Re
 
 ---
 
-## The Villa That Makes This Possible
+## Where to Run It
 
-The po-boy smackdown requires outdoor or indoor table space for 20 people, a surface for the judging setup, and a kitchen for logistics. The private villa format is the only group accommodation type that makes this consistently workable.
+The po-boy smackdown requires outdoor or indoor table space for the whole crew, a surface for the judging setup, and a kitchen for the runners to stage everything in when they get back. A private villa is the format built for this — a long table, a courtyard or pool deck, and a kitchen beat a hotel room every time. The field spans single-villa operators like The Mazant and The Lookout Inn, apartment-style options like Heirloom, The Revelry, and Roami, and hotel room blocks for groups who'd rather have separate keys and separate bills. Whatever you pick, check that the common space can actually seat everyone at once before you commit — a judging table split across two rooms kills the format. If you haven't settled hotel vs. villa yet, that's [its own decision](/guides/hotel-vs-villa-guide/) worth making first.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's common areas and private outdoor spaces — pool deck, courtyard — are designed to accommodate groups of 20-30 as an actual group. A long table, an outdoor courtyard, and a kitchen for the runner's return: this is what a po-boy smackdown requires. Castleday holds a 4.98 average across 99 reviews.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. The Syd's outdoor kitchen and shared common areas make the villa-as-competition-venue model work for groups of 15-22. Setting up the tasting table at the outdoor kitchen and doing the reveal under the lights is the move.
-
----
-
-## Ready to Smackdown
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools, 12 bedrooms, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared pool and hot tub
+[See where to stay for large groups →](/where-to-stay/)
