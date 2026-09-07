@@ -1,17 +1,17 @@
 ---
 title: "Celebrating a Milestone Wedding Anniversary as a Large Group in New Orleans"
-description: "How to plan a milestone wedding anniversary for 20-25 people in New Orleans: private second line through the French Quarter, dinner at a historically significant restaurant, and a toast structure that actually works."
+description: "How to plan a milestone wedding anniversary for a big group in New Orleans: private second line through the French Quarter, dinner at a historically significant restaurant, and a toast structure that actually works."
 category: "Weddings & Celebrations"
 card_title: "Group Wedding Anniversary in NOLA"
 card_description: "Private second lines, historic dining rooms, and a city that takes celebration seriously. The guide for milestone anniversaries with a large group."
-date: 2026-06-23
+date: 2026-09-07
 ---
 
 Most cities will host your anniversary party. New Orleans will actually celebrate it with you. That's the difference, and it's not subtle.
 
 A milestone wedding anniversary — 25 years, 30, 40, 50 — deserves more than a nice dinner and a hotel ballroom. It deserves a city that understands what endurance looks like, that has its own relationship with memory and ceremony and joy, that will hand your group a brass band and a handkerchief and let you dance through the streets at two in the afternoon on a Tuesday.
 
-Doing this with 20-25 people raises the complexity considerably. You're managing logistics, personalities, dietary restrictions, flight schedules, and the emotional weight of an occasion that matters to everyone present. We've helped plan dozens of these. Here's what actually works.
+Doing this with the whole family raises the complexity considerably. You're managing logistics, personalities, dietary restrictions, flight schedules, and the emotional weight of an occasion that matters to everyone present. Here's what actually works. If you're still working through the earlier decisions — dates, headcount, how to split the budget — [plan a group trip](/guides/plan-a-group-trip/) sequences those first.
 
 ## Quick Checklist
 
@@ -37,9 +37,9 @@ This isn't just atmosphere. It changes how your group behaves. People relax fast
 
 ### The Second Line Tradition Is Built for Exactly This
 
-The second line is a New Orleans institution rooted in jazz funeral culture: a brass band leads, the honored party walks directly behind, and everyone else — the "second line" — follows with handkerchiefs, parasols, and whatever energy they've got. It has evolved into a celebration format for weddings, anniversaries, and any occasion worth marking publicly.
+The second line is a New Orleans institution rooted in jazz funeral culture: a brass band leads, the honored party walks directly behind, and everyone else — the "second line" — follows with handkerchiefs, parasols, and whatever energy they've got. It has evolved into a celebration format for weddings, anniversaries, and any occasion worth marking publicly — the [second line guide](/guides/second-line-guide/) covers the tradition and the mechanics in more depth.
 
-A private second line through the French Quarter with a brass band, 20-plus people, and a couple who've been married for 30 years is not a tourist gimmick. It's one of the most genuinely moving experiences we've seen groups have. Grown adults cry. Strangers on the street cheer and fall in behind. The city participates.
+A private second line through the French Quarter with a brass band, the whole extended family, and a couple who've been married for 30 years is not a tourist gimmick. It's one of the most genuinely moving experiences a group can have together. Grown adults cry. Strangers on the street cheer and fall in behind. The city participates.
 
 ### The Food Is Historically Serious
 
@@ -75,9 +75,9 @@ Budget meaningful lead time. The permit process is not fast.
 
 ### Route Options
 
-The French Quarter is the classic choice. Royal Street and its surrounding blocks offer a visually rich route — iron balconies, historic architecture, enough pedestrian traffic that strangers will join the celebration, but manageable for a group to navigate.
+The [French Quarter](/neighborhoods/french-quarter/) is the classic choice. Royal Street and its surrounding blocks offer a visually rich route — iron balconies, historic architecture, enough pedestrian traffic that strangers will join the celebration, but manageable for a group to navigate.
 
-The Marigny and Bywater offer a more neighborhood feel, less tourist-dense, with the same architectural character. If your group is staying in the Bywater (more on that below), consider a route that ends near your accommodations.
+The [Marigny](/neighborhoods/marigny/) and Bywater offer a more neighborhood feel, less tourist-dense, with the same architectural character. If your group is staying in the Bywater (more on that below), consider a route that ends near your accommodations.
 
 ### What the Couple Does vs. What the Group Does
 
@@ -89,7 +89,7 @@ Brief your group beforehand. Tell them what's happening, what the tradition mean
 
 ### Cost
 
-Private second lines for groups this size range from moderately to significantly expensive, depending on band size, route length, and operator. Do not budget this like hiring a DJ. A serious brass band doing a private engagement is worth what it costs, and trying to find the cheapest option usually produces a noticeably diminished experience.
+Private second lines for groups this size range from moderately to significantly expensive, depending on band size, route length, and operator. Do not budget this like hiring a DJ. A serious brass band doing a private engagement is worth what it costs, and trying to find the cheapest option usually produces a noticeably diminished experience. The [budget guide](/guides/budget-guide/) has more on where a splurge like this fits into the overall trip math.
 
 Get quotes from multiple operators. Ask specifically about experience with private anniversary celebrations, whether they can customize the song selection, and what happens if it rains.
 
@@ -97,9 +97,9 @@ Get quotes from multiple operators. Ask specifically about experience with priva
 
 ## The Anniversary Dinner
 
-### Which Restaurants Work for Groups of 20-25
+### Which Restaurants Work at Full Headcount
 
-New Orleans has several restaurants with genuine historical significance and private dining rooms that can accommodate 20-25 people for a seated dinner. These are not hotel banquet halls. These are rooms in buildings that have been serving food for generations, with cuisine that reflects the full complexity of what New Orleans cooking actually is.
+New Orleans has several restaurants with genuine historical significance and private dining rooms that can accommodate the whole group for a seated dinner. These are not hotel banquet halls. These are rooms in buildings that have been serving food for generations, with cuisine that reflects the full complexity of what New Orleans cooking actually is — the [restaurant guide](/guides/restaurant-guide/) has the broader group-dining rundown if you need more options.
 
 When evaluating options, ask:
 
@@ -113,7 +113,7 @@ The last question matters more than people expect. We'll come back to it.
 
 ### Private Dining Room Logistics
 
-A group of 20-25 needs a true private room. This is non-negotiable for an anniversary dinner. You need the ability to give toasts without competing with ambient restaurant noise. You need to be able to cry without feeling observed. You need the pace of the evening to be yours, not the restaurant's.
+A group at full headcount needs a true private room. This is non-negotiable for an anniversary dinner. You need the ability to give toasts without competing with ambient restaurant noise. You need to be able to cry without feeling observed. You need the pace of the evening to be yours, not the restaurant's.
 
 Reserve the room as soon as your headcount is confirmed. For weekends from October through May, 3-4 months is the minimum. Some of the most significant rooms book earlier than that.
 
@@ -127,7 +127,7 @@ One long table is the right choice for an anniversary dinner of this size. The g
 
 ### The Prix Fixe vs. Ordering Approach
 
-For a private dinner of 20-25, a set menu — even if you offer two or three options per course — is significantly easier to execute than open ordering. The kitchen can time courses properly, dietary restrictions are handled in advance rather than at the table, and the meal moves at a civilized pace.
+For a private dinner at full headcount, a set menu — even if you offer two or three options per course — is significantly easier to execute than open ordering. The kitchen can time courses properly, dietary restrictions are handled in advance rather than at the table, and the meal moves at a civilized pace.
 
 Negotiate this when you book. Most private dining rooms will work with you on a custom menu. Come in with a sense of what the couple loves, what the group eats, and what you're trying to spend per person. A good private dining coordinator will help you build something appropriate.
 
@@ -215,7 +215,7 @@ Budget an hour for assembly, the second line itself, and the emotional aftermath
 
 ### Day Three: Recovery and Departure
 
-**Morning:** Brunch. New Orleans does brunch better than almost anywhere. Book a brunch reservation for the group at a restaurant that can handle 20-25 — or do a final communal breakfast at the villas. The latter is often better; people are emotional after the night before and a private setting lets the conversation happen naturally.
+**Morning:** Brunch. New Orleans does brunch better than almost anywhere. Book a brunch reservation for the group at a restaurant that can handle the whole crew — or do a final communal breakfast at the villas. The latter is often better; people are emotional after the night before and a private setting lets the conversation happen naturally.
 
 **Midday:** One optional activity. A cemetery tour, a cooking class, a garden district walk, an afternoon at the National WWII Museum. Keep it optional and keep it unhurried. By Day Three, some people will want to explore and some will want to sit on the porch.
 
@@ -236,7 +236,7 @@ Budget an hour for assembly, the second line itself, and the emotional aftermath
 | Distinct local cuisine | Yes | Yes | Moderate | No |
 | Walkability for a group | Strong (French Quarter) | Strong | Strong | Moderate |
 
-New Orleans is the right answer for a celebration that involves a second line and a historically rooted dinner. The other cities are fine. They are not this.
+New Orleans is the right answer for a celebration that involves a second line and a historically rooted dinner. The other cities are fine. They are not this. (Planning the wedding itself rather than a later milestone? The [wedding weekend guide](/guides/wedding-weekend-guide/) sequences that trip.)
 
 ---
 
@@ -260,31 +260,13 @@ New Orleans is the right answer for a celebration that involves a second line an
 
 ## Large Group Accommodation
 
-Getting the accommodation right is the most important logistical decision you'll make. For a milestone anniversary with 20-25 people, a single-property private villa situation — where everyone is under the same roof or on the same property — changes everything about how the trip feels.
+Getting the accommodation right is the most important logistical decision you'll make. For a milestone anniversary at full headcount, a single-property private villa situation — where everyone is under the same roof or on the same property — changes everything about how the trip feels. If you haven't settled hotel vs. villa yet, that's [its own decision](/guides/hotel-vs-villa-guide/) worth making first.
 
 Hotel room blocks distribute a group across twelve floors and lose the connective tissue. The porch conversation at 11pm. The communal breakfast. The late-night debrief after the second line. These happen when the group shares space. They don't happen in a Marriott.
 
-Two properties in New Orleans are built for exactly this.
+The field spans single-property villas like Castleday Retreats (private pool per villa) in the [Bywater](/neighborhoods/bywater/) — steps from the second line's Marigny/Bywater route options — and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/), with a shared heated pool, hot tub, and a spot one block from the St. Charles Streetcar for the Garden District and Magazine Street recovery-day walk. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) round out the field for groups who'd rather each have their own key. Pick for the neighborhood and the shared space, not the biggest number on a listing.
 
-### Castleday Retreats — Bywater
-
-Castleday operates three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each villa has 12 bedrooms, 17 real beds (not pull-out sofas masquerading as beds), and 8 bathrooms, accommodating 14-30 guests per villa.
-
-The Florentine is ADA-accessible, which matters more than people think when planning a milestone anniversary for a group that may include guests with mobility considerations. This is not a detail to figure out after you've booked.
-
-The Bywater is an arts-and-culture neighborhood east of the French Quarter — walkable to great bars and restaurants, quieter than the Quarter itself, with the kind of architectural character that makes an anniversary trip feel like it happened somewhere. Castleday holds a 4.98 average rating across 99 reviews. That's not luck. That's a property that consistently executes.
-
-### The Syd — Lower Garden District
-
-The Syd offers villas in the Lower Garden District, each sleeping up to 22 guests. The shared amenities — heated pool, hot tub, sauna, outdoor kitchen — are serious. This is not a token amenity list. Groups actually use these. A long morning in the hot tub after Day Two's main events is one of the better anniversary weekend experiences a group can have.
-
-The rooms are artist-designed, which means the property is actually beautiful in a distinctive way rather than beautiful in a generic boutique-hotel way. The location puts you one block from the St. Charles Streetcar, which is a legitimately useful transit option and also an experience in itself.
-
-For groups where the Lower Garden District's proximity to the Garden District, Magazine Street, and Uptown is a better geographic fit than Bywater, The Syd is the right answer.
-
----
-
-Both properties require booking well in advance for specific anniversary dates. Do not assume availability.
+For the largest selection, book 6+ months out.
 
 ### A Note on Sleeping Arrangements
 
