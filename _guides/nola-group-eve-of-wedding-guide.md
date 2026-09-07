@@ -4,12 +4,12 @@ description: "What the wedding party and close family actually do when the rehea
 category: "Weddings & Celebrations"
 card_title: "Eve of Wedding Guide"
 card_description: "What wedding parties and close family actually do when the rehearsal dinner ends. The night before is the most underplanned 18 hours of a New Orleans wedding weekend."
-date: 2026-06-21
+date: 2026-09-07
 ---
 
 Every NOLA wedding weekend has a problem nobody talks about enough: the rehearsal dinner ends, the toasts are done, and suddenly 40 people who've been together all day are standing in a parking lot or on a restaurant sidewalk deciding what to do next. It's 9:30pm. It's New Orleans. Nobody wants to go back to the hotel. Nobody has a plan.
 
-This guide is the plan.
+This guide is the plan. If you're still building the rest of the weekend around it, the [wedding weekend guide](/guides/wedding-weekend-guide/) sequences the whole thing and [plan a group trip](/guides/plan-a-group-trip/) covers the earlier decisions.
 
 The night before the wedding is the most underplanned 18 hours of a wedding weekend. It's also the 18 hours that most directly affects how the wedding day starts. Get it right and the morning of the wedding is calm and the couple arrives present. Get it wrong and you're texting someone's cousin at 11pm trying to find out where the groomsmen went.
 
@@ -35,7 +35,7 @@ The night before the wedding isn't one evening — it's usually two or three sim
 ### The Common Structure
 
 **Phase 1: Rehearsal Dinner (6–9pm)**
-Everyone together. Toasts. Food. The full party. This is structured time and usually runs itself.
+Everyone together. Toasts. Food. The full party. This is structured time and usually runs itself — see the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) and the [venue-specific rehearsal dinner guide](/guides/nola-group-wedding-rehearsal-dinner-venues/) if that part isn't locked yet.
 
 **Phase 2: The Immediate Post-Dinner Window (9–11pm)**
 This is the dangerous zone. People are energized, nobody wants the night to end, and New Orleans is right there. Without a plan, this window becomes a scattered mess of sub-groups going in different directions without anyone knowing where anyone else is.
@@ -97,11 +97,11 @@ This is the logistics problem that gets solved in advance or causes chaos.
 
 ### The Transportation Solutions
 
-**Pre-booked charter van:** The cleanest solution for moving the wedding party from rehearsal dinner to villa. One van, one driver, one trip, everyone together. Book this in advance — availability gets tight on weekends in New Orleans.
+**Pre-booked charter van:** The cleanest solution for moving the wedding party from rehearsal dinner to villa. One van, one driver, one trip, everyone together. Book this in advance — availability gets tight on weekends in New Orleans. The [charter bus guide](/guides/nola-group-charter-bus-guide/) and the broader [transportation guide](/guides/transportation-guide/) cover the booking logistics.
 
 **Two rideshares:** Split the party into two groups, call two rideshares simultaneously. Faster than waiting for one large vehicle, less expensive than a charter.
 
-**Walking:** If the rehearsal dinner venue and the villa or hotel are in the same neighborhood, walking in a group is often the most fun option. The Garden District, Lower Garden District, and French Quarter all have clusters of venues and accommodations within walking range of each other.
+**Walking:** If the rehearsal dinner venue and the villa or hotel are in the same neighborhood, walking in a group is often the most fun option. The [Garden District](/neighborhoods/garden-district/), [Lower Garden District](/neighborhoods/lower-garden-district/), and [French Quarter](/neighborhoods/french-quarter/) all have clusters of venues and accommodations within walking range of each other.
 
 **The rule:** Nobody should be figuring out transportation at 9:30pm after dinner. That decision gets made at 7pm when the rehearsal dinner starts or earlier.
 
@@ -109,7 +109,7 @@ This is the logistics problem that gets solved in advance or causes chaos.
 
 ## Separate Pre-Wedding Evenings
 
-Some wedding parties do separate pre-wedding evenings — the bridesmaids spend the night together at the villa and the groomsmen have their own last night out. This is increasingly common for NOLA weddings and, done well, it's excellent.
+Some wedding parties do separate pre-wedding evenings — the bridesmaids spend the night together at the villa and the groomsmen have their own last night out. This is increasingly common for NOLA weddings and, done well, it's excellent. If either side wants a fuller night rather than a low-key one, the [pre-wedding activities guide](/guides/pre-wedding-activities-guide/) has the bigger menu of options.
 
 ### The Bridesmaids' Evening
 
@@ -138,14 +138,14 @@ This one needs more structure than it typically gets. The best-case version: a g
 
 ## Setting Up the Wedding Morning
 
-The wedding day gets good or difficult in the first two hours, and those first two hours are largely determined by what happened the night before.
+The wedding day gets good or difficult in the first two hours, and those first two hours are largely determined by what happened the night before. The [wedding-day-of guide](/guides/nola-group-wedding-weekend-day-of-guide/) picks up from here in more depth if you want the full ceremony-day logistics.
 
 ### The Getting-Ready Space
 
 Whether the wedding party is getting ready at the villa, at the venue, or at a hotel suite — the space needs to be set up the night before.
 
 **What should be ready when the first person arrives:**
-- Coffee, and enough of it for everyone (the slow morning coffee guide applies here; 10 people getting ready need more than one drip machine)
+- Coffee, and enough of it for everyone (the [slow morning guide](/guides/nola-group-slow-morning-guide/) applies here; 10 people getting ready need more than one drip machine)
 - Food that doesn't require preparation — pastries, fruit, yogurt, light things that people can grab between hair and makeup appointments
 - Water, visible and accessible
 - Ibuprofen, in case
@@ -222,17 +222,10 @@ Designate someone's role as "room check" — they knock on doors or text people 
 
 ## Your Wedding Eve Villa
 
-The villa is the best wedding-eve accommodation model for a wedding party that needs to be in the same place in the morning. One address, one kitchen, one gathering space, and the getting-ready infrastructure that makes morning-of logistics manageable.
+The villa is the best wedding-eve accommodation model for a wedding party that needs to be in the same place in the morning: one address, one kitchen, one gathering space, and enough room for hair and makeup stations to spread out. The field spans single-villa options like The Mazant and The Lookout Inn, apartment-style operators like Heirloom and The Revelry, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for parties who'd rather each have their own key. Pick for the getting-ready space and the morning-of transportation math, not the biggest number on a listing.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. Full kitchens equipped for the getting-ready morning. Large common areas that work for hair and makeup stations. Private pools for the wedding eve wind-down that doesn't have to be a night out to be memorable. The Florentine is the most elegant of the three villas and is ADA accessible. All three have 4.98 average ratings across 99 reviews.
+For the largest selection, book 6+ months out.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. One block from the St. Charles Streetcar, within easy reach of many NOLA wedding venues. The shared heated pool, hot tub, and outdoor kitchen make the wedding eve gathering space something more than a hotel lobby. The Syd's central location makes the post-rehearsal-dinner return logistics straightforward from almost anywhere in the city.
-
----
-
-## Book Your Wedding Group Villa
-
-- Castleday Retreats — Bywater, 14-30 guests, private pool, full kitchen, getting-ready ready
-- The Syd — Lower Garden District, up to 22 guests, shared pool, central location
+[See where to stay for large groups →](/where-to-stay/)
 
 Plan the night before the way you planned the ceremony. The 18 hours before the wedding determine more than most couples expect.
