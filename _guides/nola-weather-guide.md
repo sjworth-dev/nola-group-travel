@@ -4,7 +4,7 @@ description: "Month-by-month weather reality for planning a large group trip to 
 category: "Planning & Logistics"
 card_title: "Weather Guide"
 card_description: "The honest month-by-month weather breakdown for NOLA group trips—heat, humidity, hurricanes, and what to actually expect."
-date: 2026-08-15
+date: 2026-09-07
 ---
 
 The travel websites will tell you New Orleans has a "subtropical climate" and call it a day. That's technically accurate and practically useless.
@@ -138,7 +138,7 @@ What does work in July:
 
 What doesn't work: extended outdoor itineraries, walking tours after 10 AM, any activity where you're moving outside for more than 20-30 minutes in the afternoon.
 
-**If you have to go in July:** Book a property with a private pool (Castleday's pool setup is particularly well-suited for this—shade, outdoor seating, cooling off on demand). Structure your day around pool time from 11 AM-7 PM and plan everything else around the edges.
+**If you have to go in July:** Book a property with a private pool — shade, outdoor seating, cooling off on demand, not a five-minute walk to a shared one. Structure your day around pool time from 11 AM-7 PM and plan everything else around the edges.
 
 ### August
 
@@ -200,7 +200,7 @@ A second line in 90°F heat is possible but not fun. If this is on your list, pl
 ### Pool Days
 
 **Best:** May-October (pool is warm, weather justifies it)  
-**Worth heating for:** March-April and November (Castleday's private pools are heated; The Syd has a heated shared pool)
+**Worth heating for:** March-April and November (check whether the pool is actually heated before you book — not every property's is)
 
 Pool time in New Orleans is excellent across a wide range because of the climate. Even in March, a heated pool on a 70°F afternoon is a great afternoon.
 
@@ -277,7 +277,7 @@ Having this conversation before you arrive—not the night a storm forms—saves
 
 2. **November is the value play, not October.** October carries spring-level demand and pricing; November settles down while the weather is nearly as good.
 
-3. **If you go in summer, build in pool time.** Properties with private pools (Castleday) or shared pool complexes (The Syd) become essential infrastructure in summer, not a luxury. The pool is where the trip happens from 11 AM-6 PM.
+3. **If you go in summer, build in pool time.** Properties with private pools or shared pool complexes become essential infrastructure in summer, not a luxury. The pool is where the trip happens from 11 AM-6 PM.
 
 4. **Check the festival calendar against weather.** Jazz Fest in late April-early May can have cold days (bring layers). Mardi Gras in early February can be 70°F or 45°F.
 
