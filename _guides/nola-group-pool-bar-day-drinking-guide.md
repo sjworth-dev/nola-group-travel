@@ -3,8 +3,8 @@ title: "Pool-to-Bar Day Drinking Guide for Groups in New Orleans"
 description: "The noon-to-midnight day drinking structure for large groups in New Orleans: pool start, afternoon bar sequence, and Frenchmen Street finish — without burning anyone out by 8pm."
 category: "Villa Life"
 card_title: "Pool-to-Bar Day Drinking"
-card_description: "Start at the pool. Transition to afternoon bars. End on Frenchmen Street. The full noon-to-midnight structure for groups of 15-30."
-date: 2026-06-19
+card_description: "Start at the pool. Transition to afternoon bars. End on Frenchmen Street. The full noon-to-midnight structure for the whole crew."
+date: 2026-09-07
 ---
 
 The mistake most groups make is treating day drinking like a sprint.
@@ -13,7 +13,7 @@ They start at noon with shots, hit three bars before 3pm, and have four members 
 
 The correct structure is a relay, not a sprint. You maintain a consistent pace across multiple phases, each one with a natural transition point, so the group that leaves the villa at noon is still intact and functional at midnight when the best music on Frenchmen Street is hitting its peak.
 
-This is that structure.
+This is that structure. If you're still sequencing the rest of the trip around it, [plan a group trip](/guides/plan-a-group-trip/) covers the earlier decisions.
 
 ---
 
@@ -23,7 +23,7 @@ This is that structure.
 - [ ] Designate the group's Transition Caller: one person who says "we're moving to bars in 30 minutes" when the pool phase needs to end
 - [ ] Stock the villa bar the night before: cold beer in the cooler, frozen daiquiri ingredients in the fridge, ice bought in advance
 - [ ] Choose your afternoon bar neighborhood before you leave the villa — decision fatigue mid-day is the enemy of good choices
-- [ ] Book dinner reservation before the trip, not the day of — groups of 15-30 need lead time
+- [ ] Book dinner reservation before the trip, not the day of — the whole crew needs lead time
 - [ ] Pre-select the Frenchmen Street strategy: pick one anchor bar and let sub-groups move from there
 - [ ] Every person eats something real before the pool phase begins — this is the most important rule of the whole day
 - [ ] Water protocol: one glass of water per person between every bar transition, non-negotiable for the group members who want to make it to midnight
@@ -78,8 +78,8 @@ The afternoon bar neighborhood shapes the next three hours. Choose one geographi
 | Bywater / Marigny | Bacchanal Wine garden, local bars, neighborhood feel | Groups staying in Bywater who want to explore the immediate neighborhood |
 | Magazine Street | Garden District bars, outdoor seating, upscale casual | Groups who want Magazine Street shopping mixed with drinking |
 | Frenchmen Street (early) | Live music starts mid-afternoon at some venues | Groups who want to start Frenchmen early and stay through the night |
-| French Quarter | Daiquiri shops, courtyard bars, tourist energy | Groups who want the iconic Quarter experience as a specific segment |
-| Lower Garden District | St. Charles bars, neighborhood spots | Groups staying near The Syd who want to explore the immediate area |
+| [French Quarter](/neighborhoods/french-quarter/) | Daiquiri shops, courtyard bars, tourist energy | Groups who want the iconic Quarter experience as a specific segment |
+| [Lower Garden District](/neighborhoods/lower-garden-district/) | St. Charles bars, neighborhood spots | Groups staying in the neighborhood who want to explore the immediate area |
 
 **The Afternoon Bar Formula**
 
@@ -101,7 +101,7 @@ One drink per stop. No shots. Full water glass before leaving each bar. This is 
 
 Dinner is the structural anchor of the whole day. It is not optional, and it is not something you figure out when you're already hungry.
 
-Book it before the trip. A group of 15-30 needs advance notice — at least a week for most places that can accommodate this size, longer for the places that require it.
+Book it before the trip. A big group needs advance notice — at least a week for most places that can accommodate this size, longer for the places that require it.
 
 **Why Dinner Matters at This Hour**
 
@@ -137,7 +137,7 @@ This is also the window for the group members who are flagging to make a decisio
 
 Frenchmen Street is three blocks of live music clubs in the Marigny, within walking distance of the Quarter and the Bywater. Most clubs have no cover or a small one. Multiple stages. Multiple genres. The music is live, local, and real.
 
-For a group of 15-30, Frenchmen Street is not best navigated as a unit.
+At full headcount, Frenchmen Street is not best navigated as a unit.
 
 **The Frenchmen Strategy**
 
@@ -197,7 +197,7 @@ Groups that maintain all three have members who can actually make midnight. Grou
 
 6. **Let people leave when they want to.** No guilt, no pressure, no group vote on whether it's "too early." People have different capacities. The group survives splitting up. It does not survive dragging everyone through a ten-hour day when some people wanted to stop six hours ago.
 
-7. **The walk-around cup is your friend.** New Orleans allows open containers on the street. The walk from bar to bar is part of the experience. A walk-around beer or a daiquiri to-go cup means the transition between venues feels like the party moved, not like it ended.
+7. **The walk-around cup is your friend.** New Orleans allows open containers on the street. The walk from bar to bar is part of the experience — the [umbrella drinks guide](/guides/nola-group-umbrella-drinks-guide/) covers what's actually worth ordering along the way. A walk-around beer or a daiquiri to-go cup means the transition between venues feels like the party moved, not like it ended.
 
 ---
 
@@ -205,13 +205,8 @@ Groups that maintain all three have members who can actually make midnight. Grou
 
 The pool-to-bar structure only functions if the home base is actually built for it. A hotel lobby does not have a pool deck with music and a cooler. A cramped Airbnb does not have a courtyard where 20 people can spread out for two hours before heading out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. The private pools at Castleday are the actual start of this structure — the Cocodrie in particular has an outdoor space designed for a group pool day. The Bywater location puts the group within walking distance of Frenchmen Street and the Marigny afternoon bar scene, so the entire noon-to-midnight arc can be executed with a short cab ride or walk for the farthest legs. 12 bedrooms, 17 real beds, 8 baths per villa — everyone gets a real bed to crash in when the evening ends. 4.98 average rating across 99 reviews.
+The field spans single-property villas like Castleday Retreats (private pool per villa) in [Bywater](/neighborhoods/bywater/) — walking distance from Frenchmen Street and the [Marigny](/neighborhoods/marigny/) afternoon bar scene — and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/), with a shared heated pool and hot tub one block from the St. Charles Streetcar for staging the afternoon bar phase. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks, round out the field for groups who'd rather have separate keys. Pick for the pool deck and the walking distance to the afternoon bar neighborhood, not the biggest number on a listing.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists. The Syd's shared heated pool, hot tub, sauna, and outdoor kitchen are built for the pool phase of this structure — the outdoor kitchen means the group can make the noon drinks without anyone having to be inside at the counter alone. One block from the St. Charles Streetcar makes the afternoon bar phase easy to stage without everyone piling into Ubers.
+For the largest selection, book 6+ months out.
 
----
-
-## Start the Day
-
-- Castleday Retreats — Bywater private villas, 14-30 guests, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared pool, outdoor kitchen, sauna
+[See where to stay for large groups →](/where-to-stay/)
