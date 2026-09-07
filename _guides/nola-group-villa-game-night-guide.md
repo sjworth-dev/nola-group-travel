@@ -1,15 +1,15 @@
 ---
-title: "Villa Game Night for Groups of 15-30"
+title: "Villa Game Night: The Large-Group Guide"
 description: "Full villa game night guide for large groups: which games work at scale, how to run a bracket tournament, what to serve, the two-hour game night structure, and how to transition from games to going out — or not going out."
 category: "Villa Life"
 card_title: "Villa Game Night"
-card_description: "Which games actually work at 15-30 people, how to run a tournament bracket, what to serve, and how to time the transition to going out."
-date: 2026-06-20
+card_description: "Which games actually work at full headcount, how to run a tournament bracket, what to serve, and how to time the transition to going out."
+date: 2026-09-07
 ---
 
 Most group game nights fall apart in the first 30 minutes because someone picked a game designed for 6 people and now 22 people are standing around watching 6 of them play.
 
-Game night for large groups requires different games, a different structure, and an honest acknowledgment that what works at 8 people does not work at 20. This guide covers what actually works at scale, how to run it, and how to make the transition from games to whatever comes next feel like the natural progression it should be rather than the negotiated compromise it usually becomes.
+Game night for large groups requires different games, a different structure, and an honest acknowledgment that what works at 8 people does not work at 20. This guide covers what actually works at scale, how to run it, and how to make the transition from games to whatever comes next feel like the natural progression it should be rather than the negotiated compromise it usually becomes. If game night is one of several villa nights you're planning, see the [villa dinner night guide](/guides/nola-group-villa-dinner-night-guide/) and the [po-boy smackdown guide](/guides/nola-group-po-boy-smackdown-guide/) for the other formats worth rotating in.
 
 ---
 
@@ -28,7 +28,7 @@ Game night for large groups requires different games, a different structure, and
 
 ## The Core Problem: Most Games Don't Scale
 
-This is the thing nobody talks about when planning group game nights: most board games and card games are designed for 4-8 players. At 15-30 people, those games either exclude most of the group or become so slow that people check out by round two.
+This is the thing nobody talks about when planning group game nights: most board games and card games are designed for 4-8 players. At full trip headcount, those games either exclude most of the group or become so slow that people check out by round two.
 
 The games that work at scale either:
 
@@ -40,7 +40,7 @@ The games that don't work at scale: Catan, Ticket to Ride, most Eurogames, poker
 
 ---
 
-## Game Formats That Work for 15-30 People
+## Game Formats That Work at Full Headcount
 
 ### Option 1: Team Trivia
 
@@ -68,7 +68,7 @@ Pick a game — spades, hearts, euchre, poker, cornhole, bocce — and run a sin
 - Round of 4 (semi-finals): 2 simultaneous matches
 - Final: 1 match, everyone watches
 
-At Castleday's outdoor spaces or The Syd's courtyard, running outdoor bracket games is a natural use of the space — cornhole brackets in the courtyard, bocce if there's grass, spades at tables on the pool deck.
+A villa's outdoor space — a courtyard or pool deck — is a natural home for bracket games: cornhole in the courtyard, bocce if there's grass, spades at tables poolside.
 
 **The tournament bracket format solves the "watching" problem.** Eliminated teams watch the next round, cheer for their favorites, and the spectator dimension keeps everyone engaged even when they're out.
 
@@ -112,7 +112,7 @@ The game space is ready before anyone arrives. Tables arranged, games out, drink
 
 The first 30 minutes are loose. People settle in, teams form or are assigned, the rules get explained. This is also when the food comes out — before people are hungry and distracted by it.
 
-**How to assign teams:** Don't let people pick. Random assignment makes better teams, creates unexpected alliances, and prevents the obvious sub-groups from forming. Put names in a hat, draw them, or use a random team generator. Groups that pick their own teams in large format games tend to entrench and the game becomes less fun.
+**How to assign teams:** Don't let people pick. Random assignment makes better teams, creates unexpected alliances, and prevents the obvious sub-groups from forming. Put names in a hat, draw them, or use a random team generator. Groups that pick their own teams in large format games tend to entrench and the game becomes less fun — the [group communication guide](/guides/group-communication-guide/) has more on managing sub-group dynamics over a full trip.
 
 ### 8:30-10:00pm — The Games
 
@@ -207,15 +207,10 @@ Make enough for the group plus 20%. You will always run low if you estimate exac
 
 ## Large Group Villas That Are Built for Game Night
 
-A game night for 20 people requires space: a table for teams, a TV or visible scoring surface, enough floor room for people not playing to stand or sit without being on top of the game. Most hotel rooms and short-term apartment rentals don't have this. Villa common areas do.
+A game night for the whole crew requires space: a table for teams, a TV or visible scoring surface, enough floor room for people not playing to stand or sit without being on top of the game. Most hotel rooms and short-term apartment rentals don't have this. Villa common areas do.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests, with large indoor common areas and private outdoor courtyard and pool spaces. The Herald is specifically noted for its expansive common areas — the right choice if game night is going to be a significant part of your trip. Full kitchens for the batch cocktail setup, private enough that the noise doesn't matter, and no checkout time pressure. The pool deck works for outdoor bracket games (cornhole, bocce) during the day and transforms into the post-game social space in the evening.
+The field spans single-property villas like Castleday Retreats (private pool per villa) in [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/), with a shared heated pool and hot tub one block from the St. Charles Streetcar. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks, round out the field for groups who'd rather have separate keys. Whatever you pick, check that the common area can actually fit the whole group at once before you commit — full kitchens for the batch cocktail setup and a courtyard or pool deck for the outdoor bracket games are the features that matter here, not the biggest number on a listing.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with rooms designed by local New Orleans artists and a shared outdoor courtyard with heated pool, hot tub, and outdoor kitchen. The courtyard setup at The Syd is especially good for bracket game formats — enough space for parallel activity, social seating at the edges, and the outdoor kitchen for the food spread. One block from the St. Charles Streetcar if the group decides to head out after games.
+For the largest selection, book 6+ months out.
 
----
-
-## Make It Happen
-
-- Castleday Retreats — Bywater, 14-30 guests, The Herald has the best common areas for large-group game nights
-- The Syd — Lower Garden District, up to 22 guests, shared courtyard perfect for outdoor bracket games
+[See where to stay for large groups →](/where-to-stay/)
