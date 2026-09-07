@@ -1,10 +1,10 @@
 ---
 title: "Villa Sunset Cocktail Hour Guide for Large Groups in New Orleans"
-description: "The villa golden hour: setting up a proper sunset cocktail hour at the villa for 15-30 people before going out, what to serve, pool vs. rooftop deck vs. courtyard setup, how long to hold it, and why this is the highest-ROI group activity of the trip."
+description: "The villa golden hour: setting up a proper sunset cocktail hour at the villa before going out, what to serve, pool vs. rooftop deck vs. courtyard setup, how long to hold it, and why this is the highest-ROI group activity of the trip."
 category: "Villa Life"
 card_title: "Villa Sunset Cocktail Hour"
 card_description: "The highest-ROI group activity of any NOLA trip: a proper sunset cocktail hour at the villa before going out. What to serve, how to set it up, how long to hold it, and why it beats every pre-party option."
-date: 2026-06-17
+date: 2026-09-07
 ---
 
 There is a moment on every large group trip where the day's activities are done, people have showered and changed, and the evening hasn't started yet. For most groups in a hotel, this moment is spent scattered — some people in their rooms getting ready, some at the hotel bar, some wandering the neighborhood trying to find each other. The pre-evening dispersal kills momentum and takes 45 minutes to reassemble.
@@ -12,6 +12,8 @@ There is a moment on every large group trip where the day's activities are done,
 In a private villa, you can do this differently. You have the whole group in one space, a sunset-facing outdoor area, and two hours before you need to be anywhere. This is the golden hour. Use it deliberately.
 
 The villa sunset cocktail hour — properly set up, properly stocked, held to the right length — is the highest-ROI activity of the trip. It costs relatively little, requires minimal planning, and produces the kind of sustained group conversation that doesn't happen at a loud bar or a busy restaurant. It is also, in New Orleans, an act of appropriate living: the city's culture of conviviality and the evening ritual of coming together before going out is as specific to NOLA as the cocktails themselves.
+
+If you're setting up the villa bar itself for the first time, the [villa bar setup guide](/guides/nola-group-villa-bar-setup-guide/) covers stocking it properly; this guide is about running the hour that happens around it.
 
 Here's how to do it right.
 
@@ -42,7 +44,7 @@ The cocktail hour serves a specific function: it transitions the group from the 
 
 ### The Connection Function
 
-In a group of 20-30, the pre-evening cocktail hour is often the time when people have actual conversations they don't have during scheduled activities. Activities have structure; the cocktail hour is unstructured time in close proximity. This is when connections happen, when inside jokes start, when the trip starts to feel like more than a schedule.
+When the trip goes double-digit, the pre-evening cocktail hour is often the time when people have actual conversations they don't have during scheduled activities. Activities have structure; the cocktail hour is unstructured time in close proximity. This is when connections happen, when inside jokes start, when the trip starts to feel like more than a schedule.
 
 ### The Economic Argument
 
@@ -230,19 +232,14 @@ The cocktail hour music should be present but not dominant. The goal is ambient 
 
 6. **The cocktail hour is the best time to give a welcome toast.** If your group has a reason to be together — a bachelorette trip, a birthday trip, a milestone celebration — the cocktail hour is when the toast happens. Not at a restaurant where half the group is looking at menus. At the villa, with everyone present, golden light, drinks in hand.
 
-7. **Don't try to hold the cocktail hour and still make an 8pm reservation.** Either start the cocktail hour at 5:30pm and be done by 7pm with time to walk to dinner, or push the reservation to 9pm. An 8pm reservation after a 7pm cocktail hour is always rushed.
+7. **Don't try to hold the cocktail hour and still make an 8pm reservation.** Either start the cocktail hour at 5:30pm and be done by 7pm with time to walk to dinner, or push the reservation to 9pm. An 8pm reservation after a 7pm cocktail hour is always rushed. On nights when you'd rather skip the restaurant entirely, the cocktail hour flows straight into a [villa dinner night](/guides/nola-group-villa-dinner-night-guide/) or a [po-boy smackdown](/guides/nola-group-po-boy-smackdown-guide/) without anyone having to go anywhere.
 
 ---
 
-## The Villa That Makes This Possible
+## The Space That Makes This Possible
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's private outdoor spaces — pool deck and courtyard at each villa — are designed for exactly this kind of gathering. The outdoor setting, the private pool, the Bywater sky going gold before the evening begins: this is the environment a sunset cocktail hour needs. The fact that it's completely private — no other guests, no shared spaces — means the golden hour belongs entirely to your group. Castleday holds a 4.98 average across 99 reviews.
+The cocktail hour needs private outdoor space the group doesn't have to share with strangers — a pool deck, a courtyard, a rooftop. That's the case for a villa over a hotel room, and it's worth settling early: see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) if you haven't yet. The field spans single-villa operators like The Mazant and The Lookout Inn, apartment-style options like Heirloom and The Revelry with their own pool decks, and The Natchez Vacation Rentals' shared pool-and-hot-tub scene if the group wants that built in. Whichever you pick, confirm the outdoor space can actually hold the whole group at once — a cocktail hour split across two small balconies isn't the same event.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, outdoor kitchen, and one block from the St. Charles Streetcar. The Syd's shared outdoor space — the heated pool, the hot tub, the courtyard, the outdoor kitchen — is purpose-built for the kind of evening gathering a cocktail hour produces. Setting up a batch cocktail on the outdoor kitchen counter, having the pool lit and the hot tub running, watching the sky change over the Lower Garden District: this is the move.
+For the largest selection, book 6+ months out.
 
----
-
-## Make This Happen
-
-- Castleday Retreats — Bywater villas, up to 30 guests, private pools and courtyards, 12 bedrooms, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared heated pool, hot tub, sauna
+[See where to stay for large groups →](/where-to-stay/)
