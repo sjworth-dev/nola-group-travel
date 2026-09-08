@@ -4,14 +4,14 @@ description: "Blues and barbecue vs brass and Creole. Both are music cities you 
 category: "Planning & Logistics"
 card_title: "New Orleans vs. Memphis"
 card_description: "Beale Street or Frenchmen Street? The honest comparison for a music-first group — heritage, BBQ vs. Creole, nightlife hours, and where the whole crew actually sleeps."
-date: 2026-07-23
+date: 2026-09-08
 ---
 
 New Orleans and Memphis end up on the same shortlist for one reason: both are Deep South music cities with a walkable entertainment strip where you can carry a drink down the street. For a music-first bachelorette, a milestone birthday, or a guys' weekend built around blues and BBQ, that combination narrows the field to these two fast.
 
 But they are not the same trip. Memphis is the birthplace of a specific, world-changing run of American music — blues, soul, and rock 'n' roll pouring out of a few square miles. New Orleans invented several genres before that and never stopped playing them, live, most nights, with no closing time. Both are legitimate answers. They suit different crews.
 
-Here's the version without the tourism-board gloss.
+Here's the version without the tourism-board gloss. Once you've settled on a city, the [how-to-plan-a-group-trip guide](/guides/plan-a-group-trip/) sequences everything that comes next — dates, accommodation, budget — in order.
 
 ---
 
@@ -44,7 +44,7 @@ This is the comparison that actually matters, and it's closer than the food one 
 
 Memphis is a heritage powerhouse. The blues came up Highway 61 into Beale Street; Sun Studio cut the records that launched rock 'n' roll; Stax built a soul catalog that shaped the sound of a generation; Graceland pulls Elvis pilgrims from around the world. A Memphis music trip is, in large part, a trip *about* music history — studios, museums, and the physical places where it happened — with Beale Street's live bar-band circuit on top.
 
-New Orleans didn't just host music history — it produced it and never filed it away. Jazz, brass band, R&B, funk, and second-line music aren't a nostalgia act here; they're what's playing live, most nights, in rooms that have been doing it for generations. Frenchmen Street runs more original live music on a Tuesday than most cities manage on a weekend. See the [live music guide](/guides/live-music-guide/) and the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) for what a NOLA music night actually looks like.
+New Orleans didn't just host music history — it produced it and never filed it away. Jazz, brass band, R&B, funk, and second-line music aren't a nostalgia act here; they're what's playing live, most nights, in rooms that have been doing it for generations. Frenchmen Street runs more original live music on a Tuesday than most cities manage on a weekend. See the [live music guide](/guides/live-music-guide/) and the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) for what a NOLA music night actually looks like, and the [second line guide](/guides/second-line-guide/) if the group wants to catch the real thing rather than a tourist version of it.
 
 **The distinction:** Memphis is where you go to stand where the music was made. New Orleans is where you go to hear music being made tonight. A group that loves the *story* of American music will be thrilled in Memphis. A group that wants live, original music as the backbone of every night out leans New Orleans.
 
@@ -78,7 +78,7 @@ Memphis's large-group short-term rental scene leans toward big houses spread acr
 
 New Orleans has a more developed purpose-built large-group market, concentrated in the Bywater and the Lower Garden District. These are properties designed for a big crew — private or shared pools, full kitchens, a real home base. The [Bywater vs. LGD comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down how those two neighborhoods differ for a group choosing between them.
 
-**What that inventory actually looks like** (plain examples, not recommendations): purpose-built villas like Castleday Retreats in the Bywater or The Syd in the Lower Garden District house a whole crew under one roof with a pool. Deep-inventory operators like Heirloom carry dozens of large-format homes for short-notice choice. Hotel Perle or The Revelry offer group-suite and apartment-floor setups when separate bills matter. And the classic hotels — The Roosevelt, Hotel Peter & Paul, The Pontchartrain — run room blocks for mixed-budget crews. Memphis doesn't have an equivalent depth of purpose-built, walkable, whole-crew inventory. The full breakdown lives on the [where to stay page](/where-to-stay/).
+**What that inventory actually looks like** (plain examples, not recommendations): purpose-built villas like Castleday Retreats in the Bywater or The Syd in the Lower Garden District house a whole crew under one roof with a pool. Deep-inventory operators like Heirloom carry dozens of large-format homes for short-notice choice. Hotel Perle or The Revelry offer group-suite and apartment-floor setups when separate bills matter. And the classic hotels — The Roosevelt, Hotel Peter & Paul, The Pontchartrain — run room blocks for mixed-budget crews. Memphis doesn't have an equivalent depth of purpose-built, walkable, whole-crew inventory. The full breakdown lives on the [where to stay page](/where-to-stay/) — and once you've got a kitchen, a [villa dinner night](/guides/nola-group-villa-dinner-night-guide/) is worth building into the itinerary.
 
 ---
 
