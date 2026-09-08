@@ -1,10 +1,10 @@
 ---
-title: "The Oldest Bars in New Orleans: A Group Evening Through NOLA's Most Storied Watering Holes"
-description: "The bars with actual history behind them — Lafitte's Blacksmith Shop, Old Absinthe House, Napoleon House, the Carousel Bar, and Tujague's — what makes each one genuinely worth visiting, how to manage a group of 15-25 in these spaces, and the one-bar-per-neighborhood approach to a bar history evening."
+title: "New Orleans's Oldest Bars: A Group History Bar Crawl"
+description: "Lafitte's Blacksmith Shop, the Old Absinthe House, Napoleon House, the Carousel Bar, and Tujague's — what makes each genuinely worth it, and how to move a big crew through them without rushing."
 category: "Nightlife & Music"
 card_title: "Historic Bar Tour"
 card_description: "The oldest and most storied bars in New Orleans: what makes them worth visiting, how to move a group through them, and the route structure for a proper bar history evening."
-date: 2026-06-18
+date: 2026-09-08
 ---
 
 New Orleans has more historically significant bars than any other American city. This is not opinion — it's the result of a culture that has been drinking communally in the same buildings for 200 years, a French and Spanish colonial history that brought drinking culture to the continent before the United States existed, and the fact that New Orleans managed to survive Prohibition with a wink rather than an actual compliance effort.
@@ -13,7 +13,7 @@ The bars on this list are not bars that happen to be old. They are places with d
 
 A group tour of these bars — one or two per evening, moving slowly through the French Quarter — is one of the best evenings available in New Orleans for people who care about place and history. It's also just a good bar evening that happens to have excellent backstory.
 
-Here's what to know about each one, and how to move a group of 15-25 through them.
+Here's what to know about each one, and how to move the whole crew through them. Once you've got a route down, the [Bourbon Street guide](/guides/nola-bourbon-street-guide/) and the [French Quarter at night guide](/guides/nola-group-french-quarter-at-night-guide/) fill in the rest of the neighborhood around it.
 
 ---
 
@@ -23,6 +23,7 @@ Here's what to know about each one, and how to move a group of 15-25 through the
 - [ ] Brief the group before leaving the villa: what each bar is, why it matters, what to order, what to look at
 - [ ] Establish the route order before leaving — moving between these bars without a plan produces wasted walking and decision fatigue
 - [ ] Check whether any bar on your list requires cash only (Lafitte's Blacksmith Shop famously does not have electronic cash registers; bring cash)
+- [ ] Know the go-cup rules before you leave any of these bars with a drink in hand — the [open container law guide](/guides/nola-group-open-container-law-guide/) covers exactly where that's fine and where it isn't
 - [ ] Pick an early-ish dinner time so the bar evening can start by 9pm — these historic bars are best experienced with a sober enough group to actually absorb the history
 - [ ] Have a split-and-reconvene system for the smaller venues — the Carousel Bar has 25 seats at the bar; your group of 20 will not all sit at the bar simultaneously
 
@@ -115,7 +116,7 @@ The most logical route for a historic bar evening combines walking distance, nei
 | 3 | 10:00pm | Carousel Bar (Royal St) | Vieux Carré |
 | After | 11pm | Frenchmen Street | Your call |
 
-This route moves roughly from the river inward, covers three distinct atmospheres (historic workers bar → aristocratic ruin → literary hotel bar), and ends at Frenchmen Street for the live music portion of the night.
+This route moves roughly from the river inward, covers three distinct atmospheres (historic workers bar → aristocratic ruin → literary hotel bar), and ends at Frenchmen Street for the live music portion of the night — see the [live music guide](/guides/live-music-guide/) for what's worth catching once you get there.
 
 ### Route: Bourbon Street History Walk (3 stops, ~3 hours)
 
@@ -134,7 +135,7 @@ This is the Bourbon Street approach for groups that want to stay roughly in one 
 
 The alternative structure to a bar crawl is: one night, one bar, chosen because it's exactly the right bar for where you're staying and what the evening calls for.
 
-- Staying in the Bywater? Spend an evening at a Marigny bar with history rather than doing a crawl through the Quarter.
+- Staying in the [Bywater](/neighborhoods/bywater/)? Spend an evening at a [Marigny](/neighborhoods/marigny/) bar with history rather than doing a crawl through the Quarter.
 - Staying in the Lower Garden District? Napoleon House deserves its own evening as a destination, not a stop.
 - Want to do the Carousel Bar properly? Go for a pre-dinner cocktail when it's less crowded, sit at the bar, and let it rotate.
 
@@ -162,15 +163,6 @@ The groups that try to hit all five historic bars in one evening typically do no
 
 ## Large Group Accommodation for a History Evening
 
-The French Quarter bar history walk is easiest from a base in or near the French Quarter. Both properties below put you in the right position for an evening that doesn't require significant transport.
+The French Quarter bar history walk is easiest from a base in or near the Quarter. The field spans Bywater villa operators like Castleday Retreats, Lower Garden District options like The Syd with a shared heated pool and hot tub, deep-inventory operators like Heirloom for short-notice choice, and hotel room blocks — The Roosevelt, Hotel Peter & Paul, Hotel Saint Vincent — for groups who'd rather walk out the front door of a French Quarter-adjacent hotel. Bywater puts you a 15-minute walk or short rideshare from Bourbon and Royal; a Lower Garden District base means a St. Charles streetcar ride in, with the streetcar back at night a good way to close out a history-focused evening. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. The Bywater is a 15-minute walk or short rideshare from the French Quarter, putting all five historic bars within easy reach. After a historic bar evening, the route home goes through or near Frenchmen Street — a natural add-on before the group calls it a night. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors, shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a St. Charles Streetcar ride from Canal Street — 20 minutes to the edge of the French Quarter, putting the historic bars 5-15 minutes' walk from the Canal Street stop. The streetcar back at night is the right way to end a history-focused evening.
-
----
-
-## Plan Your Historic Bar Evening
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, heated pool, outdoor kitchen, streetcar access
+[See where to stay for large groups →](/where-to-stay/)
