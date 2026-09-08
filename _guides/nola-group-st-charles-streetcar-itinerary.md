@@ -1,10 +1,10 @@
 ---
 title: "St. Charles Streetcar Itinerary for Large Groups in New Orleans"
-description: "The St. Charles Streetcar as the spine of a full Uptown day for groups of 15-30: boarding strategy for 20 people, the Garden District window view, Audubon Park, the Uptown restaurant stretch, and the round-trip structure."
+description: "The St. Charles Streetcar as the spine of a full Uptown day: boarding strategy for the whole crew, the Garden District window view, Audubon Park, the Uptown restaurant stretch, and the round-trip structure."
 category: "Planning & Logistics"
 card_title: "St. Charles Streetcar Day"
 card_description: "The best free (almost) day in NOLA: ride the historic streetcar through the Garden District and Uptown, stop at Audubon Park, eat well, and ride back. The full group itinerary."
-date: 2026-06-18
+date: 2026-09-08
 ---
 
 The St. Charles Streetcar is the oldest continuously operating streetcar line in the world. It is also one of the most beautiful 13-mile rides in any American city, runs every 10-20 minutes, costs $1.25 per ride, and is almost never on any group's pre-trip itinerary.
@@ -13,7 +13,7 @@ This is a mistake.
 
 The streetcar gives a large group something that no tour bus, no rideshare convoy, and no walking tour can provide: a moving window seat through the Garden District mansions, the oak canopy of St. Charles Avenue, and the Uptown neighborhood as the locals live in it. You board anywhere along the route, you ride as far as you want, you get off, you do something, you get back on.
 
-For a group of 15-30, the St. Charles Streetcar itinerary is the best low-logistics day of the trip.
+For the whole crew, the St. Charles Streetcar itinerary is the best low-logistics day of the trip — and one that costs almost nothing next to a [charter bus](/guides/nola-group-charter-bus-guide/) or a fleet of rideshares.
 
 ---
 
@@ -105,7 +105,7 @@ The levee at the end of Walnut Street puts you on the grassy embankment overlook
 
 ### 12:30pm — Uptown Lunch
 
-The Magazine Street restaurant strip runs parallel to St. Charles for most of the Uptown length. Get back on the streetcar (or walk two blocks over to Magazine) for lunch.
+The Magazine Street restaurant strip runs parallel to St. Charles for most of the Uptown length. Get back on the streetcar (or walk two blocks over to Magazine) for lunch — the [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/) covers the strip in more depth if the group wants to spend the whole afternoon there instead of riding on.
 
 **The group lunch options on this stretch:**
 
@@ -142,9 +142,9 @@ The day ends at the villa or at a dinner reservation. Groups that want to extend
 | Neighborhood | Character | Best stop |
 |-------------|-----------|-----------|
 | CBD/Central Business District | Downtown, hotels, office | Board here |
-| Garden District | 19th-century mansions, the money | Jackson Ave stop + Lafayette Cemetery |
-| Uptown | Universities, Magazine Street restaurants | Napoleon Ave to Audubon |
-| Riverbend/Carrollton | Residential, neighborhood bars | Carrollton terminus |
+| [Garden District](/neighborhoods/garden-district/) | 19th-century mansions, the money | Jackson Ave stop + Lafayette Cemetery |
+| [Uptown](/neighborhoods/uptown/) | Universities, Magazine Street restaurants | Napoleon Ave to Audubon |
+| [Riverbend/Carrollton](/neighborhoods/riverbend-carrollton/) | Residential, neighborhood bars | Carrollton terminus |
 
 ---
 
@@ -204,13 +204,6 @@ The streetcar runs in most weather. New Orleans thunderstorms pass quickly. If i
 
 ## Where to Stay for Easy Streetcar Access
 
-**The Syd** — Located in the Lower Garden District, The Syd is one block from the St. Charles Streetcar line. For a group basing themselves there, this itinerary starts with a two-minute walk to the stop. Multiple villas sleeping up to 22 guests each, every room designed by local New Orleans artists, shared heated pool, hot tub, sauna, and outdoor kitchen. You can walk out the door, be on the streetcar in five minutes, and spend the full day Uptown.
+A base near the line changes this day from an outing into a two-minute walk to the stop. Lower Garden District options like The Syd sit a block or two off St. Charles; the field also runs to deep-inventory operators like Heirloom (LGD/Central City), Bywater villa operators like Castleday Retreats (a rideshare or bike ride to the Canal Street terminus instead), and hotel room blocks for groups who'd rather book by the room. If you're still weighing a rental against a hotel, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the actual tradeoffs. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms and 17 real beds. Bywater is east of the Quarter — a rideshare or bike ride to the Canal Street terminus is the move, and then the full streetcar day unfolds. Private pools, art-filled interiors, complete privacy. 4.98 stars across 99 reviews.
-
----
-
-## Take the Ride
-
-- The Syd — One block from the St. Charles Streetcar, Lower Garden District, up to 22 guests per villa
-- Castleday Retreats — Bywater, up to 30 guests per villa, private pools, 4.98 stars
+[See where to stay for large groups →](/where-to-stay/)
