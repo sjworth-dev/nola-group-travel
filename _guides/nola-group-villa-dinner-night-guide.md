@@ -4,7 +4,7 @@ description: "The full villa dinner night for groups of 15-30: when to cook vs. 
 category: "Villa Life"
 card_title: "Villa Dinner Night"
 card_description: "Cook, order, or hire a chef — the full villa dinner night guide for groups of 15-30: NOLA menus, table setup, timing, and why this becomes the best night of the trip."
-date: 2026-06-17
+date: 2026-09-08
 ---
 
 Every large group trip to New Orleans has a restaurant night on every night of the itinerary, and then one night it doesn't. That's the villa dinner night.
@@ -32,7 +32,7 @@ Here's how to make it work for 15-30 people.
 
 ## The Core Decision: Cook, Hire a Chef, or Order
 
-This is the first question to answer.
+This is the first question to answer. The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) walks through the full cost comparison if you're still deciding; the short version is below.
 
 ### Option 1: Group Cooking
 
@@ -44,7 +44,7 @@ The group cooks together. Two or three people take the lead on the main dishes. 
 
 **The risk:** A kitchen for 20 people is a logistics problem. Too many cooks, too small a stove, poor task coordination. Manage this by having a clear lead cook who makes decisions and keeps the kitchen from becoming a committee.
 
-**Time requirement:** 2-3 hours from grocery run or setup to eating. Plan accordingly.
+**Time requirement:** 2-3 hours from grocery run or setup to eating. Plan accordingly. The [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers where to shop for a crowd this size and how to keep a villa kitchen from turning into a bottleneck.
 
 ### Option 2: Private Chef
 
@@ -54,7 +54,7 @@ A professional chef comes to the villa, brings the food, cooks in the villa kitc
 
 **Cost range:** Private chef dinners for groups typically run higher per person than group cooking — the experience comes at a service premium. The villa is often equipped for private chef events, and booking through a reputable service rather than an individual found online is worth the extra cost for a group of 20+.
 
-**Lead time:** 2-3 weeks minimum for a quality booking. For popular dates or specific cuisine requirements, 4-6 weeks. See the private chef guide for the full booking process.
+**Lead time:** 2-3 weeks minimum for a quality booking. For popular dates or specific cuisine requirements, 4-6 weeks. See the [private chef guide](/guides/private-chef-guide/) for the full booking process, from vetting a chef to what a contract should cover.
 
 **The advantage:** Professional execution, no cleanup, and often a better meal than the group would produce on its own.
 
@@ -192,15 +192,12 @@ The dinner music should support conversation, not compete with it.
 
 ---
 
-## The Villas That Make This Work
+## The Large Group Accommodation Challenge
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Castleday's full villa kitchens are stocked with the equipment a serious group dinner requires: multiple burners, large-format cookware, and the countertop space to stage a real mise en place. With complete privacy — no other guests, no shared spaces — the entire property is yours for the evening. 4.98 average across 99 reviews.
+A villa dinner for 20 lives or dies on the kitchen and the table, and not every large-group rental has both. Before you commit to a menu, confirm the property actually has a kitchen built for it — burner count, counter space, and whether the dining setup can seat (or nearly seat) the whole group at once.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with every room designed by local New Orleans artists, plus a shared outdoor kitchen that is purpose-built for exactly this kind of communal group dinner. The Syd's outdoor kitchen setup — with cooking equipment, prep space, and the courtyard as the dining space — produces a different kind of villa dinner: the one where you cook outside, eat under the open sky, and the outdoor kitchen becomes the gathering point for the whole evening. Shared heated pool, hot tub, and sauna round out the villa.
+The field spans private-villa operators like Heirloom (large-format homes across the LGD and Central City, the deepest inventory for short-notice booking) and apartment-style options like The Revelry (a floor per crew, separate billing) and The Natchez Vacation Rentals, alongside hotel room blocks for groups who'd rather order in than cook. If you're still deciding between a hotel and a rental altogether, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) lays out the tradeoff — a villa kitchen is the whole reason this night is possible.
 
----
+Whatever you book, ask specifically about the kitchen and the table before you sign — capacities and amenities vary property to property, and it's a five-minute question that saves the night.
 
-## Host the Villa Dinner
-
-- Castleday Retreats — Bywater villas, up to 30 guests, full villa kitchens, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared pool, artist-designed interiors
+[See where to stay for large groups →](/where-to-stay/)
