@@ -1,10 +1,10 @@
 ---
 title: "The Bywater Bar Crawl for Large Groups in New Orleans"
-description: "The definitive Bywater bar crawl for groups of 15-30: which bars absorb a large group, how to move from Bacchanal through St. Claude Avenue to the Marigny border, and the crawl structure that works for both early arrivals and night owls."
+description: "The definitive Bywater bar crawl for the whole crew: which bars absorb a large group, how to move from Bacchanal through St. Claude Avenue to the Marigny border, and the crawl structure that works for both early arrivals and night owls."
 category: "Nightlife & Music"
 card_title: "Bywater Bar Crawl Guide"
-card_description: "From Bacchanal to the Marigny border: the complete Bywater bar crawl for groups of 15-30, with outdoor space intel, movement strategy, and both early-arrival and night-owl structures."
-date: 2026-06-19
+card_description: "From Bacchanal to the Marigny border: the complete Bywater bar crawl for a big group, with outdoor space intel, movement strategy, and both early-arrival and night-owl structures."
+date: 2026-09-08
 ---
 
 The Bywater is the most group-friendly bar crawl in New Orleans that most groups never attempt.
@@ -13,7 +13,7 @@ Everyone goes to Bourbon Street. The smart groups go to Frenchmen Street. The gr
 
 The challenge with the Bywater crawl at group scale is logistics. The neighborhood is more spread out than Frenchmen Street. Some bars have the outdoor space to absorb 20 people without incident; others are intimate rooms that will feel overwhelmed by a party of eight. The route from Bacchanal Wine on the river end to the Marigny border on St. Claude Avenue is about a mile, with several natural stops along the way.
 
-This guide tells you exactly where to go, in what order, and how to move 20 people through it without losing anyone at the Napoleon House of the Bywater.
+This guide tells you exactly where to go, in what order, and how to move 20 people through it without losing anyone at the Napoleon House of the Bywater. If you haven't settled on a base yet, the [Bywater neighborhood guide](/neighborhoods/bywater/) covers what living there for a few days is actually like.
 
 ---
 
@@ -228,13 +228,7 @@ Formally acknowledge that sub-groups of 4-6 can move at their own pace between s
 
 The Bywater bar crawl is one of the great advantages of staying in the Bywater neighborhood — you can walk out the front door and into the crawl route. The crawl's start (Bacchanal) is within reasonable walking distance of Bywater-area accommodation. No Ubers, no staging logistics. The villa is the home base.
 
-For groups of 15-30 looking for that kind of integration between home base and nightlife, two properties make the Bywater work at group scale.
-
-**Castleday Retreats** is the Bywater group villa property. Three private villas — The Herald, The Cocodrie, and The Florentine — each sleeping 14-30 guests with 12 bedrooms, 17 real beds, and 8 baths per villa. Private pool at each villa. Art-filled interiors built around local artists and makers. The Cocodrie has the best outdoor pool and courtyard space for a group who wants to do a pool morning before the bar crawl. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
-
-The pitch for the Bywater crawl: you walk out of Castleday, you walk to Bacchanal, you do the crawl, you walk home. No logistics. No Uber wait at 1am. The crawl ends where you started — which is a private pool, a full kitchen, and a courtyard where the group can debrief the evening.
-
-For groups that want a more central location with easy access to multiple neighborhoods, **The Syd** in the Lower Garden District sleeps up to 22 guests per villa, with artist-designed interiors, a shared heated pool, hot tub, sauna, and outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, the Bywater crawl is an Uber or a streetcar ride — still very doable as a dedicated evening.
+When the whole crew wants that kind of integration between home base and nightlife, the field spans private-villa operators like Castleday Retreats (Bywater, private pool per villa — walk out the door and you're at Bacchanal) and, for a more central base with easy reach to multiple neighborhoods, The Syd in the Lower Garden District (shared pool and hot tub, one block from the St. Charles streetcar — the Bywater crawl is an Uber or streetcar ride away). Heirloom's larger inventory of large-format homes across the LGD and Central City is worth checking for short-notice availability, and hotel room blocks work for groups who'd rather have their own key. Pick for the walk-home distance your crawl actually needs, not the biggest number on a listing.
 
 ---
 
@@ -242,9 +236,8 @@ For groups that want a more central location with easy access to multiple neighb
 
 The Bywater bar crawl is not where everyone goes. That's the point.
 
-Bourbon Street handles its own logistics. Frenchmen Street handles its own logistics. The Bywater is the evening you planned rather than the one that happened to you — a sequence of outdoor spaces, live music, neighborhood bars, and a long walk through one of New Orleans' best blocks, ending however you want it to end.
+Bourbon Street handles its own logistics. Frenchmen Street handles its own logistics. The Bywater is the evening you planned rather than the one that happened to you — a sequence of outdoor spaces, live music, neighborhood bars, and a long walk through one of New Orleans' best blocks, ending however you want it to end. Comparing it against the other nightlife strips first? The [nightlife guide](/guides/nightlife-guide/) and the [craft cocktail bar strategy guide](/guides/nola-group-craft-cocktail-bar-strategy-guide/) cover how the Bywater stacks up against the Quarter and Frenchmen.
 
-For groups who want to do it from the best possible home base:
+For the largest selection of Bywater-area accommodation, book 6+ months out.
 
-- Castleday Retreats — Bywater private villas, 14-30 guests, 12BR/17 real beds per villa, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, artist-designed interiors, shared heated pool, hot tub, sauna, one block from streetcar
+[See where to stay for large groups →](/where-to-stay/)

@@ -4,7 +4,7 @@ description: "The Bywater neighborhood is one of the best places in the country 
 category: "Activities & Day Trips"
 card_title: "Bywater Group Portrait Session"
 card_description: "When to shoot, what to wear, and how to hire the right photographer for a group portrait session in the Bywater."
-date: 2026-06-23
+date: 2026-09-08
 ---
 
 The Bywater is not a backdrop. It's a neighborhood where people live, and the walls and houses have been painted by those people over decades. That distinction matters: the color and texture you see on Dauphine and Bartholomew and the cross streets running toward the river is not manufactured for tourists. It just happens to photograph extraordinarily well.
@@ -309,27 +309,11 @@ Group chats are useful for day-of logistics but bad for detailed briefings. Send
 
 ## Large Group Accommodation and the Bywater Connection
 
-This guide exists in part because of a specific logistical fact: the best accommodation for large groups in the Bywater puts you within walking distance of every location in this guide.
+This guide exists in part because of a specific logistical fact: staying in or near the Bywater puts you within walking distance of every location in this guide, which eliminates the coordination overhead of getting a group of 20 into vehicles on time.
 
-### Castleday Retreats
+For a group getting ready for a portrait session — coordinating outfits, doing hair, getting everyone out the door together — the property matters as much as the locations. Castleday Retreats operates private villas in the Bywater itself, so a location pre-walk and last-minute wardrobe fixes cost minutes, not a rideshare. Groups based instead in the Lower Garden District (a short ride away, near operators like The Syd) trade that walkability for their own portrait backdrop — the Garden District, the streetcar line, Magazine Street — though the Bywater's density of murals and painted shotgun blocks is harder to replicate elsewhere in the city. Heirloom's inventory of large-format homes and apartment-style options like The Revelry span both neighborhoods and are worth a look if the villa operators are booked.
 
-Castleday Retreats operates three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine. Each property accommodates 14-30 guests across 12 bedrooms, 17 real beds, and 8 bathrooms. These are not hotel blocks or short-term rental aggregators. They are complete private properties that your group occupies exclusively.
-
-The numbers on beds and bathrooms matter: 17 real beds means you are not doubling up on pull-out sofas to make the math work. 8 bathrooms means 20 people are not sharing one and a half. For a group getting ready for a portrait session — coordinating outfits, doing hair, getting everyone out the door on time — the logistics of a properly configured private property matter enormously.
-
-The Florentine is fully ADA-accessible. If your group includes any members with mobility considerations, this is the property to request.
-
-The proximity is the other point. Walking to your portrait session locations from a Bywater villa eliminates the coordination overhead of getting 20 people into vehicles and to a location on time. You can do a location pre-walk yourself the afternoon before. If something runs long or someone forgets something, the villa is minutes away.
-
-Across 99 reviews, Castleday Retreats holds a 4.98 average rating. For properties hosting groups of this size, that number is genuinely unusual and worth noting.
-
-### The Syd
-
-For groups whose travel plans center on the Lower Garden District rather than the Bywater, The Syd offers a different configuration. Located one block from the St. Charles Streetcar, The Syd is a collection of artist-designed villa rooms arranged around shared amenities: a heated pool, hot tub, sauna, and outdoor kitchen. The property accommodates up to 22 guests per villa.
-
-The Syd is not walking distance from the Bywater, but it is a short ride. The Lower Garden District has its own portrait opportunities — the Garden District proper, the streetcar line, Magazine Street — but the Bywater's density of murals and painted shotgun blocks is harder to replicate elsewhere in the city.
-
-Both properties represent a style of group accommodation that doesn't exist at scale anywhere else in New Orleans: private, complete, properly configured for groups, and operated by people who understand what a large group actually needs from a property.
+Whichever property you land on, confirm real bed and bathroom counts before you book — for a group getting ready together, doubling up on pull-out sofas or sharing one bathroom between ten people will wreck the morning.
 
 ---
 
