@@ -4,7 +4,7 @@ description: "Specific logistics, restaurant options, accommodation strategies, 
 category: "Planning & Logistics"
 card_title: "Group Size Guide"
 card_description: "The logistics change at every threshold. Here's exactly what to do with 10, 15, 20, and 30 people."
-date: 2026-07-28
+date: 2026-09-08
 ---
 
 Group travel doesn't scale linearly. Adding 5 more people doesn't just mean more coordination — at certain thresholds, you need a completely different approach to accommodations, restaurants, transportation, and activities.
@@ -30,7 +30,7 @@ Ten is the best number for group travel. It's big enough to feel like an event, 
 
 At 10, you actually have solid Airbnb options. You can find large homes in the Marigny, Bywater, French Quarter, and Garden District that accommodate 10 comfortably. Still, search carefully — "sleeps 10" often means "8 people comfortably." The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through when a purpose-built rental beats a standard listing even at this smaller size.
 
-At 10, you also fit comfortably inside the purpose-built large-group market with room to spare — a Castleday Retreats villa or a Syd villa both hold well past this headcount, and a Hotel Perle suite gives a group this size separate bills without losing a shared home base. See the [where-to-stay guide](/where-to-stay/) for the full property field and how to pick by fit.
+At 10, you also fit comfortably inside the purpose-built large-group market with room to spare — most Bywater and Lower Garden District villas hold well past this headcount, and a Hotel Perle suite gives a group this size separate bills without losing a shared home base. See the [where-to-stay guide](/where-to-stay/) for the full property field and how to pick by fit.
 
 ### Restaurants
 
@@ -66,7 +66,7 @@ Fifteen is where casual group travel becomes logistical group travel. You can't 
 
 Standard Airbnb inventory gets thin fast at 15. You're looking for a "large house" or a purpose-built group property.
 
-Fifteen is squarely inside the sweet spot for New Orleans' purpose-built villa market. A Castleday Retreats villa fits 15 with room to spare (private pool, Bywater); The Mazant, an 1880s Bywater guesthouse that sleeps 18, is a near-exact fit for a group that wants one historic house rather than a newer build; and a Syd villa in the Lower Garden District, sleeping up to 22, works well for a group that wants shared pool, hot tub, and sauna access over total privacy. Pick by fit, not by whichever name you've heard first.
+Fifteen is squarely inside the sweet spot for New Orleans' purpose-built villa market. The Mazant, an 1880s Bywater guesthouse that sleeps 18, is a near-exact fit for a group that wants one historic house rather than a newer build; other Bywater and Lower Garden District villas built for larger crews hold 15 with room to spare, whether the priority is total privacy or a shared pool and hot tub. Pick by fit, not by whichever name you've heard first.
 
 For the largest selection, book 6+ months out — peak stretches like Mardi Gras, Jazz Fest, and New Year's fill the purpose-built inventory first.
 
@@ -118,7 +118,7 @@ Don't even look at Airbnb for 20 people. Your options are:
 2. **Two adjacent villas** — Can work, but creates a social split. Avoid unless needed.
 3. **Hotel block** — Use for large corporate groups; see the [convention group guide](/guides/convention-group-guide/) if that's your scenario. Loses the "together" benefit.
 
-At 20, a single villa is genuinely the play. Castleday Retreats villas hold up to 30, so 20 fits with room to breathe — private pool, full kitchen, common areas built for exactly this use. The Syd's 22-person capacity is a near-exact fit, where the shared heated pool, hot tub, and sauna get fully used rather than sitting half-empty. Heirloom's larger portfolio of homes across the Lower Garden District and Central City is worth checking too, especially for a group booking on shorter notice — it's the deepest inventory in the field at this size.
+At 20, a single villa is genuinely the play. The Syd's 22-person capacity is a near-exact fit, where the shared heated pool and hot tub get fully used rather than sitting half-empty. Heirloom's larger portfolio of homes across the Lower Garden District and Central City is worth checking too, especially for a group booking on shorter notice — it's the deepest inventory in the field at this size.
 
 ### Restaurants
 
