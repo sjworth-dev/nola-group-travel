@@ -1,10 +1,10 @@
 ---
-title: "The NOLA Riverfront Picnic: Woldenberg Park and the Moonwalk for Groups of 20"
-description: "The best free afternoon in New Orleans for a large group: how to source a proper picnic spread from the French Market and nearby grocery stores, when the sunset window opens over the Mississippi, how to set up on the Moonwalk levee, and why this beats any paid activity for pure group quality time."
+title: "New Orleans Riverfront Picnic: The Moonwalk Guide"
+description: "The best free afternoon in New Orleans: a levee picnic on the Moonwalk beats any paid activity. Where to source the spread and time the sunset."
 category: "Activities & Day Trips"
 card_title: "Riverfront Picnic"
 card_description: "The best free afternoon in NOLA for a group of 20: sourcing from the French Market, the sunset window on the Moonwalk levee, and how to set up a spread that feels intentional."
-date: 2026-06-18
+date: 2026-09-09
 ---
 
 There is no better free afternoon in New Orleans than a riverfront picnic on the Moonwalk levee. A group of 20 people, a spread from the French Market and Rouses, cold drinks in a cooler, and the Mississippi River rolling past with a container ship on the horizon. That's the afternoon. No ticket, no reservation, no rideshare coordination — just pick up the food, walk to the river, and claim your section of the levee.
@@ -56,7 +56,7 @@ The French Market moves slowly, especially on weekends. Give the sourcing team 4
 
 ### Rouses Market
 
-There is a Rouses on Royal Street (a short walk from the French Market) that is the best large-group grocery run option in the French Quarter corridor. For 20 people you need:
+There is a Rouses on Royal Street (a short walk from the French Market) that is the best large-group grocery run option in the French Quarter corridor. If the sourcing team wants a fuller game plan for a French Market morning before the picnic, the [French Market morning guide](/guides/nola-group-french-market-morning-guide/) covers timing and vendor picks in more depth. For 20 people you need:
 
 - **Cheese and charcuterie:** Get more than you think. People eat dramatically more cheese at a riverfront picnic than at a table.
 - **Bread and crackers:** Two or three good baguettes plus a box of crackers.
@@ -64,7 +64,7 @@ There is a Rouses on Royal Street (a short walk from the French Market) that is 
 - **Drinks:** This is the bulk of the haul. Beer, canned wine, sparkling water, and juice. Factor 2-3 drinks per person for a 2-hour picnic.
 - **Ice:** Two bags per cooler, minimum.
 
-Budget roughly $15-25 per person for a solid spread when you combine the French Market and Rouses.
+Budget roughly $15-25 per person for a solid spread when you combine the French Market and Rouses. If you're tracking group spending across the whole trip, the [group money management guide](/guides/nola-group-money-management-guide/) has a system for collecting and splitting costs like this one without anyone fronting the whole grocery bill.
 
 ### Café Du Monde Option
 
@@ -113,8 +113,8 @@ The group that shows up for sunset with cold drinks and a good spread is having 
 
 The picnic ends naturally when the drinks run out or the light goes. From the Moonwalk, you are a 5-minute walk from:
 
-- **Frenchmen Street** — The right move for a live music follow-up
-- **The French Quarter bar scene** — Closer but noisier
+- **Frenchmen Street** — The right move for a live music follow-up; see the [Marigny neighborhood guide](/neighborhoods/marigny/) for the lay of the land
+- **The French Quarter bar scene** — Closer but noisier; the [French Quarter at night guide](/guides/nola-group-french-quarter-at-night-guide/) breaks down which blocks are worth it
 - **Café Du Monde** — Coffee and beignets as the evening pivot, if the group didn't do it before
 - **Dinner in the French Quarter or Marigny** — Easier to walk than to rideshare, and many good restaurants are in walking range
 
@@ -142,7 +142,7 @@ The picnic wins on cost and flexibility, and the group bonding score is genuinel
 
 2. **Bring more bread than you think.** A baguette per five people is the right quantity for a picnic spread. Groups that run out of bread spend the last 30 minutes just picking at cheese, which is fine but feels like the party ran low.
 
-3. **The walk-around cup is legal.** New Orleans' open container laws allow you to carry drinks on public streets and in public spaces. Fill a cup at the levee and walk; don't worry about leaving behind the bottles and cans until you're packing up.
+3. **The walk-around cup is legal.** New Orleans' open container laws allow you to carry drinks on public streets and in public spaces — the [open container law guide](/guides/nola-group-open-container-law-guide/) covers the actual rules (plastic cup, not the original can or bottle) if anyone in the group wants specifics. Fill a cup at the levee and walk; don't worry about leaving behind the bottles and cans until you're packing up.
 
 4. **Styrofoam coolers are your friend.** If your villa doesn't have a large cooler or you don't want to carry one, a $6 styrofoam cooler from any Walgreens or CVS holds plenty of drinks for 20 people and gets left behind after. Not ideal on environmental grounds but it works.
 
@@ -156,15 +156,4 @@ The picnic wins on cost and flexibility, and the group bonding score is genuinel
 
 ## The Picnic Base Camp: Group Accommodation for NOLA
 
-If you're running a riverfront picnic as part of a larger trip, where you're based matters for logistics. The closer to the French Quarter and riverfront, the easier the afternoon becomes.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. Bywater is an easy rideshare or a 20-minute walk from the French Market — close enough that the sourcing run is practical, and the villa's full kitchen and outdoor space make it easy to stage supplies and debrief after the picnic. The private pool at each villa handles the pre-picnic afternoon just as well. The Florentine is ADA-accessible. 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with local artist-designed interiors and a shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd is a straight shot on the St. Charles Streetcar to the Canal Street end of the French Quarter, putting the sourcing team at Rouses within 20 minutes of departure. Groups staging at The Syd can run the picnic, transition to Frenchmen Street for the evening, and return via streetcar without ever needing a rideshare.
-
----
-
-## Go Get the Picnic
-
-- Castleday Retreats — Bywater villas, up to 30 guests, 12 bedrooms, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, heated pool, streetcar access
+If you're running a riverfront picnic as part of a larger trip, where you're based matters for logistics. The closer to the French Quarter and riverfront, the easier the afternoon becomes. Bywater villas like **Castleday Retreats** put the sourcing run within an easy walk of the French Market, apartment-style stays like **The Revelry** or **The Natchez Vacation Rentals** work if the group wants separate billing, and a Lower Garden District base like **The Syd** is a straight shot down the St. Charles Streetcar to the Canal Street end of the French Quarter — good for groups who'd rather not rideshare after dark. Hotel room blocks (The Roosevelt, Hotel Peter & Paul) are the move for mixed budgets or anyone who wants their own key. For the full rundown of what fits which group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
