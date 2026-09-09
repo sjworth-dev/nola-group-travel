@@ -1,15 +1,15 @@
 ---
 title: "Real-Time Money Management on a NOLA Group Trip"
-description: "Splitwise logistics, who fronts what, when to settle, how to handle the person who never Venmos back, and the cash float system for 15-30 people in New Orleans for four days."
+description: "Money breaks group trips more than anything else. The Splitwise system, cash float, and settlement rules that keep a big NOLA crew's finances sane."
 category: "Planning & Logistics"
 card_title: "Group Money Management"
 card_description: "Splitwise logistics, who fronts what, when to settle, the cash float system, and how to handle the person who never Venmos back. Group money management is the logistical challenge most organizers ignore until it's a social problem."
-date: 2026-06-21
+date: 2026-09-09
 ---
 
 Money is the thing that breaks group trips. Not because people are dishonest — most aren't. Because group trip finances, when unplanned, become a tangle of half-remembered tabs, forgotten Venmo requests, different assumptions about who's paying for what, and one person who ends up fronting $800 and getting $400 back.
 
-This guide treats group money management as the logistics problem it actually is. The social awkwardness around money in groups exists because nobody established the rules before the trip. Establish the rules before the trip.
+This guide treats group money management as the logistics problem it actually is. The social awkwardness around money in groups exists because nobody established the rules before the trip. Establish the rules before the trip — it's one of the sequencing steps in the [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) hub if you're still working through the earlier decisions.
 
 ---
 
@@ -144,7 +144,7 @@ If the organizer is fronting significant amounts that get reimbursed later, they
 
 The standard approach on group trips is to settle at the end. The better approach is to settle once mid-trip and once at the end.
 
-**Why mid-trip settlement matters:** It catches errors before they compound. If someone's Splitwise entries have a mistake, or someone hasn't been logging their expenses, or the float is running in an unexpected direction — a mid-trip check surfaces this while there's time to correct it.
+**Why mid-trip settlement matters:** It catches errors before they compound. If someone's Splitwise entries have a mistake, or someone hasn't been logging their expenses, or the float is running in an unexpected direction — a mid-trip check surfaces this while there's time to correct it. The [mid-trip budget tracking guide](/guides/nola-group-budget-tracking-mid-trip-guide/) has a fuller checkpoint system if day two or three is when your group tends to lose track.
 
 **How to do mid-trip settlement:** On day two or three, have Splitwise run the current balances. Share the screenshot with the group. Have people who owe significant amounts Venmo/Zelle before the trip ends. This is not the final settlement — it's a checkpoint.
 
@@ -239,7 +239,7 @@ The worst approach: the check arrives and 20 people try to do simultaneous math 
 
 2. **Log expenses in Splitwise at the time they happen, not at the end of the day.** At the end of the day, you won't remember the exact amount, who was on the rideshare, or which grocery items were shared. Log immediately or same-hour.
 
-3. **The float manager needs to be trusted and organized, not necessarily the organizer.** Split the roles if the best organizer isn't the best money manager.
+3. **The float manager needs to be trusted and organized, not necessarily the organizer.** Split the roles if the best organizer isn't the best money manager — the [trip roles assignment guide](/guides/nola-group-trip-roles-assignment-guide/) covers how to divide this and the other jobs a group trip actually needs.
 
 4. **Pre-trip collection is always better than post-trip reimbursement.** The energy people have for group trip finances is highest before the trip, when excitement is at its peak. After the trip, the energy to chase down payment is low on all sides.
 
@@ -253,17 +253,6 @@ The worst approach: the check arrives and 20 people try to do simultaneous math 
 
 ## The Villa Makes the Money Math Better
 
-The single biggest financial variable on a group trip is accommodation. A private villa for 16-22 people at a competitive per-person rate is often less expensive than the equivalent hotel rooms — and it removes the per-room complexity entirely.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. One villa, one bill, one Splitwise entry. The full kitchen means group meals happen at the villa, which removes restaurant bills from the shared expense equation for at least two meals. The private pool and outdoor space mean activities that would otherwise require booking and paying for also happen at home. The per-person math at Castleday — especially when you account for what you're not spending on dining out — usually surprises groups who assumed the villa would cost more than the hotel.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Same single-bill simplicity. The shared heated pool, hot tub, sauna, and outdoor kitchen create activities in the shared budget rather than additional costs. For groups who do the financial comparison honestly — villa per-person cost versus hotel rooms plus restaurant dining for every meal versus grocery-run alternatives — the villa wins.
-
----
-
-## Book Your NOLA Group Villa
-
-- Castleday Retreats — Bywater, 14-30 guests, private pools, full kitchens
-- The Syd — Lower Garden District, up to 22 guests, shared pool and outdoor kitchen
+The single biggest financial variable on a group trip is accommodation — see the [group budget guide](/guides/budget-guide/) for how it stacks up against the rest of the trip's costs. A private villa at a competitive per-person rate is often less expensive than the equivalent hotel rooms, and it removes the per-room complexity entirely: one villa, one bill, one Splitwise entry. A full kitchen means group meals happen at the villa instead of on a restaurant tab, and shared pool or outdoor space means some activities happen at home instead of getting booked and paid for separately. Castleday Retreats (Bywater villas) and The Syd (Lower Garden District) both work this way; Heirloom's larger inventory across LGD and Central City is worth checking for short-notice availability, and apartment-style options like The Revelry or Roami give a group separate bills within one address. For the full field and how to match it to your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 Set up Splitwise before the first flight lands. Collect the villa money before anyone packs. Settle by the time people are at baggage claim. The money stuff doesn't have to be the part of the trip that creates problems — it just has to be planned like everything else.
