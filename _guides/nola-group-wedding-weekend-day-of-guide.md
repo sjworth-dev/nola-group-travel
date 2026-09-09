@@ -4,12 +4,12 @@ description: "Day-of wedding logistics for large groups staying together in New 
 category: "Weddings & Celebrations"
 card_title: "Wedding Day Logistics for Large Groups"
 card_description: "Getting 20+ people ready, transported, and on time for a wedding ceremony in New Orleans is a logistics problem that requires a plan. Here's the hour-by-hour structure that actually works."
-date: 2026-06-29
+date: 2026-09-09
 ---
 
-The wedding day itself is the highest-stakes coordination moment of the entire weekend. You've planned the rehearsal dinner, the welcome party, the day-after brunch. All of that runs on a loose schedule. The ceremony does not. The ceremony starts at a fixed time, and the bride, the wedding party, and every family member staying in your villa need to be in specific places at specific times before that happens.
+The wedding day itself is the highest-stakes coordination moment of the entire weekend. You've planned the [rehearsal dinner](/guides/nola-group-wedding-rehearsal-dinner-venues/), the welcome party, the day-after brunch — see the [wedding weekend guide](/guides/wedding-weekend-guide/) for how those pieces fit together. All of that runs on a loose schedule. The ceremony does not. The ceremony starts at a fixed time, and the bride, the wedding party, and every family member staying in your villa need to be in specific places at specific times before that happens.
 
-For groups of 20-30 people sharing a private villa, the day-of logistics are both easier and harder than they'd be for a scattered hotel block. Easier because everyone is in one place. Harder because one place means one shared bathroom situation, one driveway, and one potential chokepoint where everything either flows or stacks up.
+For the whole crew sharing a private villa, the day-of logistics are both easier and harder than they'd be for a scattered hotel block. Easier because everyone is in one place. Harder because one place means one shared bathroom situation, one driveway, and one potential chokepoint where everything either flows or stacks up.
 
 This guide is the hour-by-hour structure for getting everyone where they need to be, looking right, and on time.
 
@@ -30,13 +30,13 @@ This guide is the hour-by-hour structure for getting everyone where they need to
 
 ## The Core Problem: 20 People, One Morning
 
-Most wedding day logistics guides are written for a wedding party of eight people staying in separate hotel rooms. Your situation is different: 20-30 people sharing a villa, potentially with two or three sub-groups (immediate family, wedding party, other guests) who have completely different morning requirements.
+Most wedding day logistics guides are written for a wedding party of eight people staying in separate hotel rooms. Your situation is different: the whole crew sharing a villa, potentially with two or three sub-groups (immediate family, wedding party, other guests) who have completely different morning requirements.
 
 The wedding party needs more time — hair, makeup, photos, staging. The other guests need less time but have a tendency to sprawl and lose track of the clock. And the couple needs to not be managing any of this at all.
 
 The solution is structural. You need:
 
-1. A designated logistics person who is not emotionally occupied
+1. A designated logistics person who is not emotionally occupied — the [trip roles assignment guide](/guides/nola-group-trip-roles-assignment-guide/) covers how to pick this person separately from the couple or the maid of honor
 2. A shared timeline posted somewhere visible the morning of
 3. Transport confirmed to the minute, not the half-hour
 
@@ -61,7 +61,7 @@ For a 4pm ceremony: everyone downstairs by 2:15pm, depart by 2:45pm, arrive by 3
 
 ## The Getting-Ready Track
 
-The getting-ready party (typically the bridal party, and sometimes a men's equivalent getting-ready experience elsewhere in the villa) is the most time-intensive and least predictable element of the morning. Hair and makeup for a group of 10-15 people takes longer than almost anyone builds into the schedule.
+The getting-ready party (typically the bridal party, and sometimes a men's equivalent getting-ready experience elsewhere in the villa) is the most time-intensive and least predictable element of the morning. Hair and makeup for a full bridal party takes longer than almost anyone builds into the schedule.
 
 ### Hair and Makeup Math
 
@@ -130,7 +130,7 @@ The transport plan is where most group wedding days fail. The failure mode is no
 | 16-25 people | Charter van + smaller vehicle | 1 large van for the wedding party; a second vehicle for other guests |
 | 26-30 people | Two charter vans or a minibus | One vehicle for the wedding party, one for other villa guests |
 
-Book transport at least 4-6 weeks before the wedding. Wedding weekends in New Orleans — especially in peak season (March, October, November) — have heavy transport demand. Waiting until the week before is a plan to pay more for worse options.
+Book transport at least 4-6 weeks before the wedding. Wedding weekends in New Orleans during the city's peak stretch — October, and February through May — see heavy transport demand. Waiting until the week before is a plan to pay more for worse options.
 
 ### Departure Logistics
 
@@ -162,7 +162,7 @@ Arrive at least 30 minutes before the ceremony. Forty-five is better. An hour is
 
 ## Managing the Group the Night Before
 
-The best thing you can do for the wedding day morning is brief the group the night before — at dinner, or at the end of the rehearsal dinner, not the morning of when everyone is scattered across the villa.
+The best thing you can do for the wedding day morning is brief the group the night before — at dinner, or at the end of the rehearsal dinner, not the morning of when everyone is scattered across the villa. If the eve-of-wedding evening itself needs its own plan, the [eve of wedding guide](/guides/nola-group-eve-of-wedding-guide/) covers how to run that night without wrecking the next morning.
 
 Keep the briefing under five minutes:
 
@@ -230,6 +230,6 @@ The only time these tracks merge before departure is for the villa group photos 
 
 Sharing a private villa for a wedding weekend changes what the day-of experience looks like. There's space for parallel tracks, a full kitchen for a real breakfast, outdoor areas for staging and photos, and a setting that gives the morning its own ceremony before the ceremony.
 
-The villas that host wedding groups in New Orleans — Castleday Retreats in the Bywater and The Syd in the Lower Garden District — are designed with this in mind. Multiple bedrooms mean multiple getting-ready spaces. Private courtyards and outdoor spaces give photographers a backdrop that hotel lobbies can't match. Having the whole group under one roof means the logistics person can actually do their job.
+The properties that host wedding groups well in New Orleans share the same shape: multiple bedrooms for multiple getting-ready spaces, a private courtyard or outdoor area for photos, and enough common space that the logistics person can actually do their job instead of shouting down a hallway. Heirloom's large-format homes and single historic houses like The Mazant both fit that shape; hotel room blocks (The Roosevelt, Hotel Peter & Paul) work better for weddings where guests want their own key rather than shared villa space.
 
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
