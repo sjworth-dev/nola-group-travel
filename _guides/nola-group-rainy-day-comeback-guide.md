@@ -1,10 +1,10 @@
 ---
 title: "The Rainy Day Comeback Plan for NOLA Groups"
-description: "When the weather turns: the rainy day comeback plan for groups of 15-30 who had outdoor activities on the itinerary — indoor alternatives by neighborhood, the villa-as-activity pivot, and how to reframe the day without losing the group's energy."
+description: "When the weather turns: the rainy day comeback plan for a group with outdoor activities on the itinerary — indoor alternatives by neighborhood, the villa-as-activity pivot, and how to reframe the day without losing the group's energy."
 category: "Planning & Logistics"
 card_title: "Rainy Day Comeback"
 card_description: "When the weather turns on your outdoor plans: indoor alternatives by neighborhood, the villa pivot, and how to reframe the day without losing the group."
-date: 2026-06-20
+date: 2026-09-09
 ---
 
 Rain is going to happen at some point during a NOLA trip. This is not pessimism — it's the city. New Orleans gets over 60 inches of rain annually, much of it in warm-season downpours that develop fast and can be intense. If your group is here for 4-5 days, odds are at least one of those days involves a meaningful rainstorm.
@@ -79,7 +79,7 @@ The villa-as-activity works best when the group commits to it rather than treati
 
 **Cocktail class or cooking class** — several NOLA-based cooking and cocktail instruction options operate out of indoor venues and can accommodate groups on relatively short notice. Call first; availability on same-day notice varies.
 
-**Villa-based afternoon** — The Syd's shared courtyard has covered portions and the indoor common areas are well-suited to a group afternoon.
+**Villa-based afternoon** — a villa with covered outdoor portions and real indoor common space turns a rain delay into a group afternoon instead of everyone scattering to separate rooms.
 
 ### If You're Based in or Near the French Quarter
 
@@ -196,17 +196,10 @@ Stock this before you arrive. These items take 20 minutes to acquire at any larg
 
 ## Your Rainy Day Home Base
 
-A rain day is when the difference between a villa and a hotel room is most apparent. In a hotel, a rained-out afternoon means 30 people scattered across individual rooms watching TV in isolation. In a villa, it means the group is in a shared common space with a kitchen, an outdoor area (even if wet), and the resources to actually do something together.
+A rain day is when the difference between a villa and a hotel room is most apparent. In a hotel, a rained-out afternoon means the group scattered across individual rooms watching TV in isolation. In a villa, it means the group is in a shared common space with a kitchen, an outdoor area (even if wet), and the resources to actually do something together.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms, 17 real beds, and 8 baths. The Cocodrie villa has been noted for its pool and outdoor space — and the private pool in a warm NOLA summer rain is, genuinely, a different and excellent experience. Large kitchen for the impromptu cooking project, large common areas for the afternoon card game or movie. Walking distance from the St. Claude corridor's indoor bar options.
+Heirloom's large-format homes across the Lower Garden District and Central City tend to have the kind of kitchen and common-area space that makes a rain delay into a group afternoon instead of a scatter. The Mazant, a single historic Bywater guesthouse with a heated pool and spa, is a good fit if you'd rather keep the whole group under one roof. Apartment-style stays like The Revelry or The Natchez Vacation Rentals give separate units with a shared pool for when the rain lets up. Whatever the property, the same thing matters on a rain day: real indoor common space, not just a bedroom.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. The heated pool and outdoor kitchen at The Syd have covered portions, making a warm-rain afternoon at the courtyard more viable than it sounds. One block from the St. Charles Streetcar — the streetcar in the rain, heading uptown through the Garden District, is one of the more pleasant NOLA weather experiences. Villas designed by local artists mean the interior spaces are genuinely interesting to spend time in, not just functional.
-
----
-
-## Ready for Whatever Weather Brings
-
-- Castleday Retreats — Bywater, 14-30 guests, private pool, full kitchen
-- The Syd — Lower Garden District, up to 22 guests, heated pool and outdoor kitchen
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 Have the plan. When the rain comes, execute it confidently. The groups who adapt well have better trips than the groups who never needed to.

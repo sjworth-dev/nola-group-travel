@@ -1,17 +1,17 @@
 ---
 title: "Themed NOLA Villa Dinner Nights for Large Groups"
-description: "Gumbo cook-off, oyster roast, crawfish night, shrimp boil — how to run themed dinner nights at the villa for groups of 15-30. Sourcing, equipment, execution, and why the villa kitchen beats any restaurant for one night of a NOLA group trip."
+description: "Gumbo cook-off, oyster roast, crawfish night, shrimp boil — how to run themed dinner nights at the villa for the whole crew. Sourcing, equipment, execution, and why the villa kitchen beats any restaurant for one night."
 category: "Villa Life"
 card_title: "Themed Villa Dinner Nights"
-card_description: "Gumbo cook-off, oyster roast, crawfish boil, shrimp boil — the villa dinner night is the highest-ROI meal of any NOLA group trip. Here's how to execute four different themes for groups of 15-30."
-date: 2026-06-21
+card_description: "Gumbo cook-off, oyster roast, crawfish boil, shrimp boil — the villa dinner night is the highest-ROI meal of any NOLA group trip. Here's how to execute four different themes for the whole crew."
+date: 2026-09-09
 ---
 
 On any group trip longer than two nights, there's one dinner that becomes the story people tell about the trip. For NOLA group trips with a private villa, that dinner should happen at the villa.
 
 Not because restaurants are bad — New Orleans has some of the best restaurants in the country. But because a gumbo cook-off with 20 people competing for bragging rights, or a crawfish boil where everyone's hands are red and there's music playing in the courtyard, is a different kind of memory than another table at a restaurant with a fixed menu.
 
-The villa dinner night works because it turns eating into an event. You're not just feeding people — you're giving them something to participate in. This guide covers four themes that work reliably for groups of 15-30, from sourcing through execution through cleanup.
+The villa dinner night works because it turns eating into an event. You're not just feeding people — you're giving them something to participate in. This guide covers four themes that work reliably at full headcount, from sourcing through execution through cleanup.
 
 ---
 
@@ -219,17 +219,10 @@ The themed dinner night works best when the cooking is part of the evening rathe
 
 ## Your Villa Kitchen Is the Best Restaurant of the Trip
 
-One night of a NOLA group trip, the best meal you eat is the one you make together. That's the proposition.
+One night of a NOLA group trip, the best meal you eat is the one you make together. That's the proposition — and it depends on landing somewhere with a real kitchen and outdoor room, not a hotel suite.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The full kitchens at The Herald, The Cocodrie, and The Florentine are equipped for real cooking — not just reheating. Large common areas for communal dining. Private courtyards at each villa that work beautifully for oyster roasts and crawfish boils with tables dragged outside and music playing. The Bywater location puts you within easy reach of Rouses Markets for a sourcing run.
+Heirloom's large-format homes across the Lower Garden District and Central City tend to have the counter space and courtyard an oyster roast or crawfish boil actually needs, and the inventory is deep enough to find one late. The Mazant, a single historic Bywater guesthouse built around a heated pool and spa, works well if the group wants one house for the whole night rather than splitting across units. Apartment-style stays like The Revelry or The Natchez Vacation Rentals give separate units plus a shared pool for afterward, if the cooking itself happens in one unit's kitchen. Whichever property fits, check for a full kitchen and outdoor space before committing — that's what makes the night work.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared outdoor kitchen that was built for this kind of use. The outdoor kitchen at The Syd is not an afterthought — it's a real cooking space with a grill and prep surfaces in the courtyard. An oyster roast at The Syd's outdoor kitchen, with the pool visible and the sauna available for later, is a night that doesn't need to go anywhere after dinner.
-
----
-
-## Book Your Group Villa
-
-- Castleday Retreats — Bywater, 14-30 guests, full kitchens, private courtyards
-- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, shared pool
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 The best dinner of a New Orleans group trip doesn't have to happen at a restaurant. Sometimes it happens because someone started a roux at 3:30pm and the whole group was paying attention.

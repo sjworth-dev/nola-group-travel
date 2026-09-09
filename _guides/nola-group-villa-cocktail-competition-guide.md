@@ -1,10 +1,10 @@
 ---
 title: "Villa Cocktail Competition Guide for Large Groups in New Orleans"
-description: "NOLA villa cocktail competition for groups of 15-30: NOLA classics bracket vs. originals round, team formats, judging criteria, batch infrastructure, shopping list, and a full 2-hour competition timeline."
+description: "NOLA villa cocktail competition for the whole crew: NOLA classics bracket vs. originals round, team formats, judging criteria, batch infrastructure, shopping list, and a full 2-hour timeline."
 category: "Activities & Day Trips"
 card_title: "Villa Cocktail Competition"
-card_description: "How to run a full cocktail competition at the villa for groups of 15-30: NOLA classics bracket (Sazerac, Ramos Gin Fizz, Vieux Carré, Daiquiri), originals round, judging structure, and the full evening timeline."
-date: 2026-06-22
+card_description: "How to run a full cocktail competition at the villa for the whole crew: NOLA classics bracket (Sazerac, Ramos Gin Fizz, Vieux Carré, Daiquiri), originals round, judging structure, and the full evening timeline."
+date: 2026-09-09
 ---
 
 If you are running a group of 20 people through New Orleans and you are trying to pick a single evening activity that works for a corporate retreat, a bachelorette party, and a birthday trip equally — this is it. A villa cocktail competition solves everything. It's structured, it's competitive, it gives everyone a role, it has a built-in two-hour arc, and it produces something you can actually drink.
@@ -155,7 +155,7 @@ This is the list for a group of 20-25 doing a full classics-plus-originals compe
 
 ### Tools and Glassware
 
-For groups of 20-25:
+Once the group's at full headcount, here's the tools list:
 
 | Item | Quantity |
 |------|----------|
@@ -264,19 +264,8 @@ The actual value of the prize is less important than its existence as a declared
 
 ## Large Group Accommodation
 
-A cocktail competition at this scale requires real kitchen infrastructure, counter space, and a common area large enough to run multiple team stations simultaneously. You also need somewhere that won't penalize you for the noise and energy of 25 people running a competitive evening.
+A cocktail competition at this scale requires real kitchen infrastructure, counter space, and a common area large enough to run multiple team stations simultaneously. You also need somewhere that won't penalize you for the noise and energy of a competitive evening — a private villa format, not a hotel floor with a bar-staff curfew.
 
-**Castleday Retreats** — Three private villas in the Bywater (The Herald, The Cocodrie, The Florentine), each sleeping 14-30 guests across 12 bedrooms and 17 real beds. For corporate groups especially, Castleday is the right call: everyone gets a real bed (no pullout sofa situations for a 16-person group), the villas are fully private, and the common area infrastructure supports running a real evening activity like this without crowding. Full kitchens, private pools. 4.98 average rating across 99 reviews. When you're organizing for ~16 people, pitch this specifically: everyone gets a real bed.
+Heirloom's large-format homes across the Lower Garden District and Central City tend to have the multi-station kitchen space this format wants, and the inventory is deep enough to find one on short notice. The Mazant, a single historic Bywater guesthouse with a heated pool and spa, works if you'd rather run the whole competition and its afterparty in one house. Apartment-style stays like The Revelry or The Natchez Vacation Rentals give a group separate units plus a shared pool for the afterparty, if the competition itself happens in one unit's kitchen. Whichever property fits, the same test applies: real counter space, a full fridge, and outdoor room that doesn't need to keep its voice down.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room is designed by a local New Orleans artist. The Syd is one block from the St. Charles Streetcar, which means the transition from a villa cocktail competition to an actual evening out is a streetcar ride rather than a rideshare scramble. The outdoor kitchen and pool area make a natural competition afterparty space — the evening flows from the competition straight into the exterior.
-
-Both properties give you the private-villa format that makes a cocktail competition possible: no hotel bar staff telling you to keep it down, no shared lobby, no curfew imposed by other guests. The competition happens in your space.
-
----
-
-## Book Your Villa
-
-Both properties accommodate the group sizes this competition format is built for. Corporate retreats, bachelorette parties, birthday trips — the cocktail competition evening works for all of them, and it works best when the group is already in a private villa with room to run it properly.
-
-- Castleday Retreats — Bywater, 14-30 guests, 3 private villas, full kitchens, private pools, 4.98 stars
-- The Syd — Lower Garden District, up to 22 guests per villa, heated pool + hot tub + sauna + outdoor kitchen, one block from St. Charles Streetcar
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
