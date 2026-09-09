@@ -65,12 +65,12 @@ The house starts to fill. This is the moment the trip becomes real. Don't try to
 
 Go close. You don't need to do the French Quarter tonight.
 
-**If you're staying at Castleday Retreats in the Bywater:**
+**If you're staying in the Bywater:**
 - Bacchanal Wine (wine garden, live jazz, no reservations needed — arrive early)
 - The Joint (BBQ, sell out early)
 - Pizza Delicious (casual, groups welcome)
 
-**If you're staying at The Syd in the Lower Garden District:**
+**If you're staying in the Lower Garden District:**
 - Atchafalaya (neighborhood Creole, good for groups with reservations)
 - Parasol's (casual, roast beef, cash, neighborhood dive)
 - Commander's Palace if you want to go big on arrival night (reserve ahead)
@@ -97,9 +97,9 @@ One person makes coffee. Someone picks up pastries from a nearby bakery if the g
 
 Before you chase the city's big attractions, spend an hour in your home neighborhood. This is what most group trips skip and then wish they'd done.
 
-**From Bywater (Castleday Retreats):** Walk to Crescent Park along the river. Best urban park in the city. Views of the Mississippi. Street art on the way. 1.4 miles, flat, takes an hour.
+**From the Bywater:** Walk to Crescent Park along the river. Best urban park in the city. Views of the Mississippi. Street art on the way. 1.4 miles, flat, takes an hour.
 
-**From Lower Garden District (The Syd):** Walk Magazine Street toward the Garden District. Beautiful mansions, Lafayette Cemetery No. 1, coffee shops, antique stores. Catch the St. Charles Streetcar.
+**From the Lower Garden District:** Walk Magazine Street toward the Garden District. Beautiful mansions, Lafayette Cemetery No. 1, coffee shops, antique stores. Catch the St. Charles Streetcar.
 
 ### 12:00 PM — Lunch
 
