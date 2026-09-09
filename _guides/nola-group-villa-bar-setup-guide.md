@@ -1,17 +1,17 @@
 ---
 title: "Villa Bar Setup Guide for Large Groups in New Orleans"
-description: "How to stock and run the villa bar for groups of 15-30: spirits selection for mixed tastes, ice logistics, batch cocktail quantities, glassware reality check, and how to avoid spending $500 at Total Wine on arrival day."
+description: "How to stock and run the villa bar for the whole crew: spirits selection, ice logistics, batch cocktail quantities, glassware reality check, and how to avoid a $500 Total Wine run on arrival day."
 category: "Villa Life"
 card_title: "Villa Bar Setup"
-card_description: "Stock the bar right, batch the cocktails, solve the ice problem. The full setup guide for groups of 15-30."
-date: 2026-06-18
+card_description: "Stock the bar right, batch the cocktails, solve the ice problem. The full setup guide for a group that's gone well past a six-pack."
+date: 2026-09-09
 ---
 
 Arrival day, everyone's in the car from the airport, someone says "we should grab drinks on the way." The group stops at a Total Wine or a CVS. One hour, $600, and two carts later, you have a lot of random things and you've somehow forgotten ice.
 
 There's a better way.
 
-The villa bar doesn't need to be a full nightclub setup. It needs to cover the group's actual drinking patterns, not every conceivable preference. For groups of 15-30 in New Orleans, this is a known problem with a known solution. Here's the full playbook.
+The villa bar doesn't need to be a full nightclub setup. It needs to cover the group's actual drinking patterns, not every conceivable preference. For the whole crew in New Orleans, this is a known problem with a known solution — one piece of the sequencing covered in the [villa arrival setup guide](/guides/villa-arrival-setup-guide/) for the first two hours after you land. Here's the full playbook for the bar specifically.
 
 ---
 
@@ -120,7 +120,7 @@ Know the nearest 24-hour convenience store to the villa before you arrive. Walgr
 
 **Option 3: The Chest-Cooler Setup**
 
-Buy a large cooler, fill it with ice on arrival, put the beer and white wine in it, and plan a cooler refill once a day. This keeps the refrigerator for food and gives you a dedicated cold drinks station in the courtyard.
+Buy a large cooler, fill it with ice on arrival, put the beer and white wine in it, and plan a cooler refill once a day. This keeps the refrigerator for food and gives you a dedicated cold drinks station in the courtyard — the same setup that carries straight into a [villa pool party](/guides/villa-pool-party-guide/) if that's on the schedule.
 
 **The rule:** Assume you will run out of ice at 8pm. Plan accordingly.
 
@@ -128,7 +128,7 @@ Buy a large cooler, fill it with ice on arrival, put the beer and white wine in 
 
 ## Batch Cocktail Strategy
 
-The highest-ROI bar move for a group of 15-30 is a large-format batch cocktail made once, served all evening. One person makes it, everyone benefits, no one is stuck behind a cutting board for two hours.
+The highest-ROI bar move once the group goes double-digit is a large-format batch cocktail made once, served all evening. One person makes it, everyone benefits, no one is stuck behind a cutting board for two hours.
 
 ### The NOLA Batch Cocktails Worth Making
 
@@ -178,7 +178,7 @@ Blend in batches, keep in freezer until service. The group will ask for a second
 
 ## Glassware Reality Check
 
-Villa glassware is almost always insufficient for groups of 15-30. Most villas have 8-12 decent glasses and a mix of whatever was there when the hosts moved in.
+Villa glassware is almost always insufficient once the group hits full headcount. Most villas have 8-12 decent glasses and a mix of whatever was there when the hosts moved in.
 
 ### The Solutions
 
@@ -261,15 +261,10 @@ These are 4-day estimates. The spread reflects whether you buy handles vs. 750mL
 
 ---
 
-## The Villas That Make This Work
+## Setting Up the Bar Wherever You're Staying
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Castleday's full villa kitchens have the countertop space, the refrigeration, and the outdoor courtyard setup to run a real villa bar for a group of this size. The private pool and courtyard are the natural gathering point for a cocktail hour. No shared spaces means the bar is yours alone.
+A villa bar needs three things a hotel room block can't give you: real counter space, a full-size refrigerator, and an outdoor gathering spot where the crowd doesn't scatter toward the elevators. Whatever property you land on, check for a full kitchen and some kind of courtyard, pool deck, or shared outdoor space before you commit to a setup like this one — a suite with a mini-fridge and no counter turns this whole guide into a math problem you can't solve.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen that doubles perfectly as a bar station. The Syd's shared heated pool, hot tub, and courtyard create the kind of ambient social space where a villa bar becomes the center of gravity for the entire group. One block from the St. Charles Streetcar for when the group decides to move.
+Heirloom's inventory across the Lower Garden District and Central City runs deep enough that you can usually find a house with the kitchen and outdoor space this setup wants, even booking short notice. The Mazant, a single historic Bywater guesthouse that sleeps 18 around a heated pool and spa, is the right scale if you want one house instead of splitting the group across units. Apartment-style stays like The Natchez Vacation Rentals or The Revelry work too, though the bar setup usually lives in one unit's kitchen rather than spread across the group's rooms — decide that in advance so the group doesn't end up running three half-stocked bars instead of one good one. If money management for the liquor run and everything else on the trip needs its own system, the [group money management guide](/guides/nola-group-money-management-guide/) covers the Splitwise setup and the cash float.
 
----
-
-## Stock the Bar Right
-
-- Castleday Retreats — Bywater private villas, up to 30 guests, full kitchens, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, shared outdoor kitchen and pool
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
