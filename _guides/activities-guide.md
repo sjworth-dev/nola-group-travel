@@ -62,7 +62,7 @@ The most well-known option. Demonstration-style classes covering Louisiana stapl
 
 Several local chefs offer private cooking classes for groups at their kitchens or in your rental. The format is more hands-on — you actually make the dishes. Better for small-to-medium groups (10-15) who want a more engaged experience.
 
-**For groups at Castleday Retreats or The Syd:** Ask about having a private chef come to your villa. Some chefs will come to you — you cook in your own kitchen, then eat at your own table. This works extraordinarily well for groups and creates a memorable shared experience.
+**For groups staying at a villa:** Ask about having a private chef come to you. Some chefs will come to your rental — you cook in your own kitchen, then eat at your own table. This works extraordinarily well for groups and creates a memorable shared experience.
 
 ### What to Make
 
@@ -284,7 +284,7 @@ Beyond ghost tours, New Orleans has excellent walking tour options covering hist
 
 6. **The best experiences in New Orleans are low-tech.** A good second line with a great brass band, beignets at 2 AM, Bacchanal Wine at sunset — these are free or cheap and better than any organized tour.
 
-7. **Ask your accommodation about contacts.** Properties like Castleday Retreats and The Syd often have referrals to trusted local tour operators and vendors. Start there.
+7. **Ask your accommodation about contacts.** Most large-group properties have referrals to trusted local tour operators and vendors. Start there.
 
 ---
 
@@ -292,10 +292,8 @@ Beyond ghost tours, New Orleans has excellent walking tour options covering hist
 
 The right home base makes activity logistics infinitely easier. A central property with parking, space to stage groups, and flexibility on check-in timing is worth paying for.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, local art throughout. The Bywater is close to the Quarter (for most tours), the Marigny, and Frenchmen Street. Easy staging ground for daily activities.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests, with a private pool per villa. The Bywater is close to the Quarter (for most tours), the Marigny, and Frenchmen Street. Easy staging ground for daily activities.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Magazine Street walkable. Central to the whole city.
+**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool and hot tub, one block from the St. Charles Streetcar. Magazine Street walkable. Central to the whole city.
 
-Both properties can accommodate the kind of casual group briefings that make coordinating daily activities easier: everyone in one kitchen in the morning, map out the day, go.
-
-[See where to stay for large groups →](/where-to-stay/)
+Both properties can accommodate the kind of casual group briefings that make coordinating daily activities easier: everyone in one kitchen in the morning, map out the day, go. For the full field of options, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
