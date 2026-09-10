@@ -1,15 +1,15 @@
 ---
 title: "Riding a Mardi Gras Float: What It's Actually Like"
-description: "What it's actually like to ride a Mardi Gras float: how krewe memberships work, the float rider experience from the inside, throws strategy, physical demands, and how to get a group of 6-10 onto the same float."
+description: "What it's actually like to ride a Mardi Gras float: how krewe memberships work, the float rider experience from the inside, throws strategy, physical demands, and how to get your friends onto the same float."
 category: "Festivals & Events"
 card_title: "Riding a Float"
 card_description: "The inside view of float riding: memberships, throws, physical demands, and how to get your group on the same float."
-date: 2026-06-20
+date: 2026-09-10
 ---
 
-Watching Mardi Gras parades is one thing. Riding on a float throwing beads to the crowd below is a completely different experience — and one that groups of 6-10 can actually access if they plan far enough in advance.
+Watching Mardi Gras parades is one thing. Riding on a float throwing beads to the crowd below is a completely different experience — and one that a small group can actually access if they plan far enough in advance.
 
-This guide is not about watching parades (we have that covered in the [Parade Watching Guide](/guides/nola-group-parade-watching-guide/)). This is about getting onto a float — the permits, the krewe membership process, the throws budget, the physical reality of standing on a moving platform for four hours, and how to coordinate a group of friends into the same riding position.
+This guide is not about watching parades (we have that covered in the [Parade Watching Guide](/guides/nola-group-parade-watching-guide/)) or about the ball-and-party side of krewe life (the [krewe membership guide](/guides/nola-group-krewe-membership-guide/) covers that ground). This is about getting onto a float — the permits, the krewe membership process, the throws budget, the physical reality of standing on a moving platform for four hours, and how to coordinate a group of friends into the same riding position.
 
 ---
 
@@ -48,7 +48,7 @@ There are hundreds of krewes in New Orleans, ranging from enormous national orga
 
 The super krewes — the ones with enormous floats and nationally televised coverage — are the most recognizable names in Mardi Gras. They also tend to have the most structured membership processes and the longest wait lists for out-of-towners.
 
-Some of the more socially minded krewes have explicitly built their membership pipelines to include out-of-town riders. If you contact a krewe's membership chair directly and explain that you're a group of 8 who wants to ride together, you'll often get a more receptive conversation than you expect.
+Some of the more socially minded krewes have explicitly built their membership pipelines to include out-of-town riders. If you contact a krewe's membership chair directly and explain that you're a group who wants to ride together, you'll often get a more receptive conversation than you expect. Walking krewes without floats — Krewe du Vieux is the best-known example, and it welcomes participants readily — are a lower-commitment entry point if riding a float turns out to be more process than your group wants; see the [dedicated guide](/guides/nola-group-krewe-du-vieux-guide/) for how that one works.
 
 ### The Sponsorship System
 
@@ -163,7 +163,7 @@ Being honest about total cost is important for group planning.
 | Staging day food/transport | $50-100 | Pre-parade logistics |
 | **Total (conservative)** | **$1,250-3,800+/person** | Depending on krewe tier |
 
-For a group of 8, budget the full per-person cost individually — these are individual membership expenses, not shareable.
+Budget the full per-person cost individually — these are individual membership expenses, not shareable. The krewe costume is usually mandatory and krewe-specific, which is a different problem from the group costume planning covered in the [Mardi Gras costume guide](/guides/nola-group-mardi-gras-costume-guide/) — that guide is for everything you wear off the float.
 
 ---
 
@@ -181,7 +181,7 @@ This is not a "book three months out" situation.
 | Float assignment confirmation | 1-3 months before |
 | Staging day and parade | February (date varies annually) |
 
-If you're 10-12 months out, you may still have opportunities with some krewes that have late openings. At 6 months, your options are narrowing significantly. At 3 months, plan to watch this year and ride next year.
+If you're 10-12 months out, you may still have opportunities with some krewes that have late openings. At 6 months, your options are narrowing significantly. At 3 months, plan to watch this year and ride next year — the [parade season calendar](/guides/nola-group-carnival-season-parade-calendar/) covers which parades are worth planning a watching trip around in the meantime.
 
 ---
 
@@ -205,17 +205,10 @@ If you're 10-12 months out, you may still have opportunities with some krewes th
 
 ## Your Post-Float Base Camp
 
-Returning from a parade with a group of 8-10 tired riders plus bags of leftover throws is a logistical moment that separates hotel stays from villa stays pretty clearly. You want space, showers, somewhere to dump the throws, and a kitchen where someone can start making food while everyone else cleans up.
+Returning from a parade with tired riders and bags of leftover throws is a logistical moment that separates hotel stays from villa stays pretty clearly. You want space, showers, somewhere to dump the throws, and a kitchen where someone can start making food while everyone else cleans up — the full sequencing for that first hour back is in the [Mardi Gras group guide](/guides/mardi-gras-group-guide/).
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests across 12 bedrooms and 8 baths. The Bywater location puts you outside the major parade route traffic, which means you can actually get home after the parade rather than waiting for gridlock to clear. Full kitchens, private pools, and large common areas where the post-parade debrief naturally happens. The art-filled interiors are also an interesting backdrop for the mountain of beads and throws you'll be sorting through.
+Heirloom's large-format homes in the Lower Garden District and Central City put a full kitchen and real common space within reach of the Uptown parade routes without sitting in the gridlock those routes create. The Mazant, a single historic Bywater guesthouse that sleeps 18 around a heated pool and spa, is the right scale if the group would rather have one house to regroup in than split across units. Either way, the post-parade debrief needs somewhere to spread out the beads, and a hotel room rarely has it.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. The Uptown parade routes pass near the LGD, making the walk or ride back after a Garden District parade manageable. The shared outdoor courtyard is the natural gathering point for the post-parade wind-down — heated pool, hot tub, outdoor kitchen.
+Start the krewe conversation now — the riders who make next Mardi Gras started planning 18 months out. For accommodation, the clock is shorter but still real: for the largest selection, book 6+ months out.
 
----
-
-## Make It Happen
-
-- Castleday Retreats — Bywater, 14-30 guests, 12 bedrooms, 8 baths per villa
-- The Syd — Lower Garden District, up to 22 guests, shared courtyard and outdoor kitchen
-
-Start the krewe conversation now. The groups that ride next Mardi Gras started planning 18 months ago.
+[See where to stay for large groups →](/where-to-stay/)
