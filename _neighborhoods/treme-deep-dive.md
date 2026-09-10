@@ -2,7 +2,7 @@
 title: "Tremé Deep Dive: The Neighborhood Large Groups Need to Know"
 description: "Block-by-block Tremé guide for large groups: Congo Square, Backstreet Cultural Museum, second line culture by season, brass band practices, and how to meaningfully engage with the oldest African American neighborhood in America."
 category: "Neighborhoods"
-date: 2026-06-02
+date: 2026-09-10
 ---
 
 Every large group that comes to New Orleans hits the French Quarter, Frenchmen Street, maybe the Garden District. Most of them miss Tremé, which is a shame — it's the neighborhood most responsible for the music, culture, and social traditions that make New Orleans what it is.
@@ -100,7 +100,7 @@ The second line is not a tourist event. It's a community institution — a weekl
 | April – June | Full schedule | Jazz Fest overlaps; some parades incorporated into Fest culture |
 | July – September | Off-season | Most clubs pause during peak heat; jazz funerals continue year-round |
 
-**For large groups:** Second lines are public events but the crowd can be thousands of people in motion through neighborhood streets. For groups of 15+, designate a meeting point before you join, and pick a way to stay in communication. Getting separated in a second line is easy; finding your group again takes time.
+**For large groups:** Second lines are public events but the crowd can be thousands of people in motion through neighborhood streets. Once the crew gets past a handful of people, designate a meeting point before you join, and pick a way to stay in communication. Getting separated in a second line is easy; finding your group again takes time.
 
 The experience is worth the logistical effort. A second line parade is the most direct encounter with living New Orleans culture that any group can have. You're not watching a performance — you're participating in an ongoing social tradition.
 
@@ -168,7 +168,7 @@ Tremé is a living neighborhood, not a museum. The people who live here are not 
 | 11:45 AM | Coffee and snacks — ask the museum staff where they'd send you |
 | 12:15 PM | Walk south on St. Claude toward the Marigny and Frenchmen Street for lunch |
 
-This itinerary works for groups of 10–25. For groups over 20, split into sub-groups of 8–12 at the museum, then reconvene for lunch.
+This itinerary works for the whole crew. Once the group goes past 20 or so, split into sub-groups of 8–12 at the museum, then reconvene for lunch.
 
 ---
 
@@ -180,7 +180,7 @@ From Bywater and the Marigny, walk north on St. Claude or through Armstrong Park
 
 From the Garden District or Uptown, take the St. Charles Streetcar to Canal Street, then walk or take a rideshare.
 
-For large groups arriving together, rideshares work fine. Dropping 15–20 people at Congo Square is a common enough request that it doesn't require explanation.
+For large groups arriving together, rideshares work fine. Dropping the whole crew at Congo Square is a common enough request that it doesn't require explanation.
 
 ---
 
@@ -204,11 +204,9 @@ For large groups arriving together, rideshares work fine. Dropping 15–20 peopl
 
 ## Where to Stay for a Tremé-Centered Visit
 
-The best home base for exploring Tremé is the Bywater or Marigny — both put you walking distance from the neighborhood.
+The best home base for exploring Tremé is the Bywater or Marigny — both put you walking distance from the neighborhood. Castleday Retreats' Bywater villas put a group a 15-minute walk from Congo Square and the Backstreet Cultural Museum, which makes Tremé the closest cultural destination if the trip is organized around music and neighborhood history. The Syd, in the Lower Garden District, is a streetcar-and-short-rideshare away instead — a fine option if the group's center of gravity is elsewhere in the city and Tremé is one stop among several rather than the anchor.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, art-filled interiors, full kitchens. You're a 15-minute walk from Congo Square and the Backstreet Cultural Museum. If your trip is organized around New Orleans culture — music, neighborhood exploration, second lines — Castleday's location in the Bywater makes Tremé your closest cultural destination.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. From The Syd, take the streetcar to Canal Street and walk or rideshare into Tremé — an easy 15-minute trip. The Syd's location puts you more centrally positioned for the whole city, with Tremé fully accessible.
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 ---
 

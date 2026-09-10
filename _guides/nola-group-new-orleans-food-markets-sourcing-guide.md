@@ -3,11 +3,11 @@ title: "New Orleans Food Markets and Villa Cooking Sourcing Guide for Groups"
 description: "Full sourcing guide for groups cooking at the villa: Rouses vs. Whole Foods vs. Winn-Dixie vs. the farmers market, what to buy where, and which ingredients to source locally vs. stock from home."
 category: "Villa Life"
 card_title: "Food Markets & Sourcing"
-card_description: "Rouses, the farmers market, Winn-Dixie, the French Market. Where to source every ingredient for cooking at the villa for groups of 15-30."
-date: 2026-06-19
+card_description: "Rouses, the farmers market, Winn-Dixie, the French Market. Where to source every ingredient for cooking at the villa when the whole crew is eating in."
+date: 2026-09-10
 ---
 
-Cooking for 15-30 people at a New Orleans villa is one of the highlights of a group trip — if you do the sourcing right. It's also the thing that derails the first morning when someone goes to the nearest grocery store without a plan and comes back with four bags of chips and no andouille.
+Cooking for the whole crew at a New Orleans villa is one of the highlights of a group trip — if you do the sourcing right. It's also the thing that derails the first morning when someone goes to the nearest grocery store without a plan and comes back with four bags of chips and no andouille. The [group grocery cooking guide](/guides/group-grocery-cooking-guide/) covers the logistics side of that run — who shops, who pays, how the list gets made. This is the sourcing side: where in New Orleans to actually buy each thing.
 
 New Orleans has a specific food sourcing landscape. The grocery store options are genuinely different from each other in ways that matter. The farmers market and the French Market are not the same thing and serve different purposes. Some ingredients are better sourced locally than brought from home; others are worth getting at your local specialty store before you fly.
 
@@ -115,7 +115,7 @@ This is the best food market in New Orleans and the highest-quality sourcing opt
 | Bread | Artisan loaves from local bakers | Worth it for a villa dinner or a quality breakfast |
 | Honey and specialty pantry | Local honey, cane syrup, Louisiana-made items | Bring home anything that fits your luggage |
 
-**Logistics for a group of 15-30:**
+**Logistics for the whole crew:**
 
 Bring reusable bags. Go early — Saturday morning is crowded and the best vendors sell out. Bring cash (most vendors accept cards too, but cash is faster). Split up: send 2-3 people to the market with a specific shopping list while the rest of the group handles villa breakfast or coffee.
 
@@ -205,13 +205,15 @@ St. Roch Market is an indoor food hall in the St. Roch neighborhood with individ
 
 ## Planning the Villa Dinner Around Local Sources
 
-For a group planning a significant villa dinner — red beans and rice on Monday (the traditional Louisiana day for it), a crawfish boil, jambalaya for 25 — here's the sourcing order:
+For a group planning a significant villa dinner — [red beans and rice on Monday](/guides/nola-group-red-beans-and-rice-monday-guide/) (the traditional Louisiana day for it), a [crawfish boil](/guides/nola-crawfish-boil-guide/), a big jambalaya — here's the sourcing order:
 
 1. **Decide the menu** before anyone shops. Don't source speculatively.
 2. **Order specialty proteins in advance** where possible: crawfish for a boil, a whole hog order if that's happening, large quantities of andouille.
 3. **Make the Rouses run on arrival day** for pantry staples, sausage, and packaged items.
 4. **Do the farmers market run** the morning of a significant dinner for fresh produce, fresh seafood, and bread.
 5. **Buy the bread the day of:** French bread goes stale by the next morning. Same-day purchase only.
+
+If cooking for the whole group starts to feel like a second job instead of a fun night, the [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) covers when it's worth handing one dinner off to a professional instead.
 
 ---
 
@@ -235,15 +237,8 @@ For a group planning a significant villa dinner — red beans and rice on Monday
 
 ## The Villas That Have the Kitchen for This
 
-Group villa cooking only works if the kitchen is actually equipped for 15-30 people. This means a full-size refrigerator (at minimum), counter space for prep, a stove with enough burners to run two pots simultaneously, and outdoor space to set up the crawfish boil operation if that's happening.
+Group villa cooking only works if the kitchen is actually equipped for the whole crew. This means a full-size refrigerator (at minimum), counter space for prep, a stove with enough burners to run two pots simultaneously, and outdoor space to set up the crawfish boil operation if that's happening.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14-30 guests. Castleday's full villa kitchens are equipped for group cooking: full-size appliances, counter space, and the kind of setup that supports an actual jambalaya for 20 rather than just a microwave reheating operation. The outdoor courtyard and private pool area at each villa support the crawfish boil or the grill setup that can't happen inside. The Bywater location puts the group within easy reach of the Marigny and the Crescent City Farmers Market pickup route.
+That rules out plenty of listings before you even get to location. Heirloom's large-format homes across the Lower Garden District and Central City generally have the full kitchen and counter space this kind of cooking needs, and the inventory is deep enough to find one on shorter notice. The Natchez Vacation Rentals and The Revelry both put groups in apartment-style units around a shared pool, which works for the boil-and-hang-out version of the evening even when the cooking itself happens in one unit's kitchen. Whatever the property, confirm the kitchen and outdoor space before you commit to a menu that assumes it.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with shared outdoor kitchen facilities that are genuinely designed for group cooking at scale. The Syd's outdoor kitchen adjacent to the shared pool area is where a 25-person crawfish boil makes sense — the outdoor burner setup, the hose access, the table space. The Magazine Street corridor is walkable for last-minute grocery runs at stores you'll pass along the way.
-
----
-
-## Stock the Villa Right
-
-- Castleday Retreats — Bywater private villas, 14-30 guests, full kitchens, private pools, 4.98 stars
-- The Syd — Lower Garden District villas, up to 22 guests, outdoor kitchen, shared heated pool
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
