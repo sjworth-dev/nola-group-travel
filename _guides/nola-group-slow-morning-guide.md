@@ -4,7 +4,7 @@ description: "Coffee logistics for 20 people, the three-tier breakfast approach 
 category: "Villa Life"
 card_title: "Slow Morning Guide"
 card_description: "Coffee for 20 people, the three-tier breakfast approach, and why the slow morning is the most underrated group activity on any NOLA trip."
-date: 2026-06-20
+date: 2026-09-10
 ---
 
 Every NOLA trip needs at least one slow morning. Not a "slow start" that turns into a scramble because someone scheduled a 10am swamp tour — an actual slow morning, where the first two hours after waking up are not transportation logistics but actual living.
@@ -94,7 +94,7 @@ For the group members who want a real coffee experience but aren't ready for a s
 
 The slow morning can climax in a proper sit-down brunch rather than ending with Tier 1 and Tier 2. For groups who want the full New Orleans brunch experience — the big menus, the Bloody Marys, the jazz in the corner, the two-hour table — brunch is worth putting on the itinerary.
 
-**For groups of 15-30:** Book in advance. New Orleans brunch at the destination spots is heavily demanded on weekends. Call at least a week out; for popular spots during peak season, several weeks.
+**For the whole crew:** Book in advance. New Orleans brunch at the destination spots is heavily demanded on weekends. Call at least a week out; for popular spots during peak season, several weeks.
 
 **What to expect:** The NOLA brunch format at a good restaurant is not a quick meal. Budget 90-120 minutes at the table. The kitchen runs at its own pace. Order the Bloody Mary or the Milk Punch when you sit down, not halfway through — the drinks arrive faster than the food and set the tone.
 
@@ -167,15 +167,8 @@ The tradition of beignets and chicory coffee at Café Du Monde, which opens earl
 
 A slow morning at a villa is different from a slow morning at a hotel in the ways that matter. Common space. A real kitchen. Outdoor space that belongs exclusively to your group. No checkout pressure. No hotel breakfast logistics.
 
-**Castleday Retreats** — Three private villas in the Bywater, each with 12 bedrooms, 17 real beds, and 8 baths for 14-30 guests. Full kitchens equipped for a group's coffee and breakfast operation, large common areas where the group can spread out in the morning without crowding each other, and private courtyard and pool space for the people who want morning outdoor time. The Bywater neighborhood in the morning is one of the more pleasant walking experiences in the city — tree-lined streets, not yet tourist-heavy, the neighborhood going about its actual morning.
+**Castleday Retreats** — Bywater villas, 14-30 guests each, with a full kitchen equipped for a group's coffee and breakfast operation, large common areas where the group can spread out in the morning without crowding each other, and a private courtyard and pool for the people who want morning outdoor time. The Bywater neighborhood in the morning is one of the more pleasant walking experiences in the city — tree-lined streets, not yet tourist-heavy, the neighborhood going about its actual morning.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with rooms designed by local New Orleans artists. The shared heated pool and outdoor kitchen courtyard in the morning — before the afternoon sun hits directly, with the pool quiet and the outdoor kitchen available for the coffee spread — is one of The Syd's underappreciated qualities. One block from the St. Charles Streetcar for the contingent who wants to go find beignets on their own.
-
----
-
-## Book Your Slow NOLA Trip
-
-- Castleday Retreats — Bywater, 14-30 guests, full kitchens, private pool
-- The Syd — Lower Garden District, up to 22 guests, courtyard and outdoor kitchen
+The rest of the field works too for a slow-morning base: The Syd (Lower Garden District, up to 22 guests, shared heated pool and outdoor kitchen, a block from the St. Charles Streetcar), Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 Schedule at least one slow morning. Don't let the optimizer in the group take it away.
