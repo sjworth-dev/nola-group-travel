@@ -1,10 +1,10 @@
 ---
 title: "The French Quarter After Dark for Large Groups"
-description: "The French Quarter at night for groups of 15-30: the three-act structure, which bars have capacity for a large group, the courtyard bars everyone misses, and how to move 20 people through the Quarter without losing them at the Tropical Isle."
+description: "The French Quarter at night for a big group: the three-act plan, which bars actually hold a crowd, and how to keep everyone together past Bourbon Street."
 category: "Nightlife & Music"
 card_title: "French Quarter After Dark"
-card_description: "How to do the French Quarter at night with 15-30 people: which bars work, which to skip, and the three-act structure that ends on Frenchmen Street."
-date: 2026-06-20
+card_description: "How to do the French Quarter at night with a big group: which bars work, which to skip, and the three-act structure that ends on Frenchmen Street."
+date: 2026-09-10
 ---
 
 Every group that comes to New Orleans ends up in the French Quarter at night at least once. What separates the groups that have a good time from the groups that spend 45 minutes on Bourbon Street, lose three people, and end up eating mediocre food at 1am is a plan.
@@ -25,7 +25,7 @@ This guide gives you that framework.
 - [ ] Establish the Frenchmen Street option before midnight — if the Quarter loses the room, Frenchmen is the move
 - [ ] Pick your fallback meeting spot in advance — a specific corner, a specific bar entrance, somewhere fixed and known to everyone
 - [ ] Carry a fully charged phone — the group coordination in the Quarter is entirely phone-dependent
-- [ ] Know which bars have walk-around cups before you buy — anything from Café Du Monde to your frozen daiquiri stays in the cup on the street
+- [ ] Know which bars have walk-around cups before you buy — anything from Café Du Monde to your frozen daiquiri stays in the cup on the street (see the [open container law guide](/guides/nola-group-open-container-law-guide/) for the actual rules)
 
 ---
 
@@ -97,7 +97,7 @@ By 11pm, the group has done the Bourbon lap and the courtyard sequence. Now the 
 - It's before 1am (Frenchmen is at its best from 11pm to 1:30am)
 - The group has energy left
 
-Frenchmen Street is 10-15 minutes from the heart of the Quarter by foot or a 5-minute rideshare. It's technically in the Marigny, not the Quarter, but from a night-out-planning perspective it's the natural continuation of the Quarter evening.
+Frenchmen Street is 10-15 minutes from the heart of the Quarter by foot or a 5-minute rideshare. It's technically in the [Marigny](/neighborhoods/marigny/), not the Quarter, but from a night-out-planning perspective it's the natural continuation of the Quarter evening.
 
 The Frenchmen Street move should be decided at Act Two, not debated at 11:15pm on a sidewalk. Pre-decide before the evening starts: "We're going to Frenchmen around 11." Then go.
 
@@ -145,7 +145,7 @@ For a 3-hour Quarter evening, a group check-in at Act transitions works: "Everyo
 
 ## The Frenchmen Street Exit
 
-Frenchmen Street is three blocks — Frenchmen Street itself from Chartres to Royal in the Marigny — with live music venues packed side by side. It's what people imagine when they imagine New Orleans nightlife: a brass band spilling out of one venue, jazz quartet at the next, blues at the bar after that. No cover at most venues. Walk-around cups on the street.
+Frenchmen Street is three blocks — Frenchmen Street itself from Chartres to Royal in the Marigny — with live music venues packed side by side. It's what people imagine when they imagine New Orleans nightlife: a brass band spilling out of one venue, jazz quartet at the next, blues at the bar after that. No cover at most venues. Walk-around cups on the street. If the group would rather stay inside the Quarter for the music instead, the [French Quarter late-night jazz club guide](/guides/nola-group-french-quarter-jazz-club-late-night-guide/) covers that version of the night.
 
 For a group of 20, Frenchmen works best if you arrive before midnight. The street itself holds groups well because it's outdoors and the crowd flows between venues. The venues are small — fitting 20 people inside is tight at peak — but the Frenchmen experience is mostly on the street.
 
@@ -170,7 +170,7 @@ At the end of the evening — midnight to 2am — the group needs to get back to
 
 **The clean approach:**
 
-Pre-book your departure window. If you have a charter van or a driver, set a pick-up time at a fixed spot — the corner of Decatur and Canal is a consistent, spacious pick-up point. The group reconvenes there by whatever time you've set (1am, 1:30am, 2am) and the vehicle is waiting.
+Pre-book your departure window. If you have a [charter van or a driver](/guides/nola-group-charter-bus-guide/), set a pick-up time at a fixed spot — the corner of Decatur and Canal is a consistent, spacious pick-up point. The group reconvenes there by whatever time you've set (1am, 1:30am, 2am) and the vehicle is waiting.
 
 If you're using rideshare, split into sub-groups of 4-5, each calling their own vehicle simultaneously from the same block. This is faster than one giant call and the 15-minute separation between departure times becomes 5 minutes.
 
@@ -202,17 +202,6 @@ If you're using rideshare, split into sub-groups of 4-5, each calling their own 
 
 ## Where You're Staying Makes the Quarter More Manageable
 
-The best French Quarter nights happen when the group has a proper base to return to — somewhere they can grab a drink before going out, change and freshen up mid-evening, and decompress after the night ends without dealing with hotel lobbies or split rooms across multiple floors.
+The best French Quarter nights happen when the group has a proper base to return to — somewhere to grab a drink before going out, freshen up mid-evening, and decompress after the night ends without dealing with a hotel lobby or split rooms across multiple floors.
 
-**Castleday Retreats** — Three private villas in the Bywater, a 10-15 minute rideshare from the heart of the French Quarter. The Bywater location puts the group in a neighborhood that connects naturally to the Marigny and the Frenchmen Street end-of-night option. Return to the villa after Frenchmen, pool is open, kitchen is stocked, the night continues or winds down on the group's terms. 14-30 guests per villa, private pools, full kitchens, 12 BR / 17 real beds.
-
-**The Syd** — Multiple villas in the Lower Garden District, one block from the St. Charles Streetcar. The streetcar runs to Canal Street and puts the group at the edge of the Quarter in 15-20 minutes without rideshare cost. The shared courtyard — heated pool, hot tub, outdoor kitchen — is the debrief space after the Quarter night. Up to 22 guests per villa, local artist-designed interiors.
-
-Both properties give the group a home base that is meaningfully better than a hotel room floor as the French Quarter social debrief location.
-
----
-
-## Plan Your French Quarter Evening
-
-- Castleday Retreats — Bywater villas, 10-15 minutes from the Quarter, private pools, 14-30 guests
-- The Syd — Lower Garden District, streetcar to Canal Street, up to 22 guests, shared pool and hot tub
+Bywater villa operators like Castleday Retreats sit closest to the Frenchmen Street end of the night; a Lower Garden District base near the St. Charles Streetcar line (The Syd is one option in that pocket, Heirloom's deeper inventory in LGD/Central City is another) rides the streetcar to Canal Street and the edge of the Quarter without rideshare cost. Apartment-style stays like The Natchez Vacation Rentals or The Revelry work well if the group wants separate billing and its own pool to come back to, and a hotel room block (The Roosevelt, Hotel Peter & Paul) is the move for mixed budgets or anyone who'd rather book by the room. For what actually fits your group's size and budget, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
