@@ -1,17 +1,17 @@
 ---
 title: "Mardi Gras Parade Season Calendar for Large Groups in New Orleans"
-description: "The full Mardi Gras parade season for groups of 15-30: which parades to prioritize across the two-week calendar, family-friendly vs. wild night parades, and how to structure a 3-day Carnival trip that isn't just Fat Tuesday."
+description: "The full Mardi Gras parade season for the whole crew: which parades to prioritize, family-friendly vs. wild nights, and how to structure a 3-day Carnival trip."
 category: "Festivals & Events"
 card_title: "Mardi Gras Parade Season Calendar"
 card_description: "The full two-week parade calendar, not just Fat Tuesday. Which parades to prioritize for groups, family-friendly vs. wild nights, and the 3-day structure that gets the most out of Carnival season."
-date: 2026-06-24
+date: 2026-09-10
 ---
 
 Most people think Mardi Gras is a day. New Orleanians know it is a season — a two-week escalation that begins with walking parades in January and peaks at midnight on Fat Tuesday before the city goes quiet for Ash Wednesday.
 
-If you are bringing a group of 15-30 people to New Orleans for Mardi Gras, the single biggest planning mistake is designing the trip around Fat Tuesday alone. Fat Tuesday has the most crowds, the worst traffic, the most logistical friction, and the fewest restaurant reservations available. The parades before it — particularly the long weekend ten to fourteen days before Fat Tuesday — are often better for groups, more accessible, and in some ways more authentically Carnival.
+If you are bringing a big group to New Orleans for Mardi Gras, the single biggest planning mistake is designing the trip around Fat Tuesday alone. Fat Tuesday has the most crowds, the worst traffic, the most logistical friction, and the fewest restaurant reservations available. The parades before it — particularly the long weekend ten to fourteen days before Fat Tuesday — are often better for groups, more accessible, and in some ways more authentically Carnival.
 
-This guide is the full calendar brief: what rolls when, what to prioritize, which parades work for groups and which do not, and how to build a 3-day Mardi Gras trip that actually delivers the season.
+This guide is the full calendar brief: what rolls when, what to prioritize, which parades work for groups and which do not, and how to build a 3-day Mardi Gras trip that actually delivers the season. For the broader trip framework — logistics, lodging, and the day-by-day beyond the parade calendar — see the [Mardi Gras group guide](/guides/mardi-gras-group-guide/).
 
 ---
 
@@ -19,7 +19,7 @@ This guide is the full calendar brief: what rolls when, what to prioritize, whic
 
 - [ ] Confirm your trip dates relative to Fat Tuesday — not relative to a calendar date (Fat Tuesday moves each year between early February and early March)
 - [ ] If booking for parade weekends, understand that the final weekend before Fat Tuesday (usually Thursday through Sunday) is the peak accommodation crunch, second only to Fat Tuesday itself
-- [ ] Book villa accommodation 12-14 months in advance for any Mardi Gras-week trip
+- [ ] Book villa accommodation as early as you can for Mardi Gras week — for the largest selection, book 6+ months out
 - [ ] Assign one person in the group to monitor the official parade schedule — dates and routes are confirmed by the city weeks before the season
 - [ ] Decide the trip's intent: full season experience (weekend + weekday parades), or concentrated Fat Tuesday weekend (Thursday arrival through Wednesday departure)
 - [ ] For groups with mixed energy levels, the pre-Fat Tuesday weekend is the better call — more accessible, same parade quality, significantly less crowd
@@ -49,7 +49,7 @@ Typical structure:
 - **Daytime parades:** Family-focused krewes, earlier start times, routes that allow for comfortable viewing from the St. Charles neutral ground
 - **Nighttime parades:** Larger krewes with elaborate floats, flambeau carriers (torch carriers who light the parade route at night and accept tips), and the specific energy of a parade after dark
 
-**For groups of 15-30:** This weekend is often the best target of the season. Accommodation is available (though still books quickly), the parades are legitimate, and the group has room to move and breathe in ways that the final weekend does not allow.
+**For the whole crew:** This weekend is often the best target of the season. Accommodation is available (though still books quickly), the parades are legitimate, and the group has room to move and breathe in ways that the final weekend does not allow.
 
 ### Phase 3: The Final Weekend (Thursday through Sunday before Fat Tuesday)
 
@@ -69,7 +69,7 @@ The Thursday and Friday night parades of the final weekend are the sweet spot fo
 
 **Krewe of Endymion** rolls on the Saturday before Fat Tuesday and is one of the largest parades in the world by float and rider count. The crowd for Endymion is massive. Groups that want to watch Endymion need a viewing position established two to three hours before the parade.
 
-**Krewe of Orpheus** rolls on Lundi Gras (the Monday before Fat Tuesday). This is the parade Harry Connick Jr. founded, and it is consistently one of the best parades of the season for groups — large, accessible, and on a day when the overall crowd is building but hasn't peaked the way it will on Tuesday.
+**Krewe of Orpheus** rolls on Lundi Gras (the Monday before Fat Tuesday). This is the parade Harry Connick Jr. founded, and it is consistently one of the best parades of the season for groups — large, accessible, and on a day when the overall crowd is building but hasn't peaked the way it will on Tuesday. If watching from the neutral ground has your group wondering what it's like to actually ride, the [krewe membership guide](/guides/nola-group-krewe-membership-guide/) covers how joining one works.
 
 ### Phase 4: Fat Tuesday
 
@@ -151,7 +151,7 @@ This is the framework for a group arriving Thursday and leaving Sunday, targetin
 
 ## Throws: What You're Actually Catching
 
-The throw culture is specific to New Orleans and the Mardi Gras season, and groups should understand what they are catching before they start catching it.
+The throw culture is specific to New Orleans and the Mardi Gras season, and groups should understand what they are catching before they start catching it — the [bead-throwing etiquette guide](/guides/nola-group-bead-throwing-etiquette-guide/) covers the unwritten rules in more depth.
 
 **Beads:** The dominant throw. By the end of the week, everyone has more beads than they want. The beads have value during the parade — catching them is part of the experience — and very little value after it. Wear them while you are on the route and leave them at the villa when you go home.
 
@@ -177,11 +177,11 @@ The throw culture is specific to New Orleans and the Mardi Gras season, and grou
 
 ## Pro Tips
 
-1. **The final weekend before Fat Tuesday books out 12-14 months in advance for good accommodation.** If you are reading this guide and the trip is six months away, your options for that weekend are already limited. The first big weekend two weeks before Fat Tuesday has good parades with significantly better accommodation availability.
+1. **The final weekend before Fat Tuesday books out fast.** For the largest selection, book 6+ months out — and if the trip is closer than that, the first big weekend two weeks before Fat Tuesday has good parades with significantly better accommodation availability.
 
 2. **The flambeau carriers at night parades accept tips.** These are the torch carriers who light the parade route — a tradition dating to before street lighting, kept alive as one of the most beautiful elements of a New Orleans night parade. Tip them in cash. They are part of the parade experience, not background.
 
-3. **Costume cohesion for groups is a logistics tool, not just an aesthetic one.** A group of 20 in matching or coordinating costumes can find each other in a crowd in ways that 20 people in street clothes cannot. Coordinate colors, heights of headwear, or a single consistent element — and photograph the whole group before you leave the villa, because the costumes will not be in the same condition when you return.
+3. **Costume cohesion for groups is a logistics tool, not just an aesthetic one.** A group of 20 in matching or coordinating costumes can find each other in a crowd in ways that 20 people in street clothes cannot. Coordinate colors, heights of headwear, or a single consistent element — and photograph the whole group before you leave the villa, because the costumes will not be in the same condition when you return. The [Mardi Gras costume guide](/guides/nola-group-mardi-gras-costume-guide/) has the actual sourcing and coordination playbook.
 
 4. **The throws accumulate.** By day two, everyone in the group has more beads than they brought bags for. Designate a throw collection bag at the villa — a laundry bag or a cardboard box — and leave the extra beads there each night rather than carrying a day's worth of throws into the next day's parade.
 
@@ -197,8 +197,8 @@ The throw culture is specific to New Orleans and the Mardi Gras season, and grou
 
 The accommodation decision for Mardi Gras season is a different conversation than any other time of year in New Orleans. The city operates at or near full occupancy during the final weekend and on Fat Tuesday. Hotels at every price point are at maximum rates. Accommodation with a private outdoor space — a courtyard, a pool, a kitchen — becomes even more valuable during Mardi Gras because the street-level experience is at maximum saturation and the villa is the only calm.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. For Mardi Gras, the Bywater location provides a quieter neighborhood base that is close enough to the action — Frenchmen Street is a 15-minute walk, the French Quarter is reachable without going through the worst of the crowd — while giving the group a private courtyard and pool to return to when the streets are saturated. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Bywater villas, 14–30 guests each with a private pool. For Mardi Gras, the Bywater location provides a quieter neighborhood base that is close enough to the action — Frenchmen Street is a 15-minute walk, the French Quarter is reachable without going through the worst of the crowd — while giving the group a private courtyard and pool to return to when the streets are saturated.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. For parade season specifically, the Lower Garden District location is one of the better positions in the city: directly adjacent to the St. Charles parade route, meaning the group can walk to the neutral ground in minutes rather than navigating the transit logistics that plague groups staying in the Quarter or the CBD.
+**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool and hot tub. For parade season specifically, the Lower Garden District location is one of the better positions in the city: directly adjacent to the St. Charles parade route, meaning the group can walk to the neutral ground in minutes rather than navigating the transit logistics that plague groups staying in the Quarter or the CBD. The rest of the field — Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez, or a hotel room block for mixed budgets — works too; see the full rundown for what fits your group.
 
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — for the largest selection, book 6+ months out.
