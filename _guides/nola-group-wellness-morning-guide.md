@@ -4,7 +4,7 @@ description: "Yoga on the lawn, group meditation, cold plunge vs. pool, smoothie
 category: "Planning & Logistics"
 card_title: "Villa Wellness Morning Guide"
 card_description: "How to run a structured wellness morning at the villa — yoga on the lawn, cold plunge, smoothie bar, and the real case for a 7am session when your group was out until 2am."
-date: 2026-06-22
+date: 2026-09-11
 ---
 
 You want to run a wellness morning on a NOLA group trip. Half the group was out until 2am. One person is openly skeptical. Three people said "yes" to everything when the trip was being planned and are now noncommittal at 11pm the night before.
@@ -13,7 +13,7 @@ This is the normal situation. Do it anyway. Here's why, and here's how.
 
 The case for a structured wellness morning isn't purity or discipline. It's that the groups that start day two (or day three) with a structured morning rather than an unstructured sleep-in consistently report better energy for the afternoon and evening than groups that free-float until noon. The morning isn't a sacrifice for the late-night crowd — it's the infrastructure that makes the late night possible the following evening.
 
-Not everyone will participate. That's fine. You're not running a wellness retreat; you're offering an anchor for the people who want it. The goal is to create an optional structure that enough of the group engages with to make it worth doing.
+Not everyone will participate. That's fine. You're not running a wellness retreat; you're offering an anchor for the people who want it. The goal is to create an optional structure that enough of the group engages with to make it worth doing. If a full session feels like too much, the [slow morning guide](/guides/nola-group-slow-morning-guide/) covers the lower-effort version of the same idea.
 
 ---
 
@@ -82,7 +82,7 @@ Get the coffee going before anyone else is awake. Set out cups, a creamer situat
 
 **Facilitator options:**
 
-*Instructor-led (recommended):* A yoga instructor coming to the villa typically costs in the range of $150-250 for a private group session. For a group of 15-25, this is minimal per-person and removes the "who leads" problem entirely. Good instructors read the room — they know when they have a post-Mardi-Gras group and will adjust accordingly. Book through a local studio or search specifically for "mobile yoga" or "private group yoga" in New Orleans.
+*Instructor-led (recommended):* A yoga instructor coming to the villa typically costs in the range of $150-250 for a private group session. Split across the whole crew, this is minimal per-person and removes the "who leads" problem entirely. Good instructors read the room — they know when they have a post-Mardi-Gras group and will adjust accordingly. Book through a local studio or search specifically for "mobile yoga" or "private group yoga" in New Orleans — the [villa morning yoga guide](/guides/nola-group-villa-morning-yoga-guide/) goes deeper on booking and sequencing.
 
 *Group member-led:* If someone in the group is an actual yoga teacher or confident practitioner and they're willing, this works fine. The key word is willing — don't draft someone into leading a session they didn't volunteer for.
 
@@ -104,12 +104,12 @@ If your group is genuinely interested in cold exposure and the villa doesn't hav
 - **Cold shower:** Every villa bathroom has a shower that goes cold. Inelegant but physiologically effective.
 - **Ice bath setup:** For a group that's serious about it, a rental barrel or stock tank with bagged ice can be sourced and set up in the villa's outdoor area. This is a genuine setup, not a casual suggestion — if you're doing this, source the ice and the vessel the afternoon before.
 
-**What most people actually do:** 5-10 minutes in the pool, however cool it is. Morning pool time after movement is grounding and pleasant. The cold exposure science is secondary to the fact that people come out of it feeling better than they went in.
+**What most people actually do:** 5-10 minutes in the pool, however cool it is. Morning pool time after movement is grounding and pleasant. The cold exposure science is secondary to the fact that people come out of it feeling better than they went in. Save the full [villa pool party guide](/guides/villa-pool-party-guide/) treatment for later in the day — the morning pool is a quiet reset, not a scene.
 
 ### Part Four: Smoothie Bar (8:15–9:00am)
 This is the crowd-pleaser. Even people who skipped the yoga will show up for the smoothie bar.
 
-**Setup:** A table in the kitchen or outdoor kitchen with blenders, ingredients, and cups. Self-serve is fine; smoothie-bar-as-activity (people make their own) is also good.
+**Setup:** A table in the kitchen or outdoor kitchen with blenders, ingredients, and cups. Self-serve is fine; smoothie-bar-as-activity (people make their own) is also good. The [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers sourcing fresh produce at scale if the smoothie bar is your first real kitchen logistics test of the trip.
 
 **The NOLA morning smoothie menu — source everything the afternoon before:**
 
@@ -176,27 +176,8 @@ The structural gift of the wellness morning is that it creates a gathering point
 
 ## Large Group Accommodation for Wellness Mornings
 
-A wellness morning at scale requires specific infrastructure: outdoor space for movement, a kitchen capable of running a smoothie bar, a pool for the cold plunge phase, and enough common area for the group to gather communally without crowding.
+A wellness morning at scale requires specific infrastructure: outdoor space for movement, a kitchen capable of running a smoothie bar, a pool for the cold plunge phase, and enough common area for the group to gather communally without crowding. Castleday Retreats' Bywater villas and The Syd's Lower Garden District villas both have private pools and full kitchens built for this; Heirloom's larger inventory across LGD and Central City is worth checking if you need more room to spread mats on the lawn. See [hotel vs. villa](/guides/hotel-vs-villa-guide/) if the group is weighing a hotel block instead — a shared pool deck works for a wellness morning too, just with less privacy. For the largest selection, book 6+ months out.
 
-### Castleday Retreats
-
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with private pools, outdoor spaces, and full kitchens. The lawn and pool areas at these villas are designed for exactly this use: morning yoga on the grass, pool for the post-movement session, the kitchen handling the smoothie bar.
-
-For wellness-focused groups, the private pool is not a luxury — it's the infrastructure that makes the cold plunge and post-movement pool session work without coordination overhead or public space logistics. 12 bedrooms, 17 real beds, 8 baths per villa, accommodating 14-30 guests. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, up to 22 guests per villa. The shared amenity stack at The Syd — heated pool, hot tub, sauna, outdoor kitchen — is purpose-built for wellness mornings. The sauna is a legitimate recovery tool that most group villas don't offer. A 20-minute sauna session post-yoga, followed by a cool pool dip, is a full contrast therapy protocol that doesn't require leaving the property.
-
-The outdoor kitchen means smoothie bar setup doesn't compete with the main kitchen for counter space. Every room designed by a local New Orleans artist — the environment of the morning matters, and waking up in a room with intentional design makes the sunrise feel like it was curated.
-
----
-
-## Set Up Your Wellness Morning Right
-
-The right villa is the one with the right outdoor infrastructure for what you're planning. Both properties deliver it.
-
-- **Castleday Retreats** — Bywater, 3 private villas, private pools and lawns, 14-30 guests per villa, 4.98-star average
-- **The Syd** — Lower Garden District, heated pool + hot tub + sauna + outdoor kitchen, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
 
 The group that hits their third late night and then recovers with a structured morning is the group that still has energy on day four. Set up the infrastructure for that recovery.

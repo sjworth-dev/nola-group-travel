@@ -1,17 +1,17 @@
 ---
 title: "Vinyl Record Hunting in New Orleans: Crate Digging for Large Groups"
-description: "The neighborhoods with the best record stores, how to structure a group dig without everyone buying the same five records, and why a record crawl makes an unexpectedly great group afternoon activity for 10-30 people."
+description: "The neighborhoods with the best record stores, how to structure a group dig without everyone buying the same five records, and why a record crawl makes an unexpectedly great group afternoon activity."
 category: "Activities & Day Trips"
 card_title: "NOLA Vinyl Record Hunting"
 card_description: "Crate digging in New Orleans for large groups: the neighborhoods worth hitting, how to structure a record crawl without losing the group, and why this makes a surprisingly good afternoon activity."
-date: 2026-06-22
+date: 2026-09-11
 ---
 
 New Orleans is one of the best record cities in the country. That's not hype — it's geography and culture. The music that originated here (jazz, blues, R&B, funk, soul, brass band) has been on vinyl since vinyl was invented. The city has continuous record culture going back 80 years, which means thrift stores, estate sales, and specialist shops have an inventory depth that cities without that musical history don't have.
 
 For a large group, record hunting is an underused afternoon. It works because it has natural structure without requiring everyone to be doing the same thing at the same time. It's inherently social — you share finds, you debate, you play DJ when you get back to the villa. It's cheap to free. And it produces something you actually bring home.
 
-Here's how to run a record crawl for a group of 10-30.
+Here's how to run a record crawl for the whole crew.
 
 ---
 
@@ -41,20 +41,20 @@ It also has a clear narrative arc: you go out, you look, you find (or don't), yo
 ## The Neighborhoods
 
 ### Frenchmen Street / Marigny
-The Marigny is the most music-saturated neighborhood in New Orleans, and the record stores reflect it. The density of jazz, blues, and local New Orleans music is highest here. The stores in and around Frenchmen Street tend to specialize in exactly the genres that are native to the city, which makes them the right starting point for groups who want a specifically New Orleans dig.
+The [Marigny](/neighborhoods/marigny/) is the most music-saturated neighborhood in New Orleans, and the record stores reflect it. The density of jazz, blues, and local New Orleans music is highest here. The stores in and around Frenchmen Street tend to specialize in exactly the genres that are native to the city, which makes them the right starting point for groups who want a specifically New Orleans dig.
 
 The walk from store to store in this area is pleasant — you're in the neighborhood where the music actually happens, passing the clubs and bars that will be active again in the evening. The crawl through the Marigny naturally transitions into the early Frenchmen Street window if you time it right.
 
 ### Mid-City
-Mid-City has a different character. The stores here tend to run more general — broader inventory, more genres, often better prices, more random finds. Groups looking for classic rock, 70s soul, or just good general digging often find Mid-City stores more productive than the more specialist Marigny shops.
+[Mid-City](/neighborhoods/mid-city-deep-dive/) has a different character. The stores here tend to run more general — broader inventory, more genres, often better prices, more random finds. Groups looking for classic rock, 70s soul, or just good general digging often find Mid-City stores more productive than the more specialist Marigny shops.
 
 The tradeoff: Mid-City requires a rideshare or the Canal Street bus from most accommodations. It's not a walk from the French Quarter or the Bywater. Factor 15-20 minutes transit each direction.
 
 ### The Bywater / St. Claude Corridor
-The St. Claude Arts District and the Bywater have a small number of stores but the finds can be exceptional. The vintage culture along this corridor means estate-sale and thrift-adjacent inventory turns up in places you wouldn't expect. Not the most concentrated record shopping area in the city, but if you're already staying in the Bywater, a morning walk down St. Claude before heading elsewhere is worth the time.
+The St. Claude Arts District and the [Bywater](/neighborhoods/bywater-deep-dive/) have a small number of stores but the finds can be exceptional. The vintage culture along this corridor means estate-sale and thrift-adjacent inventory turns up in places you wouldn't expect. Not the most concentrated record shopping area in the city, but if you're already staying in the Bywater, a morning walk down St. Claude before heading elsewhere is worth the time.
 
 ### Uptown / Prytania Area
-Uptown has shops with more eclectic, often better-curated inventory at higher price points. Groups looking for specific things — particular artists, particular genres, higher-quality pressings — will find it worth the trip. The magazine strip adjacent to these stores means there's plenty to do before and after for people who aren't record collectors.
+[Uptown](/neighborhoods/uptown/) has shops with more eclectic, often better-curated inventory at higher price points. Groups looking for specific things — particular artists, particular genres, higher-quality pressings — will find it worth the trip. The magazine strip adjacent to these stores means there's plenty to do before and after for people who aren't record collectors.
 
 ---
 
@@ -121,7 +121,7 @@ Not everyone in a group of 20 is a record collector. Some people have never boug
 
 The role for non-collectors: browsing with purpose. Tell them: "Look for the wildest cover art in the bin." Or: "Find the most NOLA-specific artist name you can." Or: "Find something that costs under $5 and has the best story." These prompts turn a non-collector into an active participant with a defined mission rather than a person standing around while everyone else digs.
 
-The person who finds a 1963 B-side of an artist no one has heard of for $3 and brings it back to the villa for the turntable test is having as good an afternoon as the serious collector who adds a graded pressing to their want list.
+The person who finds a 1963 B-side of an artist no one has heard of for $3 and brings it back to the villa for the turntable test is having as good an afternoon as the serious collector who adds a graded pressing to their want list. Groups that like this kind of unstructured browsing afternoon often pair it with the [bookshop and literary crawl](/guides/nola-group-bookshop-literary-tour-guide/) — same low-key, disperse-and-reconvene structure, different bins.
 
 ---
 
@@ -169,29 +169,8 @@ Three years later, someone pulls out a $4 New Orleans R&B record they found on F
 
 ## Large Group Accommodation for a Record-Oriented Trip
 
-A group that comes home from an afternoon crate dig wants somewhere to play what they found. The right villa has a turntable, a common area with good speakers, and outdoor space to extend the evening after the records get played.
+A group that comes home from an afternoon crate dig wants somewhere to play what they found. The right villa has a turntable (or room for a portable one), a common area with good speakers, and outdoor space to extend the evening after the records get played. Castleday Retreats' Bywater villas put you inside the same arts-focused corridor as the St. Claude record shops; The Syd's Lower Garden District villas are a fast rideshare from the Marigny and one block from the St. Charles Streetcar; Heirloom's inventory across LGD and Central City is worth checking if the first two are full. Whichever villa you land on, check with the property manager ahead of time about a turntable — see [hotel vs. villa](/guides/hotel-vs-villa-guide/) for the broader tradeoff if a hotel room block is also on the table. For the largest selection, book 6+ months out.
 
-### Castleday Retreats
-
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with local art throughout, private pools, and full common areas. The Bywater location is ideal for a record crawl: the Marigny and its record culture are adjacent, the Frenchmen Street music scene is a short walk, and the arts-focused neighborhood means the stores are within the area the group will already be exploring.
-
-12 bedrooms, 17 real beds, 8 baths per villa, accommodating 14 to 30 guests. For a group of around 16, everyone gets a real bed — including the people who stayed out until 4am digging. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
-
-The Bywater's evening culture — Bacchanal, St. Claude bars, the levee — gives the record crawl a natural second act when the afternoon digging ends.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room designed by a local New Orleans artist.
-
-The Syd's artist-designed rooms mean the property itself reflects the same cultural sensibility as a record crawl. A group that spent the afternoon finding local jazz and R&B pressing comes back to a property where the visual environment reinforces the whole cultural thread of the trip. The outdoor kitchen and pool area is the right setting for the evening record playback session — records on in the common area, the pool lit up, the group debating the best find of the afternoon. One block from the St. Charles Streetcar for the contingent who wants to extend the evening toward Frenchmen Street.
-
----
-
-## Plan Your Record Crawl
-
-The afternoon costs almost nothing and produces some of the trip's most memorable moments.
-
-- **Castleday Retreats** — Bywater, 3 private villas, Marigny record stores adjacent, 14-30 guests, 4.98-star average
-- **The Syd** — Lower Garden District, artist-designed villas, outdoor kitchen and pool for the evening playback session, up to 22 guests per villa
+[See where to stay for large groups →](/where-to-stay/)
 
 Find something. Bring it home. Play it at the villa. That's the move.
