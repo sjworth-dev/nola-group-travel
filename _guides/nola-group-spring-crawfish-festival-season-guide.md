@@ -1,15 +1,15 @@
 ---
 title: "Spring Festival Season Beyond Jazz Fest: Crawfish, Block Parties, and the March-May Calendar"
-description: "Spring outdoor festival season in New Orleans beyond Jazz Fest: the crawfish festival circuit, neighborhood block parties, what the March-May calendar actually looks like, and how to structure a weekend around a mid-tier spring festival for groups of 10-30."
+description: "Spring outdoor festival season in New Orleans beyond Jazz Fest: the crawfish festival circuit, neighborhood block parties, what the March-May calendar actually looks like, and how to structure a weekend around a mid-tier spring festival."
 category: "Festivals & Events"
 card_title: "Spring Crawfish & Festival Season Guide"
 card_description: "The March-May festival circuit beyond Jazz Fest: crawfish boil seasons, neighborhood block parties, the real spring calendar, and how to structure a group weekend around a mid-tier NOLA festival that doesn't require $400 tickets."
-date: 2026-06-28
+date: 2026-09-11
 ---
 
 Jazz Fest gets all the attention, and it deserves some of it. But the spring festival season in New Orleans runs from February through May and contains dozens of events that most out-of-town groups never discover because they don't appear prominently in travel media. The events that do appear — the major headline festivals — create a bottleneck: groups either build their trip around Jazz Fest or feel like they've missed the point of a spring visit.
 
-The actual picture is different. Between March and May, New Orleans has a layered calendar of neighborhood festivals, crawfish-focused outdoor events, street fairs, second line parades, and block parties that function as genuine cultural experiences rather than packaged tourist products. Some of these draw thirty thousand people. Some draw three hundred. All of them are accessible to groups of 10-30 in a way that a headliner festival with forty-dollar po-boys and single-file festival entry is not.
+The actual picture is different. Between March and May, New Orleans has a layered calendar of neighborhood festivals, crawfish-focused outdoor events, street fairs, second line parades, and block parties that function as genuine cultural experiences rather than packaged tourist products. Some of these draw thirty thousand people. Some draw three hundred. All of them are accessible to the whole crew in a way that a headliner festival with forty-dollar po-boys and single-file festival entry is not.
 
 This guide is about the spring festival circuit that exists outside Jazz Fest and French Quarter Festival — the events that make spring in NOLA worth considering even if your dates don't overlap with the marquee weekends.
 
@@ -39,18 +39,18 @@ The two ways a group experiences crawfish season:
 
 **A villa crawfish boil.** Order live crawfish, rent or borrow a large pot and propane burner, and boil forty pounds on the back patio. This is the move for groups that want the full experience — spicing the water, timing the boil, spreading newspaper on a table and dumping the pot — rather than the festivalgoer version of standing in line with a tray. We have a full guide to this: [the villa crawfish boil guide](/guides/nola-crawfish-boil-guide/).
 
-For groups of 10-30, the villa boil is often the better experience. It's more interactive, more memorable, cheaper per person, and produces the kind of shared-task group activity that makes a trip trip. The festival version is the fallback for groups that don't want to run the logistics.
+For the whole crew, the villa boil is often the better experience. It's more interactive, more memorable, cheaper per person, and produces the kind of shared-task group activity that makes a trip a trip. The festival version is the fallback for groups that don't want to run the logistics.
 
 ---
 
 ## The Spring Calendar: What Exists Beyond the Headlines
 
-The full spring festival calendar in New Orleans runs thirty-plus events between February and May. The headline events — Mardi Gras (February/March), French Quarter Festival (April), Jazz Fest (late April through early May) — are well-documented. What follows is the layer underneath them.
+The full spring festival calendar in New Orleans runs thirty-plus events between February and May. The headline events — [Mardi Gras](/guides/mardi-gras-group-guide/) (February/March), French Quarter Festival (April), Jazz Fest (late April through early May) — are well-documented. What follows is the layer underneath them.
 
 ### March Events
 
 **St. Patrick's Day Parade Circuit**
-Not a single parade but a sequence: the Irish Channel Parade is the main event, typically in the middle of March, with a route through the Irish Channel neighborhood and Magazine Street. It's a neighborhood parade — families with kids, people in green, cabbage and potatoes thrown from floats (not a typo: the Irish Channel parade throws vegetables). A group of twenty-five fits comfortably along the route and gets a genuinely local parade experience.
+Not a single parade but a sequence: the Irish Channel Parade is the main event, typically in the middle of March, with a route through the Irish Channel neighborhood and Magazine Street. It's a neighborhood parade — families with kids, people in green, cabbage and potatoes thrown from floats (not a typo: the Irish Channel parade throws vegetables). A group of twenty-five fits comfortably along the route and gets a genuinely local parade experience. The [St. Patrick's Day guide](/guides/nola-group-st-patricks-day-guide/) has the full route and parking breakdown.
 
 Secondary St. Patrick's parades also run in Metairie and Mid-City on the same or adjacent weekends. For groups that want multiple parade days, the St. Patrick's circuit is a miniature version of the Mardi Gras parade model.
 
@@ -63,7 +63,7 @@ Note: The main Oak Street Po-Boy Festival is typically in the fall, but check th
 ### April Events
 
 **French Quarter Festival**
-The largest free outdoor music festival in the United States, according to its organizers. Stages throughout the French Quarter, free entry, local music acts across every genre, local food vendors. We cover this in depth in our French Quarter Festival guide. For groups on a budget in spring, FQF is the single highest-value event in the spring calendar.
+The largest free outdoor music festival in the United States, according to its organizers. Stages throughout the French Quarter, free entry, local music acts across every genre, local food vendors. We cover this in depth in our [French Quarter Festival guide](/guides/french-quarter-fest/). For groups on a budget in spring, FQF is the single highest-value event in the spring calendar.
 
 **Crescent City Blues and BBQ Festival**
 Typically in mid-October but worth checking for spring iterations. The spring festival circuit sometimes moves BBQ-focused events to April or May in odd-numbered years; verify the current calendar.
@@ -72,7 +72,7 @@ Typically in mid-October but worth checking for spring iterations. The spring fe
 For groups with golf interest, the Zurich Classic is the only PGA Tour event in Louisiana, typically held in late April at TPC Louisiana. It's a two-man team format which makes it more interactive to watch than standard stroke play. Group gallery access for a day of golf with the backdrop of a live PGA event is a legitimate group activity.
 
 **The Jazz Fest Second Weekend**
-Worth noting separately from the full Jazz Fest guide: if your group's travel window falls between the two Jazz Fest weekends, the second Sunday of Jazz Fest is typically less crowded than opening weekends and has the same food vendors and major acts on the infield stages. Groups that visit specifically for the second Sunday of Jazz Fest often have a better experience than opening-weekend crowds.
+Worth noting separately from the [full Jazz Fest guide](/guides/jazz-fest-group-guide/): if your group's travel window falls between the two Jazz Fest weekends, the second Sunday of Jazz Fest is typically less crowded than opening weekends and has the same food vendors and major acts on the infield stages. Groups that visit specifically for the second Sunday of Jazz Fest often have a better experience than opening-weekend crowds.
 
 ### May Events
 
@@ -80,7 +80,7 @@ Worth noting separately from the full Jazz Fest guide: if your group's travel wi
 A free outdoor festival on Bayou St. John in Mid-City, typically running over three days in mid-May. The setting — along the bayou, with live music stages, food vendors, and lawn space — is among the most atmospheric of any festival in the city. For groups that didn't make it to Jazz Fest, Bayou Boogaloo offers a compressed version of the outdoor New Orleans festival experience without the ticketed entry.
 
 **Freret Street Festival (typically May)**
-A one-day neighborhood festival on Freret Street in Uptown, centered on the local restaurant and bar corridor. The Freret Street corridor underwent significant restaurant development over the past fifteen years and the festival is a showcase for that food scene. For groups that care about food and want a neighborhood-scale event (not forty thousand people, but a genuine block party), Freret Street Festival is one of the better spring options.
+A one-day neighborhood festival on Freret Street in Uptown, centered on the local restaurant and bar corridor. The Freret Street corridor underwent significant restaurant development over the past fifteen years and the festival is a showcase for that food scene. For groups that care about food and want a neighborhood-scale event (not forty thousand people, but a genuine block party), the [Freret Street Festival guide](/guides/nola-group-freret-street-festival-guide/) has the full rundown.
 
 **Jazz Fest (late April through early May)**
 The headliner event; we cover it separately. What's worth noting here is that the weekends immediately around Jazz Fest produce a different NOLA experience from the festival itself — hotel rates spike, but the city has significant live music programming in anticipation and celebration of the festival, and second-line activity and brass band appearances increase.
@@ -121,7 +121,7 @@ For a group of twenty, the logistics at a crawfish festival are simpler than at 
 
 ## The Crawfish Boil as Group Activity
 
-For groups of 10-30 who want the full crawfish experience without the festival logistics, the villa crawfish boil is the more immersive option.
+For a group that wants the full crawfish experience without the festival logistics, the villa crawfish boil is the more immersive option.
 
 The supply chain for a NOLA villa boil:
 - Live crawfish can be ordered from local seafood suppliers and picked up or delivered within the city
@@ -130,7 +130,7 @@ The supply chain for a NOLA villa boil:
 
 The boil itself is a group activity, not just a meal: someone manages the fire, someone handles the timing, someone prepares the corn and potatoes that go in the pot alongside the crawfish, and everyone gathers around the table when the pot is dumped. The thirty to forty minutes of prep and boil time is often the most social part of the experience.
 
-We cover the full boil in detail elsewhere — see the villa crawfish boil guide. The short version: if your group is in New Orleans in March, April, or May and hasn't done a crawfish boil before, it's the move.
+We cover the full boil in detail in the [villa crawfish boil guide](/guides/nola-crawfish-boil-guide/). The short version: if your group is in New Orleans in March, April, or May and hasn't done a crawfish boil before, it's the move.
 
 ---
 
@@ -166,8 +166,8 @@ The trade-off is that these events require actual research — they're not in ev
 
 The spring festival calendar creates the most acute accommodation pressure of the NOLA tourist year. April weekends with overlapping French Quarter Festival and a second or third Jazz Fest weekend will have hotel availability near zero and rates at peak. The accommodation math that barely works for a group of fifteen in a hotel during shoulder season doesn't work at all during spring festival weekends.
 
-The private villa model — Castleday Retreats in Bywater or The Syd in the Lower Garden District — solves the spring accommodation problem for large groups. The spring festival circuit is strongest in April and May; Bywater and the LGD are within walking distance or a short rideshare of every major spring festival in the city. Groups that book villa accommodation several months in advance for spring weekends secure both the space and the rate in a market that otherwise becomes impossible for large groups.
+A private villa is generally the better answer for large groups than a hotel block during this window — think Castleday Retreats or The Syd for total privacy in Bywater or the Lower Garden District, Heirloom for deeper inventory and short-notice availability if the first two are booked, or a hotel room block through The Roosevelt or Hotel Peter & Paul if the group wants to split checks. The spring festival circuit is strongest in April and May; Bywater and the LGD are within walking distance or a short rideshare of every major spring festival in the city. For the largest selection, book 6+ months out — spring is the tightest accommodation market on the NOLA calendar, and it becomes genuinely impossible for large groups closer in.
 
-Both properties book out for spring weekends substantially in advance. If your group is planning a spring trip, confirm accommodation before anything else.
+If your group is planning a spring trip, confirm accommodation before anything else.
 
 [See where to stay for large groups →](/where-to-stay/)
