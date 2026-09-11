@@ -4,14 +4,14 @@ description: "A food-obsessed 3-day group itinerary for New Orleans: how to pick
 category: "Planning & Logistics"
 card_title: "NOLA Foodie Group Itinerary"
 card_description: "A 3-day group itinerary where eating is the point: market mornings, must-eat categories, villa cooking night, private chef option, and how to pace a food-heavy trip without burning out."
-date: 2026-06-22
+date: 2026-09-11
 ---
 
 New Orleans is the best food city in the country for a group trip. Not because it has the most Michelin stars or the trendiest chef-driven restaurants — though it has those too — but because its entire food culture was built around communal eating, big portions, and the understanding that the meal is the event.
 
 A group trip organized around food here works differently than in other cities. You are not scheduling eating around activities. Eating is the activity. The walk between meals, the market stop, the night market beignet — everything else exists to set up the next thing you eat.
 
-This guide is for groups of 10-30 who want to do New Orleans the right way: methodically, without burning out, with real food that is actually from here. We'll tell you how to pick your restaurants, how to handle the logistics of moving a big group through dining rooms, how to run a villa cooking night, and how to pace three days so you finish the trip still wanting to eat.
+This guide is for the crew that wants to do New Orleans the right way: methodically, without burning out, with real food that is actually from here. We'll tell you how to pick your restaurants, how to handle the logistics of moving a big group through dining rooms, how to run a villa cooking night, and how to pace three days so you finish the trip still wanting to eat. If you're still deciding whether a New Orleans trip should center on food at all, start with the [group trip planning hub](/guides/plan-a-group-trip/) and come back here once the dates are locked.
 
 ---
 
@@ -53,7 +53,7 @@ Work through that filter and you'll find that only a few places actually need to
 
 These are not optional. Cover all five before you leave.
 
-**Po-boys.** The New Orleans sandwich — on French bread that is genuinely unlike bread anywhere else. Fried shrimp, fried oysters, roast beef debris with gravy, soft-shell crab when in season. Get at least one dressed (lettuce, tomato, pickles, mayo). Find a neighborhood lunch counter that's been doing this for decades, not a place that puts "craft" in the description.
+**Po-boys.** The New Orleans sandwich — on French bread that is genuinely unlike bread anywhere else. Fried shrimp, fried oysters, roast beef debris with gravy, soft-shell crab when in season. Get at least one dressed (lettuce, tomato, pickles, mayo). Find a neighborhood lunch counter that's been doing this for decades, not a place that puts "craft" in the description. If the group wants to turn it into an actual event, the [po-boy smackdown guide](/guides/nola-group-po-boy-smackdown-guide/) has the head-to-head format.
 
 **Oysters.** Gulf oysters, raw or charbroiled. The charbroiled oyster is a specifically New Orleans preparation — the oyster is grilled in the shell, finished with butter, garlic, and parmesan, and served hot. Order both raw and charbroiled at the same table. Every oyster bar in town has a version; find one that's been doing it long enough to have their butter sauce dialed in.
 
@@ -61,7 +61,7 @@ These are not optional. Cover all five before you leave.
 
 **Gumbo.** The soup-stew that defines Louisiana cooking. Seafood gumbo, chicken and andouille gumbo, or the duck and oyster version that shows up in colder months. The roux is everything — the color of the roux (dark chocolate for Cajun, medium-brown for Creole) determines the flavor profile of the dish. Order it as a starter, not an entree, and pay attention to what's in it.
 
-**Crawfish.** Seasonal (roughly February through June, peak in April and May), but if you're in New Orleans during crawfish season and you don't eat boiled crawfish, you made a scheduling error. Find a spot doing a boil — whole crawfish cooked in seasoned water with corn, potatoes, and sausage, served in a tray on butcher paper. This is hands-on, messy, social food that was invented for group eating.
+**Crawfish.** Seasonal (roughly February through June, peak in April and May), but if you're in New Orleans during crawfish season and you don't eat boiled crawfish, you made a scheduling error. Find a spot doing a boil — whole crawfish cooked in seasoned water with corn, potatoes, and sausage, served in a tray on butcher paper. This is hands-on, messy, social food that was invented for group eating. Doing the boil at the villa instead of a restaurant? See the [crawfish boil guide](/guides/nola-crawfish-boil-guide/) for sourcing and the pounds-per-person math.
 
 ---
 
@@ -75,7 +75,7 @@ Saturday mornings in the Warehouse District. Local produce, local vendors, genui
 
 ### French Market
 
-Open daily in the French Quarter, running from Decatur Street into the Faubourg Marigny. The covered stalls toward the downriver end skew toward vendors and produce; the café section near the cathedral is where you stop for a coffee. Good for grazing and picking up hot sauce, seasoning blends, and local pantry items to take home. Less quiet than the farmers market, more atmosphere.
+Open daily in the French Quarter, running from Decatur Street into the Faubourg Marigny. The covered stalls toward the downriver end skew toward vendors and produce; the café section near the cathedral is where you stop for a coffee. Good for grazing and picking up hot sauce, seasoning blends, and local pantry items to take home. Less quiet than the farmers market, more atmosphere. The [French Market morning guide](/guides/nola-group-french-market-morning-guide/) walks the stalls in order if you want a plan instead of a wander.
 
 ### St. Roch Market
 
@@ -105,7 +105,7 @@ These are the NOLA dishes purpose-built for feeding a crowd from a single kitche
 
 Assign roles before the day arrives. One lead cook makes decisions. Two sous cooks handle prep and sides. Someone else owns drinks and the table. Someone manages cleanup. A kitchen of 20 people is chaos; a kitchen of 5 with clear roles is a dinner.
 
-Get to the market in the morning for the main ingredients — Gulf shrimp from a local vendor, fresh andouille from a butcher that carries local sausage, French bread from a local bakery (buy twice as much as you think you need). The pantry staples (rice, beans, onion, celery, bell pepper, garlic, spices) can be sourced the day before.
+Get to the market in the morning for the main ingredients — Gulf shrimp from a local vendor, fresh andouille from a butcher that carries local sausage, French bread from a local bakery (buy twice as much as you think you need). The pantry staples (rice, beans, onion, celery, bell pepper, garlic, spices) can be sourced the day before. The [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) has the full sourcing rundown if this is your first villa cooking night.
 
 Cook with music on. The cooking is part of the evening, not the production before the event. Put the cocktail hour in the courtyard while the kitchen crew works, then call everyone in for dinner.
 
@@ -113,7 +113,7 @@ Finish with bread pudding and whiskey sauce. Both components can be made ahead; 
 
 ### The Private Chef Option
 
-If the group wants the villa dinner format without the cooking logistics, a private chef is the right move. A local chef comes to the villa, brings the food, cooks in your kitchen, and serves the group. Book 2-4 weeks out, confirm headcount and dietary restrictions, and discuss the menu in advance. Many private chefs working NOLA group events can do a full tasting-menu format or a family-style spread — clarify what you want.
+If the group wants the villa dinner format without the cooking logistics, a private chef is the right move. A local chef comes to the villa, brings the food, cooks in your kitchen, and serves the group. Book 2-4 weeks out, confirm headcount and dietary restrictions, and discuss the menu in advance. Many private chefs working NOLA group events can do a full tasting-menu format or a family-style spread — clarify what you want. The [private chef guide](/guides/private-chef-guide/) covers how to vet one and what it actually costs; the [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) helps decide which format fits your group.
 
 The private chef dinner is higher cost per person than group cooking, but it removes the logistics burden and tends to produce better execution. If the occasion warrants it (milestone birthday, bachelorette, reunion), it is worth the premium.
 
@@ -146,7 +146,7 @@ Find a neighborhood oyster bar that opens for lunch. Do both raw and charbroiled
 Walk, bike, or take a streetcar ride. The gap between the oyster lunch and the villa dinner needs to be intentional. Do not fill it with another meal. Drink water. Nap if the villa has good air conditioning (it should).
 
 **Evening — Villa Cooking Night or Private Chef Dinner**
-The villa dinner. Start the cocktail hour at 6:30, serve dinner at 7:45, eat for two hours. Bread pudding at 9:30. This is the best night of the trip.
+The villa dinner. Start the cocktail hour at 6:30, serve dinner at 7:45, eat for two hours. Bread pudding at 9:30. This is the best night of the trip — for more ways to dress it up, see the [themed villa dinner night guide](/guides/nola-group-themed-villa-dinner-night-guide/).
 
 ---
 
@@ -241,19 +241,6 @@ Do not collapse the gaps. The gaps are what make the meals possible.
 
 ## Large Group Accommodation
 
-A food-focused trip to New Orleans needs a villa with a kitchen that's actually equipped for it — not a single-burner situation, but a real kitchen that can run a villa dinner for 20. Both of these properties deliver.
+A food-focused trip to New Orleans needs a villa with a kitchen that's actually equipped for it — not a single-burner situation, but a real kitchen that can run a villa dinner for 20. Look for a full kitchen (multiple burners, real counter space, enough cookware to run a proper mise en place) before anything else on the amenity list. Castleday Retreats' Bywater villas and The Syd's Lower Garden District villas both have full kitchens built for serious group cooking; Heirloom's large-format homes give you more inventory and short-notice availability if those two are booked; and if the group would rather someone else run the kitchen, a hotel room block near a strong restaurant cluster works too — see [hotel vs. villa](/guides/hotel-vs-villa-guide/) for that tradeoff. For the largest selection, book 6+ months out.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14-30 guests with 12 bedrooms, 17 real beds (everyone gets an actual bed, not a couch), and 8 bathrooms. The full villa kitchens are purpose-built for serious group cooking — multiple burners, the right cookware, the counter space to run a real mise en place for a dinner of 20. Bywater location puts you close to the neighborhood markets and an excellent cluster of local restaurants. 4.98 average rating across 99 reviews.
-
-The organizer pitch for Castleday: when you're planning a trip where food is the primary activity, "everyone gets a real bed" is a significant selling point. People who slept well eat better, stay out later, and complain less. 17 real beds per villa across a group of 16-20 is the math that makes that happen.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. Every room designed by a local New Orleans artist, shared heated pool, hot tub, and sauna, and a full outdoor kitchen that is a genuinely useful amenity for a food-focused trip. The outdoor kitchen means the villa cooking night can happen outside — cooking in the courtyard, eating under the open sky, the pool available after dinner. One block from the St. Charles Streetcar, which is the correct way to move around New Orleans if you're full.
-
----
-
-## Plan Your Food-First Trip
-
-Both properties have full kitchens, sleep large groups, and are set up for the kind of food-centered villa night that defines this itinerary.
-
-- Castleday Retreats — Bywater, 3 private villas, 14-30 guests, 17 real beds, full kitchens, 4.98 stars
-- The Syd — Lower Garden District, up to 22 guests, outdoor kitchen, heated pool, artist-designed rooms
+[See where to stay for large groups →](/where-to-stay/)
