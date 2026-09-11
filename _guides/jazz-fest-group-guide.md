@@ -4,14 +4,14 @@ description: "How to do New Orleans Jazz & Heritage Festival with a large group.
 category: "Festivals & Events"
 card_title: "Jazz Fest"
 card_description: "Two weekends in late April and May. Music, food, heat. Here's how to actually do it."
-date: 2026-07-18
+date: 2026-09-11
 ---
 
 Jazz Fest is not a concert. That's the first thing to understand.
 
 The New Orleans Jazz & Heritage Festival is a full-day food, music, and culture experience that happens across multiple stages at the New Orleans Fair Grounds racetrack, with evening shows at clubs and venues across the city. You can spend 10 hours there and feel like you barely scratched the surface. Most people who go once go back every year for the rest of their lives.
 
-For large groups, Jazz Fest requires coordination but rewards it. Here's how to do it right.
+For large groups, Jazz Fest requires coordination but rewards it. Here's how to do it right. If Jazz Fest is one of several dates you're weighing, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) walks through picking a date before you lock in this one.
 
 ## Quick Planning Checklist
 
@@ -125,7 +125,7 @@ These shows are:
 
 For large groups, evening shows require planning: separate tickets, a venue that can accommodate a group, and transportation. Book evening shows at the same time you buy festival tickets.
 
-**Frenchmen Street** is always the free alternative — no tickets, no planning, great music. On Jazz Fest weekends, Frenchmen Street is at its absolute peak. If your group can't agree on an evening show, Frenchmen is the default.
+**Frenchmen Street** is always the free alternative — no tickets, no planning, great music. On Jazz Fest weekends, Frenchmen Street — in the [Marigny](/neighborhoods/marigny/) — is at its absolute peak. If your group can't agree on an evening show, Frenchmen is the default.
 
 ---
 
@@ -135,9 +135,9 @@ Hotels in New Orleans fill up for Jazz Fest weekends well in advance. For large 
 
 ### For Large Groups
 
-**Castleday Retreats** — Three private villas in the Bywater, each holding up to 30 guests. Private pools, full kitchens, complete privacy. The Bywater is a short Uber from the Fair Grounds and walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinating Ubers is a genuine quality-of-life improvement.
+**Castleday Retreats** — Bywater villas, 14-30 guests each, private pool per villa. The Bywater is a short Uber from the Fair Grounds and easy walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinate Ubers is a genuine quality-of-life improvement.
 
-**The Syd** — Multiple villas in the Lower Garden District, each up to 22 guests. Shared heated pool, hot tub, outdoor kitchen. One block from the St. Charles Streetcar, which connects to Canal Street for shuttle pickups. The LGD location is ideal for groups who also want easy access to Magazine Street restaurants and the downtown evening show venues.
+**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. If Castleday's Bywater villas are already booked — Jazz Fest weekend sells out early — Heirloom's deeper inventory is the practical alternative: more choice, and availability that holds up better even close to the festival dates.
 
 Both are editorial examples of the kind of purpose-built inventory this weekend calls for — see the [full accommodation guide](/where-to-stay/) for the complete field. Jazz Fest weekend is one of the most heavily booked stretches of the year for large-group inventory citywide; for the largest selection, book 6+ months out. The [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down which location fits your group better for this specific weekend.
 
@@ -160,7 +160,7 @@ After a 10-hour day at the Fair Grounds, a pool and an outdoor kitchen are not l
 | Food quality | Outstanding (festival vendors) | Good, but logistics are harder |
 | Best for | Music lovers, foodies, culture seekers | People who want the full NOLA spectacle |
 
-Neither is better. They're different experiences. Many groups do both in the same year.
+Neither is better. They're different experiences. Many groups do both in the same year — the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) covers the parade-viewing and krewe logistics that make that trip a different planning problem entirely. If you're still nailing down which month to book at all, the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks down every month against the other.
 
 ---
 
