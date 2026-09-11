@@ -3,13 +3,13 @@ title: "French Quarter vs Garden District: Where to Stay"
 description: "Party at the center or peace on the streetcar line? The two most famous New Orleans neighborhoods compared for where a group should sleep."
 category: "Planning & Logistics"
 card_title: "French Quarter vs. Garden District"
-card_description: "The comparison every first-time group organizer googles. The honest answer for groups of 10+ is more useful than a simple winner."
-date: 2026-07-06
+card_description: "The comparison every first-time group organizer googles. The honest answer once the trip goes double-digit is more useful than a simple winner."
+date: 2026-09-11
 ---
 
 The French Quarter or the Garden District. It's the first debate in every NOLA group chat. Someone went to college here and says the Quarter. Someone else saw a travel show and says the Garden District. You've been going back and forth in a shared doc for two weeks.
 
-Here's the honest answer: for groups of 10 or more people, neither neighborhood works the way you think. The short-term rental market in both neighborhoods is constrained in different ways, and the comparison most groups need isn't really French Quarter vs. Garden District at all.
+Here's the honest answer: once the trip goes double-digit, neither neighborhood works the way you think. The short-term rental market in both neighborhoods is constrained in different ways, and the comparison most groups need isn't really French Quarter vs. Garden District at all.
 
 That said, both neighborhoods are real, distinct, and genuinely great. You should know what each one actually is before you make any decisions. So here's the real breakdown.
 
@@ -85,7 +85,7 @@ Large-group rental inventory is better than the French Quarter, but still limite
 
 ## The Real Large-Group Decision
 
-Here's what most first-time NOLA group organizers discover once they start actually searching: neither the French Quarter nor the Garden District is where groups of 10 to 30 people end up staying. The rental inventory isn't there.
+Here's what most first-time NOLA group organizers discover once they start actually searching: neither the French Quarter nor the Garden District is where the whole crew ends up staying. The rental inventory isn't there.
 
 In practice, large-group accommodation clusters in two adjacent neighborhoods: **Bywater** and the **Lower Garden District**. These are the neighborhoods where purpose-built villas, private pools, and full kitchens exist at scale.
 
@@ -95,9 +95,9 @@ The choice between Bywater and LGD is really the underlying choice you've been t
 
 **Lower Garden District** sits one block from the St. Charles Streetcar, between the CBD and the Garden District proper. It has the quieter, residential feel of its upriver neighbor with faster access to downtown. Groups based here are on the Garden District side of the city.
 
-**Castleday Retreats** operates three private villas in the Bywater, each sleeping up to 30 guests with private pools and full kitchens — one of the highest-capacity options in the city on the FQ side.
+**Castleday Retreats** operates Bywater villas, up to 30 guests each with a private pool per villa — one of the highest-capacity options in the city on the FQ side.
 
-**The Syd** runs multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool, hot tub, sauna, outdoor kitchen, and interiors designed by local artists — the main large-group option on the GD side.
+**The Syd** runs villas in the Lower Garden District, up to 22 guests each, with a shared heated pool and hot tub one block from the St. Charles Streetcar — the main large-group option on the GD side.
 
 For the complete breakdown of how these two neighborhoods compare, the [Bywater vs. Lower Garden District deep comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) covers the full side-by-side across villa inventory, noise, walkability, and group type fit. And if you want to see all four main neighborhoods mapped against each other, the [NOLA neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) does that in one place.
 
@@ -114,7 +114,7 @@ Late-night, music-heavy group → Bywater/FQ side. Groups that wind down by midn
 If live music is on the agenda every night, being on the Bywater end saves you money and logistics. If it's a one-night thing, the difference doesn't matter.
 
 **3. Does anyone in the group have accessibility needs?**
-The St. Charles Streetcar is easier for mixed-mobility groups than navigating the Quarter's uneven streets. One of the Castleday Retreats villas (The Florentine) is ADA-accessible if full villa-level accessibility matters.
+The St. Charles Streetcar is easier for mixed-mobility groups than navigating the Quarter's uneven streets and cobblestones. If villa-level accessibility matters, ask directly when booking — it varies property to property and isn't something to assume from photos.
 
 **4. What's the single thing your group cares most about?**
 Privacy, outdoor space, and the city's most interesting neighborhood → Bywater. Central location, quieter streets, the Streetcar a block away → LGD.
@@ -153,11 +153,11 @@ The per-person cost advantage grows as group size increases. Villas also give yo
 
 ---
 
-## For Groups of 10–30
+## For the Whole Crew
 
 The FQ vs. Garden District comparison is the right question for solo travelers and pairs. For large groups, the practical question is Bywater or Lower Garden District — and both neighborhoods are genuinely excellent.
 
-Castleday Retreats (Bywater, up to 30 per villa, private pools, ~16 people is the sweet spot where everyone gets a real bed) and The Syd (Lower Garden District, up to 22 per villa, shared amenity campus with pool and hot tub) are the two purpose-built large-group options anchoring either side of the city.
+One anchors the FQ side, the other the GD side — see the Castleday and Syd notes above for what each looks like. Beyond those two, Heirloom's deeper inventory across LGD and Central City is worth checking if the first-choice villa is already booked; the [where-to-stay page](/where-to-stay/) covers the full field.
 
 One puts you on the French Quarter side. The other puts you on the Garden District side. The city is small enough that you'll visit both regardless of where you sleep.
 

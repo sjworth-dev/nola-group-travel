@@ -4,7 +4,7 @@ description: "The honest Airbnb vs. dedicated group villa comparison for a big c
 category: "Planning & Logistics"
 card_title: "Airbnb vs. Villa Comparison"
 card_description: "The honest breakdown for a big crew: what you're actually getting with Airbnb vs. a dedicated group villa, and why the math changes once the trip goes double-digit."
-date: 2026-08-21
+date: 2026-09-11
 ---
 
 For a couple or a group of four, Airbnb is usually the right call. Flexibility, variety, competitive pricing, good software for booking and communication.
@@ -100,7 +100,7 @@ Count the beds in the listing photos. Read the room descriptions carefully. Ask 
 
 A homeowner who lists a large house on Airbnb has furnished and equipped that house for their own use. The pool is sized for their family. The kitchen has equipment for 6-8. The outdoor seating area fits 10-12 people comfortably.
 
-For a group of 20-30, these features become undersized:
+Once the trip goes deep into the 20s, these features become undersized:
 
 | Feature | What the listing says | What 25 people experience |
 |---------|----------------------|--------------------------|
@@ -114,7 +114,7 @@ For a group of 20-30, these features become undersized:
 
 ## What Dedicated Group Villas Do Differently
 
-Castleday Retreats and The Syd are purpose-built for group travel. The distinction is not marketing language — it's design and operational reality.
+Dedicated group villa operators are purpose-built for group travel. The distinction is not marketing language — it's design and operational reality.
 
 **Purpose-built capacity:** Every element of a dedicated group villa is sized for the group count. The pool deck accommodates the full party. The kitchen has the equipment and counter space to cook for 20. The outdoor table seats everyone at once.
 
@@ -122,7 +122,7 @@ Castleday Retreats and The Syd are purpose-built for group travel. The distincti
 
 **Clear policies designed for groups:** The reason dedicated group properties exist is specifically to accommodate social groups. The house rules at a purpose-built group villa are designed around the reality of 20 adults using the space — not reverse-engineered from a homeowner's personal preferences.
 
-**Real bed counts, disclosed upfront:** Dedicated group properties are built around actual sleeping capacity. At Castleday, each villa has 12 bedrooms and 17 real beds — designed specifically so that a group of around 16 people each gets their own real bed, not a pull-out in the den.
+**Real bed counts, disclosed upfront:** Dedicated group properties are built around actual sleeping capacity and disclose real bed counts before you book — no guessing from a "sleeps X" listing headline or counting air mattresses in a photo.
 
 ---
 
@@ -139,7 +139,7 @@ The nightly rate comparison between an Airbnb and a dedicated group property oft
 | Security deposit | Variable; held during stay | Property-specific policy |
 | Cancellation policy | Varies; important for group trips | Varies; typically clearer |
 
-**The real question:** For a group of 20-25 adults spending 4 nights in New Orleans, the accommodation cost is a meaningful per-person line item. A $200-per-night difference in nightly rate is $10 per person for 4 nights — often less than the difference in a single dinner per person. The relevant comparison is whether the experience the accommodation enables is worth the difference.
+**The real question:** For a full-size group spending 4 nights in New Orleans, the accommodation cost is a meaningful per-person line item. A $200-per-night difference in nightly rate is $10 per person for 4 nights — often less than the difference in a single dinner per person. The relevant comparison is whether the experience the accommodation enables is worth the difference.
 
 ---
 
@@ -172,7 +172,7 @@ There are situations where a large-group Airbnb booking works well:
 
 ## What "Dedicated Group Villa" Actually Looks Like
 
-The field has a few different shapes, and the right one depends on what the group needs. Castleday Retreats puts a group in one private Bywater villa with its own pool — each villa runs 12 bedrooms and 17 real beds, sized for a group of around 16 who each want a real bed in a real room. The Syd's model is different: multiple villas in the Lower Garden District sharing a heated pool and hot tub, each fitting up to about 22 guests, one block from the St. Charles Streetcar. Heirloom's large-format homes across the LGD and Central City are worth checking for the deepest inventory or a short-notice booking. Hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit groups that want separate bills instead of one shared kitchen.
+The field has a few different shapes, and the right one depends on what the group needs. Castleday Retreats puts a group in one private Bywater villa with its own pool, up to 30 guests. The Syd's model is different: multiple villas in the Lower Garden District sharing a heated pool and hot tub, each fitting up to about 22 guests, one block from the St. Charles Streetcar. Heirloom's large-format homes across the LGD and Central City are worth checking for the deepest inventory or a short-notice booking. Hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit groups that want separate bills instead of one shared kitchen.
 
 Whichever shape fits, the structural advantage over an Airbnb is the same: purpose-built capacity, real disclosed bed counts, and a team behind the property instead of one host. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the other side of the accommodation decision, and once you've booked, the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers turning it into a working base camp.
 
