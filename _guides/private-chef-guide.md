@@ -132,7 +132,7 @@ Higher-end chefs often incorporate local Gulf seafood, Louisiana produce, and mo
 
 ### Grilling / Outdoor Cooking
 
-If your rental has outdoor kitchen space — The Syd's villas are set up for this — outdoor grilling dinners are excellent for a bigger table. More casual vibe, but can still be exceptional quality.
+If your rental has outdoor kitchen space, outdoor grilling dinners are excellent for a bigger table. More casual vibe, but can still be exceptional quality.
 
 ---
 
@@ -181,7 +181,7 @@ Private chefs need to know what they're working with. Before your chef confirms 
 - Outdoor kitchen or grill availability
 - Outdoor dining space for warm evenings
 
-Villa-style properties built for groups — Castleday Retreats, The Syd, Heirloom's larger homes — generally have full kitchens, but confirm the specifics (burners, oven size, prep counter space) with your property host when booking rather than assuming.
+Villa-style properties built for groups — Heirloom's larger homes, apartment-style stays like The Revelry — generally have full kitchens, but confirm the specifics (burners, oven size, prep counter space) with your property host when booking rather than assuming.
 
 ---
 
@@ -208,7 +208,7 @@ Villa-style properties built for groups — Castleday Retreats, The Syd, Heirloo
 
 The private chef experience only works if you have the space for it. A cramped short-term rental with one counter and a two-burner stove limits what's possible. A well-equipped villa with a proper kitchen, indoor dining, and outdoor space creates a completely different experience — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for why that gap matters more once a trip goes to real group size.
 
-**Editorial examples of what that looks like:** Castleday Retreats' Bywater villas (each with a full kitchen, private pool, and large dining/common areas built for hosting) suit a chef dinner that wants total privacy. The Syd's Lower Garden District villas bring an outdoor kitchen that's especially good for a grilling menu, plus a shared pool and hot tub for the pre- and post-dinner hour. Heirloom's larger-format homes across the Lower Garden District and Central City add more choice and short-notice availability when the calendar's tight. None of these is a booking recommendation — they're representative of the kind of kitchen-equipped inventory to look for.
+**Editorial examples of what that looks like:** The Mazant, a single historic Bywater guesthouse with a full kitchen and its own heated pool and spa, suits a chef dinner that wants the whole group under one roof without splitting across units. The Syd's Lower Garden District villas bring an outdoor kitchen that's especially good for a grilling menu, plus a shared pool and hot tub for the pre- and post-dinner hour. Heirloom's larger-format homes across the Lower Garden District and Central City add more choice and short-notice availability when the calendar's tight. None of these is a booking recommendation — they're representative of the kind of kitchen-equipped inventory to look for.
 
 Whichever property you land on, let the host know you're planning a chef dinner when you book — they can advise on kitchen setup and sometimes have chef recommendations.
 
