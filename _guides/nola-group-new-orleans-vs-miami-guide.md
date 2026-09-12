@@ -52,9 +52,9 @@ This is where the two cities diverge hardest, and it's the part groups research 
 
 Miami's large-group lodging options concentrate around high-rise condos and hotel blocks, especially near the beach and in neighborhoods like Brickell. Big beachfront rentals exist but come at a real premium, and a large group is more often splitting across multiple condo units or booking a hotel room block than gathering everyone under one roof.
 
-New Orleans has a more developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties designed specifically for groups in the double digits, with private or shared pools, full kitchens, and a real shared home base rather than stacked hotel rooms. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works for a group considering either format here.
+New Orleans has a more developed purpose-built large-group villa market, concentrated in neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties designed specifically for groups in the double digits, with private or shared pools, full kitchens, and a real shared home base rather than stacked hotel rooms. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works for a group considering either format here.
 
-**Editorial examples of what that New Orleans inventory looks like:** properties like Castleday Retreats (private-pool villas in the Bywater, up to 30 guests each) or Heirloom (a large-format home portfolio across the Lower Garden District and Central City) represent the kind of purpose-built group housing that Miami's market, condo-heavy and beach-premium, generally doesn't offer at the same scale. Neither is a booking recommendation here — they're representative of a category New Orleans has developed further.
+**Editorial examples of what that New Orleans inventory looks like:** properties like The Mazant (an 1880s Bywater guesthouse with a heated pool and spa, sleeping 18) or Heirloom (a large-format home portfolio across the Lower Garden District and Central City) represent the kind of purpose-built group housing that Miami's market, condo-heavy and beach-premium, generally doesn't offer at the same scale. Neither is a booking recommendation here — they're representative of a category New Orleans has developed further.
 
 ---
 
@@ -85,7 +85,7 @@ On heat: neither city is cool for most of the year, but New Orleans has a genuin
 
 Neither city is a budget destination for a big group anymore, but the money goes to different places. Miami trips tend to concentrate spend on beachfront lodging, club covers, and bottle-service minimums that get pitched hard to bachelorette and birthday groups specifically. New Orleans spreads cost more evenly across food, music, and villa accommodation, without the mandatory nightlife upsells that define a Miami club night.
 
-For groups renting a private villa instead of splitting hotel rooms or condo units, the [budget guide](/guides/budget-guide/) runs the actual per-person math for a New Orleans trip. The short version: a villa with a kitchen and pool for a large group often lands at a lower per-person nightly cost than the equivalent split-condo or hotel-block setup, and it removes the nightly cover-charge math that a Miami trip tends to carry by default.
+For groups renting a private villa instead of splitting hotel rooms or condo units, the [budget guide](/guides/budget-guide/) runs the actual per-person math for a New Orleans trip. The short version: a villa with a kitchen and pool for a large group often lands at a lower per-person nightly cost than the equivalent split-condo or hotel-block setup, and it removes the nightly cover-charge math that a Miami trip tends to carry by default. Whichever city wins, the [group money management guide](/guides/nola-group-money-management-guide/) has a system for splitting costs across a crew this size without someone quietly footing the bill.
 
 ---
 
@@ -121,7 +121,7 @@ For groups renting a private villa instead of splitting hotel rooms or condo uni
 
 The comparison sharpens once a group crosses into double digits. Hotel blocks and split condo units get expensive and logistically messy at real group size in both cities, which is why large-group organizers increasingly look at private rental houses instead of relying on hotel inventory alone.
 
-New Orleans has the more developed version of that market for a genuinely large group. Purpose-built villa properties in the Bywater and Lower Garden District — holding a whole group under one roof with a pool and full kitchen — represent inventory that Miami's condo-and-hotel-heavy market generally can't match at the same scale without splitting the group across units. That gap is worth weighing as heavily as the nightlife and the beach.
+New Orleans has the more developed version of that market for a genuinely large group. Purpose-built villa properties in the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — holding a whole group under one roof with a pool and full kitchen — represent inventory that Miami's condo-and-hotel-heavy market generally can't match at the same scale without splitting the group across units. That gap is worth weighing as heavily as the nightlife and the beach.
 
 For the largest selection, book 6+ months out.
 
