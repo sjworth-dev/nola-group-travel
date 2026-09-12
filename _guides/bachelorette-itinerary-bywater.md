@@ -4,7 +4,7 @@ description: "A Bywater-specific bachelorette itinerary for the whole crew. Bacc
 category: "Bachelorette & Bachelor"
 card_title: "Bywater Bachelorette Itinerary"
 card_description: "Skip Bourbon Street. The Bywater bachelorette—Bacchanal, the neighborhood bar scene, vintage shopping, and your own private pool."
-date: 2026-08-16
+date: 2026-09-12
 ---
 
 Every New Orleans [bachelorette](/guides/bachelorette-party/) group faces the same question around Day 2: why does this feel so much better than Bourbon Street?
@@ -36,7 +36,7 @@ This is the most important decision for your bachelorette trip. Let's be direct 
 | Restaurant quality | Outstanding, neighborhood gems | Hit or miss, tourist markup |
 | Crowd age range | Mixed, skews local | All ages, heavy on tourists |
 | Walking ease | Yes — neighborhood bar-hopping works | Yes, but crowds make it slower |
-| Pool access | Private villa pools (Castleday) | Rooftop hotel pools (usually $60/day) |
+| Pool access | Private villa pools (varies by property) | Rooftop hotel pools (usually $60/day) |
 | Morning vibe | Quiet streets, coffee shops, bikes | Loud from morning, vomit cleanup crews |
 | Group coordination | Easy — everyone's at the same villa | Harder — hotels split people up |
 
@@ -54,7 +54,7 @@ Walk from a Bywater villa to most of these in under 10 minutes.
 
 **Hi-Ho Lounge** — Neighborhood bar, eclectic crowd, occasional live music or events. Good for a late-night drink without a plan.
 
-**The Country Club** — Pool bar, brunch, cocktails. The day-drinking option with an actual pool if your villa doesn't have one (though if you're at Castleday, you already have one).
+**The Country Club** — Pool bar, brunch, cocktails. The day-drinking option with an actual pool if your villa doesn't have one.
 
 **Euclid Records** — Not a bar, but worth knowing: excellent record shop that doubles as a neighborhood hang. Good for an afternoon browse.
 

@@ -4,7 +4,7 @@ description: "How the logistics math changes when your group hits 25, 30, 40, or
 category: "Planning & Logistics"
 card_title: "Very Large Groups (25–50)"
 card_description: "When your group outgrows a single rental: multi-villa strategy, private buyouts, charter transport, split scheduling."
-date: 2026-08-10
+date: 2026-09-12
 ---
 
 Most group travel guides are written for groups of 10 to 15. The moment you cross 25 people, the entire logistics stack changes. Transportation doesn't scale the same way. Restaurant reservations work differently. A single rental stops being enough.
@@ -61,9 +61,7 @@ Two villas sleeping 30 each gives you 60 people in two locations. Three villas g
 
 ### The NOLA Multi-Villa Option
 
-**Castleday Retreats** has three private villas in the Bywater, each with its own pool and room for up to 30 guests — about 90 across all three. Book two villas for a group pushing 60; book all three once the guest list tops that. The Bywater location means your group stays in the same neighborhood even split across buildings, and Castleday manages all three under a single booking contact with coordinated access. One of the three, The Florentine, is ADA-accessible, worth knowing if that's a factor for your group.
-
-**The Syd** operates multiple villas in the Lower Garden District, each sleeping up to 22 guests. Book two and you get a shared heated pool and hot tub between them, so the group has one gathering spot even split across units. One block from the [St. Charles Streetcar](/guides/nola-group-st-charles-streetcar-itinerary/), which matters when you're trying to move a big crew to dinner without chartering a bus.
+A handful of properties solve the split-group problem by offering multiple villas under one coordinated booking. Castleday Retreats has three private-pool villas in the Bywater (up to 30 guests each, about 90 across all three) — book two for a group pushing 60, all three once the guest list tops that, with one contact coordinating access across buildings. The Syd operates multiple Lower Garden District villas (up to 22 guests each) that share a heated pool and hot tub when booked together, one block from the [St. Charles Streetcar](/guides/nola-group-st-charles-streetcar-itinerary/) for moving a big crew to dinner without chartering a bus.
 
 Heirloom's large-format homes across the Lower Garden District and Central City add more depth to the field when the first two are booked, and a hotel room block (The Roosevelt, Hotel Bennett, Hotel Peter & Paul) still makes sense for a crew with mixed budgets who want their own key and their own bill. None of this is a booking recommendation — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full cost breakdown across the field.
 
