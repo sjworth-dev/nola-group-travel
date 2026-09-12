@@ -2,27 +2,9 @@
 # Facts only: event dates for guide refreshes. 'announced' events are set by
 # organizers each year — verify online before publishing a specific date.
 generated_window:
-- '2026-08-01'
-- '2027-10-01'
+- '2026-09-01'
+- '2027-11-01'
 events:
-- name: Satchmo SummerFest
-  slug: satchmo-summerfest
-  location: French Quarter (Jazz Museum grounds)
-  start: '2026-08-01'
-  end: '2026-08-01'
-  confidence: typical
-- name: White Linen Night
-  slug: white-linen-night
-  location: Warehouse District (Julia St galleries)
-  start: '2026-08-01'
-  end: '2026-08-01'
-  confidence: exact
-- name: Red Dress Run
-  slug: red-dress-run
-  location: Starts at Crescent Park (moved for 2026; previously French Quarter / Marigny)
-  start: '2026-08-08'
-  end: '2026-08-08'
-  confidence: typical
 - name: Southern Decadence
   slug: southern-decadence
   location: French Quarter
@@ -227,6 +209,24 @@ events:
   start: '2027-07-04'
   end: '2027-07-04'
   confidence: exact
+- name: Satchmo SummerFest
+  slug: satchmo-summerfest
+  location: French Quarter (Jazz Museum grounds)
+  start: '2027-08-07'
+  end: '2027-08-07'
+  confidence: typical
+- name: White Linen Night
+  slug: white-linen-night
+  location: Warehouse District (Julia St galleries)
+  start: '2027-08-07'
+  end: '2027-08-07'
+  confidence: exact
+- name: Red Dress Run
+  slug: red-dress-run
+  location: Starts at Crescent Park (moved for 2026; previously French Quarter / Marigny)
+  start: '2027-08-14'
+  end: '2027-08-14'
+  confidence: typical
 seasons:
 - slug: oyster-season
   name: Oyster Season
