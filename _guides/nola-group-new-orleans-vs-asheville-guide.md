@@ -11,7 +11,7 @@ Asheville shows up constantly in bachelorette and girls-trip group chats alongsi
 
 The two cities aren't really running the same kind of trip. Asheville's days lean outdoor and its evenings lean brewery-hop; the appeal is fresh mountain air, hikes or waterfalls, and a beer garden at the end of it. New Orleans doesn't have mountains or a brewery-crawl identity — its version of "the trip is the point" runs on live music, a street culture that never really closes, and food that's the actual center of gravity rather than a scenic backdrop.
 
-Here's the honest version of the comparison: outdoor-and-brewery culture vs. live-music culture, lodging, food and drink, and the mild-mountain-vs-Gulf-humidity question that shapes more of these trips than either city's tourism marketing lets on.
+Here's the honest version of the comparison: outdoor-and-brewery culture vs. live-music culture, lodging, food and drink, and the mild-mountain-vs-Gulf-humidity question that shapes more of these trips than either city's tourism marketing lets on. If New Orleans wins the debate, [start here for the full planning sequence](/guides/plan-a-group-trip/) — dates, lodging, and budget in the order that actually avoids group-chat chaos.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two cities really diverge, and it changes the whole shape of a
 
 Asheville's big-group lodging model is the mountain cabin or Airbnb rental house — several bedrooms, a porch, sometimes a hot tub, usually a short drive from downtown's brewery district. It's a genuinely strong format for a mid-size group, but the inventory tops out lower than a lot of organizers expect once a group gets into real double digits, and a lot of the best cabins sit well outside town.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like The Mazant (an 1880s Bywater guesthouse sleeping up to 18, with a heated pool and spa) or Hotel Bennett (a room-block hotel option for a mixed-budget group that wants its own keys and its own bills) represent the kind of purpose-built group housing New Orleans has developed at a scale most Asheville cabin rentals don't match at real group size. Neither is a booking recommendation — they're representative of a category, and hotel room blocks (properties like The Roosevelt or The Pontchartrain) are the answer for a mixed-budget group in either city.
 
@@ -76,7 +76,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 The two cities don't share a weather problem at all, which is exactly why comparing them on "best season" takes some care. Asheville's climate is genuinely mild for most of the year, with real winter cold and a short, popular fall-foliage window that books up fast; it doesn't have New Orleans' oppressive summer humidity, but it also doesn't offer a warm-weather escape in January.
 
-New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours. Check the actual calendar before assuming a "summer bad, other months fine" rule here: October and February through May are the genuine high-demand stretch, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat.
+New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours. Check the actual calendar before assuming a "summer bad, other months fine" rule here: October and February through May are the genuine high-demand stretch, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks the whole calendar down month by month.
 
 ---
 
