@@ -4,12 +4,12 @@ description: "The per-song tip model, the collective hat for brass bands, when t
 category: "Culture & History"
 card_title: "NOLA Live Music Tipping Protocol"
 card_description: "Per-song tips, the collective hat for brass bands, when to tip the whole band vs. individual players, and what musicians actually want from a group of 20 visitors."
-date: 2026-06-23
+date: 2026-09-12
 ---
 
-New Orleans runs on live music and tips. These two facts are connected. The musicians playing on Frenchmen Street, on street corners, in second line parades, and at historic clubs are working musicians — this is their income, not their hobby. A large group of 20-30 people rolling through their space and leaving nothing is noticed. A large group that tips well and tips correctly is also noticed, and the experience on both sides is different.
+New Orleans runs on live music and tips. These two facts are connected. The musicians playing on Frenchmen Street, on street corners, in second line parades, and at historic clubs are working musicians — this is their income, not their hobby. A big crew rolling through their space and leaving nothing is noticed. A big crew that tips well and tips correctly is also noticed, and the experience on both sides is different.
 
-This guide covers how tipping actually works for each format of live music in New Orleans — clubs, street performance, brass bands, second lines, and private hires. For large groups, the mechanics are different than for individuals. You can't have 20 people individually dropping singles into a tip jar simultaneously. You need a system.
+This guide covers how tipping actually works for each format of live music in New Orleans — clubs, street performance, brass bands, second lines, and private hires. For a large group, the mechanics are different than for individuals. You can't have twenty people individually dropping singles into a tip jar simultaneously. You need a system. (Deciding where the whole crew is based before a music-heavy trip matters too — see [how to plan a New Orleans group trip](/guides/plan-a-group-trip/) for the full sequence.)
 
 Here's the system.
 
@@ -31,7 +31,7 @@ Here's the system.
 
 In New Orleans music culture, the tip is not optional and it is not a supplement to a salary. For many musicians in the live music ecosystem, tips are the majority of their income on any given night. This is especially true for street performers, Frenchmen Street club musicians playing tip-only rooms, and brass band members playing smaller parades and second lines.
 
-For large groups: **the group tip should be proportionally larger than an individual tip.** If a solo listener tips $5 after a set, a group of 20 listening to the same set should collectively be leaving $20-40, not $5 from one person while the other 19 watch.
+For a big crew: **the group tip should be proportionally larger than an individual tip.** If a solo listener tips $5 after a set, twenty people listening to the same set should collectively be leaving $20-40, not $5 from one person while everyone else watches.
 
 The math that works in practice: decide on a per-person contribution to the group tip fund, collect it at the start of the night, and have one person disburse from that fund throughout the evening. This removes the awkward moment of 20 people fumbling for singles while a musician finishes a song.
 
@@ -121,7 +121,7 @@ The exception is when a musician approaches you directly — comes to your table
 
 ## The Group Tip Logistics System
 
-For a group of 15-30 people, here's the system that actually works:
+For the whole crew, here's the system that actually works:
 
 **Before the first venue:**
 1. Designate a tip person — ideally someone who tracks money comfortably and won't forget
@@ -183,19 +183,9 @@ Musicians are not the only people in the live music ecosystem. At Frenchmen Stre
 
 ## Large Groups at the Villa After Live Music
 
-The best large group music evenings end back at the villa. After Frenchmen Street, after a brass band, after a second line — the debrief is part of the experience. What was the best song of the night. Which musician stood out. Who tipped and who didn't. This is the kind of conversation that a villa common area handles well and a hotel lobby can't.
+The best large group music evenings end back at the base. After Frenchmen Street, after a brass band, after a second line — the debrief is part of the experience. What was the best song of the night. Which musician stood out. Who tipped and who didn't. This is the kind of conversation a common area with room to sit handles well and a hotel lobby can't.
 
-### Castleday Retreats
-
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine. The Bywater location is directly adjacent to the Frenchmen Street music scene and the Marigny's bar corridor. Walking back to the villa from a full evening on Frenchmen is realistic. The common areas and outdoor spaces are designed for groups that want to extend the night after they leave the venues.
-
-12 bedrooms, 17 real beds, 8 baths per villa, accommodating 14 to 30 guests. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Artist-designed rooms throughout.
-
-The Syd's outdoor kitchen and pool area is the right setting for the post-music debrief. After a night on Frenchmen Street, the group that comes back to an outdoor space with good seating and music they can control has a natural end to the night that a hotel hallway doesn't offer. One block from the St. Charles Streetcar, which can get the group to the live music corridor and back without transit complications.
+A base in the [Bywater or Marigny](/neighborhoods/marigny/) makes the walk home from Frenchmen Street realistic instead of a rideshare surge-price gamble. Castleday Retreats has private-pool villas in the Bywater built for exactly this; The Mazant, a few blocks over, is one historic Bywater house with a heated pool for a single group that maxes out around 18. Groups that would rather have separate bills or hotel service altogether should weigh a room block at one of the CBD/Warehouse District hotels instead — the [nightlife guide](/guides/nightlife-guide/) covers how each base changes your late-night walk home. Whichever fits, for the largest selection, book 6+ months out.
 
 ---
 
@@ -203,4 +193,4 @@ The Syd's outdoor kitchen and pool area is the right setting for the post-music 
 
 [See where to stay for large groups →](/where-to-stay/)
 
-The live music experience and the group's home base are connected — a good villa close to Frenchmen Street changes how the evening flows and how it ends.
+The live music experience and the group's home base are connected — a base close to Frenchmen Street changes how the evening flows and how it ends. For the brass bands and second lines themselves, see the [second line guide](/guides/second-line-guide/) and [brass band hire logistics](/guides/nola-group-brass-band-hire-logistics-guide/); for the fuller festival-season version of a music night, see the [Jazz Fest guide](/guides/jazz-fest-group-guide/).
