@@ -4,14 +4,14 @@ description: "What Lafayette Cemetery actually allows for visiting groups, the G
 category: "Activities & Day Trips"
 card_title: "Lafayette Cemetery Picnic & Garden District Walk"
 card_description: "What Lafayette Cemetery allows for group visits, the Garden District morning walk that pairs naturally with it, Magazine Street sourcing for the picnic, and how to frame this for groups who want something more cultural than a park day."
-date: 2026-06-23
+date: 2026-09-12
 ---
 
 Lafayette Cemetery No. 1 in the Garden District is not St. Louis Cemetery No. 1 in the French Quarter. That distinction matters for groups.
 
 St. Louis requires a tour guide, limits group size, and is managed by the Archdiocese with specific rules around access. Lafayette is open to the public without required guides, allows self-paced visits, and has a character that's quieter, more residential, and more genuinely suited to a group that wants to spend time there rather than march through.
 
-Combined with a Magazine Street sourcing run and the Garden District walk that surrounds it, Lafayette Cemetery makes an exceptional mid-trip morning for groups who want something off the beaten track — not a tour, not a conventional park day, but a combination of the two that produces one of the more distinctive mornings available in this city.
+Combined with a Magazine Street sourcing run and the Garden District walk that surrounds it, Lafayette Cemetery makes an exceptional mid-trip morning for groups who want something off the beaten track — not a tour, not a conventional park day, but a combination of the two that produces one of the more distinctive mornings available in this city. If your group wants a longer, guided-feeling version of the surrounding neighborhood before or after, the [Garden District walking tour guide](/guides/nola-group-garden-district-walking-tour-guide/) covers the full 3-hour structure.
 
 ---
 
@@ -58,7 +58,7 @@ The walk to and from Lafayette Cemetery is part of the experience. The Garden Di
 
 **Start:** The group meets at the villa and takes the St. Charles Streetcar or rideshares to the Garden District. The streetcar from the Lower Garden District or Uptown is the preferred option — it runs along the edge of the neighborhood and the ride is part of the experience.
 
-**Arrive at Magazine Street:** Before heading to the cemetery, do the picnic sourcing run on Magazine Street near the Garden District section (between Louisiana and Washington Avenues). This stretch has specialty food shops, bakeries, and deli options that provide better picnic food than a generic grocery run. More on sourcing below.
+**Arrive at Magazine Street:** Before heading to the cemetery, do the picnic sourcing run on Magazine Street near the Garden District section (between Louisiana and Washington Avenues). This stretch has specialty food shops, bakeries, and deli options that provide better picnic food than a generic grocery run. More on sourcing below — and if the group wants to turn this into a full day rather than a morning, the [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/) covers the rest of the six-mile corridor.
 
 **Walk toward the cemetery:** The walk from Magazine to Lafayette Cemetery on Washington Avenue passes some of the neighborhood's most significant mansions. The distance is less than half a mile and requires no narration — the architecture is visible from the street and the group can walk at its own pace, stopping where people want to stop.
 
@@ -87,7 +87,7 @@ Magazine Street near the Garden District has the best density of specialty food 
 **Drinks:** Pick up drinks at the last stop before heading to the cemetery. Glass bottles are heavier; canned sparkling water, juice, and beer (for the park portion) are easier to carry. New Orleans doesn't restrict open containers in outdoor public spaces the way most cities do, which is relevant for the Coliseum Square portion.
 
 **Carrying logistics for a group of 20:**
-You're shopping for a picnic for 20 people on foot, which means multiple people carrying bags across half a mile. Break into buying sub-groups at different shops — one group handles bread and cheese, another handles drinks and fruit — and meet at the cemetery entrance.
+You're shopping for a picnic for 20 people on foot, which means multiple people carrying bags across half a mile. Break into buying sub-groups at different shops — one group handles bread and cheese, another handles drinks and fruit — and meet at the cemetery entrance. If the group is already tracking spending across the trip, the [group money management guide](/guides/nola-group-money-management-guide/) has a system for splitting a scattered shopping run like this one without someone quietly eating the cost.
 
 | Item | Quantity for 20 people | Source |
 |------|----------------------|--------|
@@ -181,11 +181,11 @@ The Garden District itself was built by Americans (as opposed to the Creole Fren
 
 Both the Garden District and adjacent neighborhoods are the right base for this morning. The Lower Garden District is particularly well positioned for this route.
 
-### Castleday Retreats
+### Heirloom
 
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with 12 bedrooms, 17 real beds, and 8 baths, accommodating 14 to 30 guests. From the Bywater, the Magazine Street corridor and the Garden District are accessible by the St. Charles Streetcar or a short rideshare.
+Dozens of large-format homes across the Lower Garden District and Central City — the deepest inventory in the city if your group needs choice or booked late. A Heirloom home in either neighborhood puts the villa within walking distance or a short streetcar ride of the whole route in this guide.
 
-The private pool and common areas at Castleday are where the group lands when it comes home from the cemetery morning: lunch out of the left-over picnic supplies, pool for the afternoon, the kind of slow mid-day recovery that keeps a multi-day trip feeling manageable. The Florentine is ADA-accessible. 4.98 average rating across 99 reviews.
+The common-area space in these homes is where the group lands when it comes home from the cemetery morning: lunch out of the left-over picnic supplies, a slow mid-day recovery before the next thing. Fit and layout vary by house, so confirm specifics before booking for a full crew.
 
 ### The Syd
 
@@ -197,6 +197,6 @@ The Syd's location is particularly well-suited to the Garden District morning wa
 
 ## See Where to Stay
 
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
-A neighborhood morning like this one — cemetery, walk, picnic, Magazine Street — is the kind of experience that doesn't require a tour company or a reservation. It requires a base close enough to walk or streetcar to, and the space to come back to when it's done.
+A neighborhood morning like this one — cemetery, walk, picnic, Magazine Street — is the kind of experience that doesn't require a tour company or a reservation. It requires a base close enough to walk or streetcar to, and the space to come back to when it's done. If you're still weighing whether the Garden District or the French Quarter makes more sense as your home base, the [French Quarter vs. Garden District guide](/guides/nola-group-french-quarter-vs-garden-district-guide/) walks through the trade-off.
