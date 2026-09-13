@@ -11,7 +11,7 @@ Palm Springs comes up in almost every bachelorette-party group chat that also fl
 
 The two cities aren't really running the same kind of trip. Palm Springs revolves around the pool at your rental and a handful of resort pool-club day passes; the whole point is horizontal, sun-soaked hours with a drink in hand. New Orleans doesn't have a pool-club scene at all — its version of "the trip is the point" runs on live music, a street culture that never really closes, and food that's the actual center of gravity rather than a resort amenity.
 
-Here's the honest version of the comparison: pool culture vs. live-music culture, lodging, food and drink, and the dry-heat-vs-humidity question that decides more of these trips than either city's tourism marketing admits.
+Here's the honest version of the comparison: pool culture vs. live-music culture, lodging, food and drink, and the dry-heat-vs-humidity question that decides more of these trips than either city's tourism marketing admits. If your group is still at the "where do we even go" stage rather than choosing between these two specifically, the [how-to-plan-a-group-trip hub](/guides/plan-a-group-trip/) sequences that whole decision.
 
 ---
 
@@ -30,7 +30,7 @@ Here's the honest version of the comparison: pool culture vs. live-music culture
 
 Palm Springs' whole model is built around the pool. Rent a mid-century house with a private pool, add a day pass or two to one of the resort pool clubs in town, and the day is largely the activity — loungers, a speaker, and drinks that start well before noon. It's a genuinely great format for a group that wants to spend most of a trip in swimsuits with nowhere to be.
 
-New Orleans runs on the opposite clock. Group pool time here happens at your own rental, not at a public pool club with a cover charge. What the city has instead is a night that starts at dinner and doesn't really end: live music on [Frenchmen Street](/guides/live-music-guide/), bars with no closing time, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) culture that spans both halves of the day.
+New Orleans runs on the opposite clock. Group pool time here happens at your own rental, not at a public pool club with a cover charge — the [villa pool party guide](/guides/villa-pool-party-guide/) covers how to run that afternoon well. What the city has instead is a night that starts at dinner and doesn't really end: live music on [Frenchmen Street](/guides/live-music-guide/), bars with no closing time, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) culture that spans both halves of the day.
 
 **The real distinction:** Palm Springs sells your group a private pool and an optional produced pool-club day. New Orleans gives your group a private pool at the house and a free, unstructured city at night. If the whole trip is supposed to be horizontal and sunny, Palm Springs wins that format outright. If the group wants nights built around music instead of a lounge chair, New Orleans wins.
 
@@ -76,7 +76,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 Neither city lets a group off easy in peak summer, but the two heat problems aren't the same. Palm Springs' summer is a dry desert heat — regularly well over 100°F for weeks at a stretch, which is exactly why the private-pool rental model dominates there; the whole day is built around staying near water and out of direct sun. New Orleans' heat is a humid Gulf heat that makes afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours.
 
-For New Orleans specifically, check the actual calendar before assuming a "summer bad, other months fine" rule: October and February through May are the genuine high-demand stretch here, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat.
+For New Orleans specifically, check the actual calendar before assuming a "summer bad, other months fine" rule: October and February through May are the genuine high-demand stretch here, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks the whole calendar down month by month.
 
 ---
 
