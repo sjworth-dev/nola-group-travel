@@ -1,10 +1,10 @@
 ---
 title: "Pre-Game Tailgate Guide for Large Groups at Caesars Superdome"
-description: "Parking lot tailgate, nearby bar pre-game, and villa pre-game for groups of 15-30 attending Saints games or events at Caesars Superdome: timing, logistics, and the three formats that actually work at scale."
+description: "Parking lot tailgate, nearby bar pre-game, and villa pre-game for the whole crew attending Saints games or events at Caesars Superdome: timing, logistics, and the three formats that actually work at scale."
 category: "Activities & Day Trips"
 card_title: "Superdome Pre-Game Tailgate Guide"
-card_description: "Parking lot vs. nearby bar vs. villa pre-game for groups of 15-30 at Caesars Superdome: timing, format comparison, Saints traditions, and group logistics that keep everyone together."
-date: 2026-06-25
+card_description: "Parking lot vs. nearby bar vs. villa pre-game for a big group at Caesars Superdome: timing, format comparison, Saints traditions, and group logistics that keep everyone together."
+date: 2026-09-13
 ---
 
 There are three ways to do a pre-game for a large group at Caesars Superdome. Most visiting groups default to the wrong one.
@@ -15,7 +15,7 @@ The nearby bar pre-game is more manageable but requires actually knowing which b
 
 The villa pre-game is the option most groups never consider, and for groups staying in Bywater or the Lower Garden District, it is often the best version of all three: start at home, batch cocktails, cook something quick, walk out the door together with everyone already loose and in the spirit before the rideshare shows up.
 
-This guide covers all three formats with the specific logistics for groups of 15-30, the Saints-specific traditions worth knowing, the timing that makes or breaks the pre-game experience, and the post-game regroup structure that matters as much as the pre-game for a group this size.
+This guide covers all three formats with the specific logistics for the whole crew, the Saints-specific traditions worth knowing, the timing that makes or breaks the pre-game experience, and the post-game regroup structure that matters as much as the pre-game for a group this size.
 
 ---
 
@@ -71,7 +71,7 @@ For a group of 8 or fewer, this is manageable. For a group of 20, the coordinati
 
 ## Format Two: The Nearby Bar Pre-Game
 
-This is the practical choice for most groups of 15-25 visiting NOLA for an event. You do not need equipment. You do not need logistics beyond getting there. You need to pick the right bar and go early enough to get space.
+This is the practical choice for most groups visiting NOLA for an event. You do not need equipment. You do not need logistics beyond getting there. You need to pick the right bar and go early enough to get space.
 
 ### The geography
 
@@ -178,7 +178,7 @@ Set the post-game plan before you walk in:
 
 ## Pro Tips
 
-1. **The charter van is the correct transport solution for groups of 15+.** The difference between coordinating 20 individual rideshares to the Dome at game-time surge pricing and having one van arrive at a known time is a 45-minute stress gap. Charter vans for Dome events book up — call early if you want this option.
+1. **The charter van is the correct transport solution once the group hits double digits.** The difference between coordinating 20 individual rideshares to the Dome at game-time surge pricing and having one van arrive at a known time is a 45-minute stress gap. Charter vans for Dome events book up — call early if you want this option.
 
 2. **Eat before the Dome, not inside it.** Dome concession food is expensive, limited in variety, and requires standing in lines that eat into the game. A group that eats well at the villa or at a nearby restaurant arrives at the Dome satisfied and not waiting in a concession line at kickoff.
 
@@ -196,10 +196,8 @@ Set the post-game plan before you walk in:
 
 ## Large Group Accommodation for Superdome Events
 
-Caesars Superdome is in the CBD, accessible by rideshare from both the Bywater and the Lower Garden District in under 20 minutes.
+Caesars Superdome is in the CBD, accessible by rideshare from the Bywater, the Lower Garden District, and Central City in under 20 minutes.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The villa pre-game setup at Castleday — courtyard, full kitchen, private pool — is the strongest pre-game format for a group of this size, and the post-game return gives the group exactly what they need after 4-6 hours in a stadium: privacy, space, and no one calling last call. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is slightly closer to the Dome than the Bywater. The outdoor kitchen and courtyard at The Syd make the villa pre-game straightforward to execute, and the heated pool is the correct post-game recovery environment after a night game.
+A villa with a real kitchen and outdoor space is what makes the pre-game format in this guide work at all — a courtyard for the group to assemble in, a kitchen for the batch cocktail, and a pool for the post-game recovery after 4-6 hours in a stadium. Heirloom's large-format homes across the Lower Garden District and Central City have the deepest inventory if you're booking without much lead time; a Castleday Retreats villa in the Bywater puts you a short rideshare from the Dome with the same setup. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

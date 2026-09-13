@@ -1,10 +1,10 @@
 ---
 title: "Crescent Park and the Bywater Riverfront for Large Groups in New Orleans"
-description: "Crescent Park and the Bywater riverfront for groups of 15-25: the elevated riverwalk, the Piety Street wharf, morning coffee logistics, and using the park as the group's daily reset point."
+description: "Crescent Park and the Bywater riverfront for the whole crew: the elevated riverwalk, the Piety Street wharf, morning coffee logistics, and using the park as the group's daily reset point."
 category: "Activities & Day Trips"
 card_title: "Crescent Park & Bywater Riverfront"
 card_description: "The elevated riverwalk, the Piety Street wharf, and the best river views in New Orleans — the Bywater's park as your group's daily reset."
-date: 2026-06-26
+date: 2026-09-13
 ---
 
 Most visitors to New Orleans see the Mississippi River from the Moonwalk in the French Quarter: the tourist levee, Café Du Monde in the background, tourist carriages on Decatur Street. It is a legitimate view. It is also crowded, commercially oriented, and structurally oriented toward selling you things.
@@ -66,7 +66,7 @@ The most efficient morning structure for groups doing a Crescent Park visit is t
 
 The blocks immediately adjacent to the Piety Street entrance have several options — small cafés, the Bywater American Bistro, and a handful of neighborhood coffee operations. These are small operations and not designed for groups arriving simultaneously, so the right approach is to send two or three people ahead while the rest of the group walks toward the park entrance, or to do a staggered coffee run rather than attempting to serve 20 people at a small counter at once.
 
-The practical alternative: set up the villa coffee operation before leaving. A group of 15-20 people with an insulated pitcher of good coffee arriving at Crescent Park is better than 15 people milling around a café that seats 18.
+The practical alternative: set up the villa coffee operation before leaving. The whole crew showing up with an insulated pitcher of good coffee is better than a dozen people milling around a café that seats 18.
 
 **The morning structure:**
 
@@ -166,10 +166,8 @@ For groups walking from the Marigny: the upper entrance on Chartres and Elysian 
 
 ## Large Group Accommodation Near Crescent Park
 
-Crescent Park is walkable from Bywater accommodations and an easy 15-minute rideshare from the Lower Garden District.
+Crescent Park is walkable from Bywater accommodations and an easy 15-minute rideshare from the Lower Garden District or Central City.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. Castleday Retreats are positioned in the Bywater, and the walk from the villas to the Piety Street park entrance is a few blocks on foot — the park becomes accessible on foot multiple times daily, not just as a scheduled excursion. The morning coffee-and-park ritual, the sunset walk before Frenchmen Street, and the midday reset are all possible without any transit logistics when you are staying in the Bywater. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. From the Lower Garden District, Crescent Park is a 15-minute rideshare. Groups at The Syd can plan the park as a dedicated half-day excursion — morning park visit, Bywater lunch at Bacchanal, return to The Syd for the afternoon pool window.
+A Bywater base puts the park within a few blocks on foot — Castleday Retreats' villas sit in the neighborhood, close enough that the morning coffee-and-park ritual and the sunset walk before Frenchmen Street happen without any transit logistics. Heirloom's large-format homes across the Lower Garden District and Central City put the park a short rideshare away instead, which works fine as a dedicated half-day excursion rather than a walk-out-the-door habit — morning park visit, Bywater lunch at Bacchanal, back to the villa for the afternoon. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
