@@ -11,7 +11,7 @@ Mardi Gras is the biggest group travel event in America. Every year, hundreds of
 
 For large groups, Mardi Gras requires more advance planning than any other trip type — but it also delivers more than any other trip type. If you've never been to Mardi Gras with a big group, with a real home base, on the parade routes during the superkrewe weekends, you don't yet know what it can be.
 
-This guide covers the logistics. The events page on this site covers dates. Read both.
+This guide covers the logistics. The events page on this site covers dates. Read both. Still working out whether Mardi Gras is even the right trip for your group, or just how a New Orleans group trip comes together at all? The [group trip planning hub](/guides/plan-a-group-trip/) sequences those decisions before you land on this page.
 
 ## Quick Planning Checklist
 
@@ -42,7 +42,7 @@ Mardi Gras is not one day. The season runs from January 6 (Twelfth Night/Epiphan
 | Lundi Gras (Monday before) | Krewe of Proteus, Krewe of Orpheus (Harry Connick Jr.'s krewe) |
 | Fat Tuesday | Krewe of Zulu (historically significant, morning), Rex (classic, follows Zulu), truck floats all day |
 
-The superkrewe weekends — the Saturday and Monday before Fat Tuesday — are when most visitors arrive. If your group wants to see the biggest parades, plan around these days.
+The superkrewe weekends — the Saturday and Monday before Fat Tuesday — are when most visitors arrive. If your group wants to see the biggest parades, plan around these days. For the full parade-by-parade breakdown across the whole season, not just the headline weekend, see the [Carnival season parade calendar](/guides/nola-group-carnival-season-parade-calendar/).
 
 ### Which Days to Be There
 
@@ -72,7 +72,7 @@ St. Charles Avenue is the premier viewing spot. Two miles of oak-canopied boulev
 | Lee Circle | Near end of route, city view | Parade winds down here |
 | Canal Street | Downtown, classic, energy is high | Most crowded spot on the route |
 
-**The ladder tradition:** Many locals bring or rent custom bleacher ladders with child seats on top — you'll see them all along St. Charles. For a group of adults, they're less necessary, but they're useful for people who want to catch throws more reliably.
+**The ladder tradition:** Many locals bring or rent custom bleacher ladders with child seats on top — you'll see them all along St. Charles. For a group of adults, they're less necessary, but they're useful for people who want to catch throws more reliably. If your group has its own ambitions of riding a float instead of just catching what comes off one, the [float rider guide](/guides/nola-group-parade-float-rider-guide/) covers what krewe membership and riding actually involve.
 
 ### French Quarter Mardi Gras
 
@@ -112,7 +112,7 @@ The groups who navigate Mardi Gras best are the ones who walk everywhere. Book a
 
 ### Party Buses and Charters
 
-For groups of 15-30, chartering a party bus or van is worth considering — especially for airport transfers and for moving the group to and from events on non-parade-closure streets. Several local charter companies operate specifically for Mardi Gras. Book these months in advance; they sell out. The [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the charter-vs-rideshare math and MSY airport pickup strategy for staggered arrivals in more detail.
+Once the group hits double digits, chartering a party bus or van is worth considering — especially for airport transfers and for moving the group to and from events on non-parade-closure streets. Several local charter companies operate specifically for Mardi Gras. Book these months in advance; they sell out. The [rideshare and ground transport guide](/guides/nola-group-ride-share-master-guide/) covers the charter-vs-rideshare math and MSY airport pickup strategy for staggered arrivals in more detail.
 
 Getting the group out after a parade ends is its own logistics problem — thousands of people hit the sidewalks at once. The [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers pickup zones and timing for exactly this kind of crowd surge, built for Jazz Fest and Voodoo Fest but just as applicable the moment Bacchus or Endymion wraps.
 
@@ -168,7 +168,7 @@ Krewe of Proteus runs in the afternoon. Krewe of Orpheus (evening) is one of the
 
 ### Fat Tuesday
 
-The main event. Starts early — Zulu rolls in the morning (historically significant; do some reading before you go), Rex follows on St. Charles Avenue. The truck floats run all day, featuring neighborhood krewes with more chaotic energy. The French Quarter is its own thing all day.
+The main event. Starts early — Zulu rolls in the morning (historically significant; do some reading before you go), Rex follows on St. Charles Avenue. The truck floats run all day, featuring neighborhood krewes with more chaotic energy. The French Quarter is its own thing all day. The [Fat Tuesday guide](/guides/nola-group-mardi-gras-day-guide/) goes deeper on just this one day if the rest of the season isn't the priority.
 
 By mid-afternoon, most of the organized parades are done. The city shifts into open party mode. Everyone is in costume. At midnight, the police begin clearing Bourbon Street.
 
@@ -178,7 +178,7 @@ By mid-afternoon, most of the organized parades are done. The city shifts into o
 
 1. **Catch a parade you've never heard of.** The big superkrewes are great, but a neighborhood parade on a Tuesday afternoon — kids, local floats, a brass band walking in front — is a different and often more memorable experience.
 
-2. **Wear pockets or a bag.** You'll catch beads, doubloons, cups, and stuffed animals. You need somewhere to put them.
+2. **Wear pockets or a bag.** You'll catch beads, doubloons, cups, and stuffed animals. You need somewhere to put them. There's an actual etiquette to the catching — the [bead-throwing etiquette guide](/guides/nola-group-bead-throwing-etiquette-guide/) covers it so your group doesn't look like the out-of-towners.
 
 3. **Eat before the big parades.** Restaurants along the parade routes get overwhelmed before major parades. Either eat early or plan to eat after. Have food at the house.
 
