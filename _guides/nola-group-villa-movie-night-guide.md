@@ -244,29 +244,19 @@ Give the going-out group a loose return time. "Last call is 2am, plan accordingl
 
 ## Large Group Accommodation
 
-The outdoor movie night concept requires specific things from the space: enough outdoor square footage to seat 20-30 people in a shared orientation, an electrical situation that supports the equipment, a wall or screen surface that works as a projection target, and enough privacy that outdoor sound at movie-watching volume does not create a problem. Not all villas deliver all of this.
+The outdoor movie night concept requires specific things from the space: enough outdoor square footage to seat the whole crew in a shared orientation, an electrical situation that supports the equipment, a wall or screen surface that works as a projection target, and enough privacy that outdoor sound at movie-watching volume does not create a problem. Not all villas deliver all of this.
 
 ### Castleday Retreats
 
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with 12 bedrooms, 17 real beds, and 8 baths, designed for groups of 14 to 30 guests. The Florentine is ADA-accessible.
+Bywater villas with a private courtyard and pool per villa, accommodating 14 to 30 guests depending on the house. The enclosed courtyard works naturally as an outdoor movie venue — it contains sound better than a more exposed deck would, and the pool area gives the group room to sit with real sightlines to a projection surface.
 
-The private courtyard and pool areas at Castleday's villas work naturally as outdoor movie venues. The enclosed courtyard provides the acoustic containment that outdoor movie setups need — sound does not bleed to the street the way it does from a more exposed deck. The pool area provides enough square footage for 25-30 people to sit with actual sightlines to a projection surface.
+The Bywater is also the neighborhood that Treme spent three seasons depicting in detail. Watching Treme from a Bywater villa is the most location-specific version of this film list — the neighborhood you are in, on screen, from a courtyard within walking distance of the streets shown.
 
-The outdoor kitchen and gathering areas mean the villa can produce a full evening sequence: dinner at the villa, movie night in the courtyard, late-night pool for whoever stays, and a short walk to Frenchmen Street for whoever still has energy. All of that happens without a single rideshare.
+### Heirloom
 
-The Bywater is also the neighborhood that Treme spent three seasons depicting in detail. Watching Treme from a Bywater villa is the most location-specific version of this film list — the neighborhood you are in, on screen, from a courtyard within walking distance of the streets shown. That has a resonance that is specific to these villas and this neighborhood.
+Dozens of large-format homes across the Lower Garden District and Central City — the deepest inventory in the city if the group needs choice or booked late. A Heirloom home with a courtyard or a large living room handles the projector setup outdoors or in, depending on the house; confirm the layout before booking for the full crew.
 
-4.98 average rating across 99 reviews.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, accommodating up to 22 guests per villa. Shared heated pool, hot tub, sauna, and outdoor kitchen. Rooms are artist-designed, which means the aesthetic of the space holds up as a backdrop in a way that generic rental furniture does not.
-
-The outdoor kitchen and pool area at The Syd can be configured as a movie setup — the kitchen structure provides a natural screen-end boundary, the pool deck provides audience space, and the shared amenities mean the group has options before and after the film without leaving the property. The sauna and hot tub are available for the contingent that is not going out.
-
-The shared amenities at The Syd create a specific dynamic for the staying-in track: the group that opts out of the bar run has a heated pool, a sauna, and outdoor kitchen access. That is not a consolation; it is a legitimate competing option that makes the two-track end of night an actual choice between two good things rather than a choice between going out and sitting in a living room.
-
-For the going-out track, the St. Charles Streetcar is one block away — a 20-minute ride to the French Quarter for well under two dollars, no rideshare coordination required. This is one of the cleanest post-movie bar transitions available in New Orleans: the film ends, the group splits, five people are on the streetcar within 20 minutes.
+For the going-out track afterward, the Lower Garden District and Central City are both a short streetcar ride or rideshare from the French Quarter and Frenchmen Street — the film ends, the group splits, and whoever wants the bar can be there inside 20 minutes.
 
 ---
 
@@ -292,7 +282,7 @@ Most outdoor movie nights that fail do so in predictable ways. These are the com
 
 ## See Where to Stay
 
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 The outdoor movie night works because the villa gives you the space and the control that a bar or a rented event room cannot. You set the start time. You pick the film. You control the audio. You manage the end of the night in a way that works for people with different amounts of energy left. None of that is available anywhere else for a group this size.
 

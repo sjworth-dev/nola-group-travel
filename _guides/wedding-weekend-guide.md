@@ -146,8 +146,8 @@ Where you base your group matters. New Orleans wedding venues are spread across 
 | Neighborhood | Best For | Notes |
 |-------------|----------|-------|
 | Garden District | Garden District venues, Magazine Street access, beautiful walking neighborhood | Classic choice for destination weddings |
-| Lower Garden District | St. Charles venues, easy downtown access, walkable to multiple neighborhoods | The Syd is here |
-| Bywater | Couples who want an artsy, less tourist-heavy base | Walkable to Frenchmen Street; Castleday is here |
+| Lower Garden District | St. Charles venues, easy downtown access, walkable to multiple neighborhoods | Deep villa and hotel-suite inventory |
+| Bywater | Couples who want an artsy, less tourist-heavy base | Walkable to Frenchmen Street |
 | French Quarter | Couples whose wedding is in or near the Quarter | Excellent access but higher tourist density |
 | Uptown | Uptown venues (Audubon, Tulane area), residential feel | Streetcar access; quieter neighborhood base |
 
