@@ -4,14 +4,14 @@ description: "Who goes, what to buy, and how to source a villa breakfast for 20 
 category: "Villa Life"
 card_title: "The Villa Morning Market Run"
 card_description: "Who goes on the morning run, what to source from the Crescent City Farmers Market or Rouses, and how to turn a grocery errand into one of the better bonding moments of the trip."
-date: 2026-06-23
+date: 2026-09-13
 ---
 
 Most group trips outsource every meal. Someone books a restaurant for every night, a brunch for every late morning, and the villa kitchen sits there the entire trip as a bar setup and late-night snack station. That's fine. But the groups that do at least one morning market run — a few people up early, out the door before the rest of the villa is awake, back with coffee and food and things from the local market — those groups tend to remember that morning as one of the better ones.
 
 This guide is for that morning. How to run it, what to source, who should go, and how to stage breakfast for 20 people in a villa kitchen when you get back.
 
-It also explains the difference between the Saturday farmers market run and the Rouses run — because those are different operations with different payoffs, and the right one depends on your timeline.
+It also explains the difference between the Saturday farmers market run and the Rouses run — because those are different operations with different payoffs, and the right one depends on your timeline. For the full sourcing picture beyond this one morning — Rouses vs. Whole Foods vs. the farmers market, ingredient by ingredient — see the [food markets and villa cooking sourcing guide](/guides/nola-group-new-orleans-food-markets-sourcing-guide/).
 
 ---
 
@@ -73,7 +73,7 @@ What the Saturday market reliably has:
 
 Rouses is the regional grocery chain that actually understands Louisiana ingredients. It's not a farmers market, but it's not a generic grocery store either — the Creole seasoning selection, the seafood counter, the prepared foods, and the local product inventory make it more interesting than most chains.
 
-For a morning run where the farmers market isn't in play (wrong day of the week, timing doesn't work, group is late starters), Rouses is the move.
+For a morning run where the farmers market isn't in play (wrong day of the week, timing doesn't work, group is late starters), Rouses is the move. If the run is really the opening move of stocking the villa for the whole trip rather than just breakfast, the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers who shops, who pays, and how the full list gets built.
 
 **What to source at Rouses:**
 
@@ -173,28 +173,12 @@ Put a handwritten note on the counter if you want to be the kind of person who d
 
 ## Large Group Accommodation and the Villa Kitchen
 
-A villa morning works because you have a kitchen. This sounds obvious and is worth being explicit about: a hotel of 20 people cannot do a morning market run. There's nowhere to stage the food, nowhere to cook, and no common table to eat at that doesn't cost everyone money.
+A villa morning works because you have a kitchen. This sounds obvious and is worth being explicit about: a hotel room for 20 people cannot do a morning market run. There's nowhere to stage the food, nowhere to cook, and no common table to eat at that doesn't cost everyone money.
 
-The villa kitchen is the infrastructure that makes the morning run pay off. What's in it — how many burners, how much counter space, what's already stocked — determines how ambitious the run crew can be.
+The villa kitchen is the infrastructure that makes the morning run pay off. What's in it — how many burners, how much counter space, what's already stocked — determines how ambitious the run crew can be. Confirm the kitchen setup before you book, not after you're standing in it with 36 eggs and one burner.
 
-### Castleday Retreats
+Heirloom's large-format homes across the Lower Garden District and Central City are worth checking first — the inventory is deep enough that a workable kitchen is rarely the limiting factor, even on shorter notice. The Mazant, a single historic Bywater guesthouse that sleeps 18 around one kitchen, puts the group within walking distance of the Saturday farmers market on Magazine Street. If the crew would rather have someone handle breakfast entirely rather than run the errand themselves, the [private chef guide](/guides/private-chef-guide/) covers the alternative, or a hotel room block — The Roosevelt or Hotel Peter & Paul both work — solves the staging problem without needing a shared kitchen at all.
 
-Three private villas in the Bywater — The Herald, The Cocodrie, and The Florentine — each with 12 bedrooms, 17 real beds, 8 baths, and full kitchens built for groups that actually use them. Accommodates 14 to 30 guests per villa.
-
-The Bywater location puts the Crescent City Farmers Market and the Marigny's morning café culture within a short trip. The Florentine is ADA-accessible. The 17-real-beds spec matters here: the people coming home from the run with groceries aren't stepping over sleeping bodies on couches. Everyone has a bed; the kitchen is clear; the morning can happen.
-
-4.98 average rating across 99 reviews.
-
-### The Syd
-
-Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Every room was designed by a local New Orleans artist.
-
-The outdoor kitchen at The Syd changes the morning market run calculation significantly. Eggs and boudin on an outdoor grill while the rest of the group comes out to the pool deck is a better setting than a cramped indoor kitchen. The St. Charles Streetcar is one block away, which means the run crew can ride to the farmers market on Magazine Street without a rideshare.
-
----
-
-## See Where to Stay
+Whatever the villa, run the numbers against the trip's other meals too — the [foodie group itinerary](/guides/nola-group-foodie-itinerary-guide/) builds a full three-day pace around exactly this kind of market morning, and the [villa farewell breakfast guide](/guides/nola-group-villa-farewell-breakfast-guide/) covers the same idea for the last morning instead of an early one. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
-
-The right villa kitchen is what makes this morning possible. The market run, the setup, the breakfast spread — all of it depends on having the space to do it in. Make sure you have that space before you plan the morning.
