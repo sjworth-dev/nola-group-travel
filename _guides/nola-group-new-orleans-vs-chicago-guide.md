@@ -13,7 +13,7 @@ Chicago is a different kind of competitor to New Orleans than most cities on thi
 
 That's exactly what makes the comparison honest instead of lopsided. Chicago delivers a genuinely great American city trip — big, walkable in patches, deep in food and culture. New Orleans delivers something different: [live music](/guides/live-music-guide/) that runs past midnight in nearly every direction you walk, a food culture that's the actual reason people book the trip, and a scale and pace built for a crew rather than a metropolis. Neither city is the "easy" choice here — this is a real matchup between two cities that both take themselves seriously.
 
-Here's the honest version of the comparison: deep-dish-and-River-North-nightlife framing vs. live-music-city framing, lodging (Chicago's hotel-room market vs. New Orleans' purpose-built villa market), food and drink culture (Chicago's own deep identity vs. Creole-Cajun), and the lake-city-in-winter vs. Gulf-city-in-winter climate tradeoff.
+Here's the honest version of the comparison: deep-dish-and-River-North-nightlife framing vs. live-music-city framing, lodging (Chicago's hotel-room market vs. New Orleans' purpose-built villa market), food and drink culture (Chicago's own deep identity vs. Creole-Cajun), and the lake-city-in-winter vs. Gulf-city-in-winter climate tradeoff. If Chicago vs. New Orleans is the first decision on your list rather than the last, the [how to plan a group trip](/guides/plan-a-group-trip/) hub sequences everything that comes after it.
 
 ---
 
