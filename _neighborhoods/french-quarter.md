@@ -121,19 +121,19 @@ Walk to Frenchmen Street. Or go to the Marigny or Bywater, where the bars are ch
 
 ## Getting to the French Quarter
 
-The Quarter is easy to reach from anywhere in the city. If you're staying at either of the large-group properties near the Quarter, you're in good shape.
+The Quarter is easy to reach from anywhere in the city. If you're staying at one of the large-group home bases near the Quarter, you're in good shape.
 
-**From Castleday Retreats in the Bywater:** The Bywater borders the Marigny, which borders the Quarter. About 15-20 minutes on foot along the river road or St. Claude Avenue. One of the great walks in the city. Short Uber if you don't want to walk.
+**From the Bywater:** The Bywater borders the Marigny, which borders the Quarter. About 15-20 minutes on foot along the river road or St. Claude Avenue. One of the great walks in the city. Short Uber if you don't want to walk.
 
-**From The Syd in the Lower Garden District:** Take the St. Charles Streetcar toward Canal Street, get off at Canal, walk one block. Or Uber in about 10 minutes. Easy either way.
+**From the Lower Garden District:** Take the St. Charles Streetcar toward Canal Street, get off at Canal, walk one block. Or Uber in about 10 minutes. Easy either way.
 
 ## For Large Groups
 
 Here's the honest answer about the French Quarter and large groups: **don't try to stay here.** Large-group rentals in the Quarter are extremely limited due to city regulations, and what exists is expensive and often loud.
 
-The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base. Castleday Retreats' Bywater villas run up to 30 guests each with a private pool per villa, 15-20 minutes from the Quarter on foot and walking distance to Frenchmen Street. The Syd's Lower Garden District villas run up to 22 guests with a shared heated pool and hot tub, one block from the St. Charles Streetcar into the Quarter. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look for short-notice availability, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately.
+The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look for short-notice availability, Castleday Retreats runs Bywater villas up to 30 guests each with a private pool per villa 15-20 minutes from the Quarter on foot, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately.
 
-Neither property is inside the French Quarter. That's the point — the whole crew gets a real home base to gather, relax, and decompress, while staying close enough for the Quarter experiences worth having.
+None of these home bases are inside the French Quarter. That's the point — the whole crew gets a real home base to gather, relax, and decompress, while staying close enough for the Quarter experiences worth having.
 
 For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
 
@@ -155,11 +155,11 @@ For the largest selection, book 6+ months out. [See where to stay for large grou
 
 ## The French Quarter vs. Other Home Bases
 
-| Factor | French Quarter | Bywater (Castleday) | Lower Garden District (The Syd) |
-|--------|---------------|---------------------|----------------------------------|
+| Factor | French Quarter | Bywater | Lower Garden District |
+|--------|---------------|---------|------------------------|
 | Nightlife access | Excellent | 15-20 min walk | 10-min Uber or Streetcar |
 | Noise at night | Very loud | Quiet | Moderate |
-| Large group rentals | Nearly impossible | Yes (up to 30) | Yes (up to 22) |
+| Large group rentals | Nearly impossible | Yes | Yes |
 | Local feel | Tourist-heavy | Very local | Residential/local |
 | Price level | High | Lower | Lower |
 | Frenchmen Street | 1 block | Walking distance | 10-min Uber |

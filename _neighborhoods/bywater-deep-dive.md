@@ -9,7 +9,7 @@ Most visitors to New Orleans see the French Quarter. A smaller number make it to
 
 That's exactly why the Bywater works for groups. It's a neighborhood full of actual New Orleanians doing their actual lives. The restaurants are excellent and uncrowded. The bars are real. The streets feel alive without feeling like a production. For the shorter overview before this deep dive, see the [Bywater neighborhood guide](/neighborhoods/bywater/); for how it stacks up against the rest of the city's neighborhoods, the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) has the full breakdown.
 
-For large groups, there's an added dimension: the Bywater is home to Castleday Retreats' private villas, several of which sleep up to 30 guests. Groups staying in Bywater aren't just visiting the neighborhood—they're living in it for a few days. This guide tells you everything you need to know to use it well.
+For large groups, there's an added dimension: the Bywater is home to several private-villa operators, some of which sleep up to 30 guests under one roof. Groups staying in Bywater aren't just visiting the neighborhood—they're living in it for a few days. This guide tells you everything you need to know to use it well.
 
 ---
 
@@ -194,13 +194,13 @@ Groups who haven't been to New Orleans often default to French Quarter accommoda
 | Factor | Bywater | French Quarter |
 |--------|---------|----------------|
 | Noise at night | Quiet residential | Loud until 4 AM |
-| Large group accommodations | Castleday Retreats (up to 30/villa) | Very limited options |
+| Large group accommodations | Yes, multiple villa operators (up to 30/villa) | Very limited options |
 | Restaurant quality | Excellent, local | Touristy mixed with some gems |
 | Walking to Frenchmen | 10-15 min | 5-10 min |
 | Walking to Bourbon | 25 min | 0 min |
 | Neighborhood authenticity | High | Low |
 | Photo opportunities | Exceptional | Good but crowded |
-| Private pool options | Yes (Castleday) | Almost none |
+| Private pool options | Yes | Almost none |
 
 For large groups specifically, the choice is easy: the Bywater has what the French Quarter doesn't, and the French Quarter is close enough to visit whenever you want. See the [French Quarter vs. Garden District comparison](/guides/nola-group-french-quarter-vs-garden-district-guide/) for how those two stack up if the Bywater doesn't end up being the pick.
 
@@ -208,9 +208,7 @@ For large groups specifically, the choice is easy: the Bywater has what the Fren
 
 ## Large Group Accommodations in the Bywater
 
-Once the trip goes double-digit, **Castleday Retreats** is the anchor of the Bywater's large-group accommodation scene — villas of 14 to 30 guests each, a private pool per villa, and full kitchens, all genuinely in the neighborhood rather than a rideshare away from it.
-
-It's not the only option worth knowing about. **Heirloom**'s large-format homes reach into the Bywater and neighboring Marigny for a group comparing layouts on short notice. **The Lookout Inn**, also in the Bywater, fits a group right at the rental-size threshold without needing a full villa. And for a group that's landed on a base outside the neighborhood, **The Syd** in the Lower Garden District offers a comparable private-villa experience with a shared pool and hot tub, one block from the streetcar.
+Once the trip goes double-digit, **Heirloom**'s large-format homes reach into the Bywater and neighboring Marigny for a group comparing layouts on short notice. **Castleday Retreats** also runs villas in the neighborhood — 14 to 30 guests each, a private pool per villa, and full kitchens, genuinely in the neighborhood rather than a rideshare away from it. **The Lookout Inn**, also in the Bywater, fits a group right at the rental-size threshold without needing a full villa, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for a group that wants separate keys and separate bills instead.
 
 For the largest selection, book 6+ months out.
 
