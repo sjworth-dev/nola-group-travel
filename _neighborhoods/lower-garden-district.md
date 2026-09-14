@@ -23,7 +23,7 @@ For groups, it has one more advantage: it's one of the few New Orleans neighborh
 
 ### 1. The Streetcar Is Your Friend
 
-One block from The Syd, the St. Charles Streetcar runs directly through the neighborhood. For $1.25 a ride, you can get to the French Quarter, Mid-City, or Uptown without coordinating Ubers. For a group of 20, that math adds up fast.
+The St. Charles Streetcar runs directly through the neighborhood. For $1.25 a ride, you can get to the French Quarter, Mid-City, or Uptown without coordinating Ubers. For a group of 20, that math adds up fast.
 
 ### 2. Magazine Street Is Right There
 
@@ -45,31 +45,11 @@ The restaurants near the Lower Garden District actually compete on quality. Loca
 
 ### 5. Large Group Accommodations Exist Here
 
-The LGD is one of the very few New Orleans neighborhoods with permitted large-group rentals. That's not an accident—it's part of why The Syd is located here.
+The LGD is one of the very few New Orleans neighborhoods with permitted large-group rentals. That's not an accident—it's part of why large-group villa operators have concentrated here.
 
 ## Where to Stay
 
-### For Large Groups: The Syd
-
-The Syd is purpose-built for large group travel in New Orleans. Multiple villas in the heart of the Lower Garden District, each sleeping up to 22 guests.
-
-Every room was designed by a local New Orleans artist. Not generic hotel-room art—actual commissioned work from people who live here. It shows.
-
-**What you get:**
-- Heated pool and hot tub (shared between villas)
-- Walking distance to the streetcar, restaurants, and bars on Magazine Street
-- Designed interiors that make for great photos and a real sense of place
-- One of the most central large-group locations in the city
-
-**Best for:** Wedding parties near downtown venues. Convention groups. Anyone who wants to be in the middle of the city without staying in the middle of the crowds.
-
-[See where to stay for large groups →](/where-to-stay/)
-
-### For Large Groups Who Want Total Privacy: Castleday Retreats
-
-If your group needs complete seclusion—your own private pool, no shared amenities, no other guests—Castleday Retreats operates three private villas in the Bywater, each sleeping up to 30 guests.
-
-The Bywater is a 10-minute Uber from the Lower Garden District but has a completely different feel: artsy, local, quieter. Great if your group wants to retreat from the city rather than be in the middle of it.
+The Lower Garden District is one of the few New Orleans neighborhoods built to actually hold a big group under one roof — most of the city caps short-term rentals well below that. The Syd operates multiple villas here, each sleeping up to 22 guests, with a shared heated pool and hot tub and walking distance to the Streetcar and Magazine Street. If your group wants total privacy in one villa instead, Castleday Retreats runs private-pool villas in the Bywater, a 10-minute Uber away with a quieter, artsier feel. Heirloom's larger inventory of large-format homes across LGD and Central City is worth checking on a late booking, and a downtown hotel room block works when the crew wants separate keys and bills. Confirm amenities directly with any property before booking.
 
 [See where to stay for large groups →](/where-to-stay/)
 
@@ -101,7 +81,7 @@ Magazine Street has no shortage of brunch options. Walk the strip on a Saturday 
 
 **Snake & Jake's Christmas Club Lounge** — A New Orleans classic. A tiny, Christmas-lit dive bar open late. Not for everyone, but if you want to understand the city, you need to see it.
 
-The Magazine Street corridor has a full range of options from craft cocktail bars to dive bars within easy walking distance of The Syd.
+The Magazine Street corridor has a full range of options from craft cocktail bars to dive bars within easy walking distance of most LGD villa stays.
 
 ## Things to Do
 
@@ -133,7 +113,7 @@ Antiques, vintage, local boutiques. Better than any mall. Good for an afternoon 
 
 ## Getting Around
 
-**Streetcar:** One block from The Syd. Runs Uptown toward Carrollton and toward Canal Street/French Quarter. $1.25. Slow but scenic.
+**Streetcar:** Runs through the neighborhood, Uptown toward Carrollton and toward Canal Street/French Quarter. $1.25. Slow but scenic.
 
 **Walking to French Quarter:** 10-15 minutes on foot via Magazine Street or the river road.
 
@@ -150,7 +130,7 @@ Antiques, vintage, local boutiques. Better than any mall. Good for an afternoon 
 | Walkability | Excellent | Excellent | Excellent |
 | Noise at night | Moderate | Quiet | Very loud |
 | Local feel | Very local | Local | Touristy |
-| Large group rentals | Yes (The Syd) | Yes (Castleday) | Very limited |
+| Large group rentals | Yes (villas up to ~22) | Yes (villas up to ~30) | Very limited |
 | Convention access | Walking distance | 15 min Uber | Walking distance |
 | Streetcar access | One block | No | Canal/Riverfront |
 | Magazine Street | Yes | Near | No |
@@ -161,7 +141,7 @@ Antiques, vintage, local boutiques. Better than any mall. Good for an afternoon 
 
 The Lower Garden District is one of the only neighborhoods in New Orleans with permitted large-group accommodations. Most of the city caps rentals at 10 guests by regulation.
 
-That's part of why The Syd is based here — multiple villas, up to 22 guests each, in the heart of the neighborhood, with a heated pool and hot tub on site. It's not the only option: Castleday Retreats, about 15 minutes away in the Bywater, fits a group that wants full privacy in one villa; Heirloom has the deepest inventory of large-format homes for a group booking late; and a room block at a downtown hotel works when the crew wants separate keys and separate bills. Pick based on fit, not proximity alone — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff.
+That's part of why large-group villa operators have concentrated here — see the Where to Stay section above for the specific properties and how they compare. Pick based on fit, not proximity alone — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers that tradeoff.
 
 ## Tips for Staying in the Lower Garden District
 
@@ -179,6 +159,6 @@ That's part of why The Syd is based here — multiple villas, up to 22 guests ea
 
 ## Book Your Stay
 
-The Syd is the large-group option actually based in the Lower Garden District. If your group wants full privacy in one villa, more capacity, or separate keys and bills, Castleday Retreats, Heirloom, and downtown hotel room blocks are all worth a look — for the largest selection, book 6+ months out.
+See the Where to Stay section above for how the large-group properties based in and near the Lower Garden District compare — for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

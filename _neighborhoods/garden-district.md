@@ -88,7 +88,7 @@ Within easy walking distance of the Garden District:
 
 The northern boundary of the Garden District is St. Charles Avenue, where the world's oldest continuously operating streetcar still runs.
 
-The St. Charles Streetcar connects downtown/CBD to Canal Street at one end and to Carrollton/Uptown at the other. For groups staying in the Garden District area (or nearby at The Syd in the Lower Garden District), the Streetcar is practical transport and a genuine New Orleans experience.
+The St. Charles Streetcar connects downtown/CBD to Canal Street at one end and to Carrollton/Uptown at the other. For groups staying in the Garden District area (or nearby in the Lower Garden District), the Streetcar is practical transport and a genuine New Orleans experience.
 
 **Riding it:** $1.25 per ride. Slow — it stops at every block. Extremely beautiful.
 
@@ -116,9 +116,9 @@ Book Commander's Palace as the centerpiece. Everything else builds around it. A 
 
 ## Getting to the Garden District
 
-**From The Syd in the Lower Garden District:** Walk. The two neighborhoods share a border. Lafayette Cemetery and Commander's Palace are 15-20 minutes on foot from The Syd.
+**From the Lower Garden District:** Walk. The two neighborhoods share a border. Lafayette Cemetery and Commander's Palace are 15-20 minutes on foot from most LGD villa stays.
 
-**From Castleday Retreats in the Bywater:** Take the St. Charles Streetcar from Canal Street (short Uber to the Streetcar, then board). Or Uber directly — about 20 minutes.
+**From the Bywater:** Take the St. Charles Streetcar from Canal Street (short Uber to the Streetcar, then board). Or Uber directly — about 20 minutes.
 
 **From the French Quarter:** Walk down Magazine Street (20-25 minutes) or take the Streetcar toward Uptown.
 
@@ -132,7 +132,7 @@ Book Commander's Palace as the centerpiece. Everything else builds around it. A 
 | Nightlife | Very limited | Frenchmen Street nearby | Magazine Street bars | Abundant |
 | Restaurants | Commander's, Magazine St. | Bacchanal, local spots | Strong restaurant corridor | Tourist-heavy + hidden gems |
 | Walkability | Excellent (daytime) | Excellent | Excellent | Excellent |
-| Large group rentals | Very limited | Yes (Castleday, up to 30) | Yes (The Syd, up to 22) | Nearly impossible |
+| Large group rentals | Very limited | Yes (villas up to ~30) | Yes (shared-pool villas up to ~22) | Nearly impossible |
 | Best time to visit | Daytime | Evening and night | Any time | Evening |
 
 The Garden District is best as a daytime experience combined with a home base nearby. Groups trying to stay here will find inventory extremely limited — most of the large homes are private residences, and short-term rental regulations in the neighborhood are strict.
@@ -143,7 +143,7 @@ The Garden District is best as a daytime experience combined with a home base ne
 
 The Garden District itself has almost no large-group rental inventory — most of the mansions are private residences and short-term rental rules here are strict. Base a few minutes away instead.
 
-**Editorial examples of what fits:** The Syd, one neighborhood over in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub and puts you walking distance from Commander's Palace, Lafayette Cemetery, and Magazine Street. Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool and full kitchen, a short Uber or streetcar ride from the district. Heirloom's larger inventory of large-format homes is worth checking for a group that books late, and a downtown hotel room block works when the crew wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
+**Editorial examples of what fits:** Heirloom's inventory of large-format homes across the [Lower Garden District](/neighborhoods/lower-garden-district/) and Central City is deep enough to find something even on a late booking. The Syd, one neighborhood over in the Lower Garden District, has a shared heated pool and hot tub and puts you walking distance from Commander's Palace, Lafayette Cemetery, and Magazine Street. Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool and full kitchen, a short Uber or streetcar ride from the district. A downtown hotel room block works when the crew wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
 
 ---
 
@@ -167,6 +167,6 @@ The Garden District itself has almost no large-group rental inventory — most o
 
 ## Book Your Stay Near the Garden District
 
-The Syd is closest, walking distance from Commander's Palace and Magazine Street. Castleday Retreats, Heirloom, and downtown hotel room blocks are all worth a look too, depending on whether privacy, inventory, or separate bills matters more to your group — for the largest selection, book 6+ months out.
+The Lower Garden District and the Bywater are the closest bases, both a short walk or ride from Commander's Palace and Magazine Street — see the editorial examples above for which one fits your group's size and budget. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

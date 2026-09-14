@@ -17,7 +17,7 @@ For groups, the Marigny is a destination, not a home base. You'll come here ever
 
 **The neighborhood is residential but welcoming.** People live in the Marigny. There are families, artists, longtime New Orleanians. The vibe is more neighborhood bar than tourist trap. Locals eat and drink here on weeknights because they want to, not because they work there.
 
-**It connects the French Quarter to the Bywater.** If you're staying at Castleday Retreats in the Bywater, Frenchmen Street is walking distance. If you're staying at The Syd in the Lower Garden District, it's a short Uber or a walk through the Quarter. Either way, you're going to spend time here.
+**It connects the French Quarter to the Bywater.** If you're staying in the Bywater, Frenchmen Street is walking distance. If you're staying in the Lower Garden District, it's a short Uber or a walk through the Quarter. Either way, you're going to spend time here.
 
 ## Frenchmen Street: The Full Picture
 
@@ -93,7 +93,7 @@ The boundary between the Marigny and the French Quarter. Wide, tree-lined, beaut
 
 ### Bywater Wander
 
-The Marigny bleeds into the Bywater at Press Street. Walk east on Royal Street (the Marigny's main residential strip) and you'll find galleries, coffee shops, and the kinds of blocks that look like nothing's changed in 50 years. If you're staying at Castleday Retreats, your villa is in this territory—you can walk to Frenchmen Street in under 10 minutes.
+The Marigny bleeds into the Bywater at Press Street. Walk east on Royal Street (the Marigny's main residential strip) and you'll find galleries, coffee shops, and the kinds of blocks that look like nothing's changed in 50 years. If your group is staying in the Bywater, this is your territory—Frenchmen Street is under 10 minutes on foot.
 
 ### Kayaking on Bayou St. John
 
@@ -105,9 +105,9 @@ The Marigny and neighboring Tremé (just across Esplanade) are the birthplace of
 
 ## Getting to the Marigny
 
-**From Castleday Retreats in the Bywater:** Walk. Frenchmen Street is 10-15 minutes on foot through the Bywater. This is the best commute to a music scene you'll find anywhere.
+**From the Bywater:** Walk. Frenchmen Street is 10-15 minutes on foot through the Bywater. This is the best commute to a music scene you'll find anywhere.
 
-**From The Syd in the Lower Garden District:** Take the St. Charles Streetcar to Canal, then walk through the French Quarter to Frenchmen Street (about 20 minutes total). Or Uber directly—10 minutes, roughly the same cost as 3-4 Streetcar rides for a group. Either works.
+**From the Lower Garden District:** Take the St. Charles Streetcar to Canal, then walk through the French Quarter to Frenchmen Street (about 20 minutes total). Or Uber directly—10 minutes, roughly the same cost as 3-4 Streetcar rides for a group. Either works.
 
 **From the French Quarter:** Walk one block east past the end of Bourbon Street. It's that close.
 
@@ -132,13 +132,15 @@ The Marigny has almost no large-group rental inventory. City regulations make pe
 
 The solution—and it's a genuinely good one—is to stay in the Bywater and walk.
 
-**Castleday Retreats** operates three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. Frenchmen Street is a 10-minute walk. The Bywater is one of New Orleans' best neighborhoods in its own right; staying here means you're close to Frenchmen Street without being inside the noise.
+**Heirloom** has the deepest inventory of large-format homes in the city, LGD and Central City, which matters if your group is booking on short notice — and a Central City address still gets you within striking distance of Frenchmen Street.
 
-**The Syd** in the Lower Garden District sleeps up to 22 guests per villa and sits one block from the St. Charles Streetcar. It's further from Frenchmen Street than Castleday, but the location is excellent for groups who also want proximity to downtown, the Convention Center, or the Garden District. Uber to Frenchmen Street takes 10 minutes from the Syd.
+**Castleday Retreats** operates three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. Frenchmen Street is a 10-minute walk.
 
-**Heirloom** has the deepest inventory of large-format homes in the city, LGD and Central City, which matters if your group is booking on short notice. A downtown hotel room block is worth considering too if the group wants separate keys and bills.
+**The Syd** in the Lower Garden District sleeps up to 22 guests per villa and sits one block from the St. Charles Streetcar. It's a short Uber rather than a walk to Frenchmen Street, but the location is excellent for groups who also want proximity to downtown, the Convention Center, or the Garden District.
 
-If Frenchmen Street is the primary reason your group is visiting New Orleans, walking distance beats everything else on the list — Castleday's Bywater location is the closest fit for that specific priority. For groups balancing the music scene against downtown logistics, the other options above are worth weighing on their own terms.
+A downtown hotel room block is worth considering too if the group wants separate keys and bills.
+
+If Frenchmen Street is the primary reason your group is visiting New Orleans, walking distance beats everything else on the list — a Bywater base is the closest fit for that specific priority. For groups balancing the music scene against downtown logistics, the other options above are worth weighing on their own terms.
 
 ## Pro Tips
 
@@ -158,6 +160,6 @@ If Frenchmen Street is the primary reason your group is visiting New Orleans, wa
 
 ## Book Your Stay Near Frenchmen Street
 
-For large groups who want to be close to the Marigny, Castleday Retreats in the Bywater is the closest walk to Frenchmen Street; The Syd in the Lower Garden District trades a short Uber for proximity to downtown; Heirloom's larger inventory is worth checking if your group is booking late — for the largest selection, book 6+ months out.
+For large groups who want to be close to the Marigny, the Bywater is the closest walk to Frenchmen Street, while the Lower Garden District trades a short Uber for proximity to downtown — see the editorial examples above for which specific property fits. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
