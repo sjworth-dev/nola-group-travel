@@ -13,7 +13,7 @@ Savannah and New Orleans land on the same shortlist because they share a rare tr
 
 But they are not the same trip. Savannah is small, gorgeous, and self-contained — a compact grid of oak-shaded squares you can cross on foot in twenty minutes. New Orleans is bigger, louder, older as a cultural force, and has no closing time. Both are legitimate. They suit different crews.
 
-Here's the version without the visitors-bureau gloss.
+Here's the version without the visitors-bureau gloss. (If the city choice is the very first decision on your list, the [how to plan a group trip](/guides/plan-a-group-trip/) hub sequences everything that comes after it.)
 
 ---
 
@@ -107,7 +107,7 @@ New Orleans is walkable in stretches — the French Quarter, Marigny, and the Fr
 
 Both cities sit in the same coastal-Southern climate band, and neither is a cool-weather destination for most of the year. Summers in both are hot, humid, and prone to afternoon storms.
 
-For New Orleans specifically, a group trying to dodge the worst heat should target October or the February-through-May stretch — which is also the city's liveliest, highest-demand season, not a quiet shoulder window. Don't assume one city solves the heat and the other doesn't; compare specific date ranges instead. If you want the genuine value window, it's late August into mid-September, before October's demand ramps.
+For New Orleans specifically, a group trying to dodge the worst heat should target October or the February-through-May stretch — which is also the city's liveliest, highest-demand season, not a quiet shoulder window. Don't assume one city solves the heat and the other doesn't; compare specific date ranges instead. If you want the genuine value window, it's late August into mid-September, before October's demand ramps. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has the month-by-month verdicts if the calendar is still open.
 
 ---
 
