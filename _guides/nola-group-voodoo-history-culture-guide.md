@@ -4,14 +4,14 @@ description: "A direct, culturally accurate guide to Louisiana Voodoo and rootwo
 category: "Culture & History"
 card_title: "Voodoo and Rootwork in New Orleans"
 card_description: "The real tradition behind the tourist shops: what Louisiana Voodoo actually is, where to engage respectfully, and how to prepare a mixed group."
-date: 2026-06-23
+date: 2026-09-14
 ---
 
 New Orleans has a voodoo problem — not a spiritual one, but a representational one. Walk down Bourbon Street and you'll see skull-printed shot glasses, rubber voodoo dolls with pins stuck through them, and "gris-gris kits" sealed in plastic next to refrigerator magnets. None of that is Voodoo. It's a costume version of something with four centuries of history, a living community of practitioners, and deep roots in the West African diaspora. When you take a group into this part of New Orleans culture, you owe them the real thing, not the souvenir version.
 
 This guide is for groups that want to engage with Louisiana Voodoo and rootwork seriously — or at least honestly. You don't need to believe anything to get something from this. You do need to come in with some background, some context, and a willingness to treat this as what it is: a genuine religious and cultural tradition practiced by real people in this city right now, not a theme park.
 
-We've taken a lot of groups through this morning. What works is preparation. What fails is walking into the Voodoo Museum cold with nineteen people who have wildly different expectations and no shared frame of reference. This guide gives you that frame.
+What works is preparation. What fails is walking into the Voodoo Museum cold with a group that has wildly different expectations and no shared frame of reference. This guide gives you that frame.
 
 ---
 
@@ -88,11 +88,11 @@ The entry point for most groups should be a museum or cultural organization, not
 
 **The New Orleans Historic Voodoo Museum** is the most prominent option in the French Quarter. It is small, dense, and idiosyncratic — a cabinet of curiosities more than a conventional museum. What it offers is context: artifacts, altars, historical photographs, and explanatory material that gives a group a shared reference point before they encounter anything else. It will raise questions. That's its function. Go here first, let people spend time with it, and then talk about what they saw.
 
-**The New Orleans African American Museum** in Tremé addresses the broader context of African diaspora culture in New Orleans, which is the cultural matrix from which Voodoo emerged. If your group is serious about understanding where Louisiana Voodoo came from and why it looks the way it does, this is essential background. The Tremé neighborhood itself is one of the oldest African American neighborhoods in the country, and simply walking through it with some awareness of its history is meaningful.
+**The New Orleans African American Museum** in Tremé addresses the broader context of African diaspora culture in New Orleans, which is the cultural matrix from which Voodoo emerged. If your group is serious about understanding where Louisiana Voodoo came from and why it looks the way it does, this is essential background. The Tremé neighborhood itself is one of the oldest African American neighborhoods in the country, and simply walking through it with some awareness of its history is meaningful — the [Tremé culture immersion guide](/guides/nola-group-treme-culture-immersion-guide/) covers a fuller morning or afternoon there if this one gives your group an appetite for more.
 
 **Culturally grounded tours** exist that center Black and Haitian cultural voices and treat Louisiana Voodoo as a religious and historical tradition rather than a supernatural attraction. These are worth seeking out and vetting. Ask who leads the tour, what their relationship to the tradition is, and whether the tour is designed to inform or to thrill. The good ones do inform. They also take you to places and contexts that a group wandering independently would not find. Seek tours led by practitioners or community members rather than those marketed primarily as "haunted" or "scary."
 
-**Congo Square** in Armstrong Park is free, public, and carries genuine historical weight. Sunday afternoon drumming gatherings still happen there. Standing in the place where enslaved people maintained African spiritual and cultural practices in the face of a system designed to destroy them is not a small thing. Take the group there. Explain what happened there.
+**Congo Square** in Armstrong Park is free, public, and carries genuine historical weight. Sunday afternoon drumming gatherings still happen there, and the [Congo Square Rhythms Festival guide](/guides/nola-group-congo-square-rhythms-festival-guide/) covers the annual event built around that tradition if your dates line up. Standing in the place where enslaved people maintained African spiritual and cultural practices in the face of a system designed to destroy them is not a small thing. Take the group there. Explain what happened there.
 
 **St. Louis Cathedral and the surrounding French Quarter** offers the context for syncretism — the Catholic half of the equation. The cathedral has stood since the eighteenth century, and understanding its role in the religious life of the city helps make sense of how Voodoo and Catholicism coexisted and interpenetrated.
 
@@ -110,7 +110,7 @@ Her power in New Orleans was real and it was not purely spiritual. She knew thin
 
 The myth — that she was a sorceress, that she held supernatural power over the city, that she appears at her tomb to grant wishes — is a product of the same process that turns any complex historical figure into a legend. Take the legend seriously as a cultural artifact without treating it as biography.
 
-**St. Louis Cemetery No. 1** is where she is buried. The cemetery dates to 1789 and is one of the oldest in the city. It is gated, and tours are required — you cannot walk in independently. Tour groups are licensed and the cemetery is managed to protect the graves. Visitors historically marked Laveau's tomb with Xs, a practice that the Catholic archdiocese, which manages the cemetery, has asked people to stop. Respect that request.
+**St. Louis Cemetery No. 1** is where she is buried. The cemetery dates to 1789 and is one of the oldest in the city. It is gated, and tours are required — you cannot walk in independently. Tour groups are licensed and the cemetery is managed to protect the graves. Visitors historically marked Laveau's tomb with Xs, a practice that the Catholic archdiocese, which manages the cemetery, has asked people to stop. Respect that request. The [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) has the fuller logistics for booking a licensed group tour here and at the city's other historic cemeteries.
 
 A visit to the cemetery with a group of twenty is logistically feasible if you book in advance. It is not a quick walk-through. The above-ground tombs are visually striking and the history is dense. Budget at least forty-five minutes. The guide matters enormously — a good guide gives you the historical and spiritual context; a mediocre one gives you the ghost tour version.
 
@@ -175,11 +175,9 @@ Every group that does this morning contains roughly the same set of people, and 
 
 A morning built around culture and history lands differently when the group is staying somewhere that matches the city's character. The standard hotel corridor experience doesn't set the table for it. Private villa accommodations do.
 
-**Castleday Retreats** operates three private villas in the Bywater neighborhood — The Herald, The Cocodrie, and The Florentine. Each villa has twelve bedrooms and seventeen real beds across eight bathrooms, accommodating groups of fourteen to thirty. The Bywater location matters for a day like this: the neighborhood is walkable to Tremé, to the river, and to cultural institutions that form the backbone of the kind of morning this guide is built around. The Florentine is ADA-accessible. Castleday Retreats holds a 4.98 average rating across 99 reviews — which, for a property type that notoriously struggles with at-scale logistics, is not an accident. These are operated properties, not handed-off rentals.
+A few options fit this kind of morning well. Heirloom's large-format homes across the Lower Garden District and Central City are the deepest inventory in the city if the group is booking without much lead time. The Mazant, an 1880s Bywater guesthouse that sleeps up to eighteen with a heated pool and spa, puts the group inside the neighborhood this guide is anchored in — walkable to Tremé, to the river, and to the cultural institutions that form the backbone of the morning. For a bigger or more budget-mixed crew, a room block at one of the CBD hotels (The Roosevelt, Hotel Peter & Paul) keeps everyone under one roof without requiring a single unified rental.
 
-**The Syd** in the Lower Garden District offers a different configuration and neighborhood. Up to twenty-two guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen — amenities that make the post-morning debrief something to look forward to. The rooms are artist-designed, which means the property functions as a visual experience rather than a generic accommodation. One block from the St. Charles Streetcar puts the whole city in reach without requiring a car. The Garden District location sits south of the French Quarter action, which for a group doing serious cultural engagement tends to be a feature rather than a limitation.
-
-Both property types solve the core problem of group travel to New Orleans: keeping the group together in a way that lets the shared experience continue after the organized morning ends. A group that returns to separate hotel rooms loses the thread of the day. A group that returns to a shared villa with a kitchen and outdoor space keeps building on what they saw.
+The property type matters less than the fact of a shared space: a group that returns to separate hotel rooms loses the thread of the day faster than a group that returns to a shared kitchen and courtyard and keeps talking about what they saw. For the largest selection, book 6+ months out.
 
 ---
 
