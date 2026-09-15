@@ -11,7 +11,7 @@ Gulf Shores and Orange Beach come up constantly in regional girls-trip and famil
 
 The two trips aren't really the same kind of trip. Gulf Shores' whole model is the beach house and the day at the water; the appeal is sand, waves, and a porch to watch the sunset from. New Orleans doesn't have a beach at all — its version of "the trip is the point" runs on live music, a street culture that never really closes, and food that's the actual center of gravity rather than a coastal backdrop.
 
-Here's the honest version of the comparison: beach-house days vs. live-music nights, lodging, seafood and beach-bar culture vs. a centuries-old cuisine, and the hurricane-season risk window both destinations actually share, even though they handle it differently.
+Here's the honest version of the comparison: beach-house days vs. live-music nights, lodging, seafood and beach-bar culture vs. a centuries-old cuisine, and the hurricane-season risk window both destinations actually share, even though they handle it differently. If New Orleans wins the debate, the [group trip planning guide](/guides/plan-a-group-trip/) is the next stop for sequencing the rest of the decisions.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two destinations really diverge, and it changes the whole shap
 
 Gulf Shores' big-group lodging model is the beach-house rental — several bedrooms, a porch, often a private pool, usually a short walk or golf-cart ride from the water. It's a genuinely strong format for a mid-size group, but the biggest beachfront houses book out fastest and the inventory thins once a group pushes into real double digits, especially for anything actually on the sand rather than a block or two back.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like The Revelry (Central City apartment-style floors with separate billing and a saltwater pool) or Hotel Perle (CBD/Warehouse District group suites with a rooftop pool) represent the kind of purpose-built group housing New Orleans has developed at a scale most Gulf Shores beach houses don't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and hotel room blocks (properties like The Pontchartrain or Hotel Bennett) are the answer for a mixed-budget group in either destination.
 
@@ -78,7 +78,7 @@ This is the one risk factor both destinations genuinely share, and it's worth be
 
 Where they differ is exposure: Gulf Shores is directly on the coast, which means storm risk and evacuation logistics are a more immediate day-to-day planning consideration for a beach-house trip. New Orleans is inland from the coast but still within the risk window; a storm can still disrupt a trip here, just with a different set of logistics than a beachfront evacuation. Neither city gets a pass on this — check the forecast in the weeks before either trip, know your cancellation terms, and don't assume booking one over the other sidesteps the season.
 
-Separately from storm risk, check New Orleans' actual demand calendar before assuming a "summer bad, other months fine" rule: October and February through May are the genuine high-demand stretch here, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take both the heat and the tail end of hurricane season.
+Separately from storm risk, check New Orleans' actual demand calendar before assuming a "summer bad, other months fine" rule: October and February through May are the genuine high-demand stretch here, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take both the heat and the tail end of hurricane season. The [festival season calendar](/guides/festival-season-calendar/) lays out what's actually driving demand month by month.
 
 ---
 
