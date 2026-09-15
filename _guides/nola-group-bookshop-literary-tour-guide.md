@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Bookshop Literary Tour for Large Groups"
-description: "Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit for literary groups: route structure, author connections, and pairing with neighborhood bars and restaurants for groups of 10-25."
+description: "Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit for literary groups: route structure, author connections, and pairing with neighborhood bars and restaurants for the whole crew."
 category: "Activities & Day Trips"
 card_title: "NOLA Bookshop Literary Tour"
-card_description: "Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit with author connections, route structure, and neighborhood bar and restaurant pairings for groups of 10-25."
-date: 2026-06-24
+card_description: "Faulkner House Books, Crescent City Books, and Garden District Book Shop walking circuit with author connections, route structure, and neighborhood bar and restaurant pairings for the whole crew."
+date: 2026-09-15
 ---
 
 New Orleans has produced more significant American literature per square mile than any city of its size has any right to. Faulkner wrote his first novel in the French Quarter. Tennessee Williams used the city as both backdrop and raw material for some of the 20th century's most enduring plays. Anne Rice built an entire Gothic mythology out of the city's neighborhoods and architecture. Truman Capote grew up here. John Kennedy Toole wrote A Confederacy of Dunces while living here and never saw it published.
@@ -13,7 +13,7 @@ The literary history of New Orleans is not a past-tense story. The independent b
 
 For a group of literary travelers, a half-day bookshop circuit is one of the most distinctly New Orleans things you can do. It is slow by design. It generates conversation. It produces different experiences for different members of the group (each person finds something different in a bookshop). And it ends, naturally, at a bar or a restaurant, which is how most worthwhile New Orleans afternoons end.
 
-This guide covers the three-stop circuit, the route structure, what makes each shop worth visiting, the author connections to know in advance, and how to pair the afternoon with neighborhood food and drink.
+This guide covers the three-stop circuit, the route structure, what makes each shop worth visiting, the author connections to know in advance, and how to pair the afternoon with neighborhood food and drink. If this is one stop on a longer itinerary you're still assembling, the [group trip planning guide](/guides/plan-a-group-trip/) sequences the rest of the decisions.
 
 ---
 
@@ -136,7 +136,7 @@ The French Quarter shops are best visited before noon or in the early afternoon,
 
 ### Magazine Street (Midday)
 
-The Magazine Street corridor between the Quarter and the Garden District is the lunch window. The street has cafes, sandwich shops, and casual restaurants that can accommodate a group of 15-20 without reservations if you arrive between 11:30am and noon.
+The Magazine Street corridor between the Quarter and the Garden District is the lunch window. The street has cafes, sandwich shops, and casual restaurants that can accommodate a group of 15-20 without reservations if you arrive between 11:30am and noon. The [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/) covers the corridor in more depth if the group wants to turn the lunch stop into its own afternoon another day.
 
 The literary context on Magazine Street is indirect but present — the street runs through neighborhoods that appear repeatedly in New Orleans fiction as the residential infrastructure of the city's middle and working class, the world that exists below the French Quarter's mythology.
 
@@ -150,7 +150,7 @@ The afternoon ends in the Garden District, and the Garden District has good opti
 
 ---
 
-## Managing 15-25 People Through a Bookshop Circuit
+## Managing a Big Group Through a Bookshop Circuit
 
 The fundamental tension of a literary afternoon for large groups is that bookshops reward individual solitude and groups require collective movement. The way to resolve this:
 
@@ -182,10 +182,8 @@ The fundamental tension of a literary afternoon for large groups is that booksho
 
 ## Large Group Accommodation for the Literary Circuit
 
-The bookshop circuit ends naturally in the Garden District, which is a 10-15 minute rideshare or a 30-minute streetcar ride from the Lower Garden District villa properties. The Bywater villas are further but accessible via rideshare.
+The bookshop circuit ends naturally in the Garden District, which is a 10-15 minute rideshare or a 30-minute streetcar ride from the [Lower Garden District](/neighborhoods/lower-garden-district/) villa properties. The [Bywater](/neighborhoods/bywater/) villas are further but accessible via rideshare — and the neighborhood itself is deeply connected to New Orleans literary and artistic history, home to writers, painters, and musicians for decades in the way the French Quarter was before gentrification made the Quarter expensive and quiet.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater neighborhood is itself deeply connected to New Orleans literary and artistic history — it has been home to writers, painters, and musicians for decades in the way the French Quarter was before gentrification made the Quarter expensive and quiet. For a group with literary interests, the Bywater is an appropriate home base. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District location puts the group one block from the St. Charles Streetcar line and in the neighborhood that connects geographically and culturally to both the French Quarter and the Garden District — the middle of the circuit, not at either end. For a group based here, the bookshop circuit runs toward them from the French Quarter and ends in their own neighborhood.
+The field spans both ends of the route and doesn't require picking a single winner. Castleday Retreats has Bywater villas for 14 to 30 guests, each with a private pool, if total seclusion in that literary neighborhood is the draw. The Syd runs Lower Garden District villas up to 22 guests with a shared heated pool and hot tub, one block from the St. Charles Streetcar — the middle of the circuit, not either end, and an easy base for reaching both the Quarter and the Garden District. Heirloom's large-format homes across the Lower Garden District and Central City are worth checking if the group needs more choice or booked late. For a group with mixed budgets who'd rather each pay their own way, a room block at a hotel like The Roosevelt or Hotel Peter & Paul keeps everyone a short rideshare from either end of the route. See the [hotel-vs-villa comparison](/guides/hotel-vs-villa-guide/) for the fuller trade-off. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
