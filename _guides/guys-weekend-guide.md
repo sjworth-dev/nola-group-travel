@@ -9,7 +9,7 @@ date: 2026-07-31
 
 New Orleans is one of the best cities in the country for a guys weekend. The activities are genuinely good—golf, fishing, swamp tours, sports bars. The bar culture is built for groups. And nobody's going to rush you out anywhere.
 
-The problem most guys trips run into: they show up without a plan and spend most of the weekend arguing about what to do next. This guide gives you the plan.
+The problem most guys trips run into: they show up without a plan and spend most of the weekend arguing about what to do next. This guide gives you the plan. If nobody's organized a group trip here before, the [planning hub](/guides/plan-a-group-trip/) sequences the bigger decisions — dates, housing, budget — in the order they actually need to happen.
 
 ## Quick Checklist
 
@@ -131,13 +131,13 @@ By night three, you know what your group actually wants. Some guys will want ano
 | Cane & Table (French Quarter) | Rum drinks, good vibe, less chaotic than Bourbon | |
 | Snake & Jake's (Uptown) | Legendary dive bar, cheap beer, Christmas lights year-round | True late-night NOLA |
 
-**Bourbon Street strategy:** You're going. Accept it. Get walk-around drinks, do Lafitte's Blacksmith Shop while it's still atmospheric, hit Pat O'Brien's for the courtyard experience. Don't spend the whole night there — transition to Frenchmen Street by midnight. For a structured route through the Quarter and beyond, see the [bar crawl guide](/guides/bar-crawl-guide/).
+**Bourbon Street strategy:** You're going. Accept it. Get walk-around drinks, do Lafitte's Blacksmith Shop while it's still atmospheric, hit Pat O'Brien's for the courtyard experience. Don't spend the whole night there — transition to Frenchmen Street by midnight. The [Bourbon Street guide](/guides/nola-bourbon-street-guide/) has the fuller honest breakdown of what's worth the hour and what to skip. For a structured route through the Quarter and beyond, see the [bar crawl guide](/guides/bar-crawl-guide/).
 
 ---
 
 ## Eating: The Non-Negotiables
 
-A guys trip where nobody eats well is a waste. New Orleans is one of the best food cities in the country. Prioritize at least two real meals.
+A guys trip where nobody eats well is a waste. New Orleans is one of the best food cities in the country. Prioritize at least two real meals. Call ahead for anything past a table of six — the [restaurant guide](/guides/restaurant-guide/) covers which kitchens actually handle a big group and how to make the call.
 
 | Meal | Recommendation | Why |
 |------|---------------|-----|
@@ -201,7 +201,7 @@ The golf costs are per-round and vary significantly by course. TPC Louisiana is 
 
 4. **Cash before you leave the house.** Every night. ATM fees in the Quarter are brutal, and you will not find a working ATM at midnight when you need one.
 
-5. **The day drinking trap.** New Orleans in summer is hot. If your group starts heavy day drinking, you will not make it to midnight. Pace accordingly or plan a nap window.
+5. **The day drinking trap.** New Orleans in summer is hot. If your group starts heavy day drinking, you will not make it to midnight. Pace accordingly or plan a nap window — the [drink pace guide](/guides/nola-group-drink-pace-management-guide/) has the multi-day version of this problem.
 
 6. **Don't fight about dinner.** Assign the restaurant to one person, trust them, show up and eat. Committee dinners on a guys trip are a time sink.
 
