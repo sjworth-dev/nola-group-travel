@@ -4,7 +4,7 @@ description: "How to find and follow a neighborhood second line on Sunday: Socia
 category: "Culture & History"
 card_title: "Sunday Second Line Chase Guide"
 card_description: "How to find, follow, and engage a neighborhood second line on Sunday — Social Aid and Pleasure Club logistics, real-time tracking, what to wear, tip culture, and where to go after."
-date: 2026-06-25
+date: 2026-09-15
 ---
 
 The Sunday second line is one of the most authentic public experiences available in New Orleans, and it is almost entirely invisible to visitors who do not know to look for it.
@@ -13,7 +13,7 @@ Every Sunday from the first Sunday in October through the second Sunday in June 
 
 This is not a tourist parade. There are no bleachers. There are no posted viewing times. It is not on the major tourist websites. It is a living community practice that has been happening on New Orleans Sundays since the 19th century, and it continues because the community makes it happen — not because anyone is putting it on for visitors.
 
-For a group of 10-20 that wants to understand what makes New Orleans different from every other American city, a Sunday second line chase is the clearest single answer.
+For a big group that wants to understand what makes New Orleans different from every other American city, a Sunday second line chase is the clearest single answer. (If your group is trying to book one privately instead of chasing the public parade, the [private second line vs. public guide](/guides/nola-group-private-second-line-vs-public-guide/) covers that tradeoff.)
 
 ---
 
@@ -80,7 +80,7 @@ There are no bleachers. There are no VIP areas. There is no ticket taker. The st
 
 **The arrival protocol:**
 
-A group of 15-20 arriving at a second line start should:
+A group arriving at a second line start should:
 
 1. Arrive 15-20 minutes before start time
 2. Find a position in the crowd that is not at the very front of the procession (that position belongs to the club members and their immediate circle)
@@ -99,7 +99,7 @@ The second line procession has a structure:
 
 **Crowd:** The second line crowd flows behind and alongside the procession, moving through the streets on both sides of the band. This is where visitors belong.
 
-**For a group of 15-20:**
+**For the whole crew:**
 
 The group should stay in the crowd section, together if possible in the early part of the route. A group this size naturally spreads over a 30-40 foot stretch as the procession moves. This is fine — as long as each member of the group can see at least one other group member, the group is navigating effectively.
 
@@ -129,7 +129,7 @@ At various points during the parade — usually at each rest stop and at the end
 
 **The amount:**
 
-A group of 15-20 people should contribute collectively every time the hat comes around. The right amount is $30-40 per pass for a group this size — $2-3 per person per stop. There will be 3-5 stops over a 3-4 hour route. The total group contribution to the brass band over the full second line should be $100-150 or more.
+A big group should contribute collectively every time the hat comes around. The right amount is $2-3 per person per stop. There will be 3-5 stops over a 3-4 hour route. The total group contribution to the brass band over the full second line should be $100-150 or more.
 
 If this sounds like a lot: the brass band has 8-12 musicians. Each is working for 3-4 hours in the heat. The crowd is receiving 3-4 hours of live music. The math justifies the contribution.
 
@@ -203,10 +203,8 @@ This framework is not complicated. Most groups that come to a second line in goo
 
 ## Large Group Accommodation for a Second Line Sunday
 
-The neighborhoods with the highest concentration of second line activity are the Tremé, the Seventh Ward, the Central City, and St. Claude corridor — accessible by rideshare from both major villa neighborhoods.
+The neighborhoods with the highest concentration of second line activity are the [Tremé](/neighborhoods/treme-deep-dive/), the [Seventh Ward](/neighborhoods/seventh-ward/), [Central City](/neighborhoods/central-city/), and St. Claude corridor — accessible by rideshare from both major villa neighborhoods. The full [second line guide](/guides/second-line-guide/) covers the tradition beyond just Sundays.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater's location is the closest major villa neighborhood to the second line's primary hosting neighborhoods. A second line that runs through the Tremé or the Seventh Ward is a 15-minute rideshare from the Bywater. The return to the private pool after three hours of second line heat is the natural close to a Sunday. 4.98 average rating across 99 reviews.
+The Bywater is the closest major villa neighborhood to the second line's primary hosting neighborhoods — a second line through the Tremé or the Seventh Ward is a short rideshare away, and Castleday Retreats is one operator with villas there. Central City second lines, which run through the Oretha Castle Haley and Washington Avenue corridors, sit closer to the Lower Garden District, where a villa like The Syd puts the group near the St. Charles Streetcar. Heirloom's large-format homes span both areas if the calendar's tight. Whatever the base, a pool and a private courtyard are what make the return after three hours of second line heat feel like the reward it should be.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is a 20-25 minute rideshare from most second line starting locations. Central City second lines — which run through the Oretha Castle Haley and Washington Avenue corridors — are the closest to The Syd's neighborhood. The outdoor kitchen and courtyard at The Syd make the post-second line evening natural: cold drinks, the pool, a late dinner in the courtyard.
-
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.

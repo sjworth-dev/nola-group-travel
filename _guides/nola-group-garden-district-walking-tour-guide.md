@@ -1,17 +1,17 @@
 ---
 title: "Garden District Walking Tour for Large Groups in New Orleans"
-description: "Self-guided Garden District walking tour for large groups of 10-30: the best mansion blocks, Lafayette Cemetery entry requirements, the Commander's Palace exterior, and the Magazine Street transition — a 3-hour structure for groups."
+description: "Self-guided Garden District walking tour for the whole crew: the best mansion blocks, Lafayette Cemetery entry requirements, the Commander's Palace exterior, and the Magazine Street transition — a 3-hour structure for groups."
 category: "Activities & Day Trips"
 card_title: "Garden District Walking Tour"
-card_description: "Historic mansions, Lafayette Cemetery, Commander's Palace, and the Magazine Street transition — the definitive 3-hour self-guided walking tour for large groups of 10-30."
-date: 2026-06-26
+card_description: "Historic mansions, Lafayette Cemetery, Commander's Palace, and the Magazine Street transition — the definitive 3-hour self-guided walking tour for a big group."
+date: 2026-09-15
 ---
 
 The Garden District is the most visually dramatic walking neighborhood in New Orleans. Within a ten-block radius you have Greek Revival mansions, Italian Renaissance estates, Gothic cottages, and cast iron fences that took entire foundries months to complete. The architecture here represents a specific historical moment — the 1840s-1880s American merchant class establishing itself in a city that had been French and Spanish for two centuries — and it did so with an aggressiveness of scale and decoration that the more restrained Creole architecture of the French Quarter never attempted.
 
 For a large group, the Garden District walk is an ideal daytime anchor. It requires no tickets, no reservations, and no specialized knowledge to be genuinely impressive. The streets are wide, the sidewalks are spacious, and the neighborhood accommodates large groups without friction. Three hours covers the essential circuit. Add an hour if you want Magazine Street at a leisurely pace.
 
-This guide covers the full walk: the mansion blocks, Lafayette Cemetery, the Commander's Palace exterior, and the Magazine Street return route, with practical logistics for groups of 10-30.
+This guide covers the full walk: the mansion blocks, Lafayette Cemetery, the Commander's Palace exterior, and the Magazine Street return route, with practical logistics for the whole crew.
 
 ---
 
@@ -106,7 +106,7 @@ The Garden District Magazine Street segment — roughly from Washington Avenue n
 
 Arrive on Magazine around noon or early afternoon. The group separates naturally into those who want to shop, those who want coffee and a seat, and those who want to continue walking. Magazine Street handles this split easily — there is enough variety in a three-block radius to absorb 20 people with different agendas.
 
-**A seated anchor:** Plan a lunch or brunch stop on Magazine before the walk or as the walk's endpoint. The Magazine Street restaurants in the Garden District range from counter-service casual to sit-down neighborhood spots that can accommodate large groups at their less-busy midday hours. Call ahead — even casual spots benefit from a heads-up for 15+ people.
+**A seated anchor:** Plan a lunch or brunch stop on Magazine before the walk or as the walk's endpoint. The Magazine Street restaurants in the Garden District range from counter-service casual to sit-down neighborhood spots that can accommodate large groups at their less-busy midday hours. Call ahead — even casual spots benefit from a heads-up for 15+ people. If the group wants to treat Magazine Street as its own outing rather than a walk transition, the [full-day Magazine Street guide](/guides/nola-group-magazine-street-full-day-guide/) has the longer version.
 
 ---
 
@@ -122,7 +122,7 @@ Optional addition: St. Charles Avenue streetcar return (add 20-30 min to catch t
 
 ---
 
-## Logistics for 10-30 People
+## Logistics for the Whole Crew
 
 ### Getting There
 
@@ -186,10 +186,8 @@ Carry water. The Magazine Street cafes are a natural hydration point. Ice cream 
 
 ## Large Group Accommodation for the Garden District Walk
 
-The Garden District is accessible from both the Bywater (via rideshare, approximately 20-25 minutes) and the Lower Garden District (walking distance or a 5-minute rideshare).
+The Garden District is accessible from both the [Bywater](/neighborhoods/bywater/) (via rideshare, approximately 20-25 minutes) and the [Lower Garden District](/neighborhoods/lower-garden-district/) (walking distance or a 5-minute rideshare).
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. From the Bywater, the Garden District walk is a 20-minute rideshare — the contrast between the Bywater's creative working-class neighborhood culture and the Garden District's historic American wealth is itself part of the educational value of doing both in the same trip. 4.98 average rating across 99 reviews.
+A villa in the Lower Garden District puts the group within walking distance of the tour's starting point — Magazine Street and Washington Avenue is about 15 minutes on foot — and The Syd is one operator with villas there, near the St. Charles Streetcar. From the Bywater, where Castleday Retreats has private-pool villas, the walk is a short rideshare, and the contrast between the Bywater's creative working-class character and the Garden District's historic American wealth is itself part of the value of doing both in the same trip. Heirloom's large-format homes span both neighborhoods if the calendar's tight.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. Groups staying at The Syd can walk to the Garden District walking tour starting point — Magazine Street and Washington Avenue is approximately 15 minutes on foot from the Lower Garden District. This makes the Garden District tour the most convenient major walking activity for groups based at The Syd.
-
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.

@@ -1,19 +1,19 @@
 ---
 title: "NOLA Landmark Restaurant Booking Guide for Groups"
-description: "Commander's Palace, Galatoire's, Antoine's, and Dooky Chase: navigating the reservation systems, private dining rooms, dress code reality, prix fixe logistics, and what each experience actually delivers for groups of 15-25."
+description: "Commander's Palace, Galatoire's, Antoine's, and Dooky Chase: navigating the reservation systems, private dining rooms, dress code reality, prix fixe logistics, and what each experience actually delivers for a big group."
 category: "Food & Drink"
 card_title: "Landmark Restaurant Booking Guide"
-card_description: "Commander's Palace, Galatoire's, Antoine's, Dooky Chase — what each actually delivers for groups of 15-25, reservation reality, private dining rooms, and dress code truth."
-date: 2026-06-26
+card_description: "Commander's Palace, Galatoire's, Antoine's, Dooky Chase — what each actually delivers for a big group, reservation reality, private dining rooms, and dress code truth."
+date: 2026-09-15
 ---
 
-New Orleans has four restaurants that function as civic institutions. Commander's Palace, Galatoire's, Antoine's, and Dooky Chase are not just restaurants — they are arguments for what New Orleans food culture is. Each represents a different tradition, a different neighborhood, a different relationship to the history of the city.
+New Orleans has four restaurants that function as civic institutions. Commander's Palace, Galatoire's, Antoine's, and Dooky Chase are not just restaurants — they are arguments for what New Orleans food culture is. Each represents a different tradition, a different neighborhood, a different relationship to the history of the city. For the wider field of restaurants that handle a big table well, see the [restaurant guide](/guides/restaurant-guide/); this page is specifically about the four institutions.
 
 Most large group visitors eat at none of them.
 
 The reasons are understandable: the reservation logistics are more complicated than OpenTable, the dress codes are real and sometimes intimidating, and the prices are genuinely higher than casual NOLA dining. Groups of 20 often give up and go somewhere easier.
 
-This is a mistake, but only for the right group. Not every group of 15-25 people is the right group for Commander's Palace. Some groups are. Knowing which restaurant fits which group — and understanding the actual logistics of getting 20 people into these rooms — is what this guide provides.
+This is a mistake, but only for the right group. Not every big group is the right group for Commander's Palace. Some groups are. Knowing which restaurant fits which group — and understanding the actual logistics of getting 20 people into these rooms — is what this guide provides.
 
 ---
 
@@ -40,7 +40,7 @@ Commander's Palace is the single most recognized restaurant in New Orleans, and 
 
 The building is a Victorian mansion in the Garden District with multiple dining rooms, a courtyard, and a history that is visible in every detail of the service. It is also a working restaurant that is not particularly precious about itself — the staff has done this thousands of times and the experience is warmer and less formal than the building suggests.
 
-**For groups of 15-25:**
+**For the whole crew:**
 
 Commander's has private dining rooms and a group reservations team. The upstairs rooms are the most commonly booked for large parties; the courtyard can accommodate groups in the right seasons.
 
@@ -71,7 +71,7 @@ The restaurant is on Bourbon Street, in a room that has barely changed since the
 
 For out-of-town groups, the Friday lunch experience is the most accessible format. It requires patience — Galatoire's does not take reservations for the main first floor dining room (there is an upstairs with reservations, but the experience is on the first floor) — and the waits for first-floor seating can be significant on Fridays.
 
-**For groups of 15-25:**
+**For the whole crew:**
 
 The first-floor wait model makes Galatoire's challenging for large groups. The upstairs reservations room is the practical solution for a party of 15-25, but the upstairs experience is different from the main floor experience.
 
@@ -102,7 +102,7 @@ Antoine's founding date requires a moment: 1840. The restaurant was founded by A
 
 Oysters Rockefeller was invented at Antoine's in 1899. The menu still serves them. This is the kind of historical continuity that distinguishes Antoine's from the other institutions on this list: it is genuinely old in a way that very few American restaurants are.
 
-**For groups of 15-25:**
+**For the whole crew:**
 
 Antoine's is one of the best options on this list for large groups specifically. The restaurant has extensive private dining infrastructure — multiple rooms of different sizes — and significant experience with group bookings. The event and reservations team at Antoine's knows how to handle 20 people in a way that reflects decades of doing it.
 
@@ -137,7 +137,7 @@ Leah Chase passed away in 2019 at age 96. The restaurant continues under family 
 
 For an out-of-town group, Dooky Chase's is the restaurant that most requires knowing where you are and why it matters. Going to Dooky Chase's as just another New Orleans restaurant misses the point. Going with some understanding of Leah Chase's role in the city and in American dining culture is a different experience.
 
-**For groups of 15-25:**
+**For the whole crew:**
 
 Dooky Chase's has a dining room that can accommodate larger groups, but the restaurant is not primarily set up as a private event space in the way Antoine's is. Contact the restaurant directly for large group accommodations.
 
@@ -227,8 +227,6 @@ Book early. These restaurants do not hold reservation capacity speculatively —
 
 A landmark restaurant dinner is the kind of evening that justifies returning to a private villa afterwards — space to debrief, a pool or courtyard to sit in, and the ability to extend the night in the way a hotel room does not permit.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. A Commander's Palace dinner in the Garden District to a Bywater villa is a $20-30 rideshare ride — a clean transition from the most formal dinner of the trip to a private home where the night can continue at whatever pace the group wants. 4.98 average rating across 99 reviews.
+A villa in the [Lower Garden District](/neighborhoods/lower-garden-district/) puts Commander's Palace about a 10-minute walk away — close enough that some groups walk after dinner — and The Syd is one operator with villas there, near the St. Charles Streetcar. From the [Bywater](/neighborhoods/bywater/), where Castleday Retreats has private-pool villas, a Commander's Palace dinner in the Garden District is a short rideshare — a clean transition from the most formal dinner of the trip to a private home where the night can continue at whatever pace the group wants. Whichever base, a pool or courtyard nightcap is a different close to the evening than a Bourbon Street bar.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's LGD location puts Commander's Palace about a 10-minute walk away in the Garden District — close enough that some groups walk after dinner. The Syd's outdoor kitchen and courtyard space is particularly well-suited to the post-dinner continuation: a nightcap in the courtyard after Commander's is a different evening than a Bourbon Street bar.
-
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
