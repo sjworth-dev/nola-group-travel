@@ -2,7 +2,7 @@
 title: "French Quarter Deep Dive: Beyond the Basics"
 description: "Block-by-block French Quarter guide for large groups — Royal Street vs. Bourbon Street, the residential sections most visitors miss, and how to use the neighborhood for more than one night."
 category: "Neighborhoods"
-date: 2026-05-31
+date: 2026-09-15
 ---
 
 Every group visits the French Quarter. Most groups see the same 6 blocks.
@@ -189,7 +189,7 @@ The French Quarter gets a bad reputation for food because the obvious tourist op
 
 ## Day Trip: The Full French Quarter Morning Walk
 
-For a group of 15-20, here's a structured morning:
+For the whole crew, here's a structured morning:
 
 **9:00am:** Coffee at Café Du Monde. Order beignets. Sit outside facing Jackson Square. It's worth the 20-minute wait.
 
@@ -229,9 +229,7 @@ This walk covers roughly 1.5 miles in 3 hours. Comfortable for any group.
 
 The French Quarter is walkable from most neighborhoods in the core city. You don't have to stay inside it to use it — in fact, most experienced visitors choose to stay outside it and commute in.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is a 15-minute walk or 5-minute rideshare from the lower French Quarter. You get the neighborhood's quiet, art-filled character as your home base, with the Quarter close enough to visit when you want without having to hear Bourbon Street at midnight.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each. Shared heated pool, hot tub, sauna, outdoor kitchen. About a 15-minute rideshare to the Quarter, one block from the St. Charles Streetcar. For groups doing the full New Orleans circuit — Magazine Street, the Garden District, the French Quarter — this location works well as a hub.
+Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), 14 to 30 guests each, a 15-minute walk or 5-minute rideshare from the lower Quarter — the neighborhood's quiet, art-filled character as a home base, with the Quarter close enough to visit without having to hear Bourbon Street at midnight. The Syd's Lower Garden District villas, up to 22 guests with a shared heated pool and hot tub, run about a 15-minute rideshare to the Quarter and sit one block from the St. Charles Streetcar — a workable hub for groups doing the full circuit of Magazine Street, the Garden District, and the Quarter. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look for a group that needs more choice or booked late. For the largest selection, book 6+ months out.
 
 ---
 
@@ -239,9 +237,8 @@ The French Quarter is walkable from most neighborhoods in the core city. You don
 
 Most first-time visitors to New Orleans make the mistake of treating the French Quarter as the destination. It's actually just the introduction.
 
-The real New Orleans — the one that locals live in, that has the best food and music and architecture — is in the neighborhoods around the Quarter. The Bywater. The Marigny. Tremé. Uptown. Mid-City.
+The real New Orleans — the one that locals live in, that has the best food and music and architecture — is in the neighborhoods around the Quarter. The [Bywater](/neighborhoods/bywater/). The [Marigny](/neighborhoods/marigny/). [Tremé](/neighborhoods/treme-deep-dive/). [Uptown](/neighborhoods/uptown/). Mid-City.
 
 Visit the Quarter. Do it right. Then get out and see the rest.
 
-- Castleday Retreats — Bywater, 15 minutes from the Quarter, private villas for up to 30
-- The Syd — Lower Garden District, multiple villas, up to 22 guests
+[See where to stay for large groups →](/where-to-stay/)

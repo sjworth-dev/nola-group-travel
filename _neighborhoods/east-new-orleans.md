@@ -2,7 +2,7 @@
 title: "New Orleans East: The Vietnamese Community and the Full City"
 description: "Group travel guide to New Orleans East — the Vietnamese corridor along Chef Menteur Highway, Village de l'Est, Mary Queen of Vietnam Church, and why this neighborhood belongs on serious NOLA itineraries."
 category: "Neighborhoods"
-date: 2026-06-06
+date: 2026-09-15
 ---
 
 Almost no one visiting New Orleans goes to New Orleans East. That's predictable — it's not on the tourist map, it doesn't have a cocktail bar with a TikTok following, and it requires intentional effort to get there. It's also one of the most significant places in the city if you want to understand what New Orleans actually is: a layered, immigrant-shaped, disaster-tested, community-organized city that has repeatedly rebuilt itself against long odds.
@@ -97,7 +97,7 @@ Many families came from the Mekong Delta region of southern Vietnam. The seafood
 
 **Dong Phuong** is the most famous name on the corridor — a Vietnamese bakery and restaurant that has become known citywide for its king cake (yes, a Vietnamese bakery makes one of the city's best king cakes during Mardi Gras season), its bánh mì, and its baked goods. Lines form here during festival season. The line is worth it.
 
-**For groups:** The restaurants along Chef Menteur are not designed for groups of 25 showing up unannounced. Call ahead. Most restaurants can accommodate larger parties with advance notice. For a group of 15-30, a better model is: identify 2-3 spots, split into smaller groups, and meet up after. Or call a single restaurant, explain your group size, and ask if they can seat you — many will.
+**For groups:** The restaurants along Chef Menteur are not designed for groups of 25 showing up unannounced. Call ahead. Most restaurants can accommodate larger parties with advance notice. At full headcount, a better model is: identify 2-3 spots, split into smaller groups, and meet up after. Or call a single restaurant, explain your group size, and ask if they can seat you — many will.
 
 ---
 
@@ -127,7 +127,7 @@ That's 3-4 hours total, including transit. This is a morning or early-afternoon 
 
 ### Combine with the Ninth Ward
 
-New Orleans East and the Lower Ninth Ward are on the same geographic corridor east of the Industrial Canal. A group interested in post-Katrina New Orleans history can combine both in a single day:
+New Orleans East and the [Lower Ninth Ward](/neighborhoods/ninth-ward/) are on the same geographic corridor east of the Industrial Canal. A group interested in post-Katrina New Orleans history can combine both in a single day:
 
 - Morning: New Orleans East, Vietnamese community, lunch on Chef Menteur
 - Afternoon: Lower Ninth Ward, Holy Cross, levee walk
@@ -191,19 +191,15 @@ None of this is required. The food will be excellent whether you've done homewor
 
 6. **Don't skip the baked goods.** Whatever you ordered for lunch, leave room for something from a Vietnamese bakery. Pandan cake, egg tarts, or a bánh mì to eat on the drive back — the pastry culture here is outstanding.
 
-7. **Connect it to the rest of the trip.** New Orleans East is not an isolated curiosity — it's part of the same city as the French Quarter, the Tremé, and the Bywater. A trip that includes this neighborhood tells a more complete story than a trip that doesn't.
+7. **Connect it to the rest of the trip.** New Orleans East is not an isolated curiosity — it's part of the same city as the French Quarter, the [Tremé](/neighborhoods/treme-deep-dive/), and the [Bywater](/neighborhoods/bywater/). A trip that includes this neighborhood tells a more complete story than a trip that doesn't.
 
 ---
 
-## Groups of 10–30: Home Base Options
+## Home Base Options for the Whole Crew
 
-New Orleans East doesn't have large-group accommodations within the neighborhood. The practical base camps are in the neighborhoods most geographically and culturally connected to the east side of the city.
+New Orleans East doesn't have large-group accommodations within the neighborhood. The practical base camps are in the neighborhoods most geographically and culturally connected to the east side of the city — the Bywater and the [Lower Garden District](/neighborhoods/lower-garden-district/), each a straightforward day-trip drive away, with [Marigny](/neighborhoods/marigny/) close behind as a third option.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. The Bywater is the natural home base for groups who want to spend serious time on the city's east side. From the Bywater, New Orleans East is a 15-20 minute drive — close enough for an easy day trip, far enough that you feel the geographic scope of the city on the way there. The Bywater itself is a neighborhood shaped by its own community organizing story and its proximity to the Industrial Canal corridor. The three villas — The Herald, The Cocodrie, and The Florentine — each have private pools, full kitchens, and complete privacy. For a group whose itinerary includes Tremé, the Marigny, the Ninth Ward, and New Orleans East, the Bywater is the correct base.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Slightly further from New Orleans East geographically, but excellent if your group's itinerary is weighted toward Uptown, Garden District, and Magazine Street with New Orleans East as a single day excursion. The Syd sits one block from the St. Charles Streetcar, has shared heated pool, hot tub, sauna, and outdoor kitchen, and has rooms designed by local New Orleans artists — a connection to the city's creative culture that runs through everything from the Garden District galleries to the Vietnamese artists who have contributed to the city's visual scene.
-
-For either property: book early. Large-group accommodations in New Orleans fill months in advance, especially around festival weekends.
+Castleday Retreats runs private villas in the Bywater for 14 to 30 guests, a 15-20 minute drive from New Orleans East — close enough for an easy day trip. The Syd's Lower Garden District villas, up to 22 guests with a shared heated pool and hot tub, sit further out geographically but work well if the rest of the itinerary leans Uptown, Garden District, and Magazine Street with New Orleans East as a single day excursion. Heirloom's large-format homes spread across the Lower Garden District and Central City are worth checking for a group that needs more choice or is booking late. For the largest selection, book 6+ months out.
 
 ---
 
@@ -215,5 +211,4 @@ The groups that go to New Orleans East come back talking about it differently. T
 
 That's the trip. New Orleans East is part of it.
 
-- Castleday Retreats — Bywater, private villas, up to 30 guests, closest base camp to New Orleans East
-- The Syd — Lower Garden District, up to 22 guests, shared amenities, St. Charles Streetcar access
+[See where to stay for large groups →](/where-to-stay/)
