@@ -1,10 +1,10 @@
 ---
-title: "French Quarter Jazz Club Late-Night Guide for Groups of 15-30"
-description: "The late-night French Quarter jazz club circuit for large groups: Preservation Hall last-set strategy, the Bourbon Street jazz vs. Frenchmen Street debate settled, which clubs actually accommodate 20 people, and the 11pm–2am structure that holds a group together without losing anyone."
+title: "French Quarter Late-Night Jazz Club Circuit for Groups"
+description: "The late-night French Quarter jazz club circuit for large groups: Preservation Hall last-set strategy, the Bourbon Street jazz vs. Frenchmen Street debate settled, which clubs actually handle a big group, and the 11pm–2am structure that holds a group together without losing anyone."
 category: "Nightlife & Music"
 card_title: "French Quarter Jazz Club Late-Night Circuit"
-card_description: "Preservation Hall last-set strategy, the Bourbon-vs-Frenchmen debate settled, and the 11pm–2am structure that keeps 20 people together in the French Quarter."
-date: 2026-06-24
+card_description: "Preservation Hall last-set strategy, the Bourbon-vs-Frenchmen debate settled, and the 11pm–2am structure that keeps the whole crew together in the French Quarter."
+date: 2026-09-15
 ---
 
 Late-night jazz in New Orleans is not a single venue with a single headliner. It is a circuit — a loose collection of rooms within walking distance of each other, each with its own format, its own vibe, and its own answer to the question of how 20 people can experience live music together without one person missing the show because they could not find parking.
@@ -22,8 +22,8 @@ This is the late-night circuit — the part of the evening that starts after din
 - [ ] Check set times for whichever venue you plan to anchor the night around (Preservation Hall posts their schedule; it changes)
 - [ ] Confirm cover charges before you go — have cash for groups, since some venues do not process large card tabs efficiently
 - [ ] Designate a rally point for when the group splits: "If we get separated, we meet at [specific corner] at 1am"
-- [ ] Plan the late-night food stop before you need it — walking hunger hits the group at 1am and the decision takes 20 minutes without a pre-plan
-- [ ] Decide the end-of-night return logistics before the night starts: walk, rideshare, or streetcar home
+- [ ] Plan the [late-night food stop](/guides/nola-group-late-night-food-guide/) before you need it — walking hunger hits the group at 1am and the decision takes 20 minutes without a pre-plan
+- [ ] Decide the [end-of-night return logistics](/guides/transportation-guide/) before the night starts: walk, rideshare, or streetcar home
 
 ---
 
@@ -35,7 +35,7 @@ This is not a moral problem. It is a logistical one. The clubs that line Bourbon
 
 There are exceptions. A few Bourbon Street clubs have genuine musicians on a specific night, in a room small enough that the music is actually the event. The rule is: if the band is clearly visible from the front door and there is no cover, the music is background. If there is a cover, a dedicated room, and the band is separated from the bar function, it might be real.
 
-For most groups, Bourbon Street is the first act of the evening — a place to walk, drink walk-around cups, see the spectacle — not the jazz destination. The jazz destination is what comes next.
+For most groups, Bourbon Street is the first act of the evening — a place to walk, drink walk-around cups, see the spectacle — not the jazz destination. (The [full Bourbon Street breakdown](/guides/nola-bourbon-street-guide/) covers what's actually worth the hour there and what to skip.) The jazz destination is what comes next.
 
 ---
 
@@ -87,7 +87,7 @@ Frenchmen Street is where the night actually lives. The clubs there — a handfu
 
 ## The French Quarter Clubs That Handle Groups
 
-Not every club in or near the French Quarter manages a group of 20 gracefully. The ones that do have a few things in common: enough floor space for a group to cluster without blocking traffic, a clear entry and payment process, and a sound situation where the music is actually audible to people standing toward the back.
+Not every club in or near the French Quarter manages a group of 20 gracefully. The ones that do have a few things in common: enough floor space for a group to cluster without blocking traffic, a clear entry and payment process, and a sound situation where the music is actually audible to people standing toward the back. If the group can't agree on what counts as a real jazz club versus a music bar with a horn section, the [jazz clubs vs. music bars breakdown](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) settles it venue by venue.
 
 | Venue | Capacity for Groups | Notes |
 |-------|--------------------|----|
@@ -147,12 +147,6 @@ Here is the actual structure that works. Times are approximate and depend on whe
 
 Jazz clubs do not have a maximum — the city does not cap group size at the door. The accommodation problem is what comes before and after: you need a home base close enough to the French Quarter and Frenchmen Street that the transit is an easy walk or a short rideshare, a kitchen for the late-night snack situation, and a private outdoor space to decompress after 2am without inflicting a loud group on a hotel lobby.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each has 12 bedrooms, 17 real beds, and 8 baths, designed for 14 to 30 guests. The Florentine is ADA-accessible.
+Bywater villas — Castleday Retreats is one operator in the field there, with private pools per villa for 14 to 30 guests — put the group a 15-20 minute walk from Frenchmen Street, or a short rideshare from the Quarter. A private courtyard and pool mean the group has somewhere to land after 2am that does not require going to sleep immediately. From the Lower Garden District, a villa like The Syd puts the group one block from the St. Charles Streetcar, which connects to the Quarter and back without requiring rideshare coordination — walk to the stop, ride home, pool. For groups who want hotel service instead of a full villa, The Mayfair or a room block at Hotel Peter & Paul keep the same short trip to the Quarter without anyone managing a kitchen.
 
-The Bywater is a 15-20 minute walk from Frenchmen Street, or a short rideshare from the Quarter. The private courtyard and pool mean the group has somewhere to land after 2am that does not require going to sleep immediately — a pool, a kitchen, a courtyard. The post-music hour is one of the best hours of a NOLA group trip and the villa is where it actually happens.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, one block from the St. Charles Streetcar. The shared heated pool, hot tub, sauna, and outdoor kitchen in the courtyard make the 2am return something to look forward to rather than something to endure.
-
-From the Lower Garden District, the Streetcar connects the group to the Quarter and back without requiring rideshare coordination. Late nights become logistics-simple: walk to the stop, ride home, pool.
-
-[See where to stay for large groups →](/where-to-stay/)
+[See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
