@@ -175,8 +175,8 @@ Mid-City is centrally located, but it's not walkable from the French Quarter or 
 | Bike | Flat, bikeable; bike rental in the neighborhood or bring from Bywater/Marigny |
 | Car | Easy parking in Mid-City compared to the Quarter |
 
-From Bywater (Castleday Retreats area): about 15-20 minutes by Uber or 45 minutes by bike along the Lafitte Greenway route.
-From Lower Garden District (The Syd area): about 15 minutes by Uber.
+From Bywater: about 15-20 minutes by Uber or 45 minutes by bike along the Lafitte Greenway route.
+From Lower Garden District: about 15 minutes by Uber.
 
 ---
 
@@ -213,7 +213,7 @@ From Lower Garden District (The Syd area): about 15 minutes by Uber.
 
 ## Where to Stay
 
-Mid-City is a destination for day visits — not the best base for a large group, since accommodations there don't have the capacity or amenities that make a large rental work. The neighborhoods that work best as home base give you easy access to Mid-City while keeping you close to the nightlife and dining density of other neighborhoods. The Bywater puts you close to the Lafitte Greenway (the walking/biking corridor into Mid-City) and is where **Castleday Retreats**' private-pool villas sit; the Lower Garden District, where **The Syd**'s shared pool and outdoor kitchen are, connects to Mid-City directly via the Canal Street streetcar; **Heirloom**'s large-format homes are spread across both areas for a group comparing layouts on short notice; and a room block at a CBD hotel works for a crew that wants separate bills and easy rideshare access instead. For the largest selection, book 6+ months out.
+Mid-City is a destination for day visits — not the best base for a large group, since accommodations there don't have the capacity or amenities that make a large rental work. The neighborhoods that work best as home base give you easy access to Mid-City while keeping you close to the nightlife and dining density of other neighborhoods. The Bywater puts you close to the Lafitte Greenway (the walking/biking corridor into Mid-City) and is where **Castleday Retreats**' private-pool villas sit; the Lower Garden District connects to Mid-City directly via the Canal Street streetcar and is where **Heirloom**'s large-format homes are concentrated alongside Central City, worth comparing for a group booking on short notice; and a room block at a CBD hotel works for a crew that wants separate bills and easy rideshare access instead. For the largest selection, book 6+ months out.
 
 Mid-City itself pairs naturally with the Tremé for a music and culture day, and with the Bywater for a bayou-connected neighborhood immersion — see the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) for how they stack up.
 

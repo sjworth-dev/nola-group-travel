@@ -170,9 +170,9 @@ A full Garden District day adds Uptown Magazine Street extension, Audubon Park, 
 
 **From the French Quarter:** St. Charles streetcar runs from Canal Street to the Garden District / Uptown. This is the most photogenic and pleasant way to get there. 20-25 minutes. $1.25 per person. Works for groups of any size since you can load onto the streetcar in batches.
 
-**From the Lower Garden District / The Syd:** Walk. The Syd is one block from the streetcar and about 10 minutes walking to the Garden District edge.
+**From the Lower Garden District:** Walk. About 10 minutes to the Garden District edge, and the neighborhood sits one block from the streetcar besides.
 
-**From Bywater / Castleday:** Uber/Lyft. 15-20 minutes depending on traffic. Or take the streetcar from Canal Street.
+**From Bywater:** Uber/Lyft. 15-20 minutes depending on traffic. Or take the streetcar from Canal Street.
 
 **For the whole group moving at once:** Uber vans, rideshare XL, or a small charter vehicle. For groups of 15+, coordinate this in advance.
 
@@ -208,7 +208,7 @@ A full Garden District day adds Uptown Magazine Street extension, Audubon Park, 
 
 ## Where to Stay: Central to Everything
 
-If you're running a Garden District day as part of a longer trip, where you stay affects how easy it is. **The Syd**, one block from the streetcar in the Lower Garden District, is the closest base for a Garden District day — walking distance to the Magazine Street corridor and a short streetcar ride from Commander's, with a shared heated pool and hot tub. **Castleday Retreats** in the Bywater is a 15-20 minute Uber or a scenic streetcar ride from Canal Street — not a problem for a day trip, with a private pool per villa once you're back. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth comparing for a group booking on short notice, and a room block at a CBD hotel works for a crew that wants separate bills instead of a shared villa. For the largest selection, book 6+ months out.
+If you're running a Garden District day as part of a longer trip, where you stay affects how easy it is. **The Syd**, one block from the streetcar in the Lower Garden District, is the closest base for a Garden District day — walking distance to the Magazine Street corridor and a short streetcar ride from Commander's, with a shared heated pool and hot tub. **The Mazant**, an 1880s Bywater guesthouse that sleeps up to 18 with a heated pool and spa, is a 15-20 minute Uber or a scenic streetcar ride from Canal Street — not a problem for a day trip. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth comparing for a group booking on short notice, and a room block at a CBD hotel works for a crew that wants separate bills instead of a shared villa. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
