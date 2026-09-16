@@ -4,7 +4,7 @@ description: "Plan a friends getaway to New Orleans. Girls trips, guys weekends,
 category: "Friends & Family"
 card_title: "Friends Trips"
 card_description: "Girls trips, guys weekends, college reunions, the annual crew getaway. All of it."
-date: 2026-07-07
+date: 2026-09-16
 ---
 
 The group chat has been talking about "doing a trip" for years. Someone finally picked a date. Now you need to actually make it happen.
@@ -23,7 +23,7 @@ Pool days. Long dinners. Dancing. Maybe a spa afternoon. Definitely some day dri
 
 **Key ingredients:** Good rental with pool, brunch reservations, Frenchmen Street at night.
 
-For groups of 10-25 women, the [large group girls trip guide](/guides/nola-group-girls-trip-guide/) covers the full spa-brunch-pool-Frenchmen arc in detail. If you're based in Uptown, the [Uptown girls trip guide](/guides/girls-trip-uptown/) runs Magazine Street by block.
+For a bigger crew of women, the [large group girls trip guide](/guides/nola-group-girls-trip-guide/) covers the full spa-brunch-pool-Frenchmen arc in detail. If you're based in Uptown, the [Uptown girls trip guide](/guides/girls-trip-uptown/) runs Magazine Street by block.
 
 ### Guys Weekend
 
@@ -73,11 +73,7 @@ For groups of 15+, Bywater and the Lower Garden District have the deepest invent
 
 ### For Large Groups
 
-The whole point is being together. You need one rental, not scattered hotel rooms.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens. Perfect for groups who want their own space.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared heated pool, hot tub, outdoor kitchen. Great location, more social vibe.
+The whole point is being together. You need one rental, not scattered hotel rooms. **Castleday Retreats** (private Bywater villas, up to 30 guests each with a pool per villa) fits groups that want their own space; **The Syd** (Lower Garden District, up to 22 per villa, shared heated pool and hot tub) fits groups that want more of a social scene and a walk to the streetcar. **Heirloom**'s wider inventory of large-format homes is worth a look too, especially if you're booking closer to the date. For the largest selection, book 6+ months out.
 
 ---
 
@@ -249,6 +245,6 @@ Get this sorted before the trip:
 
 ## Book Your Friends Trip
 
-For large groups, you need one private house — not hotel rooms. Properties like Castleday Retreats (Bywater, private pools, up to 30 per villa) and The Syd (Lower Garden District, shared pool and hot tub, up to 22 per villa) keep everyone together and give you a real home base.
+For large groups, you need one private house — not hotel rooms. See the field of options above and pick by fit.
 
 [See where to stay for large groups →](/where-to-stay/)

@@ -4,7 +4,7 @@ description: "How to plan a premium New Orleans trip for groups of 10-30 at $400
 category: "Friends & Family"
 card_title: "Luxury Group Weekend"
 card_description: "Premium NOLA for groups of 10-30. What's worth $400-600/person/day and what's overpriced tourist bait."
-date: 2026-07-07
+date: 2026-09-16
 ---
 
 New Orleans rewards money spent well. It also has a surprisingly long list of overpriced experiences built specifically to absorb the budgets of people who aren't paying attention.
@@ -15,7 +15,7 @@ This guide is for groups with $400-600 per person per day to spend (excluding fl
 
 ## Quick Checklist
 
-- [ ] Book accommodation 3+ months out — the best large-group villas fill early
+- [ ] For the largest selection, book 6+ months out
 - [ ] Run a [pre-trip survey](/guides/nola-group-pre-trip-survey-guide/) to surface food preferences, dietary restrictions, and any accessibility needs before you plan meals
 - [ ] Make restaurant reservations 4-6 weeks out for Commander's Palace, Galatoire's, and similar
 - [ ] Book a private chef dinner for at least one night — this is the move at this budget level
@@ -47,11 +47,11 @@ Know the difference. New Orleans will take your money either way.
 
 ## Where to Stay
 
-A private villa is the only accommodation that makes sense at this budget level for a group of 10-30. Splitting a large group across hotel rooms is both more expensive and worse in every experiential dimension — you lose the communal kitchen, the shared outdoor space, the ability to have people gather at any hour.
+A private villa is the only accommodation that makes sense at this budget level once the trip goes double-digit. Splitting a large group across hotel rooms is both more expensive and worse in every experiential dimension — you lose the communal kitchen, the shared outdoor space, the ability to have people gather at any hour.
 
 At the luxury end, look for villas with private pools, quality outdoor kitchens, and enough indoor common space that a group of 20 can actually be in the same room together. Bywater and the Lower Garden District are the neighborhoods worth targeting — both have access to great restaurants on foot and a strong sense of place.
 
-Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools, local artist interiors, full kitchens) and The Syd (Lower Garden District, multiple villas up to 22 guests each, shared heated pool, hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar) are the two large-group properties in New Orleans operating at this tier.
+**Castleday Retreats** (private Bywater villas, up to 30 guests each with a pool per villa) and **The Syd** (Lower Garden District, up to 22 guests per villa, shared heated pool, hot tub, and outdoor kitchen, one block from the St. Charles Streetcar) both operate at this tier. **Heirloom**'s larger-format homes are worth checking too if you want more options at the same budget.
 
 At the luxury budget, the per-person villa cost is actually a smaller percentage of overall spend than it looks. If you're spending $500/person/day for three nights, you're spending $1,500/person total — a villa at $300-400/person for the accommodation line is only 20-25% of the trip cost. Don't cut here.
 
@@ -252,8 +252,6 @@ For detailed budget planning by category, the [group budget guide](/guides/budge
 
 At the luxury tier, the large-group accommodation question actually gets easier, not harder. The best large-group properties in the city are purpose-built for this scale, and at $300-450/person for accommodation, you're well inside the range where private villas deliver significantly more than comparable hotel spend.
 
-The math is simple: a large-group villa at $300/person for three nights ($900 total per person for accommodation) gives you a private pool, full kitchen, communal gathering space, and complete privacy. A comparable hotel spend at the same per-night rate gives you a hotel room.
-
-Castleday Retreats (Bywater, private villas up to 30 guests each, private pools, local art interiors) and The Syd (Lower Garden District, up to 22 guests per villa, shared heated pool and hot tub, sauna, outdoor kitchen) are the two large-group options operating at this tier in the city.
+The math is simple: a large-group villa at $300/person for three nights ($900 total per person for accommodation) gives you a private pool, full kitchen, communal gathering space, and complete privacy. A comparable hotel spend at the same per-night rate gives you a hotel room. See the property field above and pick by fit.
 
 [See where to stay for large groups →](/where-to-stay/)

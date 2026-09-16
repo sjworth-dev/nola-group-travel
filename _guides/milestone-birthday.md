@@ -4,7 +4,7 @@ description: "Celebrate a 30th, 40th, 50th, or 60th birthday in New Orleans. How
 category: "Weddings & Celebrations"
 card_title: "Milestone Birthdays"
 card_description: "30th, 40th, 50th, 60th—whatever the number, celebrate it right. For large groups."
-date: 2026-07-06
+date: 2026-09-16
 ---
 
 Milestone birthdays deserve more than a dinner reservation. They deserve a destination.
@@ -88,11 +88,7 @@ New Orleans is perfect for this. It's celebratory by nature—a city that knows 
 
 ### For Large Groups
 
-You need one place where everyone can gather. Not scattered hotel rooms.
-
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools, full kitchens, space for the big celebration dinner.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22. Shared pool and hot tub, central location.
+You need one place where everyone can gather. Not scattered hotel rooms. **Castleday Retreats** (private Bywater villas, up to 30 guests each with a pool per villa) and **The Syd** (Lower Garden District villas, up to 22 each, sharing a pool and hot tub) both build in the private pool and full kitchen a birthday weekend wants. **Heirloom**'s deeper inventory of large-format homes is worth checking if you're booking closer to the date and need more options to choose from. For the largest selection, book 6+ months out.
 
 ### Why a Private Villa Beats a Hotel
 
@@ -212,7 +208,7 @@ For groups over 15, a private dining room or pre-arranged large-group seating is
 
 ## Pro Tips
 
-1. **Book early.** Milestone birthdays get planned 6-12 months ahead. Accommodate everyone's schedules.
+1. **Book early.** For the largest selection, book 6+ months out. Accommodate everyone's schedules.
 
 2. **Designate a planner.** One person (not the birthday person) handles logistics. Send a [pre-trip survey](/guides/nola-group-pre-trip-survey-guide/) to the group 4 weeks out — dietary restrictions, mobility needs, and heat tolerance all matter more at milestone ages.
 
@@ -230,6 +226,6 @@ For groups over 15, a private dining room or pre-arranged large-group seating is
 
 ## Book Your Milestone Celebration
 
-For milestone birthday groups of 15-30, you need one private space where everyone gathers — not scattered hotel rooms. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, outdoor kitchen) are both purpose-built for exactly this kind of trip.
+Once the trip goes double-digit, you need one private space where everyone gathers — not scattered hotel rooms. See the field of options above and pick by fit, not by name recognition.
 
 [See where to stay for large groups →](/where-to-stay/)
