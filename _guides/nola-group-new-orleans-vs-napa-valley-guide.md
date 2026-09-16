@@ -11,7 +11,7 @@ Napa Valley comes up constantly in girls-trip and milestone-birthday group chats
 
 The two trips aren't really the same kind of trip. Napa's whole model is the wine-tasting day — vineyard to vineyard, a long lunch on a terrace, an early evening that winds down with a glass on the porch. New Orleans doesn't have vineyards or a tasting-room circuit; its version of "the trip is the point" runs on live music that starts after dinner and doesn't really stop, a street culture that never closes, and food that's the actual center of gravity rather than a pairing for the day's wine.
 
-Here's the honest version of the comparison: wine-tasting days vs. live-music nights, lodging (wine-country inns and rentals vs. purpose-built villas), food and drink culture, and the dry valley heat against Gulf humidity that shapes more of these trips than either destination's marketing admits.
+Here's the honest version of the comparison: wine-tasting days vs. live-music nights, lodging (wine-country inns and rentals vs. purpose-built villas), food and drink culture, and the dry valley heat against Gulf humidity that shapes more of these trips than either destination's marketing admits. If New Orleans is still in the running, the [plan-a-group-trip guide](/guides/plan-a-group-trip/) sequences everything that comes after picking a city.
 
 ---
 
@@ -84,7 +84,7 @@ New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but d
 
 **Pick Napa Valley if:** your group wants a structured, scenic day built around wine tastings, a farm-to-table dinner, and an early, relaxed evening rather than a late night out.
 
-**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a rental spread thin across wine country, wants nights that run on the city's own clock instead of winding down at sunset, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/).
+**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a rental spread thin across wine country, wants nights that run on the city's own clock instead of winding down at sunset, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/). Still weighing options? See how New Orleans stacks up against [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) and [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/), the two other cities that come up most in the same girls-trip conversations.
 
 ---
 
