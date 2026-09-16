@@ -1,10 +1,10 @@
 ---
 title: "City Park Full-Day Guide for Large Groups in New Orleans"
-description: "City Park full-day guide for large groups of 10-30: NOMA, the Sculpture Garden, Storyland, Carousel Gardens, Bayou St. John kayak launch, Popp's Bandstand, and the Mid-City restaurant corridor for a complete day without touching the tourist district."
+description: "City Park full-day guide for large groups: NOMA, the Sculpture Garden, Storyland, Carousel Gardens, Bayou St. John kayak launch, Popp's Bandstand, and the Mid-City restaurant corridor for a complete day without touching the tourist district."
 category: "Activities & Day Trips"
 card_title: "City Park Full-Day Guide"
 card_description: "NOMA, Sculpture Garden, Storyland, the kayak launch, Popp's Bandstand, and the Mid-City restaurant corridor — a complete day in New Orleans without the tourist district."
-date: 2026-06-24
+date: 2026-09-16
 ---
 
 Most group trips to New Orleans stay within the triangle of the French Quarter, the Garden District, and Bourbon Street. City Park sits two miles from the Quarter with 1,300 acres and a lineup of genuinely excellent things to do — and most visitors never get there.
@@ -13,7 +13,7 @@ This is a mistake.
 
 City Park is the version of New Orleans that the city uses for itself. Weekend morning runs on the oak-lined paths. Saturday afternoon kayaking on the bayou. Museum visits that are better than anything in the tourist district. Jazz under the Popp's Bandstand pavilion. The Sculpture Garden, which is free and one of the best outdoor art installations in the American South.
 
-For a group of 10-30, a full City Park day is one of the strongest options on the NOLA group trip menu: it is free or very low cost for most of what's in the park, it has activities for every energy level and interest, it allows the group to split and reconvene naturally, and it ends with a restaurant corridor in Mid-City that is among the best concentrated dining options in the city.
+For a big group, a full City Park day is one of the strongest options on the NOLA group trip menu: it is free or very low cost for most of what's in the park, it has activities for every energy level and interest, it allows the group to split and reconvene naturally, and it ends with a restaurant corridor in Mid-City that is among the best concentrated dining options in the city.
 
 This guide covers everything in the park worth knowing, how to structure the day for a large group, and how the evening in Mid-City closes the experience.
 
@@ -26,7 +26,7 @@ This guide covers everything in the park worth knowing, how to structure the day
 - [ ] For groups with children, Storyland and Carousel Gardens require a separate entry or ticket — confirm pricing in advance
 - [ ] Designate a rally point in the park — City Park is 1,300 acres and a "meet at the park" instruction does not give adequate direction
 - [ ] Bring sun protection, especially for summer visits — the oak canopy covers the walking paths but not the open spaces and the sculpture garden
-- [ ] Plan the Mid-City dinner restaurant in advance; the options are excellent but the best ones require reservations for a group of 15-20
+- [ ] Plan the Mid-City dinner restaurant in advance; the options are excellent but the best ones require reservations once the group is big
 - [ ] Comfortable walking shoes — the park has paved and unpaved surfaces; the walking paths are well-maintained but the park is large
 
 ---
@@ -46,7 +46,7 @@ City Park is organized around a central axis running roughly north-south, with t
 
 **Transit to City Park:**
 
-The park is not on the St. Charles Streetcar line. Getting there from the French Quarter or the Garden District requires a rideshare (15-20 minutes) or a combination of the Esplanade bus and walking. For groups of 20, rideshares are the practical choice — three or four cars get everyone to the park entrance simultaneously.
+The park is not on the St. Charles Streetcar line. Getting there from the French Quarter or the Garden District requires a rideshare (15-20 minutes) or a combination of the Esplanade bus and walking. At full headcount, rideshares are the practical choice — three or four cars get everyone to the park entrance simultaneously.
 
 ---
 
@@ -56,7 +56,7 @@ NOMA is the city's primary fine arts museum and one of the best museums in the A
 
 **For groups:**
 
-NOMA handles groups well. The main atrium is spacious enough for a group of 20 to gather before splitting. The galleries are organized clearly enough that the group can reunite after independent browsing with a shared reference point.
+NOMA handles groups well. The main atrium is spacious enough for the whole crew to gather before splitting. The galleries are organized clearly enough that the group can reunite after independent browsing with a shared reference point.
 
 **What to prioritize:**
 
@@ -79,7 +79,7 @@ The garden spans five acres adjacent to NOMA and is one of the best collections 
 
 The Sculpture Garden is the ideal gathering point before or after NOMA. It is easy to move through as a group or disperse and reconvene. The outdoor setting means the group is not confined to museum gallery pace. The work spans styles and periods, which means the group members who are enthusiastic about art and the group members who are not will all find something to engage with.
 
-**The best approach for 20 people:**
+**The best approach for a big group:**
 
 Designate a meeting point (the main entrance reflecting pool) and a time (30-45 minutes is a thorough visit for most group members). Let people walk in whatever direction they want. Reconvene at the pool and share what they found worth stopping for. This is better than a guided group walk, which slows to the pace of the slowest person.
 
@@ -97,6 +97,8 @@ These are for groups with children, and they are the best reason to bring childr
 
 **For groups without children:** Skip Storyland and Carousel Gardens. They are excellent for their intended audience and do not offer meaningful experiences for adult groups.
 
+**For groups with children:** pair this stop with the [family reunion and kids guide](/guides/kids-families-guide/) for the rest of a kid-friendly itinerary beyond City Park.
+
 ---
 
 ## Bayou St. John and the Kayak Launch
@@ -105,11 +107,11 @@ Bayou St. John runs along the western edge of City Park and extends south into t
 
 **The experience:**
 
-Kayaking Bayou St. John is a distinctly New Orleans outdoor activity — the bayou is calm and flat, lined with residential neighborhoods, with occasional egret and heron sightings, and the skyline of the city visible to the south. It is not wilderness kayaking; it is city kayaking, and the city is the point. The view of New Orleans from the bayou is a view the city's residents know and most visitors never see.
+Kayaking Bayou St. John is a distinctly New Orleans outdoor activity — the bayou is calm and flat, lined with residential neighborhoods, with occasional egret and heron sightings, and the skyline of the city visible to the south. It is not wilderness kayaking; it is city kayaking, and the city is the point. The view of New Orleans from the bayou is a view the city's residents know and most visitors never see. For other ways to get the group moving outside, see the [outdoor activities guide](/guides/outdoor-activities-guide/).
 
 **For groups:**
 
-Kayaking works well for groups of 10-20 who are comfortable on the water. For larger groups or groups with non-kayakers, it works as a split activity — half the group on the water while the other half walks the bayou trail or returns to the park.
+Kayaking works well when everyone on the water is comfortable there. For a bigger crew, or one with non-kayakers mixed in, it works as a split activity — half the group on the water while the other half walks the bayou trail or returns to the park.
 
 **The logistics:**
 
@@ -120,7 +122,7 @@ Kayaking works well for groups of 10-20 who are comfortable on the water. For la
 
 **The Bayou St. John walking trail:**
 
-If kayaking is not for everyone in the group, the trail along the bayou through the Bayou St. John neighborhood is one of the city's best walking routes. The residential architecture along the bayou — Creole cottages, American-style houses, early 20th-century bungalows — is intact and varied. The neighborhood has a slow, residential quality that is a different New Orleans from the French Quarter or the Garden District.
+If kayaking is not for everyone in the group, the trail along the bayou through the Bayou St. John neighborhood is one of the city's best walking routes. The residential architecture along the bayou — Creole cottages, American-style houses, early 20th-century bungalows — is intact and varied. The neighborhood has a slow, residential quality that is a different New Orleans from the French Quarter or the Garden District. For the fuller picture of the area beyond a single day, see the [Bayou St. John neighborhood guide](/neighborhoods/bayou-st-john/).
 
 ---
 
@@ -179,9 +181,11 @@ This is the close of the City Park day and one of the strongest arguments for th
 - Neighborhood restaurants that have been feeding the surrounding residential blocks for decades
 - The specific no-frills, genuine-quality dining that emerges when restaurants are feeding people who live here rather than people visiting once
 
+For more on the neighborhood beyond this one dinner, see the [Mid-City neighborhood guide](/neighborhoods/mid-city/).
+
 **The group dinner in Mid-City:**
 
-A group of 15-20 in Mid-City should make a reservation. The restaurants along this corridor are not accustomed to walk-in groups of that size. A reservation call made two to three days before arrival is adequate for most of the neighborhood's options, unlike the French Quarter where popular restaurants require weeks of advance notice.
+A big group eating in Mid-City should make a reservation. The restaurants along this corridor are not accustomed to walk-in groups of that size. A reservation call made two to three days before arrival is adequate for most of the neighborhood's options, unlike the French Quarter where popular restaurants require weeks of advance notice.
 
 ---
 
@@ -225,7 +229,7 @@ The City Park day is the "local day" of the trip. It is what you do when you wan
 
 City Park is accessible from every neighborhood in New Orleans, but the Bywater and Mid-City are the closest bases for the day's itinerary.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater to City Park transit is a 15-minute rideshare — manageable for a group of 20 across three to four cars, and short enough that the morning departure does not require a military-level early wake-up. The return to the Bywater villa after the Mid-City dinner closes a long outdoor day with a private pool and courtyard, which is the right recovery environment after a day that was mostly walking and paddling. 4.98 average rating across 99 reviews.
+**The Mazant** — An 1880s Bywater guesthouse that sleeps up to 18, with a heated pool and spa. The Bywater to City Park transit is a 15-minute rideshare — manageable for the whole crew across a few cars, and short enough that the morning departure does not require a military-level early wake-up. Coming back to a heated pool and spa after the Mid-City dinner is the right way to close a day that was mostly walking and paddling.
 
 **The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is slightly further from City Park than the Bywater (20-minute rideshare), but the return-to-villa pool access after the City Park day is the same: a private outdoor space for the group to decompress from a day that was primarily outdoors in varying conditions. The outdoor kitchen at The Syd makes the morning smoothie or light breakfast that fuels a City Park day easy to execute at villa scale.
 
