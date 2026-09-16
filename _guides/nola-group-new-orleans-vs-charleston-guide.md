@@ -13,7 +13,7 @@ Charleston and New Orleans both show up on the same shortlist for the same reaso
 
 They are not interchangeable. Charleston is polished, walkable, and quiet after a certain hour. New Orleans is looser, louder, and doesn't really have a "certain hour." Both are legitimate choices. They serve different groups.
 
-Here's the version without the tourism-board gloss.
+Here's the version without the tourism-board gloss. If New Orleans wins the argument, the [group trip planning hub](/guides/plan-a-group-trip/) walks through the decisions that come next.
 
 ---
 
@@ -86,7 +86,7 @@ New Orleans has a more developed purpose-built large-group villa market, concent
 
 Both cities sit in the same general climate band, and neither one is a cool-weather destination for most of the year. New Orleans summers are famously intense — heavy humidity and afternoon storms are the trade-off for the rest of the year's mild weather. Charleston's summers are also hot and humid, if slightly less extreme on average, which is a real but modest difference rather than a decisive one.
 
-For New Orleans specifically, the smart move for a group that wants to avoid the worst of the heat is targeting October or the February-through-May stretch — which also happens to be the city's liveliest season for festivals and events, not a quiet shoulder window. A group chasing a cooler, quieter trip in either city should compare specific date ranges rather than assuming one city solves the heat problem and the other doesn't.
+For New Orleans specifically, the smart move for a group that wants to avoid the worst of the heat is targeting October or the February-through-May stretch — which also happens to be the city's liveliest season for festivals and events, not a quiet shoulder window. A group chasing a cooler, quieter trip in either city should compare specific date ranges rather than assuming one city solves the heat problem and the other doesn't. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks the calendar down month by month.
 
 ---
 
