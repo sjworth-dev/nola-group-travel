@@ -4,7 +4,7 @@ description: "Why New Orleans eats red beans and rice on Monday, the deep tradit
 category: "Food & Drink"
 card_title: "Red Beans and Rice Monday"
 card_description: "The Monday red beans tradition, how to cook a proper pot for 20 people at the villa, sourcing dried Camellia beans and andouille, and where to eat it out."
-date: 2026-06-24
+date: 2026-09-16
 ---
 
 Monday is laundry day. That is where this starts.
@@ -13,7 +13,7 @@ In 19th-century New Orleans, Monday was wash day — the day women spent over bo
 
 That rhythm became a tradition and the tradition became a city-wide institution. New Orleans eats red beans and rice on Monday the way other places eat pizza on Friday. It is not exotic or special-occasion food. It is the most ordinary meal in the city, which is exactly what makes it worth understanding.
 
-If your group trip lands on a Monday, you have an opportunity: cook a proper pot at the villa, or eat it out at a place that makes it right. Either option is better than ignoring it. This guide covers both.
+If your group trip lands on a Monday, you have an opportunity: cook a proper pot at the villa, or eat it out at a place that makes it right. Either option is better than ignoring it. This guide covers both. If you're still sequencing the rest of the trip around it, the [group trip planning hub](/guides/plan-a-group-trip/) is the place to start.
 
 ---
 
@@ -45,7 +45,7 @@ Louis Armstrong signed his letters "Red Beans and Ricely Yours." That is the lev
 
 ## The Villa Version: Cooking for 20
 
-This is not a complicated recipe. It requires time, good ingredients, and patience. For a group of 20, a large pot (12+ quart capacity) and a morning-of prep are all you need.
+This is not a complicated recipe. It requires time, good ingredients, and patience. For a group of 20, a large pot (12+ quart capacity) and a morning-of prep are all you need. If this is the group's first villa-kitchen meal of the trip, the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) covers the logistics of feeding a crowd out of a rental kitchen more generally.
 
 ### Ingredients (feeds 20)
 
@@ -91,7 +91,7 @@ This is not a complicated recipe. It requires time, good ingredients, and patien
 
 ## Sourcing the Right Ingredients
 
-The difference between a good pot of red beans and a mediocre one is mostly about the beans and the andouille. Everything else is standard pantry.
+The difference between a good pot of red beans and a mediocre one is mostly about the beans and the andouille. Everything else is standard pantry. For a broader rundown of where a group can buy for a week of villa cooking, see the [food markets and sourcing guide](/guides/nola-group-new-orleans-food-markets-sourcing-guide/).
 
 ### Dried Beans
 
@@ -132,7 +132,7 @@ The best red beans and rice in New Orleans is not at tourist-targeted restaurant
 
 ### Group Logistics for Eating Red Beans Out
 
-For a group of 15-25 people eating out on Monday, the mechanics are:
+For a big group eating out on Monday, the mechanics are:
 
 **Lunch over dinner.** Red beans and rice is the traditional Monday lunch. Many restaurants run it as a daily special that sells out by mid-afternoon. If your group is eating red beans out, plan for a noon to 2pm arrival — not a 7pm reservation.
 
@@ -159,7 +159,7 @@ If you are cooking at the villa, the Monday red beans day has a natural rhythm.
 
 **Monday morning (30 minutes, 9am):** Sauté the trinity, brown the sausage, build the pot. Turn the heat to low and walk away.
 
-**Monday late morning (free):** The pot cooks itself. This is the point of the dish. Take the group to the Crescent City Farmers Market if it's the right Saturday — or on Monday, to the French Market or Magazine Street. Let the city happen while the pot runs.
+**Monday late morning (free):** The pot cooks itself. This is the point of the dish. Take the group to the [French Market](/guides/nola-group-french-market-morning-guide/) or [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/) while it's still Monday morning. Let the city happen while the pot runs.
 
 **Monday 12:30-1pm:** Check the pot, mash beans against the side if the gravy hasn't thickened, taste and adjust. Start the rice.
 
@@ -191,8 +191,6 @@ If you are cooking at the villa, the Monday red beans day has a natural rhythm.
 
 Making red beans and rice for 20 people requires a kitchen that can handle it: a large pot (12-quart minimum, preferably larger), counter space for the prep, and a dining area where everyone can sit together at one table or in one room. That is not a hotel. It is a villa.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine, each with full kitchen, 12 bedrooms, 17 real beds, and 8 baths, designed for 14 to 30 guests. The Florentine is ADA-accessible. The full kitchen means you actually have the equipment for a pot this size. The communal dining infrastructure means 20 people can sit together and eat the meal the way it is supposed to be eaten. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared outdoor kitchen in addition to the in-unit kitchen. The outdoor kitchen changes the dynamic for cooking a long-simmering pot in summer — you can run the heat outdoors rather than heating up an indoor kitchen. The Lower Garden District is also close to Rouses on Magazine Street for morning sourcing.
+A full kitchen and a table big enough for everyone are the two things that matter here, and the field has options either way. **Castleday Retreats**, private Bywater villas with a pool per house, gives you a kitchen with nobody else's schedule to work around. **The Syd**, in the Lower Garden District, adds a shared outdoor kitchen to the mix — worth knowing about if the group wants to run a long simmer outside rather than heat up an indoor kitchen in the summer months. **Heirloom**'s wider inventory of large-format homes is worth a look if you're booking on short notice and just need a real kitchen for the day. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
