@@ -1,17 +1,17 @@
 ---
 title: "Magazine Street Full-Day Guide for Groups"
-description: "Six miles of Magazine Street from the Lower Garden District to Audubon Park — the best lunch anchors by section, boutique cluster strategy, and the St. Charles Streetcar return structure for groups of 10-20."
+description: "Six miles of Magazine Street from the Lower Garden District to Audubon Park — the best lunch anchors by section, boutique cluster strategy, and the St. Charles Streetcar return structure for the whole crew."
 category: "Activities & Day Trips"
 card_title: "Magazine Street Full-Day Guide"
-card_description: "Six miles, four distinct neighborhoods, and the best walk in the city — boutique clusters, lunch anchors by section, and the streetcar return for groups of 10-20."
-date: 2026-06-26
+card_description: "Six miles, four distinct neighborhoods, and the best walk in the city — boutique clusters, lunch anchors by section, and the streetcar return for the whole crew."
+date: 2026-09-17
 ---
 
 Magazine Street is the six-mile corridor that runs from the edge of the Lower Garden District through the Irish Channel, the Garden District, Touro, Riverbend, and out to Audubon Park. It is the city's main commercial artery west of the French Quarter and the best single street for walking a full day with a large group.
 
-Most visitors do Magazine in pieces — a couple of blocks near Commander's Palace, or a quick detour off the St. Charles Streetcar. This is the wrong approach. The street has character that compounds: each stretch has its own personality, and the cumulative effect of walking the whole thing builds a picture of New Orleans that no museum or tour can replicate.
+Most visitors do Magazine in pieces — a couple of blocks near Commander's Palace, or a quick detour off the St. Charles Streetcar. This is the wrong approach. The street has character that compounds: each stretch has its own personality, and the cumulative effect of walking the whole thing builds a picture of New Orleans that no museum or tour can replicate. If this is one stop on a longer sequence of decisions, the [group trip planning hub](/guides/plan-a-group-trip/) covers how to slot a day like this into the rest of the trip.
 
-For groups of 10-20, Magazine Street is a logistical gift. The street is flat, linear, and served by the Magazine Street bus. You can split and reconvene without losing anyone. The lunch anchors by section mean the group can eat well wherever the morning's pace lands. And the St. Charles Streetcar return means no rideshare math for getting back.
+For the whole crew, Magazine Street is a logistical gift. The street is flat, linear, and served by the Magazine Street bus. You can split and reconvene without losing anyone. The lunch anchors by section mean the group can eat well wherever the morning's pace lands. And the St. Charles Streetcar return means no rideshare math for getting back.
 
 ---
 
@@ -33,7 +33,7 @@ Magazine Street does not look or feel the same for its entire length. It breaks 
 
 ### Lower Garden District Section (Magazine at Felicity to Magazine at Josephine)
 
-The LGD end of Magazine is denser and more neighborhood-commercial. Fewer tourist boutiques, more hardware stores, corner barrooms, and local service businesses scattered between the shops.
+The LGD end of Magazine is denser and more neighborhood-commercial — see the [Lower Garden District neighborhood guide](/neighborhoods/lower-garden-district/) for what else the area offers beyond the street itself. Fewer tourist boutiques, more hardware stores, corner barrooms, and local service businesses scattered between the shops.
 
 This is where the street is most honest about being a city street and not a retail district. It is also where the walk-away-from-downtown momentum feels best — you are visibly leaving the tourist corridor and entering a residential city.
 
@@ -41,7 +41,7 @@ Good stopping points in this stretch: the neighborhood bars that open mid-mornin
 
 ### Irish Channel Section (Josephine to Jackson Avenue)
 
-The Magazine-Jackson intersection is the unofficial gateway to the Garden District portion of the walk. The Irish Channel sits west of Magazine here, with St. Mary's and Constance Streets a block over.
+The Magazine-Jackson intersection is the unofficial gateway to the Garden District portion of the walk. The [Irish Channel](/neighborhoods/irish-channel/) sits west of Magazine here, with St. Mary's and Constance Streets a block over.
 
 The Irish Channel section of Magazine is the best stretch for the group to split: some people want the boutiques, some people want the neighborhood context. The grid is tight and walkable; both tracks converge back on Magazine within minutes.
 
@@ -65,7 +65,7 @@ If the group is running late or energy is flagging, the streetcar at Louisiana A
 
 ### Uptown Core (Jefferson Avenue to Audubon Park)
 
-The Uptown section of Magazine — from Jefferson north to Audubon — is quieter and more neighborhood in character. The concentration of active retail decreases and the tree canopy increases. The walk becomes more residential and the pace naturally slows.
+The [Uptown](/neighborhoods/uptown/) section of Magazine — from Jefferson north to Audubon — is quieter and more neighborhood in character. The concentration of active retail decreases and the tree canopy increases. The walk becomes more residential and the pace naturally slows.
 
 This stretch is worth doing if the group has the energy for it. The Uptown restaurants on Magazine north of Jefferson — particularly in the stretch near Audubon Park — are some of the best on the street and are significantly easier to get into than the Garden District anchors.
 
@@ -128,7 +128,7 @@ The St. Charles Streetcar runs parallel to Magazine, one block over on St. Charl
 
 This is the group's logistical trump card.
 
-Any group member who reaches their limit at any point in the walk can cross one block to St. Charles, catch the streetcar, and be back in the French Quarter or downtown in 20-40 minutes depending on destination. No rideshare coordination, no waiting on the group.
+Any group member who reaches their limit at any point in the walk can cross one block to St. Charles, catch the streetcar, and be back in the French Quarter or downtown in 20-40 minutes depending on destination. No rideshare coordination, no waiting on the group. The [St. Charles Streetcar itinerary guide](/guides/nola-group-st-charles-streetcar-itinerary/) covers the full ride as its own outing, for a day when the streetcar is the point rather than the escape valve.
 
 The streetcar also solves the return for the full group once the walk reaches Audubon Park. Walk through the park, cross to St. Charles, board the streetcar downtown. The full Magazine-to-Audubon walk is 4-5 miles depending on detours; the streetcar return is a 30-40 minute sit-down experience that functions as built-in decompression before dinner.
 
@@ -198,10 +198,8 @@ Cross one block to St. Charles Avenue and board the streetcar back toward Canal 
 
 ## Large Group Accommodation for a Magazine Street Day
 
-Magazine Street runs through or adjacent to the Lower Garden District, the Garden District, and Uptown. The Bywater and the LGD are both well-positioned for a Magazine Street start.
+Magazine Street runs through or adjacent to the Lower Garden District, the Garden District, and Uptown. Both the Bywater and the LGD are well-positioned for a Magazine Street start, and location relative to the street is worth weighing against the other factors that matter for a group stay.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater is a 15-minute rideshare to the LGD end of Magazine — the right distance for a morning departure that does not feel rushed. Return after a day on Magazine and the Bywater private pool is the correct ending to a long walking day. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's LGD location puts Magazine Street literally outside the front door — the walk begins from the villa, not from a rideshare drop-off. For a Magazine Street day, The Syd's location is a structural advantage: the full corridor starts where the group is sleeping.
+A villa in the Lower Garden District puts Magazine Street at or near the front door, which cuts the morning to a walk instead of a rideshare. The Syd's LGD villas (up to 22 guests per villa, shared heated pool, hot tub, and outdoor kitchen) are one option there. Castleday Retreats' Bywater villas (14–30 guests, private pool per villa) sit a short rideshare from the LGD end of the street, trading proximity for privacy and their own pool at the end of the day. Heirloom's wider inventory of homes across the Lower Garden District and Central City is worth a look if either of those doesn't fit the group's dates or headcount. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

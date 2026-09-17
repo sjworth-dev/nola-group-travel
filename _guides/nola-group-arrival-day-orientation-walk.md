@@ -1,19 +1,19 @@
 ---
 title: "Arrival Day Orientation Walk for Large Groups"
-description: "The first two hours in New Orleans: neighborhood orientation walks for groups of 15-30 based on where you're staying. The Bywater and Marigny circuit, the Lower Garden District circuit, what to point out, and where to grab the first round."
+description: "The first two hours in New Orleans: neighborhood orientation walks for the whole crew based on where you're staying. The Bywater and Marigny circuit, the Lower Garden District circuit, what to point out, and where to grab the first round."
 category: "Planning & Logistics"
 card_title: "Arrival Day Orientation Walk"
-card_description: "The first two hours in NOLA are the ones that set the tone for the whole trip. Here's how to run a neighborhood orientation walk for groups of 15-30, with two circuits based on where you're staying."
-date: 2026-06-28
+card_description: "The first two hours in NOLA are the ones that set the tone for the whole trip. Here's how to run a neighborhood orientation walk for the whole crew, with two circuits based on where you're staying."
+date: 2026-09-17
 ---
 
 The first hour after a large group arrives and gets through the villa check-in is almost always chaotic. People are in different states — some traveled since 5am, some arrived fresh on an afternoon flight, some haven't eaten, some are already in vacation mode. The instinct is to immediately go do something, which usually means standing in a loose circle in the living room trying to figure out what that something is.
 
 The orientation walk solves this problem. It's not a tour. It's a structured twenty to forty-five minute walk through the immediate neighborhood with a few deliberate stops, ending at a bar or restaurant where the group orders its first real drink together. By the time you sit down, twenty people who arrived from different directions have a shared reference for the city, know what's around them, and have burned off enough energy to actually settle in.
 
-We've seen groups skip this and spend the rest of the trip slightly disconnected from wherever they're staying — people Ubering everywhere because they never got comfortable walking, groups that could have hit four excellent bars within a ten-minute walk who instead went to Bourbon Street because it was the only name they knew.
+Groups that skip this tend to spend the rest of the trip slightly disconnected from wherever they're staying — people Ubering everywhere because they never got comfortable walking, groups that could have hit four excellent bars within a ten-minute walk who instead went to Bourbon Street because it was the only name they knew.
 
-The orientation walk is the investment that makes the rest of the trip work better.
+The orientation walk is the investment that makes the rest of the trip work better. If arrival day is still an open question — where to stay, how to sequence the first evening — the [group trip planning hub](/guides/plan-a-group-trip/) walks through those decisions in order.
 
 ---
 
@@ -39,7 +39,7 @@ The orientation walk is also the most efficient way to answer the twelve questio
 
 ## Circuit One: Bywater and Marigny
 
-For groups staying in the Bywater — including groups at Castleday Retreats, which puts you in the heart of the neighborhood — the orientation walk runs through three distinct zones: the Bywater blocks immediately around your accommodation, the Bywater-to-Marigny transition, and the Frenchmen Street edge.
+For groups staying in the [Bywater](/neighborhoods/bywater/), the orientation walk runs through three distinct zones: the Bywater blocks immediately around your accommodation, the Bywater-to-Marigny transition, and the Frenchmen Street edge.
 
 ### The Route
 
@@ -67,13 +67,13 @@ For groups staying in the Bywater — including groups at Castleday Retreats, wh
 
 ## Circuit Two: Lower Garden District
 
-For groups staying in the Lower Garden District — including groups at The Syd, which sits one block from the St. Charles Streetcar and puts you in the middle of one of the most functional walking neighborhoods in the city — the orientation walk runs a different circuit.
+For groups staying in the [Lower Garden District](/neighborhoods/lower-garden-district/) — one of the most functional walking neighborhoods in the city, minutes from the St. Charles Streetcar — the orientation walk runs a different circuit.
 
 ### The Route
 
 **Start at the villa.** Note the St. Charles Streetcar stop location immediately — this is the piece of infrastructure that unlocks the whole city for the group, and knowing where it is on arrival day prevents fifteen people from not using it because "we couldn't figure out where to board." If you can, walk your group to the stop, point at the tracks, and explain how the streetcar works (exact fare, same-direction boarding, how far it goes in each direction).
 
-**First segment: the Magazine Street block.** Walk to Magazine Street, which runs parallel to St. Charles and is typically reachable from LGD accommodations in under five minutes. Magazine has a different character than the Uptown stretch described elsewhere on this site — the LGD section concentrates restaurants, coffee shops, and casual bars at a density that's immediately useful.
+**First segment: the Magazine Street block.** Walk to [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/), which runs parallel to St. Charles and is typically reachable from LGD accommodations in under five minutes. Magazine has a different character than the Uptown stretch — the LGD section concentrates restaurants, coffee shops, and casual bars at a density that's immediately useful.
 
 Point out anything that's on the trip agenda. Note the nearest coffee option, the nearest casual lunch spot, and the nearest bar with outdoor space — these will become the default stopping points for parts of the group throughout the stay.
 
@@ -147,10 +147,6 @@ For groups where the entire party arrives after 8pm, skip the orientation walk a
 
 ## Where You Stay Determines What's Within Walking Distance
 
-Both of the two large-group villa experiences most relevant to groups of 15-30 in New Orleans are built around neighborhoods that reward the orientation walk model.
-
-Castleday Retreats in the Bywater puts groups immediately in the most art-dense, walkably interesting neighborhood in the city — the walk from the villa to St. Claude to Frenchmen Street and back is a natural circuit that takes thirty minutes and delivers a genuine sense of the neighborhood's character.
-
-The Syd in the Lower Garden District puts groups one block from the St. Charles Streetcar and minutes from Magazine Street, which means the orientation walk immediately reveals the infrastructure — the streetcar, the Magazine corridor, the direction of both Uptown and Downtown — that makes navigating the rest of the city intuitive.
+Both of the two neighborhoods covered above reward the orientation walk model, and the large-group villa market in New Orleans is concentrated in both. The Bywater puts a group immediately in the most art-dense, walkably interesting part of the city — the walk from a villa to St. Claude to Frenchmen Street and back is a natural circuit that takes thirty minutes and delivers a genuine sense of the neighborhood's character. Castleday Retreats (private villas, 14–30 guests, private pool per villa) is one of the operators based there. The Lower Garden District puts a group one block from the St. Charles Streetcar and minutes from Magazine Street, which means the orientation walk immediately reveals the infrastructure that makes navigating the rest of the city intuitive; The Syd (up to 22 guests per villa, shared heated pool, hot tub, and outdoor kitchen) and Heirloom's broader inventory of homes both operate there. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
