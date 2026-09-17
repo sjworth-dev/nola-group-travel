@@ -173,6 +173,6 @@ The split-and-reconvene model that makes a cocktail bar evening work for twenty 
 
 This is meaningfully different from a group spread across six hotel rooms who are trying to coordinate a complex split by group chat. The villa common space is the logistics infrastructure that makes the evening possible.
 
-Castleday Retreats in Bywater and The Syd in the Lower Garden District both put large groups within walking distance of serious cocktail bars — the Bywater and Marigny corridor for Castleday guests, the Magazine Street and Garden District scene for Syd guests. Neither requires a car to access the kind of intimate bar experience this guide describes.
+Castleday Retreats in Bywater and The Syd in the Lower Garden District both put large groups within walking distance of serious cocktail bars — the Bywater and Marigny corridor on one side, the Magazine Street and Garden District scene on the other. Neither requires a car to access the kind of intimate bar experience this guide describes, and Heirloom's wider inventory covers both neighborhoods if those two are already booked. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

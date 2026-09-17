@@ -11,7 +11,7 @@ The Warehouse District galleries are where you go to buy art. The St. Claude Ave
 
 Both are worth visiting. But the Warehouse District's white-wall galleries and major art fairs present New Orleans as a market — a place where significant art is sold at international gallery prices. The St. Claude corridor, the Bywater studios, and the Frenchmen Art Market present New Orleans as a working art city: studios where artists who live in these neighborhoods are making work, venues where emerging and mid-career artists show without the institutional apparatus of the commercial gallery world, and community events built around the art rather than around the sale.
 
-For a group of 10-20 that wants to experience the living art scene rather than the commercial art market, the St. Claude-Bywater corridor is the right destination. The logistics are more fluid than a Warehouse District visit — this is not a series of white-cube galleries with set hours and business hours — but the experience is more authentic and more interesting.
+For a group that wants to experience the living art scene rather than the commercial art market, the St. Claude-Bywater corridor is the right destination. The logistics are more fluid than a Warehouse District visit — this is not a series of white-cube galleries with set hours and business hours — but the experience is more authentic and more interesting.
 
 ---
 
@@ -70,7 +70,7 @@ The second Saturday of every month, the St. Claude Arts District hosts a neighbo
 - Food and drink are frequently available at individual venues
 - The street takes on a festival quality as the neighborhood fills with visitors and locals
 
-**For a group of 10-20:**
+**For a full crew:**
 
 Second Saturday is the ideal format for a large group because the density of open venues allows the group to self-direct. The group can split into smaller clusters based on interest, move through the corridor at different paces, and reconvene. There is no single venue that requires the whole group to be together at once.
 
@@ -206,8 +206,6 @@ End at the Frenchmen Art Market for the early evening, then transition to the Fr
 
 The St. Claude Arts District and the Bywater art scene are geographically centered in the same neighborhoods as some of the city's best private villa accommodation.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater location puts Castleday literally in the middle of the neighborhood this guide describes — the mural walk, the studio culture, and the St. Claude corridor are all within walking distance of the villa. An art immersion day that begins and ends at the Bywater has no transit overhead: walk out the door and start looking. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The LGD location is closer to the Irish Channel and Magazine Street gallery context, with the St. Claude corridor a 20-minute rideshare east. For a group doing the art day in reverse — Irish Channel and Magazine in the morning, St. Claude in the evening — The Syd's location is well-positioned for the morning phase and the return.
+**Castleday Retreats**' Bywater villas put you literally in the middle of the neighborhood this guide describes — the mural walk, the studio culture, and the St. Claude corridor are all within walking distance, so an art immersion day that begins and ends there has no transit overhead. **The Syd**'s Lower Garden District villas sit closer to the Irish Channel and Magazine Street gallery context instead, with the St. Claude corridor a rideshare east — a better base for a group doing the art day in reverse, Irish Channel and Magazine in the morning, St. Claude in the evening. **Heirloom**'s larger inventory spans both neighborhoods if the group wants more choice on which side to base from. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
