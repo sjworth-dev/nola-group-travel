@@ -11,7 +11,7 @@ date: 2026-08-20
 
 Every group chat asking "Nashville or New Orleans?" for a bachelorette or a big milestone trip is really asking one question: do we want the branded version of this trip, or the original? Nashville has the branding — bachelorette party capital, pedal taverns, a boot on every corner. New Orleans has the reputation — older, weirder, harder to summarize in an Instagram caption. Both are real answers for a big group. They are not the same trip wearing a different hat. Nashville is a curated, repeatable experience built for exactly this kind of group. New Orleans is a much older city that happens to also be extremely good at hosting one.
 
-If your group is genuinely torn, here's the honest version — not the version written by a tourism board.
+If your group is genuinely torn, here's the honest version — not the version written by a tourism board. And once the city's decided, the [group trip planning hub](/guides/plan-a-group-trip/) sequences everything that comes next.
 
 ---
 
@@ -115,7 +115,7 @@ New Orleans is the counter-programming: original music instead of cover bands, a
 
 3. **Book villa or hotel inventory early in both cities.** Large-group availability is the actual bottleneck in both markets, not price. For the largest selection, book 6+ months out.
 
-4. **Check the festival calendar before locking dates.** New Orleans has a genuinely inverted season — October and February through May are peak, not shoulder. A random-seeming weekend can turn into Jazz Fest or Mardi Gras traffic if you're not paying attention.
+4. **Check the festival calendar before locking dates.** New Orleans has a genuinely inverted season — October and February through May are peak, not shoulder. A random-seeming weekend can turn into Jazz Fest or Mardi Gras traffic if you're not paying attention. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks the calendar down month by month.
 
 5. **If your group has mixed interests, New Orleans handles variety better.** Nashville's identity is narrower — country music and Broadway bars. New Orleans has jazz clubs, food-forward nights, a genuine art scene, and quiet neighborhoods, so a group with different tastes has more to split off and do.
 
