@@ -9,7 +9,7 @@ date: 2026-08-20
 
 **The short answer:** pick Vegas if the trip needs a casino floor and a produced club night — nothing in New Orleans replicates that, and pretending otherwise would be dishonest. Pick New Orleans for everything else a big group usually wants: live music with no cover, drinks that walk with you, no last call, real food culture, and a house that sleeps the whole crew instead of a stack of resort rooms with resort fees.
 
-Las Vegas is probably the single most common city a New Orleans trip gets cross-shopped against. Both are built around the idea that the trip itself is the point — nobody goes to either city to relax quietly. Both have a reputation that shows up in a group chat before anyone's done any real research.
+Las Vegas is probably the single most common city a New Orleans trip gets cross-shopped against. Both are built around the idea that the trip itself is the point — nobody goes to either city to relax quietly. Both have a reputation that shows up in a group chat before anyone's done any real research. If New Orleans wins the debate, the [group trip planning hub](/guides/plan-a-group-trip/) sequences everything that comes after — dates, lodging, and the rest — in order.
 
 Past that, they're built on almost opposite operating systems. Vegas is a manufactured entertainment machine: everything from the casino floor to the pool deck to the dayclub is designed to separate you from money in a specific, produced way. New Orleans is an actual city that happens to be extremely good at hosting a party — the entertainment isn't a product built around your group, it's a culture your group gets to step into.
 
