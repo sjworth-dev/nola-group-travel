@@ -11,7 +11,7 @@ Tulum comes up constantly in bachelorette and girls-trip group chats alongside N
 
 The two trips aren't really the same kind of trip. Tulum's whole model is the beach club — a day bed, a DJ, the ocean a few steps away, and a night that's an extension of the same scene rather than something separate. New Orleans doesn't have a beach at all, and its version of "the trip is the point" runs on live music that starts after dinner and doesn't really stop, a street culture that never closes, and food that's the actual center of gravity rather than a backdrop to the beach club.
 
-Here's the honest version of the comparison: beach-club days vs. live-music nights, lodging (boutique beach hotels vs. purpose-built villas), food and drink culture, and the international-travel logistics — passport, flights, currency — that a domestic New Orleans trip simply doesn't carry.
+Here's the honest version of the comparison: beach-club days vs. live-music nights, lodging (boutique beach hotels vs. purpose-built villas), food and drink culture, and the international-travel logistics — passport, flights, currency — that a domestic New Orleans trip simply doesn't carry. If the city choice is still open, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) sequences the rest of the decisions once you've picked one.
 
 ---
 
