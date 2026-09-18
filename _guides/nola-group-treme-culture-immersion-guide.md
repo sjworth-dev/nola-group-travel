@@ -1,10 +1,10 @@
 ---
 title: "Tremé Culture Immersion for Large Groups in New Orleans"
-description: "Deep cultural immersion in the Tremé for groups of 10-20: Congo Square origins, Backstreet Cultural Museum, neighborhood eating, brass band encounter protocol, and a respectful engagement framework for out-of-town visitors."
+description: "Deep cultural immersion in the Tremé for the whole crew: Congo Square origins, Backstreet Cultural Museum, neighborhood eating, brass band encounter protocol, and a respectful engagement framework for out-of-town visitors."
 category: "Culture & History"
 card_title: "Tremé Culture Immersion Guide"
-card_description: "Congo Square, Backstreet Cultural Museum, brass band encounters, and neighborhood eating — a deep cultural morning in America's oldest Black neighborhood for groups of 10-20."
-date: 2026-06-25
+card_description: "Congo Square, Backstreet Cultural Museum, brass band encounters, and neighborhood eating — a deep cultural morning in America's oldest Black neighborhood for a big group."
+date: 2026-09-18
 ---
 
 The Tremé is the oldest African American neighborhood in the United States. This is not a marketing claim. It is a historical designation that carries real weight: the Tremé was a free Black community before the Civil War, before emancipation, before the legal framework of American freedom was applied here.
@@ -15,7 +15,7 @@ Most groups that visit New Orleans do not go to the Tremé. They pass by it on t
 
 The Tremé is not a museum. It is a living neighborhood where people live and work and move through their lives. Engaging it correctly requires intentionality — understanding what you are there to witness, how to participate appropriately, and what the obligations of visitors are in a community with a profound history and a complicated present.
 
-This guide is for groups of 10-20 who want the real cultural anchor of a NOLA trip.
+This guide is for the group that wants the real cultural anchor of a NOLA trip, not just the Bourbon Street version. If you're still sequencing the rest of the trip around it, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) covers where this fits.
 
 ---
 
@@ -41,7 +41,7 @@ During the antebellum period, Sunday was the one day when enslaved people in New
 
 This practice — unique in the antebellum United States — is why New Orleans developed a musical tradition that nowhere else in America could match. The rhythmic complexity of Congo Square drumming, the call-and-response patterns, the blending of African and Caribbean traditions: this is the root of jazz. This is the root of the second line. This is the root of American popular music as a category.
 
-Standing in Congo Square and understanding what happened here is one of the most significant things a group can do in New Orleans.
+Standing in Congo Square and understanding what happened here is one of the most significant things a group can do in New Orleans. If the trip lands in spring, the same ground hosts the [Congo Square Rhythms Festival](/guides/nola-group-congo-square-rhythms-festival-guide/), a free annual African-diaspora music event worth timing a visit around.
 
 **How to approach it:**
 
@@ -61,7 +61,7 @@ The museum documents the traditions of the Tremé and the broader African Americ
 
 The Mardi Gras Indian suits on display are among the most extraordinary objects in New Orleans. Each suit represents hundreds of hours of hand-sewn beadwork, feathers, and sequins, created by individual Mardi Gras Indians and their tribes over the course of a year. The suits are retired after one wearing — a tradition tied to the spiritual significance of the creation process. The museum is where retired suits go.
 
-A suit in this museum represents more skilled artisanal labor than almost anything a visitor will encounter anywhere else in their travels. Looking at one carefully — understanding the detail work, the symbolic imagery, the physical scale — takes more than a glance.
+A suit in this museum represents more skilled artisanal labor than almost anything a visitor will encounter anywhere else in their travels. Looking at one carefully — understanding the detail work, the symbolic imagery, the physical scale — takes more than a glance. If a trip lands on the third Sunday in March, the [Super Sunday gathering](/guides/nola-group-super-sunday-mardi-gras-indian-guide/) is where those suits are actually worn, not retired.
 
 **The visit for a group:**
 
@@ -79,7 +79,7 @@ If staff are present and engaged, ask questions. The people who work at and supp
 
 You will encounter brass bands in the Tremé. This is not guaranteed, but it is likely — the neighborhood is the source of the tradition, musicians live here, and the streets have always been practice and performance space.
 
-A brass band encounter in the Tremé is not a performance for tourists. It is musicians doing what musicians do in the neighborhood where this music lives. The distinction matters.
+A brass band encounter in the Tremé is not a performance for tourists. It is musicians doing what musicians do in the neighborhood where this music lives. The distinction matters. Groups that want a more structured version of this encounter should look at the [Tremé brass band morning](/guides/nola-group-treme-brass-band-morning-guide/) instead of hoping to stumble into one.
 
 **If a brass band is playing on a street corner:**
 
@@ -93,7 +93,7 @@ If the band has a hat or a tip jar, contribute to it. A group of 15 people who l
 
 A neighborhood second line is a community event organized by a Social Aid and Pleasure Club. It is not a tourist parade. If the group encounters a second line in progress, you can follow at a respectful distance and observe. You can participate in the dancing in the street — this is a public street and the second line tradition in New Orleans has always been a community gathering that welcomes people who engage respectfully.
 
-What you cannot do: push to the front of the procession, position yourselves as the main subjects for photography, treat it as a performance staged for your entertainment. You are guests. Follow, participate in the spirit of the thing, tip the brass band well, and leave having understood something rather than having consumed something.
+What you cannot do: push to the front of the procession, position yourselves as the main subjects for photography, treat it as a performance staged for your entertainment. You are guests. Follow, participate in the spirit of the thing, tip the brass band well, and leave having understood something rather than having consumed something. The [second-line guide](/guides/second-line-guide/) covers the etiquette in more depth if a Sunday second line is also on the trip's itinerary.
 
 ---
 
@@ -111,7 +111,7 @@ The Tremé has a small number of neighborhood food institutions that have been s
 
 **A note on researching specific places:**
 
-Restaurant operations in the Tremé change. Businesses open and close. Hours shift. The specific places that are currently operating are best confirmed by recent local sources — a NOLA food publication, a local guide, or the concierge at a locally-owned operation — rather than relying on this or any other static guide. What this guide can tell you is that the food in the Tremé's neighborhood institutions is worth seeking; the specific current options are yours to research.
+Restaurant operations in the Tremé change. Businesses open and close. Hours shift. The specific places that are currently operating are best confirmed by recent local sources — a NOLA food publication, a local guide, or the concierge at a locally-owned operation — rather than relying on this or any other static guide. What this guide can tell you is that the food in the Tremé's neighborhood institutions is worth seeking; the specific current options are yours to research. If the trip timing lines up, the [Tremé Gumbo Festival](/guides/nola-group-treme-gumbo-festival-guide/) is a low-commitment way to sample a cross-section of it in one afternoon.
 
 ---
 
@@ -163,14 +163,14 @@ Before taking a group here, be clear about what this is and is not:
 
 ## Tremé vs. Other NOLA Cultural Experiences
 
-| Experience | What You Get | Appropriate for Groups |
+| Experience | What You Get | Group Fit |
 |------------|-------------|------------------------|
-| Tremé morning | Living cultural immersion; history in context | 10-20; hire a guide for best experience |
+| Tremé morning | Living cultural immersion; history in context | Works best at moderate size; hire a guide for best experience |
 | French Quarter walking tour | Architecture and surface history | Any size; guided tours available |
-| Cemetery tour | Above-ground burial culture; Gothic city history | 10-25; guided tours required at St. Louis #1 |
+| Cemetery tour | Above-ground burial culture; Gothic city history | Scales well; guided tours required at St. Louis #1 |
 | Preservation Hall | Jazz in a dedicated venue | Any size; reserved seating for groups |
 | Museum visits (WWII, NOMA, Ogden) | Curated exhibits, climate-controlled | Any size; call ahead for groups |
-| Second line chase (Sunday) | Community cultural event; full participation | 10-20; small enough to navigate quickly |
+| Second line chase (Sunday) | Community cultural event; full participation | Best kept small enough to navigate quickly |
 
 ---
 
@@ -194,10 +194,6 @@ Before taking a group here, be clear about what this is and is not:
 
 ## Large Group Accommodation for a Tremé Morning
 
-The Tremé is accessible from both the Bywater and the Lower Garden District via rideshare — roughly 15-20 minutes from either.
-
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater's position adjacent to the Marigny and the Tremé makes a morning depart to Congo Square one of the shortest transit windows on the entire trip. Groups staying in the Bywater and doing the Tremé morning are staying close enough to understand the geographic and cultural connections between these neighborhoods. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is a 20-minute rideshare from the Tremé. The cultural contrast between The Syd's Garden District-adjacent neighborhood — historic but Anglo-American in its architecture and culture — and the Tremé is itself instructive. The two neighborhoods represent different strands of New Orleans' complex cultural heritage.
+The Tremé is accessible from both the Bywater and the Lower Garden District via rideshare — roughly 15-20 minutes from either. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) put the group closest to Congo Square, adjacent to the Marigny and the Tremé itself. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub, one block from the streetcar) trade that proximity for a streetcar ride into a historically Anglo-American stretch of the city — a useful contrast to the morning's subject matter, if not the shortest commute. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
