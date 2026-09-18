@@ -1,10 +1,10 @@
 ---
 title: "Bywater Self-Guided Art Walk for Groups in New Orleans"
-description: "The Bywater self-guided art walk for groups of 10-20: mural map, the St. Claude Arts District transition, studio open hours, and how to turn a 2-hour neighborhood walk into a full cultural afternoon."
+description: "The Bywater self-guided art walk for the whole crew: mural map, the St. Claude Arts District transition, studio open hours, and how to turn a 2-hour neighborhood walk into a full cultural afternoon."
 category: "Culture & History"
 card_title: "Bywater Art Walk"
-card_description: "Murals, studios, galleries, and the St. Claude Arts District — a self-guided cultural afternoon for groups of 10-20 in one of America's most densely creative neighborhoods."
-date: 2026-06-26
+card_description: "Murals, studios, galleries, and the St. Claude Arts District — a self-guided cultural afternoon for the whole crew in one of America's most densely creative neighborhoods."
+date: 2026-09-18
 ---
 
 The Bywater is not a gallery district in the conventional sense. There are no white-cube storefronts with hushed interiors and price sheets. The art here is embedded in the neighborhood itself — painted onto the sides of buildings, installed in vacant lots, woven into the courtyards and porches of working shotgun houses. You encounter it while walking to lunch or waiting for someone to catch up.
@@ -20,7 +20,7 @@ The walk described here covers the Bywater core and the St. Claude Avenue corrid
 - [ ] Start late morning — studios on the St. Claude corridor typically open mid-morning; arriving at 10am means encountering locked gates
 - [ ] Wear comfortable shoes; the Bywater's sidewalk quality varies and some stretches are brick or uneven
 - [ ] Bring small cash for studios that charge entry or sell work, and for the food and drink stops that anchor the walk
-- [ ] Keep the group size manageable — 10-20 is the right window; a group larger than 20 on narrow residential sidewalks creates friction with neighbors
+- [ ] Keep the group size manageable — a group pushing past 20 on narrow residential sidewalks creates friction with neighbors
 - [ ] Do not schedule the art walk as a pre-dinner activity if dinner is more than 15 minutes away; the walk ends in the middle of the neighborhood and transitions are easiest to spots within walking distance
 - [ ] Research which galleries and studios are currently open before departure — the St. Claude corridor has genuine churn; what was open six months ago may have moved or closed
 - [ ] Plan a midpoint stop at a Bywater café or wine bar; the walk without a sit-down anchor is a march, not a cultural afternoon
@@ -62,7 +62,7 @@ Move through this zone at a slow pace. The group can spread out — a group of 1
 
 ### Zone 3: The St. Claude Avenue Corridor
 
-St. Claude Avenue is the commercial spine of the Bywater and the transition point into the St. Claude Arts District, which officially begins around Press Street and runs south toward the Ninth Ward.
+St. Claude Avenue is the commercial spine of the Bywater and the transition point into the [St. Claude Arts District](/neighborhoods/st-claude-arts-district/), which officially begins around Press Street and runs south toward the Ninth Ward.
 
 This is where the art walk shifts from residential muralism to working gallery and studio infrastructure. The buildings along St. Claude have higher ceilings, more commercial square footage, and were historically storefronts or light industrial spaces — the kind of space that supports active studios and galleries.
 
@@ -125,7 +125,7 @@ For a group doing the art walk as a cultural afternoon, planning it for the Seco
 
 ---
 
-## Moving a Group of 10-20 Through the Walk
+## Moving the Whole Crew Through the Walk
 
 The main logistical challenge with a group art walk is pace management. Not everyone moves at the same speed. Not everyone is interested in every piece.
 
@@ -157,16 +157,12 @@ A group of 20 can benefit from splitting into two sub-groups of 10, with a 10-15
 
 6. **Bring cash to studios.** Many small studios and gallery spaces do not take cards for lower-priced work. If group members are interested in buying, bring small bills. A $30-50 print from a Bywater artist is one of the better souvenirs available in the city — it supports the creative community and it is something you actually want to look at when you get home.
 
-7. **The walk ends better at Frenchmen Street.** From the lower end of the St. Claude corridor, Frenchmen Street is an easy 15-minute walk north and east through the Marigny. Evening the art walk into a Frenchmen Street dinner and music night creates one of the best full-day structures in the Bywater-Marigny neighborhood corridor. Dinner at a Marigny restaurant, music on Frenchmen, walk home.
+7. **The walk ends better at Frenchmen Street.** From the lower end of the St. Claude corridor, Frenchmen Street is an easy 15-minute walk north and east through the [Marigny](/neighborhoods/marigny/). Evening the art walk into a Frenchmen Street dinner and [music](/guides/live-music-guide/) night creates one of the best full-day structures in the Bywater-Marigny neighborhood corridor. Dinner at a Marigny restaurant, music on Frenchmen, walk home.
 
 ---
 
 ## Large Group Accommodation for the Bywater Art Walk
 
-The Bywater art walk begins and ends in the Bywater. If the group is staying in the neighborhood, the walk is a door-to-door experience with no transport logistics.
-
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The villas are positioned in the heart of the neighborhood — the mural walk, the St. Claude gallery corridor, Bacchanal, and the Crescent Park entrance are all within walking distance. Groups staying at Castleday can do the art walk without any transportation logistics whatsoever, returning to the villa for the pool hour before the evening. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. From the Lower Garden District, the Bywater is a 15-minute rideshare. Groups at The Syd can run the art walk as a dedicated half-day excursion, using the villa as home base for the evening.
+The Bywater art walk begins and ends in the Bywater. If the group is staying in the neighborhood, the walk is a door-to-door experience with no transport logistics — Bywater villas, Castleday Retreats among them, put the mural walk, the St. Claude gallery corridor, Bacchanal, and the Crescent Park entrance all within walking distance, with the pool waiting back at the house before the evening. Staying elsewhere doesn't rule the walk out: from a Lower Garden District villa like The Syd, the Bywater is a 15-minute rideshare, and the art walk works fine as a dedicated half-day excursion with the villa as home base for the evening. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
