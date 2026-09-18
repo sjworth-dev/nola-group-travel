@@ -11,7 +11,7 @@ San Antonio's River Walk shows up constantly in Texas bachelorette and girls-tri
 
 The two cities aren't really running the same kind of trip. San Antonio's version of a big night is the River Walk itself — a linear crawl along the water, party barges gliding past, Tex-Mex and margaritas at every other stop. New Orleans doesn't have a comparable single-strip crawl — its version of "the trip is the point" runs on live music spread across a neighborhood, a street culture that never really closes, and food that's the actual center of gravity rather than a scenic backdrop to the bar crawl.
 
-Here's the honest version of the comparison: River Walk barhopping vs. live-music culture, lodging, Tex-Mex vs. Creole-Cajun food and drink, and the drier-Texas-heat-vs-Gulf-humidity question that shapes more of these trips than either city's tourism marketing lets on.
+Here's the honest version of the comparison: River Walk barhopping vs. live-music culture, lodging, Tex-Mex vs. Creole-Cajun food and drink, and the drier-Texas-heat-vs-Gulf-humidity question that shapes more of these trips than either city's tourism marketing lets on. If New Orleans wins the comparison and your group hasn't started planning yet, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions that come next.
 
 ---
 
