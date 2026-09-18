@@ -1,10 +1,10 @@
 ---
 title: "Rooftop Brunch for Large Groups in New Orleans"
-description: "The case for rooftop brunch over ground-level for groups of 15-25: which venues have rooftop or elevated access, reservation realities, and the Sunday morning structure that makes this the trip's best late start."
+description: "The case for rooftop brunch over ground-level for the whole crew: which venues have rooftop or elevated access, reservation realities, and the Sunday morning structure that makes this the trip's best late start."
 category: "Food & Drink"
 card_title: "Rooftop Brunch Group Guide"
-card_description: "Rooftop and elevated brunch for groups of 15-25 — reservation realities, which venues actually work for large groups, and the Sunday morning structure that earns a late start."
-date: 2026-06-25
+card_description: "Rooftop and elevated brunch for a big group — reservation realities, which venues actually work for large groups, and the Sunday morning structure that earns a late start."
+date: 2026-09-18
 ---
 
 Brunch in New Orleans is not a meal. It is a multi-hour event with a specific social logic: slow start, music optional, drinks mandatory, nowhere to be until evening.
@@ -13,7 +13,7 @@ The ground-level version of this — a restaurant dining room, seated, two hours
 
 New Orleans has a growing rooftop and elevated dining scene that most groups never access because the reservations require advance planning, and most groups do not plan brunch until they are already hungry and running on two hours of sleep. The groups that plan it in advance get one of the more visually and socially satisfying experiences in the city: a late morning table with a view of the Quarter, the river, or the CBD skyline, cocktails that are appropriate at 11am by local agreement, and the specific pleasure of being above the city rather than inside it.
 
-For a group of 15-25, rooftop brunch requires more planning than ground-level brunch. It also produces a more memorable morning. That is the tradeoff.
+For a big group, rooftop brunch requires more planning than ground-level brunch. It also produces a more memorable morning. That is the tradeoff. If brunch is one piece of a longer weekend you're still sequencing, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) covers where it fits.
 
 ---
 
@@ -164,7 +164,7 @@ When booking a rooftop brunch for 15+ people, the most important question you as
 
 2. **Groups over 20 should ask about partial buyout.** Some hotel rooftop venues will effectively give a group of 22-25 a semi-private section of the outdoor space during the early morning window (10:30am-12pm) in exchange for a minimum spend agreement. This is worth asking about. The morning slot is often the easiest to negotiate.
 
-3. **Auto-gratuity is automatic for groups this size.** Brunch venues that accommodate parties of 15+ will add 18-20% gratuity automatically. This is correct and appropriate — do not let group members remove it, and do not tip on top of it without intending to.
+3. **Auto-gratuity is automatic for groups this size.** Brunch venues that accommodate parties of 15+ will add 18-20% gratuity automatically. This is correct and appropriate — do not let group members remove it, and do not tip on top of it without intending to. The [group tipping etiquette guide](/guides/group-tipping-etiquette/) covers the rest of the trip's tipping math.
 
 4. **The best rooftop views in the city are from CBD hotels, not French Quarter ones.** French Quarter rooftops look across a relatively low-rise historic district. CBD hotel rooftops look at the river and the city's full geographic situation. If the view is the priority, the CBD is the direction.
 
@@ -178,10 +178,6 @@ When booking a rooftop brunch for 15+ people, the most important question you as
 
 ## Large Group Accommodation for a Rooftop Brunch Morning
 
-Both the Bywater and the Lower Garden District have good rideshare access to rooftop brunch venues across the CBD and French Quarter.
-
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The villa's kitchen and courtyard setup makes the pre-brunch morning — coffee for 20, the slow start before rideshares arrive — significantly more functional than a hotel corridor. The return to the private pool after a Sunday rooftop brunch is the natural completion of the morning. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Syd's location one block from the St. Charles Streetcar Line gives the group the option to brunch along the streetcar route — Magazine Street and the Garden District have elevated and courtyard brunch spaces that are accessible without a rideshare and give the morning a neighborhood quality rather than a tourist-corridor quality.
+Both the [Bywater](/neighborhoods/bywater/) and the [Lower Garden District](/neighborhoods/lower-garden-district/) have good rideshare access to rooftop brunch venues across the CBD and French Quarter. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool and full kitchen) make the pre-brunch morning — coffee before rideshares arrive — more functional than a hotel corridor. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub, one block from the streetcar) put the group along the streetcar route, where [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/) and the Garden District have their own elevated and courtyard brunch spaces reachable without a rideshare. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

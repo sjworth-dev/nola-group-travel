@@ -4,7 +4,7 @@ description: "The lakefront seawall at sunset, fishing off the pier, the Pontcha
 category: "Activities & Day Trips"
 card_title: "Lake Pontchartrain Group Guide"
 card_description: "Lakefront seawall at sunset, fishing off the pier, Pontchartrain Beach, and the Bucktown seafood corridor — a full lakefront afternoon for groups of 15-30 that most visitors miss entirely."
-date: 2026-06-25
+date: 2026-09-18
 ---
 
 Lake Pontchartrain is 40 miles wide, 25 miles across, and 15 feet deep on average. It is a body of water visible from the bridge long before you reach it, and it dominates the northern geography of the city in a way that is easy to forget when you are spending your days in the French Quarter.
@@ -204,10 +204,6 @@ The river experience and the lake experience are complementary — the city's ge
 
 ## Large Group Accommodation for a Lake Afternoon
 
-The lake is most accessible from Mid-City, Lakeview, and the Bayou St. John neighborhood — roughly 20 minutes from both the Bywater and the Lower Garden District by rideshare.
-
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. A lake afternoon from the Bywater is a 20-minute rideshare to the West End seawall and a 20-minute rideshare back — a round trip that puts the lakefront within easy reach for an afternoon that requires no equipment or advance setup beyond a cooler with drinks. The return to the Bywater private pool after a lake afternoon completes a day built around water in two different settings. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is a similar rideshare distance from the lake as the Bywater. A lake afternoon that includes a Bucktown seafood dinner can transition naturally back to The Syd's outdoor kitchen and courtyard for anyone who wants to continue the evening after dinner — drinks in the pool, the outdoor kitchen for anything that needs extending.
+The lake is most accessible from Mid-City, Lakeview, and the Bayou St. John neighborhood — roughly 20 minutes from both the Bywater and the Lower Garden District by rideshare. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) and Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) both put a similar 20-minute rideshare between the villa and the West End seawall — either way, the group returns to a private pool after an afternoon built around a different body of water. Heirloom's larger inventory across Central City and the Lower Garden District is worth checking too if the group needs short-notice availability. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
