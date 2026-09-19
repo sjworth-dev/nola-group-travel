@@ -11,7 +11,7 @@ Miami and New Orleans show up on the same shortlist constantly — both are warm
 
 Miami is a beach-and-nightclub city built around see-and-be-seen energy, a Latin American food and culture influence unlike anywhere else in the country, and a scene that runs on reservations and guest lists. New Orleans is an older, weirder city that runs on open containers, live music spilling out of every doorway, and a total absence of a velvet rope mentality. Both are legitimate answers for a big group. They are not the same trip in different weather.
 
-Here's the honest version, not the version written by a tourism board.
+Here's the honest version, not the version written by a tourism board. Once you've settled on a city, the [how-to-plan-a-group-trip guide](/guides/plan-a-group-trip/) sequences everything that comes next — dates, accommodation, budget — in order.
 
 ---
 
@@ -77,7 +77,7 @@ New Orleans has a more developed purpose-built large-group villa market, concent
 
 New Orleans isn't a beach trip — there's no beach to speak of, and the appeal is entirely urban: food, music, architecture, walkable neighborhoods. If your group specifically wants sand and open water as part of the trip, that's a real point in Miami's favor and not something New Orleans can compete with.
 
-On heat: neither city is cool for most of the year, but New Orleans has a genuine peak season with better weather — check the [seasonality guidance in the festival season calendar](/guides/festival-season-calendar/) for how October and February through May offer real relief from the summer heat. Miami's climate runs warm-to-hot for a longer stretch of the calendar, with less of a distinct cooler season to plan around.
+On heat: neither city is cool for most of the year, but New Orleans has a genuine peak season with better weather — the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) and the [festival season calendar](/guides/festival-season-calendar/) both cover how October and February through May offer real relief from the summer heat. Miami's climate runs warm-to-hot for a longer stretch of the calendar, with less of a distinct cooler season to plan around.
 
 ---
 
@@ -95,7 +95,7 @@ For groups renting a private villa instead of splitting hotel rooms or condo uni
 
 **Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a home base with a pool instead of a stacked condo, doesn't want a dress code standing between them and a good night, or wants a trip that feels specific to one city rather than a beach-club formula that could be several cities. It asks less of the wallet on any given night and more of your curiosity about the city itself.
 
-**Pick New Orleans if you've already done Miami.** Groups that cycle through the beach-and-bottle-service circuit — Miami, then a second beach city — often land here next specifically because it's a different kind of trip, not a repeat of the same one. For a full look at what that itinerary looks like once you commit, see the [girls trip guide](/guides/nola-group-girls-trip-guide/) or the [bachelorette party guide](/guides/bachelorette-party/).
+**Pick New Orleans if you've already done Miami.** Groups that cycle through the beach-and-bottle-service circuit — Miami, then a second beach city — often land here next specifically because it's a different kind of trip, not a repeat of the same one. For a full look at what that itinerary looks like once you commit, see the [girls trip guide](/guides/nola-group-girls-trip-guide/), the [bachelorette party guide](/guides/bachelorette-party/), or the [guys' weekend guide](/guides/guys-weekend-guide/) if the group skews male.
 
 ---
 
