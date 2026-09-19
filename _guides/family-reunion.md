@@ -31,7 +31,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 **Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. The deepest inventory, which matters when a reunion's dates are fixed by the family calendar rather than by availability.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens, ground-floor options for mobility needs.
+**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens.
 
 **The Syd** — Villas in the Lower Garden District sleeping up to 22 each, with a shared heated pool and hot tub, near the streetcar.
 
@@ -222,6 +222,6 @@ New Orleans provides the backdrop. The reunion is what you make of it.
 
 ## Book Your Reunion
 
-For family reunions, a private villa keeps everyone under one roof — the single biggest factor in whether a reunion feels like a gathering or just a vacation people happened to take at the same time. The field has a few shapes of it: Castleday Retreats (Bywater, private pools, ADA-accessible options, up to 30 per villa), The Syd (Lower Garden District, shared pool and hot tub, up to 22 per villa), and Heirloom (LGD/Central City, dozens of large-format homes for deeper inventory) all work. For a family that wants separate bills instead of a shared house, hotel room blocks trade the communal kitchen for individual check-in.
+For family reunions, a private villa keeps everyone under one roof — the single biggest factor in whether a reunion feels like a gathering or just a vacation people happened to take at the same time. The options above cover the range, from single-villa privacy to deep short-notice inventory. For a family that wants separate bills instead of a shared house, hotel room blocks trade the communal kitchen for individual check-in.
 
 [See where to stay for large groups →](/where-to-stay/)

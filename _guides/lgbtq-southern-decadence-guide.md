@@ -55,7 +55,7 @@ The French Quarter is the heart of Southern Decadence. Bourbon Street and the su
 
 **For large groups:** The French Quarter works well for street party situations because you don't need everyone together at all times. Agree on a meeting point (Jackson Square is the classic choice), check in every hour, and let people explore in pairs or small groups.
 
-### Lower Garden District / The Syd Area
+### Lower Garden District
 
 The Lower Garden District is one block from the St. Charles Streetcar, which puts you 15 minutes from the French Quarter core. For groups who want space and privacy without being inside the Bourbon Street scrum, staying in the LGD and taking the streetcar in for evening events is the smart move. You get the event without the hotel room above a bar.
 
@@ -144,9 +144,9 @@ The accommodation problem at Southern Decadence is real. Labor Day weekend in th
 
 The better move for a large group is a private villa property slightly outside the French Quarter core — close enough that you're 10-20 minutes from the action, private enough that you can recover between events. The property field spans a real range of fits:
 
-**The Syd** — Lower Garden District, up to 22 guests per villa, multiple villas available. One block from the St. Charles Streetcar to the French Quarter. During Southern Decadence, the shared heated pool and outdoor kitchen become the communal space where your group decompresses between the events. Artist-designed interiors throughout — it sets the mood right before you head out. The LGD also has its own bar scene if you want to warm up closer to home before heading into the Quarter.
+**The Syd** — Lower Garden District, up to 22 guests per villa, multiple villas available. One block from the St. Charles Streetcar to the French Quarter. During Southern Decadence, the shared heated pool becomes the communal space where your group decompresses between events. The LGD also has its own bar scene if you want to warm up closer to home before heading into the Quarter.
 
-**Castleday Retreats** — Bywater, up to 30 guests per villa, 3 villas available. The Bywater is 15-20 minutes from the French Quarter by rideshare or streetcar and has a strong LGBTQ+-welcoming community of its own. The private pools at each villa mean you have your own recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Castleday location delivers both.
+**Castleday Retreats** — Bywater, up to 30 guests per villa, 3 villas available. The Bywater is 15-20 minutes from the French Quarter by rideshare or streetcar and has a strong LGBTQ+-welcoming community of its own. The private pools at each villa mean you have your own recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Bywater location covers both.
 
 **Hotel Perle** — CBD/Warehouse District group suites with separate billing per room. Worth a look if your group is mixed on budget and wants everyone under one roof without splitting one shared bill.
 
