@@ -2,7 +2,7 @@
 title: "Bayou St. John: The Urban Waterway Corridor for Large Groups"
 description: "Bayou St. John connects Mid-City to City Park along a tree-lined urban waterway. Cycling, kayaking, the lakefront restaurant strip, and a genuinely beautiful afternoon destination for groups of 10-30."
 category: "Neighborhoods"
-date: 2026-05-28
+date: 2026-09-19
 ---
 
 Most visitors to New Orleans never see Bayou St. John. They stay on the tourist corridor — French Quarter to Garden District — and miss one of the best afternoon destinations in the city.
@@ -166,9 +166,7 @@ Bayou St. John is a half-day destination, not a full day. Build it into a larger
 
 From Bayou St. John, rideshares are easy and cost-effective during the day. Budget 15-20 minutes to any major neighborhood.
 
-**Castleday Retreats** in the Bywater is roughly 20 minutes by rideshare from Bayou St. John — close enough that you can do the bayou as a morning activity and be back at the villa pool by early afternoon. The Bywater's proximity to the Marigny also means Frenchmen Street live music is minutes away for the evening.
-
-**The Syd** in the Lower Garden District is 20-25 minutes from Bayou St. John. The St. Charles Streetcar can also get you within a few blocks — ride the streetcar to the Canal Street stop, transfer to the Canal Street streetcar line toward Mid-City, and you're close to the bayou's southern end. It's slower but more local than ridesharing.
+Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) are roughly 20 minutes by rideshare from Bayou St. John — close enough that you can do the bayou as a morning activity and be back at the pool by early afternoon, with Frenchmen Street live music minutes away for the evening. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) run 20-25 minutes by rideshare, or a slower, more local trip via the St. Charles Streetcar to Canal Street and a transfer toward Mid-City. For the largest selection, book 6+ months out.
 
 ---
 

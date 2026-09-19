@@ -1,10 +1,10 @@
 ---
 title: "Sazerac House Distillery Tour and NOLA Spirits History for Large Groups"
-description: "The Sazerac House tour logistics, the craft distillery scene, and a full spirits history afternoon for groups of 15-25 — cocktail-making context, tasting room protocols, and how to structure a NOLA spirits education that actually sticks."
+description: "The Sazerac House tour logistics, the craft distillery scene, and a full spirits history afternoon for the whole crew — cocktail-making context, tasting room protocols, and how to structure a NOLA spirits education that actually sticks."
 category: "Activities & Day Trips"
 card_title: "Sazerac House & Distillery Tour Guide"
-card_description: "Sazerac House tour logistics, craft distillery stops, and a full spirits history afternoon for groups of 15-25 — with the cocktail context that makes every NOLA drink taste better afterward."
-date: 2026-06-25
+card_description: "Sazerac House tour logistics, craft distillery stops, and a full spirits history afternoon for the whole crew — with the cocktail context that makes every NOLA drink taste better afterward."
+date: 2026-09-19
 ---
 
 The Sazerac cocktail is the official cocktail of New Orleans. This is a legally designated fact — passed by the Louisiana legislature. It is a rye-whiskey-and-bitters drink that has been made in this city since at least the mid-1800s, and its home institution, the Sazerac House on Canal Street, is one of the best free group experiences in the city.
@@ -168,8 +168,6 @@ Designate someone to set this tone before you arrive. "We are here to learn what
 
 The Sazerac House is on Canal Street in the Central Business District — easily accessible from both the Bywater and the Lower Garden District by rideshare.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater's position near the French Quarter and Marigny makes a spirits afternoon easy to extend into a Frenchmen Street evening without changing neighborhoods. The villa's full bar setup means the spirits education from the afternoon becomes immediately applicable — making a proper Sazerac at the villa bar after a Sazerac House afternoon is one of the better trip moments available. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. A spirits afternoon that ends with the group back at The Syd's outdoor kitchen and pool bar is a natural conclusion — the evening unfolds in the courtyard rather than continuing out, which suits a group that has already had a full afternoon of sensory input.
+Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) sit near the French Quarter and Marigny, close enough to extend a spirits afternoon into a Frenchmen Street evening without changing neighborhoods — and a villa with a full bar setup means the spirits education becomes immediately applicable, making a proper Sazerac back at the house one of the better trip moments available. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) work just as well if the group would rather end the afternoon in a courtyard than head back out. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
