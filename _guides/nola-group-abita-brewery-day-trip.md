@@ -4,7 +4,7 @@ description: "The 45-minute drive north of the lake to Abita Springs, the tour a
 category: "Activities & Day Trips"
 card_title: "Abita Brewery Day Trip"
 card_description: "45 minutes north of the lake: Abita Springs brewery tour, the Old Brewery Museum, north shore lunch, and Causeway return for groups of 15-25."
-date: 2026-06-26
+date: 2026-09-19
 ---
 
 The Abita Brewing Company sits in the piney woods of St. Tammany Parish, 45 minutes north of New Orleans by way of the Lake Pontchartrain Causeway. It is the most identifiable Louisiana craft brewery in the country — a state institution since 1986, the producer of Turbodog and Purple Haze, and the brewery responsible for the Andygator and Wrought Iron IPA that have found their way onto every tap list in NOLA.
@@ -12,6 +12,8 @@ The Abita Brewing Company sits in the piney woods of St. Tammany Parish, 45 minu
 Most visitors drink Abita in New Orleans without ever visiting the brewery. This is fine. But for groups of 15-25 who want a day trip with some structure — a reason to leave the city, a destination that rewards the drive, and a format that accommodates a large group without requiring weeks of advance planning — the Abita Brewery tour is the right call.
 
 The drive itself is part of the point. The Lake Pontchartrain Causeway is 24 miles of bridge over open water, and the transition from urban New Orleans to the pine forests of St. Tammany Parish is a genuine shift in landscape and pace. The north shore is a different Louisiana from the city.
+
+This is one of several ways to get a group out of the city for a day — the [day trips overview](/guides/day-trips/) lays out the full menu, and if you're still sequencing the rest of the week around it, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) shows where a day like this fits.
 
 ---
 
@@ -144,7 +146,7 @@ For a group in a charter van, the Causeway return is a 25-minute debrief session
 
 ## Day-Trip Comparison Table
 
-| Feature | Abita Brewery | Whitney Plantation | Swamp Tour (Airboat) | City Park Day |
+| Feature | Abita Brewery | [Plantation Tour](/guides/nola-group-plantation-tour-guide/) | [Swamp Tour](/guides/nola-swamp-tour-guide/) | [City Park Day](/guides/nola-group-mid-city-city-park-full-day-guide/) |
 |---------|---------------|-------------------|---------------------|--------------|
 | Drive time | 45 min (Causeway) | 45 min (River Road) | 30-45 min | 20 min |
 | Best group size | 15-25 | 10-30 | 10-20 per boat | Any |
@@ -175,10 +177,6 @@ For a group in a charter van, the Causeway return is a 25-minute debrief session
 
 ## Large Group Accommodation for an Abita Day Trip
 
-An Abita Springs day trip works best when the group is based in a single property rather than scattered across hotels. The charter van logistics require a single departure point.
-
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. A Bywater departure to the Causeway is approximately 15 minutes to the Causeway approach in Metairie — a reasonable charter van ride before the bridge. Return to the Bywater private pool after a day on the north shore completes the geographic range of the trip: from the Bywater to Abita Springs and back, with a long lake crossing in each direction. 4.98 average rating across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The LGD is similarly positioned for a charter van departure to the Causeway. The shared outdoor kitchen at The Syd can serve as the pre-departure staging area for a group organizing before a day trip.
+An Abita Springs day trip works best from a single departure point — the charter van logistics get complicated fast once a group is scattered across hotels. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) sit about 15 minutes from the Causeway approach in Metairie, with a private pool waiting on the return from the north shore. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) are a similar distance from the bridge. Groups with mixed budgets, or who want separate bills per unit, can look at Heirloom's inventory in the LGD/Central City or a downtown room block instead — either still stages a charter van from one address. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
