@@ -11,7 +11,7 @@ Destin comes up constantly in Southeast and Texas girls-trip group chats, and th
 
 That's also the whole pitch, though. Destin is a beach-condo trip — sun, a pool deck, a boat day if someone's ambitious, dinner somewhere with a water view. New Orleans is a different kind of group trip entirely: [live music](/guides/live-music-guide/) that runs past midnight, a food culture that's the actual point of the visit, and a city with a personality Destin doesn't try to have. Neither is the objectively correct choice — it depends on whether your group wants to lie on a beach or wants a trip built around a city.
 
-Here's the honest version: beach-condo-day framing vs. live-music-city framing, lodging (Destin's condo and resort-rental market vs. New Orleans' purpose-built villa market), food and drink culture (Gulf seafood and beach-town casual vs. Creole-Cajun), and the one thing both destinations share — a hurricane-season risk window that neither city can plan around.
+Here's the honest version: beach-condo-day framing vs. live-music-city framing, lodging (Destin's condo and resort-rental market vs. New Orleans' purpose-built villa market), food and drink culture (Gulf seafood and beach-town casual vs. Creole-Cajun), and the one thing both destinations share — a hurricane-season risk window that neither city can plan around. If New Orleans wins the debate, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) sequences the rest of the decisions from here.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two destinations genuinely diverge once a group gets large.
 
 Destin's large-group lodging runs on beachfront condo towers and resort-style rental units — plenty of bedrooms, a shared pool deck, often a Gulf view, but built as vacation-rental inventory rather than a single house designed to hold a whole crew under one roof. A real double-digit group in Destin often ends up in a multi-unit condo or a large resort-style rental house split across floors.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — houses built specifically to hold a whole crew together, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — houses built specifically to hold a whole crew together, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like Castleday Retreats (Bywater villas with a private pool per house, up to 30 guests each) or The Revelry (Central City apartment-style floors with separate billing per group) represent the kind of purpose-built group housing New Orleans has developed at a scale Destin's condo market doesn't match once a group wants one shared roof rather than a stack of separate units. Neither is a booking recommendation — they're representative of a category, and a big resort condo remains a fine answer in Destin if your group is fine splitting across units.
 
@@ -96,7 +96,7 @@ New Orleans and Destin both sit inside the Gulf hurricane season, which runs Jun
 
 3. **Book large-group lodging early in both.** Availability, not price, is the real bottleneck once a group hits real double digits. For the largest selection, book 6+ months out.
 
-4. **Check New Orleans' event calendar before locking dates.** The season here is genuinely inverted from most cities — October and February through May are peak, not shoulder.
+4. **Check New Orleans' event calendar before locking dates.** The season here is genuinely inverted from most cities — October and February through May are peak, not shoulder. The [festival season calendar](/guides/festival-season-calendar/) lays out the actual dates.
 
 5. **Watch the hurricane outlook for both cities if you're booking June through November.** Neither destination is exempt, and travel insurance is worth the cost inside that window regardless of which one you pick.
 
