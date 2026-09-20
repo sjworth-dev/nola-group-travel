@@ -4,7 +4,7 @@ description: "The Oak Street and Riverbend afternoon for groups of 10-25: the Ma
 category: "Activities & Day Trips"
 card_title: "Oak Street & Riverbend"
 card_description: "The Maple Leaf Bar, Maple Street Patisserie, and the Carrollton corridor — a full afternoon in the Uptown neighborhood farthest from the tourist circuit, structured for groups of 10-25."
-date: 2026-06-27
+date: 2026-09-20
 ---
 
 Five miles upriver from the French Quarter, the St. Charles Avenue streetcar rounds a bend and drops you into a part of New Orleans that most visitors never reach. Oak Street and the surrounding Riverbend neighborhood look like what New Orleans actually is for the people who live here: a working residential city with a commercial main street, corner bars, neighborhood restaurants, and a music venue that has been running on the same block for decades without ever being discovered by the tour operators.
@@ -41,7 +41,7 @@ For a group of 15 or 20 people coming from somewhere with less ambient weirdness
 
 ## The Streetcar Arrival
 
-The St. Charles Avenue streetcar runs the full length of St. Charles from the CBD uptown to the Riverbend. The ride is roughly 40-50 minutes from Canal Street, depending on traffic. For a group of 10-25, this is the right transportation choice. Everyone boards, everyone gets seats or standing positions, and the ride through the Garden District and Uptown delivers the full St. Charles experience: the live oaks, the mansions, the Tulane campus, the gradual shift from monumental architecture to neighborhood commercial.
+The St. Charles Avenue streetcar runs the full length of St. Charles from the CBD uptown to the Riverbend. The ride is roughly 40-50 minutes from Canal Street, depending on traffic. For a big group, this is the right transportation choice. Everyone boards, everyone gets seats or standing positions, and the ride through the Garden District and Uptown delivers the full St. Charles experience: the live oaks, the mansions, the Tulane campus, the gradual shift from monumental architecture to neighborhood commercial.
 
 The Riverbend streetcar stop is at the point where St. Charles meets Carrollton Avenue and bends back toward the river. You know you are there when the streetcar line turns north.
 
@@ -197,8 +197,6 @@ Return transport from the Riverbend to downtown or the Bywater is primarily ride
 
 The Riverbend is about 5 miles from the French Quarter and 4 miles from the Bywater. Either end of the city is a reasonable base for this excursion.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping 14–30 guests across 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. From the Bywater, the Oak Street afternoon runs as a dedicated half-day excursion with a direct rideshare back to the villa in the evening — typically 15-20 minutes. The private pool makes a good recovery anchor for the morning before or after. Rated 4.98 average across 99 reviews.
-
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District is closer to the Riverbend than the Bywater; the St. Charles Streetcar runs directly between the LGD and the Riverbend bend. A group staying at The Syd can take the streetcar from their neighborhood all the way to the Riverbend without a rideshare at all.
+Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) put the Oak Street afternoon at a dedicated half-day excursion with a direct rideshare back in the evening — typically 15-20 minutes. The Lower Garden District, where The Syd runs villas up to 22 guests with a shared heated pool and hot tub, is closer to the Riverbend, and the St. Charles Streetcar runs directly between the two — a group staying there can reach Oak Street without a rideshare at all. Groups that want separate bills per unit, or deeper short-notice inventory, can look at Heirloom's LGD/Central City homes or a downtown room block instead. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

@@ -4,7 +4,7 @@ description: "Rideshare math, surge windows, airport pickup strategy, and when t
 category: "Planning & Logistics"
 card_title: "Rideshare & Group Transport"
 card_description: "XL math, surge timing, MSY pickup strategy, and when a charter van beats Uber. The rideshare playbook for groups of 10-30."
-date: 2026-07-05
+date: 2026-09-20
 ---
 
 You pull up the Uber app for a group of 20 at 11pm on a Saturday night in New Orleans. You're going to need five cars. There's a parade route closure two blocks over. The app shows 18 minutes on the nearest XL. Prices are surging at 2.4x.
@@ -13,7 +13,7 @@ This situation happens to every group that doesn't plan transportation before th
 
 Rideshare works in New Orleans — most of the time. But the city has specific patterns that punish groups who treat it like they would a normal night out in a mid-sized city. Parade route closures are real and they happen on schedule. Post-event surges at Jazz Fest and Essence Fest are brutal. The XL inventory at MSY airport is limited. And the math on five simultaneous cars for a group of 20 adds up fast.
 
-This guide is the complete rideshare playbook for groups of 10-30. It covers the arrival and departure strategy, the XL math, when surge pricing hits and by how much, the split-and-reconvene model, and the exact decision point where a charter van beats Uber. For context on the full transportation picture — streetcars, biking, walking distances between neighborhoods — see the [group transportation overview](/guides/transportation-guide/).
+This guide is the complete rideshare playbook for a big group. It covers the arrival and departure strategy, the XL math, when surge pricing hits and by how much, the split-and-reconvene model, and the exact decision point where a charter van beats Uber. For context on the full transportation picture — streetcars, biking, walking distances between neighborhoods — see the [group transportation overview](/guides/transportation-guide/).
 
 ## Quick Checklist
 
@@ -213,18 +213,18 @@ When you book, confirm: drop-off address, pickup window, driver's phone number f
 
 6. **Post-parade surge clears faster than post-festival surge.** A 30-minute wait after a parade ends is usually enough. Post-Jazz Fest or post-Essence Fest surge can persist for 90 minutes — plan accordingly.
 
-7. **Walk from the Bywater to Frenchmen Street.** If you're staying at a property like Castleday Retreats in the Bywater, Frenchmen Street is a 10-15 minute walk. Skip the app entirely.
+7. **Walk from the Bywater to Frenchmen Street.** If you're staying at a Bywater villa, Frenchmen Street is a 10-15 minute walk. Skip the app entirely.
 
 ---
 
-## For Groups of 11-30: The Transport Infrastructure Decision
+## For a Big Group: The Transport Infrastructure Decision
 
 Where your group stays determines how much you spend on rideshare over the course of a trip.
 
 A private villa that's walking distance from your primary nightlife destinations eliminates most in-city rideshare spending. Groups staying in the Bywater — near properties like Castleday Retreats — walk to Frenchmen Street, Bacchanal Wine, and the Marigny without opening the app.
 
-Groups in the Lower Garden District — near properties like The Syd — have the St. Charles Streetcar one block away, connecting to Canal Street, the Warehouse District, and Uptown without rideshare costs.
+Groups in the Lower Garden District — near properties like The Syd — have the St. Charles Streetcar one block away, connecting to Canal Street, the Warehouse District, and Uptown without rideshare costs. Groups who want deeper short-notice inventory or separate bills per unit can look at Heirloom's LGD/Central City homes instead, with the same streetcar access.
 
-The transportation math is an argument for picking your accommodation based on what you plan to do, not just where the rooms are. A well-located villa reduces your rideshare spend by $20-40 per person over a 3-4 day trip.
+The transportation math is an argument for picking your accommodation based on what you plan to do, not just where the rooms are. A well-located villa reduces your rideshare spend by $20-40 per person over a 3-4 day trip. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

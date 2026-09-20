@@ -4,7 +4,7 @@ description: "Hot tub capacity reality, rotation etiquette, the 10pm outdoor sou
 category: "Planning & Logistics"
 card_title: "Villa Hot Tub Protocol"
 card_description: "A hot tub shared by 20 people needs a rotation plan, a noise plan, and someone who knows when to get out. Here's the protocol that prevents the small frustrations and sets up the best conversation of the trip."
-date: 2026-07-04
+date: 2026-09-20
 ---
 
 The hot tub is not a group activity. That's the first thing to understand. It's an individual recovery tool that ten people happen to be using in close proximity, and managing it well is mostly about capacity math and honest expectations.
@@ -188,6 +188,6 @@ The private hot tub is one of those villa amenities that sounds better than it p
 
 Reframe it: the hot tub is a rotating recovery tool that creates excellent small-group conversations. In that framing, it performs exceptionally well. The 11pm session, the morning soak, the post-festival decompression — these are the hot tub's best use cases for large groups, and all of them require fewer than eight people.
 
-Castleday Retreats in the Bywater and The Syd in the Lower Garden District both have outdoor spa and soaking infrastructure as part of their group amenity package — The Syd specifically includes a hot tub and sauna alongside the shared heated pool. The outdoor space at both properties is designed with the evening gather in mind, which is the window where the hot tub does its best work.
+Bywater villas (Castleday Retreats among them) come with a private pool per villa, and The Syd's Lower Garden District villas share a heated pool and hot tub — either format gives the group its own outdoor soaking space rather than a shared building amenity on someone else's schedule. Heirloom's inventory across the LGD and Central City, or a hotel room block, are the answer for a group that would rather skip the hot tub logistics entirely. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
