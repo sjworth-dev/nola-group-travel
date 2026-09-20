@@ -257,7 +257,7 @@ The [budget guide](/guides/budget-guide/) runs the fuller per-person math across
 
 A bachelor party at real size needs a villa. Hotel rooms scatter the group, kill the communal energy, and cost more when you do the math — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through why.
 
-The field spans a real range of fits. Bywater properties like Castleday Retreats deliver total privacy — private pools per villa, full kitchens for the late-night snack run, no hotel staff or other guests on the property. Lower Garden District options like The Syd put you a block from the St. Charles streetcar with a shared heated pool and hot tub, useful if the group plans to move between neighborhoods. None of the above is a booking recommendation — pick by fit, and book early either way; bachelor parties are a peak-use case across the field.
+The field spans a real range of fits. Bywater properties like Castleday Retreats deliver total privacy — private pools per villa, full kitchens for the late-night snack run, no hotel staff or other guests on the property. CBD/Warehouse District options like Hotel Perle put you within walking distance of the Quarter with separate bills per room, useful if the group plans to move between neighborhoods and split costs cleanly. None of the above is a booking recommendation — pick by fit, and book early either way; bachelor parties are a peak-use case across the field.
 
 ---
 

@@ -294,6 +294,6 @@ The right home base makes activity logistics infinitely easier. A central proper
 
 **Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests, with a private pool per villa. The Bywater is close to the Quarter (for most tours), the Marigny, and Frenchmen Street. Easy staging ground for daily activities.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared heated pool and hot tub, one block from the St. Charles Streetcar. Magazine Street walkable. Central to the whole city.
+**Heirloom** — Large-format homes across the Lower Garden District and Central City, with the deepest inventory in the market — useful if the group's headcount or dates need flexibility. Magazine Street walkable. Central to the whole city.
 
 Both properties can accommodate the kind of casual group briefings that make coordinating daily activities easier: everyone in one kitchen in the morning, map out the day, go. For the full field of options, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
