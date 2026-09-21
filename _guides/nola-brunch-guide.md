@@ -83,7 +83,7 @@ The most interesting neighborhood brunch scene in the city for groups who want s
 
 **Group logistics:** Some spots in these neighborhoods are small and can't handle large groups as a single table. The crawl approach works better here than a full-table reservation.
 
-**Best for groups staying at Castleday Retreats** — you're already in the neighborhood.
+**Best for groups staying in the Bywater** — you're already in the neighborhood.
 
 ### Garden District and Magazine Street
 
@@ -91,7 +91,7 @@ Long-established brunch culture with the resources to handle larger groups. The 
 
 **What works here for groups:** The established spots that have been doing Sunday brunch for 20+ years know how to handle a 15-person table. Commander's Palace is in this neighborhood — not inexpensive, but one of the best celebratory brunch experiences in the city.
 
-**Group logistics:** Uber or rideshare from most villa locations. Or walk from The Syd, which is in the Lower Garden District.
+**Group logistics:** Uber or rideshare from most villa locations. Or walk, if your group is staying in the Lower Garden District.
 
 ### Uptown
 
@@ -244,7 +244,7 @@ This produces groups that go out well-fed, well-rested, and actually looking for
 
 Being in the right neighborhood puts brunch within walking distance or a short rideshare — and the field has a few different shapes of it.
 
-Bywater villas like Castleday Retreats keep a group around a private pool with a full kitchen, and the Bywater/Marigny brunch scene — including Bacchanal Wine's back wine garden — is at walking distance; each villa has 12 bedrooms and 17 real beds, so an organizer planning around 16 people gets a kitchen that can actually run the full villa-brunch spread. The Syd's Lower Garden District villas sit one block from the St. Charles streetcar, putting Garden District and Uptown brunch spots in easy reach, with a shared outdoor kitchen that covers the villa-brunch option too. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group would rather have separate bills than a shared kitchen, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) put you a short rideshare from any neighborhood's brunch scene.
+Bywater villas keep a group around a private pool with a full kitchen, and the Bywater/Marigny brunch scene — including Bacchanal Wine's back wine garden — is at walking distance, so an organizer who wants to run the full villa-brunch spread has the kitchen for it. The Revelry's Central City apartment-style floors share a saltwater pool and put Garden District and Uptown brunch spots in easy reach. Heirloom's large-format homes across the LGD and Central City are worth checking for deeper inventory or a short-notice booking. If the group would rather have separate bills than a shared kitchen, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) put you a short rideshare from any neighborhood's brunch scene.
 
 For the largest selection, book 6+ months out.
 

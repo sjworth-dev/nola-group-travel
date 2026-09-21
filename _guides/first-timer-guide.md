@@ -41,9 +41,9 @@ You don't have to go deep on day one. But go with an open itinerary and you'll f
 |-------------|-----------|---------|
 | French Quarter | Historic core, most tourists | First impressions, Bourbon Street, Pat O'Brien's |
 | Marigny | Just east of the Quarter | Frenchmen Street live music — this is the real scene |
-| Bywater | Artist neighborhood, east of Marigny | Bacchanal Wine, local feel, Castleday Retreats |
+| Bywater | Artist neighborhood, east of Marigny | Bacchanal Wine, local feel, artist studios |
 | Garden District | Historic mansions, Magazine Street | Walking tour, shopping, Commander's Palace |
-| Lower Garden District | Residential, streetcar access | The Syd, good restaurants, less touristy |
+| Lower Garden District | Residential, streetcar access | Good restaurants, less touristy, easy streetcar access |
 | Warehouse District | Arts, galleries, Convention Center | WWII Museum, art galleries |
 | Uptown | Tulane, Loyola, Magazine Street | Great restaurants, real neighborhood vibe |
 | Tremé | Oldest Black neighborhood in the US | Jazz culture, second lines, Congo Square |
@@ -255,7 +255,7 @@ This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary
 
 The biggest logistical challenge for first-time large group visitors is accommodation. Most online rental platforms cap out well short of a big crew. Hotels scatter the group across rooms and floors. Neither option gives you what you actually want: everyone together. Once a trip goes double-digit, a private group villa is usually the answer — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down that math in full.
 
-The property field spans a real range of fits, and for first-timers, location matters as much as capacity. **Castleday Retreats**, private-pool Bywater villas a 20-minute walk from the Quarter and right next to Frenchmen Street, puts a first trip in the middle of real New Orleans rather than the tourist bubble. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, is the pick if your group wants easy access to the Garden District, CBD, and Warehouse District — the streetcar ride alone is worth the location. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add deeper inventory if the calendar's tight. None of these is a booking recommendation — pick by fit, and both neighborhoods beat staying inside the tourist strip for a first visit.
+The property field spans a real range of fits, and for first-timers, location matters as much as capacity. **Hotel Perle**, CBD/Warehouse District group suites with separate bills and a rooftop pool, puts a first trip walkable to the Quarter and the Warehouse District's museums without the whole group splitting one big villa bill. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add the deepest inventory if the calendar's tight. **The Revelry**, Central City apartment-style floors sharing a saltwater pool, is the pick if the group wants separate units under one roof rather than a single house. None of these is a booking recommendation — pick by fit, and any of these neighborhoods beats staying inside the tourist strip for a first visit.
 
 For the largest selection, book 6+ months out.
 
