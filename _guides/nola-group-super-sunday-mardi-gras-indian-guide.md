@@ -1,10 +1,10 @@
 ---
 title: "Super Sunday: Mardi Gras Indians for Large Groups in New Orleans"
-description: "Super Sunday (third Sunday in March) for large groups of 10-20: Mardi Gras Indian gathering logistics, the A.L. Davis Park location, respectful visitor protocol, photography etiquette, and how to structure the day around the gathering."
+description: "Super Sunday (third Sunday in March) for a large group: Mardi Gras Indian gathering logistics, the A.L. Davis Park location, respectful visitor protocol, photography etiquette, and how to structure the day around the gathering."
 category: "Culture & History"
 card_title: "Super Sunday Mardi Gras Indian Guide"
-card_description: "The third Sunday in March, A.L. Davis Park, and one of the most extraordinary cultural gatherings in America — a respectful visitor guide for groups of 10-20."
-date: 2026-06-26
+card_description: "The third Sunday in March, A.L. Davis Park, and one of the most extraordinary cultural gatherings in America — a respectful visitor guide for the whole crew."
+date: 2026-09-21
 ---
 
 Super Sunday is not a tourist event. Let's start there.
@@ -13,7 +13,7 @@ Super Sunday is the principal public gathering of New Orleans' Mardi Gras Indian
 
 Visitors are welcome to attend. This is a public gathering in a public park and the streets of Central City. The welcome, however, comes with obligations. The framework for being a respectful visitor at Super Sunday is not complicated, but it requires deliberate attention from groups who arrive expecting the relaxed rules of a festival or a bar event.
 
-This guide is for groups of 10-20 who want to experience Super Sunday as genuine cultural engagement rather than spectacle consumption. Done correctly, it is one of the most extraordinary human experiences available anywhere in New Orleans.
+This guide is for a group that wants to experience Super Sunday as genuine cultural engagement rather than spectacle consumption. Done correctly, it is one of the most extraordinary human experiences available anywhere in New Orleans. For the deeper cultural background on the tradition itself, see the [Mardi Gras Indians culture guide](/guides/nola-group-mardi-gras-indian-culture-guide/); if you're still sequencing the rest of the trip around this, the [plan-a-group-trip hub](/guides/plan-a-group-trip/) shows where a day like this fits.
 
 ---
 
@@ -46,7 +46,7 @@ What you see at Super Sunday is the public presentation of that year's work. Mul
 
 ## A.L. Davis Park: The Location
 
-A.L. Davis Park is on Washington Avenue in Central City, approximately one mile from the Garden District and 20 minutes by rideshare from the Bywater or the Lower Garden District.
+A.L. Davis Park is on Washington Avenue in Central City, approximately one mile from the Garden District and 20 minutes by rideshare from the [Bywater](/neighborhoods/bywater/) or the [Lower Garden District](/neighborhoods/lower-garden-district/).
 
 The park is the central gathering point for Super Sunday, though the event is not confined to the park — the Mardi Gras Indian tribes and their brass band accompaniments move through the surrounding Central City streets, and the procession routes are not fixed or announced in advance.
 
@@ -136,7 +136,7 @@ Respectful engagement does not mean passive silence. It means arriving with know
 
 ## What Super Sunday Is Not
 
-**It is not Mardi Gras Day.** The most intense Mardi Gras Indian activity happens on Fat Tuesday, when the tribes masque and move through their neighborhoods in a practice that is more intimate and less accessible to visitors. Super Sunday is a public gathering specifically designed for the community to celebrate together — it is the more accessible event.
+**It is not Mardi Gras Day.** The most intense Mardi Gras Indian activity happens on Fat Tuesday (see the [Mardi Gras Day guide](/guides/nola-group-mardi-gras-day-guide/) for how that day works for a group), when the tribes masque and move through their neighborhoods in a practice that is more intimate and less accessible to visitors. Super Sunday is a public gathering specifically designed for the community to celebrate together — it is the more accessible event.
 
 **It is not a festival with a schedule.** There is no program, no ticketing, no announcement of when things will happen. The gathering runs on its own time. Visitors who need a schedule should adjust their expectations before arriving.
 
@@ -168,7 +168,7 @@ Respectful engagement does not mean passive silence. It means arriving with know
 
 5. **The suits are the point.** However you spend your time at Super Sunday, spend some of it in close observation of the suits. Understanding the scale of the work — the individual beads, the feather arrangements, the overall design — requires proximity and time. Ask permission to look closely. Most chiefs will welcome a visitor who approaches with genuine appreciation rather than a camera pointed at their face.
 
-6. **The brass band is part of the spiritual practice.** The music at Super Sunday is not entertainment for visitors. It is integral to the tradition's meaning and practice. Treat it accordingly — listen with attention, tip generously, do not talk over it.
+6. **The brass band is part of the spiritual practice.** The music at Super Sunday is not entertainment for visitors. It is integral to the tradition's meaning and practice. Treat it accordingly — listen with attention, tip generously, do not talk over it. The [Tremé brass band morning guide](/guides/nola-group-treme-brass-band-morning-guide/) covers a different, lower-stakes way to spend a morning with this same musical tradition.
 
 7. **Build in the afternoon for recovery.** Super Sunday is emotionally and cognitively dense. Three hours at the gathering followed by an immediate shift to the next scheduled activity is shortchanging the experience. Plan for a low-key afternoon — the villa pool, a slow lunch, time to decompress and talk about what you witnessed. The reflection is part of what makes it stick.
 
@@ -178,8 +178,10 @@ Respectful engagement does not mean passive silence. It means arriving with know
 
 A.L. Davis Park in Central City is approximately 20-25 minutes from both the Bywater and the Lower Garden District.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. Groups staying in the Bywater planning a March trip around Super Sunday benefit from the proximity to the Tremé and Marigny cultural corridor — the same neighborhood that houses the brass band tradition, Frenchmen Street, and the Backstreet Cultural Museum. A trip structured around Super Sunday and the surrounding cultural context is best based in the Bywater, close to where these traditions live. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Private villas in the Bywater, 14–30 guests each with a private pool per villa. Groups staying in the Bywater planning a March trip around Super Sunday benefit from the proximity to the Tremé and Marigny cultural corridor — the same general area that houses the brass band tradition, Frenchmen Street, and the Backstreet Cultural Museum, with A.L. Davis Park a rideshare away rather than a walk.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. The Lower Garden District offers the fastest and most direct access to Central City for Super Sunday — the neighborhoods are adjacent and the transit is 10-15 minutes. Groups wanting the best Super Sunday logistics from an accommodation perspective have a strong case for the Lower Garden District location.
+**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City — the same neighborhood A.L. Davis Park sits in. Groups wanting the shortest possible trip to the park, or a short-notice booking, have a strong case for Heirloom's Central City inventory specifically.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
