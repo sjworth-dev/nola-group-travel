@@ -11,7 +11,7 @@ Boston shows up in girls-trip and bachelorette planning threads as the serious N
 
 That's close to the honest ceiling, though. Boston is a historic, brick-and-cobblestone city with a college-town nightlife scene layered on top of centuries of American history. New Orleans asks for a different kind of trip — one built around live music that runs from afternoon into the small hours, a food culture with centuries behind it in its own right, and a walkable core where the party doesn't need a car or the T to get from one good night to the next.
 
-Here's the honest version: Faneuil Hall/Seaport nightlife-and-historic framing vs. live-music-city framing, lodging (Boston's hotel-room market vs. New Orleans' purpose-built villa market), New England seafood and chowder vs. Creole-Cajun tradition, and the flight-cost-and-Northeast-winter tradeoff underneath it all.
+Here's the honest version: Faneuil Hall/Seaport nightlife-and-historic framing vs. live-music-city framing, lodging (Boston's hotel-room market vs. New Orleans' purpose-built villa market), New England seafood and chowder vs. Creole-Cajun tradition, and the flight-cost-and-Northeast-winter tradeoff underneath it all. Once the city's settled, the [how-to-plan-a-group-trip guide](/guides/plan-a-group-trip/) sequences everything that comes after it — dates, accommodation, budget — in order.
 
 ---
 
@@ -30,7 +30,7 @@ Here's the honest version: Faneuil Hall/Seaport nightlife-and-historic framing v
 
 Boston's Faneuil Hall and Seaport districts deliver a real, dense nightlife scene — historic taverns, waterfront bars, and a college-town energy that comes from having some of the country's biggest student populations packed into a compact city. It's a genuinely fun bar-crawl city with centuries of American history as a daytime backdrop.
 
-New Orleans doesn't organize its nightlife around a bar district or a college scene — it has [live music](/guides/live-music-guide/) woven through entire neighborhoods, a street culture with no closing time, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) rhythm that runs the whole day instead of concentrating into one late block downtown.
+New Orleans doesn't organize its nightlife around a bar district or a college scene — it has [live music](/guides/live-music-guide/) woven through entire neighborhoods, a street culture with no closing time, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) rhythm that runs the whole day instead of concentrating into one late block downtown. That includes carrying a drink between spots — the [open container law guide](/guides/nola-group-open-container-law-guide/) covers exactly where a go-cup is fine here, a habit Boston's bar districts don't have.
 
 **The real distinction:** Boston gives your group a genuinely fun historic bar crawl plus a real American-history daytime experience most cities don't have. New Orleans gives your group a night that's structurally different from a night out in any other American city. If your group wants "historic, walkable, and collegiate," Boston delivers it reliably. If your group wants a trip that's genuinely unlike the last one, that's New Orleans' whole business model.
 
@@ -75,7 +75,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 For most of the country, neither city is a drive market — your group is flying to get to either one, which puts the comparison on destination rather than logistics. Price actual flights from your group's home airport before assuming either city is the cheaper pick.
 
-Boston adds a real seasonal constraint New Orleans doesn't have: a genuine winter, with cold snaps, snow, and shorter days that shape how much of a trip stays indoors. New Orleans trades that for heat and humidity instead, with [the actual demand calendar](/guides/festival-season-calendar/) running opposite most cities — October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have. The [budget guide](/guides/budget-guide/) runs the real per-person math for a New Orleans trip once flights are settled.
+Boston adds a real seasonal constraint New Orleans doesn't have: a genuine winter, with cold snaps, snow, and shorter days that shape how much of a trip stays indoors. New Orleans trades that for heat and humidity instead, with [the actual demand calendar](/guides/festival-season-calendar/) running opposite most cities — October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have (the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has the month-by-month breakdown). The [budget guide](/guides/budget-guide/) runs the real per-person math for a New Orleans trip once flights are settled.
 
 ---
 
@@ -114,3 +114,7 @@ New Orleans has the more developed answer for a genuinely large group that wants
 For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
+
+---
+
+**Comparing other cities too?** New Orleans vs [Miami](/guides/nola-group-new-orleans-vs-miami-guide/) · [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/)
