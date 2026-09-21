@@ -176,9 +176,9 @@ This is where groups fail. The parade ends. Everyone is simultaneously hungry, t
 
 Long parade days require a real base. Somewhere to stage the supplies, store the beads, and return to when the parade is done. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the full math on which structure fits your group, but for parade season specifically, a few property types stand out:
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests with 12 bedrooms, 17 real beds, and 8 baths. It's a rideshare or streetcar ride from the Uptown route rather than walking distance, but the private pool at each villa is the best post-parade recovery option in the city — the group returns, drops the beads, and collapses into the pool before dinner. Castleday holds a 4.98 average across 99 reviews.
+**The Syd** — Villas in the Lower Garden District, up to 22 guests each, one block from the St. Charles streetcar with a shared heated pool and hot tub. That streetcar access is the real edge during parade season — it drops you close to the Uptown route without needing a car or a long rideshare wait home afterward.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, one block from the St. Charles streetcar with a shared heated pool and hot tub. That streetcar access is the real edge during parade season — it drops you close to the Uptown route without needing a car or a long rideshare wait home afterward.
+**The Mazant** — An 1880s Bywater guesthouse sleeping 18, with a heated pool and spa. It's a rideshare or streetcar ride from the Uptown route rather than walking distance, but a heated pool and spa on-site is a strong post-parade recovery option — the group returns, drops the beads, and unwinds before dinner.
 
 **Hotels for room blocks** — For a group mixed on budget, or one that wants to be walking distance to a French Quarter-adjacent route like Krewe of Boo, a room block at a hotel like The Roosevelt or Hotel Peter & Paul keeps everyone under one roof with separate bills.
 

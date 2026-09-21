@@ -161,8 +161,10 @@ End the Tremé portion of the morning at a natural stopping point — the end of
 
 The Tremé is a 15-20 minute rideshare from both the Bywater and the Lower Garden District — a short, easy transit that makes this morning accessible from either area.
 
-**Castleday Retreats** — Three private villas in the Bywater: The Herald, The Cocodrie, and The Florentine. Each villa sleeps 14–30 guests in 12 bedrooms with 17 real beds and 8 baths. The Florentine is ADA-accessible. The Bywater's position adjacent to the Marigny and the Tremé makes the geographic sequence of this morning — Bywater villa to Tremé, Tremé to Frenchmen Street, Frenchmen Street to Bywater — a natural loop that covers three of the city's most significant cultural neighborhoods in a single half-day. 4.98 average rating across 99 reviews.
+**Castleday Retreats** — Private villas in the Bywater, 14–30 guests each with a private pool per villa. The Bywater's position adjacent to the Marigny and the Tremé makes the geographic sequence of this morning — Bywater villa to Tremé, Tremé to Frenchmen Street, Frenchmen Street to Bywater — a natural loop that covers three of the city's most significant cultural neighborhoods in a single half-day.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with shared heated pool, hot tub, sauna, and outdoor kitchen. From the Lower Garden District, the Tremé morning is a 20-minute rideshare north and east — a direct and easy transit for groups based on the upriver side of the city.
+**Heirloom** — Large-format homes across the Lower Garden District and Central City. From either of those bases, the Tremé morning is a 15-20 minute rideshare north and east — a direct transit for groups on the upriver side of the city who'd rather have deeper booking inventory than the Bywater's walk-to-everything setup.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
