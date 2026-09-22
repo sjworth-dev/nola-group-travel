@@ -227,7 +227,7 @@ For mixed groups, accommodation choice is even more important than for a homogen
 
 **Castleday Retreats** — private-pool Bywater villas, up to 30 guests each. The combination of private rooms, a full kitchen, and sprawling common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. This is the move for mixed groups where togetherness and privacy have to coexist.
 
-**The Syd** — Lower Garden District villas, up to 22 guests each, with shared heated pool, hot tub, sauna, and outdoor kitchen. Multiple outdoor spaces to drift between, plus one block from the St. Charles Streetcar — the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car.
+**The Syd** — Lower Garden District villas, up to 22 guests each, with shared heated pool, hot tub, and outdoor kitchen. Multiple outdoor spaces to drift between, plus one block from the St. Charles Streetcar — the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car.
 
 **Hotel Perle** — CBD/Warehouse District group suites with separate bills per room. If your mixed group includes people who genuinely want their own paid-for space rather than a shared house, suites with individual billing solve that friction better than a villa split evenly on one card.
 

@@ -4,7 +4,7 @@ description: "Honest hurricane season planning guide for large groups: June-Nove
 category: "Planning & Logistics"
 card_title: "Hurricane Season Guide"
 card_description: "The honest risk breakdown, what watches and warnings actually mean, and how to use the genuine value window to your advantage."
-date: 2026-07-16
+date: 2026-09-22
 ---
 
 Hurricane season in New Orleans runs June 1 through November 30. That's half the year. If groups avoided NOLA entirely during those months, the city would have very few visitors from June through November — and it doesn't. People come. Trips happen. Most of them are completely fine.
@@ -126,7 +126,7 @@ A watch at 48 hours is when you should have a group decision-making process in p
 
 ### Departure Logistics
 
-For a group of 15-30 people, departing on short notice is a genuine challenge. Pre-book with your charter van company as soon as you see a storm system developing — they fill up fast in an emergency window. Know which airlines have waiver policies for named storms (most major carriers do). Have a group WhatsApp running from day one of the trip.
+For a big group, departing on short notice is a genuine challenge. Pre-book with your charter van company as soon as you see a storm system developing — they fill up fast in an emergency window. Know which airlines have waiver policies for named storms (most major carriers do). Have a group WhatsApp running from day one of the trip.
 
 ---
 
@@ -138,7 +138,7 @@ Before you book any accommodation during hurricane season, ask:
 2. **Is the property in a flood-prone area?** Parts of New Orleans flood during heavy rain events, not just major storms.
 3. **Do you have hurricane shutters?** For the small number of storms that do require preparation, this matters.
 
-Both Castleday Retreats and The Syd are purpose-built group properties with established storm policies and communication protocols. When you book, ask your host contact directly about what happens if a named storm affects your dates.
+Purpose-built group properties like Castleday Retreats, The Syd, and Heirloom's large-format homes generally have established storm policies and communication protocols. When you book, ask your host contact directly about what happens if a named storm affects your dates.
 
 ---
 
@@ -162,11 +162,9 @@ Both Castleday Retreats and The Syd are purpose-built group properties with esta
 
 ## Large Group Villas During Hurricane Season
 
-The advantage of a private group villa over individual hotel rooms during hurricane season is coordination. When a watch or warning develops, you're not trying to reach 30 people in 15 different hotel rooms on different floors. You're in one property with one communication chain.
+The advantage of a private group villa over individual hotel rooms during hurricane season is coordination. When a watch or warning develops, you're not trying to reach a group scattered across 15 different hotel rooms on different floors. You're in one property with one communication chain.
 
-**Castleday Retreats** — Three private villas in the Bywater neighborhood, each with 12 bedrooms, 17 real beds, and 8 baths. Capacity of 14-30 guests per villa. If you need to stage a rapid departure, having the whole group under one roof means one call to the van, one conversation about the plan.
-
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests. One block from the St. Charles Streetcar. If conditions require an early departure, you're centrally located and well-connected to transportation. The shared courtyard gives the group a natural gathering point for updates and decisions.
+Castleday Retreats (Bywater, private pools, 14-30 guests per villa), The Syd (Lower Garden District, up to 22 guests per villa, one block from the St. Charles Streetcar), and Heirloom (dozens of large-format homes across the Lower Garden District and Central City) are examples of the kind of property that makes a rapid departure simple: one call, one van, one conversation about the plan, instead of coordinating a dozen separate bookings. For the largest selection, book 6+ months out.
 
 For groups booking the late-August-to-mid-September window specifically: ask any large-group property about rate structures for those exact dates. The value proposition is real — just don't expect it to still be true once October arrives.
 
