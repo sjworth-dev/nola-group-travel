@@ -88,7 +88,7 @@ New Orleans is perfect for this. It's celebratory by nature—a city that knows 
 
 ### For Large Groups
 
-You need one place where everyone can gather. Not scattered hotel rooms. **Castleday Retreats** (private Bywater villas, up to 30 guests each with a pool per villa) and **The Syd** (Lower Garden District villas, up to 22 each, sharing a pool and hot tub) both build in the private pool and full kitchen a birthday weekend wants. **Heirloom**'s deeper inventory of large-format homes is worth checking if you're booking closer to the date and need more options to choose from. For the largest selection, book 6+ months out.
+You need one place where everyone can gather. Not scattered hotel rooms. **The Revelry** (Central City apartment-style floors, 6-9 guests each, saltwater pool) and **The Natchez** (apartment-style rentals sharing a saltwater pool and hot tubs) both build in the pool scene and full kitchen a birthday weekend wants. **Heirloom**'s deeper inventory of large-format homes is worth checking if you're booking closer to the date and need more options to choose from. For the largest selection, book 6+ months out.
 
 ### Why a Private Villa Beats a Hotel
 
