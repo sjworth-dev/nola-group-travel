@@ -7,7 +7,7 @@ card_description: "Gaslamp bar crawl and a craft beer flight, or Frenchmen Stree
 date: 2026-08-04
 ---
 
-San Diego comes up constantly in girls-trip and bachelorette threads, and it's easy to see why — year-round sun, an actual beach, and a craft beer scene that's genuinely one of the best in the country. Pacific Beach by day and the Gaslamp Quarter by night cover a lot of ground for a group that wants sand, patios, and a reliable forecast.
+San Diego comes up constantly in girls-trip and [bachelorette](/guides/bachelorette-party/) threads, and it's easy to see why — year-round sun, an actual beach, and a craft beer scene that's genuinely one of the best in the country. Pacific Beach by day and the Gaslamp Quarter by night cover a lot of ground for a group that wants sand, patios, and a reliable forecast.
 
 That's a real case, and it's close to the honest ceiling of what San Diego offers. It's a beach-and-brewery city with a laid-back, sun-first identity. New Orleans asks for something different — a trip built around live music that runs from afternoon into the small hours, a food culture with centuries behind it, and a walkable core where the party doesn't need a car to get from one good night to the next.
 
@@ -83,7 +83,7 @@ Once you're there, New Orleans wins on walkability — most of a trip happens wi
 
 **Pick San Diego if:** your group wants a sunny, beach-and-brewery trip with a reliable forecast and a dependable nightlife district.
 
-**Pick New Orleans if:** your group cares about live music that doesn't stop, wants a villa home base with its own pool within walking distance of the entertainment core rather than a scattered hotel-and-rental market, and is willing to trade a beach day for a trip built around a single deep culinary and musical tradition. For the full itinerary version, see the [girls trip guide](/guides/nola-group-girls-trip-guide/).
+**Pick New Orleans if:** your group cares about live music that doesn't stop, wants a villa home base with its own pool within walking distance of the entertainment core rather than a scattered hotel-and-rental market, and is willing to trade a beach day for a trip built around a single deep culinary and musical tradition. For the full itinerary version, see the [girls trip guide](/guides/nola-group-girls-trip-guide/); if New Orleans wins the debate, the [group trip planning hub](/guides/plan-a-group-trip/) sequences everything from here.
 
 ---
 
@@ -93,7 +93,7 @@ Once you're there, New Orleans wins on walkability — most of a trip happens wi
 
 2. **Book large-group lodging early in both.** Availability, not price, is the real bottleneck once a group hits real double digits — New Orleans' peak months sell out lodging first. For the largest selection, book 6+ months out.
 
-3. **Check New Orleans' event calendar before locking dates.** The season here is genuinely inverted from most cities — October and February through May are peak, not shoulder.
+3. **Check New Orleans' event calendar before locking dates.** The season here is genuinely inverted from most cities — October and February through May are peak, not shoulder. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks it down month by month.
 
 4. **Don't assume San Diego's weather solves every planning problem.** It's reliably sunny, but a beach-and-brewery trip still needs a plan beyond "we'll figure it out at the beach."
 
