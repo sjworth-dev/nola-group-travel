@@ -174,7 +174,7 @@ Eat first. Drink carefully. The evening is better.
 
 The split-and-reconvene model that makes the craft cocktail evening work is significantly easier to coordinate from a private villa than from a hotel block. The pre-evening briefing happens in the kitchen or on the patio; the reconvene point can include an option to return to the villa afterward; and the morning-after debrief happens naturally over coffee rather than in a hotel lobby.
 
-Groups at Castleday Retreats in the Bywater are within reasonable reach of the Bywater-Marigny cocktail bar scene and the French Quarter's historic hotel bars. Groups at The Syd in the Lower Garden District are close to the Magazine Street and Garden District cocktail options and a short rideshare from the Warehouse District and CBD programs.
+Groups at The Lookout Inn in the Bywater are within reasonable reach of the Bywater-Marigny cocktail bar scene and the French Quarter's historic hotel bars. Groups at The Syd in the Lower Garden District are close to the Magazine Street and Garden District cocktail options and a short rideshare from the Warehouse District and CBD programs.
 
 Neither property requires a car to access the parts of the city where serious cocktails are being made.
 

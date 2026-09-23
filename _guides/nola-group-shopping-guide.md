@@ -177,8 +177,10 @@ Groups that buy art, ceramics, large pottery, or anything fragile have a logisti
 
 A shopping half-day works differently depending on where the group is staying. Groups in hotel rooms have to carry purchases with them all day or return to the hotel mid-afternoon to drop bags, which disrupts the shopping rhythm.
 
-Groups staying in a private villa — Castleday Retreats in the Bywater or The Syd in the Lower Garden District — can drop purchases at the house between segments without logistical ceremony. The villa is a base camp, not just a sleeping location: you can drop bags, rehydrate, change shoes, and head back out without the overhead of a hotel lobby.
+Groups staying in a private villa — Heirloom's large-format homes across the Lower Garden District and Central City, or The Syd in the Lower Garden District — can drop purchases at the house between segments without logistical ceremony. The villa is a base camp, not just a sleeping location: you can drop bags, rehydrate, change shoes, and head back out without the overhead of a hotel lobby.
 
 For groups where multiple people are buying meaningful quantities, the villa also provides the space to consolidate, re-pack, and sort shipping logistics before departure day. That's significantly easier than doing it in a hotel room.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
