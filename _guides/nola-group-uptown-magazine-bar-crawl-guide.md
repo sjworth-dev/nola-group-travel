@@ -1,15 +1,15 @@
 ---
 title: "Uptown and Magazine Street Bar Crawl for Large Groups"
-description: "The Magazine Street bar crawl from Louisiana Avenue to Nashville Avenue for groups of 15-30: the dive bar corridor, the neighborhood sports bars, and the return route most groups never discover."
+description: "The Magazine Street bar crawl from Louisiana Avenue to Nashville Avenue for the whole crew: the dive bar corridor, the neighborhood sports bars, and the return route most groups never discover."
 category: "Nightlife & Music"
 card_title: "Uptown Magazine Street Bar Crawl"
-card_description: "The Magazine Street corridor from Louisiana to Nashville: dive bars, sports bars, and neighborhood spots that groups of 15-30 can actually move through without destroying the vibe."
-date: 2026-06-27
+card_description: "The Magazine Street corridor from Louisiana to Nashville: dive bars, sports bars, and neighborhood spots a big group can actually move through without destroying the vibe."
+date: 2026-09-23
 ---
 
 Most groups come to New Orleans and do Bourbon Street or Frenchmen Street. Both are legitimate. But there is a third bar district that almost no out-of-town group discovers on their own, and it's the one that locals actually use when they go out in their own city.
 
-Magazine Street through Uptown is a six-mile commercial corridor that switches character every few blocks. The stretch from Louisiana Avenue to Nashville Avenue concentrates something specific: a dense sequence of neighborhood bars, corner dives, sports taverns, and casual spots that have been serving the same zip codes for decades. The clientele is Uptown residents, Tulane and Loyola students, nurses and medical staff from the hospitals nearby, and anyone who lives within a ten-minute walk and doesn't want to drive to the French Quarter.
+Magazine Street through [Uptown](/neighborhoods/uptown/) is a six-mile commercial corridor that switches character every few blocks. The stretch from Louisiana Avenue to Nashville Avenue concentrates something specific: a dense sequence of neighborhood bars, corner dives, sports taverns, and casual spots that have been serving the same zip codes for decades. The clientele is Uptown residents, Tulane and Loyola students, nurses and medical staff from the hospitals nearby, and anyone who lives within a ten-minute walk and doesn't want to drive to the French Quarter.
 
 This is a bar district designed for the people who live in the neighborhood. That is exactly why it works for groups who want something different.
 
@@ -124,7 +124,7 @@ The challenge of any bar crawl with twenty people is that twenty people don't mo
 
 The Magazine crawl rewards accepting this. Don't try to keep twenty people together at every bar. Set a next stop, communicate it clearly, and let people make their own way there. The people who want to finish their drinks take five more minutes. The people who are ready go. Everyone reconvenes at the next location.
 
-**The group chat is infrastructure.** A dedicated chat for the night out — not the general trip chat — lets people communicate split movements, find each other at crowded bars, and coordinate the transition to the next stop without someone having to physically round everyone up.
+**The group chat is infrastructure.** A dedicated chat for the night out — not the general trip chat — lets people communicate split movements, find each other at crowded bars, and coordinate the transition to the next stop without someone having to physically round everyone up. See the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) for how to keep a four-stop crawl like this one from burning out the group by hour two.
 
 **Set a time, not a consensus.** The question "does everyone want to move?" produces fifteen minutes of debate followed by one person going to the bathroom and the whole thing starting over. The question "we're moving to X at 10:30" produces movement. Whoever's the trip organizer for the evening owns the timing.
 
@@ -150,10 +150,10 @@ The Magazine crawl rewards accepting this. Don't try to keep twenty people toget
 
 ## Large Groups and Where to Stay
 
-Groups doing the Magazine Street bar crawl are typically staying Uptown, in the Lower Garden District, or in the Bywater — which puts them well-positioned for an evening that ends in this neighborhood before returning.
+Groups doing the Magazine Street bar crawl are typically staying Uptown, in the [Lower Garden District](/neighborhoods/lower-garden-district/), or in the [Bywater](/neighborhoods/bywater/) — which puts them well-positioned for an evening that ends in this neighborhood before returning. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how the accommodation format changes the logistics of a night like this one.
 
-The Syd, in the Lower Garden District, is a natural base for this crawl — it's a short rideshare or walkable distance from the Louisiana Avenue starting point, and the return at the end of the night is straightforward.
+The Syd, in the Lower Garden District, is a short rideshare or walk from the Louisiana Avenue starting point, and the return at the end of the night is straightforward. The Mazant, an 1880s Bywater guesthouse sleeping up to 18, is a longer return but works for groups with the full evening structure in place — the Frenchmen Street extension after the streetcar return makes the longer trip back natural.
 
-Castleday Retreats, in the Bywater, is a longer return but works well for groups with the full evening structure in place — the Frenchmen Street extension after the streetcar return makes the longer return natural.
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
