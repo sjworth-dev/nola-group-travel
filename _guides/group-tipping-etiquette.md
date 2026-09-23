@@ -159,7 +159,7 @@ If you hire a brass band for a [private second line](/guides/second-line-guide/)
 
 **At hotels:** Standard tipping applies—$2-5 per bag for bellhops, $3-5 per night for housekeeping, $5-10 for concierge help.
 
-**At private villas (Castleday Retreats, The Syd, etc.):** Different structure than hotels. There's typically no daily housekeeping staff. Cleaning is handled on checkout.
+**At private villas:** Different structure than hotels. There's typically no daily housekeeping staff. Cleaning is handled on checkout.
 
 Check your rental agreement—some properties ask groups to leave the space in a baseline clean condition. Leaving a genuine mess for cleaning staff is poor form regardless of what's "included."
 
@@ -234,7 +234,7 @@ Tip well. Brief your crew. The economics are clear. The expectation is clear. Gr
 
 One reason a shared roof beats scattered hotel rooms for tipping friction: the group settles as one house, not eight separate room charges. It's the same logic behind the [hotel vs. villa](/guides/hotel-vs-villa-guide/) decision generally — one property, one bill, split by headcount.
 
-**Editorial examples of what fits:** private-pool Bywater villas (like Castleday Retreats) put the whole crew under one roof with a full kitchen, so shared costs — groceries, the bar cart, a private chef — run through one tab instead of a dozen personal cards. A shared-pool Lower Garden District setup (like The Syd) works the same way, one block from the St. Charles Streetcar. Deep-inventory operators like Heirloom or a hotel room block give mixed-budget groups the option of separate bills and separate keys instead. None of these is a booking recommendation — pick by fit.
+**Editorial examples of what fits:** private-pool Bywater villas (like Castleday Retreats) put the whole crew under one roof with a full kitchen, so shared costs — groceries, the bar cart, a private chef — run through one tab instead of a dozen personal cards. Heirloom's large-format homes across the Lower Garden District and Central City work the same way for groups that want deeper inventory or a short-notice booking. A hotel room block gives mixed-budget groups the option of separate bills and separate keys instead. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 

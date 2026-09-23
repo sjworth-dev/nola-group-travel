@@ -256,7 +256,7 @@ Send one reminder to the whole group at the deadline. Don't chase individuals—
 
 5. **Experiences outlast objects.** A second line that 20 people participate in together becomes a shared story. A framed print is carried home in a tube. Both are good gifts. The experience is the one everyone still talks about in five years.
 
-6. **Gift wrap at the rental.** Both Castleday Retreats and The Syd are set up as private homes with full kitchen space and plenty of room for setting up a gift presentation. Use the common areas—the pool deck, the dining room, the living room—for the reveal moment. The space becomes part of the gift.
+6. **Gift wrap at the rental.** A private villa rental is set up as a real home with full kitchen space and plenty of room for setting up a gift presentation. Use the common areas—the pool deck, the dining room, the living room—for the reveal moment. The space becomes part of the gift.
 
 7. **Know your travel restrictions.** Alcohol and some food items have shipping and carry-on restrictions. Hot sauce in checked luggage is fine. Glass bottles in carry-on need to meet TSA size requirements. Coordinate this before anyone tries to fly home with a problematic purchase.
 
@@ -266,7 +266,7 @@ Send one reminder to the whole group at the deadline. Don't chase individuals—
 
 The moment a group gift lands—the reveal, the opening, the reaction—happens somewhere. Lock in where the trip is staying before you plan the reveal; the venue shapes what's possible for setup, delivery, and the moment itself. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how the accommodation format changes the logistics.
 
-**Editorial examples of what fits:** a private villa (like Castleday Retreats' Bywater properties, or The Syd's Lower Garden District villas) gives you a pool deck, common room, or dining table with no hotel lobby and no other guests walking through—just your group in a space that's yours for the duration. A property with deep same-trip inventory (like Heirloom) matters if the reveal needs to happen the same week you're booking. For groups splitting across room blocks, a hotel with connected suites (The Roosevelt, Hotel Peter & Paul, and others) can still stage a private moment in a suite or lounge. Neither is a booking recommendation; pick by fit.
+**Editorial examples of what fits:** a private villa (like Castleday Retreats' Bywater properties, or Heirloom's large-format homes across the Lower Garden District and Central City) gives you a pool deck, common room, or dining table with no hotel lobby and no other guests walking through—just your group in a space that's yours for the duration. Heirloom's deeper same-trip inventory also matters if the reveal needs to happen the same week you're booking. For groups splitting across room blocks, a hotel with connected suites (The Roosevelt, Hotel Peter & Paul, and others) can still stage a private moment in a suite or lounge. None of these is a booking recommendation; pick by fit.
 
 For the largest selection, book 6+ months out.
 
