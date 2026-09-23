@@ -7,7 +7,7 @@ card_description: "Uptown rooftop bars or Frenchmen Street brass? The honest com
 date: 2026-08-03
 ---
 
-Dallas shows up constantly in Texas bachelorette and girls-trip planning threads, and the case for it is real: Uptown's rooftop-bar scene and Deep Ellum's live-music strip have genuine credentials, the steakhouse game is as good as anywhere in the country, and for most of Texas and the surrounding region it's a drive rather than a flight.
+Dallas shows up constantly in Texas [bachelorette](/guides/bachelorette-party/) and girls-trip planning threads, and the case for it is real: Uptown's rooftop-bar scene and Deep Ellum's live-music strip have genuine credentials, the steakhouse game is as good as anywhere in the country, and for most of Texas and the surrounding region it's a drive rather than a flight.
 
 That's also close to the whole case. Dallas is a big, confident city that does upscale nightlife and steak dinners extremely well, and it's a comfortable trip logistically — no connections, no lost travel day. New Orleans asks more of a group getting there from most of Texas (a real flight or a long day's drive), but it delivers a trip built around live music that runs all night, a food culture that's centuries deep rather than a few decades of steakhouse investment, and a city that doesn't resemble anywhere else your group has been.
 
@@ -17,7 +17,7 @@ Here's the honest version: Uptown/Deep Ellum nightlife-and-steakhouse framing vs
 
 ## Quick Checklist
 
-- [ ] Decide whether your group wants a polished big-city night out or a trip that's the actual centerpiece of the year
+- [ ] Decide whether your group wants a polished big-city night out or a trip that's the actual centerpiece of the year — the [plan-a-group-trip hub](/guides/plan-a-group-trip/) sequences that decision alongside the rest of the early planning
 - [ ] Check large-group lodging inventory in both — Dallas runs on hotels and conventional short-term rentals, New Orleans on purpose-built villas
 - [ ] Price the real drive time from your group's home base — Dallas's Texas-and-regional drive advantage is significant but not universal
 - [ ] Talk honestly about how much your group cares about live music and food being the trip's whole point versus a great backdrop to it
@@ -73,7 +73,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 ## The Texas-Drive-Market Question
 
-This is the tradeoff that decides it for a lot of groups. Dallas's biggest advantage is real: for most of Texas, Oklahoma, and a wide swath of the surrounding region, it's a straightforward drive, which makes aligning a big group's calendars far easier than coordinating flights.
+This is the tradeoff that decides it for a lot of groups. Dallas's biggest advantage is real: for most of Texas, Oklahoma, and a wide swath of the surrounding region, it's a straightforward drive, which makes aligning a big group's calendars far easier than coordinating flights. Groups weighing the other big Texas drive option should see the [New Orleans vs. Houston comparison](/guides/nola-group-new-orleans-vs-houston-guide/) too — the same tradeoff shows up there with a different city on the other side.
 
 The tradeoff is that Dallas, once you're there, is a polished big-city weekend that leans on cars to get between its best neighborhoods rather than a single walkable core. New Orleans asks more to get there — a flight or a long drive for most of the region, more planning around [the actual demand calendar](/guides/festival-season-calendar/) since October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have — but it delivers a trip that's memorable specifically because nothing about it feels like a nicer version of a city your group has already visited.
 
