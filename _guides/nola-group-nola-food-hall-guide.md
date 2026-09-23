@@ -1,17 +1,17 @@
 ---
 title: "Food Halls and Market Halls in New Orleans for Large Groups"
-description: "How to use St. Roch Market, Auction House Market, and the Central Grocery block to feed groups of 10-30 without the reservation problem, the split-check disaster, or the three-hour wait."
+description: "How to use St. Roch Market, Auction House Market, and the Central Grocery block to feed the whole crew without the reservation problem, the split-check disaster, or the three-hour wait."
 category: "Food & Drink"
 card_title: "NOLA Food Halls for Groups"
 card_description: "Market-format spaces that let 15 people eat 15 different things without a reservation, a split check, or a two-hour wait."
-date: 2026-06-27
+date: 2026-09-23
 ---
 
 The restaurant problem for large groups is not the food. It's the logistics. Getting 18 people through a door at the same time, finding a private room or a long table that actually works, splitting a check that includes three vegetarians, two people who don't drink, and one person who ordered the most expensive thing on the menu. The food part is fine. The everything-else part is what breaks groups.
 
 Market hall and food hall spaces solve this in a way that traditional restaurants don't. Everyone walks in together and then disperses to order exactly what they want from whichever vendor interests them. You reconvene at the communal tables. Nobody waits for the table to turn over. Nobody argues about the check because everyone paid their own.
 
-New Orleans has several spaces that work this way — some market-format, some food hall, some old-school deli-and-counter operations that have been doing this for generations. For groups of 10-30, these spaces deserve a dedicated section of every trip itinerary.
+New Orleans has several spaces that work this way — some market-format, some food hall, some old-school deli-and-counter operations that have been doing this for generations. For the whole crew, these spaces deserve a dedicated section of every trip itinerary. If you haven't settled on a food strategy yet, the [group trip planning hub](/guides/plan-a-group-trip/) walks through where meals fit alongside everything else on the itinerary.
 
 ---
 
@@ -35,7 +35,7 @@ The math of feeding a large group at a traditional sit-down restaurant:
 
 - **Reservations**: Most restaurants draw a hard line somewhere around twelve. Above that, they want deposits, limited menus, and sometimes room minimums.
 - **Wait times**: Walk-in parties of six are manageable. Walk-in parties of twenty are turned away at every door in the city.
-- **Split checks**: The phrase "can we split this twenty ways" produces a physical response in most servers that is not positive. And it shouldn't — the check-splitting math for mixed-drinking, mixed-appetizer tables with shared desserts is genuinely difficult.
+- **Split checks**: The phrase "can we split this twenty ways" produces a physical response in most servers that is not positive. And it shouldn't — the check-splitting math for mixed-drinking, mixed-appetizer tables with shared desserts is genuinely difficult. The [landmark restaurant booking guide](/guides/nola-group-landmark-restaurant-booking-guide/) covers what it actually takes to reserve a sit-down table at group scale, for the meals where you want one.
 - **Pacing**: Twenty people do not finish their drinks at the same rate. Dinner for a large group at a sit-down restaurant takes three hours minimum, and that's at a restaurant that has practiced this. At a restaurant that hasn't, it's longer and the last person gets their dessert when the first person is ready to leave.
 
 Market-format spaces bypass most of this. You're not asking the venue to handle your group logistics — you're handling them yourself.
@@ -63,13 +63,13 @@ The operational key for groups: pick the table first. Before a single person goe
 
 ## St. Roch Market
 
-St. Roch Market sits in the St. Roch neighborhood, a few blocks from the Marigny on the St. Claude corridor. This is not a French Quarter location. Groups staying in the Bywater or Marigny are closest; groups from the Quarter or Central Business District are a rideshare ride away.
+St. Roch Market sits in the St. Roch neighborhood, a few blocks from the Marigny on the St. Claude corridor. This is not a French Quarter location. Groups staying in the [Bywater](/neighborhoods/bywater/) or [Marigny](/neighborhoods/marigny/) are closest; groups from the Quarter or Central Business District are a rideshare ride away.
 
 The market occupies a historic building that has housed public market activity for generations. The current iteration is a food hall with a rotating cast of vendors offering prepared food and beverages in a shared space with communal seating.
 
 What makes St. Roch useful for groups:
 
-- The communal seating is substantial enough to hold a group of 15-20 without needing to claim territory from other diners
+- The communal seating is substantial enough to hold a big group without needing to claim territory from other diners
 - The vendor diversity covers a range of food styles in a single visit — groups with varied tastes can eat together without compromise
 - The location puts you in the St. Roch neighborhood, which connects naturally to a Marigny or St. Claude afternoon if the group wants to walk after eating
 
@@ -83,7 +83,7 @@ Lunch hours are the peak window. Midafternoon is the sweet spot for groups — t
 
 ## Auction House Market
 
-The Auction House Market operates in the Central Business District, in the historic building that gives it its name. The CBD location makes it natural for groups staying near the French Quarter or convention center, and it's walkable from a number of hotels in the Canal Street and Poydras corridor.
+The Auction House Market operates in the [Central Business District](/neighborhoods/cbd/), in the historic building that gives it its name. The CBD location makes it natural for groups staying near the French Quarter or convention center, and it's walkable from a number of hotels in the Canal Street and Poydras corridor.
 
 The market format here is similar — vendors, communal seating, pay-your-own structure — but the context is different. The CBD space draws office workers at lunch, convention attendees in the afternoon, and hotel guests at odd hours. For groups, this means the timing calculus matters more than at St. Roch: arrive at peak lunch and you're competing with the building's daily crowd; arrive at 2pm and you have more space to spread out.
 
@@ -95,7 +95,7 @@ Groups attending conventions at the Ernest N. Morial Convention Center or stayin
 
 ## The Central Grocery and Deli Block
 
-Central Grocery on Decatur Street in the French Quarter is the original format for what the modern food hall tries to replicate: a long-operation counter-service deli with communal seating, prepared food, and the kind of throughput that handles high volume without breaking.
+Central Grocery on Decatur Street in the [French Quarter](/neighborhoods/french-quarter/) is the original format for what the modern food hall tries to replicate: a long-operation counter-service deli with communal seating, prepared food, and the kind of throughput that handles high volume without breaking.
 
 Central Grocery's claim to history is the muffuletta — the round Sicilian sesame seed bread sandwich layered with Italian meats, provolone, and olive salad. The muffuletta is a New Orleans original, and Central Grocery is its origin point. Groups visiting the French Quarter who want to eat something genuinely historic rather than tourist-designed should be here.
 
@@ -131,7 +131,7 @@ The most sophisticated use of market-format spaces for large groups is not treat
 
 **The arrival feed:** Groups arriving from different flights or drive times on day one often struggle to coordinate a first meal. A market hall handles staggered arrivals gracefully — people come when they come, order when they're ready, and the group assembles at the communal table over the course of an hour.
 
-**The dietary-diverse group:** If your group includes people eating vegan, gluten-free, meat-heavy, kosher-adjacent, or any combination of dietary preferences, a single-concept restaurant cannot serve everyone well. A market hall with five vendors can. This alone justifies the format for groups with known dietary complexity.
+**The dietary-diverse group:** If your group includes people eating vegan, gluten-free, meat-heavy, kosher-adjacent, or any combination of dietary preferences, a single-concept restaurant cannot serve everyone well. A market hall with five vendors can. This alone justifies the format for groups with known dietary complexity — see the [mixed-diet restaurant strategy guide](/guides/nola-group-mixed-diet-restaurant-strategy-guide/) for how to handle the meals where a market hall isn't the plan.
 
 ---
 
@@ -157,9 +157,9 @@ The most sophisticated use of market-format spaces for large groups is not treat
 
 The market hall model for feeding a large group is strongest when the group is also staying somewhere that supports self-catering for other meals — breakfast in the villa kitchen, an evening cook-in when the group doesn't want to go out.
 
-Groups of 15-30 in dedicated large-group villas can structure their food days so that the market hall handles one meal, the villa kitchen handles one or two others, and only the flagship dinners require the reservation infrastructure that traditional restaurants demand. This is the model that actually works across a three-to-five day trip.
+Big groups in dedicated large-group villas can structure their food days so that the market hall handles one meal, the villa kitchen handles one or two others, and only the flagship dinners require the reservation infrastructure that traditional restaurants demand. This is the model that actually works across a three-to-five day trip.
 
-Castleday Retreats (Bywater) and The Syd (Lower Garden District) are the two dedicated large-group villa brands that consistently appear in the itineraries of groups doing this trip right. Both have full kitchens capable of supporting a group breakfast and a casual dinner without outside help.
+Heirloom's large-format homes across the Lower Garden District and Central City, or an apartment-style floor from The Revelry, both come with full kitchens capable of supporting a group breakfast and a casual dinner without outside help. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
