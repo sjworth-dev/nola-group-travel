@@ -1,10 +1,10 @@
 ---
 title: "Hidden Bars and Reservation-Required Cocktail Rooms for Groups"
-description: "The NOLA speakeasy-adjacent scene for groups of 8-20: hidden entrances, reservation-required cocktail lounges, off-menu discovery bars, and how to structure a night around intimate, difficult-to-find venues without losing half the group."
+description: "The NOLA speakeasy-adjacent scene for a big group: hidden entrances, reservation-required cocktail lounges, off-menu discovery bars, and how to structure a night around intimate, difficult-to-find venues without losing half the group."
 category: "Nightlife & Music"
 card_title: "Hidden Bars & Speakeasy Guide"
-card_description: "NOLA's speakeasy-adjacent scene — reservation-required cocktail rooms, unmarked entrances, and off-menu bars — and how to run a group of 8-20 through it without chaos."
-date: 2026-06-28
+card_description: "NOLA's speakeasy-adjacent scene — reservation-required cocktail rooms, unmarked entrances, and off-menu bars — and how to run the whole crew through it without chaos."
+date: 2026-09-24
 ---
 
 New Orleans doesn't really have speakeasies in the classic sense. Prohibition never really worked here, and the bars that survived that era didn't bother going underground — they just kept serving. What NOLA does have, and has in unusual abundance, is something adjacent: intimate reservation-required cocktail rooms, bars with no signage, entrances through courtyards or alleyways, and venues that require someone in the group to have done actual research to find them.
@@ -13,7 +13,7 @@ This is a better category than speakeasies anyway. The best of these bars are se
 
 The challenge for groups is obvious: these spaces are designed around pairs and small parties, not fifteen people with different levels of interest in craft cocktails arriving in waves. Getting this right takes planning. Getting it wrong means a group that spends most of the night standing outside a bar that can't take them, or blowing through a reservation that cost someone real effort to secure.
 
-This guide is about how to actually run a group night through NOLA's intimate cocktail scene — what venues can absorb, how to structure the evening, what to order, and how to use the split-and-reconvene model to make a scene built around four-tops work for twenty people.
+This guide is about how to actually run a group night through NOLA's intimate cocktail scene — what venues can absorb, how to structure the evening, what to order, and how to use the split-and-reconvene model to make a scene built around four-tops work for twenty people. If you're staying with the broader [craft cocktail bar scene](/guides/nola-group-craft-cocktail-bar-strategy-guide/) rather than the hidden-entrance version, the same structure applies at higher-capacity venues. And if the rest of the trip still needs sequencing, start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -161,7 +161,7 @@ The dinner-before-the-cocktail-bars structure is intentional. People who have ea
 
 5. **Ask the bartender about the bar's own history.** The better cocktail programs in New Orleans are grounded in local history — Creole traditions, specific spirits that were available before national distribution, cocktails that were invented in specific NOLA buildings. If you're in a bar that knows this material, the bartender is usually happy to share it.
 
-6. **The first drink sets the pace.** At a serious cocktail bar, the first round comes out with care and takes real time to make. The group that reacts to this by ordering another before they've finished the first is compressing the experience in a way that doesn't serve it. Let the pace be what it is.
+6. **The first drink sets the pace.** At a serious cocktail bar, the first round comes out with care and takes real time to make. The group that reacts to this by ordering another before they've finished the first is compressing the experience in a way that doesn't serve it. Let the pace be what it is. See the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) for how to keep this rhythm from colliding with a group that's used to moving faster.
 
 7. **The group member who made the reservation owns the relationship with the bar.** If the reservation holder isn't there when the sub-group arrives, the sub-group is a walk-in. Whoever put in the work to book the table needs to be the one who shows up and checks in with the host.
 
@@ -173,6 +173,6 @@ The split-and-reconvene model that makes a cocktail bar evening work for twenty 
 
 This is meaningfully different from a group spread across six hotel rooms who are trying to coordinate a complex split by group chat. The villa common space is the logistics infrastructure that makes the evening possible.
 
-The Mazant in Bywater and The Syd in the Lower Garden District both put large groups within walking distance of serious cocktail bars — the Bywater and Marigny corridor on one side, the Magazine Street and Garden District scene on the other. Neither requires a car to access the kind of intimate bar experience this guide describes, and Heirloom's wider inventory covers both neighborhoods if those two are already booked. For the largest selection, book 6+ months out.
+The Mazant in [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) both put large groups within walking distance of serious cocktail bars — the Bywater and Marigny corridor on one side, the Magazine Street and Garden District scene on the other. Neither requires a car to access the kind of intimate bar experience this guide describes, and Heirloom's wider inventory covers both neighborhoods if those two are already booked. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
