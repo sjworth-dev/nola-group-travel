@@ -1,17 +1,17 @@
 ---
-title: "Craft Cocktail Bars in NOLA for Groups of 15-25"
-description: "Craft cocktail bars in New Orleans for groups of 15-25: the small-capacity problem, how to split and reconvene across multiple intimate bars, what to order, and how to structure a serious cocktail evening that isn't Bourbon Street."
+title: "Craft Cocktail Bars in New Orleans for Large Groups"
+description: "Craft cocktail bars in New Orleans seat six, not sixty. Here's the small-capacity problem, how to split and reconvene across multiple intimate bars, and what to order."
 category: "Nightlife & Music"
 card_title: "Craft Cocktail Bar Strategy for Groups"
-card_description: "Serious cocktail bars in New Orleans are built for six, not sixty. Here's how groups of 15-25 actually navigate the craft cocktail scene — what to order, how to split, when to reconvene, and how to make a serious cocktail evening work."
-date: 2026-06-28
+card_description: "Serious cocktail bars in New Orleans are built for six, not sixty. Here's how the whole crew actually navigates the craft cocktail scene — what to order, how to split, when to reconvene, and how to make a serious cocktail evening work."
+date: 2026-09-24
 ---
 
 New Orleans has one of the most legitimately accomplished cocktail cultures in the country. The city invented several of the most important American cocktails, has a native bitters tradition that predates most contemporary craft cocktail programs, and has historically been willing to experiment with flavors and formats that more conservative bar cultures took decades to catch up with.
 
 It also has a structural problem for large groups: the bars where this culture is most alive seat between twenty and fifty people. They are designed around the intimate experience of a bartender working a small room, not around absorbing a party of twenty arriving together at 9pm.
 
-This guide is not about finding cocktail bars that are technically large enough to take your group. It's about how to actually experience NOLA's craft cocktail culture as a large group — which requires a different strategy than showing up and hoping the venue can seat you.
+This guide is not about finding cocktail bars that are technically large enough to take your group. It's about how to actually experience NOLA's craft cocktail culture as a large group — which requires a different strategy than showing up and hoping the venue can seat you. If you're still sequencing the rest of the trip, the [group trip planning hub](/guides/plan-a-group-trip/) is the place to start.
 
 ---
 
@@ -103,7 +103,7 @@ Different NOLA neighborhoods have different cocktail bar concentrations. The spl
 | Warehouse District / CBD | Hotel bars with dedicated cocktail programs, higher-volume capacity | CBD hotel bars, Warehouse District restaurants with bar programs |
 | Freret Street / Uptown | Mixed neighborhood and craft bars | Uptown neighborhood bars along Magazine and Freret |
 
-For groups staying in the Bywater, the most accessible cocktail bar circuit is within the Bywater and Marigny neighborhoods, with the Warehouse District as an option for groups willing to rideshare. For groups in the Lower Garden District, the Magazine Street corridor and a rideshare to the Warehouse District or French Quarter are the primary options.
+For groups staying in the [Bywater](/neighborhoods/bywater/), the most accessible cocktail bar circuit is within the Bywater and [Marigny](/neighborhoods/marigny/) neighborhoods, with the Warehouse District as an option for groups willing to rideshare. For groups in the [Lower Garden District](/neighborhoods/lower-garden-district/), the Magazine Street corridor and a rideshare to the Warehouse District or French Quarter are the primary options.
 
 ---
 
@@ -166,7 +166,7 @@ Eat first. Drink carefully. The evening is better.
 
 6. **Spend more time at fewer bars.** The instinct is to cover as many as possible. The craft cocktail evening that works has two bars, two genuine experiences, and time at each. Four rushed stops through bars the group barely experienced is not a cocktail evening.
 
-7. **The person who wants to leave early can leave early.** The pre-agreed tap-out norm from the energy management guide applies here. The person who's done after one drink at the cocktail bar can head to the reconvene point or the villa. The people who want the full experience can stay. No negotiation required.
+7. **The person who wants to leave early can leave early.** The pre-agreed tap-out norm from the [night-two energy management guide](/guides/nola-group-night-two-energy-management-guide/) applies here. The person who's done after one drink at the cocktail bar can head to the reconvene point or the villa. The people who want the full experience can stay. No negotiation required. See the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) for how to keep the whole evening from burning out the group before the reconvene.
 
 ---
 
