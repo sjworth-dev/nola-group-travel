@@ -52,9 +52,9 @@ This is where the two cities really diverge, and it changes the whole shape of a
 
 San Antonio's big-group lodging model runs almost entirely on hotels — River Walk-adjacent properties that can hold a room block, own-key and own-bill for everyone, walking distance to the whole strip. It's a genuinely simple format to organize, but it means your group is scattered across separate rooms rather than sharing one common space, and there's no kitchen, no shared pool, no house to come back to.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here, hotel block or not.
+New Orleans has a developed purpose-built large-group villa market, concentrated in neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here, hotel block or not.
 
-**Editorial examples of what that inventory looks like:** properties like The Syd (Lower Garden District villas, shared heated pool and hot tub, one block from the streetcar) or Castleday Retreats (private-pool Bywater villas) represent the kind of purpose-built group housing New Orleans has developed that a River Walk hotel block simply doesn't offer. Neither is a booking recommendation — they're representative of a category. If your group wants the hotel-block simplicity San Antonio is known for, New Orleans has that option too, at properties like The Roosevelt or Hotel Saint Vincent.
+**Editorial examples of what that inventory looks like:** properties like The Syd (Lower Garden District villas, shared heated pool and hot tub, one block from the streetcar) or Heirloom (dozens of large-format homes across the Lower Garden District and Central City) represent the kind of purpose-built group housing New Orleans has developed that a River Walk hotel block simply doesn't offer. Neither is a booking recommendation — they're representative of a category. If your group wants the hotel-block simplicity San Antonio is known for, New Orleans has that option too, at properties like The Roosevelt or Hotel Saint Vincent.
 
 ---
 
@@ -76,7 +76,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 Both cities get genuinely hot, but the two heat problems aren't the same. San Antonio's summer heat is real and sits in the upper 90s for weeks at a stretch, but the humidity is noticeably lower than what New Orleans deals with — it's a drier, more bearable heat even at similar temperatures, and the River Walk's shaded, tree-lined path helps.
 
-New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours. Check the actual calendar before assuming a "summer bad, other months fine" rule here: October and February through May are the genuine high-demand stretch, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat.
+New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours. Check the actual calendar before assuming a "summer bad, other months fine" rule here: October and February through May are the genuine high-demand stretch, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks down the month-by-month case in full.
 
 ---
 
@@ -113,5 +113,7 @@ The comparison sharpens at real group size. San Antonio's hotel-block model scal
 New Orleans has the more developed answer for a genuinely large group that wants to share one roof: purpose-built villa properties with a pool, a full kitchen, and common space built for the whole crew, walkable or a short ride from the live music and restaurants that make the trip. That gap is worth weighing as heavily as the River Walk's convenience.
 
 For the largest selection, book 6+ months out.
+
+**Comparing other cities too?** New Orleans vs [Houston](/guides/nola-group-new-orleans-vs-houston-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/) · [Dallas](/guides/nola-group-new-orleans-vs-dallas-guide/) · [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/)
 
 [See where to stay for large groups →](/where-to-stay/)
