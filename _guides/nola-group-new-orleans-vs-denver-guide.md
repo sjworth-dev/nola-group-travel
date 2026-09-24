@@ -11,7 +11,7 @@ Denver comes up a lot in girls-trip and bachelorette planning threads, usually f
 
 That's a real trip, and a different one from what New Orleans sells. Denver is a young, active, craft-beer city built around a dry climate and a mountain backdrop. New Orleans is a low, humid, centuries-old city built around live music that runs from afternoon into the small hours and a food culture that took generations to develop, not a couple of decades of brewery openings.
 
-Here's the honest version: LoDo/RiNo brewery-and-outdoors framing vs. live-music-city framing, lodging (Denver's hotel and short-term-rental market vs. New Orleans' purpose-built villa market), craft beer and Rocky Mountain fare vs. Creole-Cajun tradition, and the altitude-and-dry-climate vs. sea-level-humidity tradeoff underneath it all.
+Here's the honest version: LoDo/RiNo brewery-and-outdoors framing vs. live-music-city framing, lodging (Denver's hotel and short-term-rental market vs. New Orleans' purpose-built villa market), craft beer and Rocky Mountain fare vs. Creole-Cajun tradition, and the altitude-and-dry-climate vs. sea-level-humidity tradeoff underneath it all. If New Orleans wins the debate, the [group trip planning hub](/guides/plan-a-group-trip/) sequences everything else that needs deciding.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two cities really diverge for a group past a certain size.
 
 Denver's large-group lodging runs on hotels and a conventional short-term-rental market spread across downtown and the surrounding neighborhoods — plenty of big rental houses and mountain-adjacent options, but not a market built specifically around housing a whole crew under one roof the way New Orleans' villa market is. A genuinely large group in Denver typically ends up in a hotel block or split across rental homes.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like Heirloom (dozens of large-format homes across the Lower Garden District and Central City, deep inventory even on short notice) or The Revelry (apartment-style floors for six to nine, each with separate billing) represent the kind of purpose-built group housing New Orleans has developed at a scale Denver's rental market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and a Denver hotel block remains a fine answer if your group wants a mountain-adjacent home base with its own keys.
 
@@ -114,3 +114,7 @@ New Orleans has the more developed answer for a genuinely large group that wants
 For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
+
+---
+
+**Comparing other cities too?** New Orleans vs [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/) · [Charlotte](/guides/nola-group-new-orleans-vs-charlotte-guide/) · [Seattle](/guides/nola-group-new-orleans-vs-seattle-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/)
