@@ -188,6 +188,8 @@ A good crawfish boil with 20 people is a two-to-three-hour event when you count 
 
 The natural progression afterward: slow dispersal from the table to wherever the evening is going. The boil itself is already a complete group event — there's no need to rush to what's next. Let the table linger.
 
-For groups staying in a private villa, the crawfish boil as a night-in alternative to going out every evening is a legitimate option. Properties in the Bywater like Castleday Retreats have the courtyard space and kitchen infrastructure for a proper boil setup. Properties like The Syd in the Lower Garden District have the outdoor kitchen and gathering space that makes this work for 20 people without crowding.
+For groups staying in a private villa, the crawfish boil as a night-in alternative to going out every evening is a legitimate option. Properties like Heirloom's large-format homes across the Lower Garden District and Central City have the kitchen infrastructure and gathering space for a proper boil setup at full headcount.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

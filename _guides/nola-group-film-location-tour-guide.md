@@ -185,6 +185,8 @@ A group of 15-25 people on a self-guided tour has a natural pace challenge — t
 
 ## Coming Back to the Villa
 
-The film location tour is a half-to-full-day activity that ends naturally with a meal and a return to the villa. For groups in the Bywater at Castleday Retreats, the tour circuit ends close to home — the Bywater and Marigny walks are walkable from the villas, and the French Quarter is a short rideshare away. For groups at The Syd in the Lower Garden District, the Garden District walk is essentially out the front door, with the Magazine Street corridor providing lunch options at the turnaround point.
+The film location tour is a half-to-full-day activity that ends naturally with a meal and a return to the villa. For groups in the Bywater at The Mazant, an 1880s guesthouse sleeping up to 18, the tour circuit ends close to home — the Bywater and Marigny walks are walkable from the property, and the French Quarter is a short rideshare away. For groups at The Syd in the Lower Garden District, the Garden District walk is essentially out the front door, with the Magazine Street corridor providing lunch options at the turnaround point.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

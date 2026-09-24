@@ -186,6 +186,8 @@ This setup costs $40-60 at a grocery run the day you arrive. It earns back that 
 
 The late-night food crawl ends at the villa. Whatever the three stops were, the group reconvenes at home — either together or staggered depending on who split at which point. The villa kitchen handles whatever final-stage hunger remains, the outdoor space handles the wind-down, and the morning is whatever the morning is.
 
-Groups at Castleday Retreats in the Bywater are within walking range of the Marigny's late-night corridor and a short rideshare from the French Quarter's 24-hour food scene. Groups at The Syd in the Lower Garden District have the Magazine Street area as a late-night anchor and the St. Charles Streetcar for late-night transit when it's running.
+Groups at The Lookout Inn in the Bywater are within walking range of the Marigny's late-night corridor and a short rideshare from the French Quarter's 24-hour food scene. Groups at The Syd in the Lower Garden District have the Magazine Street area as a late-night anchor and the St. Charles Streetcar for late-night transit when it's running.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
