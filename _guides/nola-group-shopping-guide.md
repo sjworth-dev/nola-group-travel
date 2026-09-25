@@ -4,14 +4,14 @@ description: "Shopping strategy for large NOLA groups: Magazine Street boutiques
 category: "Activities & Day Trips"
 card_title: "NOLA Group Shopping Guide"
 card_description: "How large groups actually shop in New Orleans — Magazine Street by section, what's worth buying vs. what's tourist filler, group logistics, and how to handle the person who bought a ceramic gator and now has a logistics problem."
-date: 2026-06-28
+date: 2026-09-25
 ---
 
 Most travel shopping in New Orleans breaks into two categories that produce very different outcomes. The first is souvenir-buying — the French Quarter shops selling hot sauce sets, alligator skulls, bead necklaces, and shot glasses that will collect dust for two years before being donated. The second is actually buying things worth owning: local food products that are genuinely different from what you get at home, art and prints from actual NOLA artists, clothing from independent boutiques, and the specific regional items that people who know NOLA come back for.
 
 Large groups tend to get pulled toward the souvenir end because it's where the group-friendly infrastructure is — big shops, no appointment needed, room for fifteen people to browse. The boutiques and markets where the better purchases happen are smaller, more individual, and require a different approach than moving a group of twenty through a French Quarter souvenir corridor.
 
-This guide is about how to structure a shopping day or shopping segment for groups of 10-25 in a way that produces real purchases without chaos, and what's actually worth buying when you're in a city that has genuine regional products alongside a lot of tourist filler.
+This guide is about how to structure a shopping day or shopping segment for the whole crew in a way that produces real purchases without chaos, and what's actually worth buying when you're in a city that has genuine regional products alongside a lot of tourist filler. If the rest of the trip still needs sequencing, start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -70,15 +70,15 @@ Magazine Street runs six miles through Uptown New Orleans, and each section has 
 | Garden District (Louisiana to Napoleon) | Established boutique corridor | Higher-end independent fashion, art galleries, kitchen and home |
 | Lower Garden District (Magazine below Louisiana) | Younger, more mixed | Art, vintage, independent records, lower price point boutiques |
 
-For groups staying in the Lower Garden District, the immediate stretch of Magazine provides most of what a shopping afternoon needs: coffee anchor, casual lunch options, boutiques at a range of price points, and art shops. The Garden District stretch above is a twenty-minute walk or a short rideshare for the higher-end boutique experience.
+For groups staying in the [Lower Garden District](/neighborhoods/lower-garden-district/), the immediate stretch of Magazine provides most of what a shopping afternoon needs: coffee anchor, casual lunch options, boutiques at a range of price points, and art shops. The Garden District stretch above is a twenty-minute walk or a short rideshare for the higher-end boutique experience. For a full-day version of this corridor beyond just shopping, see the [Magazine Street full-day guide](/guides/nola-group-magazine-street-full-day-guide/).
 
-For groups staying in the Bywater, Magazine Street requires either a rideshare or the streetcar from the LGD stop — budget thirty minutes of transit to get there, and plan the shopping segment as a deliberate half-day rather than an impromptu detour.
+For groups staying in [Bywater](/neighborhoods/bywater/), Magazine Street requires either a rideshare or the streetcar from the LGD stop — budget thirty minutes of transit to get there, and plan the shopping segment as a deliberate half-day rather than an impromptu detour.
 
 ---
 
 ## French Market: What It Is vs. What It Isn't
 
-The French Market occupies a long covered shed along Decatur Street in the French Quarter, between Jackson Square and the Flea Market section further downriver. The produce and specialty food section closest to Jackson Square is the most useful for groups; the flea market section at the far end is where the souvenir pressure is highest.
+The French Market occupies a long covered shed along Decatur Street in the French Quarter, between Jackson Square and the Flea Market section further downriver. The produce and specialty food section closest to Jackson Square is the most useful for groups; the flea market section at the far end is where the souvenir pressure is highest. For a fuller morning built around the market itself, see the [French Market morning guide](/guides/nola-group-french-market-morning-guide/).
 
 ### The Reality
 
@@ -151,7 +151,7 @@ Groups that buy art, ceramics, large pottery, or anything fragile have a logisti
 
 **Ship from a pack-and-ship store.** If someone bought multiple items from different vendors, a pack-and-ship store in the city (there are several, including options near Magazine Street and in the CBD) can consolidate and ship. This adds a logistics stop to the day but solves the fragile-item problem cleanly.
 
-**The checked bag math.** For groups where multiple people are buying bottles of spirits, large food items, or anything heavy: the group's collective checked bag capacity is worth calculating before people start buying. Twenty people who each buy one extra checked bag is a significant departure-day expense if it wasn't planned.
+**The checked bag math.** For groups where multiple people are buying bottles of spirits, large food items, or anything heavy: the group's collective checked bag capacity is worth calculating before people start buying. Twenty people who each buy one extra checked bag is a significant departure-day expense if it wasn't planned. If nobody's packed with spare room for this, the [packing guide](/guides/packing-guide/) covers how to leave that space on the way in.
 
 ---
 
