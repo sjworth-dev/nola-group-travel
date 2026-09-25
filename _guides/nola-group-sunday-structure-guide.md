@@ -172,6 +172,8 @@ Sunday in NOLA is when the villa earns its cost. The brunch-to-park-to-Frenchmen
 
 A hotel block splits your group across rooms and floors — the transitions are logistically complex, and the "home base" feeling doesn't really exist. A villa gives you a shared kitchen table for the 9am coffee, a courtyard for the 6pm villa reset, and a living room couch for the midnight wind-down.
 
-Properties like Castleday Retreats in the Bywater put you within walking distance of Crescent Park and a short rideshare from NOMA and Frenchmen Street. Properties like The Syd in the Lower Garden District put you on the St. Charles Streetcar line — useful for the Magazine Street transition and the brunch neighborhoods. Both give you the actual infrastructure Sunday in NOLA requires.
+Properties like The Mazant in the Bywater put you within walking distance of Crescent Park and a short rideshare from NOMA and Frenchmen Street. Properties like The Syd in the Lower Garden District put you on the St. Charles Streetcar line — useful for the Magazine Street transition and the brunch neighborhoods. Both give you the actual infrastructure Sunday in NOLA requires.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

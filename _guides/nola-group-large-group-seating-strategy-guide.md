@@ -191,6 +191,8 @@ One alternative to restaurant dining that most groups underutilize: the villa it
 
 The math works better at larger group sizes. A private chef for twenty-five people, with ingredients and cleanup, can come out favorably compared to twenty-five covers at a restaurant with auto-grat, drinks, and the inevitable per-person price creep of à la carte ordering.
 
-Properties like Castleday Retreats in the Bywater and The Syd in the Lower Garden District are both designed for this hybrid model — private space with full entertaining infrastructure that can support either a private chef night or a group cook-together without the logistical friction of moving twenty people to a restaurant.
+Properties like The Revelry in Central City and The Syd in the Lower Garden District are both designed for this hybrid model — private space with full entertaining infrastructure that can support either a private chef night or a group cook-together without the logistical friction of moving twenty people to a restaurant.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

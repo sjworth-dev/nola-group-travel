@@ -174,6 +174,8 @@ One of the structural advantages of a private villa for a large group trip is th
 
 Hotel rooms don't provide this. Hotel rooms are where you sleep, not where you recover. The difference matters on a five-day trip where the afternoon reset is part of what keeps the group running until the end.
 
-Properties like Castleday Retreats in the Bywater and The Syd in the Lower Garden District both have the outdoor spaces and common areas that make the afternoon reset genuinely pleasant rather than just practical — a pool, a courtyard, somewhere to be horizontal in the shade. The villa infrastructure is part of the pacing infrastructure.
+Properties like The Mazant in the Bywater and The Syd in the Lower Garden District both have the outdoor spaces and common areas that make the afternoon reset genuinely pleasant rather than just practical — a pool, a courtyard, somewhere to be horizontal in the shade. The villa infrastructure is part of the pacing infrastructure.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
