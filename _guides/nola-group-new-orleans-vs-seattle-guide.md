@@ -11,7 +11,7 @@ Seattle shows up in girls-trip planning threads more than you'd guess for a city
 
 That's close to the honest ceiling, though. Seattle is a spread-out, hilly city with a real coffee-and-market identity and a climate that trades in gray skies and drizzle more often than sun. New Orleans asks for a different kind of trip — a trip built around live music that runs from afternoon into the small hours, a food culture with centuries behind it, and a walkable core that doesn't require a car or a bus pass to get from one good night to the next.
 
-Here's the honest version: Capitol Hill/Pike Place nightlife-and-market framing vs. live-music-city framing, lodging (Seattle's hotel-room market vs. New Orleans' purpose-built villa market), Pacific Northwest seafood and coffee culture vs. Creole-Cajun tradition, and the rainy-gray vs. hot-humid climate tradeoff underneath it all.
+Here's the honest version: Capitol Hill/Pike Place nightlife-and-market framing vs. live-music-city framing, lodging (Seattle's hotel-room market vs. New Orleans' purpose-built villa market), Pacific Northwest seafood and coffee culture vs. Creole-Cajun tradition, and the rainy-gray vs. hot-humid climate tradeoff underneath it all. If New Orleans wins the argument, the [group trip planning hub](/guides/plan-a-group-trip/) sequences everything that comes next.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two cities really diverge for a group past a certain size.
 
 Seattle's large-group lodging runs almost entirely on hotels, with a smaller and more scattered short-term-rental market spread across a hilly, spread-out city — not a market built specifically around housing a whole crew under one roof the way New Orleans' villa market is. A genuinely large group in Seattle typically ends up in a hotel block or split across rentals in different neighborhoods.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like [Bywater](/neighborhoods/bywater/) and the [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like The Mazant (a single historic Bywater guesthouse sleeping up to 18, with a heated pool and spa) or hotel-block options like The Roosevelt or Hotel Peter & Paul represent the kind of purpose-built group housing New Orleans has developed at a scale Seattle's rental market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and a Seattle hotel block remains a fine answer if your group wants separate keys and bills near the water.
 
@@ -75,7 +75,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 This is the tradeoff that matters most once you get past logistics. Seattle's climate means real gray-sky risk on any given weekend — it's rarely a downpour-ruins-everything scenario, but a steady drizzle and overcast skies are the default for a large stretch of the year, which shapes how much of a trip stays indoors.
 
-New Orleans trades that for heat and humidity instead, with [the actual demand calendar](/guides/festival-season-calendar/) running opposite most cities — October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have. What New Orleans delivers instead of a scenic, temperate climate is a trip where the whole night happens within walking distance, built around a music and food culture that's centuries deep.
+New Orleans trades that for heat and humidity instead, with [the actual demand calendar](/guides/festival-season-calendar/) running opposite most cities — October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have. The [best-time-to-visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks that calendar down month by month. What New Orleans delivers instead of a scenic, temperate climate is a trip where the whole night happens within walking distance, built around a music and food culture that's centuries deep.
 
 ---
 
@@ -114,3 +114,7 @@ New Orleans has the more developed answer for a genuinely large group that wants
 For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
+
+---
+
+**Comparing other cities too?** New Orleans vs [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/) · [Denver](/guides/nola-group-new-orleans-vs-denver-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/)
