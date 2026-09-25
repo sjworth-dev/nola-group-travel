@@ -148,8 +148,8 @@ The organizer doesn't need to make the trip about sobriety. They just need to ma
 
 The argument for a private villa on a trip that includes non-drinkers is practical: it gives you a full-quality base camp that doesn't require consumption to enjoy. Hotels have bars and lobbies. Villas have kitchens, courtyards, pools, and common spaces that are completely functional at midnight without anyone pouring anything.
 
-Properties like Castleday Retreats in the Bywater give a group a private outdoor space where the after-midnight gathering is as natural as the outdoor bar setup — without the bar being required. A group of 22 people at 1am, some drinking, some not, sitting in a courtyard together in the Bywater is just a good evening. Nobody needs to identify what they're drinking.
+The Syd in the Lower Garden District is one example of the shape this takes: a shared courtyard and pool setup that's genuinely comfortable as a landing point at any hour and doesn't require alcohol to make sense as a gathering. A group of 22 people at 1am, some drinking, some not, sitting outside together is just a good evening. Nobody needs to identify what they're drinking.
 
-The Syd in the Lower Garden District offers a similar courtyard and pool setup — a shared outdoor space that's genuinely comfortable as a landing point at any hour and doesn't require alcohol to make sense as a gathering.
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

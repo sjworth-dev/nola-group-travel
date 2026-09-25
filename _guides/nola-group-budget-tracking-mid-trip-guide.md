@@ -137,8 +137,10 @@ A mid-trip audit is also a good time to clean this up.
 
 One of the structural advantages of a large-group villa over a hotel block is that it gives you genuine cost reduction options mid-trip that hotels don't. A hotel room in the French Quarter doesn't have a kitchen, a courtyard to host a dinner, or a bar cart. A villa does.
 
-Groups staying at properties like Castleday Retreats in the Bywater or The Syd in the Lower Garden District have private kitchens and outdoor spaces that make the villa-dinner pivot genuinely easy. When you need to cut a $60/person restaurant dinner and replace it with a $12/person home-cooked night, you can do that immediately without any advance logistics. The infrastructure for a good time at home already exists.
+Groups staying at properties like Heirloom's large-format homes or The Syd in the Lower Garden District have private kitchens and outdoor spaces that make the villa-dinner pivot genuinely easy. When you need to cut a $60/person restaurant dinner and replace it with a $12/person home-cooked night, you can do that immediately without any advance logistics. The infrastructure for a good time at home already exists.
 
 That's not a minor thing on day three of a four-day trip when you're staring at a Splitwise balance that's $200 over plan. Having the ability to redirect an evening inward — without losing the quality of the night — is a real structural advantage.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
