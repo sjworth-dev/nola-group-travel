@@ -1,17 +1,17 @@
 ---
-title: "Crawfish Etiquette for First-Timers in a Group Setting"
-description: "Crawfish eating technique for first-timers in a group of 10-30: the peel-and-eat mechanics, the suck-the-head question, how much to order, what to drink, and how to brief your group before they arrive at a crawfish boil so nobody feels lost."
+title: "Crawfish Etiquette for Groups: How to Peel, Eat, and Order"
+description: "Crawfish eating technique for a first-timer-heavy group: the peel-and-eat mechanics, the suck-the-head question, how much to order, what to drink, and how to brief your group before the pile arrives so nobody feels lost."
 category: "Food & Drink"
 card_title: "Crawfish Etiquette for Groups"
-card_description: "A crawfish boil with 20 people who've never peeled before is a beautiful chaos. Brief them before they sit down and it stays beautiful. Don't, and the first hour is confusion and wasted tails."
-date: 2026-06-29
+card_description: "A crawfish boil with a table full of people who've never peeled before is a beautiful chaos. Brief them before they sit down and it stays beautiful. Don't, and the first hour is confusion and wasted tails."
+date: 2026-09-25
 ---
 
 A crawfish boil is one of the most communal eating experiences in Louisiana. Twenty people around a table covered in newspaper, a pile of crawfish in the middle, cold beer on the right, and no silverware required. If everyone at the table knows what they're doing, it's one of the great group food experiences in America.
 
 If half the group has never peeled a crawfish, the first 20 minutes are confusion. People trying to break them the wrong way, tails going in the trash with half the meat still in them, someone loudly asking whether you're supposed to eat the orange stuff. The host or the most experienced person at the table spends 20 minutes doing individual tutorials instead of eating.
 
-The fix is a two-minute briefing before anyone touches the pile. This guide gives you that briefing — plus everything else you need to know about eating crawfish in a group setting in New Orleans.
+The fix is a two-minute briefing before anyone touches the pile. This guide gives you that briefing — plus everything else you need to know about eating crawfish in a group setting in New Orleans. If crawfish is one piece of a bigger food-first trip, see the [food-first group itinerary](/guides/nola-group-foodie-itinerary-guide/) for how to slot it in.
 
 ---
 
@@ -98,7 +98,7 @@ Crawfish orders are typically by the pound. This is where groups consistently go
 
 **The math that catches people:** Crawfish are small. A pound of whole crawfish yields much less meat than a pound of most other proteins. The shell-to-meat ratio is substantial. Three pounds per person sounds like a lot; it's often not enough for anyone who is enthusiastic.
 
-**The safe approach:** Order on the higher end of your estimate. Extra crawfish get eaten; under-ordering at a crawfish boil is a morale problem. Most restaurants and boil vendors sell by the pound and don't require a final count until the order is placed — check their process and adjust accordingly.
+**The safe approach:** Order on the higher end of your estimate. Extra crawfish get eaten; under-ordering at a crawfish boil is a morale problem. Most restaurants and boil vendors sell by the pound and don't require a final count until the order is placed — check their process and adjust accordingly. If this meal is one line in a bigger group budget you're still assembling, the [full trip-planning sequence](/guides/plan-a-group-trip/) covers where food spend fits against lodging and activities.
 
 ---
 
@@ -152,7 +152,7 @@ Then the crawfish arrive. The group is briefed. Everyone is working from the sam
 
 ## The Villa Boil vs. Restaurant
 
-If you're doing a crawfish boil at the villa — ordering crawfish from a seafood vendor and cooking them yourself — the technique and etiquette are identical, but the logistics are on you.
+If you're doing a crawfish boil at the villa — ordering crawfish from a seafood vendor and cooking them yourself — the technique and etiquette are identical, but the logistics are on you. For the sourcing, equipment, and full boil-and-soak method, see the [villa crawfish boil guide](/guides/nola-crawfish-boil-guide/).
 
 **What you're managing:**
 - Ordering enough volume (and ordering early — the best seafood vendors sell out during peak season)
@@ -174,7 +174,7 @@ The villa boil format is one of the better group experiences on a NOLA trip. Twe
 
 4. **The size of the crawfish matters.** Larger crawfish have more meat per piece and are generally worth the higher price per pound if you're at a restaurant with size options. First-timers benefit from larger crawfish — the meat is easier to get out and more satisfying for the effort.
 
-5. **Crawfish season is real.** In Louisiana, peak crawfish season runs roughly January through May, with March through April as the sweet spot. Outside those windows, crawfish are still available but often frozen or shipped from outside the region. Know what you're getting.
+5. **Crawfish season is real.** In Louisiana, peak crawfish season runs roughly January through May, with March through April as the sweet spot — the same window that lines up with the rest of the [spring festival calendar](/guides/nola-group-spring-crawfish-festival-season-guide/). Outside those windows, crawfish are still available but often frozen or shipped from outside the region. Know what you're getting.
 
 6. **Brief the group on the shellfish question before you plan the meal.** A crawfish boil is not an event anyone with a shellfish allergy can participate in and then stand nearby watching. Confirm no one in the group has a severe shellfish allergy before making this the centerpiece meal.
 
