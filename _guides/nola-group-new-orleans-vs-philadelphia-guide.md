@@ -17,7 +17,7 @@ Here's the honest version: Old City/Fishtown nightlife-and-history framing vs. l
 
 ## Quick Checklist
 
-- [ ] Decide whether your group wants a colonial-history day trip with a good night out or a trip that's the actual centerpiece of the year
+- [ ] Decide whether your group wants a colonial-history day trip with a good night out or a trip that's the actual centerpiece of the year — the [plan-a-group-trip hub](/guides/plan-a-group-trip/) walks through that decision and everything after it
 - [ ] Check large-group lodging inventory in both — Philadelphia runs almost entirely on hotels, New Orleans on purpose-built villas
 - [ ] Price the actual flight-or-drive time from your group's home base — Philadelphia's Northeast-corridor advantage is real but strongest from the I-95 states
 - [ ] Talk honestly about how much rowhouse-and-BYOB charm your group wants versus how much of the trip should be built around music and nightlife
@@ -52,7 +52,7 @@ This is where the two cities really diverge for a group past a certain size.
 
 Philadelphia's large-group lodging runs almost entirely on hotels, concentrated around Center City and Old City, with short-term rentals more restricted and scattered than in most major cities — not a market built specifically around housing a whole crew under one roof the way New Orleans' villa market is. A genuinely large group in Philadelphia typically ends up in a hotel block, often across multiple rooms rather than one shared space.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the Bywater and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like The Revelry (Central City apartment-style floors, saltwater pool, separate billing per crew) or The Mazant (1880s Bywater guesthouse, sleeps up to eighteen, heated pool and spa) represent the kind of purpose-built group housing New Orleans has developed at a scale Philadelphia's hotel-heavy market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and a Philadelphia hotel block remains a fine answer if your group wants separate keys and bills near Old City.
 
@@ -112,5 +112,7 @@ The comparison sharpens at real group size. Philadelphia's hotel-heavy model wor
 New Orleans has the more developed answer for a genuinely large group that wants to share one roof: purpose-built villa properties with a pool, a full kitchen, and common space built for the whole crew, walkable or a short ride from the live music and restaurants that make the trip. That gap — plus the depth of a food and music culture that took centuries to build rather than a single famous dish — is worth weighing against the convenience of the shorter trip and the colonial-history day.
 
 For the largest selection, book 6+ months out.
+
+**Comparing other cities too?** New Orleans vs [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Boston](/guides/nola-group-new-orleans-vs-boston-guide/) · [Washington DC](/guides/nola-group-new-orleans-vs-washington-dc-guide/)
 
 [See where to stay for large groups →](/where-to-stay/)
