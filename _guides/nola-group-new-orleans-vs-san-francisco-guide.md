@@ -17,7 +17,7 @@ Here's the honest version: Fisherman's Wharf/Mission District nightlife-and-land
 
 ## Quick Checklist
 
-- [ ] Decide whether your group wants an iconic-landmark daytime itinerary or a trip that's the actual centerpiece of the year
+- [ ] Decide whether your group wants an iconic-landmark daytime itinerary or a trip that's the actual centerpiece of the year — the [group-trip planning hub](/guides/plan-a-group-trip/) sequences that decision alongside everything else that follows from it
 - [ ] Check large-group lodging inventory in both — SF runs almost entirely on hotels, New Orleans on purpose-built villas
 - [ ] Price the actual flight cost from your group's home base — SF is rarely the cheap option outside the West Coast
 - [ ] Talk honestly about how much hill-climbing and cable-car-and-Muni logistics your group actually wants to do together
@@ -112,5 +112,7 @@ The comparison sharpens at real group size. SF's hotel-heavy, high-cost model wo
 New Orleans has the more developed answer for a genuinely large group that wants to share one roof: purpose-built villa properties with a pool, a full kitchen, and common space built for the whole crew, walkable or a short flat ride from the live music and restaurants that make the trip. That gap — plus the depth of a food and music culture that took centuries to build rather than a skyline of landmarks — is worth weighing against the appeal of the iconic photo backdrop.
 
 For the largest selection, book 6+ months out.
+
+**Comparing other cities too?** New Orleans vs [Seattle](/guides/nola-group-new-orleans-vs-seattle-guide/) · [Denver](/guides/nola-group-new-orleans-vs-denver-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/) · [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/)
 
 [See where to stay for large groups →](/where-to-stay/)
