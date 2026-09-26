@@ -1,6 +1,6 @@
 ---
 title: "Night Photography for Large Groups in New Orleans"
-description: "Shooting NOLA after dark with a group of 10-30: the Frenchmen Art Market golden hour, lit balconies in the Quarter, mural backdrops in the Bywater, and the logistics of coordinating after-dark group photo sessions."
+description: "Shooting NOLA after dark with the whole crew: the Frenchmen Art Market golden hour, lit balconies in the Quarter, mural backdrops in the Bywater, and the logistics of coordinating after-dark group photo sessions."
 category: "Planning & Logistics"
 card_title: "NOLA Night Photography Guide"
 card_description: "NOLA at night is visually spectacular and deeply undershot by most group trips. Here's where to be, when, and how to actually coordinate a large group photo session after dark."
@@ -11,7 +11,7 @@ Most group trip photography happens in one of two modes: the rushed daytime phot
 
 The challenges are real. Groups of twenty don't move fast. After-dark coordination is harder than daytime because the city is busier, louder, and more distracting. And getting a tight group photo in a bar district at 10pm is a logistical problem that requires someone with a plan, not just a camera.
 
-This guide is the night photography playbook for large groups: the best locations and their light windows, how to coordinate movement and positioning for groups of 10-30, what gear actually matters versus what's just extra weight, and how to make the group photo session a planned event rather than an afterthought.
+This guide is the night photography playbook for large groups: the best locations and their light windows, how to coordinate movement and positioning at full headcount, what gear actually matters versus what's just extra weight, and how to make the group photo session a planned event rather than an afterthought.
 
 ---
 
@@ -166,6 +166,8 @@ Getting twenty people into a coherent frame after dark requires a system. Here's
 
 The dedicated group photo session is significantly easier when the group is staying in one location and can structure the evening around it. Hotel groups often split across different rideshares, arrive at locations at different times, and have no single person managing the evening's flow. Villa groups arrive and leave together, have a natural home base to return to between sessions, and are more accustomed to operating as a coordinated unit.
 
-The villa also provides the after-dark photography location that's most consistently good: the lit courtyard or pool deck at night, with everyone present and relaxed. Groups staying at properties like Castleday Retreats in the Bywater or The Syd in the Lower Garden District have outdoor spaces that photograph particularly well at night — the Bywater's ambient light, the art-filled interiors visible through open doors, the pool lit from below. These shots require no logistics beyond being in the right place.
+The villa also provides the after-dark photography location that's most consistently good: the lit courtyard or pool deck at night, with everyone present and relaxed. Groups staying at properties like The Mazant, an 1880s Bywater guesthouse with a heated pool and spa, or The Syd in the Lower Garden District have outdoor spaces that photograph particularly well at night — the Bywater's ambient light, the art-filled interiors visible through open doors, the pool lit from below. These shots require no logistics beyond being in the right place.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

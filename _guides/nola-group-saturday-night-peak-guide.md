@@ -1,6 +1,6 @@
 ---
 title: "Saturday Night Peak Management for Large NOLA Groups"
-description: "How to structure the biggest night of a New Orleans group trip for 10-30 people: which neighborhoods handle large groups well, what to do in the 11pm–2am window, and what happens when you don't plan it."
+description: "How to structure the biggest night of a New Orleans group trip: which neighborhoods handle large groups well, what to do in the 11pm–2am window, and what happens when you don't plan it."
 category: "Planning & Logistics"
 card_title: "Saturday Night: The Peak"
 card_description: "Saturday night is the highest-stakes night of a NOLA group trip. Here's how to structure it, which neighborhoods absorb large groups well, and how to survive the 11pm–2am window."
@@ -158,6 +158,8 @@ The structural challenges of Saturday night — coordination, movement, energy m
 
 The villa gives Saturday night a shape it doesn't otherwise have: the pre-game hour where everyone is actually in the same space before going out, the clear return address at 2am, and the post-night kitchen and patio where the night can wind down in stages rather than ending abruptly in a hotel lobby.
 
-Properties like Castleday Retreats in the Bywater and The Syd in the Lower Garden District both sit in walkable neighborhoods where the Saturday night structure actually works — close enough to the main activity corridors that transport isn't a constant problem, and well-equipped enough to function as the base camp for the whole evening arc.
+Properties like The Mazant in the Bywater and The Syd in the Lower Garden District both sit in walkable neighborhoods where the Saturday night structure actually works — close enough to the main activity corridors that transport isn't a constant problem, and well-equipped enough to function as the base camp for the whole evening arc.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

@@ -1,9 +1,9 @@
 ---
 title: "Rain Delay Bar Strategy for Large NOLA Groups"
-description: "What to do when outdoor plans get rained out mid-afternoon in New Orleans: which bar districts absorb large groups unplanned, interior venues with space, and the two-hour pivot playbook for groups of 10-30."
+description: "What to do when outdoor plans get rained out mid-afternoon in New Orleans: which bar districts absorb large groups unplanned, interior venues with space, and the two-hour pivot playbook for the whole crew."
 category: "Planning & Logistics"
 card_title: "The Rain Delay Pivot"
-card_description: "NOLA rain hits fast and hard. Here's the two-hour pivot playbook for groups of 10-30 when outdoor plans evaporate mid-afternoon."
+card_description: "NOLA rain hits fast and hard. Here's the two-hour pivot playbook for the whole crew when outdoor plans evaporate mid-afternoon."
 date: 2026-07-02
 ---
 
@@ -157,6 +157,8 @@ That is not a bad thing. The groups that frame this correctly — "we have a fre
 
 The structural advantage of a single private villa is nowhere more visible than on a rain day. Hotels scatter the group across floors; a villa keeps everyone in the same building. When the afternoon goes sideways, everyone can come back to one address, change out of wet clothes, and regroup around a kitchen table with drinks from the house bar.
 
-The walk-in-the-rain return to a villa with a covered porch, an outdoor kitchen, or a courtyard that drains well is fundamentally different from returning to a hotel corridor. Groups staying at properties like Castleday Retreats in the Bywater and The Syd in the Lower Garden District have this base-camp advantage — the villa becomes the rain delay's resolution, not just a place to sleep.
+The walk-in-the-rain return to a villa with a covered porch, an outdoor kitchen, or a courtyard that drains well is fundamentally different from returning to a hotel corridor. Groups staying at properties like Heirloom's large-format homes and The Syd in the Lower Garden District have this base-camp advantage — the villa becomes the rain delay's resolution, not just a place to sleep.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
