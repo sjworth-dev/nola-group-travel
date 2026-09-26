@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Film and TV Location Tour for Groups"
-description: "New Orleans film and TV locations for groups of 10-25: NOLA's role as a filming destination, the self-guided tour circuit, which neighborhoods concentrate the most recognizable locations, and pairing the tour with a neighborhood meal."
+description: "New Orleans film and TV locations for the whole crew: NOLA's role as a filming destination, the self-guided tour circuit, which neighborhoods concentrate the most recognizable locations, and pairing the tour with a neighborhood meal."
 category: "Activities & Day Trips"
 card_title: "NOLA Film Location Tour for Groups"
-card_description: "New Orleans has hosted more film and TV productions than almost any other American city. Here's how groups of 10-25 do the self-guided tour — which locations to hit, what to actually look for, and how to build a half-day around it."
-date: 2026-06-29
+card_description: "New Orleans has hosted more film and TV productions than almost any other American city. Here's how a big group does the self-guided tour — which locations to hit, what to actually look for, and how to build a half-day around it."
+date: 2026-09-26
 ---
 
 New Orleans is one of the most filmed cities in the United States. The combination of architectural variety, a built environment that reads as anywhere from 19th-century Paris to modern American South, a film and TV production tax credit that makes Louisiana one of the most cost-effective states to shoot in, and a city that is genuinely cooperative about permitting has made NOLA a location scout's standing answer.
@@ -21,7 +21,7 @@ The result is that large sections of the city that visitors are already walking 
 - [ ] Download screenshots or save reference photos before leaving the villa — cell service in some neighborhoods is spotty; a downloaded reference beats hunting for screenshots on the street
 - [ ] Plan the tour as a morning or early-afternoon activity — afternoon light is better for photos, and most of the key locations are in walkable clusters
 - [ ] Pair the tour with a neighborhood meal; build the food stop into the route rather than treating it as a separate decision
-- [ ] Keep the pace honest: a group of 15 moves at a deliberate pace through neighborhoods; plan for 5-7 stops in a 3-hour tour, not 12
+- [ ] Keep the pace honest: a full crew moves at a deliberate pace through neighborhoods; plan for 5-7 stops in a 3-hour tour, not 12
 - [ ] Don't promise exact locations you aren't sure about — reference the general area and let the group discover together rather than building hype that doesn't pay off
 
 ---
@@ -40,7 +40,7 @@ New Orleans became a default filming location through a combination of economic 
 
 ## The Filming Neighborhoods
 
-### French Quarter
+### [French Quarter](/neighborhoods/french-quarter/)
 
 The French Quarter's concentrated visual character makes it the most-filmed district in the city. Productions use it for period settings, international settings, and as a stylized American environment that feels unlike anywhere else. The balconies of Royal Street, the courtyards accessible through open gates, and the narrow passages between buildings all appear frequently.
 
@@ -48,7 +48,7 @@ The French Quarter's concentrated visual character makes it the most-filmed dist
 
 **Film neighborhood pairing:** After the Quarter walk, the Tremé boundary is minutes away — the first section of this guide's Tremé stop.
 
-### Garden District
+### [Garden District](/neighborhoods/garden-district/)
 
 The Garden District's antebellum mansions and tree-canopied streets appear in a disproportionate share of Southern gothic and prestige drama productions. The photogenic density of the architecture — large homes on large lots, oaks overhanging the streets — gives productions a specific visual register that the neighborhoods they're standing in for can't always match.
 
@@ -56,7 +56,7 @@ The Garden District's antebellum mansions and tree-canopied streets appear in a 
 
 **Film neighborhood pairing:** Magazine Street runs along the Garden District edge — coffee before the walk, lunch after.
 
-### Bywater and Marigny
+### [Bywater](/neighborhoods/bywater/) and [Marigny](/neighborhoods/marigny/)
 
 The Bywater and Marigny have a textured residential character — colorful shotgun houses, dense streetscapes, visible age without complete decay — that appears in contemporary dramas and independent films looking for an American city that hasn't been gentrified into uniformity. The neighborhoods also appear in productions specifically set in New Orleans, particularly those that want to represent the post-Katrina city.
 
@@ -64,13 +64,13 @@ The Bywater and Marigny have a textured residential character — colorful shotg
 
 **Film neighborhood pairing:** Bacchanal Wine in the Bywater is a natural post-walk stop.
 
-### Tremé
+### [Tremé](/neighborhoods/treme/)
 
 The Tremé — the oldest African American neighborhood in the United States — appears in productions that deal specifically with New Orleans history and culture, but also in films that need the visual character of a lived-in, historically layered neighborhood. The HBO series set and partially filmed here made the neighborhood recognizable to viewers across the country.
 
 **What to look for:** The architectural character of the residential streets north of the French Quarter, the Congo Square area in Armstrong Park, and the way the neighborhood's scale compares to the Quarter's more tourist-optimized streetscape.
 
-### Lower Garden District / Irish Channel
+### [Lower Garden District](/neighborhoods/lower-garden-district/) / [Irish Channel](/neighborhoods/irish-channel/)
 
 The residential blocks of the LGD and the Irish Channel appear in contemporary dramas and horror productions looking for large homes in varying states of maintenance, tree-lined streets with a different character than the Garden District proper, and the texture of a neighborhood between its historic past and its present.
 
@@ -78,7 +78,7 @@ The residential blocks of the LGD and the Irish Channel appear in contemporary d
 
 ## Building the Tour Route
 
-Two functional options for groups of 10-25:
+Two functional options for the whole crew:
 
 ### Option A: Focus Route (Half-Day, One Neighborhood)
 
@@ -153,7 +153,7 @@ The film location tour is a framing device for neighborhood walking that would b
 
 ## Pro Tips
 
-1. **Overlap beats completeness.** The film and TV overlap in any group of 15-25 people is rarely uniform. Identify the two or three titles that have real traction across the group and build the tour around those — a motivated, engaged group visiting four locations is better than a scattered group visiting twelve.
+1. **Overlap beats completeness.** The film and TV overlap in a big group is rarely uniform. Identify the two or three titles that have real traction across the group and build the tour around those — a motivated, engaged group visiting four locations is better than a scattered group visiting twelve.
 
 2. **The exterior is usually what was filmed.** Very few interior residential spaces in NOLA have been opened for production tours. Most film locations are exteriors — streets, facades, cemeteries, parks. Set expectations accordingly.
 
@@ -171,7 +171,7 @@ The film location tour is a framing device for neighborhood walking that would b
 
 ## Large Group Logistics
 
-A group of 15-25 people on a self-guided tour has a natural pace challenge — the front of the group moves faster than the back, stops create natural dispersion, and the group gets longer as you walk. A few structures that help:
+A big group on a self-guided tour has a natural pace challenge — the front of the group moves faster than the back, stops create natural dispersion, and the group gets longer as you walk. A few structures that help:
 
 **Buddy pairs.** Assign loose walking partners before you start. Pairs have a natural pace match; solo walkers either run ahead or fall behind.
 
