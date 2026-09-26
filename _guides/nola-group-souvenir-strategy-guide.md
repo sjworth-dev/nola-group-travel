@@ -168,6 +168,8 @@ The practical takeaway: large-group shopping works better in dedicated windows (
 
 For the post-trip gift question — what to bring back to people at home — the food category wins consistently. You can pick up a NOLA hot sauce selection or a praline assortment at the end of the trip, split the cost among the group, and have a collectively curated Louisiana pantry gift that's genuinely worth giving. Beats a magnet by a wide margin.
 
-Groups staying at properties like Castleday Retreats in the Bywater or The Syd in the Lower Garden District are well-positioned for local shopping — both neighborhoods have real local retail within walking distance, which means the shopping block doesn't require a transport plan and people can drift back to the villa between stops.
+Groups staying at properties like The Lookout Inn in the Bywater or The Syd in the Lower Garden District are well-positioned for local shopping — both neighborhoods have real local retail within walking distance, which means the shopping block doesn't require a transport plan and people can drift back to the villa between stops.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

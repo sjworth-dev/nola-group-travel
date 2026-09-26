@@ -163,8 +163,10 @@ The secondary benefit is the conversation that happens during and after. People 
 
 The courtyard and lawn yoga session is essentially only possible because the group is in a private villa. Hotel rooms don't have a common outdoor space where twenty people can move around. The hotel gym, if available, holds eight people maximum and is not the same experience.
 
-The villa's outdoor common space — the courtyard, the lawn, the pool deck — functions as a group programming venue in a way that hotel properties simply can't replicate. Groups staying in larger villas like those at Castleday Retreats in the Bywater or The Syd in the Lower Garden District have the outdoor footprint to make a real morning session work, rather than squeezing onto a balcony or improvising in a parking lot.
+The villa's outdoor common space — the courtyard, the lawn, the pool deck — functions as a group programming venue in a way that hotel properties simply can't replicate. Groups staying in larger villas like those at The Mazant in the Bywater or The Syd in the Lower Garden District have the outdoor footprint to make a real morning session work, rather than squeezing onto a balcony or improvising in a parking lot.
 
 A solid morning yoga session is one of the cleaner illustrations of why the villa format is operationally different from hotel accommodations for group trips — not just in sleeping arrangements, but in what the morning can be.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

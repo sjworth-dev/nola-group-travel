@@ -197,6 +197,8 @@ For groups at the larger end of this range (20+), consider adding a **sub-group 
 
 Having a well-structured group also makes the accommodation itself more functional. When the villa is the base camp and everyone knows their role in the group's infrastructure, the shared space works. The logistics lead doesn't have to do everything because the food researcher has dinner handled, the transport coordinator has the departure covered, and the treasurer has the money sorted.
 
-Properties like Castleday Retreats in the Bywater and The Syd in the Lower Garden District are both designed for groups that function this way — not just spaces to sleep, but base camps that support a group operating as a real unit.
+Properties like The Lookout Inn in the Bywater and The Syd in the Lower Garden District are both designed for groups that function this way — not just spaces to sleep, but base camps that support a group operating as a real unit.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
