@@ -1,13 +1,13 @@
 ---
-title: "Late-Night Food Crawl Structure for Groups of 10-25"
-description: "Structure a late-night food crawl for groups of 10-25 returning from Frenchmen Street or a bar night: the three-stop format, what's actually open after 1am, how to move a group that's split between eating and going home, and the villa kitchen backup."
+title: "Late-Night Food Crawl Structure for Groups"
+description: "Structure a late-night food crawl for the whole crew returning from Frenchmen Street or a bar night: the three-stop format, what's actually open after 1am, how to move a group that's split between eating and going home, and the villa kitchen backup."
 category: "Food & Drink"
 card_title: "Late-Night Food Crawl for Groups"
-card_description: "A deliberate late-night food crawl is better than standing outside a closed restaurant arguing at 1:30am. Here's the three-stop format, what's actually open after midnight in NOLA, and how to move a group of 15+ through it cleanly."
-date: 2026-06-29
+card_description: "A deliberate late-night food crawl is better than standing outside a closed restaurant arguing at 1:30am. Here's the three-stop format, what's actually open after midnight in NOLA, and how to move a full crew through it cleanly."
+date: 2026-09-26
 ---
 
-At some point on every NOLA group trip, the bar night ends and the group rediscovers hunger all at once. This happens between midnight and 2am, usually when the last venue started closing or energy started dropping. Twenty people are on the sidewalk. Someone says "I'm starving." Half the group agrees; the other half wants to go back to the villa.
+At some point on every NOLA [bar night](/guides/nola-group-drink-pace-management-guide/), the night ends and the group rediscovers hunger all at once. This happens between midnight and 2am, usually when the last venue started closing or energy started dropping. Twenty people are on the sidewalk. Someone says "I'm starving." Half the group agrees; the other half wants to go back to the villa.
 
 What happens next is either a smooth, satisfying cap to the night or a 20-minute sidewalk debate that leaves half the group frustrated.
 
@@ -56,7 +56,7 @@ New Orleans has no last call and no mandated closing time for bars. Restaurants 
 
 ### French Quarter and Bourbon Street
 
-The highest concentration of after-midnight food options in the city. The French Quarter is built around 24-hour volume — the infrastructure for feeding people at 2am has existed here for longer than most American food scenes have existed at all.
+The highest concentration of after-midnight food options in the city. The [French Quarter](/neighborhoods/french-quarter/) is built around 24-hour volume — the infrastructure for feeding people at 2am has existed here for longer than most American food scenes have existed at all.
 
 **What's consistently available:**
 - Counter-service and walk-up windows — the Quarter has more of these per block than anywhere else in the city, and many are designed specifically for late-night volume
@@ -65,13 +65,13 @@ The highest concentration of after-midnight food options in the city. The French
 
 ### Frenchmen Street and Marigny
 
-Frenchmen Street itself is a music corridor, not a food destination. The live music runs late; the food infrastructure around it is thinner than people expect. A few options operate in the surrounding blocks, but the reliable move after Frenchmen Street is a short rideshare to the French Quarter food corridor or a return to the villa.
+Frenchmen Street itself is a music corridor, not a food destination. The live music runs late; the food infrastructure around it is thinner than people expect. A few options operate in the surrounding blocks of the [Marigny](/neighborhoods/marigny/), but the reliable move after Frenchmen Street is a short rideshare to the French Quarter food corridor or a return to the villa.
 
 **The exception:** A couple of spots near the Frenchmen/Marigny area stay open for late-night traffic specifically because they're adjacent to the music corridor. Know your specific options before the night starts.
 
 ### Bywater
 
-The Bywater has fewer late-night options than the French Quarter but isn't empty. The Bywater's late-night scene runs quieter and more neighborhood — late spots near St. Claude serve the locals-and-late-night crowd that knows where to go. For groups staying in the Bywater, a local late-night spot within walking distance is a better move than a rideshare to the Quarter.
+The [Bywater](/neighborhoods/bywater/) has fewer late-night options than the French Quarter but isn't empty. The Bywater's late-night scene runs quieter and more neighborhood — late spots near St. Claude serve the locals-and-late-night crowd that knows where to go. For groups staying in the Bywater, a local late-night spot within walking distance is a better move than a rideshare to the Quarter.
 
 ### Delivery to the Villa
 
@@ -97,7 +97,7 @@ That said: if the group wants the Café Du Monde midnight experience specificall
 
 ## Planning the Crawl Before You Leave
 
-The crawl works when the sequence is named and agreed on before you go out for the evening. Here's the five-minute conversation that prevents the midnight sidewalk standoff:
+The crawl works when the sequence is named and agreed on before you go out for the evening — the same instinct behind sequencing the rest of the trip on the [group-trip planning hub](/guides/plan-a-group-trip/). Here's the five-minute conversation that prevents the midnight sidewalk standoff:
 
 **At dinner or just before heading out:**
 
@@ -121,7 +121,7 @@ The mistake is trying to hold 20 people together for a unanimous decision at 1am
 
 ---
 
-## Keeping 15-25 People Moving
+## Keeping a Full Crew Moving
 
 The logistical challenge of a late-night food crawl with a group this size is movement. Getting everyone out of one venue and into the next requires the same energy management as any other group transition — but at 1am, energy is lower and patience is shorter.
 
@@ -178,7 +178,7 @@ This setup costs $40-60 at a grocery run the day you arrive. It earns back that 
 
 6. **The closing stop is optional.** Not everyone makes it to Stop 3. That's fine. Stop 3 is the bonus — it's for the people who have energy for it. Build it into the plan so there's something for them; don't require it of the people who are done.
 
-7. **The next morning comes fast.** If there are any structured morning activities planned for the next day — a brunch reservation, a tour, a departure — the crawl needs a hard end time. Name it before you go out. "We're wrapping the food run by 1:30am" is an easier conversation at dinner than at 1:15am when two people want to keep going.
+7. **The next morning comes fast.** If there are any structured morning activities planned for the next day — a brunch reservation, a tour, a departure — the crawl needs a hard end time. Name it before you go out. "We're wrapping the food run by 1:30am" is an easier conversation at dinner than at 1:15am when two people want to keep going. See the [morning-after strategy guide](/guides/nola-group-morning-after-strategy-guide/) for how to structure the day that follows.
 
 ---
 
