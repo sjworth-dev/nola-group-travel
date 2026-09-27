@@ -11,7 +11,7 @@ Washington DC shows up in Mid-Atlantic girls-trip planning more than people expe
 
 That's close to the honest ceiling, though. DC is a monuments-and-museums city with a real nightlife scene bolted onto a daytime identity built around institutions, not entertainment. New Orleans asks for a different kind of trip — a trip built around live music that runs from afternoon into the small hours, a food culture with centuries behind it, and a walkable core that doesn't require a Metro pass to get from one good night to the next.
 
-Here's the honest version: H Street/Adams Morgan nightlife-and-monuments framing vs. live-music-city framing, lodging (DC's hotel-room market vs. New Orleans' purpose-built villa market), DC's international dining scene vs. Creole-Cajun tradition, and the short-Northeast-flight-and-museum-fatigue tradeoff underneath it all.
+Here's the honest version: H Street/Adams Morgan nightlife-and-monuments framing vs. live-music-city framing, lodging (DC's hotel-room market vs. New Orleans' purpose-built villa market), DC's international dining scene vs. Creole-Cajun tradition, and the short-Northeast-flight-and-museum-fatigue tradeoff underneath it all. If New Orleans wins the debate, the [group trip planning hub](/guides/plan-a-group-trip/) sequences everything that comes next.
 
 ---
 
@@ -52,7 +52,7 @@ This is where the two cities really diverge for a group past a certain size.
 
 DC's large-group lodging runs almost entirely on hotels, with short-term rentals more restricted and scattered than in most major cities — not a market built specifically around housing a whole crew under one roof the way New Orleans' villa market is. A genuinely large group in DC typically ends up in a hotel block, often across multiple rooms rather than one shared space.
 
-New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the Bywater and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
+New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
 **Editorial examples of what that inventory looks like:** properties like Castleday Retreats (private-pool Bywater villas built for total privacy) or Heirloom's deeper inventory across the Lower Garden District and Central City represent the kind of purpose-built group housing New Orleans has developed at a scale DC's hotel-heavy market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and a DC hotel block remains a fine answer if your group wants separate keys and bills near the Mall.
 
@@ -112,5 +112,7 @@ The comparison sharpens at real group size. DC's hotel-heavy model works fine fo
 New Orleans has the more developed answer for a genuinely large group that wants to share one roof: purpose-built villa properties with a pool, a full kitchen, and common space built for the whole crew, walkable or a short ride from the live music and restaurants that make the trip. That gap — plus the depth of a food and music culture that took centuries to build rather than a lineup of institutions — is worth weighing against the convenience of the shorter trip and the day of free museums.
 
 For the largest selection, book 6+ months out.
+
+**Comparing other cities too?** New Orleans vs [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Memphis](/guides/nola-group-new-orleans-vs-memphis-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/)
 
 [See where to stay for large groups →](/where-to-stay/)
