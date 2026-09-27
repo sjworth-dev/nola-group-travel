@@ -4,14 +4,14 @@ description: "The morning after a big night on a NOLA group trip: recovery foods
 category: "Planning & Logistics"
 card_title: "Morning-After Strategy for NOLA Groups"
 card_description: "At some point on every group trip, the morning after arrives. Someone is still asleep at 11am. Someone else is claiming they're fine when they're not. Here's how to manage it without losing half the day."
-date: 2026-06-29
+date: 2026-09-27
 ---
 
-It happens on every group trip. Usually by night two or three: the evening extended further than planned, the late-night decisions accumulated, and now it's 9am and nobody is moving.
+It happens on every group trip. Usually by night two or three: the evening extended further than planned — maybe into a [late-night food crawl](/guides/nola-group-late-night-food-crawl-structure/) that ran long, maybe just [drink pace](/guides/nola-group-drink-pace-management-guide/) that nobody managed — the late-night decisions accumulated, and now it's 9am and nobody is moving.
 
 The morning-after problem on a NOLA group trip is not a moral failure. New Orleans is built for late nights. The city has no last call. The late-night food options are legitimately good. The energy of being with 15 of your people in a city that doesn't close is its own gravitational pull.
 
-The question is what you do with the morning. How you manage it determines whether the rest of the day is salvaged — and whether the group's remaining energy for the trip stays intact or starts burning down.
+The question is what you do with the morning. How you manage it determines whether the rest of the day is salvaged — and whether the group's remaining energy for the trip stays intact or starts burning down. If you haven't sequenced the rest of the trip yet, the [group-trip planning hub](/guides/plan-a-group-trip/) is the place to do that before you're deep enough in to need this page.
 
 ---
 
@@ -188,6 +188,6 @@ The morning-after experience is shaped more than anything by where you're stayin
 
 For large groups, the villa model is specifically designed for this: common space where people can gather at their own pace, a kitchen for coffee and real food, and a pool that handles the midday recovery without requiring anyone to go anywhere.
 
-The Mazant in the Bywater and The Syd in the Lower Garden District are both set up for this dynamic — multiple rooms, full kitchens, outdoor pools, and the kind of morning-after infrastructure that makes a slow start comfortable rather than logistically complicated. For the largest selection, book 6+ months out.
+The Mazant in the [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) are both set up for this dynamic — multiple rooms, full kitchens, outdoor pools, and the kind of morning-after infrastructure that makes a slow start comfortable rather than logistically complicated. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
