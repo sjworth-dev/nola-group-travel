@@ -11,7 +11,7 @@ The mixed-diet large group restaurant problem is real, and in New Orleans it's s
 
 That's the honest starting point. New Orleans has gotten significantly more diverse in its restaurant options over the past decade, and a thoughtful approach to restaurant selection can accommodate most combinations of dietary needs. But it requires actual planning, not optimism.
 
-This guide is about making that plan work for a group of 15-30 people who don't all eat the same things.
+This guide is about making that plan work for the whole crew when they don't all eat the same things.
 
 ---
 
@@ -173,7 +173,7 @@ Not everything in NOLA food requires navigating restrictions. Some NOLA staples 
 
 ## Ordering Logistics for a Mixed-Diet Group
 
-When you're at a restaurant with a mixed-diet group of 15-30 people, the ordering process itself becomes a problem if not managed.
+When you're at a restaurant with a mixed-diet group at full headcount, the ordering process itself becomes a problem if not managed.
 
 **The pre-order sweep:**
 Before you place the group order, the organizer (or a designated person) does a quick pass: "Who has restrictions and what are they? Who knows what they want?" This surfaces the people who need help navigating the menu before the server is standing at the table waiting.
@@ -213,6 +213,6 @@ The larger the group, the higher the probability that some dietary combination m
 
 The villa solves this in a way that restaurants can't. When you control the kitchen, you control the ingredients, you control the preparation process, and you control the cross-contamination risk. A villa meal built thoughtfully for a dietary-diverse group is not a consolation prize — it's often a better meal and a better group experience than the restaurant alternative, because everyone gets to eat without anxiety and nobody is picking through a dish trying to find the thing they can actually eat.
 
-Castleday Retreats in the Bywater and The Syd in the Lower Garden District both have full kitchen infrastructure that can support a villa meal for 15-30 people. Full kitchens, serious stovetops, adequate counter space, proper refrigeration — the infrastructure is there to cook for a large group without the restriction limitations of a public restaurant kitchen.
+Heirloom and The Syd in the Lower Garden District both have full kitchen infrastructure that can support a villa meal for a big group. Full kitchens, serious stovetops, adequate counter space, proper refrigeration — the infrastructure is there to cook for a large group without the restriction limitations of a public restaurant kitchen. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

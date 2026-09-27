@@ -68,7 +68,7 @@ At every major New Orleans festival, the rideshare pickup zones are not at the p
 
 ## The Group Text Problem (and How to Solve It)
 
-In a group of 15-30 people, festival exit coordination via group text is reliably slow and produces the worst outcomes. The scenario:
+At full headcount, festival exit coordination via group text is reliably slow and produces the worst outcomes. The scenario:
 
 Person A texts "ready to leave." Three people respond "yes." Two people are away from their phone. Person B wants one more beer. Person C can't find Person D. By the time the group text has resolved the "who's leaving now" question, twenty minutes have passed and the rideshare surge has started.
 
@@ -172,6 +172,6 @@ The solution is more structure before the day starts and more explicit permissio
 
 The private villa functions as the post-festival anchor that makes all of this easier. The group knows where they're going. There's no post-festival debate about where to end the night. The villa is the destination, and everything — pool access, kitchen, common space, the people who left early — is already there when the last wave arrives.
 
-Castleday Retreats in the Bywater is particularly well-positioned for Jazz Fest groups — the Bywater is a 10-15 minute ride from the Fairgrounds and positioned between the festival and the Marigny/Frenchmen Street corridor for groups who want to continue the evening. The Syd in the Lower Garden District sits in the same distance range for downtown festivals like Essence Fest and French Quarter Fest.
+The Mazant in the Bywater is particularly well-positioned for Jazz Fest groups — the Bywater is a 10-15 minute ride from the Fairgrounds and positioned between the festival and the Marigny/Frenchmen Street corridor for groups who want to continue the evening. The Syd in the Lower Garden District sits in the same distance range for downtown festivals like Essence Fest and French Quarter Fest. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

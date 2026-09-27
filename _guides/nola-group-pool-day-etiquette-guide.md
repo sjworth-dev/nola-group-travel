@@ -1,9 +1,9 @@
 ---
 title: "How to Run a Villa Pool Day for Large NOLA Groups"
-description: "Running a private pool day for 10-30 people in New Orleans: float rotation, music logistics, sunscreen and towel math, food timing, and how to keep the pool deck from becoming a logistics disaster."
+description: "Running a private pool day for the whole crew in New Orleans: float rotation, music logistics, sunscreen and towel math, food timing, and how to keep the pool deck from becoming a logistics disaster."
 category: "Planning & Logistics"
 card_title: "Running the Villa Pool Day"
-card_description: "A private pool day for 10-30 people sounds simple until it isn't. Float rotation, towel math, speaker placement, and the 2pm food decision all require a plan. Here's the one that works."
+card_description: "A private pool day for a big group sounds simple until it isn't. Float rotation, towel math, speaker placement, and the 2pm food decision all require a plan. Here's the one that works."
 date: 2026-07-03
 ---
 
@@ -82,7 +82,7 @@ A designated person doing a sunscreen check at noon and 2pm sounds overkill unti
 
 **Towel math:**
 
-Most villas that accommodate 15-30 people stock pool towels, but the count varies. Verify before the day starts.
+Most villas built for a big group stock pool towels, but the count varies. Verify before the day starts.
 
 For twenty people on an all-day pool day, you want:
 
@@ -174,6 +174,6 @@ The private pool is one of the clearest logistical advantages a villa has over h
 
 The pool day also functions as a group cohesion tool that doesn't require planning every minute. Unlike a parade or a restaurant dinner, a pool day has a loose structure that accommodates different energy levels, people who want to talk versus people who want to float quietly, and the rhythm of a group that's been going hard for several days and needs a day that doesn't have a schedule.
 
-Castleday Retreats in the Bywater has a private pool at each of their three villas, fully dedicated to the group — no shared access with other guests or hotel visitors. The Syd in the Lower Garden District has a shared heated pool, hot tub, and sauna across the property, plus an outdoor kitchen that's purpose-built for pool day food logistics. Both have the outdoor infrastructure that makes a full-day pool event work for 15-30 people without requiring you to manage a hotel's rules.
+The Natchez Vacation Rentals offers apartment-style units sharing a saltwater pool and hot tubs — built for exactly this kind of group pool scene. The Syd in the Lower Garden District has a shared heated pool and hot tub of its own. Either has the outdoor infrastructure that makes a full-day pool event work for a big group without requiring you to manage a hotel's rules. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
