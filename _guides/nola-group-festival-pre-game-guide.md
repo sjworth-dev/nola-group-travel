@@ -219,6 +219,8 @@ The pre-game window only works the way this guide describes it if you have space
 
 A private villa changes this. The group wakes up in the same space, eats in the same kitchen, runs through the departure checklist in the same room, and leaves from the same door. The three-hour pre-game sequence described in this guide is built for that environment.
 
-Castleday Retreats in the Bywater operates three private villas that can each accommodate the kind of pre-game infrastructure this guide describes — full kitchens for the pre-festival meal, common outdoor space for sunscreen and bag check, a single departure point. The Syd in the Lower Garden District has a similar setup across its villas, with an outdoor kitchen that makes the morning-of meal straightforward even for a group of 20.
+New Orleans' villa market is built for exactly this kind of pre-game infrastructure — full kitchens for the pre-festival meal, common outdoor space for sunscreen and bag check, a single departure point for the whole group. Heirloom's large-format homes across the Lower Garden District and Central City are one example of the kind of inventory sized to run this morning without piecing together multiple properties.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

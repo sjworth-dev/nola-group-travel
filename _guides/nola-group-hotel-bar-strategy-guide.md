@@ -145,10 +145,12 @@ The honest answer: for group logistics, hotel bars are significantly more reliab
 
 ## Large Groups and the Hotel Bar Calculus
 
-For groups of 15-30, the hotel bar question comes up almost inevitably. The city's standalone bar scene is wonderful but physically constrained — a Bywater neighborhood bar that's perfect for 40 people total becomes an uncomfortable experience when your group of 20 fills half of it. Hotel bars are physically designed for throughput.
+Once the trip goes double-digit, the hotel bar question comes up almost inevitably. The city's standalone bar scene is wonderful but physically constrained — a Bywater neighborhood bar that's perfect for 40 people total becomes an uncomfortable experience when your group of 20 fills half of it. Hotel bars are physically designed for throughput.
 
 The most useful posture: pick two or three hotel bars you're aware of and keep them as options. Don't plan your evenings around them. But don't rule them out as a solution when the need arises.
 
-Groups staying in private villas in Bywater or the Lower Garden District are a few minutes from multiple hotel bar options in the adjacent neighborhoods. Castleday Retreats in the Bywater and The Syd in the Lower Garden District are both positioned within reach of the hotel bar districts (the French Quarter and CBD, respectively) for the moments when a hotel bar is the right call — but the standalone neighborhood bar scene surrounding both properties means you'll rarely need to make that trip.
+Groups staying in private villas in Bywater or the Lower Garden District are a few minutes from multiple hotel bar options in the adjacent neighborhoods. The Syd in the Lower Garden District is positioned within reach of the CBD hotel bar district for the moments when a hotel bar is the right call — but the standalone neighborhood bar scene surrounding it means you'll rarely need to make that trip.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
