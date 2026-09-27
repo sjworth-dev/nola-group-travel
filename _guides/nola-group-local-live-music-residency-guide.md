@@ -1,10 +1,10 @@
 ---
 title: "New Orleans Live Music Residencies and Standing Gigs for Groups"
-description: "Standing gigs and weekly residencies in New Orleans for groups of 10-25: the musicians who play the same venue on the same night every week, which clubs have reliable schedules, and how to plan a music night around a consistent anchor without festival timing dependency."
+description: "Standing gigs and weekly residencies in New Orleans for the whole crew: the musicians who play the same venue on the same night every week, which clubs have reliable schedules, and how to plan a music night around a consistent anchor without festival timing dependency."
 category: "Nightlife & Music"
 card_title: "NOLA Live Music Residencies Guide"
 card_description: "The best live music nights in New Orleans happen on the same night every week at the same venue. Here's how groups plan around standing gigs, who plays where, and why this approach beats festival timing."
-date: 2026-06-29
+date: 2026-09-27
 ---
 
 The most reliable way to guarantee your group catches great live music in New Orleans is to look for the residencies. Not the festivals, not the one-night events that require planning months out, and not the hope that the band you want to see happens to be playing the week you're in town.
@@ -13,7 +13,7 @@ The residency. The standing gig. The thing that happens every single week.
 
 New Orleans has a deep culture of recurring live music engagements — musicians and bands with long-term relationships with specific venues, playing the same night every week to the same combination of regulars and visitors who knew to look. This structure exists because the musicians need reliable income and the venues need reliable draws. The side effect for group travelers is that you can plan a music night around a specific anchor without leaving it to chance.
 
-This guide covers what residencies are, which nights and venues have them, and how groups of 10-25 can build an evening around a consistent music anchor.
+This guide covers what residencies are, which nights and venues have them, and how the whole crew can build an evening around a consistent music anchor. If you're still sequencing the rest of the trip, the [group trip planning hub](/guides/plan-a-group-trip/) is the place to start.
 
 ---
 
@@ -55,7 +55,7 @@ The most durable residencies in NOLA happen at neighborhood bars with establishe
 
 ### Frenchmen Street Venues
 
-Frenchmen Street in the Marigny has a cluster of venues within a single block — the Spotted Cat, d.b.a., the Maison, and others — that collectively offer live music seven nights a week. Individual musicians and bands hold residencies at specific venues on specific nights, creating a concentration of reliable music programming within easy walking distance.
+Frenchmen Street in the [Marigny](/neighborhoods/marigny/) has a cluster of venues within a single block — the Spotted Cat, d.b.a., the Maison, and others — that collectively offer live music seven nights a week. Individual musicians and bands hold residencies at specific venues on specific nights, creating a concentration of reliable music programming within easy walking distance.
 
 The Frenchmen Street format is well-suited to groups because:
 
@@ -118,7 +118,7 @@ The challenge with residencies is that they're not always indexed on major ticke
 
 ## Building the Music Evening
 
-For groups of 10-25, the music evening works best with a clear anchor and explicit flexibility around it.
+For the whole crew, the music evening works best with a clear anchor and explicit flexibility around it.
 
 **The anchor approach:**
 
@@ -128,7 +128,7 @@ Identify one residency or standing gig as the planned destination. This is where
 - The venue for the core set (typically 9-11pm for most residency formats)
 - A defined plan for after — either a second venue, a late night on Frenchmen Street, or a return to the villa
 
-The post-music plan is the part that groups most often skip. They plan the music and then treat "after" as something to figure out when the set ends. This produces a 20-person sidewalk standoff. The answer: name the after-option before you leave the villa.
+The post-music plan is the part that groups most often skip. They plan the music and then treat "after" as something to figure out when the set ends. This produces a 20-person sidewalk standoff. The answer: name the after-option before you leave the villa — whether that's a [late-night food crawl](/guides/nola-group-late-night-food-crawl-structure/), a stop at one of the [craft cocktail bars](/guides/nola-group-craft-cocktail-bar-strategy-guide/) that keeps pouring, or a straight return home.
 
 **The walk-around approach:**
 
@@ -175,19 +175,21 @@ Both are worth doing. They're not competing for the same slot on your itinerary.
 
 ## Pro Tips
 
-1. **Confirm the schedule the day before, not the day of.** Most residencies run reliably, but occasional cancellations happen — a band member is sick, a scheduling conflict arose, the venue has a private event. One text or a quick Instagram check the night before prevents arriving at a dark venue with 20 people in tow.
+1. **Plan the next morning before you commit to a late residency.** A Sunday or Monday music night still means a Tuesday somewhere. See the [morning-after strategy guide](/guides/nola-group-morning-after-strategy-guide/) for how to keep the following day from being a wash.
 
-2. **Weeknight residencies are the hidden value in NOLA music.** Sunday, Monday, and Tuesday residencies have less competition from tourist crowds, lower cover charges, and more direct access to the music. The group that comes in for a Tuesday night residency at a neighborhood bar often has a better music experience than the group that fights Saturday night Frenchmen Street.
+2. **Confirm the schedule the day before, not the day of.** Most residencies run reliably, but occasional cancellations happen — a band member is sick, a scheduling conflict arose, the venue has a private event. One text or a quick Instagram check the night before prevents arriving at a dark venue with 20 people in tow.
 
-3. **The Frenchmen Street walk takes longer than it looks.** The street is short and the venues are clustered, but with a group of 20, stopping at each venue to assess it and decide whether to stay takes 10-15 minutes per venue. A walk that looks like an hour is often two. Build the timing accordingly.
+3. **Weeknight residencies are the hidden value in NOLA music.** Sunday, Monday, and Tuesday residencies have less competition from tourist crowds, lower cover charges, and more direct access to the music. The group that comes in for a Tuesday night residency at a neighborhood bar often has a better music experience than the group that fights Saturday night Frenchmen Street.
 
-4. **NOLA music culture rewards engagement.** The residency format puts musicians within easy interaction distance. At a set break, talking to a band member about the music, asking about their background, or asking what they'd recommend for another venue that night — this is welcome. Musicians playing a residency are not behind a barrier. Engage.
+4. **The Frenchmen Street walk takes longer than it looks.** The street is short and the venues are clustered, but with a group of 20, stopping at each venue to assess it and decide whether to stay takes 10-15 minutes per venue. A walk that looks like an hour is often two. Build the timing accordingly.
 
-5. **The bar with the best music may not have the best acoustics.** Some of the strongest residencies in the city happen in rooms with variable sound. A band that's transcendent in one venue sounds muddy in another. Come for the music, not the sound system.
+5. **NOLA music culture rewards engagement.** The residency format puts musicians within easy interaction distance. At a set break, talking to a band member about the music, asking about their background, or asking what they'd recommend for another venue that night — this is welcome. Musicians playing a residency are not behind a barrier. Engage.
 
-6. **Cover charges at residency venues are almost always cash.** Have small bills before the evening starts. The cover charge table at 9pm is not a moment to break a $50.
+6. **The bar with the best music may not have the best acoustics.** Some of the strongest residencies in the city happen in rooms with variable sound. A band that's transcendent in one venue sounds muddy in another. Come for the music, not the sound system.
 
-7. **The group's music preferences vary more than you think.** Before the evening, a casual check on what the group actually wants to hear narrows the choice to something everyone can invest in. A group sent to a jazz residency when half of them only tolerate jazz and prefer funk will have a fragmented night. Naming the music type before committing saves negotiation later.
+7. **Cover charges at residency venues are almost always cash.** Have small bills before the evening starts. The cover charge table at 9pm is not a moment to break a $50.
+
+8. **The group's music preferences vary more than you think.** Before the evening, a casual check on what the group actually wants to hear narrows the choice to something everyone can invest in. A group sent to a jazz residency when half of them only tolerate jazz and prefer funk will have a fragmented night. Naming the music type before committing saves negotiation later.
 
 ---
 
@@ -195,6 +197,6 @@ Both are worth doing. They're not competing for the same slot on your itinerary.
 
 The connection between live music evenings and the villa base is practical: the music night ends, the group reconvenes either on the way home or at the villa, and the experience continues in a space you own for the evening. The after-show villa is a different social environment than a bar — quieter, more intimate, often where the most interesting conversations about the music happen.
 
-Groups at The Mazant in the Bywater are walking distance from the Marigny and Frenchmen Street music corridor — the residency circuit is essentially out the door. Groups at The Syd in the Lower Garden District are a short rideshare from both Frenchmen Street and the Uptown venues, with the Magazine Street corridor as a secondary music neighborhood. For the largest selection, book 6+ months out.
+Groups at The Mazant in the [Bywater](/neighborhoods/bywater/) are walking distance from the Marigny and Frenchmen Street music corridor — the residency circuit is essentially out the door. Groups at The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) are a short rideshare from both Frenchmen Street and the Uptown venues, with the Magazine Street corridor as a secondary music neighborhood. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
