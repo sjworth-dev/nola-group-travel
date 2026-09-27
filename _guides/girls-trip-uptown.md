@@ -7,7 +7,7 @@ card_description: "Magazine Street, Garden District brunch, spas, and night out 
 date: 2026-07-31
 ---
 
-Uptown is where the city goes when it's not performing. No Bourbon Street energy, no tourist crush — just some of the best restaurants in the country, a neighborhood built for walking, and a bar scene that knows how to have a good time without trying too hard.
+[Uptown](/neighborhoods/uptown/) is where the city goes when it's not performing. No Bourbon Street energy, no tourist crush — just some of the best restaurants in the country, a neighborhood built for walking, and a bar scene that knows how to have a good time without trying too hard.
 
 For a girls trip, Uptown delivers on the things that actually matter: excellent brunch options that don't require fighting through a crowd of tourists, independent boutiques on Magazine Street that you'll actually want to shop, day spas where you can get a group booking, and nightlife that runs on the Frenchmen Street model rather than the Bourbon Street one.
 
@@ -29,7 +29,7 @@ Here's the playbook.
 
 Most New Orleans girls trips anchor in the French Quarter or the Bywater/Marigny. Both are great. Uptown is different.
 
-If your group hasn't picked a neighborhood yet, start with the [large group girls trip overview](/guides/nola-group-girls-trip-guide/) — it compares all four main neighborhoods side by side before committing to one. This page assumes you're going Uptown.
+If your group hasn't picked a neighborhood yet, start with the [large group girls trip overview](/guides/nola-group-girls-trip-guide/) — it compares all four main neighborhoods side by side before committing to one. If you haven't even locked in New Orleans yet, the [group-trip planning hub](/guides/plan-a-group-trip/) sequences that decision too. This page assumes you're going Uptown.
 
 **What Uptown has that the Quarter doesn't:**
 
@@ -76,7 +76,7 @@ The right way: agree on a stretch (the blocks between Louisiana and Napoleon are
 
 ## Garden District: The Walk
 
-The Garden District is one of the most beautiful neighborhoods in America, full stop. The antebellum mansions, the live oak canopy, the ironwork fences, the azaleas in spring — it photographs well and it's even better in person.
+The [Garden District](/neighborhoods/garden-district/) is one of the most beautiful neighborhoods in America, full stop. The antebellum mansions, the live oak canopy, the ironwork fences, the azaleas in spring — it photographs well and it's even better in person.
 
 ### How to Do It
 
@@ -266,7 +266,7 @@ From Uptown accommodations, it's a 15-minute rideshare. Worth it.
 
 Uptown New Orleans is the version of the city that residents love most. Magazine Street doesn't get old. The Garden District is always worth the walk. The brunch here is better than anywhere else in the city.
 
-For a girls trip that balances doing things with actually being somewhere rather than always rushing to the next stop, Uptown is the move — and the property field spans a real range of fits. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, puts a shared pool, hot tub, and outdoor kitchen within easy reach of Magazine Street and Uptown restaurants — the central-location pick. **Castleday Retreats**, private-pool Bywater villas, is the answer if your group's priority is total privacy over a shared amenity deck; a short rideshare connects it to all of Uptown. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add more choice and short-notice availability if the calendar's tight. None of these is a booking recommendation — pick by fit.
+For a girls trip that balances doing things with actually being somewhere rather than always rushing to the next stop, Uptown is the move — and the property field spans a real range of fits. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, puts a shared pool and hot tub within easy reach of Magazine Street and Uptown restaurants — the central-location pick. **The Mazant**, a single 1880s Bywater guesthouse with its own pool and spa, is the answer if your group's priority is one private house over a shared amenity deck; a short rideshare connects it to all of Uptown. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add more choice and short-notice availability if the calendar's tight. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 
