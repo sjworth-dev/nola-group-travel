@@ -4,14 +4,14 @@ description: "When your group's spending has drifted from the plan by day two or
 category: "Planning & Logistics"
 card_title: "Mid-Trip Budget Reality Check"
 card_description: "By day two or three, most groups are over-budget and under-talking-about-it. Here's how to run the audit, have the conversation, and fix the remaining days before the person who can't afford it stops showing up."
-date: 2026-07-01
+date: 2026-09-28
 ---
 
 Somewhere between the first round of cocktails at the airport bar and the third Uber ride you took because it was raining and no one wanted to figure out the streetcar, the budget conversation got skipped. This is normal. It's also how you end up on day three with $400 more per person gone than planned and two more days left.
 
-The fix is not complicated. It requires a fifteen-minute Splitwise audit, an honest conversation, and a few small structural adjustments. What it doesn't require is a group blowup, a passive-aggressive group chat, or the quiet decision by two or three members to stop participating in activities they can't afford.
+The fix is not complicated. It requires a fifteen-minute Splitwise audit, an honest conversation, and a few small structural adjustments. What it doesn't require is a group blowup, a passive-aggressive group chat, or the quiet decision by two or three members to stop participating in activities they can't afford. If you haven't set up [real-time money tracking](/guides/nola-group-money-management-guide/) for the trip yet, that's the companion piece to this one — this guide is specifically for the mid-trip course correction.
 
-This guide is for the trip organizer who is looking at the numbers on day two or three and realizes they need to get ahead of it before it becomes a problem.
+This guide is for the trip organizer who is looking at the numbers on day two or three and realizes they need to get ahead of it before it becomes a problem. If you're still sequencing the whole trip, start at the [group-trip planning hub](/guides/plan-a-group-trip/) instead.
 
 ---
 
@@ -88,7 +88,7 @@ You don't need to blow up the plan. Most mid-trip over-budget situations are fix
 
 **Transport:** Switch to Lyft Line/shared rides instead of separate cars. Use the streetcar or a single chartered van if you're all going the same place. A group of 20 people taking four Ubers four times per day is $60-80 per day in transport alone. Two vans or one charter is usually half that.
 
-**Food:** Build one or two meals around the villa rather than going out. A Rouses run for groceries, red beans from scratch on the stove, or a villa pasta night costs $8-12 per person vs. $45-60 out. This also tends to become one of the trip's better memories.
+**Food:** Build one or two meals around the villa rather than going out. A Rouses run for groceries, red beans from scratch on the stove, or a villa pasta night costs $8-12 per person vs. $45-60 out — see the [private chef vs. villa cooking breakdown](/guides/nola-group-private-chef-vs-villa-cooking-guide/) for how to decide which route makes sense for your group. This also tends to become one of the trip's better memories.
 
 **Bar:** Shift one night from bar-hopping to villa bar setup. A $300 spirits buy for the group runs $12-15 per person for the whole night. Even moderate restaurant bar tabs run $25-40 per person for a few hours.
 
@@ -111,7 +111,7 @@ A mid-trip audit is also a good time to clean this up.
 
 **Quick reset approach:** Have everyone who fronted a significant expense log it if they haven't. Then do a single group settlement for everything through the current day — whoever owes, pays digitally right now, to whoever is owed. This gives you a clean starting balance for the rest of the trip.
 
-**Cash float system for the remaining days:** One person collects a flat amount from each group member (say, $60-100) into a group cash fund. Group expenses for the remaining days come out of this pool. End of trip, if there's money left, it goes back proportionally. This eliminates the complexity of tracking every $8 daiquiri and $15 cover charge.
+**Cash float system for the remaining days:** One person collects a flat amount from each group member (say, $60-100) into a group cash fund. Group expenses for the remaining days come out of this pool. End of trip, if there's money left, it goes back proportionally. This eliminates the complexity of tracking every $8 daiquiri and $15 cover charge. If nobody was assigned a money role before the trip, this is the point where you fix that — see the [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) for how to split the job going forward.
 
 ---
 
