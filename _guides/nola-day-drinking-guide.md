@@ -182,7 +182,7 @@ NOLA in summer is 90-95°F with 80%+ humidity — see the [weather guide](/guide
 
 ## Day Drinking Itinerary by Neighborhood
 
-### If You're Staying in the Bywater (Castleday Retreats)
+### If You're Staying in the Bywater
 
 | Time | Where | Activity |
 |------|-------|----------|
@@ -194,7 +194,7 @@ NOLA in summer is 90-95°F with 80%+ humidity — see the [weather guide](/guide
 | 7:00pm | Bywater or Marigny restaurant | Dinner |
 | 9:00pm | Frenchmen Street | Night phase |
 
-### If You're Staying in the Lower Garden District (The Syd)
+### If You're Staying in the Lower Garden District
 
 | Time | Where | Activity |
 |------|-------|----------|
@@ -229,7 +229,7 @@ NOLA in summer is 90-95°F with 80%+ humidity — see the [weather guide](/guide
 
 Everything about a long day-drinking day is better with a home base you can duck back into, and nobody worrying about a hotel lobby or scattered room keys at 2am.
 
-**Editorial examples of what fits:** private-pool Bywater villas (like Castleday Retreats) put a crew within walking distance of Bacchanal, Frenchmen Street, and the rest of the day-drinking infrastructure — useful for that hour of reset between afternoon bars and dinner. A shared-pool Lower Garden District setup (like The Syd) sits one block from the St. Charles Streetcar, which makes it easy to move between neighborhoods all day without parking or rideshares. Deep-inventory operators like Heirloom or a hotel room block are worth considering if the group wants separate bills and its own keys instead of one shared house. None of these is a booking recommendation — pick by fit.
+**Editorial examples of what fits:** a Bywater house like The Mazant — an 1880s guesthouse that sleeps 18, heated pool and spa included — puts a crew within walking distance of Bacchanal, Frenchmen Street, and the rest of the day-drinking infrastructure, useful for that hour of reset between afternoon bars and dinner. A Lower Garden District base puts you a block or two from the St. Charles Streetcar, which makes it easy to move between neighborhoods all day without parking or rideshares; Heirloom's inventory across LGD and Central City is worth checking there, or a hotel room block if the group wants separate bills and its own keys instead of one shared house. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 

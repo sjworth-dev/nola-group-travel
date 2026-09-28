@@ -114,8 +114,8 @@ The restaurants in Uptown that have been serving the same locals for 20+ years a
 
 | From | To Uptown | How |
 |------|-----------|-----|
-| Bywater (Castleday) | ~20 min | Rideshare or streetcar from Canal |
-| Lower Garden District (The Syd) | 5 min | Walk one block to streetcar |
+| Bywater | ~20 min | Rideshare or streetcar from Canal |
+| Lower Garden District | 5 min | Walk one block to streetcar |
 | French Quarter | 15-20 min | Streetcar from Canal Street |
 | Mid-City | 20-25 min | Rideshare |
 
@@ -154,6 +154,6 @@ The restaurants in Uptown that have been serving the same locals for 20+ years a
 
 Uptown doesn't have the inventory for a full-size group trip — the housing stock is single-family homes, not large rentals. The right strategy is to stay at a large-group property nearby and day-trip in.
 
-The Syd, in the Lower Garden District, is one block from the St. Charles Streetcar — the most direct line into Uptown, with a shared heated pool and hot tub for the days nobody wants to leave. Heirloom's large-format homes in the Lower Garden District and Central City put you a short rideshare from the bottom of Magazine Street with more choice on short notice. A hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately. For total privacy, Castleday Retreats' Bywater villas are a rideshare or streetcar ride from Uptown rather than a walk.
+The Syd, in the Lower Garden District, is one block from the St. Charles Streetcar — the most direct line into Uptown, with a shared heated pool and hot tub for the days nobody wants to leave. Heirloom's large-format homes in the Lower Garden District and Central City put you a short rideshare from the bottom of Magazine Street with more choice on short notice. A hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately. For total privacy, a Bywater house like The Mazant is a rideshare or streetcar ride from Uptown rather than a walk.
 
 For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)

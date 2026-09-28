@@ -155,7 +155,7 @@ For groups where the first night went very late and the second morning requires 
 
 **10:00am** — Light villa breakfast; someone makes eggs, someone picks up beignets from a nearby spot
 
-**11:00am** — Pool time or hot tub (The Syd's heated pool; Castleday's private pool); optional sauna rotation for interested people
+**11:00am** — Pool time or hot tub back at the villa; optional sauna rotation for interested people
 
 **1:00pm** — Lunch delivery or walk to a nearby brunch spot; this is the first group meal of the day
 
@@ -253,7 +253,7 @@ The food culture in NOLA is genuinely useful for recovery. A few specific notes:
 
 Where you stay is the foundation of a functional recovery day. The in-property amenities determine how much logistical coordination is actually required.
 
-Bywater villas like Castleday Retreats put the group in one private structure with its own pool — a full day at the pool with no strangers, no hotel policy about outside food, and no time limit is genuinely different from a hotel experience. The multiple bedrooms mean everyone can sleep as late as they need, and with a dozen rooms there's enough dedicated space to run several simultaneous mobile-massage sessions. The Syd's shared heated pool and hot tub in the Lower Garden District work well for groups where the social side of recovery matters as much as the rest — everyone drifting in and out of the same pool rather than each sleeping in on their own. Confirm any additional amenity (sauna, outdoor kitchen) directly with whichever property you book; don't assume it from a listing photo. Heirloom's large-format homes are worth checking too, especially for a short-notice booking.
+A Bywater house like The Mazant puts the group in one private structure with its own heated pool and spa — a full day at the pool with no strangers, no hotel policy about outside food, and no time limit is genuinely different from a hotel experience. The multiple bedrooms mean everyone can sleep as late as they need. The Syd's shared heated pool and hot tub in the Lower Garden District work well for groups where the social side of recovery matters as much as the rest — everyone drifting in and out of the same pool rather than each sleeping in on their own. Confirm any additional amenity (sauna, outdoor kitchen) directly with whichever property you book; don't assume it from a listing photo. Heirloom's large-format homes are worth checking too, especially for a short-notice booking.
 
 Whichever shape fits, a private property beats a hotel for a recovery day specifically: no shared elevator with strangers while someone in your group is wearing compression socks and looking rough, no judgment, no checkout time pressure on a slow morning. The [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers stocking the house before Day 1 so the recovery infrastructure is already there when you need it.
 
