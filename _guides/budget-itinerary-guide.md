@@ -88,7 +88,7 @@ This is a 3-night, 4-day budget trip built for a big group — the whole crew re
 - Settle in, get oriented
 
 **Afternoon:**
-- Walk the neighborhood your villa is in (Bywater or Marigny if you're at Castleday; Lower Garden District if you're at The Syd)
+- Walk the neighborhood your villa is in — Bywater and Marigny reward it most, but any base neighborhood has something worth a free afternoon loop
 - Free: neighborhood architecture, street art, river views
 
 **Evening:**
