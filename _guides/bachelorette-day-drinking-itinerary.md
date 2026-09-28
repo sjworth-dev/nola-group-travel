@@ -7,7 +7,7 @@ card_description: "Hour-by-hour itinerary for the whole crew: Bloody Mary brunch
 date: 2026-08-07
 ---
 
-The bachelorette day-drinking day is its own art form. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal: full energy at 10pm when the real night starts.
+The bachelorette day-drinking day is its own art form. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal: full energy at 10pm when the real night starts. This itinerary assumes you've already worked through the broader [bachelorette party guide](/guides/bachelorette-party/) for the rest of the weekend — this page is just the one day, hour by hour.
 
 This is the schedule that works. It's been battle-tested in a city that was specifically designed for this kind of day.
 
@@ -203,7 +203,7 @@ From here, the night is yours. The pacing has been right. You've eaten. You've r
 | 8:00pm (villa rest) | 9.5 | 7-9 | Reset happening |
 | 9:30pm (night starts) | 11 | 8-10+ | Ready |
 
-This is a managed pace. Not restrictive — ambitious. The goal is 10pm energy, not 6pm energy. The [day-drinking guide](/guides/nola-day-drinking-guide/) covers the same pacing principles for groups that aren't specifically a bachelorette trip.
+This is a managed pace. Not restrictive — ambitious. The goal is 10pm energy, not 6pm energy. The [day-drinking guide](/guides/nola-day-drinking-guide/) covers the same pacing principles for groups that aren't specifically a bachelorette trip, and the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) goes deeper on keeping a big group's pace even across a long day.
 
 ---
 
@@ -255,8 +255,8 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 
 A villa works better than a hotel room block for a day-drinking day like this one. Hotel rooms mean a lobby return between stops; a villa means a pool, a kitchen, and a place to land between phases — including the villa rest hour, which is most of the point.
 
-The Bywater puts you within walking distance of brunch, the afternoon bar, and Frenchmen Street, which is why it's the neighborhood this itinerary is built around — see the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) for a version built entirely around that base. Bywater villas like the ones Castleday Retreats runs put everyone in a real bed rather than a bunk (the math works out around 16 people per villa comfortably, with room to stretch to a full crew across the three). The Lower Garden District is the other common base: villas like The Syd sit a block from the St. Charles Streetcar, which covers the CBD, French Quarter, and Frenchmen in under 15 minutes if your group wants to range further during the day. Neither is a recommendation over the other — pick by how much ground you want to cover on foot versus by streetcar.
+The Bywater puts you within walking distance of brunch, the afternoon bar, and Frenchmen Street, which is why it's the neighborhood this itinerary is built around — see the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) for a version built entirely around that base. A Bywater house like The Mazant — an 1880s guesthouse that sleeps 18 — puts everyone in a real bed rather than a bunk. The Lower Garden District is the other common base: villas like The Syd sit a block from the St. Charles Streetcar, which covers the CBD, French Quarter, and Frenchmen in under 15 minutes if your group wants to range further during the day. Neither is a recommendation over the other — pick by how much ground you want to cover on foot versus by streetcar.
 
-For the largest selection, book 6+ months out.
+For the largest selection, book 6+ months out — if you're still working out the rest of the trip's timeline, the [group-trip planning hub](/guides/plan-a-group-trip/) sequences the whole booking process in order.
 
 [See where to stay for large groups →](/where-to-stay/)
