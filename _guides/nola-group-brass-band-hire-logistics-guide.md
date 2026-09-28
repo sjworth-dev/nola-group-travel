@@ -4,12 +4,12 @@ description: "Step-by-step logistics for hiring a brass band in New Orleans for 
 category: "Nightlife & Music"
 card_title: "Hiring a Brass Band"
 card_description: "Hiring a brass band isn't complicated once you know what to ask. This is the full logistics guide: band size, permits, day-of structure, and how to brief your group before the tuba player shows up."
-date: 2026-06-30
+date: 2026-09-28
 ---
 
 A brass band is the move. Whether you're throwing a private second line down the block, kicking off a bachelorette crawl, or just want 20 minutes of pure New Orleans energy in your villa courtyard, a hired brass band is one of the most genuinely unforgettable things you can add to a group trip here.
 
-The logistics are real but not complicated. Most groups who show up expecting something magical and get something chaotic went in without a framework. This guide is the framework.
+The logistics are real but not complicated. Most groups who show up expecting something magical and get something chaotic went in without a framework. This guide is the framework — it's paired with the [second line guide](/guides/second-line-guide/) if you want the wider culture and etiquette context before you book anything.
 
 ---
 
@@ -97,7 +97,7 @@ This is where groups get into trouble. The short version:
 
 **Private venues (villa, rented bar, restaurant courtyard): no permit needed.** The band plays on private property, you're the event. Simple.
 
-**Public streets: permit required.** A second line parade on a public street in New Orleans requires a city permit from the Special Events office. The permit specifies the route, the date, the time, the number of participants, and requires coordination with NOPD for an escort.
+**Public streets: permit required.** A second line parade on a public street in New Orleans requires a city permit from the Special Events office. The permit specifies the route, the date, the time, the number of participants, and requires coordination with NOPD for an escort. If you're weighing whether to go permitted-and-public or keep it private, the [private vs. public second line breakdown](/guides/nola-group-private-second-line-vs-public-guide/) walks through the tradeoffs before you commit to a route.
 
 The permit process takes time — typically several weeks minimum. If you're planning a permitted street second line, start this process at least 4–6 weeks out, more if your trip falls during peak season (Mardi Gras season, Jazz Fest, Essence Fest, major holidays).
 
@@ -155,7 +155,7 @@ The amount varies based on group size, duration, and how much the performance de
 
 2. **The acoustics of a villa courtyard are surprising.** An enclosed courtyard amplifies brass band sound dramatically. A 4-piece band in a walled courtyard sounds like a full ensemble. Start there before defaulting to a larger band.
 
-3. **Have the second line props ready.** If you want your group waving handkerchiefs or twirling parasols — which you do — source them before the performance, not during. Second line umbrellas can be found at many shops in the French Market and along Magazine Street.
+3. **Have the second line props ready.** If you want your group waving handkerchiefs or twirling parasols — which you do — source them before the performance, not during. Second line umbrellas can be found at many shops in the French Market and along [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/), or the group can [make its own umbrellas](/guides/nola-group-second-line-umbrella-making-guide/) as a pre-performance activity.
 
 4. **Make sure phones are charged.** Everyone in the group is going to want to film this. Warn them the day before. A dead phone on a brass band second line is a real loss.
 
