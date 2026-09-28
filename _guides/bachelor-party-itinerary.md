@@ -7,9 +7,9 @@ card_description: "Full 3-day playbook: golf or fishing morning, sports bar afte
 date: 2026-08-01
 ---
 
-New Orleans doesn't need to be sold as a bachelor party destination. You already know. The question is how to run three days well for 12-20 guys without the whole thing collapsing into chaos on Day 1 and everyone spending Day 2 in bed.
+New Orleans doesn't need to be sold as a bachelor party destination. You already know. The question is how to run three days well for the whole crew without the whole thing collapsing into chaos on Day 1 and everyone spending Day 2 in bed.
 
-This is the itinerary. Steal it. Adjust for your group. Run it.
+This is the itinerary. Steal it. Adjust for your group. Run it. If you're still deciding dates and dividing up who's booking what, the [group trip planning hub](/guides/plan-a-group-trip/) sequences those decisions before you get to day-by-day mode. For the fuller playbook this itinerary is built from — group dynamics, budget scripts, the whole framework — see the [main bachelor party guide](/guides/bachelor-party/).
 
 ---
 
@@ -39,7 +39,7 @@ Not every bachelor party is the same. Before you run this itinerary, answer two 
 - Mid-range: Villa + one nice dinner + activities
 - Bougie: Private chef one night, private event space, the works
 
-This itinerary assumes mid-range, activity-curious group of 12-18 guys. Adjust accordingly.
+This itinerary assumes a mid-range, activity-curious crew at typical bachelor-party size. Adjust accordingly.
 
 ---
 
@@ -93,7 +93,7 @@ Best for groups who want a structured morning. Book a tee time in the morning or
 | Audubon Golf Course | 15 min | Uptown, beautiful, easier |
 | City Park Golf | 15 min | Classic, affordable, fun |
 
-Golf works best for 8-12 guys. Larger groups should split into two groups and stagger tee times.
+Golf works best for a manageable foursome or two. Once the group hits double digits, split into two tee times and stagger them.
 
 **Option B: Charter Fishing**
 
@@ -127,7 +127,7 @@ Friday is the big night. Two acts.
 
 **Act 1: Dinner**
 
-Book this in advance. Groups of 12-18 need reservations 3-4 weeks out.
+Book this in advance. At full headcount, get reservations locked in 3-4 weeks out.
 
 | Restaurant | Notes | Group Size |
 |------------|-------|------------|
@@ -144,7 +144,7 @@ This is what you're here for. The structure matters more than you'd think.
 
 1. **Start at a lower-key French Quarter bar.** Bourbon Street is coming, but get oriented first. One or two rounds.
 
-2. **Walk Bourbon Street.** Do it. Get it in the system. It's louder, more expensive, and more chaotic than everywhere else. The group will want to see it. Do one lap, have fun, and keep moving.
+2. **Walk Bourbon Street.** Do it. Get it in the system. It's louder, more expensive, and more chaotic than everywhere else. The group will want to see it. Do one lap, have fun, and keep moving. (Yes, the to-go cup is legal — the [open container guide](/guides/nola-group-open-container-law-guide/) covers the actual rules before someone in the group asks.)
 
 3. **Pick a venue for the middle of the night.** Sports bar, dance bar, or the one with the mechanical bull—whatever matches the group. This is where you spend 90 minutes in one place instead of moving.
 
@@ -164,7 +164,7 @@ Slow start. Non-negotiable. Anyone who tries to schedule a 9am activity for Satu
 
 **10-11am:** Bloody Marys. Beignets if you haven't. Sitting by the pool.
 
-**Noon:** Brunch. Late brunch. Somewhere that can handle a group of 15+ and doesn't rush you.
+**Noon:** Brunch. Late brunch. Somewhere that can handle the whole crew and doesn't rush you.
 
 ### Afternoon
 
