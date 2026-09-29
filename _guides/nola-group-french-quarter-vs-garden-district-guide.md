@@ -95,9 +95,7 @@ The choice between Bywater and LGD is really the underlying choice you've been t
 
 **Lower Garden District** sits one block from the St. Charles Streetcar, between the CBD and the Garden District proper. It has the quieter, residential feel of its upriver neighbor with faster access to downtown. Groups based here are on the Garden District side of the city.
 
-**Castleday Retreats** operates Bywater villas, up to 30 guests each with a private pool per villa — one of the highest-capacity options in the city on the FQ side.
-
-**The Syd** runs villas in the Lower Garden District, up to 22 guests each, with a shared heated pool and hot tub one block from the St. Charles Streetcar — the main large-group option on the GD side.
+**On the FQ side,** Bywater options include The Mazant (an 1880s guesthouse sleeping 18 with a heated pool and spa) and Castleday Retreats' larger villas. **On the GD side,** The Revelry offers apartment-style floors with separate billing, and Heirloom runs large-format homes across LGD and Central City.
 
 For the complete breakdown of how these two neighborhoods compare, the [Bywater vs. Lower Garden District deep comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) covers the full side-by-side across villa inventory, noise, walkability, and group type fit. And if you want to see all four main neighborhoods mapped against each other, the [NOLA neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) does that in one place.
 
@@ -157,7 +155,7 @@ The per-person cost advantage grows as group size increases. Villas also give yo
 
 The FQ vs. Garden District comparison is the right question for solo travelers and pairs. For large groups, the practical question is Bywater or Lower Garden District — and both neighborhoods are genuinely excellent.
 
-One anchors the FQ side, the other the GD side — see the Castleday and Syd notes above for what each looks like. Beyond those two, Heirloom's deeper inventory across LGD and Central City is worth checking if the first-choice villa is already booked; the [where-to-stay page](/where-to-stay/) covers the full field.
+One anchors the FQ side, the other the GD side — see the Bywater and Garden District options above for what each looks like. If the first-choice house is already booked, Heirloom's deeper inventory is worth checking; the [where-to-stay page](/where-to-stay/) covers the full field.
 
 One puts you on the French Quarter side. The other puts you on the Garden District side. The city is small enough that you'll visit both regardless of where you sleep.
 

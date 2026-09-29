@@ -194,8 +194,8 @@ Don't try to reunite the group mid-day when two subgroups are in different parts
 
 The hub needs to be a real hub — space enough for 20 people to disperse within it, come and go, be social or be alone, and feel like the full group is together even when half of them are out on their own track.
 
-**Castleday Retreats** — Bywater villas, 14-30 guests each. The common areas accommodate a full group and the private pool, courtyard, and kitchen make a genuinely good hub. When Track A comes back at 5pm from the museum, they can find the pool going and the kitchen open and have a full hour before Track B gets back from the golf course. That's what a good hub produces.
+**The Mazant** — an 1880s Bywater guesthouse sleeping 18. A shared pool and common areas make a genuinely good hub. When Track A comes back at 5pm from the museum, they can find the pool going and the kitchen open and have a full hour before Track B gets back from the golf course. That's what a good hub produces.
 
-The rest of the field fits the hub-and-spoke model too: The Syd (Lower Garden District, up to 22 guests, shared heated pool and outdoor kitchen — exactly the kind of "some people are back, some people are still out" informal gathering space the split schedule needs), Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
+The rest of the field fits the hub-and-spoke model too: Castleday Retreats' Bywater villas (private pool per villa), Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 Plan around your group's actual composition. Let the sub-schedules breathe. Come back together at the moments that matter.

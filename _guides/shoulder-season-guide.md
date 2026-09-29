@@ -209,11 +209,11 @@ The absence of a major festival doesn't mean the city feels flat — it means it
 
 Shoulder season rates apply to villas the same way they apply to hotels — often more so, since villa owners have more rate flexibility. The accommodation cost savings are a core part of the shoulder season value proposition.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. In shoulder season, the per-person cost at full occupancy becomes genuinely accessible budget-wise. The private pools are especially valuable in August — midday heat is best spent at the house. Full kitchens, the Herald, The Cocodrie, and The Florentine each providing the private space that makes a longer, less-structured trip work.
+**The Mazant** — An 1880s Bywater guesthouse sleeping 18 with a heated pool and spa. In the soft months, the per-person cost at full occupancy becomes genuinely accessible, and a pool is where midday August heat is best spent.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests each, with a shared heated pool, hot tub, sauna, and outdoor kitchen. The hot tub and sauna become relevant in January when outdoor temperatures drop. One block from the St. Charles Streetcar — in any weather, you're connected to the city without needing Ubers constantly.
+**The Revelry** — Central City apartment-style floors with a saltwater pool. A floor per crew and separate billing suit a longer, less-structured trip.
 
-In shoulder season, both properties are worth reaching out to directly for dates and availability. The flexibility around non-peak bookings can work in both directions.
+In the soft months, most big-group properties have more flexibility on rates, so ask about dates directly. For the largest selection, book 6+ months out.
 
 ---
 
