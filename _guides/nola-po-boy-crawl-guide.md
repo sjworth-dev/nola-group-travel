@@ -172,12 +172,14 @@ A po-boy crawl works well as the anchor activity for a day structured around eat
 
 A food crawl trip in New Orleans is best anchored in a neighborhood that gives you walkable access to the Bywater, Marigny, and French Quarter — the main po-boy geography.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. The Bywater is prime po-boy territory — neighborhood shops, minimal tourist density, and a walk from the French Quarter starting point. The Herald, The Cocodrie, and The Florentine each have full kitchens, which matters when half the group wants to cook that evening after a big food day. Private pools for the post-crawl recovery.
+**The Bywater** is prime po-boy territory — neighborhood shops, minimal tourist density, and a walk from the French Quarter starting point. Properties like The Mazant (an 1880s guesthouse sleeping 18 with a heated pool) or Castleday Retreats (private-pool villas) suit a crew that wants a kitchen for the evening after a big food day and a pool for post-crawl recovery.
 
 **Hotel Perle** — CBD/Warehouse District group suites (2-7 BR) with a rooftop pool. Separate bills suit a group with mixed food budgets, and the CBD puts you within walking range of the Quarter stops and a short ride from Uptown and Magazine Street.
 
-For food-focused trips centered on the Bywater and Marigny: Castleday's location is the better fit. For a hotel-style stay with separate bills: Hotel Perle covers that. See the [full field](/where-to-stay/) for everything in between.
+For food-focused trips centered on the Bywater and Marigny: a Bywater house is the better fit. For a hotel-style stay with separate bills: Hotel Perle covers that. See the [full field](/where-to-stay/) for everything in between.
 
 ---
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

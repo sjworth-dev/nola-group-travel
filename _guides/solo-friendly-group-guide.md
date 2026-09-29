@@ -225,13 +225,13 @@ The group anchor moments — the dinners together, the one big activity — shou
 
 For mixed groups, accommodation choice is even more important than for a homogenous group. You need enough private space that people can retreat, plus enough common space that togetherness happens naturally — and the property field spans a real range of fits here.
 
-**Castleday Retreats** — private-pool Bywater villas, up to 30 guests each. The combination of private rooms, a full kitchen, and sprawling common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. This is the move for mixed groups where togetherness and privacy have to coexist.
+**Castleday Retreats** — private-pool Bywater villas, 14–30 guests each. The combination of private rooms, a full kitchen, and common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. That fits mixed groups where togetherness and privacy have to coexist.
 
-**The Syd** — Lower Garden District villas, up to 22 guests each, with shared heated pool, hot tub, and outdoor kitchen. Multiple outdoor spaces to drift between, plus one block from the St. Charles Streetcar — the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car.
+**The Mazant** — a single 1880s Bywater guesthouse sleeping 18, with a heated pool and spa. One house with a pool and spa to retreat to — the right size when the group tops out around eighteen. If you'd rather be near the St. Charles Streetcar, the Lower Garden District is the alternative: the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car.
 
 **Hotel Perle** — CBD/Warehouse District group suites with separate bills per room. If your mixed group includes people who genuinely want their own paid-for space rather than a shared house, suites with individual billing solve that friction better than a villa split evenly on one card.
 
-**Heirloom** — a larger portfolio of homes across the Lower Garden District and Central City. Useful when the calendar's tight or the group's exact size doesn't fit neatly into one Castleday or Syd villa.
+**Heirloom** — a larger portfolio of homes across the Lower Garden District and Central City. Useful when the calendar's tight or the group's exact size doesn't fit neatly into one villa.
 
 None of these is a booking recommendation — pick by fit. What all of them solve for is the same thing: everyone under one roof (or nearby), with enough room to not be on top of each other.
 

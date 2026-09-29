@@ -211,11 +211,13 @@ Pool: You will use it every day, for multiple hours, and at times when shared po
 
 Air conditioning: Central air, not window units. Whole-house cooling in a large villa is the difference between everyone sleeping well and a crew that's degraded by day two. Ask about it before you book.
 
-**Bywater** is the best location for Satchmo SummerFest specifically. The Old US Mint is a ten-to-fifteen minute walk from the Bywater edge — or a short rideshare. You're also adjacent to Frenchmen Street in the Marigny. Castleday Retreats operates three private villas in the Bywater, each sleeping 14–30 guests with private pools, full kitchens, and central air. For a group of around sixteen, you're looking at a real bed for everyone — the villa floor plan is built around that. The Florentine villa is ADA-accessible. Properties like The Mazant in Bywater (1880s guesthouse, sleeps 18, heated pool) are another option for smaller crews in the same neighborhood.
+**Bywater** is the best location for Satchmo SummerFest specifically. The Old US Mint is a ten-to-fifteen minute walk from the Bywater edge — or a short rideshare. You're also adjacent to Frenchmen Street in the Marigny. Properties like The Mazant (1880s guesthouse, sleeps 18, heated pool) suit a crew of around sixteen who want one house, and Castleday Retreats runs private-pool villas for 14–30 guests if you'd rather have total seclusion.
 
-**Lower Garden District** is workable and often slightly cheaper even than the Bywater in August. The Syd's villas in the LGD sleep up to 22 each and share a heated pool, hot tub, and sauna. The St. Charles Streetcar runs one block away, which gets you to the French Quarter without a rideshare when the streets are open. August is when the heated pool and hot tub earn their keep: after a long day of festival and heat, a pool at night is the best possible ending.
+**Lower Garden District** is workable and often slightly cheaper even than the Bywater in August. Villas and apartment-style rentals there sit near the St. Charles Streetcar, which gets you to the French Quarter without a rideshare when the streets are open. August is when the heated pool and hot tub earn their keep: after a long day of festival and heat, a pool at night is the best possible ending.
 
 For groups that want to compare neighborhood options and weigh proximity versus other factors, the property field includes additional options — Heirloom has deep inventory across the LGD and Central City, and The Revelry in Central City offers apartment-style floors for groups that prefer some separation.
+
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
