@@ -1,19 +1,19 @@
 ---
 title: "The First Night Structure for a Large NOLA Group Trip"
-description: "How to land 10-30 people in New Orleans and set the trip up correctly: arrival window management, the orientation walk, first dinner strategy, and what not to do before night two."
+description: "How to land the whole crew in New Orleans and set the trip up correctly: arrival window management, the orientation walk, first dinner strategy, and what not to do before night two."
 category: "Planning & Logistics"
 card_title: "First Night Done Right"
-card_description: "The first night sets the tone for everything that follows. Here's how to land 10-30 people in NOLA without burning everyone out before night two actually starts."
-date: 2026-07-01
+card_description: "The first night sets the tone for everything that follows. Here's how to land the whole crew in NOLA without burning everyone out before night two actually starts."
+date: 2026-09-29
 ---
 
-The first night of a group trip to New Orleans is the most overrated night on the calendar and also the one most groups wreck.
+The first night of a group trip to New Orleans is the most overrated night on the calendar and also the one most groups wreck. (If you're still sequencing the bigger decisions, start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/).)
 
 The energy is high. Everyone is finally here. The city is doing its thing. The default move is to treat night one as the main event — go hard, stay late, do everything — and then spend the next two days managing the damage.
 
 The groups that have the best trips treat night one as setup, not climax. Light dinner. Orientation walk. Home at a reasonable hour. Night two is the peak. Night one is the runway.
 
-This guide is the structure: how to manage the arrival window when people show up at different times, how to run a first-night orientation walk that makes the whole group feel oriented, how to pick the right dinner, and how to end the night at the right moment.
+This guide is the structure, and it pairs with the [arrival-day orientation walk](/guides/nola-group-arrival-day-orientation-walk/) and the [villa arrival setup guide](/guides/villa-arrival-setup-guide/). Here's how to manage the arrival window when people show up at different times, how to run a first-night orientation walk that makes the whole group feel oriented, how to pick the right dinner, and how to end the night at the right moment.
 
 ---
 
@@ -51,7 +51,7 @@ The arrival window isn't wasted time — it's villa time. People get to see the 
 
 ## First Night Dinner: What Actually Works
 
-First-night dinner for a group of 15-25 is not the night for the landmark reservation. Save Commander's Palace, Galatoire's, and the two-hour prix fixe for night two or three, when everyone is rested and ready to appreciate a serious meal.
+First-night dinner for twenty people is not the night for the landmark reservation. Save Commander's Palace, Galatoire's, and the two-hour prix fixe for night two or three, when everyone is rested and ready to appreciate a serious meal.
 
 Night one dinner calls for a different profile: reliable, large-party-capable, neighborhood-appropriate, and easy enough that no one has to be "on."
 
@@ -63,7 +63,7 @@ Night one dinner calls for a different profile: reliable, large-party-capable, n
 | Not the most expensive place on your list | Save the budget for nights two and three |
 | Loud enough that table conversation isn't precious | Night one is loose; loud works |
 
-The restaurant categories that handle this best: large neighborhood Creole spots, oyster bar casual formats, and corner restaurant staples that have been seating groups of twenty for decades. If your villa is in the Bywater, the options are nearby. Lower Garden District puts you close to the Magazine Street corridor. French Quarter groups have the most density of large-party-capable restaurants, for better and worse.
+The restaurant categories that handle this best: large neighborhood Creole spots, oyster bar casual formats, and corner restaurant staples that have been seating groups of twenty for decades. If your villa is in the [Bywater](/neighborhoods/bywater/), the options are nearby. The [Lower Garden District](/neighborhoods/lower-garden-district/) puts you close to the Magazine Street corridor. French Quarter groups have the most density of large-party-capable restaurants, for better and worse.
 
 What to avoid on night one: the trendy reservation-only spot that requires everyone to be present at 7pm sharp; the prix fixe that runs two and a half hours; the rooftop bar that can't seat more than eight together.
 
@@ -107,6 +107,8 @@ The city is pulling. Everyone's energy is high. Someone says "let's just do one 
 | Later | You've front-loaded the trip and will spend day three managing consequences |
 
 The groups that end night one by midnight consistently have better trips. Not because they had less fun on night one — they often had more fun, because the evening didn't drag past the natural energy window — but because they banked the capacity for night two to actually be the peak it should be.
+
+If the group wants a real night out later in the trip, [drink pace management](/guides/nola-group-drink-pace-management-guide/) and a [late-night food crawl](/guides/nola-group-late-night-food-crawl-structure/) are how you keep it from eating day three.
 
 The organizer's job on night one is to call the end before the group wants to call it. "Great night — we're home by midnight so night two can be everything." Say this out loud before anyone goes out. Set the expectation. Then hold it.
 
