@@ -11,7 +11,7 @@ Essence Festival is the largest music festival in New Orleans and one of the lar
 
 For groups, Essence Fest is both an extraordinary opportunity and a logistical challenge. The city is at peak capacity. Accommodations go fast. Concerts sell out. Crowds are massive. Done right, it's one of the best weekends any group can have in New Orleans. Done wrong, it's an expensive, chaotic, overpriced version of the city.
 
-This guide is for groups who want to do it right.
+This guide is for groups who want to do it right. If you're still deciding which weekend to build the trip around, the [festival season calendar](/guides/festival-season-calendar/) lays out the year, and [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/) sequences the decisions from there.
 
 ## Quick Checklist
 
@@ -45,7 +45,7 @@ Beyond the official venues, the city itself is part of the festival: pop-up even
 
 **The combination:** Multiple days, multiple event types, multiple price points. A group can split: some people do the Superdome shows every night while others do the Convention Center programming and neighborhood events. You don't all have to do the same thing — see the [group size sweet spot guide](/guides/nola-group-group-size-sweet-spot-guide/) for how to plan when not everyone wants the same itinerary.
 
-**New Orleans in summer:** Yes, it's hot. The city in July is genuinely warm (high 80s-90s, very humid). Evening concerts at the Superdome are air-conditioned. But you need to plan for the heat in daytime activities — the [outdoor festival heat management guide](/guides/nola-group-outdoor-festival-heat-management/) covers the specifics.
+**New Orleans in summer:** Yes, it's hot, and it's also squarely in hurricane season (see the [hurricane season guide](/guides/nola-group-hurricane-season-guide/)). The city in July is genuinely warm (high 80s-90s, very humid). Evening concerts at the Superdome are air-conditioned. But you need to plan for the heat in daytime activities — the [outdoor festival heat management guide](/guides/nola-group-outdoor-festival-heat-management/) covers the specifics.
 
 **For groups staying together at a villa:** The large-group property experience is excellent during Essence weekend. Coming back to your own pool and house between events, having a common space to gather between sessions, being able to host your own pre- or post-show gathering — all of this makes the group trip significantly better than scattered hotel rooms.
 
@@ -104,13 +104,13 @@ This is where most groups get surprised.
 
 **Solutions:**
 
-**The St. Charles Streetcar:** If you're staying at The Syd in the Lower Garden District, the streetcar is one block away. The streetcar runs to Canal Street, putting you walking distance from the Convention Center and a short distance from the Superdome. It doesn't surge. It's slow but reliable.
+**The St. Charles Streetcar:** If your base is in the [Lower Garden District](/neighborhoods/lower-garden-district/), the streetcar is a short walk away. The streetcar runs to Canal Street, putting you walking distance from the Convention Center and a short distance from the Superdome. It doesn't surge. It's slow but reliable.
 
 **Walking:** For groups with energy, the walk from the French Quarter area to the Superdome is about 20-25 minutes. After concerts, walking in a large group is sometimes faster than waiting for rideshares.
 
 **Chartered van:** For Essence weekend specifically, booking a chartered 12-15 passenger van for the full weekend is worth considering. It guarantees your group moves together and eliminates surge pricing anxiety. Book this well in advance — they go fast for Essence weekend.
 
-**Pre-plan concert night logistics:** Before you go to the show, have a meeting point, a backup plan, and everyone's phones charged. Post-concert logistics for 15+ people require coordination.
+**Pre-plan concert night logistics:** Before you go to the show, have a meeting point, a backup plan, and everyone's phones charged. Post-concert logistics for a big group require coordination, and the [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) is the playbook.
 
 | Situation | Recommended Transport |
 |-----------|----------------------|
@@ -130,7 +130,7 @@ Essence Festival weekend in New Orleans is not just what's in the official sched
 
 **Neighborhood events:** Various venues and neighborhoods run their own Essence weekend programming — day parties, pop-up events, sponsored experiences, private parties. Some of these are ticketed, some are open. Follow local New Orleans event sources in the weeks before the festival.
 
-**Second line parades:** Second lines happen throughout the year in New Orleans. Essence weekend often sees organized second line activity. If there's one happening during your visit, join it.
+**Second line parades:** Second lines happen throughout the year in New Orleans. Essence weekend often sees organized second line activity. If there's one happening during your visit, join it — the [second line guide](/guides/second-line-guide/) covers how to do it without getting in the way.
 
 **Restaurant scene:** Every top restaurant in the city is fully booked during Essence weekend. The experience of eating in New Orleans during this weekend is excellent — the city is operating at full energy. Make reservations before you travel. This is not a week to walk up to Commander's Palace and hope for a table.
 
