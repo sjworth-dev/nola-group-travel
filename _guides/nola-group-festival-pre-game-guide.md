@@ -11,7 +11,7 @@ The difference between a group that thrives at a NOLA festival and a group that 
 
 This is the window that determines everything. Walk in hydrated, fed, sunscreened, carrying the right things, and with a clear meeting protocol established — and a full festival day is manageable even for a group of twenty. Walk in on two drinks and no food, sun already working on exposed skin, no plan for when someone gets separated — and you're in crisis mode before the second set of the afternoon.
 
-Jazz Fest, French Quarter Fest, and Voodoo Fest all have their specific logistics, but the pre-game window is essentially the same. These are the three hours that win or lose the day for your group.
+Jazz Fest, French Quarter Fest, and Voodoo Fest all have their specific logistics, but the pre-game window is essentially the same. These are the three hours that win or lose the day for your group. Once you're inside, the [Jazz Fest survival guide](/guides/nola-group-jazz-fest-survival-guide/) and the [festival exit strategy](/guides/nola-group-festival-exit-strategy-guide/) cover the rest of the day.
 
 ---
 
@@ -75,7 +75,7 @@ The professional approach: hydration loading is a two-day process, not a morning
 - Coffee is fine, but it's diuretic; offset it with additional water
 - Electrolyte packet in the first water bottle of the day
 - Before leaving the villa, everyone has consumed at least 32 oz of water that morning — this is the floor, not the goal
-- Carry water into the festival if the venue allows it. Jazz Fest allows sealed water bottles; confirm the policy for other festivals before you pack
+- Carry water into the festival if the venue allows it. Jazz Fest (full rundown in the [Jazz Fest group guide](/guides/jazz-fest-group-guide/)) allows sealed water bottles; confirm the policy for other festivals before you pack
 
 **At the festival:**
 
@@ -171,7 +171,7 @@ The core pre-game structure is the same across festivals, but each has specific 
 |---|---|
 | Jazz Fest | Gates open at 11am; lines build fast by 11:30am. Leave the villa by 10:15am for a 10:45am arrival if you want early access. The infield sets up before the crowds arrive. |
 | French Quarter Fest | Free festival; multiple entry points. Less pressure on arrival time but more variable crowd density. Establish meeting points inside the festival by stage name, not entry point. |
-| Voodoo Fest | Halloween weekend festival; City Park venue. Confirm parking logistics vs. rideshare; City Park rideshare pickup is congested on peak days. Leave earlier than you think. |
+| Voodoo Fest | Halloween weekend festival; City Park venue (see the [festival season calendar](/guides/festival-season-calendar/) for where it sits in the year). Confirm parking logistics vs. rideshare; City Park rideshare pickup is congested on peak days. Leave earlier than you think. |
 
 ---
 
