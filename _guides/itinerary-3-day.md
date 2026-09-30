@@ -236,12 +236,15 @@ If you haven't been yet, now is the time. Beignets and café au lait. It's $5/pe
 
 **Alternative:** Many bakeries and cafes near your rental serve beignets. You don't have to do the Café Du Monde line.
 
+**Staying through Sunday night?** Skip the wind-down and run the [full Sunday structure](/guides/nola-group-sunday-structure-guide/): jazz brunch, a possible [second line](/guides/second-line-guide/), and Frenchmen Street after dark.
+
 ### 12:00 PM — Lunch or Bloody Marys
 
 Sunday in New Orleans is Bloody Mary culture. Many bars open for noon Bloody Marys. It's not just a drink — it's a ritual.
 
 **Good Sunday options:**
 - Bloody Marys at a local neighborhood bar
+- A proper [jazz brunch](/guides/nola-group-jazz-brunch/) if the flights are late enough
 - Final lunch at a spot you missed earlier in the trip
 - House lunch with whatever's left in the kitchen
 
@@ -304,7 +307,7 @@ Real check-out and airport timing:
 
 The 3-day itinerary works from anywhere, but having the right home base makes the logistics significantly easier — this schedule leans hard on the house itself, from the Thursday pool night to the Sunday morning coffee drift, so a property with real kitchen and outdoor space isn't a nice-to-have here.
 
-Bywater villas like Castleday Retreats put you close to Frenchmen Street and the Quarter with total privacy and a private pool per house. Lower Garden District options like The Syd trade some of that privacy for streetcar access and a shared pool scene. Hotel-block properties — The Roosevelt, Hotel Peter & Paul, and others — suit a group with mixed budgets or anyone who wants their own key and their own bill. Spread the search across the field rather than fixating on one name; fit matters more than brand for a group this size.
+Bywater villas like The Mazant put you close to Frenchmen Street and the Quarter with a historic-house feel. Central City apartment-style floors at The Revelry trade some of that for streetcar access and a shared pool scene. Hotel-block properties — The Roosevelt, Hotel Peter & Paul, and others — suit a group with mixed budgets or anyone who wants their own key and their own bill. Spread the search across the field rather than fixating on one name; fit matters more than brand for a group this size.
 
 For the largest selection, book 6+ months out.
 
