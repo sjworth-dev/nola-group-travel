@@ -1744,3 +1744,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-09-30 UTC — seo: interlink `itinerary-3-day.md` — added links to the Sunday structure guide, second-line guide, and jazz brunch; neutralized Castleday/Syd in its closing paragraph (now Mazant/Revelry).
 2026-09-30 UTC — fix: property balance sweep — `_neighborhoods/warehouse-district.md`, `_neighborhoods/marigny.md` (removed unverified "three villas/30 guests" claims; now Mazant/Revelry per field list), `nola-group-slow-morning-guide.md` (Castleday/Syd → Mazant, dropped unverified amenity claims). 0 Castleday/Syd on all three.
 2026-09-30 UTC — backlog: no changes; Up Next left empty.
+2026-09-30 13:15 UTC — note: second run of the day. `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-09-30 13:15 UTC — expand: refresh `nola-group-drink-pace-management-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, new description, added 7 inline links (plan-a-group-trip, first-night, slow-morning, Saturday peak, hangover recovery, sober after dark, rain delay), replaced Syd example with Mazant/Revelry, bumped date.
+2026-09-30 13:15 UTC — seo: interlink `itinerary-5-day.md` — added links to drink pace and slow morning guides; neutralized Castleday/Syd (now Mazant/Revelry/Heirloom).
+2026-09-30 13:15 UTC — fix: property balance sweep — `new-years-guide.md`, `group-booking-guide.md` (Castleday/Syd → Mazant/Revelry/Roami), plus `itinerary-5-day.md` above (0 Castleday/Syd each); drink-pace guide also cleared of Syd.
+2026-09-30 13:15 UTC — backlog: no changes; Up Next left empty.
