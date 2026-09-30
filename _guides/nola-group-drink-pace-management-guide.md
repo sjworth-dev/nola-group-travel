@@ -1,17 +1,17 @@
 ---
-title: "Drink Pace Management on a Multi-Day NOLA Group Trip"
-description: "Managing drink pace across a 3-5 day New Orleans group trip: recognizing the burn rate, hydration logistics, the 2pm reset, and how organizers protect group members without being the fun police."
+title: "New Orleans Drinking Pace: Survive a Multi-Day Trip"
+description: "Pace your New Orleans group trip or lose half the crew by day three. The burn-rate curve, hydration logistics, and the 2pm reset that keeps everyone upright."
 category: "Planning & Logistics"
 card_title: "Managing Drink Pace Across the Trip"
-card_description: "NOLA is a marathon, not a sprint. Here's the drink pace reality for a 3-5 day group trip, how burn rate works, and how the organizer protects the group without becoming the fun police."
-date: 2026-07-02
+card_description: "NOLA is a marathon, not a sprint. Here's the drink pace reality for a multi-day group trip, how burn rate works, and how the organizer protects the group without becoming the fun police."
+date: 2026-09-30
 ---
 
 New Orleans is one of the few cities in the world where drinking starts with brunch and is still happening at 3am, where the legal walk-around cup turns every street into a bar, and where there is essentially no social nudge telling you to slow down. This is part of what makes it extraordinary. It's also why a five-day group trip without pace awareness can leave half the group destroyed by day three and calling the whole thing early.
 
 The burn rate is real. Most groups come in hot, treat day one like the last night of their lives, and are functionally broken by Thursday evening. The people who have a great five-day NOLA trip are the people who ran it like a marathon, not a sprint — who knew that a good Tuesday sets up a great Wednesday, and that a wreckage Tuesday means a write-off Wednesday.
 
-This guide is not about restricting anyone. It's about the structural and tactical moves that let a group go hard across multiple days without losing people to attrition. The organizer is not the fun police. They're the pacing coach.
+This guide is not about restricting anyone. It's about the structural and tactical moves that let a group go hard across multiple days without losing people to attrition. The organizer is not the fun police. They're the pacing coach. If you're still sequencing the whole trip, start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -35,9 +35,9 @@ Here's what the trip energy curve actually looks like for most groups:
 
 | Day | Typical energy | Common mistake | What actually works |
 |---|---|---|---|
-| Day 1 (Arrival) | High excitement, low fatigue | Going too hard the first night; staying out until 3am | Dinner, two or three bars, home by 1am max |
+| Day 1 (Arrival) | High excitement, low fatigue | Going too hard the first night; staying out until 3am | Dinner, two or three bars, home by 1am max (see the [first night structure guide](/guides/nola-group-first-night-structure-guide/)) |
 | Day 2 | High energy; cumulative fatigue not yet visible | Replicating day 1; treating every night as the peak | Build a rest window into the afternoon; don't replicate the night before |
-| Day 3 | First crash point for many groups | Pushing through instead of resting; skipping water | This is the day to build in a villa afternoon or an early evening |
+| Day 3 | First crash point for many groups | Pushing through instead of resting; skipping water | This is the day to build in a villa afternoon or an early evening; the [slow morning guide](/guides/nola-group-slow-morning-guide/) helps |
 | Day 4 | Recovery or second wind, depending on day 3 | If day 3 went sideways, day 4 is the real casualty | A recovered group can run hard on day 4 and 5 |
 | Day 5 (departure) | Variable; depends on how day 4 went | Last-night-of-the-trip energy that burns into the morning departure | Know your departure time; build the last night accordingly |
 
@@ -70,11 +70,11 @@ Hydration is logistics, not willpower. The groups that stay hydrated across a NO
 
 - Keep a case of water bottles (or a large filtered pitcher) in the kitchen and in a prominent spot in the main common area
 - Put a water bottle on every nightstand before the trip starts — people who wake up at 3am and reach for water before falling back asleep will be in better shape the next morning than those who don't
-- The morning after a late night, have water and electrolyte packets (Liquid IV, Pedialyte packets, whatever the group uses) accessible before coffee
+- The morning after a late night, have water and electrolyte packets (Liquid IV, Pedialyte packets, whatever the group uses) accessible before coffee. The [villa hangover recovery guide](/guides/nola-group-villa-hangover-recovery-guide/) covers the rest of the morning-after kit
 
 **The out-of-villa setup:**
 
-- Reusable bottles that can be refilled > buying individual bottles all day. Group of twenty going through individual plastic water bottles gets expensive and creates friction.
+- Reusable bottles that can be refilled > buying individual bottles all day. A group of twenty going through individual plastic water bottles gets expensive and creates friction.
 - Designate one person per day to carry a bag with a few extra water bottles for the group. This role rotates.
 - Normalize the group pause to hydrate. "Let's find a water stop before we go in" is not a buzz-kill phrase. Frame it correctly and it becomes standard.
 
@@ -146,7 +146,7 @@ This is the structure that gives most groups the best outcomes across a five-day
 
 **Day 4:** Recovered group, higher energy. This is often the best night of the trip when day three was paced correctly. Go hard.
 
-**Day 5 (Saturday/peak night):** The natural peak. The group knows the city, knows each other's pace, and is running on accumulated momentum rather than accumulated debt. This night earns itself.
+**Day 5 (Saturday/peak night):** The natural peak (here's how to [run the Saturday night peak](/guides/nola-group-saturday-night-peak-guide/)). The group knows the city, knows each other's pace, and is running on accumulated momentum rather than accumulated debt. This night earns itself.
 
 ---
 
@@ -160,7 +160,7 @@ This is the structure that gives most groups the best outcomes across a five-day
 
 4. **Food is neutral ground.** Almost every pace-related intervention can be framed as a food decision. "Let's grab something before the next bar" is never the fun police. It buys thirty minutes of eating and water for someone who needed it, and it moves the group forward.
 
-5. **Give people a guilt-free early exit every night.** "The group is out until 2am tonight but if you want to leave at midnight, just head back — the villa is [address]." Removing the social pressure to stay keeps people from pushing past their limits out of group dynamics rather than genuine enjoyment.
+5. **Give people a guilt-free early exit every night.** (The [sober activities after dark guide](/guides/nola-group-sober-activities-after-dark-guide/) gives them something to do instead.) "The group is out until 2am tonight but if you want to leave at midnight, just head back — the villa is [address]." Removing the social pressure to stay keeps people from pushing past their limits out of group dynamics rather than genuine enjoyment.
 
 6. **Watch the second day harder than the first.** Night one of a group trip usually has natural limits — people are tired from travel, everyone's a little cautious. Night two is when the real burn rate begins. Build the most visible rest window into day two's structure.
 
@@ -172,9 +172,9 @@ This is the structure that gives most groups the best outcomes across a five-day
 
 One of the structural advantages of a private villa for a large group trip is that the villa itself can function as a pace-management tool. The outdoor pool or courtyard gives people a place to decompress without leaving the group. The kitchen means food is available at 4pm without requiring a restaurant reservation. The common area gives people a place to be horizontal without fully opting out.
 
-Hotel rooms don't provide this. Hotel rooms are where you sleep, not where you recover. The difference matters on a five-day trip where the afternoon reset is part of what keeps the group running until the end.
+Hotel rooms don't provide this, and rain can force the same reset on you anyway — see the [rain delay bar strategy](/guides/nola-group-rain-delay-bar-strategy-guide/). Hotel rooms are where you sleep, not where you recover. The difference matters on a five-day trip where the afternoon reset is part of what keeps the group running until the end.
 
-Properties like The Mazant in the Bywater and The Syd in the Lower Garden District both have the outdoor spaces and common areas that make the afternoon reset genuinely pleasant rather than just practical — a pool, a courtyard, somewhere to be horizontal in the shade. The villa infrastructure is part of the pacing infrastructure.
+Properties like The Mazant in the Bywater (one historic house with a heated pool and spa) or The Revelry in Central City (apartment-style floors plus a saltwater pool) give the afternoon reset somewhere pleasant to happen. A hotel block works too if you book rooms near a pool or quiet lobby; the point is a place to be horizontal that isn't a bar.
 
 For the largest selection, book 6+ months out.
 
