@@ -1,10 +1,10 @@
 ---
-title: "The Perfect NOLA Sunday for Large Groups: Full Day Structure, Hour by Hour"
-description: "The best single-day group itinerary in New Orleans: jazz brunch, second line possibility, City Park or Crescent Park afternoon, Frenchmen Street evening — a complete Sunday structure for groups of 10-30."
+title: "The Perfect New Orleans Sunday for a Big Group, Hour by Hour"
+description: "The best single-day group itinerary in New Orleans: jazz brunch, second line possibility, City Park or Crescent Park afternoon, Frenchmen Street evening — a complete hour-by-hour Sunday for the whole crew."
 category: "Planning & Logistics"
 card_title: "The Perfect NOLA Sunday"
-card_description: "Sunday in New Orleans is the best day of the week if you do it right: jazz brunch, a second line or a long afternoon in the park, Frenchmen Street in the evening. Here's the full structure for groups of 10-30."
-date: 2026-07-01
+card_description: "Sunday in New Orleans is the best day of the week if you do it right: jazz brunch, a second line or a long afternoon in the park, Frenchmen Street in the evening. Here's the full structure for the whole crew."
+date: 2026-09-30
 ---
 
 Sunday in New Orleans is the best day of the week. This is not a matter of opinion. Every other city's Sunday is recovery. NOLA's Sunday is an itinerary.
@@ -13,14 +13,14 @@ The city has built a genuine culture around the Sunday rhythm: late morning jazz
 
 What most group trips miss: they treat Sunday as departure-adjacent, something to be endured with hangovers until the flight. The groups that figure out Sunday end up having the best day of the trip.
 
-This guide is the full structure: what time to do what, how to make the decisions, and what changes depending on your group's energy level and trip calendar.
+This is one day of a longer trip, so start with the [group trip planning hub](/guides/plan-a-group-trip/) if you haven't locked dates yet. This guide is the full structure: what time to do what, how to make the decisions, and what changes depending on your group's energy level and trip calendar.
 
 ---
 
 ## Quick Checklist
 
 - [ ] Check the Social Aid and Pleasure Club second line calendar before the trip — if a parade falls on your Sunday, build the day around it
-- [ ] Book the jazz brunch in advance — Commander's Palace, Dooky Chase, and French Quarter spots fill early on Sunday
+- [ ] Book the [jazz brunch](/guides/nola-group-jazz-brunch/) in advance — Commander's Palace, Dooky Chase, and French Quarter spots fill early on Sunday
 - [ ] Decide in advance between City Park/NOMA and Crescent Park based on energy level and neighborhood
 - [ ] Pack a bag for the afternoon: sunscreen, water bottles, a blanket if you're doing the park version
 - [ ] Set a meeting time for Frenchmen Street — 9:30pm is the standard arrival; anything before 9 is early
@@ -35,12 +35,12 @@ Sunday in NOLA has a natural structure that most locals follow instinctively. Gr
 
 | Time | Activity | Notes |
 |---|---|---|
-| 9:00–10:00am | Slow villa start | Coffee, light breakfast, recovery pace |
+| 9:00–10:00am | Slow start at the house or hotel | Coffee, light breakfast, recovery pace (see the [hangover recovery guide](/guides/nola-group-villa-hangover-recovery-guide/)) |
 | 10:30am–1:30pm | Jazz brunch | Main anchor of the morning; reservation required |
 | 1:30–3:00pm | Transition / walk off brunch | Walk through the neighborhood, Magazine Street stroll, or ride to the park |
 | 3:00–6:00pm | City Park, Crescent Park, or Bayou St. John | Extended afternoon outdoor anchor |
 | 4:30–6:30pm | Second line (if running) | Replaces or overlaps with the park afternoon |
-| 6:00–8:00pm | Villa return, reset, dinner | Home dinner or relaxed neighborhood restaurant |
+| 6:00–8:00pm | Home-base return, reset, dinner | Home dinner or relaxed neighborhood restaurant |
 | 9:30pm–midnight | Frenchmen Street | The best music in the city; free outdoor scene plus venues |
 | After midnight | Split — some home, some continue | Natural exit point; villa is the fallback |
 
@@ -54,7 +54,7 @@ The jazz brunch is the anchor. Don't skip it and don't treat it as optional. A p
 
 A few things to know before you book:
 
-**Reserve well in advance.** The good brunch spots book out weeks ahead on Sundays, especially parties of 15+. Call or email directly for large groups — OpenTable often doesn't handle parties above 8 or 10 well. Confirm the reservation the week before.
+**Reserve well in advance.** The good brunch spots book out weeks ahead on Sundays, especially for a party of fifteen or more. Call or email directly for large groups — OpenTable often doesn't handle parties above 8 or 10 well. Confirm the reservation the week before.
 
 **Ask about private dining rooms.** Many of the landmark restaurants have private rooms that can seat 20-30 people with their own server and a set menu. For large groups this is often better than getting scattered across multiple tables in the main dining room.
 
@@ -70,7 +70,7 @@ A few things to know before you book:
 
 The Social Aid and Pleasure Club second line parades happen most Sundays between early fall and late spring, running through specific residential neighborhoods on rotating routes. They are community events — organized and funded by neighborhood clubs, attended primarily by locals, and welcomed as an expression of a living cultural tradition.
 
-If a second line is happening on your Sunday, build the day around it.
+If a second line is happening on your Sunday, build the day around it. The [second line guide](/guides/second-line-guide/) covers the tradition, and the [Sunday second line chase guide](/guides/nola-group-sunday-second-line-chase-guide/) covers keeping twenty people together on the move.
 
 **How to find out if one is running:** The New Orleans Social Aid and Pleasure Club Task Force publishes parade schedules. Check the schedule before your trip. The information is public, but it changes.
 
@@ -132,7 +132,7 @@ If you're doing villa food: red beans and rice is the traditional Monday dish, b
 
 ## Frenchmen Street: The Sunday Evening Anchor
 
-Sunday night on Frenchmen Street is underrated by first-timers, who assume it's weaker than Friday or Saturday. It's not — it's different.
+Sunday night on Frenchmen Street (see the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) for picking rooms) is underrated by first-timers, who assume it's weaker than Friday or Saturday. It's not — it's different.
 
 Sunday Frenchmen has a higher local-to-tourist ratio than the weekend. The bands are often locals playing for locals. The vibe is looser, less performative. The Frenchmen Art Market runs late most Sunday nights. The outdoor energy between the clubs — people talking, moving, listening to music spilling out from three venues simultaneously — is excellent.
 
@@ -144,7 +144,7 @@ Sunday Frenchmen has a higher local-to-tourist ratio than the weekend. The bands
 
 **Cover charges:** Expect $5-15 cover at most of the music venues. The more established the act, the higher the cover. Have cash.
 
-**Group size logistics:** A group of 20 will not stay together on Frenchmen Street, and they shouldn't try to. Split into smaller clusters of 4-6, agree on a 1am meeting point (the Art Market is reliable), and let people move as they want. This is the right call.
+**Group size logistics:** Twenty people will not stay together on Frenchmen Street, and they shouldn't try to. Split into small clusters of four to six, agree on a 1am meeting point (the Art Market is reliable), and let people move as they want. This is the right call.
 
 ---
 
@@ -152,11 +152,11 @@ Sunday Frenchmen has a higher local-to-tourist ratio than the weekend. The bands
 
 1. **If a second line is running, cancel your other afternoon plan.** You can do City Park on a Tuesday. The second line is only on this Sunday, in this neighborhood, with this specific band and community. Prioritize it.
 
-2. **Sunday jazz brunch reservations require more lead time than people expect.** Two weeks minimum for a group of 15+. Four weeks during festival season. Call directly; don't rely on a platform that doesn't take large parties.
+2. **Sunday jazz brunch reservations require more lead time than people expect.** Book as early as you can for a big party, and call directly; don't rely on a platform that doesn't take large parties.
 
 3. **The Frenchmen Art Market is open late and free.** Even if your group splits on Frenchmen Street — some going into venues, some not — the Art Market is a consistent anchor that everyone can use.
 
-4. **Crescent Park at sunset is one of the better free experiences in NOLA.** A group of 20 people on the Piety Street wharf watching the sun go down over the river doesn't need a paid activity attached to it. It's complete on its own.
+4. **Crescent Park at sunset is one of the better free experiences in NOLA.** Twenty people on the Piety Street wharf watching the sun go down over the river doesn't need a paid activity attached to it. It's complete on its own.
 
 5. **Sunday brunch cocktails are strong and early.** If the group is having a Bloody Mary and a Ramos Gin Fizz at 11am and then planning a full afternoon and evening, pace accordingly. The Sunday structure runs 12+ hours. You don't need to be at full throttle at 11am.
 
@@ -172,7 +172,7 @@ Sunday in NOLA is when the villa earns its cost. The brunch-to-park-to-Frenchmen
 
 A hotel block splits your group across rooms and floors — the transitions are logistically complex, and the "home base" feeling doesn't really exist. A villa gives you a shared kitchen table for the 9am coffee, a courtyard for the 6pm villa reset, and a living room couch for the midnight wind-down.
 
-Properties like The Mazant in the Bywater put you within walking distance of Crescent Park and a short rideshare from NOMA and Frenchmen Street. Properties like The Syd in the Lower Garden District put you on the St. Charles Streetcar line — useful for the Magazine Street transition and the brunch neighborhoods. Both give you the actual infrastructure Sunday in NOLA requires.
+Properties like The Mazant in the Bywater put you within walking distance of Crescent Park and a short rideshare from NOMA and Frenchmen Street. Apartment-style options like The Revelry in Central City or Heirloom's large-format homes put you closer to the streetcar and Magazine Street — useful for the afternoon stroll. Both give you the actual infrastructure Sunday in NOLA requires.
 
 For the largest selection, book 6+ months out.
 
