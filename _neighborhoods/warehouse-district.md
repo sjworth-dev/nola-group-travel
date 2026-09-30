@@ -25,7 +25,7 @@ For groups, the Warehouse District is the most practical base in the city after 
 
 **Large-group rentals.** Like the French Quarter, the Warehouse District is more of a hotel neighborhood than a rental neighborhood. Large-group properties are limited. Most groups using the Warehouse District as a base will be in hotels — which means your 20 people are scattered across different floors, not together in one house.
 
-**The solution:** Stay at a large-group property nearby and treat the Warehouse District as a destination. A Bywater villa like Castleday puts you 10-15 minutes away by rideshare; a Lower Garden District villa is closer to 10 minutes. Hotel Perle's own suites sit right in the Warehouse District itself if the group would rather skip the commute entirely.
+**The solution:** Stay at a large-group property nearby and treat the Warehouse District as a destination. A Bywater house like The Mazant puts you 10-15 minutes away by rideshare; a Lower Garden District base is closer to 10 minutes. Hotel Perle's own suites sit right in the Warehouse District itself if the group would rather skip the commute entirely.
 
 **Noise and tourism.** The Warehouse District is quieter than the Quarter but busier than residential neighborhoods. Proximity to the Convention Center means you'll occasionally share the streets with large convention crowds.
 
@@ -158,7 +158,7 @@ The Warehouse District is about 10-15 minutes by rideshare from most of the city
 
 The Warehouse District itself has limited options for a group at full headcount — hotels can work logistically, but they scatter the group across floors. For the best experience, stay at a large-group property nearby and treat the Warehouse District as a destination rather than a base.
 
-A Bywater villa like Castleday puts the group together under one roof with a private pool, 10-15 minutes away by rideshare (or a scenic walk via Crescent Park). A Lower Garden District villa, including The Syd, runs closer to 10 minutes and sits on the same Magazine Street corridor as many of the restaurants above. Heirloom's larger inventory across the Lower Garden District and Central City is worth checking for short-notice availability. If the group wants suites with separate bills instead of a shared house, Hotel Perle's own group suites sit right in the Warehouse District, and a downtown hotel room block is another option. Confirm current amenities directly before booking rather than assuming a specific pool or kitchen setup.
+A Bywater house like The Mazant puts the group together under one roof, 10-15 minutes away by rideshare (or a scenic walk via Crescent Park). A Lower Garden District base runs closer to 10 minutes and sits on the same Magazine Street corridor as many of the restaurants above. Heirloom's larger inventory across the Lower Garden District and Central City is worth checking for short-notice availability. If the group wants suites with separate bills instead of a shared house, Hotel Perle's own group suites sit right in the Warehouse District, and a downtown hotel room block is another option. Confirm current amenities directly before booking rather than assuming a specific pool or kitchen setup.
 
 For the largest selection, book 6+ months out.
 

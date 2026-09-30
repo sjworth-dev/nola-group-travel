@@ -167,8 +167,8 @@ The tradition of beignets and chicory coffee at Café Du Monde, which opens earl
 
 A slow morning at a villa is different from a slow morning at a hotel in the ways that matter. Common space. A real kitchen. Outdoor space that belongs exclusively to your group. No checkout pressure. No hotel breakfast logistics.
 
-**Castleday Retreats** — Bywater villas, 14-30 guests each, with a full kitchen equipped for a group's coffee and breakfast operation, large common areas where the group can spread out in the morning without crowding each other, and a private courtyard and pool for the people who want morning outdoor time. The Bywater neighborhood in the morning is one of the more pleasant walking experiences in the city — tree-lined streets, not yet tourist-heavy, the neighborhood going about its actual morning.
+**The Mazant** — an 1880s Bywater guesthouse sleeping 18, with a heated pool and spa for the people who want morning outdoor time. The Bywater neighborhood in the morning is one of the more pleasant walking experiences in the city — tree-lined streets, not yet tourist-heavy, the neighborhood going about its actual morning.
 
-The rest of the field works too for a slow-morning base: The Syd (Lower Garden District, up to 22 guests, shared heated pool and outdoor kitchen, a block from the St. Charles Streetcar), Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
+The rest of the field works too for a slow-morning base: Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 Schedule at least one slow morning. Don't let the optimizer in the group take it away.

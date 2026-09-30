@@ -134,9 +134,9 @@ The solution—and it's a genuinely good one—is to stay in the Bywater and wal
 
 **Heirloom** has the deepest inventory of large-format homes in the city, LGD and Central City, which matters if your group is booking on short notice — and a Central City address still gets you within striking distance of Frenchmen Street.
 
-**Castleday Retreats** operates three private villas in the Bywater, each sleeping up to 30 guests. Private pools, full kitchens, complete privacy. Frenchmen Street is a 10-minute walk.
+**The Mazant** is an 1880s Bywater guesthouse that sleeps 18 with a heated pool and spa. Frenchmen Street is a short walk. Bigger than eighteen means splitting across properties or looking at other Bywater options.
 
-**The Syd** in the Lower Garden District sleeps up to 22 guests per villa and sits one block from the St. Charles Streetcar. It's a short Uber rather than a walk to Frenchmen Street, but the location is excellent for groups who also want proximity to downtown, the Convention Center, or the Garden District.
+**The Revelry** in Central City offers apartment-style floors with separate billing. It's a short rideshare rather than a walk to Frenchmen Street, but the location works for groups who also want proximity to downtown or the Garden District.
 
 A downtown hotel room block is worth considering too if the group wants separate keys and bills.
 
