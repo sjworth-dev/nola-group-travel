@@ -106,7 +106,7 @@ Stages are clustered in a few main areas. Understanding the geography helps you 
 
 ## Logistics for Large Groups
 
-The logistics of FQF are actually simpler than most festivals because there are no tickets. No wristbands to manage, no gates to get everyone through, no entry queues.
+The logistics of FQF are actually simpler than most festivals because there are no tickets. (If you're weighing it against the ticketed option, the [Jazz Fest survival guide](/guides/nola-group-jazz-fest-survival-guide/) shows what you'd be signing up for instead.) No wristbands to manage, no gates to get everyone through, no entry queues.
 
 **What you still need to manage:**
 
@@ -239,9 +239,9 @@ The French Quarter is walkable from almost any city-center accommodation. You do
 
 5. **The river is underrated.** Woldenberg Park and the Moonwalk along the Mississippi are some of the best spots to hear music at FQF while having room to breathe. Go there.
 
-6. **Give everyone the same 5 PM meeting point.** Groups fragment at festivals. This is fine. But you need a default rally spot that everyone knows without checking the group chat.
+6. **Give everyone the same 5 PM meeting point.** Groups fragment at festivals. This is fine. (The [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers getting everyone out at closing time.) But you need a default rally spot that everyone knows without checking the group chat.
 
-7. **Plan one festival-free afternoon.** Four straight days of crowds is a lot. A pool afternoon or a museum visit gives everyone a reset and makes the festival days better.
+7. **Plan one festival-free afternoon, and a [pre-game](/guides/nola-group-festival-pre-game-guide/) plan for the mornings.** Four straight days of crowds is a lot. A pool afternoon or a museum visit gives everyone a reset and makes the festival days better.
 
 ---
 
@@ -249,11 +249,13 @@ The French Quarter is walkable from almost any city-center accommodation. You do
 
 April is competitive. If you're bringing the whole crew to French Quarter Fest, you need accommodations that can actually hold everyone under one roof — and that means not counting on a block of separate hotel rooms to work out.
 
-A [Bywater](/neighborhoods/bywater/) villa puts you close enough to walk to FQF or take a short rideshare, and far enough from the chaos that your home base stays peaceful — a private pool becomes the decompression chamber at the end of festival days, which, after hours of crowds and sound, is exactly what a large group needs. A Lower Garden District villa on the St. Charles streetcar line gets you to the Quarter quickly with a shared pool and hot tub for the between-festival hours. A hotel room block in the CBD or Warehouse District trades private amenities for own-key flexibility and mixed-budget billing. Spread the search across the property field rather than fixating on one name — fit matters more than brand for a group this size.
+A [Bywater](/neighborhoods/bywater/) house such as The Mazant puts you close enough to walk to FQF or take a short rideshare, and far enough from the chaos that your home base stays peaceful. An apartment-style option like The Revelry in Central City gives each crew its own floor and its own bill. A hotel room block in the CBD or Warehouse District trades private amenities for own-key flexibility and mixed-budget billing. Spread the search across the property field rather than fixating on one name — fit matters more than brand for a group this size.
 
 ---
 
 ## Go This April
+
+Planning the rest of the year's dates? The [festival season calendar](/guides/festival-season-calendar/) lays them out, and the [planning hub](/guides/plan-a-group-trip/) sequences the decisions.
 
 French Quarter Festival doesn't require a lot of planning. It rewards being present. Show up in the French Quarter, follow your ears, eat well, and stay until the music stops.
 
