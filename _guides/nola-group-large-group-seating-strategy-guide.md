@@ -1,17 +1,17 @@
 ---
-title: "Large Group Restaurant Seating in New Orleans: The Real Guide"
-description: "How auto-grat works, how to negotiate for a private room, what 20 people looks like at one table vs. three tables of six, and how to find restaurants that actually want large groups versus the ones that just tolerate them."
+title: "Large Group Restaurant Seating in New Orleans"
+description: "Book the private room, call instead of clicking, and ask about auto-grat up front. How to seat twenty people together in New Orleans without a foyer standoff."
 category: "Food & Drink"
 card_title: "Large Group Seating: The Real Guide"
 card_description: "Most NOLA restaurants weren't designed for twenty people. Some handle it well, most tolerate it, and a few are genuinely built for it. Here's how to tell the difference and how to navigate the ones that aren't."
-date: 2026-07-02
+date: 2026-10-01
 ---
 
-New Orleans has one of the most celebrated restaurant cultures in the country. It also has a lot of dining rooms that were built for parties of four. Getting twenty people seated together, served properly, and out the door without a two-hour ordeal requires knowing which restaurants are actually set up for this and what the mechanics look like when you're booking.
+Verdict: book the private room, and book it by phone. New Orleans has one of the most celebrated restaurant cultures in the country. It also has a lot of dining rooms that were built for parties of four. Getting twenty people seated together, served properly, and out the door without a two-hour ordeal requires knowing which restaurants are actually set up for this and what the mechanics look like when you're booking.
 
-The restaurants that are genuinely good at large groups are not always the famous ones. The Galatoire's and Commander's Palaces of the city have private rooms and decades of experience handling large parties — but so do a lot of mid-tier neighborhood spots that know how to turn a table of twenty with minimal friction. The places that struggle most with large groups are often the trendy mid-sized spots where the kitchen rhythm is built for a different kind of service.
+The restaurants that are genuinely good at large groups are not always the famous ones. The Galatoire's and Commander's Palace have private rooms and decades of experience handling large parties — but so do a lot of mid-tier neighborhood spots that know how to turn a table of twenty with minimal friction. The places that struggle most with large groups are often the trendy mid-sized spots where the kitchen rhythm is built for a different kind of service.
 
-This guide covers how to evaluate a restaurant for large-group capacity before you book, how the auto-grat conversation works, what to expect from a private room versus a main dining room reservation, and how to make the dinner actually run instead of collapse.
+This guide sits one step below the [landmark restaurant booking guide](/guides/nola-group-landmark-restaurant-booking-guide/) and the broader [restaurant guide](/guides/restaurant-guide/). It covers how to evaluate a restaurant for large-group capacity before you book, how the auto-grat conversation works, what to expect from a private room versus a main dining room reservation, and how to make the dinner actually run instead of collapse. Still sequencing the whole trip? Start with the [planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -148,7 +148,7 @@ Large group dinners generally work better with a pre-set or limited menu than wi
 | Family style | Multiple dishes arrive in the center and are shared | Most natural for a group dinner; conversation flows around sharing rather than individual plates |
 | Hybrid (choose your protein) | Set courses with protein choice | Good balance; some flexibility without full à la carte complexity |
 
-**What to ask when booking:** "For a group of our size, do you have a family-style or prix fixe option?" Not all restaurants offer this, but many that serve large groups regularly do. A family-style dinner for twenty is often a significantly better experience than twenty people doing individual à la carte orders at different paces.
+**What to ask when booking:** Dietary mix across the table? The [mixed-diet restaurant strategy](/guides/nola-group-mixed-diet-restaurant-strategy-guide/) covers it. Then ask: "For a group of our size, do you have a family-style or prix fixe option?" Not all restaurants offer this, but many that serve large groups regularly do. A family-style dinner for twenty is often a significantly better experience than twenty people doing individual à la carte orders at different paces.
 
 ---
 
@@ -158,9 +158,9 @@ Some neighborhoods are better structured for large-group dining than others, bot
 
 | Neighborhood | Large Group Dining Reality |
 |---|---|
-| French Quarter | Highest density of large-party-capable restaurants; private rooms at landmark institutions; most experience with group dining at scale |
+| French Quarter | See the [French Quarter guide](/neighborhoods/french-quarter/). Highest density of large-party-capable restaurants; private rooms at landmark institutions; most experience with group dining at scale |
 | Garden District / Uptown | Landmark restaurants (Commander's Palace) with full private dining infrastructure; neighborhood spots with courtyard capacity |
-| Warehouse District | Growing corridor of restaurants specifically designed for pre-event large groups; private rooms are common |
+| Warehouse District | See the [Warehouse District dining guide](/guides/nola-group-warehouse-district-dining-guide/). Growing corridor of restaurants specifically designed for pre-event large groups; private rooms are common |
 | Bywater | Fewer large-party-specific options but several spots known for handling groups; more casual formats |
 | Mid-City | Less large-group infrastructure; neighborhood restaurants tend to cap out earlier on party size |
 | Marigny / Frenchmen | Mostly casual and bar-forward; not the neighborhood for a formal large group dinner |
@@ -189,9 +189,9 @@ Some neighborhoods are better structured for large-group dining than others, bot
 
 One alternative to restaurant dining that most groups underutilize: the villa itself as the dinner venue. A well-equipped villa kitchen with a private courtyard can host a dinner for twenty that a restaurant can't match for group cohesion, flexibility, and the ability to make it genuinely yours.
 
-The math works better at larger group sizes. A private chef for twenty-five people, with ingredients and cleanup, can come out favorably compared to twenty-five covers at a restaurant with auto-grat, drinks, and the inevitable per-person price creep of à la carte ordering.
+The math works better at larger group sizes. The [private chef vs. villa cooking comparison](/guides/nola-group-private-chef-vs-villa-cooking-guide/) runs the numbers. A private chef for twenty-five people, with ingredients and cleanup, can come out favorably compared to twenty-five covers at a restaurant with auto-grat, drinks, and the inevitable per-person price creep of à la carte ordering.
 
-Properties like The Revelry in Central City and The Syd in the Lower Garden District are both designed for this hybrid model — private space with full entertaining infrastructure that can support either a private chef night or a group cook-together without the logistical friction of moving twenty people to a restaurant.
+Large-format rentals such as Heirloom's homes or The Mazant in the Bywater suit this model: a kitchen and shared space for a private chef night or a group cook-together, minus the logistics of moving twenty people to a restaurant. Hotels with room blocks make more sense when the dinner is the only thing the whole crew does together.
 
 For the largest selection, book 6+ months out.
 
