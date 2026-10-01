@@ -178,7 +178,7 @@ The most historically dense parts of New Orleans — the French Quarter, Tremé,
 
 A Bywater base sits adjacent to the Marigny and within easy walking or biking distance of Frenchmen Street and the Tremé, and roughly 20 minutes on foot (or a short Uber) from the French Quarter's cemetery and history district. A Lower Garden District base sits closer to Lafayette Cemetery and the Garden District historical walk, with the St. Charles Streetcar — itself running since 1835 — a block away in some properties. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the fuller math on when a private house beats a hotel room block for a group this size, and the [budget guide](/guides/budget-guide/) runs the per-person numbers either way.
 
-Properties like Castleday Retreats (private-pool Bywater villas) or The Syd (Lower Garden District villas one block from the streetcar) represent the kind of purpose-built group housing that fits a history-focused trip; a hotel room block remains a fine answer for a group that wants separate keys and bills. Neither is a booking recommendation — pick by proximity to the history your group actually wants to see.
+Properties like The Mazant (an 1880s Bywater guesthouse) or a Heirloom large-format home fit a history-focused trip; a hotel room block remains a fine answer for a group that wants separate keys and bills. None of these is a booking recommendation — pick by proximity to the history your group actually wants to see.
 
 For the largest selection, book 6+ months out.
 

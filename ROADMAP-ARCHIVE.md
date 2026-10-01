@@ -1754,3 +1754,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-01 UTC — seo: interlink `french-quarter-fest.md` — added links to Jazz Fest survival, festival exit strategy, festival pre-game, festival season calendar, and plan-a-group-trip; neutralized lodging paragraph (Mazant/Revelry).
 2026-10-01 UTC — fix: property balance sweep — `nola-group-ride-share-master-guide.md`, `nola-group-noise-neighbors-villa-guide.md`, `nola-group-new-orleans-saints-bar-guide.md` (Castleday/Syd → Mazant/Revelry/Heirloom; 0 Castleday/Syd each).
 2026-10-01 UTC — backlog: no changes; Up Next left empty.
+2026-10-01 13:17 UTC — note: second run of the day. `## Up Next` empty, so no new page (ROADMAP human-gate wins over the runner prompt's "generate backlog" line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-01 13:17 UTC — expand: refresh `nola-group-night-photography-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, new description, added 6 inline links (group photography, first-night, Saturday peak, Marigny, French Quarter, Bywater, walking tour), removed unverified mural-location specifics and fixed-summer blue-hour times, swapped Syd for Mazant/Revelry/Hotel Perle, bumped date.
+2026-10-01 13:17 UTC — seo: interlink `bachelor-party.md` — added link to the night photography guide in the nightlife section.
+2026-10-01 13:17 UTC — fix: property balance sweep — `guys-weekend-guide.md`, `halloween-guide.md`, `haunted-history-guide.md` (Castleday/Syd → Mazant/Revelry/Heirloom; 0 Castleday/Syd each).
+2026-10-01 13:17 UTC — backlog: no changes; Up Next left empty.

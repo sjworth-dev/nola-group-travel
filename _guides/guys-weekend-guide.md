@@ -215,7 +215,7 @@ This is where it either comes together or falls apart. A crew scattered across f
 
 You need one place. One kitchen. One common area. Ideally, one pool. That's true whether you're cooking meals, running poker nights, or just want pool time built into the itinerary — a private villa is logistics, not a luxury, once the group hits real size. The [group size guide](/guides/group-size-guide/) breaks down how that math changes as the headcount climbs.
 
-The property field spans a real range of fits. **Castleday Retreats**, private-pool Bywater villas, is the answer if total privacy and space to spread out matter most — no neighbors, no noise complaints, walking distance to Frenchmen Street. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, puts a shared pool and hot tub within easy reach of the CBD and Superdome — the pick for a more sports-and-nightlife-focused crew. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add deeper inventory and short-notice availability if the calendar's tight. None of these is a booking recommendation — pick by fit.
+The property field spans a real range of fits. **The Mazant**, an 1880s Bywater guesthouse that sleeps 18 with a heated pool and spa, suits one crew that wants a single historic house and Frenchmen Street on foot. **The Revelry**, apartment-style Central City floors with a saltwater pool and separate billing, suits a more sports-and-nightlife crew splitting costs by floor. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add deeper inventory and short-notice availability if the calendar's tight. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 
