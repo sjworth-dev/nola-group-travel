@@ -185,8 +185,8 @@ Where the group sleeps matters more on gameday than on a normal night out — yo
 
 A few examples of how different large-group setups fit the day:
 
-- **Bywater villas** (Castleday Retreats is one option) put you a short rideshare from the bars near the Quarter and CBD, with room for a villa breakfast before kickoff and the neighborhood's music scene as a natural landing spot afterward.
-- **Lower Garden District villas** (The Syd is one option) sit a block off the St. Charles Streetcar — ride it downtown for the game and back after the final whistle, with shared outdoor space for the post-game debrief.
+- **Bywater villas** (The Mazant is one option) put you a short rideshare from the bars near the Quarter and CBD, with room for a villa breakfast before kickoff and the neighborhood's music scene as a natural landing spot afterward.
+- **Lower Garden District villas** (The Revelry and Heirloom's homes are options) sit near the St. Charles Streetcar — ride it downtown for the game and back after the final whistle, with outdoor space for the post-game debrief.
 - **Heirloom's** larger inventory across the LGD and Central City is worth a look if the game got added to your trip on short notice.
 - **Hotel room blocks** (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work well for mixed budgets or groups who each want their own key and bill.
 

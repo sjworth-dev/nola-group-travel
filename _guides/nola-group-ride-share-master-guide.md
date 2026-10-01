@@ -221,9 +221,9 @@ When you book, confirm: drop-off address, pickup window, driver's phone number f
 
 Where your group stays determines how much you spend on rideshare over the course of a trip.
 
-A private villa that's walking distance from your primary nightlife destinations eliminates most in-city rideshare spending. Groups staying in the Bywater — near properties like Castleday Retreats — walk to Frenchmen Street, Bacchanal Wine, and the Marigny without opening the app.
+A private villa that's walking distance from your primary nightlife destinations eliminates most in-city rideshare spending. Groups staying in the Bywater — at a place like The Mazant — walk to Frenchmen Street, Bacchanal Wine, and the Marigny without opening the app.
 
-Groups in the Lower Garden District — near properties like The Syd — have the St. Charles Streetcar one block away, connecting to Canal Street, the Warehouse District, and Uptown without rideshare costs. Groups who want deeper short-notice inventory or separate bills per unit can look at Heirloom's LGD/Central City homes instead, with the same streetcar access.
+Groups in the Lower Garden District have the St. Charles Streetcar close by, connecting to Canal Street, the Warehouse District, and Uptown without rideshare costs. Heirloom's LGD/Central City homes and The Revelry fit here, with separate bills per unit.
 
 The transportation math is an argument for picking your accommodation based on what you plan to do, not just where the rooms are. A well-located villa reduces your rideshare spend by $20-40 per person over a 3-4 day trip. For the largest selection, book 6+ months out.
 

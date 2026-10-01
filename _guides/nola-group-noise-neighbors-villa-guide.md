@@ -169,7 +169,7 @@ The neighborhoods where these villas sit have a specific character. Being a good
 - The corner stores and local bars in Bywater are not tourist venues. They're neighborhood spots. Being a respectful customer in a neighborhood bar means tipping well, not occupying space for hours without ordering, and being aware that the regulars were there first.
 
 **Lower Garden District norms:**
-- The LGD has more mixed residential/commercial energy than Bywater. Magazine Street, one block from The Syd, is commercial and tourist-facing. The residential blocks between Magazine and Prytania are not.
+- The LGD has more mixed residential/commercial energy than Bywater. Magazine Street is commercial and tourist-facing. The residential blocks between Magazine and Prytania are not.
 - The St. Charles Streetcar corridor is public space with its own etiquette: let people off before getting on, give seats to elderly passengers, keep noise at conversation level.
 
 ---
@@ -208,7 +208,7 @@ What doesn't work is the approach where the outdoor party continues without modi
 
 The properties that work for large groups long-term in these neighborhoods have thought carefully about the indoor/outdoor balance and have built properties that support both — private outdoor space (pool, courtyard) for the afternoon and evening, large interior common areas for when the party has to move inside.
 
-In Bywater, that's Castleday Retreats' villas: private pools and courtyards outdoors, big interior common rooms that don't feel like a downgrade once the music comes in. In the Lower Garden District, The Syd's shared courtyard, pool, and hot tub are the outdoor phase, one block from the St. Charles Streetcar if the group wants to leave the property rather than push past its window. Heirloom's homes span both neighborhoods and are worth checking if neither of those fits your dates. Read whichever property's house rules carefully before arrival — they reflect the neighborhood context this guide is about.
+In Bywater, that's a house with a pool and courtyard outdoors and big interior common rooms that don't feel like a downgrade once the music comes in; The Mazant is one example. In the Lower Garden District and Central City, shared courtyards and pools at places like The Revelry serve as the outdoor phase, with the St. Charles Streetcar nearby if the group wants to leave rather than push past its window. Heirloom's homes span both areas and are worth checking if neither fits your dates. Read whichever property's house rules carefully before arrival — they reflect the neighborhood context this guide is about.
 
 See [where to stay for large groups](/where-to-stay/) for the full field. For the largest selection, book 6+ months out.
 
