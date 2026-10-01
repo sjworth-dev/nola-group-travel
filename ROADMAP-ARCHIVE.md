@@ -1749,3 +1749,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-09-30 13:15 UTC — seo: interlink `itinerary-5-day.md` — added links to drink pace and slow morning guides; neutralized Castleday/Syd (now Mazant/Revelry/Heirloom).
 2026-09-30 13:15 UTC — fix: property balance sweep — `new-years-guide.md`, `group-booking-guide.md` (Castleday/Syd → Mazant/Revelry/Roami), plus `itinerary-5-day.md` above (0 Castleday/Syd each); drink-pace guide also cleared of Syd.
 2026-09-30 13:15 UTC — backlog: no changes; Up Next left empty.
+2026-10-01 UTC — note: run after 2026-09-30 13:15. `## Up Next` empty, so no new page (ROADMAP human-gate wins over the runner prompt's "generate backlog" line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-01 UTC — expand: refresh `nola-group-large-group-seating-strategy-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, new verdict-first description and intro, added 6 inline links (landmark restaurant booking, restaurant guide, plan-a-group-trip, mixed-diet strategy, private chef vs villa cooking, Warehouse District dining, French Quarter), replaced Syd/Revelry closing with Heirloom/Mazant, bumped date.
+2026-10-01 UTC — seo: interlink `french-quarter-fest.md` — added links to Jazz Fest survival, festival exit strategy, festival pre-game, festival season calendar, and plan-a-group-trip; neutralized lodging paragraph (Mazant/Revelry).
+2026-10-01 UTC — fix: property balance sweep — `nola-group-ride-share-master-guide.md`, `nola-group-noise-neighbors-villa-guide.md`, `nola-group-new-orleans-saints-bar-guide.md` (Castleday/Syd → Mazant/Revelry/Heirloom; 0 Castleday/Syd each).
+2026-10-01 UTC — backlog: no changes; Up Next left empty.
