@@ -130,6 +130,8 @@ Reserve at least three weeks out for a double-digit table, by phone. **The call 
 
 **Know the street rules before the first go-cup:** plastic yes, glass no — the [open container guide](/guides/nola-group-open-container-law-guide/) is the two-minute read that keeps the night simple.
 
+Want one decent photo of the whole crew before the night gets blurry? The [night photography guide](/guides/nola-group-night-photography-guide/) picks the spots (Royal Street, not Bourbon) and the 20-minute window.
+
 ## How Much Does a New Orleans Bachelor Party Cost?
 
 Per person, three nights:
