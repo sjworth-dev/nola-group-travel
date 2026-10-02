@@ -229,6 +229,7 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 | Backup deodorant | Again: NOLA summer |
 | Bachelorette essentials | Sashes, props, whatever your kit includes |
 | Light wrap or layer | AC is aggressive inside everywhere |
+| Compact umbrella or poncho | Afternoon downpours are common in the warm months; see the [rain delay bar plan](/guides/nola-group-rain-delay-bar-strategy-guide/) |
 | Medication / band-aids | Someone always needs something |
 
 ---
@@ -255,7 +256,7 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 
 A villa works better than a hotel room block for a day-drinking day like this one. Hotel rooms mean a lobby return between stops; a villa means a pool, a kitchen, and a place to land between phases — including the villa rest hour, which is most of the point.
 
-The Bywater puts you within walking distance of brunch, the afternoon bar, and Frenchmen Street, which is why it's the neighborhood this itinerary is built around — see the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) for a version built entirely around that base. A Bywater house like The Mazant — an 1880s guesthouse that sleeps 18 — puts everyone in a real bed rather than a bunk. The Lower Garden District is the other common base: villas like The Syd sit a block from the St. Charles Streetcar, which covers the CBD, French Quarter, and Frenchmen in under 15 minutes if your group wants to range further during the day. Neither is a recommendation over the other — pick by how much ground you want to cover on foot versus by streetcar.
+The Bywater puts you within walking distance of brunch, the afternoon bar, and Frenchmen Street, which is why it's the neighborhood this itinerary is built around — see the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) for a version built entirely around that base. A Bywater house like The Mazant — an 1880s guesthouse that sleeps 18 — puts everyone in a real bed rather than a bunk. The Lower Garden District is the other common base: large-format homes and apartment-style floors (Heirloom, The Revelry) sit near the St. Charles Streetcar, which covers the CBD, French Quarter, and Frenchmen in under 15 minutes if your group wants to range further during the day. Neither is a recommendation over the other — pick by how much ground you want to cover on foot versus by streetcar.
 
 For the largest selection, book 6+ months out — if you're still working out the rest of the trip's timeline, the [group-trip planning hub](/guides/plan-a-group-trip/) sequences the whole booking process in order.
 
