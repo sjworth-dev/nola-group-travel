@@ -31,9 +31,9 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 **Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. The deepest inventory, which matters when a reunion's dates are fixed by the family calendar rather than by availability.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30. Private pools (great for kids), full kitchens.
+**The Revelry** — Central City apartment-style floors (6–9 guests each) plus a saltwater pool, so each branch of the family gets its own floor and its own bill.
 
-**The Syd** — Villas in the Lower Garden District sleeping up to 22 each, with a shared heated pool and hot tub, near the streetcar.
+**The Mazant** — One 1880s Bywater guesthouse sleeping 18, with a heated pool and spa, for a reunion that fits under a single roof.
 
 **Hotel room blocks** (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) — If the family would rather have separate bills and own-key privacy than a shared house, this trades the communal kitchen for individual rooms.
 

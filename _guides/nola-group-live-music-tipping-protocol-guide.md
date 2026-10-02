@@ -185,7 +185,7 @@ Musicians are not the only people in the live music ecosystem. At Frenchmen Stre
 
 The best large group music evenings end back at the base. After Frenchmen Street, after a brass band, after a second line — the debrief is part of the experience. What was the best song of the night. Which musician stood out. Who tipped and who didn't. This is the kind of conversation a common area with room to sit handles well and a hotel lobby can't.
 
-A base in the [Bywater or Marigny](/neighborhoods/marigny/) makes the walk home from Frenchmen Street realistic instead of a rideshare surge-price gamble. Castleday Retreats has private-pool villas in the Bywater built for exactly this; The Mazant, a few blocks over, is one historic Bywater house with a heated pool for a single group that maxes out around 18. Groups that would rather have separate bills or hotel service altogether should weigh a room block at one of the CBD/Warehouse District hotels instead — the [nightlife guide](/guides/nightlife-guide/) covers how each base changes your late-night walk home. Whichever fits, for the largest selection, book 6+ months out.
+A base in the [Bywater or Marigny](/neighborhoods/marigny/) makes the walk home from Frenchmen Street realistic instead of a rideshare surge-price gamble. The Mazant is one historic Bywater house with a heated pool for a single group that maxes out around 18. Groups that would rather have separate bills or hotel service altogether should weigh a room block at one of the CBD/Warehouse District hotels instead — the [nightlife guide](/guides/nightlife-guide/) covers how each base changes your late-night walk home. Whichever fits, for the largest selection, book 6+ months out.
 
 ---
 
