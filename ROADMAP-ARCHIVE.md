@@ -1764,3 +1764,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-02 UTC — seo: interlink `bachelorette-day-drinking-itinerary.md` — added rain delay guide link; neutralized Syd (Heirloom/Revelry).
 2026-10-02 UTC — fix: property balance sweep — `bar-crawl-guide.md`, `activities-guide.md`, `accessible-group-guide.md` (Castleday/Syd → Mazant/Heirloom/Revelry; 0 Castleday/Syd each).
 2026-10-02 UTC — backlog: no changes; Up Next left empty.
+2026-10-02 13:18 UTC — note: second run of the day. `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-02 13:18 UTC — expand: refresh `nola-group-saturday-night-peak-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, verdict-first intro and description, added 9 inline links (restaurant guide, Bywater bar crawl, Marigny, live music, French Quarter at night, late-night jazz, Bourbon Street, jazz brunch, Sunday structure, ride-share, first night, plan-a-group-trip), replaced Syd with Perle/Revelry, bumped date.
+2026-10-02 13:18 UTC — seo: interlink `nola-group-new-orleans-vs-las-vegas-guide.md` — added Saturday night playbook link in nightlife section.
+2026-10-02 13:18 UTC — fix: property balance sweep — `nola-group-live-music-tipping-protocol-guide.md`, `family-reunion.md`, `nola-group-foodie-itinerary-guide.md` (Castleday/Syd → Mazant/Revelry/Heirloom; 0 Castleday/Syd each).
+2026-10-02 13:18 UTC — backlog: no changes; Up Next left empty.
