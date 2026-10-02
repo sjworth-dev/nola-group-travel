@@ -1759,3 +1759,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-01 13:17 UTC — seo: interlink `bachelor-party.md` — added link to the night photography guide in the nightlife section.
 2026-10-01 13:17 UTC — fix: property balance sweep — `guys-weekend-guide.md`, `halloween-guide.md`, `haunted-history-guide.md` (Castleday/Syd → Mazant/Revelry/Heirloom; 0 Castleday/Syd each).
 2026-10-01 13:17 UTC — backlog: no changes; Up Next left empty.
+2026-10-02 UTC — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-02 UTC — expand: refresh `nola-group-rain-delay-bar-strategy-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, new description, added 8 inline links (Jazz Fest, Crescent Park, walking tours, Saturday night, jazz clubs, French Quarter, drink pace, open container, plan-a-group-trip), removed unverified venue names, replaced Syd with Heirloom/Revelry, bumped date.
+2026-10-02 UTC — seo: interlink `bachelorette-day-drinking-itinerary.md` — added rain delay guide link; neutralized Syd (Heirloom/Revelry).
+2026-10-02 UTC — fix: property balance sweep — `bar-crawl-guide.md`, `activities-guide.md`, `accessible-group-guide.md` (Castleday/Syd → Mazant/Heirloom/Revelry; 0 Castleday/Syd each).
+2026-10-02 UTC — backlog: no changes; Up Next left empty.
