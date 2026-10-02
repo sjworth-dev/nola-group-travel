@@ -1,15 +1,15 @@
 ---
-title: "Rain Delay Bar Strategy for Large NOLA Groups"
-description: "What to do when outdoor plans get rained out mid-afternoon in New Orleans: which bar districts absorb large groups unplanned, interior venues with space, and the two-hour pivot playbook for the whole crew."
+title: "Rain Delay in New Orleans: Bar Plan for a Big Group"
+description: "Rained out in New Orleans with the whole crew? Skip the corner-waiting: head to the Quarter, pick a landing bar, and run the two-hour pivot playbook."
 category: "Planning & Logistics"
 card_title: "The Rain Delay Pivot"
 card_description: "NOLA rain hits fast and hard. Here's the two-hour pivot playbook for the whole crew when outdoor plans evaporate mid-afternoon."
-date: 2026-07-02
+date: 2026-10-02
 ---
 
 New Orleans rain does not care about your itinerary. One hour you're at the riverfront watching barges; forty-five minutes later a wall of water has materialized from nowhere and you're standing under an awning trying to figure out what to do with nineteen people who were supposed to be at a second line parade.
 
-The summer and fall rain pattern in NOLA is predictable in its unpredictability: heavy, fast, and usually over in thirty to ninety minutes. The city drains poorly. The streets flood. And a group of twenty people standing on a corner in a downpour is exactly the coordination nightmare that turns a great trip into a resentful group chat.
+The warm-season rain pattern (hurricane season runs June–November, and summer afternoons are the usual offenders) in NOLA is predictable in its unpredictability: heavy, fast, and usually over in thirty to ninety minutes. The city drains poorly. The streets flood. And a group of twenty people standing on a corner in a downpour is exactly the coordination nightmare that turns a great trip into a resentful group chat.
 
 The groups that handle this well have a rain protocol before the rain happens. Not a vague plan — a specific playbook. Which neighborhood, which two or three bars, who leads the movement, and how the group reconvenes after. This guide is that playbook.
 
@@ -28,13 +28,13 @@ The groups that handle this well have a rain protocol before the rain happens. N
 
 ## How NOLA Rain Works (and Why It Matters for Groups)
 
-Most NOLA rain events in the warm months follow the same pattern: clear morning, building clouds by early afternoon, a hard downpour somewhere between 2pm and 5pm that lasts anywhere from twenty minutes to two hours, then clearing.
+Most NOLA rain events in the warm months follow the same pattern: clear morning, building clouds by early afternoon, a hard downpour that most often lands somewhere between 2pm and 5pm that lasts anywhere from twenty minutes to two hours, then clearing.
 
 This matters for group planning because it means:
 
-1. **Morning activities (9am–noon) are low risk.** Plantation tours, cemetery walks, Crescent Park — book early if you want outdoor certainty.
-2. **Early afternoon (1pm–3pm) is the highest-risk window.** Jazz festival grounds, riverfront walks, Bywater bike rides. These are the activities most likely to get interrupted.
-3. **Eves and late evenings usually clear.** Frenchmen Street crowds post-rain; the Quarter runs regardless.
+1. **Morning activities (9am–noon) are low risk.** Plantation tours, cemetery walks, [walking tours](/guides/nola-group-walking-tour-guide/) — book early if you want outdoor certainty.
+2. **Early afternoon (1pm–3pm) is the highest-risk window.** [Jazz Fest](/guides/jazz-fest-group-guide/) grounds, riverfront walks, [Crescent Park](/guides/nola-group-crescent-park-riverside-guide/), Bywater bike rides. These are the activities most likely to get interrupted.
+3. **Eves and late evenings usually clear.** Frenchmen Street crowds post-rain; the Quarter runs regardless. Rain doesn't cancel [Saturday night](/guides/nola-group-saturday-night-peak-guide/).
 
 The worst group decisions happen when people assume the rain will stop in ten minutes and stand on a street corner waiting. It might. It might not. The group that moves to a bar fifteen minutes into the rain is warmer, drier, and having a better time than the group that waited forty-five minutes hoping for a break.
 
@@ -70,12 +70,12 @@ Not every neighborhood is equally ready for a surprise group of twenty at 3pm on
 |---|---|---|---|
 | French Quarter | Excellent | Dense bar options; walk-around cups; bars open all day; some with courtyard cover | Bourbon Street handles volume but not necessarily good drinks; look for the side streets |
 | Magazine Street / LGD | Very Good | Long corridor of bars with indoor seating; neighborhood bars with actual space | Thins out past Felicity going toward Uptown; best between Jackson and Louisiana |
-| Frenchmen Street | Good (limited) | Several bars but small venues; outdoor Art Market is soaked | Best for the Spotted Cat and the Maison for indoor live music; limited floor space for big groups |
-| Bywater / St. Claude | Good | Bar density on St. Claude; some with full indoor space | Bacchanal has covered outdoor space; actual shelter depends on venue |
+| Frenchmen Street | Good (limited) | Several bars but small venues; outdoor Art Market is soaked | Indoor live music rooms, but limited floor space for big groups; see the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) |
+| Bywater / St. Claude | Good | Bar density on St. Claude; some with full indoor space | Shelter depends on the venue; check for a real roof before you commit |
 | Uptown | Moderate | Neighborhood bars along Magazine and Maple; less dense | Better for smaller sub-groups splitting off than for the full twenty |
 | Warehouse District | Moderate | Hotel bars with space; some restaurant bars | Better suited to convention groups already in the district |
 
-**The French Quarter is the default rain pivot for most large groups** — not because the drinks are the best, but because the density of options means you will find somewhere that can absorb twenty people without advance notice. You can walk half a block to the next option if the first is too crowded.
+**The [French Quarter](/neighborhoods/french-quarter/) is the default rain pivot for most large groups** — not because the drinks are the best, but because the density of options means you will find somewhere that can absorb twenty people without advance notice. You can walk half a block to the next option if the first is too crowded.
 
 ---
 
@@ -96,7 +96,7 @@ Most NOLA bars are not designed for a group of twenty to walk in cold and hold a
 - Music venues that have early-evening shows will sometimes have open floor space before doors; call ahead
 - Restaurant bars with separate bar areas (not just the restaurant's bar) often work for the 3–5pm window when dinner service hasn't started
 
-The walk-around cup is your friend here. If one bar is at capacity, take your drinks and move. NOLA's open-container laws on most public streets mean you don't have to stand in a packed room waiting for space — you can move the group down the block with drinks in hand.
+Pace yourselves, since a rain delay is how a two-drink afternoon becomes a six-drink one ([drink pace guide](/guides/nola-group-drink-pace-management-guide/)). The walk-around cup is your friend here. If one bar is at capacity, take your drinks and move. New Orleans' [open-container rules](/guides/nola-group-open-container-law-guide/) mean you don't have to stand in a packed room waiting for space — you can move the group down the block with drinks in hand.
 
 ---
 
@@ -114,7 +114,7 @@ In the morning group message, name the rain pivot for the day. "We're doing the 
 
 **At the pivot moment:**
 
-One person sends the group chat message with the address. Not a group discussion — a decision. "We're going to [address]. Meet there in 15." This is exactly what the logistics lead or the day's assigned role person does.
+One person sends the group chat message with the address. Not a group discussion — a decision. "We're going to [address]. Meet there in 15." This is exactly what the logistics lead or the day's assigned role person does. New to the roles idea? Start with the [trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -157,7 +157,7 @@ That is not a bad thing. The groups that frame this correctly — "we have a fre
 
 The structural advantage of a single private villa is nowhere more visible than on a rain day. Hotels scatter the group across floors; a villa keeps everyone in the same building. When the afternoon goes sideways, everyone can come back to one address, change out of wet clothes, and regroup around a kitchen table with drinks from the house bar.
 
-The walk-in-the-rain return to a villa with a covered porch, an outdoor kitchen, or a courtyard that drains well is fundamentally different from returning to a hotel corridor. Groups staying at properties like Heirloom's large-format homes and The Syd in the Lower Garden District have this base-camp advantage — the villa becomes the rain delay's resolution, not just a place to sleep.
+The walk-in-the-rain return to a villa with a covered porch, an outdoor kitchen, or a courtyard that drains well is fundamentally different from returning to a hotel corridor. Groups in large-format homes (Heirloom) or apartment-style floors (The Revelry) have this base-camp advantage — the villa becomes the rain delay's resolution, not just a place to sleep.
 
 For the largest selection, book 6+ months out.
 
