@@ -292,7 +292,7 @@ Beyond ghost tours, New Orleans has excellent walking tour options covering hist
 
 The right home base makes activity logistics infinitely easier. A central property with parking, space to stage groups, and flexibility on check-in timing is worth paying for.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests, with a private pool per villa. The Bywater is close to the Quarter (for most tours), the Marigny, and Frenchmen Street. Easy staging ground for daily activities.
+**The Mazant** — A historic Bywater guesthouse sleeping 18, with a heated pool and spa. The Bywater is close to the Quarter (for most tours), the Marigny, and Frenchmen Street. Easy staging ground for daily activities.
 
 **Heirloom** — Large-format homes across the Lower Garden District and Central City, with the deepest inventory in the market — useful if the group's headcount or dates need flexibility. Magazine Street walkable. Central to the whole city.
 
