@@ -1769,3 +1769,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-02 13:18 UTC — seo: interlink `nola-group-new-orleans-vs-las-vegas-guide.md` — added Saturday night playbook link in nightlife section.
 2026-10-02 13:18 UTC — fix: property balance sweep — `nola-group-live-music-tipping-protocol-guide.md`, `family-reunion.md`, `nola-group-foodie-itinerary-guide.md` (Castleday/Syd → Mazant/Revelry/Heirloom; 0 Castleday/Syd each).
 2026-10-02 13:18 UTC — backlog: no changes; Up Next left empty.
+2026-10-03 UTC — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-03 UTC — expand: refresh `nola-group-souvenir-strategy-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, verdict-first intro, new description, added 7 inline links (shopping, gifting, Bywater, Magazine Street, Warehouse District, vinyl, French Market, plan-a-group-trip), softened Frenchmen Art Market hours claim, replaced Syd with Mazant/Lookout Inn/Revelry/Heirloom, bumped date.
+2026-10-03 UTC — seo: interlink `first-timer-guide.md` — added links to plan-a-group-trip, Saturday night, rain delay, and souvenir guides.
+2026-10-03 UTC — fix: property balance sweep — `nola-group-magazine-street-full-day-guide.md`, `nola-food-delivery-guide.md`, `nola-group-abita-brewery-day-trip.md` (Castleday removed; Syd reduced/neutralized, Mazant/Revelry/Heirloom added).
+2026-10-03 UTC — backlog: no changes; Up Next left empty.
