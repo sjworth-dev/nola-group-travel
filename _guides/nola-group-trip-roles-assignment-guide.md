@@ -1,19 +1,19 @@
 ---
-title: "How to Assign Trip Roles Before You Arrive in New Orleans"
-description: "The logistics lead, the food researcher, the transport coordinator, the camera person, the treasurer — what each role prevents for groups of 10-30 and how to avoid one person doing everything."
+title: "New Orleans Group Trip Roles: Who Does What"
+description: "Name five roles before you land: logistics, food, transport, camera, treasurer. Here is what each owns and how to stop one person doing everything."
 category: "Planning & Logistics"
 card_title: "Assign Trip Roles Before You Arrive"
 card_description: "Every group trip has someone doing everything and everyone else doing nothing. Here's how to distribute the five key roles before you arrive so no one person carries the whole trip."
-date: 2026-07-02
+date: 2026-10-03
 ---
 
-Every large group trip has a logistics person. Sometimes they signed up for it. More often they didn't, but they're the most organized person in the group, so it defaulted to them by social gravity. By day two they're fielding forty texts, making every decision, and quietly resenting the three people in the group who haven't looked at a single plan document.
+**Verdict: name five roles a week before you fly, or the organizer does all five.** Every large group trip has a logistics person. Sometimes they signed up for it. More often they didn't, but they're the most organized person in the group, so it defaulted to them by social gravity. By day two they're fielding forty texts, making every decision, and quietly resenting the three people in the group who haven't looked at a single plan document.
 
 This is not a personality flaw in the organizer. It's a structural failure that was predictable from the beginning. When one person holds all the logistics, two things happen: the trip runs on their capacity as a ceiling, and they have a noticeably worse experience than everyone else.
 
-The fix is not complicated. Before you leave, name five roles. Assign one person to each. Each person owns their domain and handles it. The logistics lead is no longer the default answer to every question. The group arrives in New Orleans with a team that actually functions as a team.
+The fix is not complicated. Before you leave, name five roles. (If you are still at the "which neighborhood, which weekend" stage, start with [How to Plan a Group Trip to New Orleans](/guides/plan-a-group-trip/) and come back.) Assign one person to each. Each person owns their domain and handles it. The logistics lead is no longer the default answer to every question. The group arrives in New Orleans with a team that actually functions as a team.
 
-This guide covers the five roles, what each one does and doesn't do, who in a typical group is right for each, and how to have the role-assignment conversation without making it weird.
+Below: the five roles, what each one does and doesn't do, who in a typical group is right for each, and how to have the conversation without making it weird. The shared-document side lives in [the group communication guide](/guides/group-communication-guide/) and the money side in [the money management guide](/guides/nola-group-money-management-guide/).
 
 ---
 
@@ -22,7 +22,7 @@ This guide covers the five roles, what each one does and doesn't do, who in a ty
 - [ ] Assign roles at least one week before the trip — not on arrival day
 - [ ] Communicate the role assignments to the full group so everyone knows who to ask for what
 - [ ] Each role owner should send the group a one-paragraph brief of what they've done before the trip starts
-- [ ] No person holds more than one role; if the group is small (10-12), some roles can be combined but the total workload should still distribute
+- [ ] No person holds more than one role; if the group is on the smaller side, some roles can be combined but the total workload should still distribute
 - [ ] All role owners check in with each other two days before departure for a final sync
 - [ ] The logistics lead does NOT own all five roles by default just because no one else stepped up — that's the exact problem this system is designed to prevent
 
@@ -62,7 +62,7 @@ This guide covers the five roles, what each one does and doesn't do, who in a ty
 
 **Pre-trip deliverables:**
 - A restaurant shortlist with at least three options per meal category (breakfast spots, lunch stops, dinner reservations)
-- Actual reservations booked for the key dinners, especially Saturday night
+- Actual reservations booked for the key dinners, especially Saturday night (see [the Saturday night guide](/guides/nola-group-saturday-night-peak-guide/))
 - A compilation of the group's dietary restrictions sent to relevant restaurants in advance
 - A shared list or doc with addresses and any booking confirmations
 
@@ -81,9 +81,9 @@ This guide covers the five roles, what each one does and doesn't do, who in a ty
 **What this person typically looks like:** The one who enjoys logistics puzzles, who has thought about ride-sharing math before, who notices when the group is about to make an inefficient transport decision and has a better idea.
 
 **Pre-trip deliverables:**
-- A confirmed plan for airport arrival — whether that's a shared charter van, a staggered rideshare arrangement, or self-organized with a villa meeting time
+- A confirmed plan for airport arrival (start with [the airport transfer guide](/guides/nola-airport-transfer-guide/)) — whether that's a shared charter van, a staggered rideshare arrangement, or self-organized with a villa meeting time
 - An understanding of the transit options in the neighborhood (streetcar, rideshare, bike share, walkable corridors)
-- A departure day logistics brief: who needs to leave when, how, and where bags are staged
+- A departure day logistics brief (see [arrival and departure logistics](/guides/group-arrival-departure-guide/)): who needs to leave when, how, and where bags are staged
 
 **On-trip role:** When the group needs to move, the transport coordinator knows the plan. They're not doing physical driving — they're the person who knows whether the group is walking, ridesharing, or taking the streetcar before anyone opens the Uber app.
 
@@ -101,7 +101,7 @@ This guide covers the five roles, what each one does and doesn't do, who in a ty
 
 **Pre-trip deliverables:**
 - A list of three to five specific photo moments they want to capture during the trip (the arrival group shot, the first night dinner table, the landmark shot, the last morning)
-- The NOLA locations that photograph well based on time of day (Crescent Park at sunset, the Garden District mansions at golden hour, Frenchmen Art Market at night)
+- The NOLA locations that photograph well based on time of day (Crescent Park at sunset, the Garden District mansions at golden hour)
 
 **On-trip role:** Calls the group photo moment. Says "everyone get together" and means it. Also makes sure they are in the photos, not just taking them. The self-timer and "can someone hold my phone" are tools the camera person uses, not signs of failure.
 
@@ -118,7 +118,7 @@ This guide covers the five roles, what each one does and doesn't do, who in a ty
 **What this person typically looks like:** The one who already uses Splitwise or similar apps naturally, who doesn't let financial loose ends slide, who is comfortable saying "I'll track it, but everyone needs to log what they spend."
 
 **Pre-trip deliverables:**
-- A Splitwise group (or equivalent) set up and everyone added before the trip
+- A Splitwise group (or equivalent; [money management](/guides/nola-group-money-management-guide/) covers the rules) set up and everyone added before the trip
 - A clear brief to the group: what categories get tracked (shared meals, groceries, shared transport, group activities — not individual drinks at a bar)
 - An agreement on whether the group is splitting equally or tracking each person's individual expenses
 
@@ -152,7 +152,7 @@ The main obstacle to role assignment is the conversation itself. People feel lik
 
 **Don't announce and then wait for volunteers.** For each role, identify the one or two people in the group who are naturally suited to it and ask them directly. "You already research restaurants obsessively — can you be the food person for this trip?" is a much more productive conversation than "does anyone want to be the food person?"
 
-**Acknowledge that some roles are heavier than others.** The logistics lead and the treasurer carry more pre-trip weight. The camera person's work is mostly on-trip. Be honest about this and factor it into who gets what.
+**Acknowledge that some roles are heavier than others.** The logistics lead and the treasurer carry more pre-trip weight. The camera person's work is mostly on-trip, and [the group photography guide](/guides/group-photography-guide/) covers the shot list. Be honest about this and factor it into who gets what.
 
 **The person who organized the trip should not automatically take the logistics lead.** They often do, and they often already have the most work. Push to distribute the logistics lead role to someone else on the trip who has capacity for it. The original organizer can be the food researcher or treasurer, where the pre-trip lift is more defined and finite.
 
@@ -191,13 +191,13 @@ The main obstacle to role assignment is the conversation itself. People feel lik
 
 ## Large Groups and the Role System
 
-The role system described here scales with group size, but it becomes more critical as the group gets larger. A group of ten can function with a single motivated organizer doing most of the work. A group of twenty-five cannot — the decision load, the coordination surface area, and the communication complexity all grow nonlinearly.
+The role system scales with headcount, and it matters more the bigger the crew gets. A group of ten can limp along with one motivated organizer. A group of twenty-five cannot — the decision load, the coordination surface area, and the communication complexity all grow nonlinearly.
 
-For groups at the larger end of this range (20+), consider adding a **sub-group lead** role for groups that are going to split into smaller units at any point. This person owns the coordination between the sub-groups — knowing who is where, when the sub-groups are reconvening, and carrying the communication if people are in different neighborhoods.
+When the trip hits twenty or more, consider adding a **sub-group lead** role for groups that are going to split into smaller units at any point. This person owns the coordination between the sub-groups — knowing who is where, when the sub-groups are reconvening, and carrying the communication if people are in different neighborhoods.
 
 Having a well-structured group also makes the accommodation itself more functional. When the villa is the base camp and everyone knows their role in the group's infrastructure, the shared space works. The logistics lead doesn't have to do everything because the food researcher has dinner handled, the transport coordinator has the departure covered, and the treasurer has the money sorted.
 
-Properties like The Lookout Inn in the Bywater and The Syd in the Lower Garden District are both designed for groups that function this way — not just spaces to sleep, but base camps that support a group operating as a real unit.
+Roles also decide what you need from the place you sleep. A crew that splits into sub-groups suits apartment-style floors with separate billing, like The Revelry or Roami. A crew that wants one shared living room suits a single large house like The Mazant. Hotel room blocks at The Roosevelt or Hotel Peter & Paul keep everyone on their own key and bill. Pick by how your group actually behaves.
 
 For the largest selection, book 6+ months out.
 
