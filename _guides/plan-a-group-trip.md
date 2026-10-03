@@ -72,7 +72,7 @@ The one structural rule for groups: plan mornings loosely and evenings firmly, a
 
 Ground transport is the last real decision — how eighteen people move between a house, a restaurant, and a second line without a 45-minute rideshare shuffle. The [transportation guide](/guides/transportation-guide/) does the van-versus-rideshare math.
 
-Then send one message with everything in it — address, door codes, dinner times, weather, packing notes. The [welcome packet guide](/guides/group-welcome-packet-guide/) has a template, and the [safety guide](/guides/nola-group-safety-guide/) covers the handful of real rules worth including. One info dump beats forty questions in the chat, and it's the difference between an organizer who enjoys the trip and one who works it.
+Then send one message with everything in it — address, door codes, dinner times, weather, packing notes. The [welcome packet guide](/guides/group-welcome-packet-guide/) has a template, and the [safety guide](/guides/nola-group-safety-guide/) covers the handful of real rules worth including. One info dump beats forty questions in the chat, and it's the difference between an organizer who enjoys the trip and one who works it. To keep the organizer from doing all of it, [hand out five roles](/guides/nola-group-trip-roles-assignment-guide/) a week out.
 
 ---
 
