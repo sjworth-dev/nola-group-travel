@@ -1,17 +1,19 @@
 ---
-title: "Souvenir Strategy for Large NOLA Groups"
-description: "Souvenir and gift buying for large groups in New Orleans: what's actually worth buying vs. tourist junk, local vs. chain, when to shop, and how to handle group members who want to spend two hours in every store."
+title: "New Orleans Souvenirs Worth Buying (and What to Skip)"
+description: "Buy hot sauce, pralines and records; skip the Decatur Street t-shirt. What New Orleans souvenirs are worth the bag space, and how a big group shops without losing a day."
 category: "Planning & Logistics"
 card_title: "NOLA Souvenir Strategy"
 card_description: "Not all NOLA souvenirs are worth the bag space. Here's what's actually worth buying, what's tourist junk, when to shop, and how to manage the group member who turns every block into a shopping detour."
-date: 2026-07-02
+date: 2026-10-03
 ---
+
+Verdict: buy food, records and art from the person who made them. Skip anything with "Big Easy" printed on it.
 
 At some point on every NOLA group trip, someone wants to stop and shop. Sometimes it's a quick pop-in to a record store. Sometimes it's an hour-long detour into a souvenir shop on Decatur Street that results in four people buying the same "Big Easy" t-shirt they will never wear again. The difference between those two outcomes is entirely about knowing where to go, what's worth buying, and when in the trip to shop.
 
 NOLA has genuinely excellent local shopping — art, food products, music, craft goods — and it also has miles of tourist junk that exists to extract money from people who've had a few drinks and feel generous. The two are often physically adjacent, which makes the distinction harder when you're navigating a group of twenty people across the French Quarter.
 
-This guide is the practical souvenir playbook: what's actually worth buying, what to skip, where to go, when to go, and how to manage the group dynamics of shopping so it doesn't consume the trip.
+This guide is the practical souvenir playbook (for the wider shopping map, see the [shopping guide](/guides/nola-group-shopping-guide/), and for gifts for the crew itself, the [group gifting guide](/guides/group-gifting-guide/)): what's actually worth buying, what to skip, where to go, when to go, and how to manage the group dynamics of shopping so it doesn't consume the trip.
 
 ---
 
@@ -44,11 +46,11 @@ The beadwork, feather art, and costume elements made by Mardi Gras Indian tribes
 
 ### Local Music on Vinyl
 
-New Orleans music is best heard on records. The city has several excellent record stores that carry local pressings, rare New Orleans jazz, and second line vinyl that you won't find at home. If your group includes music people, an hour in a good record store is a better investment than any souvenir shop.
+New Orleans music is best heard on records. The city has several excellent record stores (the [vinyl hunting guide](/guides/nola-group-vinyl-record-hunting-guide/) covers how to spend an hour in one) that carry local pressings, rare New Orleans jazz, and second line vinyl that you won't find at home. If your group includes music people, an hour in a good record store is a better investment than any souvenir shop.
 
 ### Art from Local Artists
 
-The gallery scene in the Bywater, Magazine Street, and the Warehouse District has actual art for actual prices from local artists. Nothing here is cheap, but a piece of art from a NOLA artist is a souvenir in the real sense — something that came from the city and means something. The French Quarter's Jackson Square artists also represent a wide price range; some are very good.
+The gallery scene in the [Bywater](/neighborhoods/bywater/), [Magazine Street](/guides/nola-group-magazine-street-full-day-guide/), and the [Warehouse District](/neighborhoods/warehouse-district/) has actual art for actual prices from local artists. Nothing here is cheap, but a piece of art from a NOLA artist is a souvenir in the real sense — something that came from the city and means something. The French Quarter's Jackson Square artists also represent a wide price range; some are very good.
 
 ### Pralines
 
@@ -56,7 +58,7 @@ The local candy tradition. Available from shops throughout the Quarter and the C
 
 ### Handmade Jewelry
 
-NOLA has a strong craft jewelry tradition, particularly at markets. The Frenchmen Art Market (open many nights) has local jewelers with handmade pieces at reasonable prices. Better than the jewelry at Bourbon Street shops, which is mass-produced.
+NOLA has a strong craft jewelry tradition, particularly at markets. The Frenchmen Art Market has local jewelers with handmade pieces; hours vary, so check before you go. Better than the jewelry at Bourbon Street shops, which is mass-produced.
 
 ---
 
@@ -81,7 +83,7 @@ The test: Would you buy this exact thing at a chain gift shop in Orlando? If yes
 | Neighborhood | Best For | Skip |
 |---|---|---|
 | French Quarter (Royal St., Chartres) | Gallery art, antiques, specialty food, some music | Most of the Decatur St. tourist shops |
-| French Market | Local food products, craft vendors, some jewelry | The chain/souvenir section toward the river end |
+| French Market ([morning guide](/guides/nola-group-french-market-morning-guide/)) | Local food products, craft vendors, some jewelry | The chain/souvenir section toward the river end |
 | Bywater (St. Claude, Magazine) | Local art, vintage, record stores, craft goods | N/A — very little tourist-trap density here |
 | Magazine Street (LGD to Uptown) | Vintage clothing, home goods, local jewelry, books | Nothing to specifically avoid — it's a genuine local shopping corridor |
 | Frenchmen Art Market | Handmade jewelry, art, prints, music | Open at night; times vary; check before you go |
@@ -168,7 +170,7 @@ The practical takeaway: large-group shopping works better in dedicated windows (
 
 For the post-trip gift question — what to bring back to people at home — the food category wins consistently. You can pick up a NOLA hot sauce selection or a praline assortment at the end of the trip, split the cost among the group, and have a collectively curated Louisiana pantry gift that's genuinely worth giving. Beats a magnet by a wide margin.
 
-Groups staying at properties like The Lookout Inn in the Bywater or The Syd in the Lower Garden District are well-positioned for local shopping — both neighborhoods have real local retail within walking distance, which means the shopping block doesn't require a transport plan and people can drift back to the villa between stops.
+Groups based in the Bywater (The Mazant, The Lookout Inn) or Central City (The Revelry, Heirloom) have real local retail within reach, which means the shopping block doesn't need a transport plan and people can drift back between stops. Still sorting the rest of the trip? Start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/).
 
 For the largest selection, book 6+ months out.
 
