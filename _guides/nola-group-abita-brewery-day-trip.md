@@ -177,6 +177,6 @@ For a group in a charter van, the Causeway return is a 25-minute debrief session
 
 ## Large Group Accommodation for an Abita Day Trip
 
-An Abita Springs day trip works best from a single departure point — the charter van logistics get complicated fast once a group is scattered across hotels. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) sit about 15 minutes from the Causeway approach in Metairie, with a private pool waiting on the return from the north shore. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) are a similar distance from the bridge. Groups with mixed budgets, or who want separate bills per unit, can look at Heirloom's inventory in the LGD/Central City or a downtown room block instead — either still stages a charter van from one address. For the largest selection, book 6+ months out.
+An Abita Springs day trip works best from a single departure point — the charter van logistics get complicated fast once a group is scattered across hotels. Bywater options like The Mazant and Central City options like The Revelry or Heirloom's homes put the group within a short drive of the Causeway approach, so a pool or hot tub is waiting on the return from the north shore. Groups with mixed budgets, or who want separate bills per unit, can look at a downtown room block instead — either still stages a charter van from one address. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
