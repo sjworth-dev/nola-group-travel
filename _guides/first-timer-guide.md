@@ -235,9 +235,9 @@ This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary
 
 ## Pro Tips
 
-1. **The city works on a different clock.** Don't expect to have a great night before 10 PM. Plan accordingly — dinner at 7, bars at 9, Frenchmen Street after 10.
+1. **The city works on a different clock.** Don't expect to have a great night before 10 PM. Plan accordingly — dinner at 7, bars at 9, Frenchmen Street after 10. The [Saturday night playbook](/guides/nola-group-saturday-night-peak-guide/) shows how to sequence it for a big group.
 
-2. **Weather affects everything.** Check the forecast and plan outdoor activities for early mornings. Afternoon thunderstorms in summer are routine.
+2. **Weather affects everything.** Check the forecast and plan outdoor activities for early mornings. Afternoon thunderstorms in summer are routine. Keep the [rain delay bar plan](/guides/nola-group-rain-delay-bar-strategy-guide/) handy.
 
 3. **One person makes the calls.** Large groups are democratic about too many things. Restaurants, activities, departure times — give someone the authority to decide.
 
@@ -245,7 +245,7 @@ This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary
 
 5. **Your best meal might be lunch.** New Orleans takes lunch seriously. Don't just eat hotel breakfast and go. Commander's Palace lunch, a po-boy shop, or Dooky Chase's for red beans — these are meals worth planning.
 
-6. **Read the room on Bourbon Street.** It's a rite of passage. Do it once, early in the trip, get it out of your system, then go find the real city.
+6. **Read the room on Bourbon Street.** It's a rite of passage. Do it once, early in the trip, get it out of your system, then go find the real city. Same rule for souvenirs: the [souvenir guide](/guides/nola-group-souvenir-strategy-guide/) sorts the keepers from the junk.
 
 7. **Leave one night unplanned.** Structure three days, leave one evening open. The best NOLA experiences often happen when you follow something unexpected — a brass band walking down the street, a bar you didn't know existed, a conversation with someone who's lived here their whole life.
 
@@ -253,7 +253,7 @@ This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary
 
 ## For a Big Group
 
-The biggest logistical challenge for first-time large group visitors is accommodation. Most online rental platforms cap out well short of a big crew. Hotels scatter the group across rooms and floors. Neither option gives you what you actually want: everyone together. Once a trip goes double-digit, a private group villa is usually the answer — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down that math in full.
+Still at the idea stage? [How to plan a group trip to New Orleans](/guides/plan-a-group-trip/) sequences the decisions in order. The biggest logistical challenge for first-time large group visitors is accommodation. Most online rental platforms cap out well short of a big crew. Hotels scatter the group across rooms and floors. Neither option gives you what you actually want: everyone together. Once a trip goes double-digit, a private group villa is usually the answer — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) breaks down that math in full.
 
 The property field spans a real range of fits, and for first-timers, location matters as much as capacity. **Hotel Perle**, CBD/Warehouse District group suites with separate bills and a rooftop pool, puts a first trip walkable to the Quarter and the Warehouse District's museums without the whole group splitting one big villa bill. **Heirloom**'s larger-format homes across the Lower Garden District and Central City add the deepest inventory if the calendar's tight. **The Revelry**, Central City apartment-style floors sharing a saltwater pool, is the pick if the group wants separate units under one roof rather than a single house. None of these is a booking recommendation — pick by fit, and any of these neighborhoods beats staying inside the tourist strip for a first visit.
 
