@@ -153,9 +153,9 @@ The two weekends serve different crews. Some groups will want to do both: an ear
 
 Neighborhood matters more for Krewe du Vieux weekend than for a generic NOLA trip. The parade and the bars are in the Marigny and French Quarter — not on St. Charles Avenue. That reshapes where you want to be.
 
-**The Bywater** is the strongest position. It sits directly adjacent to the Marigny — walking distance to Frenchmen Street, walking distance to the parade route. Castleday Retreats operates three private villas in the Bywater, each sleeping up to 30 guests, with private pools and full kitchens. In late January, a full kitchen earns its place: you want a real breakfast the morning after parade night, not a scramble for brunch tables. The walk back to the house from Frenchmen Street at 2 AM is manageable, which matters when you have twenty people trying to coordinate an exit.
+**The Bywater** is the strongest position. It sits directly adjacent to the Marigny — walking distance to Frenchmen Street, walking distance to the parade route. Bywater houses and guesthouses such as The Mazant (sleeps 18) come with full kitchens. In late January, a full kitchen earns its place: you want a real breakfast the morning after parade night, not a scramble for brunch tables. The walk back to the house from Frenchmen Street at 2 AM is manageable, which matters when you have twenty people trying to coordinate an exit.
 
-**The Lower Garden District** is workable. The Syd's villas in the LGD each sleep up to 22 guests and share a heated pool, hot tub, and sauna — amenities that see actual use in January. You'll take a rideshare to the Marigny rather than walking, but it's a short trip, and the St. Charles Streetcar provides easy access downtown.
+**The Lower Garden District** is workable. Large-format homes from Heirloom in the LGD and Central City give you the most inventory, which matters in a tight January weekend. You'll take a rideshare to the Marigny rather than walking, but it's a short trip, and the St. Charles Streetcar provides easy access downtown.
 
 For this specific weekend, the Bywater's proximity to the parade and Frenchmen Street is the sharper call.
 

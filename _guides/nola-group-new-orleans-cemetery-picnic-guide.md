@@ -187,11 +187,11 @@ Dozens of large-format homes across the Lower Garden District and Central City â
 
 The common-area space in these homes is where the group lands when it comes home from the cemetery morning: lunch out of the left-over picnic supplies, a slow mid-day recovery before the next thing. Fit and layout vary by house, so confirm specifics before booking for a full crew.
 
-### The Syd
+### The Revelry
 
-Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, sauna, and outdoor kitchen. Artist-designed rooms throughout. One block from the St. Charles Streetcar.
+Central City apartment-style floors (six to nine guests each) plus a saltwater pool, so each sub-crew gets its own floor and its own bill.
 
-The Syd's location is particularly well-suited to the Garden District morning walk. Magazine Street is close. The Streetcar to the Garden District or Lafayette Cemetery is one block away. A group leaving The Syd at 8am for a Garden District morning is back at the villa by noon with the pool available for the afternoon recovery window. The outdoor kitchen means anything from the picnic run that didn't get eaten becomes the start of a villa lunch.
+The pool is the afternoon recovery window after a cemetery morning, and leftover picnic supplies turn into lunch. Confirm specifics before booking for a full crew.
 
 ---
 
