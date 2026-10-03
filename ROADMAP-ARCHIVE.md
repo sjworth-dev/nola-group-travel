@@ -1774,3 +1774,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-03 UTC — seo: interlink `first-timer-guide.md` — added links to plan-a-group-trip, Saturday night, rain delay, and souvenir guides.
 2026-10-03 UTC — fix: property balance sweep — `nola-group-magazine-street-full-day-guide.md`, `nola-food-delivery-guide.md`, `nola-group-abita-brewery-day-trip.md` (Castleday removed; Syd reduced/neutralized, Mazant/Revelry/Heirloom added).
 2026-10-03 UTC — backlog: no changes; Up Next left empty.
+2026-10-03 UTC — note (second run): `## Up Next` empty, so no new page (ROADMAP human-gate). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-03 UTC — expand: refresh `nola-group-trip-roles-assignment-guide.md` (oldest, 2026-07-02) — retitled, verdict-first intro, new description, removed numeric range and Syd/Frenchmen hours claim, added 7 inline links, neutral lodging fit paragraph, bumped date.
+2026-10-03 UTC — seo: interlink `plan-a-group-trip.md` — added link to trip roles guide.
+2026-10-03 UTC — fix: property balance sweep — `nola-group-museum-day-guide.md`, `nola-group-new-orleans-cemetery-picnic-guide.md`, `nola-group-krewe-du-vieux-guide.md` (Castleday/Syd removed; Revelry/Mazant/Heirloom used).
+2026-10-03 UTC — backlog: no changes; Up Next left empty.
