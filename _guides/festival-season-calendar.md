@@ -259,6 +259,10 @@ During peak festivals, your options narrow dramatically. Most listings that can 
 
 Walk-in availability drops to near zero during festival weekends. Make reservations before you arrive — during Mardi Gras and Jazz Fest, some restaurants book out weeks in advance.
 
+### Getting Out the Door
+
+Festival days are won before the gate. The [festival pre-game guide](/guides/nola-group-festival-pre-game-guide/) covers the meal, hydration and meeting-point routine, and the [heat management guide](/guides/nola-group-outdoor-festival-heat-management/) covers the rest of the day.
+
 ### Transportation
 
 Festival weekends mean parade routes, street closures, and traffic. Ride-share surge pricing spikes. For large groups, arrange transportation logistics in advance: party buses, shuttle vans, or a designated driver/car service.
