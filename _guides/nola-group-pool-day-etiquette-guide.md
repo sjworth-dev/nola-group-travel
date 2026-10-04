@@ -174,6 +174,6 @@ The private pool is one of the clearest logistical advantages a villa has over h
 
 The pool day also functions as a group cohesion tool that doesn't require planning every minute. Unlike a parade or a restaurant dinner, a pool day has a loose structure that accommodates different energy levels, people who want to talk versus people who want to float quietly, and the rhythm of a group that's been going hard for several days and needs a day that doesn't have a schedule.
 
-The Natchez Vacation Rentals offers apartment-style units sharing a saltwater pool and hot tubs — built for exactly this kind of group pool scene. The Syd in the Lower Garden District has a shared heated pool and hot tub of its own. Either has the outdoor infrastructure that makes a full-day pool event work for a big group without requiring you to manage a hotel's rules. For the largest selection, book 6+ months out.
+The Natchez Vacation Rentals offers apartment-style units sharing a saltwater pool and hot tubs — built for exactly this kind of group pool scene. Hotel Perle's rooftop pool and The Mazant's heated pool and spa serve smaller scenes. Any of them has the outdoor infrastructure that makes a full-day pool event work for a big group without requiring you to manage a hotel's rules. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

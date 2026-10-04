@@ -149,7 +149,7 @@ Once the trip goes double-digit, the hotel bar question comes up almost inevitab
 
 The most useful posture: pick two or three hotel bars you're aware of and keep them as options. Don't plan your evenings around them. But don't rule them out as a solution when the need arises.
 
-Groups staying in private villas in Bywater or the Lower Garden District are a few minutes from multiple hotel bar options in the adjacent neighborhoods. The Syd in the Lower Garden District is positioned within reach of the CBD hotel bar district for the moments when a hotel bar is the right call — but the standalone neighborhood bar scene surrounding it means you'll rarely need to make that trip.
+Groups staying in private villas in Bywater or the Lower Garden District are a few minutes from multiple hotel bar options in the adjacent neighborhoods. The CBD hotel bar district is a short ride away for the moments when a hotel bar is the right call — but the neighborhood bar scene around a Lower Garden District base means you'll rarely need to make that trip.
 
 For the largest selection, book 6+ months out.
 

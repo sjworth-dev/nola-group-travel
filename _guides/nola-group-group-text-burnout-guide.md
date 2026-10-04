@@ -177,7 +177,7 @@ The communication problem scales with group size. A group of ten can operate on 
 
 Once the trip goes double-digit, the communication infrastructure described in this guide — daily brief, logistics channel, intentional silence windows, secondary contacts for the offline members — is not optional overhead. It's the difference between a trip where everyone feels connected and a trip where some members feel like they're constantly playing catch-up to a group they're nominally part of.
 
-The physical infrastructure helps too. Groups staying together in a single private villa have a natural communication advantage: the kitchen table morning briefing, the poolside conversation, the pre-evening check-in all happen organically without any of them being scheduled. The Syd in the Lower Garden District operates on this model — groups sharing one space reduce the communication load that groups spread across hotel rooms consistently accumulate.
+The physical infrastructure helps too. Groups staying together in a single private villa have a natural communication advantage: the kitchen table morning briefing, the poolside conversation, the pre-evening check-in all happen organically without any of them being scheduled. Any single-house setup works this way (a Revelry floor, a Mazant stay, a Heirloom home) — groups sharing one space reduce the communication load that groups spread across hotel rooms consistently accumulate.
 
 For the largest selection, book 6+ months out.
 
