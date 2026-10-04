@@ -191,6 +191,6 @@ Ask for references from previous large-group events. Anyone with real experience
 
 ## Where to Stay for a Cocktail Class Trip
 
-A private bartender class needs a real kitchen or a covered outdoor counter, so it's worth weighing that when you pick a place to stay. Castleday Retreats runs Bywater villas with a full kitchen and private pool per house, which keeps the class contained to your own group. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub a block off the St. Charles streetcar — a reasonable base if the plan is class-then-walk-toward-downtown. Heirloom's inventory runs dozens of large-format homes across town, useful if you're booking late and still want full-kitchen options. If a venue-based class is more your speed, a hotel room block sidesteps the kitchen question entirely — for the largest selection, book 6+ months out either way.
+A private bartender class needs a real kitchen or a covered outdoor counter, so it's worth weighing that when you pick a place to stay. The Mazant's Bywater house sleeps 18 and keeps the class contained to your own group. The Revelry's Central City apartment-style floors give each crew its own kitchen. Heirloom's inventory runs dozens of large-format homes across town, useful if you're booking late and still want full-kitchen options. If a venue-based class is more your speed, a hotel room block sidesteps the kitchen question entirely. For the largest selection, book 6+ months out either way.
 
 [See where to stay for large groups →](/where-to-stay/)
