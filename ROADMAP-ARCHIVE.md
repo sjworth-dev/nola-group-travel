@@ -1779,3 +1779,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-03 UTC — seo: interlink `plan-a-group-trip.md` — added link to trip roles guide.
 2026-10-03 UTC — fix: property balance sweep — `nola-group-museum-day-guide.md`, `nola-group-new-orleans-cemetery-picnic-guide.md`, `nola-group-krewe-du-vieux-guide.md` (Castleday/Syd removed; Revelry/Mazant/Heirloom used).
 2026-10-03 UTC — backlog: no changes; Up Next left empty.
+2026-10-04 UTC — note: `## Up Next` empty, so no new page (ROADMAP human-gate wins over the runner prompt's "generate backlog" line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-04 UTC — expand: refresh `nola-group-villa-morning-yoga-guide.md` (oldest, 2026-07-02) — retitled ≤60 chars, verdict-first intro, new description, removed numeric range, sunrise-time and lead-time claims, added 6 inline links (wellness morning, hangover recovery, plan-a-group-trip, heat management, Bywater, pool etiquette), replaced Syd with Mazant/Revelry, bumped date.
+2026-10-04 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` — added links to heat management and morning yoga guides.
+2026-10-04 UTC — fix: property balance sweep — `nola-bachelorette-spa-day.md`, `nola-bourbon-street-guide.md`, `nola-cocktail-class-guide.md` (Castleday/Syd removed; Natchez/Revelry/Perle/Mazant/Heirloom used).
+2026-10-04 UTC — backlog: no changes; Up Next left empty.
