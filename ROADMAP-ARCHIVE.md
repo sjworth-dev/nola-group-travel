@@ -1784,3 +1784,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-04 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` — added links to heat management and morning yoga guides.
 2026-10-04 UTC — fix: property balance sweep — `nola-bachelorette-spa-day.md`, `nola-bourbon-street-guide.md`, `nola-cocktail-class-guide.md` (Castleday/Syd removed; Natchez/Revelry/Perle/Mazant/Heirloom used).
 2026-10-04 UTC — backlog: no changes; Up Next left empty.
+2026-10-04 UTC (second run) — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-04 UTC (second run) — expand: refresh `nola-group-festival-pre-game-guide.md` (oldest, 2026-07-03) — retitled ≤60 chars, verdict-first intro, new description, removed unverified gate-time/UV/bottle-policy specifics and numeric ranges, added links (heat management, packing, calendar, hangover recovery, plan-a-group-trip), neutral lodging fit paragraph, bumped date.
+2026-10-04 UTC (second run) — seo: interlink `festival-season-calendar.md` — added pre-game and heat management links.
+2026-10-04 UTC (second run) — fix: property balance sweep — `nola-group-group-text-burnout-guide.md`, `nola-group-hotel-bar-strategy-guide.md`, `nola-group-pool-day-etiquette-guide.md` (Syd removed; Revelry/Mazant/Heirloom/Perle used).
+2026-10-04 UTC (second run) — backlog: no changes; Up Next left empty.
