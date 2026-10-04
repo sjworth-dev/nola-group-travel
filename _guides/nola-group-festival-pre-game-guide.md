@@ -1,17 +1,17 @@
 ---
-title: "The Three Hours Before a NOLA Festival: A Large Group Pre-Game Guide"
-description: "How to structure the three hours before Jazz Fest, French Quarter Fest, or Voodoo Fest with a large group: the pre-festival meal, hydration loading, sunscreen protocol, what to carry, and getting everyone out the door on time."
+title: "NOLA Festival Pre-Game: The 3 Hours That Make the Day"
+description: "Festival days are won before the gate. Meal, hydration, sunscreen, bag check and meeting points for the three hours before Jazz Fest or French Quarter Fest."
 category: "Planning & Logistics"
 card_title: "Festival Pre-Game for Large Groups"
 card_description: "Most groups waste the three hours before a NOLA festival. Here's how to use them: the meal, the hydration load, the carrier debate, and the only way to get 20 people out the door at the same time."
-date: 2026-07-03
+date: 2026-10-04
 ---
 
-The difference between a group that thrives at a NOLA festival and a group that falls apart by 3pm usually isn't the festival itself. It's what happened in the three hours before they walked through the gate.
+**Verdict: the festival is rarely what ruins your day. The three hours before the gate are.** Eat a real meal, front-load water, sunscreen at the house, agree on a meeting point, and leave on time. Skip any one and you'll feel it by 3pm.
 
-This is the window that determines everything. Walk in hydrated, fed, sunscreened, carrying the right things, and with a clear meeting protocol established — and a full festival day is manageable even for a group of twenty. Walk in on two drinks and no food, sun already working on exposed skin, no plan for when someone gets separated — and you're in crisis mode before the second set of the afternoon.
+Walk in hydrated, fed, sunscreened, carrying the right things, with a clear meeting protocol established, and a full festival day is manageable even with twenty people in tow. Walk in on two drinks and no food, sun already working on exposed skin, no plan for when someone gets separated — and you're in crisis mode before the second set of the afternoon.
 
-Jazz Fest, French Quarter Fest, and Voodoo Fest all have their specific logistics, but the pre-game window is essentially the same. These are the three hours that win or lose the day for your group. Once you're inside, the [Jazz Fest survival guide](/guides/nola-group-jazz-fest-survival-guide/) and the [festival exit strategy](/guides/nola-group-festival-exit-strategy-guide/) cover the rest of the day.
+Jazz Fest, French Quarter Fest, and Voodoo Fest all have their specific logistics (dates for the big ones are on the [festival season calendar](/guides/festival-season-calendar/)), but the pre-game window is essentially the same. These are the three hours that win or lose the day for your group. Heat is the main opponent, so pair this with the [outdoor festival heat management guide](/guides/nola-group-outdoor-festival-heat-management/) and the [music festival packing guide](/guides/nola-music-festival-packing-guide/). Once you're inside, the [Jazz Fest survival guide](/guides/nola-group-jazz-fest-survival-guide/) and the [festival exit strategy](/guides/nola-group-festival-exit-strategy-guide/) cover the rest of the day.
 
 ---
 
@@ -33,7 +33,7 @@ Jazz Fest, French Quarter Fest, and Voodoo Fest all have their specific logistic
 
 The pre-festival meal is the single highest-impact thing you can do for your group's experience. Skip it or rush it and you're dealing with blood sugar crashes, dehydration acceleration, and reduced heat tolerance by early afternoon.
 
-For a group, this is not the moment for a restaurant reservation. You're trying to get 15-20 people fed, sun-screened, and out the door with coordinated logistics. A villa meal is the move.
+For a group, this is not the moment for a restaurant reservation. You're trying to get the whole crew fed, sun-screened, and out the door with coordinated logistics. A villa meal is the move.
 
 **What the meal should do:**
 
@@ -46,9 +46,9 @@ For a group, this is not the moment for a restaurant reservation. You're trying 
 
 | Format | Best For | Time Required |
 |---|---|---|
-| Scrambled eggs, toast, and fruit for the group | Morning festival start (Jazz Fest gates open at 11am) | 25-30 min |
+| Scrambled eggs, toast, and fruit for the group | Morning festival start | 25-30 min |
 | Sandwiches made the night before + fruit | Any festival timing; grab-and-go flexibility | 10 min morning-of |
-| Grocery run the night before: deli, bread, produce | Budget-conscious groups; works for 15-25 people | 10 min morning-of if pre-sourced |
+| Grocery run the night before: deli, bread, produce | Budget-conscious groups; works for a big crew | 10 min morning-of if pre-sourced |
 | Private chef breakfast | Higher-budget groups; maximum efficiency | 20 min eat, chef handles everything |
 | Skipping the meal and eating at the festival | Authentically a bad idea; festival food lines at noon are brutal | The line costs you 30-45 minutes and costs you money |
 
@@ -65,7 +65,7 @@ The professional approach: hydration loading is a two-day process, not a morning
 **Night before the festival:**
 
 - Everyone drinks an extra 16-24 oz of water before sleeping — in addition to whatever else they've consumed
-- Electrolyte packets or Liquid IV before bed is not overkill; it's how people survive a full Jazz Fest day in late April
+- Electrolyte packets or Liquid IV before bed is not overkill; it's how people survive a full Jazz Fest day in the spring heat
 - If the night before the festival involves drinking, the rule is one glass of water per two drinks, and a full water bottle before sleep
 - The villa should have a case of water visible and accessible in the kitchen the night before — if people have to search for it, they won't drink it
 
@@ -75,12 +75,12 @@ The professional approach: hydration loading is a two-day process, not a morning
 - Coffee is fine, but it's diuretic; offset it with additional water
 - Electrolyte packet in the first water bottle of the day
 - Before leaving the villa, everyone has consumed at least 32 oz of water that morning — this is the floor, not the goal
-- Carry water into the festival if the venue allows it. Jazz Fest (full rundown in the [Jazz Fest group guide](/guides/jazz-fest-group-guide/)) allows sealed water bottles; confirm the policy for other festivals before you pack
+- Carry water into the festival if the venue allows it. Policies on bottles and bags change by year and by festival (the [Jazz Fest group guide](/guides/jazz-fest-group-guide/) has the big-picture rundown), so check the official site before you pack
 
 **At the festival:**
 
 - One bottle of water per every hour in direct sun is the minimum
-- At outdoor festivals in summer conditions, two bottles per hour is not unreasonable
+- On a hot, humid day, two bottles per hour is not unreasonable
 - Alcohol accelerates dehydration; a beer at the festival requires a water chaser, not a next beer
 
 ---
@@ -89,7 +89,7 @@ The professional approach: hydration loading is a two-day process, not a morning
 
 This is the step groups consistently delay until it's too late.
 
-Applying sunscreen at the festival — in the parking lot, near the gate, or after the first set — means you've already accumulated 30-60 minutes of direct sun exposure. In Louisiana from April through October, the UV index at 11am regularly hits 9 or 10. That's the kind of exposure that burns fair skin in under 20 minutes without protection.
+Applying sunscreen at the festival — in the parking lot, near the gate, or after the first set — means you've already accumulated 30-60 minutes of direct sun exposure. Louisiana sun is strong from spring through October, and fair skin burns fast without protection.
 
 The villa is where you do this. Before the car is loaded. Before the Ubers are called.
 
@@ -101,7 +101,7 @@ The villa is where you do this. Before the car is loaded. Before the Ubers are c
 - Bring two to three travel-size bottles into the festival for the 12pm and 2pm reapply — put them in the group bag, not individual bags where they'll get forgotten
 - Reapply every 90 minutes at a festival in direct sun. Not optional. Build a phone reminder.
 
-**Who to watch:** The people who say "I don't burn" or "I'm fine, I tan." In Louisiana summer sun, everyone burns if they skip sunscreen long enough. The person who burns at 1pm is the person who goes home at 2pm and misses the afternoon headliners.
+**Who to watch:** The people who say "I don't burn" or "I'm fine, I tan." In Louisiana sun, everyone burns if they skip sunscreen long enough. The person who burns at 1pm is the person who goes home at 2pm and misses the afternoon headliners.
 
 SPF 50 water-resistant is the baseline. Face sunscreen matters separately from body sunscreen if your group is going to be in direct sun all day — many people forget to reapply their face when they do their body.
 
@@ -137,7 +137,7 @@ Every group needs to solve this before leaving the villa: who carries what, and 
 - Items that require refrigeration
 - Anything you'd be devastated to lose
 
-**Bag size check:** Jazz Fest and Voodoo Fest have bag size restrictions that change year to year. Confirm the current policy before anyone packs a bag. A bag too large means re-packing at the gate, which creates delay and group frustration during the entry line.
+**Bag size check:** Jazz Fest and Voodoo Fest have bag restrictions that can change year to year. Confirm the current policy before anyone packs a bag. A bag too large means re-packing at the gate, which creates delay and group frustration during the entry line.
 
 ---
 
@@ -145,7 +145,7 @@ Every group needs to solve this before leaving the villa: who carries what, and 
 
 This is the conversation that prevents the most common festival communication breakdown: the moment when the group splits up, someone's phone dies, and nobody has a meeting point.
 
-Have this conversation at the villa before you leave. Not in the Uber. Not at the gate. At the villa, when everyone is present and paying attention.
+Have this conversation at the villa before you leave. Not in the car. Not at the gate. At the villa, when everyone is present and paying attention.
 
 **The minimum viable meeting protocol for a festival group:**
 
@@ -159,7 +159,7 @@ Have this conversation at the villa before you leave. Not in the Uber. Not at th
 
 5. If anyone's phone battery is under 60%, they charge before leaving the villa. Not negotiable.
 
-**The "I'll find you" problem:** Every group has someone who says "I'll find you" and then becomes unreachable for three hours. At a festival with 50,000+ people, "I'll find you" is not a plan. The meeting point and check-in time prevent this from becoming an incident.
+**The "I'll find you" problem:** Every group has someone who says "I'll find you" and then becomes unreachable for three hours. At a festival with tens of thousands of people, "I'll find you" is not a plan. The meeting point and check-in time prevent this from becoming an incident.
 
 ---
 
@@ -169,7 +169,7 @@ The core pre-game structure is the same across festivals, but each has specific 
 
 | Festival | Key Pre-Game Consideration |
 |---|---|
-| Jazz Fest | Gates open at 11am; lines build fast by 11:30am. Leave the villa by 10:15am for a 10:45am arrival if you want early access. The infield sets up before the crowds arrive. |
+| Jazz Fest | Lines build fast right after the gates open. Check the official schedule for gate times, and aim to arrive before the rush rather than during it. |
 | French Quarter Fest | Free festival; multiple entry points. Less pressure on arrival time but more variable crowd density. Establish meeting points inside the festival by stage name, not entry point. |
 | Voodoo Fest | Halloween weekend festival; City Park venue (see the [festival season calendar](/guides/festival-season-calendar/) for where it sits in the year). Confirm parking logistics vs. rideshare; City Park rideshare pickup is congested on peak days. Leave earlier than you think. |
 
@@ -177,7 +177,7 @@ The core pre-game structure is the same across festivals, but each has specific 
 
 ## Getting the Group Out the Door
 
-This is where the pre-game either succeeds or collapses. Getting 15-20 people out the door at an agreed time is one of the hardest group travel logistics problems, and festivals make it high-stakes because entry lines and parking fill up.
+This is where the pre-game either succeeds or collapses. Getting a whole crew out the door at an agreed time is one of the hardest group travel logistics problems, and festivals make it high-stakes because entry lines and parking fill up.
 
 **The departure enforcement model:**
 
@@ -199,7 +199,7 @@ The people who say "I'll be ready in five minutes" at 9:45am are the people who 
 
 1. **The 10-minute morning-of bag check is the most underrated pre-game step.** Someone runs through the checklist out loud: "Sunscreen — who has it? Cash — everyone has some? IDs — where are your IDs?" Sounds juvenile. Prevents the group from being stopped at the gate because two people left their IDs at the villa.
 
-2. **Festival food is genuinely great at Jazz Fest specifically.** Budget for it. But eat the villa meal first and treat festival food as a lunch supplement, not the primary meal. Festival food lines at noon are long and you don't want to spend the first hour in one.
+2. **Festival food at Jazz Fest is genuinely great.** Budget for it. But eat the villa meal first and treat festival food as a lunch supplement, not the primary meal. Festival food lines at noon are long and you don't want to spend the first hour in one.
 
 3. **Set a group battery-charge rule the night before.** Everyone plugs in before sleep. Full charge in the morning. No exceptions. The person whose battery dies at 2pm is the group communication problem for the rest of the day.
 
@@ -219,7 +219,9 @@ The pre-game window only works the way this guide describes it if you have space
 
 A private villa changes this. The group wakes up in the same space, eats in the same kitchen, runs through the departure checklist in the same room, and leaves from the same door. The three-hour pre-game sequence described in this guide is built for that environment.
 
-New Orleans' villa market is built for exactly this kind of pre-game infrastructure — full kitchens for the pre-festival meal, common outdoor space for sunscreen and bag check, a single departure point for the whole group. Heirloom's large-format homes across the Lower Garden District and Central City are one example of the kind of inventory sized to run this morning without piecing together multiple properties.
+New Orleans' villa market is built for exactly this kind of pre-game infrastructure — full kitchens for the pre-festival meal, common outdoor space for sunscreen and bag check, a single departure point for the whole group. Large-format rental homes, apartment-style floors from operators like Heirloom or The Revelry, and a single big house like The Mazant all fit; a hotel room block can work too, but you'll need to pick a lobby meeting time and enforce it.
+
+Same-house mornings also help after a late night: the [hangover recovery guide](/guides/nola-group-villa-hangover-recovery-guide/) covers the day after, and the [plan-a-group-trip hub](/guides/plan-a-group-trip/) sequences the rest of the decisions.
 
 For the largest selection, book 6+ months out.
 
