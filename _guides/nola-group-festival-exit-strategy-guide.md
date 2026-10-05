@@ -129,6 +129,6 @@ Five people can decide in two minutes. Twenty, in a noisy crowd with spotty serv
 
 The groups that exit cleanly aren't the ones who execute perfectly. They're the ones whose plan doesn't need perfection.
 
-A rental with common space is a good post-festival anchor, since the destination is already settled and the early-leavers are already there. Where you sleep changes the ride home: for Jazz Fest, a Bywater base such as The Mazant sits on the far side of town from downtown venues, while downtown options like Hotel Perle or The Revelry in Central City shorten the trip for Essence and French Quarter Fest. Check current ride times for your dates. For the largest selection, book 6+ months out.
+A rental with common space is a good post-festival anchor, since the destination is already settled and the early-leavers are already there. Where you sleep changes the ride home. Downtown options like Hotel Perle or The Revelry in Central City sit close to Essence and the Quarter, while a Bywater base such as The Mazant puts you a rideshare away from most festival grounds. Check current ride times for your dates. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
