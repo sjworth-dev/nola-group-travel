@@ -1,17 +1,17 @@
 ---
-title: "Group Restaurant Strategy When Everyone Has a Different Diet"
-description: "Planning group meals in New Orleans when someone is vegan, someone is gluten-free, someone keeps kosher, and the rest want fried everything: which NOLA restaurants handle dietary diversity, how to communicate it, and the villa meal as the fallback."
+title: "New Orleans Group Dinner With Mixed Diets: A Plan"
+description: "Vegan, celiac, shellfish-allergic and the rest want fried everything? Call ahead, build the shortlist around the most restricted person, and keep a house dinner in reserve."
 category: "Planning & Logistics"
 card_title: "Mixed Diet Restaurant Strategy"
 card_description: "One person is vegan. One is gluten-free. One keeps kosher. Twelve want fried everything. This guide explains which NOLA restaurants handle dietary diversity well—and what to do when none of them do."
-date: 2026-07-04
+date: 2026-10-05
 ---
 
-The mixed-diet large group restaurant problem is real, and in New Orleans it's specific. NOLA food culture is built around pork fat, shellfish, wheat, and Creole-Cajun traditions that use both in almost everything. The people in your group who have dietary restrictions — for health, religion, ethical, or preference reasons — are walking into a food city that was not historically designed with them in mind.
+Verdict: build the restaurant shortlist around your most restricted guest, call before you book, and keep one cooked-at-the-house dinner in your back pocket. New Orleans food culture is built around pork fat, shellfish, wheat, and Creole-Cajun traditions that use both in almost everything. Anyone in your group with a restriction — health, religion, ethics, preference — is walking into a food city that was not designed with them in mind.
 
 That's the honest starting point. New Orleans has gotten significantly more diverse in its restaurant options over the past decade, and a thoughtful approach to restaurant selection can accommodate most combinations of dietary needs. But it requires actual planning, not optimism.
 
-This guide is about making that plan work for the whole crew when they don't all eat the same things.
+Pair this with the [restaurant guide](/guides/restaurant-guide/), the [landmark restaurant booking guide](/guides/nola-group-landmark-restaurant-booking-guide/), and the [hub for planning the whole trip](/guides/plan-a-group-trip/).
 
 ---
 
@@ -21,7 +21,7 @@ This guide is about making that plan work for the whole crew when they don't all
 - [ ] Separate hard restrictions (severe allergy, religious law) from preferences (vegan by choice, gluten-avoiding but not celiac) — these require different communication
 - [ ] Call or email every restaurant directly about hard allergies; do not rely on the online menu to tell you whether something is actually allergen-free
 - [ ] Prioritize restaurants with a demonstrated track record of dietary accommodation — some NOLA restaurants handle it well, many don't
-- [ ] For groups where more than 30% have significant restrictions, pivot to a villa meal rather than forcing an awkward restaurant fit
+- [ ] When restrictions pile up (allergy plus religious observance plus veganism), pivot to a house meal rather than forcing an awkward restaurant fit
 - [ ] Know the distinction between "gluten-free menu items" and "truly gluten-free kitchen" — a kitchen full of flour doesn't become safe because one dish is labeled GF
 - [ ] Have a backup order strategy for the restriction person: know what they'll eat before you sit down, so they're not doing research while everyone else is ready to order
 - [ ] Shellfish and pork allergies in a NOLA restaurant require the most careful navigation — these are in stocks, cooking fats, and sauces, not just as main ingredients
@@ -40,9 +40,9 @@ This creates specific challenges for:
 
 **Shellfish allergy:** This is one of the most dangerous dietary navigations in a NOLA restaurant. Shellfish stocks are used in gumbos, étouffées, bisques, and sauces that don't advertise themselves as shellfish-containing. Cross-contamination on grills and in fryers is common. This restriction requires direct chef communication at every meal.
 
-**Kosher:** There are no certified kosher restaurants in New Orleans at the publication of this guide. Kosher observers in a large group who keep strictly kosher will need to plan around self-prepared or catered kosher meals. The villa meal is the practical solution.
+**Kosher:** Certified kosher dining options are scarce in New Orleans. Anyone who keeps strictly kosher should plan on self-prepared or catered meals, and confirm any option directly. The house meal is the practical solution.
 
-**Halal:** Limited halal-certified restaurants in NOLA. More available than kosher, but requires specific research and direct confirmation.
+**Halal:** Options exist but are limited. Research ahead and confirm directly with the restaurant.
 
 **Pork restriction (observant Muslim, some Jewish traditions, personal choice):** Pork is in more NOLA dishes than the menu suggests — in stocks, as a cooking fat, mixed into sausage used in cooking. Restriction must be communicated explicitly and confirmed kitchen-by-kitchen.
 
@@ -60,7 +60,7 @@ These are restaurants where the menu structure inherently accommodates multiple 
 - Farm-to-table and chef-driven restaurants that build each dish independently rather than from a fixed traditional format
 - Indian, Vietnamese, and other international cuisines where plant-forward dishes are structural to the menu, not add-ons
 
-The Vietnamese restaurants in New Orleans East (Dong Phuong, Pho Tau Bay) are genuinely excellent for mixed groups — extensive vegan and vegetarian options exist naturally in the cuisine, along with pho, banh mi, and dishes that accommodate a wide range of restrictions.
+Vietnamese restaurants in and around New Orleans are a strong bet for mixed groups — vegetable-forward dishes, pho, and banh mi come built into the cuisine. Call to confirm broth and sauce ingredients for strict restrictions.
 
 **Tier 2: Accommodating with advance notice**
 
@@ -195,7 +195,7 @@ If you have a severe restriction, confirm with the server when the food comes ou
 
 2. **For shellfish allergy in NOLA, assume it's everywhere until confirmed otherwise.** Shellfish stock is in dishes that don't mention shellfish on the menu. Gumbo, bisques, and many Creole sauces use it. Ask about stock, not just ingredients.
 
-3. **The Vietnamese food corridor in New Orleans East is one of the best large-group options for dietary diversity.** The cuisine naturally includes extensive vegetable-forward dishes, clear protein options, and pho broth that can be specified (beef, chicken, or vegetarian-base).
+3. **Vietnamese food is one of the best large-group options for dietary diversity.** The cuisine naturally includes vegetable-forward dishes and clear protein options. Ask what the broth is made from.
 
 4. **The private chef option solves the mixed-diet problem completely.** A private chef hired for a villa dinner can be briefed on the full dietary matrix and cook accordingly. They're cooking for your group specifically, the kitchen is under their control, and the risk of cross-contamination is dramatically lower than a restaurant kitchen. This is worth the cost for a group with complex restrictions.
 
@@ -213,6 +213,6 @@ The larger the group, the higher the probability that some dietary combination m
 
 The villa solves this in a way that restaurants can't. When you control the kitchen, you control the ingredients, you control the preparation process, and you control the cross-contamination risk. A villa meal built thoughtfully for a dietary-diverse group is not a consolation prize — it's often a better meal and a better group experience than the restaurant alternative, because everyone gets to eat without anxiety and nobody is picking through a dish trying to find the thing they can actually eat.
 
-Heirloom and The Syd in the Lower Garden District both have full kitchen infrastructure that can support a villa meal for a big group. Full kitchens, serious stovetops, adequate counter space, proper refrigeration — the infrastructure is there to cook for a large group without the restriction limitations of a public restaurant kitchen. For the largest selection, book 6+ months out.
+What matters is the kitchen: serious stovetops, counter space, and refrigeration. Large-format homes from Heirloom or The Mazant and Revelry's apartment-style floors (with their own kitchens) can all work; confirm the kitchen setup before booking. For hotel-style crews, Hotel Perle's suites are an option. For the largest selection, book 6+ months out. See also the [group grocery and cooking guide](/guides/group-grocery-cooking-guide/) and the [foodie itinerary](/guides/nola-group-foodie-itinerary-guide/).
 
 [See where to stay for large groups →](/where-to-stay/)
