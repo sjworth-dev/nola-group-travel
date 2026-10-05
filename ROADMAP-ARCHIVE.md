@@ -1789,3 +1789,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-04 UTC (second run) — seo: interlink `festival-season-calendar.md` — added pre-game and heat management links.
 2026-10-04 UTC (second run) — fix: property balance sweep — `nola-group-group-text-burnout-guide.md`, `nola-group-hotel-bar-strategy-guide.md`, `nola-group-pool-day-etiquette-guide.md` (Syd removed; Revelry/Mazant/Heirloom/Perle used).
 2026-10-04 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-05 UTC — note: `## Up Next` empty, so no new page (ROADMAP human-gate wins over the runner prompt's "generate backlog" line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-05 UTC — expand: refresh `nola-group-festival-exit-strategy-guide.md` (oldest, 2026-07-04) — retitled ≤60 chars, verdict-first intro, new description, removed invented pickup-zone/wait-time specifics, fixed "Jazz Fest mid-July" season error, removed numeric range and Syd, added links (festival guides, heat management, hangover recovery, group text burnout, trip roles, pre-game), bumped date.
+2026-10-05 UTC — seo: interlink `bachelorette-vs-bach-party-guide.md` — added links to bachelorette, bachelor, hub, and day drinking vs. nightlife guides.
+2026-10-05 UTC — fix: property balance sweep — `nola-group-bar-buyout-guide.md`, `group-vendor-directory.md`, `nola-group-murder-mystery-dinner-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-05 UTC — backlog: no changes; Up Next left empty.
