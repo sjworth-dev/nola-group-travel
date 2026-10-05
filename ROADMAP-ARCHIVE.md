@@ -1794,3 +1794,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-05 UTC — seo: interlink `bachelorette-vs-bach-party-guide.md` — added links to bachelorette, bachelor, hub, and day drinking vs. nightlife guides.
 2026-10-05 UTC — fix: property balance sweep — `nola-group-bar-buyout-guide.md`, `group-vendor-directory.md`, `nola-group-murder-mystery-dinner-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-05 UTC — backlog: no changes; Up Next left empty.
+2026-10-05 UTC (second run) — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-05 UTC (second run) — expand: refresh `nola-group-mixed-diet-restaurant-strategy-guide.md` (oldest, 2026-07-04) — retitled ≤60 chars, verdict-first intro, new description, removed unverified kosher/restaurant-name/30% claims and Syd, added links (restaurant guide, landmark booking, hub, grocery/cooking, foodie itinerary), bumped date.
+2026-10-05 UTC (second run) — seo: interlink `restaurant-guide.md` — added link to mixed-diet dinner plan.
+2026-10-05 UTC (second run) — fix: property balance sweep — `anniversary-milestone-guide.md`, `bachelor-party-itinerary.md`, `bachelorette-itinerary-bywater.md` (Castleday/Syd removed; Mazant/Heirloom/Natchez used).
+2026-10-05 UTC (second run) — backlog: no changes; Up Next left empty.
