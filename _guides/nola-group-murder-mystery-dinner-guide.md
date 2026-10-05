@@ -235,6 +235,6 @@ Get at least two quotes. The cost range for a fully private event at full headco
 
 If you're doing an in-villa show — the best format for most large groups — where you stay determines the experience.
 
-The field runs wide. Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas each have a private pool, useful for the post-reveal decompression. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub and sit one block from the St. Charles Streetcar, handy if the evening also includes a restaurant-based show. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, and a hotel room block (The Roosevelt, Hotel Peter & Paul, and similar) works for groups mixing budgets who'd rather run the show in a rented event space than a rental. Whatever you pick, for the largest selection, book 6+ months out.
+The field runs wide. The Mazant in the [Bywater](/neighborhoods/bywater/) is one historic house with a heated pool and spa, useful for post-reveal decompression, and The Revelry in Central City gives a crew its own floor. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, and a hotel room block (The Roosevelt, Hotel Peter & Paul, and similar) works for groups mixing budgets who'd rather run the show in a rented event space than a rental. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
