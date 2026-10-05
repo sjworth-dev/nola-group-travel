@@ -206,7 +206,7 @@ Most New Orleans restaurants don't have a great online system for groups of 15+.
 
 **They want one check.** Also common. Use Venmo, Splitwise, or a group pool. Don't ask the restaurant to split 20 ways.
 
-**Someone has a dietary restriction.** Call ahead. Any restaurant worth eating at will accommodate. Surprises at the table cause problems for everyone.
+**Someone has a dietary restriction.** Call ahead, and for a crew with several restrictions read the [mixed-diet dinner plan](/guides/nola-group-mixed-diet-restaurant-strategy-guide/). Any restaurant worth eating at will accommodate. Surprises at the table cause problems for everyone.
 
 **The reservation time isn't being honored.** Walk-ins push things back. Be patient. Have drinks at the bar while you wait.
 
