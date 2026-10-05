@@ -4,7 +4,7 @@ description: "The complete 3-day bachelor party itinerary for New Orleans—golf
 category: "Bachelorette & Bachelor"
 card_title: "Bachelor Party Itinerary"
 card_description: "Full 3-day playbook: golf or fishing morning, sports bar afternoon, structured bar crawl, group dinners. Everything from airport pickup to last call."
-date: 2026-08-01
+date: 2026-10-05
 ---
 
 New Orleans doesn't need to be sold as a bachelor party destination. You already know. The question is how to run three days well for the whole crew without the whole thing collapsing into chaos on Day 1 and everyone spending Day 2 in bed.
@@ -257,7 +257,7 @@ The [budget guide](/guides/budget-guide/) runs the fuller per-person math across
 
 A bachelor party at real size needs a villa. Hotel rooms scatter the group, kill the communal energy, and cost more when you do the math — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through why.
 
-The field spans a real range of fits. Bywater properties like Castleday Retreats deliver total privacy — private pools per villa, full kitchens for the late-night snack run, no hotel staff or other guests on the property. CBD/Warehouse District options like Hotel Perle put you within walking distance of the Quarter with separate bills per room, useful if the group plans to move between neighborhoods and split costs cleanly. None of the above is a booking recommendation — pick by fit, and book early either way; bachelor parties are a peak-use case across the field.
+The field spans a real range of fits. Bywater houses like The Mazant (sleeps 18, heated pool and spa) deliver privacy and full kitchens for the late-night snack run, with no other guests on the property. CBD/Warehouse District options like Hotel Perle put you within walking distance of the Quarter with separate bills per room, useful if the group plans to move between neighborhoods and split costs cleanly. None of the above is a booking recommendation — pick by fit, and book early either way; bachelor parties are a peak-use case across the field.
 
 ---
 

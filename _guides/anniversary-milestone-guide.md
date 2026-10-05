@@ -4,7 +4,7 @@ description: "How to plan a meaningful milestone celebration in New Orleans with
 category: "Weddings & Celebrations"
 card_title: "Milestone Celebrations"
 card_description: "Significant anniversaries, reunions, and landmark occasions. How to make the trip feel like the moment deserves."
-date: 2026-08-11
+date: 2026-10-05
 ---
 
 A trip is easy. A milestone is something else.
@@ -122,7 +122,7 @@ Hire a local caterer or private chef. They come to your property, use the kitche
 
 For reunions and anniversary trips where the gathering itself is the point, dinner at the house is often more meaningful than dinner at a restaurant.
 
-**Castleday Retreats** — the Bywater villas have particularly good common dining space for this. Large table configurations, full kitchens for a chef to work in, and outdoor spaces to extend the evening after dinner.
+**A large-format house** — Heirloom's homes or The Mazant (a Bywater guesthouse sleeping 18) suit this best. Look for a big dining table, a full kitchen for a chef to work in, and outdoor space to extend the evening after dinner.
 
 ---
 
