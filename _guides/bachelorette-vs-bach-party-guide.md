@@ -115,13 +115,13 @@ A Saints gameday is worth building the whole trip around if the timing lines up 
 
 ## Where They Overlap
 
-Despite the differences, both trips share most of the same logistics.
+Despite the differences, both trips share most of the same logistics. If you're still deciding the shape of either one, the full [bachelorette party guide](/guides/bachelorette-party/) and [bachelor party guide](/guides/bachelor-party/) go deep, and the [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions in order.
 
 ### The Same Infrastructure
 
 **Accommodations:** Both groups need a large private rental where everyone can gather. The same villa works for either party — the difference is in how you use the space, not what space you need.
 
-**Restaurants:** New Orleans' [group-friendly restaurants](/guides/restaurant-guide/) work for both trips. Cochon, Pêche, Commander's Palace, Compère Lapin — these aren't gendered. Book them regardless of which party you're planning.
+**Restaurants:** New Orleans' [group-friendly restaurants](/guides/restaurant-guide/) work for both trips. Cochon, Pêche, Commander's Palace, Compère Lapin — these aren't gendered. Book them regardless of which party you're planning. For the daytime half of the weekend, the [day drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) helps pick a lane.
 
 **The second line:** Equally good for both. Different energy — the bachelorette leans more performative, the bachelor group leans more chaotic — but both are unforgettable.
 
