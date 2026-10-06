@@ -4,7 +4,7 @@ description: "How to communicate across a large group before, during, and after 
 category: "Planning & Logistics"
 card_title: "Group Communication Guide"
 card_description: "WhatsApp setup, pre-trip packets, Splitwise, day-of coordination — the logistics of managing a crew that all have opinions."
-date: 2026-08-13
+date: 2026-10-06
 ---
 
 Managing a 15-person group trip is a part-time job. Nobody tells you this when you volunteer to be the organizer.
@@ -244,7 +244,9 @@ Give people 7 days after the trip to settle Splitwise balances. Send one reminde
 
 The foundation of any group trip is staying in the same place. Scattered hotel rooms break everything this guide is trying to build — shared mornings, natural gathering points, the kitchen where the first night recap happens.
 
-One booking, one address, one group chat that doesn't have to coordinate five hotel confirmation numbers — that's what makes the rest of this guide work. Bywater villas like Castleday Retreats trade on total privacy and a private pool per villa. The Syd, in the Lower Garden District, puts you a block from the streetcar with a shared pool and hot tub. Heirloom's large-format homes across LGD and Central City offer the deepest inventory if your dates are tight. And if the group's budgets or schedules genuinely don't match, a hotel room block — The Roosevelt, Hotel Peter & Paul, Hotel Perle — lets everyone book their own room on their own card while still staying under one roof. Compare the whole field, not just two names, on the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/).
+One booking, one address, one group chat that doesn't have to coordinate five hotel confirmation numbers — that's what makes the rest of this guide work. Bywater villas like Castleday Retreats trade on total privacy and a private pool per villa. Heirloom's large-format homes across LGD and Central City offer the deepest inventory if your dates are tight. And if the group's budgets or schedules genuinely don't match, a hotel room block — The Roosevelt, Hotel Peter & Paul, Hotel Perle — lets everyone book their own room on their own card while still staying under one roof. Compare the whole field, not just two names, on the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/).
+
+Once you're on the trip, the [group text burnout guide](/guides/nola-group-group-text-burnout-guide/) covers keeping the chat usable by day three, and the [planning hub](/guides/plan-a-group-trip/) sequences the decisions that come first.
 
 For the largest selection, book 6+ months out.
 
