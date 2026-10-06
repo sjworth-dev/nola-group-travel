@@ -73,7 +73,7 @@ For groups of 15+, Bywater and the Lower Garden District have the deepest invent
 
 ### For Large Groups
 
-The whole point is being together. You need one rental, not scattered hotel rooms. **Castleday Retreats** (private Bywater villas, up to 30 guests each with a pool per villa) fits groups that want their own space; **The Syd** (Lower Garden District, up to 22 per villa, shared heated pool and hot tub) fits groups that want more of a social scene and a walk to the streetcar. **Heirloom**'s wider inventory of large-format homes is worth a look too, especially if you're booking closer to the date. For the largest selection, book 6+ months out.
+The whole point is being together. You need one rental, not scattered hotel rooms. **The Mazant** (an 1880s Bywater guesthouse sleeping 18, heated pool and spa) fits a friend group that wants one historic house; **The Natchez Vacation Rentals** (apartment-style units sharing a saltwater pool and hot tubs) fits groups that want a pool scene with their own space. **Heirloom**'s wider inventory of large-format homes is worth a look too, especially if you're booking closer to the date. For the largest selection, book 6+ months out.
 
 ---
 

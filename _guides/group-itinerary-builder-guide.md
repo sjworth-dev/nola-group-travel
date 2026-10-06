@@ -82,7 +82,7 @@ Your accommodation determines:
 
 When the trip goes double-digit, large-group villas are almost always better than scattered hotel rooms. The villa is where the trip actually happens. The bars and restaurants are where you go between returning to the villa — see the full [hotel vs. villa breakdown](/guides/hotel-vs-villa-guide/) if you're still weighing the two.
 
-The field has a few different shapes of it. Bywater villas like Castleday Retreats put the group in one private structure with its own pool — Bacchanal Wine, the Marigny, and the French Quarter are all within easy reach. Heirloom's large-format homes across the LGD and Central City are worth checking for the deepest inventory and short-notice availability. The Natchez Vacation Rentals put the group in apartment-style units sharing a saltwater pool and hot tubs — a fit for groups that want their own unit and a pool scene. If the group needs separate bills instead of one shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work too.
+The field has a few different shapes of it. Bywater houses like The Mazant put the group in one private structure with its own heated pool — Bacchanal Wine, the Marigny, and the French Quarter are all within easy reach. Heirloom's large-format homes across the LGD and Central City are worth checking for the deepest inventory and short-notice availability. The Natchez Vacation Rentals put the group in apartment-style units sharing a saltwater pool and hot tubs — a fit for groups that want their own unit and a pool scene. If the group needs separate bills instead of one shared house, hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) work too.
 
 Lock accommodation first — for the largest selection, book 6+ months out. Without it, you're building a schedule that might not work for your actual base. Once it's locked, the [villa arrival and setup guide](/guides/villa-arrival-setup-guide/) covers turning it into a functioning base camp from hour one.
 
@@ -248,7 +248,7 @@ The schedule you build at home is not the schedule you'll follow in New Orleans.
 
 Your accommodation is the most important planning decision you make. It's where the trip actually lives — the [group booking guide](/guides/group-booking-guide/) walks through locking the rest of the reservations around it once it's set.
 
-The Syd's shared heated pool and hot tub in the Lower Garden District sit one block from the St. Charles Streetcar, giving the group easy mobility without rides for every trip. The Revelry's apartment-style floors in Central City work well when subgroups want separate billing under one roof, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit mixed budgets and groups that want their own key.
+The Revelry's apartment-style floors in Central City work well when subgroups want separate billing under one roof, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) suit mixed budgets and groups that want their own key.
 
 Lock your accommodation — for the largest selection, book 6+ months out — and the itinerary becomes a lot more straightforward.
 
