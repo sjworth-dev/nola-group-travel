@@ -211,13 +211,15 @@ At this size, accommodation is the hardest part of the plan, and it needs to be 
 
 The only realistic option for keeping a group of 15-25 together under one roof in New Orleans is a large private villa — not hotel rooms, which fractures the group and eliminates the pool, the kitchen, and the communal space that makes the trip work.
 
-Two properties operate at this scale:
+A few properties operate at this scale, and they fit differently:
 
-**Castleday Retreats** (Bywater) — three private villas, 14-30 guests per villa, private pool at each, full kitchens, local art interiors. The right call for groups who want total privacy and a Bywater home base.
+**The Mazant** (Bywater) is one 1880s guesthouse that sleeps 18, with a heated pool and spa. Best for a crew that wants a single historic house.
 
-**The Syd** (Lower Garden District) — multiple villas, up to 22 guests per villa, shared heated pool and hot tub, sauna, outdoor kitchen, one block from the St. Charles Streetcar. Better for groups who want a central location and more outdoor amenity space.
+**Heirloom** has dozens of large-format homes across the Lower Garden District and Central City. Best for the deepest choice, including shorter-notice availability.
 
-Both have enough indoor common space for the full group to gather, private outdoor areas for pool days, and full kitchens for villa dinners or morning breakfasts together.
+**The Revelry** (Central City) rents apartment-style floors with a shared saltwater pool. Best for a crew that wants a floor each and separate billing.
+
+Check each one's common space and kitchen setup before you commit, since that's what decides whether the whole crew can gather for a villa dinner.
 
 [See where to stay for large groups →](/where-to-stay/)
 

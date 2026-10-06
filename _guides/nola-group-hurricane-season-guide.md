@@ -138,7 +138,7 @@ Before you book any accommodation during hurricane season, ask:
 2. **Is the property in a flood-prone area?** Parts of New Orleans flood during heavy rain events, not just major storms.
 3. **Do you have hurricane shutters?** For the small number of storms that do require preparation, this matters.
 
-Purpose-built group properties like Castleday Retreats, The Syd, and Heirloom's large-format homes generally have established storm policies and communication protocols. When you book, ask your host contact directly about what happens if a named storm affects your dates.
+Purpose-built group properties like Heirloom's large-format homes or The Revelry's apartment floors generally have established storm policies and communication protocols. When you book, ask your host contact directly about what happens if a named storm affects your dates.
 
 ---
 
@@ -164,7 +164,7 @@ Purpose-built group properties like Castleday Retreats, The Syd, and Heirloom's 
 
 The advantage of a private group villa over individual hotel rooms during hurricane season is coordination. When a watch or warning develops, you're not trying to reach a group scattered across 15 different hotel rooms on different floors. You're in one property with one communication chain.
 
-Castleday Retreats (Bywater, private pools, 14-30 guests per villa), The Syd (Lower Garden District, up to 22 guests per villa, one block from the St. Charles Streetcar), and Heirloom (dozens of large-format homes across the Lower Garden District and Central City) are examples of the kind of property that makes a rapid departure simple: one call, one van, one conversation about the plan, instead of coordinating a dozen separate bookings. For the largest selection, book 6+ months out.
+Heirloom (dozens of large-format homes across the Lower Garden District and Central City) and The Mazant (one Bywater guesthouse, sleeps 18) are examples of the kind of property that makes a rapid departure simple: one call, one van, one conversation about the plan, instead of coordinating a dozen separate bookings. For the largest selection, book 6+ months out.
 
 For groups booking the late-August-to-mid-September window specifically: ask any large-group property about rate structures for those exact dates. The value proposition is real — just don't expect it to still be true once October arrives.
 

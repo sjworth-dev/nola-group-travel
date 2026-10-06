@@ -172,10 +172,10 @@ For the largest selection, book 6+ months out. The handful of properties built f
 
 The villa advantage for Mardi Gras is specific: you have a base, a kitchen, and a private outdoor space on what is otherwise the most logistically demanding day of the year in New Orleans. The walk-around culture of the city means the villa is your support infrastructure — a place to rehydrate, change costumes, drop off throws, rest, and relaunch — rather than just sleeping quarters.
 
-**Castleday Retreats** — Three private villas in the Bywater, 14–30 guests each, with a private pool per villa. The Bywater location puts the group in a neighborhood with its own Mardi Gras energy — the Bywater and Marigny have house parades, neighborhood celebrations, and the St. Claude corridor adds its own character to the season. A private courtyard and pool are real recovery infrastructure for the day's physical demands.
+**The Revelry** (Central City) rents apartment-style floors with a saltwater pool, which gives each crew its own space and bill, plus a shared spot to recover. Central City sits close to the St. Charles parade corridor.
 
-**The Syd** — Villas in the Lower Garden District, up to 22 guests per villa, sharing a heated pool, hot tub, and outdoor kitchen. The Lower Garden District location puts the group close to the St. Charles parade route — a significantly shorter walk to the neutral ground than from most other neighborhoods.
+**The Mazant** (Bywater) is a single 1880s guesthouse that sleeps 18, with a heated pool and spa. The Bywater and Marigny have their own neighborhood Mardi Gras energy, and a private pool is real recovery infrastructure.
 
-Both fit the day well; a hotel room block near St. Charles is the other honest option if the group wants separate keys and doesn't need a shared courtyard to recover in. The [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) has more on how the Bywater and Lower Garden District stack up for a trip like this.
+Both fit the day; a hotel room block near St. Charles is the other honest option if the group wants separate keys and doesn't need a shared courtyard to recover in. The [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) has more on how the Bywater and Lower Garden District stack up for a trip like this.
 
 [See where to stay for large groups →](/where-to-stay/)
