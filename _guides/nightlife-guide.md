@@ -138,6 +138,8 @@ New Orleans nightlife doesn't run on a normal schedule. Things that would be pri
 | 1am–3am | True late night — Maison, Blue Nile, Snake & Jake's |
 | 3am–? | This is where New Orleans goes from interesting to genuinely weird. You'll know if it's for you. |
 
+Once the crew outgrows the bar, a hotel bar is the easiest late-night landing spot; the [hotel bar strategy guide](/guides/nola-group-hotel-bar-strategy-guide/) covers when to use one, and the [plan-a-group-trip hub](/guides/plan-a-group-trip/) sequences the rest of the decisions.
+
 **Weekday vs. weekend:** Frenchmen Street on a Thursday night often beats Friday or Saturday. Fewer tourists, same quality music, easier to move around. If you can swing a mid-week night, do it.
 
 ---
