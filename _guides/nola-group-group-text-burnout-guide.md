@@ -1,13 +1,15 @@
 ---
-title: "Managing Group Text Burnout on a Multi-Day NOLA Trip"
-description: "How to manage group communication fatigue across a 4-5 day New Orleans trip: when to go quiet on the main thread, how to run sub-group channels without fracturing the trip, and the role of the daily brief."
+title: "Group Chat Burnout on a NOLA Trip: How to Fix It"
+description: "By day three the group chat is unreadable. Here's the fix: one daily brief, a logistics-only channel, and deliberate quiet on the main thread."
 category: "Planning & Logistics"
 card_title: "Group Text Burnout"
-card_description: "By day three, the main group chat is 300 unread messages and nobody's reading it. Here's how to manage communication infrastructure across a 4-5 day NOLA trip without losing people or fracturing the group."
-date: 2026-07-03
+card_description: "By day three the main group chat is a wall of noise and nobody's reading it. How to keep a multi-day NOLA trip coordinated without losing people or fracturing the group."
+date: 2026-10-06
 ---
 
-By the third day of a NOLA group trip, the main group chat has become a wall of noise. There are 247 unread messages. Half of them are logistics from yesterday that no longer matter. A quarter of them are people saying "lol" and reacting with emojis. The remaining quarter contains actual information — tonight's dinner reservation, the Uber that's arriving in three minutes, who has the cash for the cover charge — buried so deep that nobody can find it.
+Verdict: stop trying to run the trip out of one group chat. By the third day it's a wall of noise, and a daily brief plus a logistics-only channel does the job better.
+
+Picture the chat on day three. Hundreds of unread messages. Half of them are logistics from yesterday that no longer matter. A quarter of them are people saying "lol" and reacting with emojis. The remaining quarter contains actual information — tonight's dinner reservation, the ride that's arriving in three minutes, who has the cash for the cover charge — buried so deep that nobody can find it.
 
 This is not a technology problem. It's a group behavior problem, and it's predictable enough that you can plan around it.
 
@@ -33,7 +35,7 @@ Understanding this arc is the first step to managing it. The second step is buil
 ## The Group Chat Arc: What Actually Happens
 
 **Day one (arrival day):**
-The main chat is active and useful. People post flight updates, ETA estimates, and who's picking up groceries. Response rates are high. Everyone is excited. The chat works.
+The main chat is active and useful (see the [arrival-day orientation walk](/guides/nola-group-arrival-day-orientation-walk/) for what to put in it first). People post flight updates, ETA estimates, and who's picking up groceries. Response rates are high. Everyone is excited. The chat works.
 
 **Day two:**
 The morning messages about breakfast plan work. By afternoon, the thread has diverged into multiple simultaneous conversations that don't resolve cleanly. A question about dinner is answered by three people with three different suggestions, none of which include the person who actually made the reservation. There are now 40 messages and the dinner location is still unclear to half the group.
@@ -60,16 +62,16 @@ Not a thread. Not a discussion. A single message that functions as the day's sou
 **What the daily brief contains:**
 
 1. The plan for the day in bullet form (e.g., "Pool until noon, lunch at 1pm, leaving for the French Quarter at 4pm, dinner reservation at 7pm at [restaurant]")
-2. Any time-sensitive logistics (e.g., "Ubers need to be called by 3:45pm to make the 4pm departure")
+2. Any time-sensitive logistics (e.g., "Rides need to be called by 3:45pm to make the 4pm departure")
 3. One action required of the group (e.g., "Reply here if you're joining dinner so we can confirm the headcount")
 
 **What it doesn't contain:** discussion, commentary, photos, or anything that requires a response thread.
 
 **Who sends it:** One designated person, rotating daily or consistent throughout the trip. This matters. If everyone sends it sometimes, nobody reads it. If one person sends it at the same time every morning, it becomes a habit.
 
-**When to send it:** Immediately after the first person is awake and has had coffee. Usually 8:30-9:30am. Not earlier — people aren't reading at 7am. Not later — by 10am, plans are already in motion and the brief is outdated.
+**When to send it:** Immediately after the first person is awake and has had coffee. Usually mid-morning, once the first person is up and caffeinated. Not earlier — people aren't reading at 7am. Not later — by 10am, plans are already in motion and the brief is outdated.
 
-The daily brief doesn't replace other communication. It anchors it. People can go back to the brief when they've missed three hours of context and know where the group stands.
+Assign it as one of your [trip roles](/guides/nola-group-trip-roles-assignment-guide/), and see the broader [group communication guide](/guides/group-communication-guide/) for pre-trip setup. The daily brief doesn't replace other communication. It anchors it. People can go back to the brief when they've missed three hours of context and know where the group stands.
 
 ---
 
@@ -94,12 +96,12 @@ The person who keeps posting to a thread everyone has checked out from isn't mai
 
 ## Sub-Group Channels: The Right Architecture
 
-Sub-group channels are inevitable on a 4-5 day trip. The question isn't whether they'll form — they will — but whether they're designed intentionally or emerge chaotically.
+Sub-group channels are inevitable on a multi-day trip. The question isn't whether they'll form — they will — but whether they're designed intentionally or emerge chaotically.
 
 Intentional sub-group channels that work:
 
 **Logistics channel (purpose: logistics only)**
-The place where "What time is the Uber?" and "Who has the reservation number?" live. Should have a strict no-social norm: if it's not a logistics question or answer, it goes in the main thread. Small, fast, and scannable even by people who've been out of contact for two hours.
+The place where "What time is the ride?" and "Who has the reservation number?" live. Should have a strict no-social norm: if it's not a logistics question or answer, it goes in the main thread. Small, fast, and scannable even by people who've been out of contact for two hours.
 
 **The "right now" channel**
 For people who are actively out and want to coordinate in real time. "We're at [bar], come now if you want." Not for general social chat — specifically for real-time location coordination. This one typically forms organically, which is fine.
@@ -149,7 +151,7 @@ A group that has been on phones for three days straight experiences this as reli
 
 The irony is that the moments most worth sharing — the spontaneous brass band in the street, the impromptu conversation on the levee, the sunset from the pool — are also the moments most degraded by turning immediately to document them for the group chat rather than experiencing them.
 
-Name these windows explicitly. "We're doing pool from noon to 3pm. Let's go phones-down." It works better when it's stated than when it's implied.
+Pair them with a slow morning after a [late night](/guides/nola-group-villa-hangover-recovery-guide/), or the [second-night momentum](/guides/nola-group-second-night-momentum-guide/) problem, when energy and reading attention are both lowest. Name these windows explicitly. "We're doing pool from noon to 3pm. Let's go phones-down." It works better when it's stated than when it's implied.
 
 ---
 
@@ -173,7 +175,7 @@ Name these windows explicitly. "We're doing pool from noon to 3pm. Let's go phon
 
 ## Large Groups and the Communication Challenge
 
-The communication problem scales with group size. A group of ten can operate on intuition and proximity; someone knows where everyone is, the group moves together, and a group chat is supplementary. A group of 25 is a small organization with a logistics coordination problem.
+If you're still sorting out the larger plan, start with the [group trip planning hub](/guides/plan-a-group-trip/). The communication problem scales with group size. A small crew can run on intuition and proximity; someone always knows where everyone is. Twenty-odd people is a small organization with a logistics coordination problem.
 
 Once the trip goes double-digit, the communication infrastructure described in this guide — daily brief, logistics channel, intentional silence windows, secondary contacts for the offline members — is not optional overhead. It's the difference between a trip where everyone feels connected and a trip where some members feel like they're constantly playing catch-up to a group they're nominally part of.
 
