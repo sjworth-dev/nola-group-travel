@@ -1804,3 +1804,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-06 UTC — seo: interlink `nightlife-guide.md` — added links to hotel bar strategy and hub.
 2026-10-06 UTC — fix: property balance sweep — `nola-group-girls-trip-guide.md`, `nola-group-hurricane-season-guide.md`, `nola-group-mardi-gras-day-guide.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry used).
 2026-10-06 UTC — backlog: no changes; Up Next left empty.
+2026-10-06 UTC (second run) — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-06 UTC (second run) — expand: refresh `nola-group-group-text-burnout-guide.md` (oldest, 2026-07-03) — retitled ≤60 chars, verdict-first intro, new description, removed numeric group size and city-specific app/time specifics, added links (arrival orientation walk, trip roles, communication guide, hangover recovery, second-night momentum, hub), bumped date.
+2026-10-06 UTC (second run) — seo: interlink `group-communication-guide.md` — added links to burnout guide and hub; dropped Syd.
+2026-10-06 UTC (second run) — fix: property balance sweep — `group-communication-guide.md`, `friends-trip.md`, `group-itinerary-builder-guide.md` (Castleday/Syd reduced; Mazant/Natchez used).
+2026-10-06 UTC (second run) — backlog: no changes; Up Next left empty.
