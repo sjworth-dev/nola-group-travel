@@ -11,7 +11,7 @@ The first night of a group trip to New Orleans is the most overrated night on th
 
 The energy is high. Everyone is finally here. The city is doing its thing. The default move is to treat night one as the main event — go hard, stay late, do everything — and then spend the next two days managing the damage.
 
-The groups that have the best trips treat night one as setup, not climax. Light dinner. Orientation walk. Home at a reasonable hour. Night two is the peak. Night one is the runway.
+The groups that have the best trips treat night one as setup, not climax. Light dinner. Orientation walk. Home at a reasonable hour. Night two is the peak, and it needs its own plan: see the [night two momentum guide](/guides/nola-group-second-night-momentum-guide/). Night one is the runway.
 
 This guide is the structure, and it pairs with the [arrival-day orientation walk](/guides/nola-group-arrival-day-orientation-walk/) and the [villa arrival setup guide](/guides/villa-arrival-setup-guide/). Here's how to manage the arrival window when people show up at different times, how to run a first-night orientation walk that makes the whole group feel oriented, how to pick the right dinner, and how to end the night at the right moment.
 
