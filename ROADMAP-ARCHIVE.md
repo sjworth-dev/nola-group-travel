@@ -1814,3 +1814,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-07 UTC — seo: interlink `family-reunion.md` — added link to pool day plan.
 2026-10-07 UTC — fix: property balance sweep — `nola-airport-transfer-guide.md`, `nola-art-gallery-guide.md`, `nola-cocktail-history-tour.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom/Perle used).
 2026-10-07 UTC — backlog: no changes; Up Next left empty.
+2026-10-07 UTC (second run) — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-07 UTC (second run) — expand: refresh `nola-group-second-night-momentum-guide.md` (oldest, 2026-07-04) — retitled ≤60 chars, verdict-first intro, new description, removed pseudo-scientific claims and precise timing figures, added links (hangover recovery, Marigny/Bywater, French Quarter at night, jazz club late night, first night structure, hub, hotel vs villa), neutral lodging paragraph, bumped date.
+2026-10-07 UTC (second run) — seo: interlink `nola-group-first-night-structure-guide.md` — added link to night two momentum guide.
+2026-10-07 UTC (second run) — fix: property balance sweep — `nola-group-villa-hangover-recovery-guide.md`, `nola-group-villa-sound-system-guide.md`, `bachelorette-vs-bach-party-guide.md` (Castleday/Syd removed; Mazant/Revelry/Natchez used).
+2026-10-07 UTC (second run) — backlog: no changes; Up Next left empty.
