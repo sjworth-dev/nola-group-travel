@@ -91,7 +91,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 **Afternoon:**
 - Regroup at the house
-- [Pool time](/guides/nola-pool-day-guide/), games, hanging out
+- [Pool time](/guides/nola-pool-day-guide/), games, hanging out (the [pool day plan](/guides/nola-group-pool-day-etiquette-guide/) sorts out the kids-versus-adults pool problem)
 - This is the point of the reunion—unstructured time together
 
 **Evening:**
