@@ -186,6 +186,6 @@ In a villa, everyone is in the same space. The down people are on the couch or i
 
 That physical togetherness is worth something on the hard mornings.
 
-Castleday Retreats in the Bywater has full kitchen infrastructure across each villa — the capacity to make eggs and toast for twenty people without it being a production, a common space large enough for the whole group to slow-morning together, and a private pool that's available in the afternoon when it's actually useful for recovery rather than harmful. The Syd in the Lower Garden District offers similar common-space flexibility, plus a hot tub that functions as a legitimate recovery tool for post-NOLA-night muscle tension. Both properties are built around the reality that groups need decompression time built into the trip, not just activity time.
+A rental with a full kitchen and a big common room makes the recovery sequence easy: eggs and toast for twenty without a production, space for the whole group to slow-morning together, and a pool that's useful in the afternoon rather than harmful. The Mazant (sleeps 18, heated pool and spa) and The Revelry (apartment-style floors, saltwater pool) are examples that fit. Either way, build decompression time into the trip, not just activity time.
 
 [See where to stay for large groups →](/where-to-stay/)

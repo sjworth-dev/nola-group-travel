@@ -208,7 +208,7 @@ If you're doing a fully combined trip, structure it like any large group trip �
 
 Both parties need the same thing: a private rental where everyone can gather, with enough space to not step on each other, and a pool that makes the in-between time good. See the [hotel vs. villa breakdown](/guides/hotel-vs-villa-guide/) for the full tradeoffs.
 
-Bywater villas like Castleday Retreats put a private pool at each house — the bachelorette groups tend to lean into the aesthetic, the bachelor groups tend to lean into the privacy. The Syd, in the Lower Garden District, is built around a shared pool and hot tub, which works well if the group wants a central gathering point rather than a self-contained house. If both parties are in town the same weekend, booking two separate villas at the same Bywater complex is a solid move — each group keeps its own space, with enough geographic proximity for a crossover moment if you want one.
+Apartment-style options like The Natchez Vacation Rentals (shared saltwater pool and hot tubs) suit groups that want a central gathering point, while a single historic house like The Mazant (heated pool and spa) suits a crew that wants privacy and a self-contained scene. Bachelorette groups tend to lean into the aesthetic, bachelor groups into the privacy.
 
 For the largest selection, book 6+ months out.
 

@@ -214,6 +214,6 @@ The music infrastructure question is more important for large groups than for sm
 
 The good news is that the villa format is dramatically better for group music than the hotel format. In a hotel, your only music is in your room or whatever bar you're at. In a private villa, you control the entire audio environment — inside and out, at every hour of the day, for whatever mood the group is in. That control is worth using intentionally.
 
-Castleday Retreats in the Bywater and The Syd in the Lower Garden District both have outdoor spaces built for group use, which means the outdoor audio question — the pool deck, the courtyard, the evening gathering space — is a real one with a real solution. Each property has different built-in infrastructure, but both have the outdoor common space where music matters. Ask at booking what the villa's audio setup includes so you know what to bring vs. what to rely on.
+Outdoor common space is where music matters most: the pool deck, the courtyard, the evening gathering spot. Properties like The Natchez Vacation Rentals (shared saltwater pool and hot tubs) and The Mazant (heated pool and spa) have that kind of space, but audio setups vary and neighbors vary, so ask at booking what's included and what the noise rules are.
 
 [See where to stay for large groups →](/where-to-stay/)
