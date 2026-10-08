@@ -1,17 +1,17 @@
 ---
-title: "Music Infrastructure for a Villa Group of 15-30"
-description: "Speaker placement, playlist architecture, the DJ rotation model vs. single-curator model, and the outdoor-to-indoor transition as the night progresses—how to run the music for a large group villa stay."
+title: "Villa Sound System Guide: Music for a Big Group"
+description: "Two speakers beat one loud one. Speaker placement, a shared playlist, who gets the aux, and the outdoor-to-indoor handoff for a big-group villa stay."
 category: "Planning & Logistics"
 card_title: "Villa Sound System Guide"
 card_description: "The music is either the best or worst thing about a villa group trip. Bad speaker placement, playlist fights, and the 10pm outdoor volume cliff all ruin it. Here's how to run it correctly."
-date: 2026-07-04
+date: 2026-10-08
 ---
 
-Nobody in the group talks about music infrastructure before the trip. It gets treated as something that will sort itself out — someone will hook up their Bluetooth speaker, someone will control the playlist, and it will be fine. Sometimes it is fine. More often, it becomes one of the persistent low-level friction sources of the trip: music too loud, music too quiet, music nobody likes, music cutting out because the speaker died, argument about whose turn it is to pick.
+**Verdict: use two modest speakers instead of one loud one, build the playlist before you arrive, and put one person in charge each day.** That's the whole system. Everything below is detail.
 
-A large group villa stay has a genuine music infrastructure problem. You have 15-30 people with different tastes, different volume preferences, different needs at different hours of the day, and a physical space with indoor and outdoor zones that have completely different acoustic needs. Managing this well is not complicated — but it requires five minutes of setup thinking that most groups skip.
+Nobody talks about music before the trip. Someone will bring a Bluetooth speaker, someone will hold the phone, it'll be fine. Then it's too loud, too quiet, nobody likes it, the speaker died at 2pm, and two people are arguing about whose turn it is to pick.
 
-This guide is that five minutes of thinking, done in advance.
+A whole crew at a villa has indoor and outdoor zones, a wide spread of taste, and neighbors. It takes five minutes of thinking to get this right. This is those five minutes. For the rest of the logistics, start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -22,7 +22,7 @@ This guide is that five minutes of thinking, done in advance.
 - [ ] Designate a music lead for each day — one person per day who owns the main playlist decisions; rotate daily
 - [ ] Build or curate a group playlist before the trip (Spotify collaborative playlist, Apple Music shared, etc.) — resolve the taste problem in advance, not mid-pool-day
 - [ ] Test speaker range and battery life before you need it; charge all Bluetooth speakers the night before each day
-- [ ] Know where the outdoor outlet is for a wired extension cable backup — heat kills Bluetooth batteries faster than expected in Louisiana summers
+- [ ] Know where the outdoor outlet is for a wired extension cable backup — heat kills Bluetooth batteries faster than expected in New Orleans summers
 - [ ] Set volume expectations in advance: outdoor daytime volume vs. outdoor evening (pre-10pm) vs. indoor evening
 - [ ] Plan the indoor transition time — when the music moves from outdoor to indoor, and who manages it
 - [ ] One speaker per zone is better than one speaker turned up louder trying to cover the whole property
@@ -141,13 +141,11 @@ One person is the music lead per day — they set the baseline playlist and the 
 
 This is the specific transition moment that most groups handle badly.
 
-In New Orleans, outdoor music has a hard cut at 10pm in residential neighborhoods (the city noise ordinance for outdoor amplified music). In Bywater and the Lower Garden District — where most large group villas are — this is enforced and real. The transition from outdoor to indoor music is not optional.
+New Orleans has noise rules for outdoor amplified sound, and residential neighborhoods like Bywater and the Lower Garden District — where many big-group rentals sit — have neighbors who will call. Check the city's current rules and the house rules for your rental before you arrive, and treat a roughly 10pm outdoor cutoff as the safe assumption. Moving the music inside is not optional.
 
-Most groups discover this at 9:55pm when someone looks it up on their phone, and then there's a chaotic scramble to move speakers inside, disconnect the pool deck sound, and reconfigure the setup. Ten minutes of noise that nobody planned for.
+Most groups discover this at 9:55pm, then scramble to move speakers and reconfigure everything. Treat the transition as a scheduled event, not an emergency. More on the neighbor side in the [noise and neighbors guide](/guides/nola-group-noise-neighbors-villa-guide/).
 
-The correct approach is to treat the 9:45pm transition as a scheduled event, not an emergency.
-
-**The 10pm transition protocol:**
+**The transition protocol (built around a 10pm cutoff):**
 
 - At 9:30pm, the music lead starts transitioning. Lower outdoor volume slightly as a signal.
 - At 9:45pm: Move or disconnect the outdoor speakers. The music continues on indoor speakers, which are already set up and ready.
@@ -180,13 +178,13 @@ If the villa doesn't have adequate audio infrastructure, here's what a group sho
 
 | Item | Use | Notes |
 |---|---|---|
-| JBL Xtreme or similar large Bluetooth speaker (x2) | Outdoor primary; indoor backup | Long battery life; handles outdoor volume; waterproof |
+| Large waterproof Bluetooth speaker (x2) | Outdoor primary; indoor backup | Long battery life; handles outdoor volume; waterproof |
 | Smaller Bluetooth speaker (x1) | Kitchen/dining zone; bedroom common area | Don't use your main speakers for background kitchen music |
 | Extension cable + power strip | Keep speakers plugged in when near outlet | Heat kills batteries fast; wired when possible |
 | Waterproof speaker (x1) | Pool-adjacent; for people in the water | Smaller is fine; just waterproof matters |
 | Aux cable | Backup if Bluetooth drops | Some systems don't have Bluetooth; aux never drops |
 
-Total cost for a well-equipped group audio setup: $200-400, most of which is the two primary speakers. If anyone in the group already has quality Bluetooth speakers, that number drops to $0.
+Budget for two decent outdoor speakers and little else. If anyone in the group already owns a couple, the cost is zero.
 
 ---
 
@@ -212,8 +210,10 @@ Total cost for a well-equipped group audio setup: $200-400, most of which is the
 
 The music infrastructure question is more important for large groups than for small ones because the stakes are higher. With five people, a bad playlist is mildly annoying and someone fixes it in five minutes. With twenty people, a bad music situation compounds — whoever is unhappy with the music is less likely to speak up, and the low-level friction accumulates across hours.
 
-The good news is that the villa format is dramatically better for group music than the hotel format. In a hotel, your only music is in your room or whatever bar you're at. In a private villa, you control the entire audio environment — inside and out, at every hour of the day, for whatever mood the group is in. That control is worth using intentionally.
+The upside of a rental over a hotel: you control the audio environment, inside and out, at every hour. See [hotel vs. villa](/guides/hotel-vs-villa-guide/) for the wider tradeoff. That control is worth using on purpose.
 
 Outdoor common space is where music matters most: the pool deck, the courtyard, the evening gathering spot. Properties like The Natchez Vacation Rentals (shared saltwater pool and hot tubs) and The Mazant (heated pool and spa) have that kind of space, but audio setups vary and neighbors vary, so ask at booking what's included and what the noise rules are.
+
+Pair this with the [pool party guide](/guides/villa-pool-party-guide/) and the [pool day etiquette guide](/guides/nola-group-pool-day-etiquette-guide/) for the daytime side. And for after-dark plans away from the speakers, see the [live music crawl guide](/guides/nola-group-live-music-crawl-guide/).
 
 [See where to stay for large groups →](/where-to-stay/)
