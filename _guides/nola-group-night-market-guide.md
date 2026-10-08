@@ -173,7 +173,7 @@ New Orleans markets are best in the cooler months (October through April). The s
 
 ## Where to Base Your Market Evening
 
-Base location matters here more than for a lot of activities, since the best markets cluster in specific neighborhoods. A [Bywater](/neighborhoods/bywater/) base, like Castleday Retreats (private villas, private pool per villa), puts you closest to the St. Claude Arts District markets, the [Marigny](/neighborhoods/marigny/) pop-up market scene, and Frenchmen Street's weekend art market — the French Market is a short rideshare. A Lower Garden District base, like The Syd (shared heated pool, one block from the St. Charles Streetcar), trades that proximity for a streetcar ride that reaches the CBD and the French Market in under 20 minutes. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice. None of these is a booking recommendation — pick by fit.
+Base location matters here more than for a lot of activities, since the best markets cluster in specific neighborhoods. A [Bywater](/neighborhoods/bywater/) base, like The Mazant (a historic guesthouse with a heated pool), puts you closest to the St. Claude Arts District markets, the [Marigny](/neighborhoods/marigny/) pop-up market scene, and Frenchmen Street's weekend art market — the French Market is a short rideshare. A Lower Garden District base trades that proximity for a streetcar ride that reaches the CBD and the French Market in under 20 minutes. Heirloom's large-format homes across the Lower Garden District and Central City, or The Revelry's apartment-style floors in Central City, add more choice. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 
