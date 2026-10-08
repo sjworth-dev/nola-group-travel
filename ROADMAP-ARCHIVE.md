@@ -1819,3 +1819,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-07 UTC (second run) — seo: interlink `nola-group-first-night-structure-guide.md` — added link to night two momentum guide.
 2026-10-07 UTC (second run) — fix: property balance sweep — `nola-group-villa-hangover-recovery-guide.md`, `nola-group-villa-sound-system-guide.md`, `bachelorette-vs-bach-party-guide.md` (Castleday/Syd removed; Mazant/Revelry/Natchez used).
 2026-10-07 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-08 UTC — note: `## Up Next` empty, so no new page (ROADMAP human-gate wins over the runner prompt's "generate backlog" line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-08 UTC — expand: refresh `nola-group-villa-hangover-recovery-guide.md` (oldest, 2026-07-04) — retitled ≤60 chars, verdict-first intro, new description, removed numeric group sizes, pseudo-science, UV/price specifics, added links (hub, morning-after, slow morning, brunch, delivery, grocery, pool etiquette, heat, hotel vs villa, night guides), bumped date.
+2026-10-08 UTC — seo: interlink `bachelorette-party.md` — added link to hangover recovery guide.
+2026-10-08 UTC — fix: property balance sweep — `nola-group-bywater-vs-lgd-deep-comparison.md`, `nola-group-french-quarter-festival-deep-dive.md`, `nola-group-new-orleans-vs-las-vegas-guide.md` (Syd removed/Castleday reduced; Mazant/Revelry/Heirloom used).
+2026-10-08 UTC — backlog: no changes; Up Next left empty.
