@@ -52,7 +52,7 @@ Las Vegas's large-group lodging runs almost entirely through Strip resort hotels
 
 New Orleans has a genuinely developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties designed specifically for groups in the double digits, with private or shared pools, full kitchens, and a real shared home base. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works for a group weighing either format here.
 
-**Editorial examples of what that New Orleans inventory looks like:** properties like The Syd (Lower Garden District villas with a shared pool, hot tub, and outdoor kitchen) or Hotel Perle (CBD/Warehouse District group suites with separate billing) represent the kind of purpose-built group housing that Las Vegas's Strip-resort-heavy market generally doesn't offer at the same scale. Neither is a booking recommendation — they're representative of a category New Orleans has developed further.
+**Editorial examples of what that New Orleans inventory looks like:** properties like The Mazant (an 1880s Bywater guesthouse that sleeps 18 with a heated pool and spa) or Hotel Perle (CBD/Warehouse District group suites with separate billing) represent the kind of purpose-built group housing that Las Vegas's Strip-resort-heavy market generally doesn't offer at the same scale. Neither is a booking recommendation — they're representative of a category New Orleans has developed further.
 
 ---
 

@@ -199,6 +199,6 @@ When the trip goes double-digit for FQF, the villa model is the obvious solution
 
 **Roami (The Lola, The Mandeville)** — Apartment-hotel units downtown; The Mandeville runs to 12 bedrooms sleeping about two dozen. Booking works like a hotel but each unit is a separate apartment, which matters when a four-day festival means people keeping very different hours. Downtown puts you within easy reach of the Quarter without being in the middle of the festival crush overnight.
 
-**The Syd** — Multiple villas in the Lower Garden District, with a shared heated pool, hot tub, and outdoor kitchen. One block from the St. Charles Streetcar, about 10 minutes to the Quarter on the car — close enough for an easy return, far enough to actually sleep.
+**The Revelry** — Apartment-style floors in Central City (six to nine guests each) with a saltwater pool. Each crew gets its own floor and its own bill, and you're a short ride from the Quarter — close enough for an easy return, far enough to actually sleep.
 
 Either works, and so do the rest of the options on [where to stay for large groups](/where-to-stay/) — check availability early, since FQF and Jazz Fest season both book out well ahead. For the largest selection, book 6+ months out.

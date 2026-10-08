@@ -159,11 +159,11 @@ Private walled pool in a Bywater villa versus a shared heated pool with a hot tu
 
 ## Large Group Accommodation in These Neighborhoods
 
-The Bywater and LGD comparison isn't abstract — it maps directly to the two most prominent dedicated large-group villa options in the city.
+The Bywater and LGD comparison isn't abstract — it maps onto how large-group lodging is actually sold in the city.
 
-Castleday Retreats in the Bywater represents the Bywater model at its most developed: villas of 14-30 guests each, with a private pool per property. The pitch is privacy. One group, one property. No shared anything with strangers. You're in a Bywater neighborhood that looks and feels like New Orleans while having a completely self-contained villa experience.
+The Bywater model is privacy. Castleday Retreats offers villas of 14–30 guests each with a private pool per property, and The Mazant is a single 1880s guesthouse that sleeps 18 with a heated pool and spa. One group, one property, nothing shared with strangers, in a neighborhood that looks and feels like New Orleans.
 
-The Syd in the Lower Garden District is the LGD model: villas of up to 22 guests sharing a heated pool and hot tub, one block from the St. Charles Streetcar. The pitch is amenity density — more poolside infrastructure, more outdoor social space, and a central LGD address that walks to Magazine Street and streetcars to the Garden District.
+The LGD side of the map is about amenity density and a central address. Heirloom runs a deep inventory of large-format homes in the Lower Garden District and Central City, and The Revelry offers apartment-style floors with a saltwater pool nearby in Central City. Streetcar access to Magazine Street and the Garden District is the draw.
 
 The choice between them reflects the broader Bywater-vs-LGD decision. Which version of the trip are you building?
 
