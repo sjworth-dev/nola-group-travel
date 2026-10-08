@@ -89,7 +89,7 @@ Anchor points, not a schedule. Three commitments a day; New Orleans handles the 
 
 ### Day 3: Recovery + Round Two
 
-- **10:30am** — Slow start. Beignets at Café Du Monde (yes, it's touristy; do it anyway) or Bloody Marys at the house
+- **10:30am** — Slow start. The [hangover recovery plan](/guides/nola-group-villa-hangover-recovery-guide/) is the cheat sheet for stocking the house. Beignets at Café Du Monde (yes, it's touristy; do it anyway) or Bloody Marys at the house
 - **1:00pm** — Low-key: Garden District wander, Magazine Street boutiques, or nothing at all by the pool
 - **7:00pm** — Casual dinner near the house, then Bacchanal-style wine-and-live-music night, or a burlesque show (The Allways Lounge) if the group has one more gear
 - Earlier night. Flights exist.
