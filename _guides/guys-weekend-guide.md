@@ -109,6 +109,8 @@ Not a bachelor party officially, but the group is in that range. Here's what wor
 
 Don't go hard on night one. You've been traveling. Half the group is already tired.
 
+The [first night structure guide](/guides/nola-group-first-night-structure-guide/) has the full playbook, and the [second night momentum guide](/guides/nola-group-second-night-momentum-guide/) covers keeping night two from going flat. Stock the house for the morning after with the [hangover recovery guide](/guides/nola-group-villa-hangover-recovery-guide/).
+
 Dinner somewhere good. Head to Frenchmen Street for live music. Drink at a comfortable pace. This is a reconnaissance night — figure out where things are, what your group wants to do on nights two and three.
 
 ### Night 2: The Real Night
