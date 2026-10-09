@@ -1834,3 +1834,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-09 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` — added links to family reunion and holiday gathering guides.
 2026-10-09 UTC — fix: property balance sweep — `nola-group-mid-city-city-park-full-day-guide.md`, `nola-group-jazz-fest-camping-alternative-guide.md`, `nola-group-food-market-guide.md` (Syd removed, Castleday reduced; Heirloom/Mazant used).
 2026-10-09 UTC — backlog: no changes; Up Next left empty.
+2026-10-09 UTC (second run) — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-09 UTC (second run) — expand: refresh `nola-group-pre-trip-survey-guide.md` (oldest, 2026-07-05) — retitled, verdict-first intro, new description, removed numeric group ranges and Castleday/Syd, softened heat-season range, added links (hub, best time, transportation), bumped date.
+2026-10-09 UTC (second run) — seo: interlink — folded into survey refresh (hub, best-time, transportation links).
+2026-10-09 UTC (second run) — fix: property balance sweep — `nola-group-spring-break-guide.md`, `holiday-gathering.md`, `nola-group-last-minute-booking-guide.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry/Perle/Roami used; spring-break lead-time set to standard line).
+2026-10-09 UTC (second run) — backlog: no changes; Up Next left empty.

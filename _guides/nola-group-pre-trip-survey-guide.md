@@ -1,15 +1,15 @@
 ---
-title: "The Pre-Trip Survey Every NOLA Group Organizer Should Send"
-description: "The one survey to send three weeks before your New Orleans trip. NOLA-specific questions that prevent mid-trip friction for groups of 10–30."
+title: "Pre-Trip Group Survey for New Orleans: 12 Questions"
+description: "Send one survey three weeks out. These New Orleans-specific questions surface allergies, heat limits and French Quarter splits before they wreck night two."
 category: "Planning & Logistics"
 card_title: "Pre-Trip Group Survey"
 card_description: "Send this three weeks out. The NOLA-specific questions that prevent mid-trip conflict."
-date: 2026-07-05
+date: 2026-10-09
 ---
 
-Three weeks before your trip, the group chat is at peak excitement. Everyone's in. No one's thought about the details.
+Send the survey three weeks out. Skip it and you'll learn about the shellfish allergy, the heat meltdown and the "I hate the Quarter" camp at 11 PM on night two.
 
-That's your window. Send a survey now.
+Three weeks before your trip, the group chat is at peak excitement. Everyone's in. No one's thought about the details. That's your window. If you're still sequencing decisions, the [group trip planning hub](/guides/plan-a-group-trip/) shows where this fits.
 
 Not a vibe check. Not "what do you want to do?" A real survey with specific questions that surface the things that will actually cause friction. The stuff people don't mention until it explodes at 11 PM on night two.
 
@@ -90,7 +90,7 @@ These are the ones most organizers skip. They're the most important.
 
 **How do you handle extreme heat and humidity?**
 
-If your trip is May through September, this is non-negotiable. New Orleans summer is genuinely brutal: mid-90s with near-100% humidity is a real afternoon. Groups with low heat tolerance need built-in air-conditioned breaks, outdoor activities scheduled before 11 AM, and a plan for when someone taps out. You cannot power through a NOLA July afternoon the way you can walk a city in October. Consult the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) for walkability and shade by area.
+If your trip lands in June through September (or the sticky end of May), this is non-negotiable. New Orleans summer is genuinely brutal: mid-90s with near-100% humidity is a real afternoon. Groups with low heat tolerance need built-in air-conditioned breaks, outdoor activities scheduled before 11 AM, and a plan for when someone taps out. You cannot power through a NOLA July afternoon the way you can in a cooler month. See the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) for what each month actually feels like. Consult the [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) for walkability and shade by area.
 
 **What's your relationship with the French Quarter?**
 
@@ -112,7 +112,7 @@ Don't assume everyone came for jazz. NOLA has traditional jazz, brass bands, hip
 
 **What's your walkability limit per day?**
 
-Walking is unavoidable in New Orleans, but there's a difference between "I'll walk a mile to dinner" and "I can walk eight miles and be fine." Some neighborhoods are tough for people with mobility issues or bad knees — the Quarter's cobblestones, late-night crowds in tight spaces. If anyone in the group needs transit options, properties in the Lower Garden District put you a block from the St. Charles streetcar.
+Walking is unavoidable in New Orleans, but there's a difference between "I'll walk a mile to dinner" and "I can walk eight miles and be fine." Some neighborhoods are tough for people with mobility issues or bad knees — the Quarter's cobblestones, late-night crowds in tight spaces. If anyone in the group needs transit options, the [getting around guide](/guides/transportation-guide/) covers the streetcar and rideshare tradeoffs.
 
 ---
 
@@ -124,7 +124,7 @@ Walking is unavoidable in New Orleans, but there's a difference between "I'll wa
 | Dietary restrictions | Menus are seafood, pork, and roux-heavy — limited options for restrictions |
 | Alcohol comfort level | Open container culture means drinking is ambient, not scheduled |
 | Morning vs. night | 24-hour city means both schedules are valid and incompatible |
-| Heat/humidity tolerance | May–Sept trips require A/C breaks; heat affects everyone differently |
+| Heat/humidity tolerance | Summer trips require A/C breaks; heat affects everyone differently |
 | French Quarter attitude | Drives the whole evening geography of your trip |
 | Disruption tolerance | Parades, festivals, street closures are part of the city |
 | Music preferences | Venue types vary wildly; Frenchmen Street ≠ Bourbon Street |
@@ -151,12 +151,12 @@ Walking is unavoidable in New Orleans, but there's a difference between "I'll wa
 
 ---
 
-## For Large Groups (10–30 People)
+## For Large Groups
 
-The larger the group, the more a pre-trip survey pays off. With 10 people you can improvise. With 22, one undisclosed shellfish allergy or one person who genuinely cannot handle summer heat collapses an afternoon for everyone.
+The larger the group, the more a pre-trip survey pays off. With a handful of people you can improvise. With twenty-two, one undisclosed shellfish allergy or one person who genuinely cannot handle summer heat collapses an afternoon for everyone.
 
 Before the survey, work out who owns what. The [trip roles assignment guide](/guides/nola-group-trip-roles-assignment-guide/) walks through how to designate a logistics lead, a finance lead, and a restaurant point person before anything gets booked. Survey responses become much more actionable when someone specific is responsible for cross-referencing dietary info against restaurant picks.
 
-Private villa groups benefit most from this exercise. Properties like Castleday Retreats in the Bywater (up to 30 guests per villa) and The Syd in the Lower Garden District (up to 22 guests per villa) mean you're genuinely living together for several days. Friction that surfaces in hour 48 is friction you could have caught in a ten-question form three weeks earlier.
+Shared-house groups benefit most from this exercise. Whether it's a big villa, an apartment-style hotel floor or a block of suites, you're genuinely living together for several days. Friction that surfaces in hour 48 is friction you could have caught in a ten-question form three weeks earlier.
 
 [See where to stay for large groups →](/where-to-stay/)

@@ -252,8 +252,8 @@ The [drink pace management guide](/guides/nola-group-drink-pace-management-guide
 
 Spring break is peak season. Most rentals cap at 10-12 guests and are already booked by January for late March dates. Your options narrow fast once your group is over 15 people.
 
-Large-group villas are purpose-built for exactly this — groups that need to all be in the same place. Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools, full kitchens) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared pool and hot tub, outdoor kitchen) are the two main options in New Orleans at this scale. Both are significantly cheaper per person than booking equivalent hotel rooms once you hit 15+ guests.
+Large-format villas and apartment-style properties exist for exactly this — groups that need to all be in the same place. The Mazant (an 1880s Bywater guesthouse sleeping 18) suits one house for a mid-size crew; Heirloom's large-format homes and The Revelry's apartment-style floors suit a bigger headcount that wants separate bills. Compare per-person cost against hotel rooms before you decide.
 
-Book early. Spring break availability at these properties often fills up 2-3 months out.
+Spring is peak season: for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

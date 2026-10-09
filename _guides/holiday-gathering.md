@@ -180,7 +180,7 @@ Bourbon Street drops a giant fleur-de-lis at midnight. The entire city becomes a
 
 ### For Large Groups
 
-The field spans private-pool villas to hotel-style suites — pick by what the holiday actually needs. Heirloom has the deepest inventory of large-format homes if you're booking short-notice. Hotel Perle's CBD suites give grandparents and kids separate bills and separate quiet. The Syd's Lower Garden District villas work when the group wants a shared pool and central location. Castleday's Bywater villas fit a group that wants total privacy for the whole extended family.
+The field spans private-pool villas to hotel-style suites — pick by what the holiday actually needs. Heirloom has the deepest inventory of large-format homes if you're booking short-notice. Hotel Perle's CBD suites give grandparents and kids separate bills and separate quiet. The Revelry's apartment-style floors work when each branch of the family wants its own space, and The Mazant fits one historic house for up to 18.
 
 ### What Matters for Holidays
 

@@ -205,6 +205,6 @@ For general budget planning for your NOLA group trip, the [group budget guide](/
 
 Your accommodation search is the first call you make, not the last. At 15+ people, there are genuinely few options in New Orleans — this is true even at 3 months out, and it gets harder the closer to your dates you get.
 
-Castleday Retreats (three private villas in the Bywater, up to 30 guests each, private pools, full kitchens) and The Syd (multiple villas in the Lower Garden District, up to 22 guests each, shared heated pool, hot tub, outdoor kitchen) are the two main large-group operators in the city. If either has availability on your dates, book it immediately and plan the rest of the trip around what you have. The alternative — trying to coordinate three separate smaller rentals — is doable but will add enough friction to your trip that you'll wish you'd moved faster on a single property.
+Heirloom (dozens of large-format homes, the deepest inventory for short-notice availability), Hotel Perle's group suites and Roami's apartment-hotel units are the likeliest to have something open on short notice. If one fits your dates, book it immediately and plan the rest of the trip around what you have. The alternative — trying to coordinate three separate smaller rentals — is doable but will add enough friction to your trip that you'll wish you'd moved faster on a single property.
 
 [See where to stay for large groups →](/where-to-stay/)
