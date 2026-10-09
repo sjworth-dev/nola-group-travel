@@ -231,6 +231,6 @@ City Park is accessible from every neighborhood in New Orleans, but the Bywater 
 
 **The Mazant** — An 1880s Bywater guesthouse that sleeps up to 18, with a heated pool and spa. The Bywater to City Park transit is a 15-minute rideshare — manageable for the whole crew across a few cars, and short enough that the morning departure does not require a military-level early wake-up. Coming back to a heated pool and spa after the Mid-City dinner is the right way to close a day that was mostly walking and paddling.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool, hot tub, and outdoor kitchen. The Lower Garden District is slightly further from City Park than the Bywater (20-minute rideshare), but the return-to-villa pool access after the City Park day is the same: a private outdoor space for the group to decompress from a day that was primarily outdoors in varying conditions. The outdoor kitchen at The Syd makes the morning smoothie or light breakfast that fuels a City Park day easy to execute at villa scale.
+**Heirloom** — Large-format homes across the Lower Garden District and Central City, with the deepest inventory in the field. Either neighborhood is a short rideshare from City Park, and a house with a pool or a yard gives the group somewhere to decompress after a day spent outdoors.
 
 [See where to stay for large groups →](/where-to-stay/)

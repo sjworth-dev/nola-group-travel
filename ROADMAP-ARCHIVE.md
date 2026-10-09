@@ -1829,3 +1829,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-08 UTC (second run) — seo: interlink `guys-weekend-guide.md` — added links to first-night, second-night, hangover recovery guides.
 2026-10-08 UTC (second run) — fix: property balance sweep — `nola-group-jazz-funeral-culture-guide.md`, `nola-group-night-market-guide.md`, `group-communication-guide.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry used).
 2026-10-08 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-09 UTC — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-09 UTC — expand: refresh `family-reunion.md` (oldest, 2026-07-05) — verdict-first intro, new description, removed numeric group ranges and "trust us", hedged fares/admission, standard 6+ months line, added links (hub, kids & families, WWII museum, City Park, zoo, best time, holiday gathering, Thanksgiving), bumped date.
+2026-10-09 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` — added links to family reunion and holiday gathering guides.
+2026-10-09 UTC — fix: property balance sweep — `nola-group-mid-city-city-park-full-day-guide.md`, `nola-group-jazz-fest-camping-alternative-guide.md`, `nola-group-food-market-guide.md` (Syd removed, Castleday reduced; Heirloom/Mazant used).
+2026-10-09 UTC — backlog: no changes; Up Next left empty.

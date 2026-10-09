@@ -213,8 +213,8 @@ If your group is genuinely split, lean toward the villa and let the camping advo
 
 Finding accommodation for a big Jazz Fest crew is one of the hardest logistics problems in New Orleans trip planning. Hotels do not solve it — you end up in multiple rooms across multiple floors with no communal space. Standard vacation rentals are often too small or not equipped for large groups. And Jazz Fest weekend inventory disappears fast.
 
-Bywater is the strongest location for Jazz Fest base camp specifically: close enough to the Fair Grounds to make the commute easy, far enough from the festival chaos that you are in a real neighborhood, and walking distance to Frenchmen Street for the evening. Castleday Retreats' villas sit in that neighborhood, private pool included per villa. The Mazant is the same neighborhood in a single historic house if the group would rather share one roof than split across units.
+Bywater is the strongest location for Jazz Fest base camp specifically: close enough to the Fair Grounds to make the commute easy, far enough from the festival chaos that you are in a real neighborhood, and walking distance to Frenchmen Street for the evening. The Mazant, an 1880s guesthouse that sleeps 18, is the single-roof option there, and Castleday Retreats offers separate villas in the same neighborhood.
 
-Lower Garden District properties like The Syd trade a longer Fair Grounds commute for easier access to the rest of the city — a reasonable call if Jazz Fest is one part of a broader trip rather than the whole point of it. Either neighborhood works; see [where to stay for large groups](/where-to-stay/) for the full field.
+Lower Garden District properties like Heirloom's large-format homes trade a longer Fair Grounds commute for easier access to the rest of the city — a reasonable call if Jazz Fest is one part of a broader trip rather than the whole point of it. Either neighborhood works; see [where to stay for large groups](/where-to-stay/) for the full field.
 
 Whatever you book, do it well in advance — Jazz Fest weekends are the tightest booking window of the year. For the largest selection, book 6+ months out.

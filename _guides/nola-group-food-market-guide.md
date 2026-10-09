@@ -150,7 +150,7 @@ St. Roch Market is a food hall in the St. Roch neighborhood — not a traditiona
 
 ## Using the Market to Feed a Villa Group
 
-If your group is staying in a villa with a full kitchen — and Castleday Retreats and The Syd both have full kitchens — the market is not just a morning activity. It's a supply run.
+If your group is staying in a villa with a full kitchen — and the large-format rentals in the field generally have full kitchens — the market is not just a morning activity. It's a supply run.
 
 **The practical plan:**
 - Visit the Crescent City Farmers Market on Saturday morning with a list of what you need for the weekend
@@ -181,6 +181,6 @@ A villa crawfish boil or shrimp boil using Gulf shrimp bought from a market vend
 
 ## Where to Stay for a Market Morning
 
-A villa with a real kitchen makes the market morning actually matter — what you buy gets cooked. **Castleday Retreats**' [Bywater](/neighborhoods/bywater/) villas put you close to the farmers market in the Warehouse District, the French Market in the Quarter, and St. Roch Market in the same neighborhood corridor. **The Syd**, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared outdoor kitchen that's the natural destination for what you buy — shrimp boils, crawfish boils, and laid-back weekend cooking happen best around a proper outdoor setup. **Heirloom**'s large-format homes across the Lower Garden District and Central City add real counter space for a bigger haul. For the largest selection, book 6+ months out.
+A villa with a real kitchen makes the market morning actually matter — what you buy gets cooked. The Mazant in [Bywater](/neighborhoods/bywater/) puts you close to St. Roch Market, the French Market, and the Warehouse District farmers market. **Heirloom**'s large-format homes across the Lower Garden District and Central City add real counter space for a bigger haul. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
