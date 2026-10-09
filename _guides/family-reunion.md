@@ -1,17 +1,19 @@
 ---
 title: "Family Reunion in New Orleans: The Full Playbook"
-description: "How to plan a New Orleans family reunion that works for ages 8 to 80 — where to stay together, group dinners, activities, and a planning timeline."
+description: "A New Orleans family reunion works if everyone sleeps under one roof and eats at home. Here is the 4-day plan for ages 8 to 80, with a planning timeline."
 category: "Friends & Family"
 card_title: "Family Reunions"
 card_description: "Bring three generations together in one place. Activities and dining that work for everyone."
-date: 2026-07-05
+date: 2026-10-09
 ---
 
-Planning a family reunion is complicated enough without the logistics nightmare. Where can 20 people actually stay together? What do you do with toddlers and grandparents in the same group? How do you feed everyone without going broke?
+Verdict: New Orleans is a good reunion city, provided everyone sleeps under one roof and most dinners happen at home. Scatter the family across hotels and you've booked a vacation, not a reunion.
 
-New Orleans is one of the few cities where all of this actually works. History the older generation will love. Energy the younger generation craves. And food everyone agrees on.
+The questions are always the same. Where can twenty people actually stay together? What do you do with toddlers and grandparents in the same group? How do you feed everyone without going broke? The city answers all three: history the older generation will like, things to do that keep the kids busy, and food nobody argues about.
 
-This guide covers the standard reunion trip. If your age range runs wider — toddlers to grandparents in the same week — the [multigenerational family reunion guide](/guides/extended-family-reunion-guide/) goes deeper on mobility needs and the split-schedule model.
+If you're still at the "should we even do this?" stage, start with the [group trip planning hub](/guides/plan-a-group-trip/), which sequences the decisions in order.
+
+This guide covers the standard reunion trip. Bringing young children? The [kids and families guide](/guides/kids-families-guide/) goes deeper on the little-ones side. If your age range runs wider — toddlers to grandparents in the same week — the [multigenerational family reunion guide](/guides/extended-family-reunion-guide/) goes deeper on mobility needs and the split-schedule model.
 
 ## Why New Orleans for Family Reunions
 
@@ -21,7 +23,7 @@ This guide covers the standard reunion trip. If your age range runs wider — to
 
 **Walkable culture.** Streetcars, walking tours, and neighborhoods you can explore on foot.
 
-**Actually affordable.** Split a large rental 20 ways and it's cheaper than everyone booking separate hotels.
+**Often cheaper than hotels.** Split one large rental across the whole family and the per-person math usually beats everyone booking separate rooms.
 
 ## Where to Stay Together
 
@@ -41,7 +43,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 - **Private pool:** Safe, enclosed space for kids to play while adults relax
 - **Full kitchen:** Cook family meals together, save thousands on restaurants
-- **Multiple bathrooms:** Trust us on this one
+- **Multiple bathrooms:** More than you think you need
 - **Common space:** Room for everyone to actually gather
 - **Ground-floor bedrooms:** For older family members with mobility needs — see the [accessible group travel guide](/guides/accessible-group-guide/) for what to specifically ask when booking
 
@@ -67,7 +69,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 
 **Morning:**
 - Breakfast at the house (pancakes, coffee, chaos) — or turn it into a proper [villa brunch](/guides/nola-brunch-guide/)
-- Head to **City Park**: Storyland playground, Botanical Garden, paddle boats
+- Head to **City Park**: Storyland playground, Botanical Garden, paddle boats (the [City Park full-day guide](/guides/nola-group-mid-city-city-park-full-day-guide/) has the logistics)
 
 **Afternoon:**
 - Lunch at Morning Call (beignets + café au lait)
@@ -84,8 +86,8 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 ### Day 3: Split Activities
 
 **Morning options (divide by interest/age):**
-- **History buffs:** National WWII Museum (plan 3-4 hours)
-- **Kids + parents:** Audubon Zoo or Aquarium
+- **History buffs:** National WWII Museum (budget a few hours; see the [WWII Museum guide](/guides/nola-group-wwii-museum-guide/))
+- **Kids + parents:** Audubon Zoo or Aquarium (see the [zoo and aquarium guide](/guides/nola-group-audubon-zoo-aquarium-guide/))
 - **Walkers:** Garden District tour
 - **Relaxers:** Pool + coffee at the house
 
@@ -117,7 +119,7 @@ The whole point of a reunion is being together. Hotels scatter everyone. You nee
 | Activity | Ages | Notes |
 |----------|------|-------|
 | Audubon Zoo | All | Louisiana swamp exhibit is the hit |
-| Storyland (City Park) | 2-10 | Fairy tale playground, free |
+| Storyland (City Park) | 2-10 | Fairy tale playground; check current admission |
 | Aquarium of the Americas | All | Touch tanks, penguin exhibit |
 | Steamboat Natchez | All | 2-hour river cruise with live jazz |
 | Carousel Gardens | 2-12 | Amusement park in City Park |
@@ -167,28 +169,27 @@ Most reunion meals should happen at your rental. Why:
 - Grill night (steaks, burgers, easy)
 - Breakfast buffet (everyone pitches in)
 
-Not sure whether to hire a private chef or cook yourselves? The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) breaks down when each makes sense for a group of 15-30.
+Not sure whether to hire a private chef or cook yourselves? The [private chef vs. villa cooking guide](/guides/nola-group-private-chef-vs-villa-cooking-guide/) breaks down when each makes sense once the headcount gets big.
 
 ---
 
 ## Budget Tips
 
-**Biggest savings:** Staying in one large rental vs. multiple hotel rooms. Split a $1,500/night villa 20 ways = $75/person/night. The [budget guide](/guides/budget-guide/) has the full framework for working the whole trip against a real number.
+**Biggest savings:** Staying in one large rental vs. multiple hotel rooms. As an illustration, a $1,500/night house split twenty ways is $75/person/night. The [budget guide](/guides/budget-guide/) has the full framework for working the whole trip against a real number.
 
 **Second biggest:** Cooking most meals at the house. Restaurant meals for 20 add up fast.
 
 **Free activities:**
-- Streetcar rides ($1.25)
+- Streetcar rides (a few dollars at most; check current fares)
 - Walking tours (self-guided)
 - City Park (free)
-- Storyland (free)
 - French Quarter wandering (free)
 
 ---
 
 ## Reunion Planning Checklist
 
-**6 months before:**
+**Start here (for the largest selection, book 6+ months out):**
 - [ ] Lock in dates with key family members
 - [ ] Book accommodation — compare the field in the [where-to-stay guide](/where-to-stay/)
 - [ ] Create shared document for logistics
@@ -209,6 +210,9 @@ Not sure whether to hire a private chef or cook yourselves? The [private chef vs
 ---
 
 ## Why the Investment is Worth It
+
+Picking dates? Mind the calendar: October and February through May are New Orleans' high-demand stretch, while summer and January are softer and cheaper. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has the month-by-month verdicts. Reunions built around the holidays should read the [holiday gathering guide](/guides/holiday-gathering/) and the [Thanksgiving guide](/guides/nola-group-villa-thanksgiving-guide/).
+
 
 You're not paying for a vacation. You're paying for:
 - The cousins actually knowing each other
