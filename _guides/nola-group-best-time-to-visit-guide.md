@@ -100,6 +100,8 @@ October sits inside hurricane season and is simultaneously the most expensive, m
 
 **Group is budget-primary:** Late January or late August through mid-September. Real savings, not marketing-speak savings.
 
+**Group is a multigenerational family:** Pick the month the oldest and youngest travelers can both tolerate, then build around it with the [family reunion playbook](/guides/family-reunion/); holiday-weekend versions live in the [holiday gathering guide](/guides/holiday-gathering/).
+
 **Group wants quiet, walkable streets over festival energy:** Late January. Fewer visitors, full restaurant availability, a city running at its own pace.
 
 **Group can't handle heat or humidity:** Anything except June through September. If summer is the only window that works schedule-wise, plan the day around the heat rather than around activities. The [heat management guide](/guides/nola-group-outdoor-festival-heat-management/) has the tactics, and an early [courtyard stretch session](/guides/nola-group-villa-morning-yoga-guide/) is a decent way to use the only cool hour.
