@@ -78,7 +78,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - If Mardi Gras falls in March (every few years), this applies here instead of February
 
 **St. Joseph's Day (March 19)**
-- Mardi Gras Indian Super Sunday (closest Sunday to March 19) is one of the most authentic cultural events in the city
+- Mardi Gras Indian Super Sunday (closest Sunday to March 19) is one of the most authentic cultural events in the city. The [Super Sunday guide](/guides/nola-group-super-sunday-mardi-gras-indian-guide/) covers how a group can approach it, and the [spring break guide](/guides/nola-group-spring-break-guide/) shows where it fits in a March trip
 - Mardi Gras Indian tribes gather in full handmade suits
 - Not a tourist-packaged event. Show up respectfully. Watch and appreciate.
 - Group impact: Low crowd, high cultural impact. Seek it out if your timing allows.
