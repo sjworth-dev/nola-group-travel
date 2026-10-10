@@ -164,6 +164,8 @@ Worked example for a crew of twelve at mid-range: roughly $525–800 each, so th
 
 If you cross into the large-group range, logistics change:
 
+Not a bachelorette at all, just a big girls weekend? The [girls trip guide](/guides/nola-group-girls-trip-guide/) runs the same city at a slower pace.
+
 - **Accommodations:** only a short list of properties legally fits a double-digit group — compare them in the [where-to-stay guide](/where-to-stay/) and book before anything else
 - **Restaurants:** Call ahead. A group this size needs private dining or a reserved section. The [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) covers what to ask when you call and how to set up seating for 15+ without a private room.
 - **Transportation:** Two rideshares minimum, always. Consider a party bus for the big night, and remember drinks don't ride along — open containers in vehicles are a real violation, not a vibe.

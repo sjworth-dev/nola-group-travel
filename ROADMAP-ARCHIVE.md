@@ -1844,3 +1844,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-10 UTC — seo: interlink `festival-season-calendar.md` — added links to Super Sunday and spring break guides.
 2026-10-10 UTC — fix: property balance sweep — `budget-villa-guide.md`, `cocktail-culture-guide.md`, `convention-group-guide.md` (Castleday/Syd removed; Natchez/Mazant/Heirloom/Revelry used).
 2026-10-10 UTC — backlog: no changes; Up Next left empty.
+2026-10-10 UTC (second run) — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-10 UTC (second run) — expand: refresh `nola-group-girls-trip-guide.md` (oldest, 2026-07-07) — retitled without numeric ranges, new description, removed invented spa/booking lead times and unverified restaurant claims, standard 6+ months line, added links (hub, Nashville, Savannah, hotel vs villa), bumped date.
+2026-10-10 UTC (second run) — seo: interlink `bachelorette-party.md` — added link to girls trip guide.
+2026-10-10 UTC (second run) — fix: property balance sweep — `corporate-offsite-productivity-guide.md`, `corporate-team-building-guide.md`, `culinary-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Perle/Heirloom used).
+2026-10-10 UTC (second run) — backlog: no changes; Up Next left empty.
