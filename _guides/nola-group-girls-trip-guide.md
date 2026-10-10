@@ -1,26 +1,26 @@
 ---
-title: "New Orleans Girls Trip Guide: Planning for Groups of 10-25"
-description: "How to plan a large group girls trip to New Orleans — spa, brunch, pool days, Magazine Street shopping, and Frenchmen Street nights. Built for groups of 10-25 women."
+title: "New Orleans Girls Trip: The Big-Group Plan"
+description: "Plan a big girls trip to New Orleans: one spa morning, one long brunch, real pool time, Magazine Street, and Frenchmen Street at night. Pace beats packing."
 category: "Friends & Family"
 card_title: "Girls Trip (Large Group)"
-card_description: "Spa mornings, long brunches, pool afternoons, and Frenchmen Street nights. The playbook for all-female groups of 10-25 in NOLA."
-date: 2026-07-07
+card_description: "Spa mornings, long brunches, pool afternoons, and Frenchmen Street nights. The playbook for a big all-female crew in NOLA."
+date: 2026-10-10
 ---
 
-New Orleans is built for this trip. The city rewards groups that want to do everything — eat well, sleep late, stay up late — and it doesn't require you to pick a lane.
+New Orleans is built for this trip. Eat well, sleep late, stay up later, and nobody makes you pick a lane. The only way to botch it is to schedule every hour.
 
-A girls trip to NOLA for 10-25 people has a specific rhythm that's different from a bachelorette weekend (higher stakes, tighter schedule) and different from a generic friends trip (tends to be more activity-driven). The pace is more deliberate: long mornings, intentional afternoons, late evenings. Pool time matters. Brunch matters. A good spa day can be the best afternoon of the trip.
+A big girls trip to NOLA has a specific rhythm that's different from a bachelorette weekend (higher stakes, tighter schedule) and different from a generic friends trip (tends to be more activity-driven). The pace is more deliberate: long mornings, intentional afternoons, late evenings. Pool time matters. Brunch matters. A good spa day can be the best afternoon of the trip.
 
-This guide is built for groups of 10-25 women coming for a long weekend — usually Thursday through Sunday. Not a bachelorette (that's a [different guide](/guides/bachelorette-party/)), though much of this applies there too.
+This guide is built for a big crew of women coming for a long weekend — usually Thursday through Sunday. Not a bachelorette (that's a [different guide](/guides/bachelorette-party/)), though much of this applies there too. Still choosing the city? See [New Orleans vs. Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) and [vs. Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/). Starting from zero? The [group trip planning hub](/guides/plan-a-group-trip/) sequences every decision.
 
 ---
 
 ## Quick Checklist
 
 - [ ] Send a [pre-trip survey](/guides/nola-group-pre-trip-survey-guide/) to the group 3 weeks out — NOLA-specific questions about heat tolerance, Bourbon Street interest, dietary restrictions, and budget matter here
-- [ ] Book accommodation first — large-group villas with private pools fill months ahead, especially spring and fall weekends
-- [ ] Make brunch and dinner reservations before the trip (2-4 weeks ahead for groups of 10+)
-- [ ] Coordinate the spa day early — group bookings at most day spas need 2-3 weeks' notice
+- [ ] Book accommodation first — for the largest selection, book 6+ months out
+- [ ] Make brunch and dinner reservations before the trip (call ahead; big tables go first)
+- [ ] Coordinate the spa day early — big group spa bookings need advance notice, so call early
 - [ ] Designate a [logistics lead and a restaurant lead](/guides/nola-group-trip-roles-assignment-guide/) — keep these as two separate people
 - [ ] Confirm headcount with a hard RSVP deadline at least 3 weeks out
 - [ ] Decide early: one big night out or two moderate nights? It shapes the whole itinerary
@@ -52,7 +52,7 @@ You don't need to be everywhere. Pick a home base and orient the trip around it.
 
 For the complete Uptown playbook — Magazine Street by block, best bars, walking routes — the [Uptown girls trip guide](/guides/girls-trip-uptown/) is its own deep dive.
 
-For most groups of 15-25, **Bywater** or **Lower Garden District** is the move. Both have private villa options that can hold the whole group, strong restaurant access, and enough neighborhood character that you're experiencing New Orleans rather than a tourist pocket.
+For a crew of twenty, **Bywater** or **Lower Garden District** is the move. Both have private villa options that can hold the whole group, strong restaurant access, and enough neighborhood character that you're experiencing New Orleans rather than a tourist pocket.
 
 ---
 
@@ -60,7 +60,7 @@ For most groups of 15-25, **Bywater** or **Lower Garden District** is the move. 
 
 ### Spa Day (Book First)
 
-This is usually the hardest logistic and the one groups most underplan. Day spas that can handle 10-25 people in the same day are not abundant — book 2-3 weeks ahead or you're splitting the group across two different days.
+This is usually the hardest logistic and the one groups most underplan. Day spas that can handle a whole crew in the same day are not abundant — call early or you're splitting the group across two different days.
 
 The [NOLA spa and wellness guide](/guides/spa-wellness-guide/) covers which spots handle large groups, how to structure a spa day so not everyone is waiting, and the float tank question (better as a small-group or solo activity than a 20-person block booking).
 
@@ -70,21 +70,21 @@ What actually works for a large group: a split-format spa morning. Half the grou
 
 Brunch is not optional on a girls trip. It's the meal where the trip comes together.
 
-For groups of 10-25, you need a restaurant with either a private space or a dedicated large-group section. Walk-in brunch for 18 people is not realistic — call ahead and ask specifically about group seating.
+At full headcount, you need a restaurant with either a private space or a dedicated large-group section. Walk-in brunch for eighteen is not realistic — call ahead and ask specifically about group seating.
 
 | Restaurant | Notes for Groups |
 |---|---|
-| Atchafalaya | Excellent bloody mary bar; best patio in the city; book the patio for 10+ |
-| Brennan's | Classic New Orleans brunch with tableside bananas Foster; private dining available |
-| The Country Club | Pool + brunch + bar; can book for the afternoon; less formal than Brennan's |
-| Commander's Palace | The special-occasion pick; 25-cent martinis at lunch; call for group minimum |
-| Willa Jean | Bakery-forward, Central Business District; casual and relaxed for larger groups |
+| Atchafalaya | Known for its bloody marys and patio; ask about group seating |
+| Brennan's | Classic New Orleans brunch with tableside bananas Foster; ask about private dining |
+| The Country Club | Pool, brunch and bar in one; ask about group bookings; less formal than Brennan's |
+| Commander's Palace | The special-occasion pick; call about group minimums and dress code |
+| Willa Jean | Bakery-forward, Central Business District; casual; call about group seating |
 
 ### Pool Days
 
 One non-negotiable: build in a full pool afternoon. Not a quick dip between activities — a real afternoon where people can sit, float, eat snacks, play music, and actually decompress.
 
-If your villa has a private pool (which is the threshold for a group of this size), this is already sorted. Don't schedule it away with activities. Friday afternoon pool time is often the moment people later describe as the best part of the trip.
+If your rental has a private pool, this is already sorted. Don't schedule it away with activities. Friday afternoon pool time is often the moment people later describe as the best part of the trip.
 
 The [day drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) breaks down how to structure a pool afternoon into an intentional arc without burning the group out before dinner.
 
@@ -98,7 +98,7 @@ Groups larger than 12 tend to split naturally here. That's fine. Give people 2 h
 
 Every night: Frenchmen Street. This is not a negotiation.
 
-Three blocks of live music clubs — jazz, funk, brass band, Latin — with no cover at most venues, no VIP packages, no dress code. The format works for any size group: you walk in, you find a spot, you stay as long as you want, you move to the next club.
+Three blocks of live music clubs — jazz, funk, brass band, Latin — with cover charges that are often low or absent, no VIP packages, no dress code. The format works for any size group: you walk in, you find a spot, you stay as long as you want, you move to the next club.
 
 What makes it work for a girls group specifically: there's no pressure to be anywhere specific. If the group wants to stay for one set and move, fine. If half want to dance and half want to drink on the street, both are easy. The loose structure is the point.
 
@@ -110,7 +110,7 @@ What makes it work for a girls group specifically: there's no pressure to be any
 
 **French Quarter** for context, not for the night. Walk Bourbon Street once if you must. The Carousel Bar at Hotel Monteleone is worth stopping for one drink. Preservation Hall is an excellent 45-minute show if you go early (get tickets ahead). Then leave.
 
-**Late night:** New Orleans doesn't have a last call. This is both the best and worst thing about it. Plan accordingly.
+**Late night:** Bars here can run very late. That is both the best and worst thing about it. Plan accordingly.
 
 ---
 
@@ -148,7 +148,7 @@ What makes it work for a girls group specifically: there's no pressure to be any
 ### Saturday: Pick Your Adventure
 
 **Morning:**
-- Magazine Street shopping, 10am–noon (groups of 15+ naturally split here — set a meeting point)
+- Magazine Street shopping, 10am–noon (a big crew naturally splits here — set a meeting point)
 - Or: second spa/nail session for anyone who didn't go Friday
 - Or: Garden District walking tour — this is the move if the group hasn't seen the Garden District
 
@@ -176,14 +176,14 @@ What makes it work for a girls group specifically: there's no pressure to be any
 
 ## Restaurant Planning for Large Groups
 
-| Meal | What Works for 10-25 | Notes |
+| Meal | What Works at Full Headcount | Notes |
 |---|---|---|
-| Brunch | Groups need reserved sections or private space | Call, don't book online for large parties |
-| Dinner | Look for private dining rooms or family-style spots | Cochon, Pêche, Commander's Palace all have options |
+| Brunch | A big table needs a reserved section or private space | Call, don't book online for large parties |
+| Dinner | Look for private dining rooms or family-style spots | Ask Cochon, Pêche or Commander's Palace about private rooms |
 | Late night | Anything walk-in | Bacchanal, Dat Dog, pizza delivery to the villa |
-| Casual/midday | Split into groups of 5-8, meet up after | Easier than moving 20 people through a single spot |
+| Casual/midday | Split into small pods, meet up after | Easier than moving 20 people through a single spot |
 
-For Friday or Saturday dinner, call the restaurant directly and ask for the private room or designated large-group section. Walk-ins for 18 people at 8pm do not work.
+For Friday or Saturday dinner, call the restaurant directly and ask for the private room or designated large-group section. Walk-ins for eighteen at 8pm do not work.
 
 ---
 
@@ -205,11 +205,11 @@ For Friday or Saturday dinner, call the restaurant directly and ask for the priv
 
 ---
 
-## For Groups of 15-25
+## The Large Group Section
 
-At this size, accommodation is the hardest part of the plan, and it needs to be sorted first.
+At twenty-ish people, accommodation is the hardest part of the plan, and it gets sorted first.
 
-The only realistic option for keeping a group of 15-25 together under one roof in New Orleans is a large private villa — not hotel rooms, which fractures the group and eliminates the pool, the kitchen, and the communal space that makes the trip work.
+A large private rental is the realistic way to keep everyone under one roof. Hotel rooms fracture the group and cost you the pool, the kitchen, and the communal space that makes the trip work (see [hotel vs. villa](/guides/hotel-vs-villa-guide/) for the honest tradeoffs). For the largest selection, book 6+ months out.
 
 A few properties operate at this scale, and they fit differently:
 
