@@ -1839,3 +1839,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-09 UTC (second run) — seo: interlink — folded into survey refresh (hub, best-time, transportation links).
 2026-10-09 UTC (second run) — fix: property balance sweep — `nola-group-spring-break-guide.md`, `holiday-gathering.md`, `nola-group-last-minute-booking-guide.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry/Perle/Roami used; spring-break lead-time set to standard line).
 2026-10-09 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-10 UTC — note: `## Up Next` empty, so no new page. Refresh queue fully checked, oldest-dated fallback used.
+2026-10-10 UTC — expand: refresh `nola-group-spring-break-guide.md` (oldest, 2026-07-06) — retitled without numeric ranges, new description, verdict-first framing, rebuilt timing section against NOLA seasonality (no cheap spring week; 2027 Fat Tuesday/Easter/FQF dates), standard 6+ months line, removed invented prices/landmark, added links (hub, Savannah, best time, FQF, Super Sunday, Mardi Gras, hotel vs villa), bumped date.
+2026-10-10 UTC — seo: interlink `festival-season-calendar.md` — added links to Super Sunday and spring break guides.
+2026-10-10 UTC — fix: property balance sweep — `budget-villa-guide.md`, `cocktail-culture-guide.md`, `convention-group-guide.md` (Castleday/Syd removed; Natchez/Mazant/Heirloom/Revelry used).
+2026-10-10 UTC — backlog: no changes; Up Next left empty.
