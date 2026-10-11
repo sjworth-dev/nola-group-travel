@@ -1854,3 +1854,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-11 UTC — seo: interlink `bachelor-party.md` — added links to vs-Vegas, vs-Nashville, guys weekend, bachelorette-vs-bachelor guides.
 2026-10-11 UTC — fix: property balance sweep — `extended-family-reunion-guide.md`, `festival-season-calendar.md`, `girls-trip-uptown.md` (Castleday/Syd removed; Revelry/Mazant/Heirloom/Perle/Roami/Natchez used).
 2026-10-11 UTC — backlog: no changes; Up Next left empty.
+2026-10-11 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated per ROADMAP; ROADMAP wins over the runner prompt's backlog-generation line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-11 UTC (second run) — expand: refresh `nola-group-last-minute-booking-guide.md` (oldest, 2026-07-07) — retitled without numeric ranges, removed invented occupancy/premium percentages and per-activity lead-time table, rebuilt season/budget table against NOLA seasonality (October peak, Jan/summer/late Aug-mid Sep value), 2027 Fat Tuesday/FQF/Jazz Fest dates, standard 6+ months line, added links (hub, best time, Jazz Fest, hotel vs villa), bumped date.
+2026-10-11 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` — added link to last-minute booking guide.
+2026-10-11 UTC (second run) — fix: property balance sweep — `group-arrival-departure-guide.md`, `group-check-in-check-out-guide.md`, `group-games-activities-guide.md` (Castleday/Syd removed; Mazant/Revelry/Perle/Heirloom/Natchez used).
+2026-10-11 UTC (second run) — backlog: no changes; Up Next left empty.
