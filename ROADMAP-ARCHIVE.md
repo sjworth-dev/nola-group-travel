@@ -1849,3 +1849,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-10 UTC (second run) — seo: interlink `bachelorette-party.md` — added link to girls trip guide.
 2026-10-10 UTC (second run) — fix: property balance sweep — `corporate-offsite-productivity-guide.md`, `corporate-team-building-guide.md`, `culinary-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Perle/Heirloom used).
 2026-10-10 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-11 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-11 UTC — expand: refresh `holiday-gathering.md` (oldest, 2026-07-07) — retitled, verdict-first intro, removed invented restaurant lead times/private-chef prices/NYE and Christmas claims, hedged weather and pool, standard-line cleanup, added links (hub, Celebration in the Oaks, best time, Thanksgiving, New Year's), bumped date.
+2026-10-11 UTC — seo: interlink `bachelor-party.md` — added links to vs-Vegas, vs-Nashville, guys weekend, bachelorette-vs-bachelor guides.
+2026-10-11 UTC — fix: property balance sweep — `extended-family-reunion-guide.md`, `festival-season-calendar.md`, `girls-trip-uptown.md` (Castleday/Syd removed; Revelry/Mazant/Heirloom/Perle/Roami/Natchez used).
+2026-10-11 UTC — backlog: no changes; Up Next left empty.
