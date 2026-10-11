@@ -7,7 +7,7 @@ card_description: "Golf, gambling, live music, and legendary nights. The complet
 date: 2026-08-20
 ---
 
-New Orleans might be the best bachelor party city in America. No last call. World-class food. Live music everywhere. And unlike Vegas, nothing here charges a cover to be interesting.
+New Orleans might be the best bachelor party city in America. No last call. World-class food. Live music everywhere. And unlike Vegas, nothing here charges a cover to be interesting. (Still deciding between cities? The [New Orleans vs. Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) and [New Orleans vs. Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) breakdowns settle it.)
 
 Here's what nobody tells the best man: the trip is decided months out, on one decision — where a double-digit crew sleeps. Everything else in New Orleans forgives you. Miss a reservation and you'll still eat absurdly well. Skip the swamp tour and nobody remembers. But most rentals in this city cap at 10 guests by permit, so the house either gets handled early or the party spends the weekend split across three addresses. This playbook runs the actual work in order: the timeline, the house, the itinerary hour by hour, the food, the money, and the exact messages to send the group.
 
@@ -176,6 +176,12 @@ Worked example for a crew of twelve at mid-range: roughly $725–1,075 each, so 
 6. **Assign the jobs.** Money, reservations, transport — three guys, not one. The [trip roles guide](/guides/nola-group-trip-roles-assignment-guide/) has the structure.
 
 7. **Tip well.** The service industry runs this city. Don't be those guys.
+
+## Related
+
+Planning a looser, non-wedding version of this weekend? The [guys weekend guide](/guides/guys-weekend-guide/) covers it. Running both parties? See [bachelorette vs. bachelor party](/guides/bachelorette-vs-bach-party-guide/).
+
+---
 
 ## Plan Your Trip
 
