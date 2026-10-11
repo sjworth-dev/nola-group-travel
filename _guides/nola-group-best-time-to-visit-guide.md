@@ -82,7 +82,7 @@ June through November also carries hurricane risk, which is a separate considera
 
 If the question is purely comfort: mid-July through mid-August. The heat index regularly clears 100°F, midday outdoor plans dissolve, and afternoon thunderstorms are a daily appointment. It's survivable — the [summer group trip guide](/guides/nola-group-summer-trip-guide/) shows how to build a trip around pool hours and air conditioning — but nobody should book it *unaware*.
 
-The sneakier worst time is a festival weekend you didn't know about. Landing on Mardi Gras, Jazz Fest, or Essence by accident means double pricing, booked-out restaurants, and closed parade-route streets for a group that just wanted a normal weekend. Two minutes on the [events calendar](/events/) before locking dates prevents the whole category of mistake.
+The sneakier worst time is a festival weekend you didn't know about. Landing on Mardi Gras, Jazz Fest, or Essence by accident means double pricing, booked-out restaurants, and closed parade-route streets for a group that just wanted a normal weekend. Two minutes on the [events calendar](/events/) before locking dates prevents the whole category of mistake. And if the dates are already set and the trip is close, the [last-minute booking guide](/guides/nola-group-last-minute-booking-guide/) covers what's still open.
 
 ## Don't Confuse Risk Season With Value Season
 
