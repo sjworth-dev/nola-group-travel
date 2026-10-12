@@ -1859,3 +1859,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-11 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` — added link to last-minute booking guide.
 2026-10-11 UTC (second run) — fix: property balance sweep — `group-arrival-departure-guide.md`, `group-check-in-check-out-guide.md`, `group-games-activities-guide.md` (Castleday/Syd removed; Mazant/Revelry/Perle/Heirloom/Natchez used).
 2026-10-11 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-12 UTC — note: `## Up Next` empty, so no new page (human-gated per ROADMAP; ROADMAP wins over the runner prompt's backlog-generation line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-12 UTC — expand: refresh `nola-group-krewe-du-vieux-guide.md` (oldest, 2026-07-08) — retitled, 2027 date (Jan 23, per calendar data) and Fat Tuesday, fixed "shoulder-season" to January value season, hedged unverified route/venue claims, removed invented booking-window line, verdict, added links (Mardi Gras guide, parade calendar, planning hub), bumped date.
+2026-10-12 UTC — seo: interlink `nola-group-carnival-season-parade-calendar.md` — added link to Krewe du Vieux guide.
+2026-10-12 UTC — fix: property balance sweep — `nightlife-guide.md`, `nola-cooking-class-guide.md`, `nola-corporate-dinner-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-12 UTC — backlog: no changes; Up Next left empty.
