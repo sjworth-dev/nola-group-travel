@@ -1864,3 +1864,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-12 UTC — seo: interlink `nola-group-carnival-season-parade-calendar.md` — added link to Krewe du Vieux guide.
 2026-10-12 UTC — fix: property balance sweep — `nightlife-guide.md`, `nola-cooking-class-guide.md`, `nola-corporate-dinner-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-12 UTC — backlog: no changes; Up Next left empty.
+2026-10-12 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated per ROADMAP; ROADMAP wins over the runner prompt's backlog-generation line). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-12 UTC (second run) — expand: refresh `nola-group-satchmo-summerfest-guide.md` (oldest, 2026-07-08) — retitled, removed numeric group range and "shoulder season" error (summer = value season), hedged unverified festival/venue claims, added links (hub, best time, summer trip, budget, Jazz Museum, cooking class), neutralized Castleday, bumped date.
+2026-10-12 UTC (second run) — seo: interlink `nola-group-summer-trip-guide.md` — added link to Satchmo SummerFest guide.
+2026-10-12 UTC (second run) — fix: property balance sweep — `nola-group-summer-trip-guide.md`, `nola-group-burlesque-show-guide.md`, `nola-group-bywater-art-walk-guide.md` (Castleday/Syd removed; Revelry/Mazant/Natchez/Heirloom used).
+2026-10-12 UTC (second run) — backlog: no changes; Up Next left empty.
