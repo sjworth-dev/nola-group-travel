@@ -109,6 +109,8 @@ Some outdoor things in summer are worth doing. Others are not.
 
 ## Essence Fest: The Summer Anchor
 
+Looking for a summer festival that is free and less of a scrum? See the [Satchmo SummerFest guide](/guides/nola-group-satchmo-summerfest-guide/).
+
 Essence Festival typically runs around the Fourth of July weekend. If your dates overlap, you're not just in New Orleans for summer — you're in New Orleans for the largest Black music and culture festival in the country, with headliners who sell arenas, over 500,000 attendees across the weekend, and an energy that is genuinely different from anything else the city produces.
 
 Check essencefest.com for current-year dates before you build your itinerary around this — announced dates move.
@@ -194,7 +196,7 @@ Properties with outdoor cooking or eating space extend the pool afternoon natura
 
 For an overview of large-group villa options — pool access, location, group size — the [where-to-stay guide](/where-to-stay/) covers the full field with what to ask when you're comparing properties.
 
-Castleday Retreats, in the Bywater, has three villas with private pools that get full afternoon sun — good for a summer pool day that runs from noon through early evening before the dinner shift. The Syd, in the Lower Garden District one block from the St. Charles Streetcar, has a shared heated pool and hot tub, plus a location that makes the evening summer schedule easy — dinner reservations up and down Magazine Street, streetcar access to the Quarter, minimal time spent in rideshares.
+In summer, pool access matters more than square footage. The Revelry and The Natchez Vacation Rentals both pair apartment-style space with a shared saltwater pool, The Mazant has a heated pool and spa for a crew that fits one historic house, and Heirloom has the deepest inventory if you need options on short notice.
 
 For a complete look at the hurricane season risk window that overlaps with summer travel, the [hurricane season planning guide](/guides/nola-group-hurricane-season-guide/) has the honest breakdown of when risk is real and when it's overblown.
 

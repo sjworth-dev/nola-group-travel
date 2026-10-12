@@ -173,6 +173,6 @@ The answer to most of these is yes, but you have to ask in advance. Showing up o
 
 ## Where to Stay for a Burlesque Night
 
-Home base matters for a performance night that ends late. Castleday Retreats' Bywater villas put you close to the Marigny and Frenchmen Street performance corridor — a short rideshare to most burlesque venues, with a private pool for the pre-show staging and the post-show wind-down. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, has a shared outdoor kitchen and pool that work well as the evening's post-show landing spot. Heirloom's large-format homes across the Lower Garden District and Central City give a group comparing layouts on short notice a full kitchen for pre-gaming before curtain. For the largest selection, book 6+ months out.
+Home base matters for a performance night that ends late. A Bywater or Marigny base, such as The Mazant, puts you a short rideshare from most burlesque venues, with a pool for the post-show wind-down. The Revelry's shared saltwater pool in Central City works as a landing spot too. Heirloom's large-format homes across the Lower Garden District and Central City give a group comparing layouts on short notice a full kitchen for pre-gaming before curtain. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

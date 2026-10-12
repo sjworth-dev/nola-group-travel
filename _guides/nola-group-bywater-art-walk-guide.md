@@ -163,6 +163,6 @@ A group of 20 can benefit from splitting into two sub-groups of 10, with a 10-15
 
 ## Large Group Accommodation for the Bywater Art Walk
 
-The Bywater art walk begins and ends in the Bywater. If the group is staying in the neighborhood, the walk is a door-to-door experience with no transport logistics — Bywater villas, Castleday Retreats among them, put the mural walk, the St. Claude gallery corridor, Bacchanal, and the Crescent Park entrance all within walking distance, with the pool waiting back at the house before the evening. Staying elsewhere doesn't rule the walk out: from a Lower Garden District villa like The Syd, the Bywater is a 15-minute rideshare, and the art walk works fine as a dedicated half-day excursion with the villa as home base for the evening. For the largest selection, book 6+ months out.
+The Bywater art walk begins and ends in the Bywater. If the group is staying in the neighborhood, the walk is a door-to-door experience with no transport logistics — a Bywater guesthouse such as The Mazant puts the mural walk, the St. Claude gallery corridor, Bacchanal, and the Crescent Park entrance all within walking distance, with the pool waiting back at the house before the evening. Staying elsewhere doesn't rule the walk out: from a Central City base like The Revelry, the Bywater is a 15-minute rideshare, and the art walk works fine as a dedicated half-day excursion with the villa as home base for the evening. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
