@@ -37,7 +37,9 @@ The calendar has four distinct phases:
 
 The earliest parades of the season are small, local, and beloved. Phunny Phorty Phellows rolls on the St. Charles Streetcar on Twelfth Night — one of the most genuinely local events in the calendar. The Jefferson City Buzzards have their own Twelfth Night tradition.
 
-This phase is not the right target for most out-of-town groups. The parades are small, the crowds are local, and the city is not yet in full Mardi Gras mode. But if your group is in New Orleans for another reason and the timing overlaps, the early season parades are a genuine window into how the city actually experiences Carnival — as a cultural season, not just a party.
+The exception is Krewe du Vieux, the satirical mule-drawn parade on a late-January Saturday (January 23 in 2027). It is the one early-season event worth building a trip around; the [Krewe du Vieux guide](/guides/nola-group-krewe-du-vieux-guide/) explains why.
+
+Otherwise, this phase is not the right target for most out-of-town groups. The parades are small, the crowds are local, and the city is not yet in full Mardi Gras mode. But if your group is in New Orleans for another reason and the timing overlaps, the early season parades are a genuine window into how the city actually experiences Carnival — as a cultural season, not just a party.
 
 ### Phase 2: The First Big Weekend (two weekends before Fat Tuesday)
 
