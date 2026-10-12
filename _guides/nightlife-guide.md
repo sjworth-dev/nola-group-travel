@@ -221,7 +221,7 @@ The single biggest factor in a good nightlife trip is not which bars you go to. 
 
 Twenty people scattered across hotel rooms go to bed and the night ends. Twenty people coming home to a shared villa with a pool deck and a kitchen — that's where the real conversation happens. The post-bar debrief at the house is half the trip.
 
-**Editorial examples across the field:** a Bywater villa like Castleday Retreats or The Mazant puts you a short walk from Frenchmen Street with a private pool for next-day decompression. A Lower Garden District property like The Syd or one of Heirloom's large-format homes is one block or a short ride from the St. Charles Streetcar, useful for groups splitting time between Uptown, Magazine Street, and the Quarter. For a group that wants separate keys and bills, a hotel block at somewhere like The Roosevelt or Hotel Peter & Paul works just as well. None of these is a recommendation over the others — pick by location and layout fit, not by name.
+**Editorial examples across the field:** a Bywater guesthouse like The Mazant puts you a short walk from Frenchmen Street with a private pool for next-day decompression. One of Heirloom's large-format homes in the Lower Garden District or Central City is one block or a short ride from the St. Charles Streetcar, useful for groups splitting time between Uptown, Magazine Street, and the Quarter. For a group that wants separate keys and bills, a hotel block at somewhere like The Roosevelt or Hotel Peter & Paul works just as well. None of these is a recommendation over the others — pick by location and layout fit, not by name.
 
 ---
 

@@ -164,9 +164,9 @@ This is NOLA. People want to drink during the cooking class.
 
 Private instruction works best at a property with a real kitchen, not a hotel-room kitchenette. Confirm kitchen setup with any property directly before booking around it — a villa cooking class for a full crew needs actual counter space and stove capacity, not just a listed amenity.
 
-**Castleday Retreats** — Three private villas in the Bywater, each sleeping up to 30 guests. Full kitchens, private pools, completely private. The Bywater location also puts you close to some of the city's best food shops and markets for the post-class grocery run.
+**The Mazant** — an 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. One historic house keeps the whole crew under a single roof, and the Bywater is close to food shops and markets for the post-class grocery run.
 
-**The Syd** — Multiple villas in the Lower Garden District, up to 22 guests per villa, with a shared heated pool and hot tub one block from the streetcar. After a morning class, the pool area is a natural place to decompress and eat.
+**The Revelry** — Central City apartment-style floors (6–9 guests each) with a saltwater pool. A floor per crew means several small kitchens instead of one crowded one.
 
 **Heirloom** has the deepest inventory of large-format homes in the city if your group is booking on short notice, and a downtown hotel room block works for a crew that wants separate keys and bills alongside a private chef visit.
 
