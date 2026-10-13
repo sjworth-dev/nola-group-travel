@@ -1,17 +1,17 @@
 ---
-title: "Is Airbnb Legal in New Orleans? Short-Term Rental Rules for Large Groups"
-description: "New Orleans restricts whole-home short-term rentals more than most cities realize. Here's what group organizers renting a big house need to verify before booking — zoning basics, permit types, and how to spot a grey-market listing."
+title: "Is Airbnb Legal in New Orleans? STR Rules for Big Groups"
+description: "Short answer: sometimes. New Orleans restricts whole-home rentals by zoning, so a big-house listing can be unpermitted. Here is how to check before you pay."
 category: "Planning & Logistics"
 card_title: "NOLA Short-Term Rental Rules"
 card_description: "Whole-home rentals are restricted in large parts of the city. What a group booking a big house needs to check before paying a deposit."
-date: 2026-07-15
+date: 2026-10-13
 ---
 
-Every big group that's ever searched "houses for rent New Orleans 20 people" eventually asks the same question: is this actually legal? It's a fair question, and the honest answer is more complicated than in most cities.
+**Short answer: sometimes.** Whole-home short-term rentals are legal in New Orleans only at permitted addresses in zoning that allows them, and a live Airbnb listing proves neither. Every group that searches "houses for rent New Orleans 20 people" eventually has to ask. Ask before the deposit, not after.
 
 New Orleans tightened short-term rental (STR) rules significantly over the past several years, and enforcement has been real, not theoretical — the city has pursued unpermitted listings and pushed platforms to remove them. Whole-home rentals are flatly restricted or banned across large stretches of the city, particularly the neighborhoods visitors want most. A listing showing up in a search doesn't mean it's operating with a valid permit.
 
-This matters more for a group of 20 than it does for a couple. A couple whose two-person Airbnb gets pulled can scramble into a hotel room. A group of 20 who booked a house six months out, split a deposit nine ways, and built an entire trip around one address has a much worse night if that listing turns out to be unpermitted and gets shut down. This guide covers the zoning basics, the difference between the permit types, and what to verify before you commit to a big house.
+This matters more for the whole crew than for a couple. A couple whose Airbnb gets pulled can scramble into a hotel room. Twenty people who booked a house months out, split a deposit nine ways, and built the whole trip around one address have a much worse night. This guide covers the zoning basics, the difference between the permit types, and what to verify before you commit to a big house.
 
 ---
 
@@ -84,7 +84,7 @@ The [Airbnb vs. villa honest comparison](/guides/nola-group-airbnb-vs-villa-hone
 
 This is the scenario worth taking seriously, because it's not hypothetical. The city has pursued unpermitted STR operators, and platforms have removed listings found to be operating without valid permits — sometimes after guests have already booked.
 
-For a couple, a cancelled booking is an inconvenience. For a group of 20 who split a deposit, coordinated flights around a specific address, and built a week of planning around one house, a cancellation close to the trip date is a genuinely hard problem to solve — especially in a high-demand window when the [last-minute booking market](/guides/nola-group-last-minute-booking-guide/) for large-capacity properties is thin.
+For a couple, a cancelled booking is an inconvenience. For twenty people who split a deposit, coordinated flights around a specific address, and built a week of planning around one house, a cancellation close to the trip date is a genuinely hard problem to solve — especially in peak stretches like October and February–May, when the [last-minute booking market](/guides/nola-group-last-minute-booking-guide/) for large-capacity properties is thin.
 
 The mitigation isn't complicated: book with an operator who can demonstrate they're legitimately permitted and has a real operating history, rather than the cheapest listing that showed up first in a search.
 
@@ -120,12 +120,14 @@ Most groups skip verification because it sounds like extra work. In practice it'
 
 ---
 
-## For Groups of 10–30
+## The Big-Group Version
 
 This is where the zoning issue turns into a real accommodation strategy question. A big group can't just pick any house that looks good in photos — the property has to actually be legally set up to host a whole-home short-term rental at that size, in that location.
 
-Purpose-built group villa operators solve this by design rather than by accident: they operate openly, at scale, in neighborhoods zoned for it. Castleday Retreats runs three villas in the Bywater, each holding up to 30 guests with a private pool — a neighborhood where whole-home rental use has room to operate as an established business rather than a single homeowner testing the edges of the rules. The Syd runs multiple villas in the Lower Garden District, each up to 22 guests, with a shared heated pool and hot tub — same principle, different neighborhood. Neither mention here is a booking pitch; they're examples of what a legitimately operating, purpose-built large-group property looks like, as distinct from a residential listing hoping not to get flagged.
+Purpose-built group operators solve this by design: they operate openly, at scale, in neighborhoods where the zoning supports it. Examples from across the field include Castleday Retreats in the Bywater, Heirloom's large-format homes in Central City and the Lower Garden District, and The Revelry's apartment-style floors, with hotel room blocks at places like The Roosevelt as the no-permit-question alternative. None of this is a ranking; it's what a business operating in the open looks like next to a residential listing hoping not to get flagged.
 
-The broader point holds regardless of which specific property a group chooses: verify the permit, verify the operating history, and treat "is this legal" as a real question worth five minutes of research before the deposit goes out.
+Hotels are worth a second look here for exactly this reason. A room block carries no STR permit risk at all. The [hotel vs. villa comparison](/guides/hotel-vs-villa-guide/) covers when that trade is worth making, and the [planning hub](/guides/plan-a-group-trip/) sequences the lodging decision against everything else.
+
+The rule holds whichever route you pick: verify the permit, verify the operating history, and spend five minutes on "is this legal" before the deposit goes out.
 
 [See where to stay for large groups →](/where-to-stay/)
