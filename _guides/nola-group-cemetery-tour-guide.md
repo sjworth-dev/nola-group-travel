@@ -173,6 +173,6 @@ The above-ground tomb tradition isn't just a visual curiosity. It tells you some
 
 Cemetery visits pair well with a Garden District base or a Bywater base — both neighborhoods have walking distance to cultural context.
 
-**The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, puts Lafayette Cemetery within a 5-10 minute walk — about as close as major group accommodation gets to the Garden District cemetery corridor. From the Bywater, **Castleday Retreats** is a short rideshare to St. Louis No. 1 in the French Quarter. **Heirloom**'s large-format homes span the Lower Garden District and Central City for a group that wants the neighborhood without committing to one property, and a room block at a Garden District-adjacent hotel works for a crew that would rather split bills than share a kitchen. For the largest selection, book 6+ months out.
+Lower Garden District lodging puts Lafayette Cemetery within a short walk or streetcar ride, about as close as group accommodation gets to the Garden District cemetery corridor. From the Bywater, **The Mazant** is a short rideshare to St. Louis No. 1 in the French Quarter. **Heirloom**'s large-format homes span the Lower Garden District and Central City for a group that wants the neighborhood without committing to one property, and a room block at a Garden District-adjacent hotel works for a crew that would rather split bills than share a kitchen. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

@@ -131,7 +131,7 @@ Neither option is universally right. A group of eight doing a casual night out d
 
 Where your group sleeps determines how much of this problem you even have. A villa on a wide, bus-accessible street removes a whole layer of loading-zone logistics; a villa on a tight residential block means your charter needs a nearby pickup point instead of a door-to-door one.
 
-Bywater villas like the ones at Castleday Retreats sit on a mix of block widths — worth confirming vehicle access specifically before you book a charter around a pickup at the property itself. Lower Garden District properties like The Syd sit closer to wider corridor streets, which can make coordinating a pickup point simpler. Groups staying at a CBD hotel with a room block often have the easiest charter logistics of all — hotel driveways and porte-cocheres are built for exactly this kind of pickup, which is one more factor worth weighing against a villa's other advantages.
+Bywater properties like The Mazant sit on a mix of block widths — worth confirming vehicle access specifically before you book a charter around a pickup at the property itself. Properties nearer the wider corridor streets in the Lower Garden District or Central City, like The Revelry, can make coordinating a pickup point simpler. Groups staying at a CBD hotel with a room block often have the easiest charter logistics of all — hotel driveways and porte-cocheres are built for exactly this kind of pickup, which is one more factor worth weighing against a villa's other advantages.
 
 None of this should be the deciding factor in where your group stays — but it's worth a five-minute question to whoever manages your rental before you build a whole night around a vehicle that can't actually reach the door.
 

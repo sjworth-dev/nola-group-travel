@@ -11,6 +11,8 @@ For a couple or a group of four, Airbnb is usually the right call. Flexibility, 
 
 Once the trip goes double-digit and everyone's there to actually enjoy themselves, Airbnb becomes a set of structural compromises that most groups discover only after they've arrived. The no-party clause. The noise restrictions. The single host who's on vacation. The "sleeps 20" listing that has 12 actual beds and 8 air mattresses in the garage.
 
+Before any of that, confirm the house is legally allowed to operate as a whole-home rental at all — the [short-term rental rules guide](/guides/nola-group-short-term-rental-rules-guide/) covers how to check.
+
 This guide is the honest breakdown — what Airbnb actually offers groups of this size, what dedicated group villa properties offer, and where the real differences are.
 
 ---
