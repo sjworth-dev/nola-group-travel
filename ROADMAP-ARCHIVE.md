@@ -1874,3 +1874,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-13 UTC — seo: interlink `first-timer-guide.md` — added link to activities guide.
 2026-10-13 UTC — fix: property balance sweep — `nola-group-bywater-bar-crawl-guide.md`, `nola-group-bywater-vs-lgd-deep-comparison.md`, `nola-group-carnival-season-parade-calendar.md` (Castleday/Syd removed; Mazant/Lookout Inn/Heirloom/Revelry used).
 2026-10-13 UTC — backlog: no changes; Up Next left empty.
+2026-10-13 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-13 UTC (second run) — expand: refresh `nola-group-short-term-rental-rules-guide.md` (oldest unrefreshed, 2026-07-15) — retitled, short-answer-first intro, tightened group-size phrasing, replaced Castleday/Syd closing with neutral field examples, added links (hotel vs villa, planning hub), bumped date.
+2026-10-13 UTC (second run) — seo: interlink `nola-group-airbnb-vs-villa-honest-comparison.md` — added link to STR rules guide.
+2026-10-13 UTC (second run) — fix: property balance sweep — `nola-group-carriage-tour-guide.md`, `nola-group-cemetery-tour-guide.md`, `nola-group-charter-bus-guide.md`, plus `nola-group-airbnb-vs-villa-honest-comparison.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-13 UTC (second run) — backlog: no changes; Up Next left empty.
