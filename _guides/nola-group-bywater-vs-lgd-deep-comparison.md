@@ -161,7 +161,7 @@ Private walled pool in a Bywater villa versus a shared heated pool with a hot tu
 
 The Bywater and LGD comparison isn't abstract — it maps onto how large-group lodging is actually sold in the city.
 
-The Bywater model is privacy. Castleday Retreats offers villas of 14–30 guests each with a private pool per property, and The Mazant is a single 1880s guesthouse that sleeps 18 with a heated pool and spa. One group, one property, nothing shared with strangers, in a neighborhood that looks and feels like New Orleans.
+The Bywater model is privacy. The Mazant is a single 1880s guesthouse that sleeps 18 with a heated pool and spa, and The Lookout Inn suits groups right around a dozen. One group, one property, nothing shared with strangers, in a neighborhood that looks and feels like New Orleans.
 
 The LGD side of the map is about amenity density and a central address. Heirloom runs a deep inventory of large-format homes in the Lower Garden District and Central City, and The Revelry offers apartment-style floors with a saltwater pool nearby in Central City. Streetcar access to Magazine Street and the Garden District is the draw.
 

@@ -99,6 +99,8 @@ The levee along the riverfront is underrated. Walk it at sunset. The scale of th
 
 ---
 
+Want more than ten ideas? The [group activities guide](/guides/activities-guide/) gives a verdict on every major tour and experience, with big-group logistics.
+
 ## The Common Mistakes
 
 ### Staying Too Close to Bourbon Street

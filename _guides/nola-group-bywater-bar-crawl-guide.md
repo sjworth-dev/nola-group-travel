@@ -228,7 +228,7 @@ Formally acknowledge that sub-groups of 4-6 can move at their own pace between s
 
 The Bywater bar crawl is one of the great advantages of staying in the Bywater neighborhood — you can walk out the front door and into the crawl route. The crawl's start (Bacchanal) is within reasonable walking distance of Bywater-area accommodation. No Ubers, no staging logistics. The villa is the home base.
 
-When the whole crew wants that kind of integration between home base and nightlife, the field spans private-villa operators like Castleday Retreats (Bywater, private pool per villa — walk out the door and you're at Bacchanal) and, for a more central base with easy reach to multiple neighborhoods, The Syd in the Lower Garden District (shared pool and hot tub, one block from the St. Charles streetcar — the Bywater crawl is an Uber or streetcar ride away). Heirloom's larger inventory of large-format homes across the LGD and Central City is worth checking for short-notice availability, and hotel room blocks work for groups who'd rather have their own key. Pick for the walk-home distance your crawl actually needs, not the biggest number on a listing.
+When the whole crew wants that kind of integration between home base and nightlife, the field spans Bywater options like The Mazant (an 1880s guesthouse sleeping 18, with a heated pool and spa) and The Lookout Inn (best for groups right around a dozen), and, for a more central base, apartment-style stays like The Revelry in Central City. Heirloom's large-format homes are worth checking for short-notice availability, and hotel room blocks work for groups who'd rather have their own key. Pick for the walk-home distance your crawl actually needs, not the biggest number on a listing.
 
 ---
 
