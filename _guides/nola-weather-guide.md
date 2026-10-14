@@ -50,7 +50,7 @@ Late August through mid-September is the closest thing New Orleans has to a real
 
 ### Avoid Unless You Know What You're Getting Into
 
-**July and August:** Avoid, weather-wise. The heat and humidity combination is genuinely oppressive. Heat indexes regularly exceed 105°F. Outdoor plans become logistically painful. The city's outdoor culture—street food, balconies, second line parades, Frenchmen Street standing outside listening to music—all of it suffers. The upside: this is New Orleans' value season, with the year's lowest rates.
+**July and August:** Avoid, weather-wise. The heat and humidity combination is genuinely oppressive. Heat indexes regularly exceed 105°F. Outdoor plans become logistically painful. The city's outdoor culture—street food, balconies, second line parades, Frenchmen Street standing outside listening to music—all of it suffers. The upside: this is New Orleans' value season, with the year's lowest rates. The [summer group trip guide](/guides/nola-group-summer-trip-guide/) has the schedule that makes it work.
 
 **September:** Statistical peak of hurricane season. Weather is still brutal for most of the month, and the risk of a storm affecting your trip is real enough that it belongs in your planning calculus.
 
