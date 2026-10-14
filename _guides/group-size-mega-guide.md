@@ -61,7 +61,7 @@ Two villas sleeping 30 each gives you 60 people in two locations. Three villas g
 
 ### The NOLA Multi-Villa Option
 
-A handful of properties solve the split-group problem by offering multiple villas under one coordinated booking. Castleday Retreats has three private-pool villas in the Bywater (up to 30 guests each, about 90 across all three) — book two for a group pushing 60, all three once the guest list tops that, with one contact coordinating access across buildings. The Syd operates multiple Lower Garden District villas (up to 22 guests each) that share a heated pool and hot tub when booked together, one block from the [St. Charles Streetcar](/guides/nola-group-st-charles-streetcar-itinerary/) for moving a big crew to dinner without chartering a bus.
+A handful of properties solve the split-group problem by offering multiple villas under one coordinated booking. Heirloom's deep inventory of large-format homes in the Lower Garden District and Central City makes it possible to cluster several buildings in one area, and The Revelry's apartment-style floors (6–9 guests each) let one crew take a floor each on a single bill per floor. Both keep a big crew within reach of the [St. Charles Streetcar](/guides/nola-group-st-charles-streetcar-itinerary/) for moving to dinner without chartering a bus.
 
 Heirloom's large-format homes across the Lower Garden District and Central City add more depth to the field when the first two are booked, and a hotel room block (The Roosevelt, Hotel Bennett, Hotel Peter & Paul) still makes sense for a crew with mixed budgets who want their own key and their own bill. None of this is a booking recommendation — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for the full cost breakdown across the field.
 
