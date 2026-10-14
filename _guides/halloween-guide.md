@@ -11,7 +11,7 @@ New Orleans takes Halloween seriously. More seriously than any other city except
 
 The city has a genuine relationship with the macabre: above-ground cemeteries, Voodoo history, ghost stories that predate the American republic, a year-round culture of theater and spectacle. Halloween here isn't a special event grafted onto a normal city. It's a city that was already like this, turned up to maximum.
 
-For large groups, the timing is excellent: late October is one of the best weather windows of the year in New Orleans. Warm but not oppressive. No hurricanes, no Jazz Fest crowds.
+For large groups, the timing is excellent: late October is one of the best weather windows of the year in New Orleans. Warm but not oppressive, and no Jazz Fest crowds. October is still peak season for demand, though, and tropical weather can still show up early in the month. The [October group trip guide](/guides/nola-group-october-guide/) has the full weather and pricing picture, and the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) shows where Halloween fits in the year.
 
 ## Quick Checklist
 
