@@ -1884,3 +1884,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-14 UTC — seo: interlink `nola-weather-guide.md` — added link to summer group trip guide.
 2026-10-14 UTC — fix: property balance sweep — `group-tipping-etiquette.md`, `group-welcome-packet-guide.md`, `itinerary-weekend-warrior.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-14 UTC — backlog: no changes; Up Next left empty.
+2026-10-14 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-14 UTC (second run) — expand: refresh `nola-group-october-guide.md` (oldest, 2026-07-16) — retitled, verdict-first, 2026 Halloween/Krewe of Boo dates (expected), corrected shoulder-window references (Jan/summer/late Aug–mid Sep), removed unverified claims and numeric group range, pricing table now demand-based, neutral property examples, added links.
+2026-10-14 UTC (second run) — seo: interlink `halloween-guide.md` — links to October guide and best-time guide; removed "no hurricanes" overclaim.
+2026-10-14 UTC (second run) — fix: property balance sweep — `group-gifting-guide.md`, `group-photography-guide.md`, `group-size-mega-guide.md` (Castleday/Syd removed; Heirloom/Mazant/Lookout Inn/Revelry used).
+2026-10-14 UTC (second run) — backlog: no changes; Up Next left empty.
