@@ -1879,3 +1879,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-13 UTC (second run) — seo: interlink `nola-group-airbnb-vs-villa-honest-comparison.md` — added link to STR rules guide.
 2026-10-13 UTC (second run) — fix: property balance sweep — `nola-group-carriage-tour-guide.md`, `nola-group-cemetery-tour-guide.md`, `nola-group-charter-bus-guide.md`, plus `nola-group-airbnb-vs-villa-honest-comparison.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-13 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-14 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-14 UTC — expand: refresh `nola-group-summer-trip-guide.md` (oldest, 2026-07-09) — retitled, verdict-first intro, fixed October "shoulder/similar to summer pricing" error (October is peak; value window is late Aug–mid Sep), removed unverified attendance/20-40% premium/venue claims, hedged pool claims, added links (best time, hub, budget, transportation), bumped date.
+2026-10-14 UTC — seo: interlink `nola-weather-guide.md` — added link to summer group trip guide.
+2026-10-14 UTC — fix: property balance sweep — `group-tipping-etiquette.md`, `group-welcome-packet-guide.md`, `itinerary-weekend-warrior.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-14 UTC — backlog: no changes; Up Next left empty.
