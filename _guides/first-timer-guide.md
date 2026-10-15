@@ -113,7 +113,7 @@ With a group of 20, you can't just walk into popular restaurants. The ones worth
 
 ### Underestimating the Heat
 
-May through October is brutal. Not "a little warm" — legitimately oppressive heat and humidity. Schedule outdoor activities in the morning. Have a midday plan that involves AC. Hydrate constantly.
+May through October is brutal. Not "a little warm" — legitimately oppressive heat and humidity. Schedule outdoor activities in the morning. Have a midday plan that involves AC. Hydrate constantly. If the heat is the price of a cheaper trip, the [off-season guide](/guides/shoulder-season-guide/) explains what the summer and January discounts actually buy.
 
 ### Arriving Without a Plan and Calling It "Spontaneous"
 
