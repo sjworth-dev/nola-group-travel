@@ -201,7 +201,7 @@ A corporate awards night requires space that can hold the ceremony and the dinne
 
 A corporate awards night needs common space that can hold a seated ceremony and the dinner after it, without an institutional hotel-ballroom feel. Full kitchen, real common areas, and outdoor space for the wind-down after the ceremony wraps.
 
-Castleday Retreats runs Bywater villas with a private pool and full kitchen per house — a private property with no hotel staff foot traffic through the ceremony. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a courtyard and heated pool a block off the St. Charles streetcar, one block for anyone extending the evening downtown after. Hotel Perle's CBD group suites are worth a look if the group wants separate bills alongside the shared space, and a hotel room block covers a mixed-budget team. Confirm ceremony-space capacity directly with whichever property you book — it varies by house.
+The Mazant, an 1880s Bywater guesthouse sleeping 18, keeps the ceremony inside one private house with no hotel staff foot traffic. The Revelry's Central City apartment-style floors suit a team that wants separate billing, and the [Lower Garden District](/neighborhoods/lower-garden-district/) is the neighborhood to look at for anyone extending the evening downtown after. Hotel Perle's CBD group suites are worth a look if the group wants separate bills alongside the shared space, and a hotel room block covers a mixed-budget team. Confirm ceremony-space capacity directly with whichever property you book — it varies by house.
 
 [See where to stay for large groups →](/where-to-stay/)
 
