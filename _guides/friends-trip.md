@@ -23,7 +23,7 @@ Pool days. Long dinners. Dancing. Maybe a spa afternoon. Definitely some day dri
 
 **Key ingredients:** Good rental with pool, brunch reservations, Frenchmen Street at night.
 
-For a bigger crew of women, the [large group girls trip guide](/guides/nola-group-girls-trip-guide/) covers the full spa-brunch-pool-Frenchmen arc in detail. If you're based in Uptown, the [Uptown girls trip guide](/guides/girls-trip-uptown/) runs Magazine Street by block.
+For a bigger crew of women, the [large group girls trip guide](/guides/nola-group-girls-trip-guide/) covers the full spa-brunch-pool-Frenchmen arc in detail. For a college crew that's scattered across time zones, the [college friends reunion guide](/guides/nola-group-college-friends-reunion-guide/) covers budgets and pacing. If you're based in Uptown, the [Uptown girls trip guide](/guides/girls-trip-uptown/) runs Magazine Street by block.
 
 ### Guys Weekend
 

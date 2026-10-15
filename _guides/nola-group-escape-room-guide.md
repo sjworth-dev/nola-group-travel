@@ -4,7 +4,7 @@ description: "Escape rooms and murder mystery dinners for the whole crew in New 
 category: "Activities & Day Trips"
 card_title: "Escape Rooms & Team Puzzles"
 card_description: "Escape rooms, murder mystery dinners, and competitive team experiences for the whole crew — booking logistics, what actually works, and how to build an evening around it."
-date: 2026-08-29
+date: 2026-10-15
 ---
 
 Escape rooms and murder mystery dinners work well for NOLA group trips, but they require more advance planning than most people expect. The city's escape room scene is real — there are multiple venues with private room options — but the large-group logistics are specific, and a lot of groups show up to discover that a single room holds 8, not 20.
@@ -227,4 +227,4 @@ Set the meet-up time 30 minutes before the venue start time. Assume a 15-minute 
 
 Escape rooms and murder mystery dinners are evening activities that feed naturally into late nights. Having a private big-house rental as your home base changes the texture of the whole experience — and for an in-villa murder mystery format, where actors and props come to the property, you need enough private indoor and outdoor space to run the show entirely on-site.
 
-**Castleday Retreats**, private villas in the [Bywater](/neighborhoods/bywater/), put the group within easy reach of Frenchmen Street for a natural progression from a 7pm escape room into live music or a late-night bar scene. **The Syd**'s shared heated pool, hot tub, and sauna in the Lower Garden District make for a good evening-ending wind-down after an active group experience, and the St. Charles Streetcar one block away gives easy access to the CBD, French Quarter, and Frenchmen Street. **The Revelry**'s apartment-style floors, also in Central City, are worth a look if the group wants separate billing per subgroup rather than one shared house. For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
+**The Mazant**, an 1880s guesthouse in the [Bywater](/neighborhoods/bywater/) sleeping 18, puts the group within easy reach of Frenchmen Street for a natural progression from a 7pm escape room into live music or a late-night bar scene. **Heirloom**'s large-format homes are the pick for a group comparing layouts on short notice. **The Revelry**'s apartment-style floors in Central City are worth a look if the group wants separate billing per subgroup rather than one shared house. For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)

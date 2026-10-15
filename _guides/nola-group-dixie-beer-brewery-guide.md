@@ -4,7 +4,7 @@ description: "Brewery visits, craft beer taprooms, and NOLA beer culture for lar
 category: "Nightlife & Music"
 card_title: "Craft Beer & Brewery Guide"
 card_description: "The NOLA craft beer taproom scene for large groups: which breweries accommodate a crowd, tours, private buyouts, and building a half-day brewery crawl."
-date: 2026-08-26
+date: 2026-10-15
 ---
 
 New Orleans is not famous for craft beer the way it's famous for cocktails and spirits. That's fine — the cocktail scene is world-class and deserves its reputation. But the city has developed a legitimate local craft beer scene in the last decade, and for groups that want an afternoon activity that isn't another bar crawl or another swamp tour, a brewery crawl is a strong option.
@@ -181,6 +181,6 @@ Best for groups where the crawl ends near a restaurant the organizer has already
 
 ## Home Base for a Brewery Afternoon
 
-The Bywater puts your group close to the St. Claude corridor taprooms and a short ride from the Warehouse District cluster — Castleday Retreats' villas there (private pool per villa) give a group somewhere quiet to land after a five-hour crawl. If Uptown and Magazine Street's newer taprooms are more the focus, a Lower Garden District base near the streetcar works better; The Syd's villas there share a heated pool, hot tub, and outdoor kitchen. Heirloom is worth a look too — it has the widest inventory of large-format houses if neither of those fits your dates or headcount.
+The Bywater puts your group close to the St. Claude corridor taprooms and a short ride from the Warehouse District cluster — a Bywater guesthouse like The Mazant (sleeps 18, heated pool and spa) gives a group somewhere quiet to land after a five-hour crawl. If Uptown and Magazine Street's newer taprooms are more the focus, a Lower Garden District or Central City base near the streetcar works better; The Revelry's apartment-style floors suit a crew that wants separate doors. Heirloom is worth a look too — it has the widest inventory of large-format houses if neither of those fits your dates or headcount.
 
 For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
