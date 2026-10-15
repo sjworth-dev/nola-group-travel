@@ -1889,3 +1889,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-14 UTC (second run) — seo: interlink `halloween-guide.md` — links to October guide and best-time guide; removed "no hurricanes" overclaim.
 2026-10-14 UTC (second run) — fix: property balance sweep — `group-gifting-guide.md`, `group-photography-guide.md`, `group-size-mega-guide.md` (Castleday/Syd removed; Heirloom/Mazant/Lookout Inn/Revelry used).
 2026-10-14 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-15 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-15 UTC — expand: refresh `shoulder-season-guide.md` (oldest, 2026-07-17) — retitled to off-season framing, verdict-first, removed invented 20-40% / $1,000-2,000 rate claims, 2027 Fat Tuesday (Feb 9) and Krewe du Vieux (Jan 23), Southern Decadence moved to Labor Day weekend, Feb marked as peak not value, hurricane-risk note, standard lead-time line, added links, bumped date.
+2026-10-15 UTC — seo: interlink `first-timer-guide.md` — added link to off-season guide.
+2026-10-15 UTC — fix: property balance sweep — `nola-group-comedy-show-guide.md`, `nola-group-cooking-competition-guide.md`, `nola-group-corporate-awards-night-guide.md` (Castleday/Syd removed; Mazant/Revelry used).
+2026-10-15 UTC — backlog: no changes; Up Next left empty.
