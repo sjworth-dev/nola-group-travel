@@ -1,24 +1,26 @@
 ---
-title: "The College Friends Reunion Trip: New Orleans for a Crew That Scattered"
-description: "Planning a reunion trip for college friends who haven't all been in the same room in years. How to structure a New Orleans weekend around catch-up time, mixed budgets, and a group that's changed more than the group chat admits."
+title: "College Friends Reunion in New Orleans: Make It Work"
+description: "New Orleans suits a college reunion because it rewards doing little. Here's how to build the weekend around catch-up time, mixed budgets, and one good house."
 category: "Friends & Family"
 card_title: "College Friends Reunion"
 card_description: "Same group chat, different people. How to run a New Orleans reunion trip that accounts for who everyone's actually become."
-date: 2026-07-18
+date: 2026-10-15
 ---
+
+**Verdict: New Orleans is a strong reunion city, as long as you plan less than you want to.** Pick one house, two anchor plans, and leave the rest of the weekend empty.
 
 Somebody's getting married, somebody just had a kid, somebody moved back in with their parents at 34 and doesn't want to talk about it. Ten years ago you were the same. Now you're not, and the trip has to work anyway.
 
 A college reunion trip is not a bachelorette party and it's not a guys' golf weekend. There's no single occasion pulling everyone toward the same activities. The actual goal — the one nobody says out loud in the group chat — is finding out if the friendship still works in person, not just in a thread with 400 unread messages. That takes unstructured time in a way most trip formats don't.
 
-New Orleans is unusually well suited to that. It's a city you can do nothing in and still feel like you did something — a porch, a pool, a po'boy, a jazz set nobody planned to see. That matters more here than the itinerary does.
+New Orleans is unusually well suited to that, and it works year-round: October and February through May are the busy, full-price stretch, while summer and January are cheaper and quieter (see the [best time to visit](/guides/nola-group-best-time-to-visit-guide/)). It's a city you can do nothing in and still feel like you did something — a porch, a pool, a po'boy, a jazz set nobody planned to see. That matters more here than the itinerary does.
 
 ---
 
 ## Quick Checklist
 
 - [ ] Send a [pre-trip survey](/guides/nola-group-pre-trip-survey-guide/) that asks about budget comfort, not just food allergies — this is the trip where it matters most
-- [ ] Book one house with a real living room, not just bedrooms — see the Large Group Section below
+- [ ] Book one house with a real living room, not just bedrooms (see the [budget guide](/guides/budget-guide/) for rough cost math) — see the Large Group Section below
 - [ ] Build the schedule around two or three anchor plans, not a full day-by-day itinerary
 - [ ] Set a default spend level early so nobody's guessing what "dinner out" means for this group
 - [ ] Designate one point person for logistics — reunions drift without one
@@ -90,7 +92,9 @@ Either works. What matters more is booking one house big enough that the group i
 
 The accommodation choice matters more for a reunion trip than almost any other trip type on this site. The whole point is being in the same room, which a scattered set of hotel rooms actively works against.
 
-Look for a house with a genuine common area — a big kitchen, a porch, a pool deck — not just a collection of bedrooms. That common space is where the trip actually happens. As editorial examples of what New Orleans's large-group rental market looks like: Castleday Retreats runs three villas in the Bywater, each holding up to 30 guests with a private pool, built for groups that want total privacy. The Syd runs multiple villas in the Lower Garden District, each up to 22 guests, with a shared pool and hot tub and a more social layout. Neither is the only option — see the [full accommodation guide](/where-to-stay/) for the complete field, including hotels for mixed-budget groups who'd rather book and pay separately.
+Look for a house with a genuine common area — a big kitchen, a porch, a pool deck — not just a collection of bedrooms. That common space is where the trip actually happens. As editorial examples of what the large-group market looks like: The Mazant is a single 1880s Bywater guesthouse sleeping 18 with a heated pool and spa, which suits one crew under one roof. The Revelry offers apartment-style floors in Central City with a saltwater pool, a fit when couples want their own door. Heirloom has the deepest inventory of large-format homes if dates are tight. None is the only option — see the [full accommodation guide](/where-to-stay/) for the complete field, including hotels for mixed-budget groups who'd rather book and pay separately.
+
+If this is your first time organizing anything this size, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions in order, and for the best lead time, book 6+ months out for the largest selection.
 
 A reunion crew with wide budget variance is also a case where hotel room blocks are worth a real look instead of defaulting to a villa — separate bills mean nobody's subsidizing anybody else's room, even if it costs the group its shared common space.
 
