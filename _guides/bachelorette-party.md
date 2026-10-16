@@ -44,7 +44,7 @@ Bach trips die from sequencing errors, not bad ideas. The order:
 - **Mardi Gras (date moves — Fat Tuesday is February 9, 2027):** Incredible but chaotic, expensive, crowded. Great if that's the plan; overwhelming if you just want a bachelorette trip. The [Mardi Gras group guide](/guides/mardi-gras-group-guide/) is its own project.
 - **July–August:** Brutally hot and humid. Plan pool-heavy days and indoor afternoons or pick another month.
 
-**Consider:** **Jazz Fest** (late April–early May) if the bride loves live music, or **French Quarter Fest** (April) — free, high-energy, less crowded. Exact dates for everything are on the [festival calendar](/events/).
+**Consider:** **Jazz Fest** (late April–early May) if the bride loves live music, or **French Quarter Fest** (April) — free, high-energy, less crowded. Exact dates for everything are on the [festival calendar](/events/). Before the first big night out, read the [group safety guide](/guides/nola-group-safety-guide/) — the bride's crew fragmenting at 1am is the real risk, not the city.
 
 ## Where Should a Bachelorette Party Stay in New Orleans?
 

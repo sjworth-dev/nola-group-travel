@@ -200,7 +200,7 @@ Look for bands that have a track record with private events. The NOLA music comm
 
 Location matters for a music-focused trip — you want a walk home, not a cab fight at 2am.
 
-**Editorial examples of what that looks like:** Bywater villas like Castleday Retreats put a group within a 10-15 minute walk of Frenchmen Street and the Marigny, in the neighborhood where a lot of the city's working musician community actually lives. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, connects a group to Uptown venues like Tipitina's without a car. Hotel room blocks — properties like The Roosevelt or Hotel Peter & Paul — work for a group that wants separate keys and bills rather than one shared roof. None of the above is a booking recommendation; pick by fit and proximity to the venues your group cares about most. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the full field.
+**Editorial examples of what that looks like:** Bywater options like The Mazant put a group within a short walk of Frenchmen Street and the Marigny. Large-format Heirloom homes in Central City and the Lower Garden District connect a group to Uptown venues like Tipitina's via the streetcar. Hotel room blocks — properties like The Roosevelt or Hotel Peter & Paul — work for a group that wants separate keys and bills rather than one shared roof. None of the above is a booking recommendation; pick by fit and proximity to the venues your group cares about most. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers the full field.
 
 For the largest selection, book 6+ months out.
 
