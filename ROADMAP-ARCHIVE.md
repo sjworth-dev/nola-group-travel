@@ -1904,3 +1904,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-16 UTC — seo: interlink `nola-airport-transfer-guide.md` — link to parking guide.
 2026-10-16 UTC — fix: property balance sweep — `group-grocery-cooking-guide.md`, `group-size-guide.md`, `hotel-vs-villa-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-16 UTC — backlog: no changes; Up Next left empty.
+2026-10-16 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-16 UTC (second run) — expand: refresh `nola-group-safety-guide.md` (oldest, 2026-07-19) — shorter description, removed "heavily policed" claim, neutral property examples, standard lead-time line, added links (hub, nightlife), bumped date.
+2026-10-16 UTC (second run) — seo: interlink `bachelorette-party.md` — link to group safety guide.
+2026-10-16 UTC (second run) — fix: property balance sweep — `live-music-guide.md`, `music-history-guide.md`, `new-orleans-music-venues-guide.md` (Castleday/Syd removed; Mazant/Heirloom used).
+2026-10-16 UTC (second run) — backlog: no changes; Up Next left empty.
