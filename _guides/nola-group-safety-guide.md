@@ -1,17 +1,17 @@
 ---
 title: "Is New Orleans Safe for a Large Group Trip? The Real Answer"
-description: "Safety tips for a bachelorette party or big group trip to New Orleans: French Quarter street sense, the buddy system at scale, common scams, and how to move a crew safely at night."
+description: "Yes, a big group is safe in New Orleans if it stays a group. French Quarter street sense, common scams, and how to move the whole crew at night."
 category: "Planning & Logistics"
 card_title: "Group Safety Guide"
 card_description: "The honest safety briefing for a big group—not the scary version, not the naive one."
-date: 2026-07-19
+date: 2026-10-16
 ---
 
-Is New Orleans safe for a group trip? Yes, with the same asterisk that applies to any major American city: most of it depends on where you are, what time it is, and how much attention your group is drawing. A dozen people moving as a pack through the French Quarter at 1am is not the same risk profile as one person walking alone six blocks off the tourist grid.
+Is New Orleans safe for a group trip? Yes, mostly, with the same asterisk that applies to any major American city: most of it depends on where you are, what time it is, and how much attention your group is drawing. A dozen people moving as a pack through the French Quarter at 1am is not the same risk profile as one person walking alone six blocks off the tourist grid.
 
-The scary stories your group has heard are mostly true somewhere in this city and mostly irrelevant to where a group trip actually spends its time. The tourist core—French Quarter, Frenchmen Street, the CBD—is heavily walked, heavily lit, and heavily policed relative to the rest of town. That's not the same as risk-free. Petty theft and scams targeting visibly-visiting groups are the real concern, not the violent-crime headlines out-of-towners import from unrelated neighborhoods.
+The scary stories your group has heard are mostly true somewhere in this city and mostly irrelevant to where a group trip actually spends its time. The tourist core—French Quarter, Frenchmen Street, the CBD—is heavily walked and well lit relative to the rest of town. That's not the same as risk-free. Petty theft and scams targeting visibly-visiting groups are the real concern, not the violent-crime headlines out-of-towners import from unrelated neighborhoods.
 
-This is the practical version: what to actually watch for, how a big group should move at night, and where the real risk sits versus the imagined one.
+This is the practical version (if you are still sketching the trip, start with the [group trip planning hub](/guides/plan-a-group-trip/)): what to actually watch for, how a big group should move at night, and where the real risk sits versus the imagined one.
 
 ## Quick Safety Checklist
 
@@ -41,14 +41,14 @@ The French Quarter at night is dense, loud, and full of people—which is exactl
 
 The two-person buddy system works fine for a couple. It falls apart at fifteen people unless you build in structure.
 
-| Group Size | Buddy System Approach |
+| Headcount | Buddy System Approach |
 |---|---|
 | 2-4 people | Standard buddy pairs, check in at each stop |
 | 5-10 people | Buddy pairs plus one point person who tracks the group's location |
-| 10-20 people | Sub-groups of 4-5, each with a point person, group text or location-share app for the whole crew |
-| 20-30 people | Split into planned sub-crews for the night rather than pretending everyone stays together—one point person per sub-crew, one lead point person overall |
+| 10 to 20 people | Sub-groups of 4-5, each with a point person, group text or location-share app for the whole crew |
+| 20+ people | Split into planned sub-crews for the night rather than pretending everyone stays together—one point person per sub-crew, one lead point person overall |
 
-The honest reality: a group of twenty-five does not stay together for an entire night out, no matter what the group chat agrees to at 6pm. Plan for the split instead of fighting it. Decide in advance which sub-crews are heading where, and make sure every sub-crew has someone who's sober enough to make a decision at 2am.
+The honest reality: a crew of twenty-five does not stay together for an entire night out, no matter what the group chat agrees to at 6pm. Plan for the split instead of fighting it. Decide in advance which sub-crews are heading where, and make sure every sub-crew has someone who's sober enough to make a decision at 2am.
 
 ---
 
@@ -74,7 +74,7 @@ Getting a large group between bars, a rental, and a late dinner is where a surpr
 
 **Walking as a full group after midnight has real advantages.** A visible pack of ten to twenty people reads as exactly what it is—a group trip, not a target—and it's a deterrent in itself. The risk goes up when that same group thins out to two or three stragglers.
 
-**Agree on a "home base" cutoff before the night starts.** If your group is staying in a villa in the [Bywater](/neighborhoods/bywater/) or [Lower Garden District](/neighborhoods/lower-garden-district/), decide in advance roughly when the last rideshare or van pickup happens, rather than negotiating it drunk at 2am on a sidewalk. Bar-crawl routes matter here too—see the [bar crawl guide](/guides/bar-crawl-guide/) for routes that stay inside well-trafficked blocks the whole night.
+**Agree on a "home base" cutoff before the night starts.** If your group is staying in a villa in the [Bywater](/neighborhoods/bywater/) or [Lower Garden District](/neighborhoods/lower-garden-district/), decide in advance roughly when the last rideshare or van pickup happens, rather than negotiating it drunk at 2am on a sidewalk. Bar-crawl routes matter here too—see the [bar crawl guide](/guides/bar-crawl-guide/) and the [nightlife guide](/guides/nightlife-guide/) for routes that stay inside well-trafficked blocks the whole night.
 
 **Know your open-container status before you leave the bar.** A group carrying drinks the wrong way, in the wrong container, in the wrong zone draws exactly the kind of attention you don't want at midnight—the [open container guide](/guides/nola-group-open-container-law-guide/) covers where the rule actually applies.
 
@@ -102,7 +102,7 @@ Getting a large group between bars, a rental, and a late dinner is where a surpr
 
 A big group changes the safety math in both directions. On one hand, a visible crew of fifteen is a harder target than a lone traveler—there's real safety in numbers. On the other hand, big groups fragment, and a fragmented group at 2am is where most of the actual incidents happen, not the crowd itself.
 
-Where you stay affects this more than most people plan for. A group split across three separate hotel rooms has three separate walks home, three separate chances for someone to get separated, and three sets of keys or key cards to track. A group housed together—whether that's a villa-style rental or a block of rooms in the same building—collapses that risk down to one home base and one point where everyone needs to check in. Large-format rentals built for a big crew, like the villa options in the Bywater or Lower Garden District, or a block of rooms at a hotel that can hold the whole group, solve a real logistics problem here, not just a comfort one.
+Where you stay affects this more than most people plan for. A group split across three separate hotel rooms has three separate walks home, three separate chances for someone to get separated, and three sets of keys or key cards to track. A group housed together—whether that's a villa-style rental or a block of rooms in the same building—collapses that risk down to one home base and one point where everyone needs to check in. A large-format rental or a block of rooms in one hotel (the Mazant, the Revelry, Heirloom homes, and Hotel Perle suites are all examples of different shapes this takes) collapses the problem to one home base. That is a logistics win, not just a comfort one. Book 6+ months out for the largest selection.
 
 ---
 
