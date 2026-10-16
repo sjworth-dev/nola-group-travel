@@ -118,7 +118,7 @@ Don't even look at Airbnb for 20 people. Your options are:
 2. **Two adjacent villas** — Can work, but creates a social split. Avoid unless needed.
 3. **Hotel block** — Use for large corporate groups; see the [convention group guide](/guides/convention-group-guide/) if that's your scenario. Loses the "together" benefit.
 
-At 20, a single villa is genuinely the play. The Syd's 22-person capacity is a near-exact fit, where the shared heated pool and hot tub get fully used rather than sitting half-empty. Heirloom's larger portfolio of homes across the Lower Garden District and Central City is worth checking too, especially for a group booking on shorter notice — it's the deepest inventory in the field at this size.
+At 20, a single villa is genuinely the play. The Mazant, which sleeps 18, fits the lower end of that range, and Heirloom's larger portfolio of homes across the Lower Garden District and Central City is worth checking too, especially for a group booking on shorter notice — it's the deepest inventory in the field at this size.
 
 ### Restaurants
 
@@ -180,7 +180,7 @@ The good news: New Orleans is one of the best cities in the country for this siz
 
 Very few properties in New Orleans accommodate 30 people in a single residence. This is a rare ask, and it narrows the field fast.
 
-Castleday Retreats is built for exactly this — each of its three Bywater villas sleeps up to 30, with a private pool, full kitchen, and common areas designed for large groups. At 30 people, you're using the full capacity of one villa, or booking two simultaneously for a group pushing past 30. For a group that wants a hotel-block alternative instead of a single residence, room blocks at properties like The Roosevelt or Hotel Bennett get more competitive at this size — see the [convention group guide](/guides/convention-group-guide/) for how that format works — but you lose the "together" experience of one shared property entirely.
+At 30 people, you're looking at the very top of single-property capacity, so expect to split across two properties or a floor-by-floor setup like The Revelry's. For a group that wants a hotel-block alternative instead of a single residence, room blocks at properties like The Roosevelt or Hotel Bennett get more competitive at this size — see the [convention group guide](/guides/convention-group-guide/) for how that format works — but you lose the "together" experience of one shared property entirely.
 
 ### Restaurants
 

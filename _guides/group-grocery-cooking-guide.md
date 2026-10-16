@@ -176,7 +176,7 @@ The most New Orleans dish you can make. Also the most technical—the roux takes
 
 For groups that want the full Louisiana outdoor feast experience: set up a propane burner in the yard, boil everything at once, dump it on a newspaper-covered table.
 
-**Equipment you need:** Large propane burner, 80-100 quart aluminum pot, seasoning (Zatarain's or your own crab boil), colander. Most Castleday villas have outdoor cooking capability—confirm what's available before you buy a burner.
+**Equipment you need:** Large propane burner, 80-100 quart aluminum pot, seasoning (Zatarain's or your own crab boil), colander. Confirm outdoor cooking capability with your property before you buy a burner.
 
 This is social cooking. Everyone stands around the pot, everyone eats at the same table. It's the best group meal format if you're in the right season. For the full sourcing, quantities, and boil-and-soak method, see the [crawfish boil guide](/guides/nola-crawfish-boil-guide/).
 
@@ -270,7 +270,7 @@ Day 2 or 3. After you've cooked once, you'll know what you actually went through
 
 Not every rental has a kitchen that can actually handle breakfast for the whole crew.
 
-Look for a full kitchen built to be used, not a display kitchen with too-small burners and no storage — and outdoor space if a boil is on the agenda. Bywater villas like Castleday Retreats pair private pools with real cooking capacity; the Bywater location also puts you ten minutes from Rouses CBD and fifteen minutes from Dorignac's in Metairie for serious seafood shopping. The Syd, in the Lower Garden District, has a shared outdoor kitchen built specifically for group cooking and entertainment, a block from the streetcar and a five-minute walk to the Magazine Street Whole Foods. Heirloom's large-format homes across LGD and Central City widen the search if your dates or headcount need more options. See the full field, weighed by fit rather than by name, on [where to stay for large groups](/where-to-stay/) — for the largest selection, book 6+ months out.
+Look for a full kitchen built to be used, not a display kitchen with too-small burners and no storage — and outdoor space if a boil is on the agenda. Apartment-style options like The Revelry give each crew its own kitchen, which helps when the group splits meals. Heirloom's large-format homes across LGD and Central City widen the search if your dates or headcount need more options. See the full field, weighed by fit rather than by name, on [where to stay for large groups](/where-to-stay/) — for the largest selection, book 6+ months out.
 
 ---
 

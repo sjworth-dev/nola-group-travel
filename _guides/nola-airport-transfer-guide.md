@@ -19,7 +19,7 @@ This guide covers the real mechanics: what your options are, how to coordinate s
 
 - [ ] Inventory every flight in your group — arrival times, airlines, terminals — before planning any transportation
 - [ ] Identify which arrivals are within 2 hours of each other and which require separate pickup waves
-- [ ] Decide on your primary transport mode: charter van, rideshare, or private car service — before anyone books anything individually
+- [ ] Decide on your primary transport mode: charter van, rideshare, or private car service — before anyone books anything individually (and if anyone is renting a car, read the [parking guide](/guides/nola-group-parking-guide/) first)
 - [ ] If chartering vehicles, book at least 3-4 weeks out; popular periods require 6-8 weeks
 - [ ] Create a shared document or group chat specifically for flight info and expected baggage claim times
 - [ ] Identify one person per arrival wave as the ground coordinator — they text the vehicle when bags are in hand
