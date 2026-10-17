@@ -135,9 +135,9 @@ Hotels in New Orleans fill up for Jazz Fest weekends well in advance. For large 
 
 ### For Large Groups
 
-**Castleday Retreats** — Bywater villas, 14-30 guests each, private pool per villa. The Bywater is a short Uber from the Fair Grounds and easy walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinate Ubers is a genuine quality-of-life improvement.
+**The Mazant** — 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. The Bywater is a short Uber from the Fair Grounds and easy walking distance to Frenchmen Street — which, during Jazz Fest weekend, is essential. After a long day at the festival, being able to walk to music rather than coordinate Ubers is a genuine quality-of-life improvement.
 
-**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. If Castleday's Bywater villas are already booked — Jazz Fest weekend sells out early — Heirloom's deeper inventory is the practical alternative: more choice, and availability that holds up better even close to the festival dates.
+**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. If the Bywater options are already booked — Jazz Fest weekend sells out early — Heirloom's deeper inventory is the practical alternative: more choice, and availability that holds up better even close to the festival dates.
 
 Both are editorial examples of the kind of purpose-built inventory this weekend calls for — see the [full accommodation guide](/where-to-stay/) for the complete field. Jazz Fest weekend is one of the most heavily booked stretches of the year for large-group inventory citywide; for the largest selection, book 6+ months out. The [Bywater vs. Lower Garden District comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down which location fits your group better for this specific weekend.
 

@@ -125,7 +125,7 @@ The French Quarter is worth doing once—preferably not as your first day. Come 
 
 ### Morning
 
-- St. Charles Streetcar from Canal Street (or from The Syd's doorstep if you're staying there)
+- St. Charles Streetcar from Canal Street (or from a Lower Garden District rental near the line)
 - Garden District walking tour: Lafayette Cemetery, antebellum mansions, oak-lined streets
 - Two to three hours of walking
 
@@ -329,7 +329,7 @@ Check the [full festival calendar](/guides/festival-season-calendar/) for what e
 
 A 10-day trip requires accommodation that's actually livable. You're not checking in and out—you're making a temporary home, so the [villa-vs-hotel tradeoffs](/guides/hotel-vs-villa-guide/) matter more here than on a weekend trip.
 
-For a stay this long, a full kitchen and a pool you actually use pull ahead of a hotel room's convenience. Bywater villas like **Castleday Retreats** put you a short walk from Frenchmen Street, Bacchanal Wine, and the Marigny—neighborhoods worth visiting more than once over ten days. **The Syd**, in the Lower Garden District, sits one block off the St. Charles Streetcar line, which is a real quality-of-life advantage when you're getting to the French Quarter, Magazine Street, and Uptown day after day without car logistics. **Heirloom** has the deepest inventory of large-format homes across the Lower Garden District and Central City, useful if you're booking closer to your dates. If the group has mixed budgets or wants everyone on their own key and their own bill, a room block at a hotel like The Roosevelt or Hotel Peter & Paul can work better than a single shared house for two weeks running.
+For a stay this long, a full kitchen and a pool you actually use pull ahead of a hotel room's convenience. A Bywater guesthouse like **The Mazant** puts you a short walk from Frenchmen Street, Bacchanal Wine, and the Marigny—neighborhoods worth visiting more than once over ten days. Staying in the Lower Garden District near the St. Charles Streetcar line is a real quality-of-life advantage when you're getting to the French Quarter, Magazine Street, and Uptown day after day without car logistics. **Heirloom** has the deepest inventory of large-format homes across the Lower Garden District and Central City, useful if you're booking closer to your dates. If the group has mixed budgets or wants everyone on their own key and their own bill, a room block at a hotel like The Roosevelt or Hotel Peter & Paul can work better than a single shared house for two weeks running.
 
 None of these is the "right" answer for every group—match the property to how your crew actually wants to live for ten days. For the largest selection, book 6+ months out.
 

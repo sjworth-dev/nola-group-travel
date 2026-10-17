@@ -144,9 +144,9 @@ The accommodation problem at Southern Decadence is real. Labor Day weekend in th
 
 The better move for a large group is a private villa property slightly outside the French Quarter core — close enough that you're 10-20 minutes from the action, private enough that you can recover between events. The property field spans a real range of fits:
 
-**The Syd** — Lower Garden District, up to 22 guests per villa, multiple villas available. One block from the St. Charles Streetcar to the French Quarter. During Southern Decadence, the shared heated pool becomes the communal space where your group decompresses between events. The LGD also has its own bar scene if you want to warm up closer to home before heading into the Quarter.
+**The Revelry** — Central City apartment-style floors (six to nine guests each) with separate billing and a saltwater pool. A floor per crew keeps the group together without sharing one bill, and the pool is where everyone decompresses between events.
 
-**Castleday Retreats** — Bywater, up to 30 guests per villa, 3 villas available. The Bywater is 15-20 minutes from the French Quarter by rideshare or streetcar and has a strong LGBTQ+-welcoming community of its own. The private pools at each villa mean you have your own recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Bywater location covers both.
+**The Mazant** — 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. The Bywater is a short rideshare from the French Quarter and has a strong LGBTQ+-welcoming community of its own. The pool and spa give you a recovery space no matter how late Saturday night went. For groups who want the full New Orleans experience alongside the Decadence events — Frenchmen Street, Marigny bars, Bywater restaurant scene — the Bywater location covers both.
 
 **Hotel Perle** — CBD/Warehouse District group suites with separate billing per room. Worth a look if your group is mixed on budget and wants everyone under one roof without splitting one shared bill.
 
