@@ -115,6 +115,8 @@ For the full math on splitting a big group across multiple cars — dispatch ord
 
 ## Charter Buses and Party Buses
 
+The [charter bus guide](/guides/nola-group-charter-bus-guide/) has the full cost-per-person math and the French Quarter loading-zone reality; the short version follows.
+
 For groups of 15-30, chartering a vehicle is often the right answer — not just for going out, but for the whole trip.
 
 ### What's Available
