@@ -1,21 +1,21 @@
 ---
-title: "Charter Bus and Party Bus Rental for Large Groups in New Orleans"
-description: "When a private charter or party bus actually beats splitting a big group across rideshares in New Orleans — cost-per-person math, French Quarter loading logistics, and what to ask a vendor before you book."
+title: "Charter Bus & Party Bus in New Orleans for Big Groups"
+description: "Charter bus or rideshare in New Orleans? A charter wins once the crew outgrows a few cars. Cost-per-person math, Quarter loading limits, and vendor questions."
 category: "Planning & Logistics"
 card_title: "Charter Bus Guide"
 card_description: "Six Ubers or one bus? Here's the math and the loading-zone reality that actually decides it."
-date: 2026-07-20
+date: 2026-10-17
 ---
 
-Here's the verdict: for a group under twelve, book rideshare and don't overthink it. For a group of fifteen or more moving as a unit — a game day, a parade weekend, a wedding party heading to one venue — a charter is usually the better call, and not just for comfort. It's often the same price or cheaper than the six-plus separate cars you'd otherwise need, and it solves a problem rideshare can't: getting everyone there and back together.
+Here's the verdict: if you fit in a few cars, book rideshare and don't overthink it. Once the whole crew is moving as a unit — a game day, a parade weekend, a wedding party heading to one venue — a charter is usually the better call (your [group-trip planning hub](/guides/plan-a-group-trip/) covers where transport fits in the bigger sequence), and not just for comfort. It's often the same price or cheaper than the six-plus separate cars you'd otherwise need, and it solves a problem rideshare can't: getting everyone there and back together.
 
 The mistake most organizers make is treating "charter a bus" and "just Uber it" as a vibe decision instead of a math decision. It isn't. It depends on group size, how far you're going, how many separate pickups you'd otherwise need, and whether the destination has anywhere for six rideshares to safely stop at once. A ten-minute hop to Frenchmen Street doesn't need a bus. A Saturday night moving twenty-five people from a Bywater villa to the Superdome and back does.
 
-This guide covers when a charter actually wins the math, what you're renting when you book one, realistic cost-per-person framing, and the part most groups get wrong: New Orleans' tourist core has almost nowhere for a full-size bus to legally stop. For the broader rideshare-vs-charter math on a per-car basis, see the [rideshare master guide](/guides/nola-group-ride-share-master-guide/); this page goes deeper on the charter side specifically.
+This guide covers when a charter actually wins the math, what you're renting when you book one, realistic cost-per-person framing, and the part most groups get wrong: New Orleans' tourist core has almost nowhere for a full-size bus to legally stop. For airport arrivals specifically, see the [airport transfer guide](/guides/nola-airport-transfer-guide/). For the broader rideshare-vs-charter math on a per-car basis, see the [rideshare master guide](/guides/nola-group-ride-share-master-guide/); this page goes deeper on the charter side specifically.
 
 ## Quick Planning Checklist
 
-- [ ] Count your group honestly — under 12, default to rideshare; 15+, price out a charter
+- [ ] Count your group honestly — if it fits in three or four cars, default to rideshare; past that, price out a charter
 - [ ] Confirm your accommodation's block can actually fit a bus or van (some Bywater and Lower Garden District streets can't)
 - [ ] Book a local charter company directly, not a generic national booking site
 - [ ] Ask the vendor about a Quarter-adjacent load/unload point before you assume they'll pull up outside the venue
@@ -45,7 +45,7 @@ Outside those scenarios — day-to-day movement around the Quarter, Uptown, or t
 
 **Sprinter van (roughly 8-14 passengers).** The workhorse option for a mid-size group — comfortable, fits through more of the city's narrower streets than a full-size bus, and works for airport runs, day trips, and nights out alike.
 
-**Party bus (roughly 15-30+ passengers).** Built for the ride itself, not just transport — typically a sound system, lighting, and an onboard bar setup. This is the option for a group that wants the trip there to be part of the night, common for Mardi Gras and bachelorette weekends.
+**Party bus (roughly 15-30+ passengers).** Built for the ride itself, not just transport — typically a sound system, lighting, and an onboard bar setup. This is the option for a group that wants the trip there to be part of the night, common for Mardi Gras and [bachelorette weekends](/guides/bachelorette-party/).
 
 **Charter coach (30+ or a full day trip).** For groups too large for a van or party bus, or a day trip outside the city — a swamp tour, a plantation tour, a casino run. Most day-tour operators can accommodate a full coach for larger groups.
 
@@ -102,7 +102,7 @@ Before you book, get clear answers on:
 | Surge pricing exposure | None — flat rate | High during games, parades, festivals |
 | Coordination effort | Low once booked | High — dispatching, matching riders, regrouping |
 | Flexibility mid-trip | Low — fixed schedule and stops | High — each car goes independently |
-| Best group size | 15+ | Under 12 |
+| Best fit | Big groups moving together | Small groups, scattered plans |
 | Parade-route or stadium-crowd access | Better — pre-arranged pickup point | Worse — drivers can't get close, routes block cars |
 
 Neither option is universally right. A group of eight doing a casual night out doesn't need a charter. A group of twenty-five moving to one parade viewing spot doesn't want six separate rideshare bookings.
@@ -121,7 +121,7 @@ Neither option is universally right. A group of eight doing a casual night out d
 
 5. **If you're staying in a villa-style rental, confirm the street can fit the vehicle before you book.** Some Bywater and Lower Garden District blocks can't turn a full-size coach.
 
-6. **For parade weekends, book earlier than you think you need to.** Charter demand spikes hard around Mardi Gras specifically, and local operators have limited fleets.
+6. **For parade weekends, book early.** Local operators run limited fleets and Mardi Gras is the squeeze point. As with lodging, for the largest selection, book 6+ months out.
 
 7. **Have a rideshare backup plan regardless.** Even a group that charters for the main event usually still needs individual transportation for smaller side trips.
 
