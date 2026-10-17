@@ -125,7 +125,7 @@ One dinner should be *the* dinner. For a big group that means a private room or 
 
 **French Quarter:** Bourbon Street (loud, trashy, fun — and correct in small doses) · Pat O'Brien's (Hurricanes, dueling pianos) · The Carousel Bar (classy; literally rotates)
 
-**Frenchmen Street (better than Bourbon):** The Spotted Cat (tiny, sweaty, incredible) · d.b.a. (real music room) · Maison (three floors)
+**Frenchmen Street (better than Bourbon):** The Spotted Cat (tiny, sweaty, incredible) · d.b.a. (real music room) · Maison (three floors) Moving a big crew between them? The [bar crawl guide](/guides/bar-crawl-guide/) has routes, tab rules, and wrangler logistics.
 
 **Bywater:** Bacchanal Wine (wine garden, live music, perfect) · BJ's Lounge (dive, authentic)
 
