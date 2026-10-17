@@ -1909,3 +1909,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-16 UTC (second run) — seo: interlink `bachelorette-party.md` — link to group safety guide.
 2026-10-16 UTC (second run) — fix: property balance sweep — `live-music-guide.md`, `music-history-guide.md`, `new-orleans-music-venues-guide.md` (Castleday/Syd removed; Mazant/Heirloom used).
 2026-10-16 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-17 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-17 UTC — expand: refresh `bar-crawl-guide.md` (oldest, 2026-07-20) — retitled, verdict-first, removed numeric group ranges and "locals"/"legendary" language, open-container wording aligned with the open container guide, removed unverified late-night bar list, added links (open container, nightlife, hub, Bourbon guides, bar buyout), bumped date.
+2026-10-17 UTC — seo: interlink `bachelorette-party.md` — link to bar crawl guide.
+2026-10-17 UTC — fix: property balance sweep — `nola-group-landmark-restaurant-booking-guide.md`, `nola-group-late-night-food-crawl-structure.md`, `nola-group-late-night-food-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used; unverified Syd outdoor-kitchen claim dropped).
+2026-10-17 UTC — backlog: no changes; Up Next left empty.
