@@ -128,6 +128,8 @@ Reserve at least three weeks out for a double-digit table, by phone. **The call 
 
 **Frenchmen Street (the real move):** three blocks of live music where the city actually goes. The Spotted Cat (tiny, sweaty, incredible) · d.b.a. (real music room) · Maison (three floors) · Blue Nile (brass bands). The [bar crawl guide](/guides/nola-group-bywater-bar-crawl-guide/) covers moving a big crew between rooms without losing half of it.
 
+Want the night to have a route instead of a drift? The [bar crawl guide](/guides/bar-crawl-guide/) sequences it for a big group. Still choosing dates? The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) says which months cost you and which ones save you.
+
 **Know the street rules before the first go-cup:** plastic yes, glass no — the [open container guide](/guides/nola-group-open-container-law-guide/) is the two-minute read that keeps the night simple.
 
 Want one decent photo of the whole crew before the night gets blurry? The [night photography guide](/guides/nola-group-night-photography-guide/) picks the spots (Royal Street, not Bourbon) and the 20-minute window.
