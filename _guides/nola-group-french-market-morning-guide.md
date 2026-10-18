@@ -197,6 +197,6 @@ The French Market morning works best when it is a standalone activity with a cle
 
 ## Large Group Accommodation for the French Market Morning
 
-The French Market is in the French Quarter, accessible by rideshare from both primary villa neighborhoods in under 20 minutes. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) put the group closest to the river; Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub, one block from the streetcar) trade that proximity for a walkable streetcar line to the Quarter. Either way, the morning's produce haul travels fine in a rideshare back to the villa's kitchen. For the largest selection, book 6+ months out.
+The French Market is in the French Quarter, accessible by rideshare from both primary villa neighborhoods in under 20 minutes. Bywater options like The Mazant (one historic house sleeping 18, heated pool and spa) put the group closest to the river; Central City and downtown options like The Revelry or Roami's The Mandeville trade that proximity for a short rideshare or streetcar hop to the Quarter. Either way, the morning's produce haul travels fine in a rideshare back to the villa's kitchen. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
