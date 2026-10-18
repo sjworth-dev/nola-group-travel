@@ -27,7 +27,7 @@ The problem most guys trips run into: they show up without a plan and spend most
 
 ### Golf
 
-New Orleans is a legitimate golf city. You're not roughing it.
+New Orleans is a legitimate golf city. You're not roughing it. For a full tee-time plan for a big foursome-times-four, see the [large group golf guide](/guides/large-group-golf-guide/).
 
 | Course | Type | Notes |
 |--------|------|-------|
@@ -81,7 +81,7 @@ New Orleans is a Saints city. When the Saints are on, the bars fill up and the e
 | The Avenue Pub | Lower Garden District | Strong beer selection, 24/7, relaxed |
 | Finn McCool's | Mid-City | Irish pub, big Saints crowd, neighborhood regulars |
 
-**For Saints home games at the Superdome:** Check the NFL schedule before you book. A Saints home game is a completely different level of energy. Get tickets in advance (resale sites work fine). Tailgating outside the Dome starts hours before kickoff. The [sports weekend guide](/guides/sports-weekend/) covers gameday logistics for a big group in more depth.
+**For Saints home games at the Superdome:** Check the NFL schedule before you book. A Saints home game is a completely different level of energy. Get tickets in advance (resale sites work fine). Tailgating outside the Dome starts hours before kickoff. The [Saints gameday guide](/guides/saints-gameday-mega-guide/) and the [sports weekend guide](/guides/sports-weekend/) covers gameday logistics for a big group in more depth.
 
 **Note:** The venue name has changed over the years but locals still call it the Superdome. Look for "Caesars Superdome" on official ticketing.
 
