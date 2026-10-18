@@ -180,7 +180,7 @@ A few things worth stating directly:
 
 Tremé doesn't have large-group accommodation within its borders, but its closest neighbors do, and a group spending real time here is usually building the whole trip around the city's historically significant neighborhoods — Bywater, Marigny, and Tremé form a connected geography that rewards it.
 
-**Castleday Retreats** in the Bywater is a short rideshare or a walkable stretch through the Marigny, with private pools and full kitchens for a group that wants to come back from a heavy day of history and decompress together. Further out, **The Syd** in the Lower Garden District puts the St. Charles Streetcar between the group and the CBD, useful if the trip is anchored more Uptown with Tremé as a day visit; and **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking when you need choice on short notice. For the largest selection, book 6+ months out.
+**The Mazant** in the Bywater is a short rideshare or a walkable stretch through the Marigny, a single historic house for a group that wants to come back from a heavy day of history and decompress together. Further out, a Lower Garden District base puts the St. Charles Streetcar between the group and the CBD, useful if the trip is anchored more Uptown with Tremé as a day visit; and **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking when you need choice on short notice. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 

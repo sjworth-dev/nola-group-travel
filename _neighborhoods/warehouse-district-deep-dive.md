@@ -189,7 +189,7 @@ The Warehouse District is accessible from most neighborhoods in New Orleans.
 
 ## Where to Stay for a Warehouse District Trip
 
-The Warehouse District itself leans toward Hotel Perle's CBD/Warehouse group suites — separate bills, walkable to everything in this guide — but groups based elsewhere in the city reach it easily too. A Lower Garden District base (The Syd is one option there) is directly adjacent via Magazine Street, an easy walk to the WWII Museum. A Bywater base (Castleday Retreats, for instance) is a 20-minute Uber, not walkable, but works well as part of a multi-day trip that includes the Warehouse District as one day among several. Heirloom's inventory spans several of these neighborhoods if you want more options to compare. Confirm any amenity you're counting on directly with the property before you book.
+The Warehouse District itself leans toward Hotel Perle's CBD/Warehouse group suites — separate bills, walkable to everything in this guide — but groups based elsewhere in the city reach it easily too. A Lower Garden District base (Heirloom's large-format homes are one option there) is directly adjacent via Magazine Street, an easy walk to the WWII Museum. A Bywater base (The Mazant, for instance) is a 20-minute Uber, not walkable, but works well as part of a multi-day trip that includes the Warehouse District as one day among several. The Revelry's apartment-style floors in Central City are another way to keep separate bills. Confirm any amenity you're counting on directly with the property before you book.
 
 For the largest selection, book 6+ months out.
 
