@@ -1919,3 +1919,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-17 UTC (second run) — seo: interlink `transportation-guide.md` — link to charter bus guide.
 2026-10-17 UTC (second run) — fix: property balance sweep — `itinerary-10-day.md`, `jazz-fest-group-guide.md`, `lgbtq-southern-decadence-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-17 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-18 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-18 UTC — expand: refresh `nola-group-scooter-rules-guide.md` (oldest, 2026-07-20) — tighter description, added links (planning hub, bike share hop guide), neutral accommodation examples, bumped date.
+2026-10-18 UTC — seo: interlink `guys-weekend-guide.md` — links to large group golf guide and Saints gameday guide.
+2026-10-18 UTC — fix: property balance sweep — `nola-group-float-tank-wellness-guide.md`, `nola-group-french-market-morning-guide.md`, `nola-group-gallery-opening-guide.md` (Castleday/Syd removed; Mazant/Revelry/Roami used).
+2026-10-18 UTC — backlog: no changes; Up Next left empty.
