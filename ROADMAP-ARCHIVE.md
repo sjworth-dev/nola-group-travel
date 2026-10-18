@@ -1924,3 +1924,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-18 UTC — seo: interlink `guys-weekend-guide.md` — links to large group golf guide and Saints gameday guide.
 2026-10-18 UTC — fix: property balance sweep — `nola-group-float-tank-wellness-guide.md`, `nola-group-french-market-morning-guide.md`, `nola-group-gallery-opening-guide.md` (Castleday/Syd removed; Mazant/Revelry/Roami used).
 2026-10-18 UTC — backlog: no changes; Up Next left empty.
+2026-10-18 UTC (third run) — note: `## Up Next` empty, so no new page (human-gated per ROADMAP; the runner prompt's "generate backlog items" step was not applied because ROADMAP's human-gate wins). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-18 UTC (third run) — expand: refresh `mardi-gras-group-guide.md` (oldest, 2026-07-21) — 2027 weekend dates (Feb 5–9), seasonality wording aligned to peak calendar, softened unverifiable "biggest in America" claim, added verify-schedules note, bumped date.
+2026-10-18 UTC (third run) — seo: interlink `bachelor-party.md` — links to bar crawl guide and best-time guide.
+2026-10-18 UTC (third run) — fix: property balance sweep — `nola-group-buku-music-festival-guide.md`, `warehouse-district-deep-dive.md`, `uptown.md`, `treme.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry used).
+2026-10-18 UTC (third run) — backlog: no changes; Up Next left empty.
