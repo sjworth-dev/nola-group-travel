@@ -1,17 +1,17 @@
 ---
 title: "New Orleans Electric Scooter Rules: What Groups Need to Know"
-description: "Can you rent electric scooters in New Orleans? The actual city rules on sidewalk riding, French Quarter restrictions, age and helmet requirements, and whether scooters actually work for moving a big group around."
+description: "Electric scooters are legal in New Orleans, but sidewalks are off-limits in the Quarter and CBD. The rules on age, helmets, parking, and why groups should skip them."
 category: "Planning & Logistics"
 card_title: "Scooter Rules"
 card_description: "Before you plan a day around renting ten scooters, know where the city actually lets you ride them."
-date: 2026-07-20
+date: 2026-10-18
 ---
 
 Here's the verdict: electric scooters are legal in New Orleans, but they're a bad fit for moving a big group, and the rules are stricter in exactly the neighborhood where your group will spend the most time. Skip the fantasy of fifteen people scooting down Bourbon Street in a pack — it's not allowed, and it wouldn't work even if it were.
 
 New Orleans regulates shared and rented electric scooters through a specific city ordinance, not a free-for-all. Sidewalk riding is banned in the areas tourists actually walk through, age and helmet rules apply, and where you can park one matters as much as where you can ride it. None of that is a secret, but almost nobody reads the fine print before they open a scooter app on vacation.
 
-This guide covers the actual rule, where it does and doesn't apply, and — more importantly for a group of ten or twenty — whether scooters are worth the coordination effort at all compared to [rideshare](/guides/nola-group-ride-share-master-guide/) or just walking.
+This guide covers the actual rule, where it does and doesn't apply, and — more importantly for a group of ten or twenty — whether scooters are worth the coordination effort at all compared to [rideshare](/guides/nola-group-ride-share-master-guide/) or just walking. If you're still sketching the whole trip, start with [how to plan a group trip to New Orleans](/guides/plan-a-group-trip/).
 
 ## Quick Planning Checklist
 
@@ -59,7 +59,7 @@ The pattern across all of it: the tourist core, where your group will actually w
 
 No, not as a primary way to move the group. A few reasons why, beyond the ordinance itself:
 
-**Coordinating a fleet is its own project.** If you're using a shared scooter app, that's ten to twenty separate app accounts, ten to twenty payment methods, and ten to twenty people who need to actually find and unlock a scooter near each other at the same time. Bike share in New Orleans has the same problem — the [transportation guide](/guides/transportation-guide/) notes that coordinating even fifteen shared bikes takes real time. Scooters aren't easier.
+**Coordinating a fleet is its own project.** If you're using a shared scooter app, that's ten to twenty separate app accounts, ten to twenty payment methods, and ten to twenty people who need to actually find and unlock a scooter near each other at the same time. Bike share has the same problem — the [transportation guide](/guides/transportation-guide/) and the [bike share neighborhood-hop guide](/guides/nola-group-bike-share-neighborhood-hop-guide/) both come back to how long it takes to get even fifteen people onto shared bikes. Scooters aren't easier.
 
 **You can't ride single-file through the Quarter and stay together.** Scooters move faster than a walking group, which means the pack spreads out fast on narrow, crowded streets. A group that starts together at Jackson Square doesn't arrive together three blocks later — someone's always catching up or waiting.
 
@@ -93,7 +93,7 @@ Where scooters do make sense: two or three people splitting off from the main gr
 
 Scooters are a nice-to-have for a couple of people on a slow afternoon, not a transportation strategy for a group of fifteen or twenty. The neighborhoods that work best for large-group accommodation — the Bywater's quieter residential blocks, the walkable stretch of the Lower Garden District — are also the neighborhoods where scooter rules ease up compared to the French Quarter core. That's one more small argument for staying somewhere your group can actually walk or roll to nearby stops, and saving the scooters for the two or three people who want to peel off and explore on their own.
 
-However your group gets around day to day, where you sleep still does the most work — a rental within walking distance of the action means less dependence on any single mode of transportation, scooters included.
+However your group gets around day to day, where you sleep still does the most work — a base within walking distance of the action (a hotel block, a guesthouse like The Mazant, or an apartment-style floor at The Revelry) means less dependence on any single mode of transportation, scooters included.
 
 ---
 
