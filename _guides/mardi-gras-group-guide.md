@@ -4,12 +4,14 @@ description: "Fat Tuesday is February 9, 2027. Parade strategy, where to stand, 
 category: "Festivals & Events"
 card_title: "Mardi Gras"
 card_description: "The biggest party in America. Here's how to do it right with large groups."
-date: 2026-07-21
+date: 2026-10-18
 ---
 
-Mardi Gras is the biggest group travel event in America. Every year, hundreds of thousands of people descend on New Orleans the week before Fat Tuesday, most of them underprepared. Hotels are sold out months in advance. Uber can't cross parade routes while they're running. Streets close without warning. The city operates on a completely different set of rules for two weeks.
+Mardi Gras is the most logistics-heavy group trip New Orleans offers. Every year, huge crowds descend on the city the week before Fat Tuesday, most of them underprepared. Hotels are sold out months in advance. Uber can't cross parade routes while they're running. Streets close without warning. The city operates on a completely different set of rules for two weeks.
 
 For large groups, Mardi Gras requires more advance planning than any other trip type — but it also delivers more than any other trip type. If you've never been to Mardi Gras with a big group, with a real home base, on the parade routes during the superkrewe weekends, you don't yet know what it can be.
+
+Carnival dates float with Easter, so next year's Fat Tuesday will not match this one — the dates above are for the 2027 season. Parade-day schedules and routes are set by the krewes and the city, so confirm them on official sources before you lock in a plan.
 
 This guide covers the logistics. The events page on this site covers dates. Read both. Still working out whether Mardi Gras is even the right trip for your group, or just how a New Orleans group trip comes together at all? The [group trip planning hub](/guides/plan-a-group-trip/) sequences those decisions before you land on this page.
 
@@ -39,7 +41,7 @@ Mardi Gras is not one day. The season runs from January 6 (Twelfth Night/Epiphan
 | 2 weekends before Fat Tuesday | Mid-season parades, Uptown routes, crowds building |
 | Friday before Fat Tuesday | Krewe of Endymion (one of the largest parades) |
 | Saturday before | Krewe of Bacchus — superkrewe, massive floats, celebrity monarchs |
-| Lundi Gras (Monday before) | Krewe of Proteus, Krewe of Orpheus (Harry Connick Jr.'s krewe) |
+| Lundi Gras (Monday before) | Krewe of Proteus, Krewe of Orpheus (co-founded by Harry Connick Jr.) |
 | Fat Tuesday | Krewe of Zulu (historically significant, morning), Rex (classic, follows Zulu), truck floats all day |
 
 The superkrewe weekends — the Saturday and Monday before Fat Tuesday — are when most visitors arrive. If your group wants to see the biggest parades, plan around these days. For the full parade-by-parade breakdown across the whole season, not just the headline weekend, see the [Carnival season parade calendar](/guides/nola-group-carnival-season-parade-calendar/).
@@ -124,7 +126,7 @@ This is the most important decision you'll make for a Mardi Gras trip, and you n
 
 ### The Fundamental Rule
 
-**For the largest selection, book 6+ months out.** Mardi Gras is one of the highest-demand weekends of the year for large-group rentals in New Orleans. Waiting until a month or two out means choosing from whatever's left, usually at a premium.
+**For the largest selection, book 6+ months out.** Mardi Gras sits inside New Orleans' February–May high-demand stretch, and the superkrewe weekend is its sharpest point for large-group rentals. Waiting until a month or two out means choosing from whatever's left, usually at a premium.
 
 ### The Field
 
@@ -156,17 +158,17 @@ Either neighborhood works for a Mardi Gras base — the deeper tradeoffs (privac
 
 ### The Weekend Before Fat Tuesday (Superkrewe Weekend)
 
-**Friday:** Endymion parade runs in the evening. One of the largest and longest parades of the season. The route goes through Mid-City — different from the St. Charles route. Huge floats, enormous crowds.
+**Friday (Feb 5, 2027):** Endymion parade runs in the evening. One of the largest and longest parades of the season. The route goes through Mid-City — different from the St. Charles route. Huge floats, enormous crowds.
 
-**Saturday:** Bacchus. A superkrewe with celebrity monarchs, massive floats, and massive throws. Runs the Uptown/St. Charles route. This is the parade most visitors build their trip around.
+**Saturday (Feb 6):** Bacchus. A superkrewe with celebrity monarchs, massive floats, and massive throws. Runs the Uptown/St. Charles route. This is the parade most visitors build their trip around.
 
-**Sunday:** Mid-day recovery. Smaller parades. Pre-game for the final push.
+**Sunday (Feb 7):** Mid-day recovery. Smaller parades. Pre-game for the final push.
 
-### Lundi Gras (Monday)
+### Lundi Gras (Monday, Feb 8)
 
 Krewe of Proteus runs in the afternoon. Krewe of Orpheus (evening) is one of the best parades of the season — large, well-organized, excellent music on the floats.
 
-### Fat Tuesday
+### Fat Tuesday (Feb 9, 2027)
 
 The main event. Starts early — Zulu rolls in the morning (historically significant; do some reading before you go), Rex follows on St. Charles Avenue. The truck floats run all day, featuring neighborhood krewes with more chaotic energy. The French Quarter is its own thing all day. The [Fat Tuesday guide](/guides/nola-group-mardi-gras-day-guide/) goes deeper on just this one day if the rest of the season isn't the priority.
 
