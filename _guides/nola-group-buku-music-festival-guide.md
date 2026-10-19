@@ -1,29 +1,29 @@
 ---
 title: "BUKU Music + Art Project Group Guide: A Riverfront Festival for the Younger Crew"
-description: "How to do BUKU with a big group: a compact two-day electronic and hip-hop festival on the New Orleans riverfront, why its short-and-loud format is easier to run than a sprawling fest, and how to base a crew of 15-25 near the gates."
+description: "How to do BUKU with a big group: a compact two-day electronic and hip-hop festival on the New Orleans riverfront, why its short-and-loud format is easier to run than a sprawling fest, and how to base the whole crew near the gates."
 category: "Festivals & Events"
 card_title: "BUKU Music + Art Project Guide"
 card_description: "The city's younger, louder, riverfront festival. Two days, one gate, electronic and hip-hop heavy. Here's how to run it with a full crew."
-date: 2026-07-22
+date: 2026-10-19
 ---
 
 Most New Orleans festival guides are written for the Jazz Fest crowd — people who want a fairgrounds, a schedule of seven stages, and a plan for pacing themselves across two long weekends. BUKU is not that festival, and if you bring the Jazz Fest playbook you'll misread it.
 
-BUKU Music + Art Project is a compact, two-day festival on the New Orleans riverfront, generally held in March, with programming that leans electronic, hip-hop, and bass-forward. The crowd skews young. The format is dense: fewer stages, packed close together, running from afternoon into the night. It's a festival built for a group that wants volume and momentum, not a leisurely stroll past a gospel tent.
+BUKU Music + Art Project is a compact, two-day festival on the New Orleans riverfront, historically held in March (verify the current dates), with programming that leans electronic, hip-hop, and bass-forward. The crowd skews young. The format is dense: fewer stages, packed close together, running from afternoon into the night. It's a festival built for a group that wants volume and momentum, not a leisurely stroll past a gospel tent.
 
 For a big group, the compactness is the whole advantage. This is the rare festival where twenty people can actually stay loosely together, because the grounds are small enough that "meet at the main stage" is a real instruction and not a fantasy. Here's how to run it.
 
 ## Quick Planning Checklist
 
-- [ ] Festival dates and lineup shift every year — confirm the exact March weekend and the day-by-day schedule on the official BUKU site before booking anything
-- [ ] Book accommodation 6+ months out for the largest selection of large-group villas
+- [ ] Confirm the festival is running this year before anything else — dates, lineup and even the month have shifted over the years, so check the official BUKU site for the exact weekend and schedule before booking
+- [ ] Lock in your base early — for the largest selection, book 6+ months out
 - [ ] Buy tickets as a group early; two-day passes are the default, single-day exists but splits the crew
 - [ ] Check the age policy — this is a younger-skewing festival and the gate rules matter
 - [ ] Base the group close to the riverfront/Lower Garden District so the walk home is short
 - [ ] Plan for a late-ending night — this festival runs into the night, not a 7 PM fairgrounds close
 - [ ] Assign a rally point at the grounds; the compact layout makes this genuinely workable
 - [ ] Eat a real meal before the gates; festival food is fine but the sets don't pause for dinner
-- [ ] March weather is mild but variable — layers, not shorts-only
+- [ ] Spring weather is mild but variable — layers, not shorts-only
 - [ ] Line up a plan for after the festival closes; the crew will want to keep going
 
 ---
@@ -97,7 +97,7 @@ By day two the group knows the grounds and knows the acts they actually want. Sk
 
 ## What to Pack and Wear
 
-March in New Orleans is mild but genuinely variable. It can be a warm afternoon and a cold night in the same day, and the riverfront gets a breeze off the water after dark. This is not August — the problem isn't heat, it's a temperature swing.
+A March weekend in New Orleans is mild but genuinely variable. It can be a warm afternoon and a cold night in the same day, and the riverfront gets a breeze off the water after dark. This is not August — the problem isn't heat, it's a temperature swing.
 
 - **Layers.** A daytime layer and a night layer. The riverfront gets cool once the sun's down.
 - **Real shoes.** The grounds are industrial riverfront — pavement, gravel, and packed dirt, not a soft field.
@@ -144,4 +144,4 @@ Whatever the group chooses, keep the accommodation decision on the dedicated pag
 
 BUKU is the right festival for a specific group: younger, up for a modern electronic-and-hip-hop bill, and more interested in a dense two-day format than a sprawling celebration of New Orleans' own traditions. If that's the crew, the compact riverfront grounds make it one of the easiest large festivals in the city to run as a group — the whole thing is small enough to actually stay together.
 
-If the group's center of gravity is jazz, brass, and the city's own sound, this is the wrong anchor and the [live music guide](/guides/live-music-guide/) points you at the right nights instead. But for the crew that wants a real festival experience with the New Orleans river at their back and a short walk home, BUKU delivers — book close, buy the two-day pass, and pace it for two days, not one.
+If the group's center of gravity is jazz, brass, and the city's own sound, this is the wrong anchor and the [live music guide](/guides/live-music-guide/) points you at the right nights instead, and the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) helps you pick a month on the city's actual calendar. Still sketching the whole trip? Start with the [group trip planning hub](/guides/plan-a-group-trip/). But for the crew that wants a real festival experience with the New Orleans river at their back and a short walk home, BUKU delivers — book close, buy the two-day pass, and pace it for two days, not one.
