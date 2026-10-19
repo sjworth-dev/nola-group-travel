@@ -1934,3 +1934,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-19 UTC — seo: interlink `festival-season-calendar.md` — added Tales of the Cocktail entry linking its guide.
 2026-10-19 UTC — fix: property balance sweep — `treme-deep-dive.md`, `st-claude-arts-district.md`, `seventh-ward.md` (Castleday/Syd removed; Mazant/Heirloom used).
 2026-10-19 UTC — backlog: no changes; Up Next left empty.
+2026-10-19 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-19 UTC (second run) — expand: refresh `nola-group-buku-music-festival-guide.md` (oldest, 2026-07-22) — removed clinical group range, verify-current-dates hedge, standard lead-time line, planning/best-time links, bumped date.
+2026-10-19 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` — link to Voodoo Fest guide.
+2026-10-19 UTC (second run) — fix: property balance sweep — `nola-group-mardi-gras-indian-culture-guide.md`, `nola-group-money-management-guide.md` (Castleday/Syd removed; only 2 pages had real mentions among sampled candidates).
+2026-10-19 UTC (second run) — backlog: no changes; Up Next left empty.
