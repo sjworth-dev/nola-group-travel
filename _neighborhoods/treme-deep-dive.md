@@ -204,7 +204,7 @@ For large groups arriving together, rideshares work fine. Dropping the whole cre
 
 ## Where to Stay for a Tremé-Centered Visit
 
-The best home base for exploring Tremé is the Bywater or Marigny — both put you walking distance from the neighborhood. Castleday Retreats' Bywater villas put a group a 15-minute walk from Congo Square and the Backstreet Cultural Museum, which makes Tremé the closest cultural destination if the trip is organized around music and neighborhood history. The Syd, in the Lower Garden District, is a streetcar-and-short-rideshare away instead — a fine option if the group's center of gravity is elsewhere in the city and Tremé is one stop among several rather than the anchor.
+The best home base for exploring Tremé is the Bywater or Marigny — both put you walking distance from the neighborhood. A Bywater house like The Mazant puts a group roughly a 15-minute walk from Congo Square and the Backstreet Cultural Museum, which makes Tremé the closest cultural destination if the trip is organized around music and neighborhood history. Heirloom's large-format homes in Central City are a short rideshare away instead — a fine option if the group's center of gravity is elsewhere in the city and Tremé is one stop among several rather than the anchor.
 
 [See where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 

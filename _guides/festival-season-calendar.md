@@ -153,6 +153,8 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Summer heat is brutal — plan accordingly
 - Group impact: Weekend-level demand bump; book ahead the same as any other summer weekend
 
+**Tales of the Cocktail (mid-to-late July, dates move):** a spirits-industry trade festival with a public side. It's a sharp demand spike inside an otherwise soft month; the [Tales of the Cocktail group guide](/guides/nola-group-tales-of-the-cocktail-guide/) covers which badges are worth buying. Confirm dates on the official site.
+
 **Note on July-August:** These are the hottest months. Heat index regularly hits 105-110°F. Groups unfamiliar with this routinely underestimate how much it affects activity planning. Outdoor activities before 10 AM and after 6 PM only. Budget for extra hydration costs, Ubers instead of walking.
 
 ---
