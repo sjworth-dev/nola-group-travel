@@ -1,10 +1,10 @@
 ---
 title: "Tales of the Cocktail with a Group: The Planning Guide"
-description: "Tales of the Cocktail is New Orleans' big summer spirits-industry festival, held every July in and around the CBD. Here's how a large group actually plans around it — what the week is, who it's for, where to stay, and how to pace a crew through the busiest cocktail week of the year."
+description: "Tales of the Cocktail is a trade festival you can crash. Which badges are worth buying, where to stay, and how to pace the whole crew through July's hottest week."
 category: "Festivals & Events"
 card_title: "Tales of the Cocktail"
 card_description: "New Orleans' July spirits-industry festival. What the week is, who it's really for, and how to run a big group through it without burning out by Wednesday."
-date: 2026-07-22
+date: 2026-10-19
 ---
 
 Tales of the Cocktail is the industry's week, and it happens to be open to you. Every July, the global spirits and bar trade descends on New Orleans for a run of seminars, tastings, competitions, brand parties, and the kind of late-night bar hopping you'd expect from people who make drinks for a living. The programming clusters around the CBD and the French Quarter's edge; the after-hours spills across the whole city.
@@ -19,7 +19,7 @@ For a big crew, that's either a feature or a trap. Done right, it's the most con
 
 - [ ] Confirm the exact dates and ticket tiers on the official Tales of the Cocktail site before booking anything — the week moves within July year to year
 - [ ] Decide whether your group wants badges/seminar access or just the free-and-open bar-week energy
-- [ ] Book accommodation early — CBD and Quarter-adjacent rooms spike hard for this specific week
+- [ ] Book lodging as soon as you have dates — for the largest selection, book 6+ months out
 - [ ] Assign a "schedule captain" — the programming is dense and overlapping
 - [ ] Build in daytime AC recovery; July in New Orleans is brutal and the week is long
 - [ ] Split the group by interest rather than forcing everyone through the same seminars
@@ -39,7 +39,7 @@ Strip away the marketing and it's three things layered on top of each other:
 
 A group can engage with all three, or just the last one. Knowing which festival you're actually attending is the single most important planning decision. For a general grounding in the city's bar scene before you go, the [cocktail culture guide](/guides/cocktail-culture-guide/) covers the classics and where they were born.
 
-> Don't state specific dates, seminar names, or venue lineups from memory — they change every year. Confirm everything on the official festival site. This guide is about how to plan, not what's on the 2026 schedule.
+> Don't state specific dates, seminar names, or venue lineups from memory — they change every year. Confirm everything on the official festival site. This guide is about how to plan, not what's on the schedule. Next year's lineup and dates won't be set until well after this year's festival wraps.
 
 ---
 
@@ -80,7 +80,7 @@ The festival's official programming clusters in and around the CBD and the upper
 
 **Villa base with a rideshare rhythm.** House the whole crew together in a large-group villa and treat the festival core as a destination you commute to. You trade a few rideshares for a real home base — a pool for July recovery, a kitchen for the mornings, and one address for a group that would otherwise scatter across hotel floors.
 
-Plain examples of what that inventory looks like (not endorsements): centrally located villas like The Syd in the Lower Garden District put a big crew one streetcar hop from the CBD, while purpose-built Bywater properties like Castleday Retreats trade a longer ride for full privacy and a private pool per villa. For separate bills across a professional group, CBD group-suite setups like Hotel Perle keep everyone walkable and everyone on their own card. The full breakdown lives on the [where to stay page](/where-to-stay/). Whatever you pick, book early — Tales week is one of the harder weeks of the year to house a big group near the action.
+Plain examples of what that inventory looks like (not endorsements): Central City apartment-style floors like The Revelry give each sub-crew its own space and its own bill plus a pool, an 1880s Bywater guesthouse like The Mazant keeps up to eighteen under one roof with a heated pool, and CBD group-suite setups like Hotel Perle keep everyone walkable and on their own card. The full breakdown lives on the [where to stay page](/where-to-stay/). Whatever you pick, for the largest selection, book 6+ months out — Tales week is one of the harder weeks to house a big group near the action.
 
 ---
 
@@ -94,7 +94,7 @@ The failure mode is universal: everyone goes hard the first two nights, and half
 
 **Anchor each night with one plan, not five.** One dinner reservation or one bar as the meeting point. Everything else is optional and additive. A loose "we'll figure it out" plan collapses a big group.
 
-**Use the free bar week as connective tissue.** Between ticketed events, the citywide guest shifts and takeovers are where a group can drift together without a schedule. The [craft cocktail bar strategy guide](/guides/nola-group-craft-cocktail-bar-strategy-guide/) covers how to move a big crew through NOLA's bar rooms without losing half of them.
+**Use the free bar week as connective tissue.** Between ticketed events, the citywide guest shifts and takeovers are where a group can drift together without a schedule. If you're still deciding whether a trade festival is the right trip at all, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the bigger decisions. The [craft cocktail bar strategy guide](/guides/nola-group-craft-cocktail-bar-strategy-guide/) covers how to move a big crew through NOLA's bar rooms without losing half of them.
 
 ---
 
