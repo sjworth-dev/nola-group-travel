@@ -1929,3 +1929,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-18 UTC (third run) — seo: interlink `bachelor-party.md` — links to bar crawl guide and best-time guide.
 2026-10-18 UTC (third run) — fix: property balance sweep — `nola-group-buku-music-festival-guide.md`, `warehouse-district-deep-dive.md`, `uptown.md`, `treme.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry used).
 2026-10-18 UTC (third run) — backlog: no changes; Up Next left empty.
+2026-10-19 UTC — note: `## Up Next` empty, so no new page (human-gated per ROADMAP; runner prompt's "generate backlog" step not applied because ROADMAP's human-gate wins). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-19 UTC — expand: refresh `nola-group-tales-of-the-cocktail-guide.md` (oldest, 2026-07-22) — 140–160 char-style shorter description, standard lead-time line, removed stale "2026 schedule" wording, neutral accommodation examples (Revelry/Mazant/Perle), planning-hub link, bumped date.
+2026-10-19 UTC — seo: interlink `festival-season-calendar.md` — added Tales of the Cocktail entry linking its guide.
+2026-10-19 UTC — fix: property balance sweep — `treme-deep-dive.md`, `st-claude-arts-district.md`, `seventh-ward.md` (Castleday/Syd removed; Mazant/Heirloom used).
+2026-10-19 UTC — backlog: no changes; Up Next left empty.
