@@ -1,6 +1,6 @@
 ---
 title: "Tales of the Cocktail with a Group: The Planning Guide"
-description: "Tales of the Cocktail is a trade festival you can crash. Which badges are worth buying, where to stay, and how to pace the whole crew through July's hottest week."
+description: "Tales of the Cocktail is a trade festival you can crash. Which badges are worth buying, where to stay, and how to pace the crew through July heat."
 category: "Festivals & Events"
 card_title: "Tales of the Cocktail"
 card_description: "New Orleans' July spirits-industry festival. What the week is, who it's really for, and how to run a big group through it without burning out by Wednesday."
