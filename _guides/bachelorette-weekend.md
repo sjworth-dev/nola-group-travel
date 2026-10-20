@@ -13,6 +13,8 @@ The trips that don't work have the same shape too: two Bourbon nights in a row, 
 
 Base yourself in the [Bywater or Marigny](/neighborhoods/bywater/). The reasoning gets its own section below, but the short version: the best drag brunch, the best wine garden, and three blocks of nightly live music are all a walk from your door, and the French Quarter is a seven-dollar Uber away. The reverse is not true of anywhere in the Quarter.
 
+Still deciding if this is the right city? The [Nashville comparison](/guides/nola-group-new-orleans-vs-nashville-guide/) and the [Savannah comparison](/guides/nola-group-new-orleans-vs-savannah-guide/) settle it fast, and the [bachelorette party overview](/guides/bachelorette-party/) covers the whole-trip planning. Sorting out the early decisions first? Start with the [group trip planning guide](/guides/plan-a-group-trip/).
+
 ## Quick Planning Checklist
 
 - Book the house first — for the largest selection of large-group properties, book 6+ months out
@@ -180,6 +182,6 @@ For the Thursday-to-Sunday shape above, a workable planning number is **about $6
 
 ## When to Go
 
-October and the February-to-May run are peak New Orleans — the best weather and the biggest energy, at full pricing, and you'll be sharing the city with festival calendars (check your dates against Mardi Gras, French Quarter Fest, and Jazz Fest before booking anything). Summer is the value play if your crew is pool-first and heat-proof; late August through mid-September is the genuine value window, hot but pre-October-ramp. January is cheap and quiet. Whatever the month: the house is the scarce resource, so it gets booked first.
+October and the February-to-May run are peak New Orleans — the best weather and the biggest energy, at full pricing, and you'll be sharing the city with festival calendars (check your dates against Mardi Gras, French Quarter Fest, and Jazz Fest before booking anything). Summer is the value play if your crew is pool-first and heat-proof; late August through mid-September is the genuine value window, hot but pre-October-ramp. January is cheap and quiet. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) goes month by month. Whatever the month: the house is the scarce resource, so it gets booked first.
 
 [See where to stay for large groups →](/where-to-stay/)
