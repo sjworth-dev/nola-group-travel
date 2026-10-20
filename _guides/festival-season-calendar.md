@@ -155,6 +155,8 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 **Tales of the Cocktail (mid-to-late July, dates move):** a spirits-industry trade festival with a public side. It's a sharp demand spike inside an otherwise soft month; the [Tales of the Cocktail group guide](/guides/nola-group-tales-of-the-cocktail-guide/) covers which badges are worth buying. Confirm dates on the official site.
 
+**Running of the Bulls (mid-July, dates move):** roller-derby skaters with plastic bats play the bulls in a white-and-red costume run through the CBD, with block parties on either end. It's cheap, central, and over before the heat peaks; the [Running of the Bulls group guide](/guides/nola-group-running-of-the-bulls-guide/) covers the dress code and the split between runners and spectators. Confirm dates on the official site.
+
 **Note on July-August:** These are the hottest months. Heat index regularly hits 105-110°F. Groups unfamiliar with this routinely underestimate how much it affects activity planning. Outdoor activities before 10 AM and after 6 PM only. Budget for extra hydration costs, Ubers instead of walking.
 
 ---

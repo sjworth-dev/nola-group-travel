@@ -9,7 +9,7 @@ date: 2026-10-14
 
 **Verdict: summer is worth it, if you plan the day around the heat.** June through August is New Orleans' value season, and the heat scares most groups away. That is mostly a gift.
 
-The city in July is quieter, cheaper, and more local than at any other point in the year. Restaurants that fill up in spring are easier to book. Rates sit well below the Mardi Gras-to-Jazz Fest stretch. The French Quarter, which in March requires elbowing through a crowd, lets you see the architecture.
+The city in July is quieter, cheaper, and more local than at any other point in the year. If your crew wants a reason to go, the [Running of the Bulls](/guides/nola-group-running-of-the-bulls-guide/) is a costume-party morning built to finish before the heat peaks. Restaurants that fill up in spring are easier to book. Rates sit well below the Mardi Gras-to-Jazz Fest stretch. The French Quarter, which in March requires elbowing through a crowd, lets you see the architecture.
 
 Yes, it is hot. It is the kind of hot that requires you to actually plan around it, not just ignore it and sweat through. But a group that knows how to use the summer (morning activity windows, pool afternoons, great evenings) gets a very good trip for less money. If you are still choosing a month, start with the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/); if you are still choosing a city, start with the [planning hub](/guides/plan-a-group-trip/).
 
