@@ -159,6 +159,6 @@ Do both if you have the time. They don't overlap.
 
 ## Home Base for a Bayou Morning
 
-Bayou St. John is a 10-15 minute rideshare from most large-group bases, so the choice comes down to what the rest of the day looks like. Castleday Retreats' Bywater villas (private pool per villa) suit a group that wants a quiet, private landing spot for afternoon pool time after the paddle. The Syd's Lower Garden District villas (shared heated pool, hot tub, outdoor kitchen) work well for groups routing through Mid-City on the way back. Heirloom is worth a look too if neither fits your dates or headcount — it has the widest inventory of large-format houses across several neighborhoods.
+Bayou St. John is a 10-15 minute rideshare from most large-group bases, so the choice comes down to what the rest of the day looks like. The Mazant in the Bywater (sleeps 18, heated pool and spa) suits a group that wants one house and a quiet landing spot for afternoon pool time after the paddle. The Revelry's apartment-style floors and saltwater pool work for a crew that wants separate bills. Heirloom is worth a look too if neither fits your dates or headcount — it has the widest inventory of large-format houses across several neighborhoods.
 
 For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)

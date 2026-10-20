@@ -177,7 +177,7 @@ Ask locals — your villa host, a bartender early in the evening, anyone who cle
 
 Coming back from a late NOLA night to a hotel room is fine. Coming back to a villa with a pool, a kitchen, and the whole group is better. The geography matters too — a base in the Bywater or Lower Garden District puts you close to the neighborhoods where the best late-night scenes unfold.
 
-The field spans private-villa operators like Castleday Retreats (Bywater, private pool per villa, walking distance from the St. Claude corridor) and The Syd (Lower Garden District, shared heated pool, hot tub, and outdoor kitchen, one block from the St. Charles streetcar for anyone who'd rather come home that way than by rideshare), plus Heirloom's larger inventory across the LGD and Central City and hotel room blocks for anyone who wants their own key at 2am. Whichever you pick, a private pool and a full kitchen turn the courtyard into the natural decompression zone once the group starts filtering back.
+The field spans Heirloom's large-format homes across the LGD and Central City, The Revelry's apartment-style floors with a saltwater pool, The Mazant's single historic Bywater house, and hotel room blocks for anyone who wants their own key at 2am. Whichever you pick, a private pool and a full kitchen turn the courtyard into the natural decompression zone once the group starts filtering back.
 
 The city doesn't close. Stay as long as you want — and for the largest selection, book 6+ months out.
 
