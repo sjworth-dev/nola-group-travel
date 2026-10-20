@@ -1,22 +1,22 @@
 ---
 title: "White Linen Night Group Guide: New Orleans' Best Free August Evening"
-description: "How to run White Linen Night with a big group: the Julia Street gallery walk and street party in the Warehouse/Arts District, why an all-white August dress code is a feature not a gimmick, and how to base a crew of 15-30 for a free soft-season night out."
+description: "White Linen Night is a free Julia Street gallery walk where everyone wears white to beat August. Here is how to run it with the whole crew, no tickets needed."
 category: "Festivals & Events"
 card_title: "White Linen Night"
 card_description: "A free early-August art walk and street party on Julia Street where the whole city wears white to beat the heat. Here's how to run it with a full crew."
-date: 2026-07-23
+date: 2026-10-20
 ---
 
-Most groups looking at an August trip to New Orleans have already talked themselves out of it. Too hot, too humid, nothing going on. They're two-thirds right and completely wrong about the third part.
+Verdict: go. Most groups looking at an August trip to New Orleans have already talked themselves out of it. Too hot, too humid, nothing going on. They're two-thirds right and completely wrong about the third part.
 
 White Linen Night is the counterargument. On the first Saturday of August, Julia Street in the Warehouse/Arts District closes to cars, the galleries throw their doors open, and the whole neighborhood turns into a free outdoor art walk and street party — with one rule everyone actually follows: wear white. It's not a costume gimmick. White is what you wear when it's ninety-plus degrees at 7 PM and you're spending the evening outside. The dress code is just the city being practical, and the wall-to-wall linen makes for one of the better-looking street parties on the calendar.
 
-For a big group, this is close to an ideal night. It's free, it's walkable, it's contained to a few blocks, and it runs on a schedule loose enough that twenty people can split up and reconvene without anyone filing a missing-persons report. Here's how to run it.
+For a big group, this is close to an ideal night. It's free, it's walkable, it's contained to a few blocks, and it runs on a schedule loose enough that twenty people can split up and reconvene without anyone filing a missing-persons report. Here's how to run it. If you're still sorting out the bigger picture, start with the [group trip planning guide](/guides/plan-a-group-trip/).
 
 ## Quick Planning Checklist
 
-- [ ] Confirm the exact date on the official Arts District New Orleans site — it's traditionally the first Saturday in August, but verify before booking flights
-- [ ] Book accommodation 6+ months out for the largest selection of large-group villas
+- [ ] Mark the date: the 2027 edition is calendared for Saturday, August 7 — confirm on the official Arts District New Orleans site before booking flights
+- [ ] Book accommodation early — for the largest selection, book 6+ months out
 - [ ] Pack white — the dress code is real, and the group photos are better when everyone commits
 - [ ] Dress for genuine heat: linen, breathable fabrics, comfortable shoes you can stand in for hours
 - [ ] Base the group in or near the Warehouse District so the walk to Julia Street is short
