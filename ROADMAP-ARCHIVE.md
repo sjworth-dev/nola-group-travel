@@ -1944,3 +1944,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-20 UTC — seo: interlink `bachelorette-weekend.md` — links to Nashville/Savannah comparisons, bachelorette overview, planning hub, best-time guide.
 2026-10-20 UTC — fix: property balance sweep — `nola-group-after-midnight-guide.md`, `nola-group-axe-throwing-guide.md`, `nola-group-bayou-kayak-guide.md` (Castleday/Syd removed; Revelry/Mazant/Heirloom used).
 2026-10-20 UTC — backlog: no changes; Up Next left empty.
+2026-10-20 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-20 UTC (second run) — expand: refresh `nola-group-running-of-the-bulls-guide.md` (oldest, 2026-07-24) — verdict-first opener, shortened title/description, hedged unverified event names, next-year date hedge, planning-hub/best-time links, standard lead-time line, bumped date.
+2026-10-20 UTC (second run) — seo: interlink `festival-season-calendar.md` and `nola-group-summer-trip-guide.md` to the Running of the Bulls guide.
+2026-10-20 UTC (second run) — fix: property balance sweep — `nola-group-shopping-guide.md`, `nola-group-bookshop-literary-tour-guide.md`, `nola-jazz-history-tour.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-20 UTC (second run) — backlog: no changes; Up Next left empty.
