@@ -1,11 +1,13 @@
 ---
-title: "New Orleans Running of the Bulls with a Group: The Planning Guide"
-description: "San Fermín in Nola — New Orleans' mid-July Running of the Bulls, where roller-derby skaters with plastic bats stand in for the bulls. Here's how a big group actually does it: the format, the all-white-and-red dress code, the block parties, and how to survive a July morning run."
+title: "New Orleans Running of the Bulls: A Group Guide"
+description: "Roller-derby skaters with plastic bats stand in for the bulls at New Orleans' July Running of the Bulls. The dress code, the block parties, and surviving a July morning."
 category: "Festivals & Events"
 card_title: "Running of the Bulls (NOLA)"
 card_description: "New Orleans' July Running of the Bulls, where roller-derby skaters play the bulls. The format, the dress code, the block parties, and how to run a big crew through a July morning."
-date: 2026-07-24
+date: 2026-10-20
 ---
+
+Go if your crew likes costumes, cheap chaos, and being home before noon. Skip it if anyone is allergic to heat or bats.
 
 New Orleans took Pamplona's Running of the Bulls, swapped the bulls for roller-derby skaters swinging plastic wiffle bats, and turned it into a citywide costume party. That's San Fermín in Nola, and it is exactly the kind of gloriously absurd thing this city does better than anywhere else.
 
@@ -17,7 +19,7 @@ For a big group, this is one of the best single-morning anchors on the summer ca
 
 ## Quick Checklist
 
-- [ ] Confirm the exact date, start time, and route on the official San Fermín in Nola site before booking anything — it's mid-July, but the specific weekend and staging point move year to year
+- [ ] Confirm next July's exact date, start time, and route on the official San Fermín in Nola site before booking anything — it's mid-July, but the specific weekend and staging point move year to year
 - [ ] Get everyone into the dress code early: all white, red sash (faja) at the waist, red bandana (pañuelo) at the neck
 - [ ] Decide who's running and who's spectating — not everyone in a twenty-person crew wants to get whacked with a bat at 8am
 - [ ] Buy in advance if the run requires registration or wristbands; the closing party is often ticketed separately
@@ -31,15 +33,15 @@ For a big group, this is one of the best single-morning anchors on the summer ca
 
 Strip away the costume and it's three things stacked together over one weekend.
 
-**The opening party (El Txupinazo).** Pamplona kicks off its festival with an opening ceremony, and New Orleans borrows the name. The night before the run, there's a launch party — costumes, music, sangria, the official countdown to the run. This is where the weekend's energy sets.
+**The opening party.** Pamplona kicks off its festival with an opening ceremony, and New Orleans borrows the idea. The weekend typically starts with a launch party — costumes, music, sangria, the official countdown to the run. This is where the weekend's energy sets.
 
 **The run itself.** The morning event. Runners in white and red gather at the staging point, the bulls — derby skaters with bats — are released behind them, and everyone runs the route through the CBD/Warehouse District streets. The "bulls" catch the slow, the bold, and the ones who linger to pose. Getting swatted is the point, not the failure.
 
-**The closing party (La Fiesta de los Muertos).** After the run, the crowd converges on a block party to recover, rehydrate, compare bruises, and keep the costume going. This is the long tail of the day and often where a group spends the most time.
+**The closing party.** After the run, the crowd converges on a block party to recover, rehydrate, compare bruises, and keep the costume going. This is the long tail of the day and often where a group spends the most time.
 
 A crew can do all three or just the run. Knowing which pieces your group actually wants shapes the whole plan. For where this sits against the rest of the year's events, the [festival season calendar](/guides/festival-season-calendar/) puts it in context.
 
-> Don't state the specific date, start time, staging point, or route from memory — they change year to year. Confirm everything on the official San Fermín in Nola site. This guide is about how to plan, not what's on this year's map.
+> Next year's edition will be announced by the organizers; don't lock in a date, start time, or route until they do. Don't state the specific date, start time, staging point, or route from memory — they change year to year. Confirm everything on the official San Fermín in Nola site. This guide is about how to plan, not what's on this year's map.
 
 ---
 
@@ -83,7 +85,7 @@ What that means for the day:
 - **The heat is the real opponent.** By late morning it's oppressive. The event is built to be over before the worst of it — don't extend the outdoor portion past what your group can handle.
 - **Afternoon rain is likely.** Build the back half of the day indoors and air-conditioned. The block party is the transition; after that, plan for shelter.
 
-If your group is coming specifically for this, pair it with the broader [summer trip guide](/guides/nola-group-summer-trip-guide/) — the run is a great anchor, but a July trip needs a heat-aware plan around it.
+Still choosing dates? The [planning hub](/guides/plan-a-group-trip/) sequences the decisions, and the [best-time-to-visit guide](/guides/nola-group-best-time-to-visit-guide/) shows where July sits on the calendar. If your group is coming specifically for this, pair it with the broader [summer trip guide](/guides/nola-group-summer-trip-guide/) — the run is a great anchor, but a July trip needs a heat-aware plan around it.
 
 ---
 
@@ -141,7 +143,7 @@ The point is a shape that lets people opt in and out of the physical part withou
 
 Running of the Bulls is easier on large-group logistics than most of the city's festivals — it's short, central, flat, and cheap, with no fairgrounds or ticketed gate to funnel twenty people through. The strain isn't the run; it's the July day around it. A crew scattered across separate hotel rooms with no shared base tends to fracture on a hot morning with an early start — people oversleep, miss the staging, and never fully regroup.
 
-A single large-format base fixes most of that. One address to stage from before the run, a pool and AC for the mandatory afternoon recovery, and communal space for everyone to get into costume and reconvene after. The field runs from purpose-built villas that house a whole crew under one roof, to deep large-format home inventory for short-notice July choice, to CBD and Warehouse District hotel room blocks when separate bills and own-keys matter — and CBD-adjacent lodging puts you walking distance from the run itself. Match the setup to how your crew actually operates.
+A single large-format base fixes most of that. One address to stage from before the run, a pool and AC for the mandatory afternoon recovery, and communal space for everyone to get into costume and reconvene after. The field runs from purpose-built villas that house a whole crew under one roof, to deep large-format home inventory for short-notice July choice, to CBD and Warehouse District hotel room blocks when separate bills and own-keys matter — and CBD-adjacent lodging puts you walking distance from the run itself. Match the setup to how your crew actually operates. For the largest selection, book 6+ months out.
 
 Since the run and its parties cluster in and around the CBD and Warehouse/Arts District, a central base cuts the July walking to a minimum — which, on a morning like this one, is the whole game. For the full breakdown of how to house a big group for a New Orleans trip, and how to think about it against the [open container rules](/guides/nola-group-open-container-law-guide/) that make the city's street parties work the way they do:
 
