@@ -1954,3 +1954,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-21 UTC — seo: interlink `corporate-retreat.md` — links to meeting space guide, best-time guide, planning hub.
 2026-10-21 UTC — fix: property balance sweep — `new-orleans-weddings-guide.md`, `nola-corporate-welcome-reception-guide.md`, `nola-crawfish-boil-guide.md` (Castleday/Syd removed; Mazant/Revelry used).
 2026-10-21 UTC — backlog: no changes; Up Next left empty.
+2026-10-21 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-21 UTC (second run) — expand: refresh `essence-festival.md` (oldest, 2026-07-25) — verdict-first opener, shorter title/description, July soft-season-with-spike note, removed ~16-person figure, best-time/summer links, bumped date.
+2026-10-21 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` and `festival-season-calendar.md` to the Essence Festival guide.
+2026-10-21 UTC (second run) — fix: property balance sweep — `nola-group-spring-crawfish-festival-season-guide.md`, `nola-riverfront-guide.md`, `nola-group-brass-band-hire-logistics-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-21 UTC (second run) — backlog: no changes; Up Next left empty.
