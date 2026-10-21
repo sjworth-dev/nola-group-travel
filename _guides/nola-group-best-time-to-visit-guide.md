@@ -51,7 +51,7 @@ Most U.S. destinations follow a simple rhythm: summer is peak, spring and fall a
 | April | Peak | Warm, 70s–80s | French Quarter Fest, Jazz Fest weekend one, Zurich Classic | Among the busiest, most expensive months of the year |
 | May | Peak | Warm, 70s–80s | Jazz Fest weekend two, crawfish season winding down | Same story as April — book far ahead |
 | June | Soft | Hot, 80s–90s, humid | Creole Tomato Festival, Bayou Boogaloo, hurricane season begins | First real value month; heat is the tradeoff |
-| July | Soft | Hottest, 90s+, humid | Independence Day, Essence Festival (Fourth of July weekend spike) | Cheap and quiet, except the Essence Fest weekend |
+| July | Soft | Hottest, 90s+, humid | Independence Day, Essence Festival (Fourth of July weekend spike) | Cheap and quiet, except the [Essence Fest weekend](/guides/essence-festival/) |
 | August | Soft | Hottest, 90s+, humid | Southern Decadence (last weekend), Satchmo SummerFest early in the month | Deep-value month, with one major crowd spike at month's end |
 | September | Transitional | Still hot, easing late in month | Saints season kicks off | Late August through mid-September is the real shoulder window |
 | October | Peak | Best of the year, 60s–70s | Voodoo Fest, Halloween week, best weather stretch | Peak pricing for peak weather — no discount here |

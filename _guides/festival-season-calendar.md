@@ -153,6 +153,8 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Summer heat is brutal — plan accordingly
 - Group impact: Weekend-level demand bump; book ahead the same as any other summer weekend
 
+**Essence Festival (Fourth of July weekend):** the biggest demand spike of the summer, and the hardest weekend of the year to find big-group lodging. Superdome concerts sell out; the [Essence Festival group guide](/guides/essence-festival/) covers tickets, transport, and a four-day plan.
+
 **Tales of the Cocktail (mid-to-late July, dates move):** a spirits-industry trade festival with a public side. It's a sharp demand spike inside an otherwise soft month; the [Tales of the Cocktail group guide](/guides/nola-group-tales-of-the-cocktail-guide/) covers which badges are worth buying. Confirm dates on the official site.
 
 **Running of the Bulls (mid-July, dates move):** roller-derby skaters with plastic bats play the bulls in a white-and-red costume run through the CBD, with block parties on either end. It's cheap, central, and over before the heat peaks; the [Running of the Bulls group guide](/guides/nola-group-running-of-the-bulls-guide/) covers the dress code and the split between runners and spectators. Confirm dates on the official site.
