@@ -241,7 +241,7 @@ You cannot do a proper crawfish boil without outdoor space and a propane setup. 
 
 This is not an activity you can do in a hotel room or a parking lot. It's a backyard activity — you need a table area, outdoor access, somewhere to run a propane burner safely, and space for everyone to crowd around.
 
-**The Syd** — Multiple villas in the Lower Garden District, each sleeping up to 22 guests, with a shared outdoor kitchen, heated pool, and hot tub. The outdoor kitchen is built for exactly this kind of communal cooking — the utilities and surface area are already there, so you're not improvising a burner setup on a balcony. One block from the St. Charles Streetcar if you need a grocery run mid-boil.
+**The Revelry** — Central City apartment-style floors with a saltwater pool. Good for a crew that wants separate floors and bills; confirm outdoor cooking rules with the property before you plan a burner.
 
 **The Mazant** — An 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. One historic house instead of a cluster of units, if the group would rather share a single roof — and a pool to fall into once the peeling's done.
 
