@@ -58,6 +58,8 @@ The best corporate retreats happen when everyone stays together—not in adjacen
 
 [See where to stay for large groups →](/where-to-stay/)
 
+If the agenda needs a real conference room rather than a living room, the [corporate meeting space guide](/guides/nola-group-corporate-meeting-space-guide/) covers day rates, F&B minimums, and AV questions. Timing the trip matters too: the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) maps New Orleans' unusual peak and value seasons, and the [group trip planning hub](/guides/plan-a-group-trip/) sequences the rest of the decisions.
+
 ## Structuring Your Retreat
 
 ### The Golden Ratio: 60% Work, 40% Experience
