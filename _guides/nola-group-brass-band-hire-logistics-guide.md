@@ -171,6 +171,6 @@ The amount varies based on group size, duration, and how much the performance de
 
 One of the things that makes a private villa the right base for a brass band experience is the setup. Hotels can't do this. An individual Airbnb with a shared building can't host a six-piece brass band in the courtyard at 7pm.
 
-Properties like The Syd in the Lower Garden District have outdoor courtyard and gathering space that gives a band room to set up and a group room to move. One block from St. Charles — if your second line spills onto the block, you're in a walkable neighborhood that's used to it. Heirloom's wider inventory across the Lower Garden District and Central City is worth checking too if outdoor space for a live band is the priority. For the largest selection, book 6+ months out.
+Whatever you book, confirm outdoor courtyard or gathering space with the property before you hire a band — it decides whether a band has room to set up and the group has room to move. The Lower Garden District sits near St. Charles, a walkable neighborhood used to a second line spilling onto the block. Heirloom's wider inventory across the Lower Garden District and Central City is worth checking too if outdoor space for a live band is the priority. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
