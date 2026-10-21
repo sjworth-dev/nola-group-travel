@@ -1949,3 +1949,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-20 UTC (second run) — seo: interlink `festival-season-calendar.md` and `nola-group-summer-trip-guide.md` to the Running of the Bulls guide.
 2026-10-20 UTC (second run) — fix: property balance sweep — `nola-group-shopping-guide.md`, `nola-group-bookshop-literary-tour-guide.md`, `nola-jazz-history-tour.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-20 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-21 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-21 UTC — expand: refresh `nola-group-corporate-meeting-space-guide.md` (oldest, 2026-07-24) — verdict-first opener, new description, removed clinical numeric sizes, Castleday/Syd swapped for Revelry/Heirloom, best-time and planning-hub links, bumped date.
+2026-10-21 UTC — seo: interlink `corporate-retreat.md` — links to meeting space guide, best-time guide, planning hub.
+2026-10-21 UTC — fix: property balance sweep — `new-orleans-weddings-guide.md`, `nola-corporate-welcome-reception-guide.md`, `nola-crawfish-boil-guide.md` (Castleday/Syd removed; Mazant/Revelry used).
+2026-10-21 UTC — backlog: no changes; Up Next left empty.
