@@ -1959,3 +1959,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-21 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` and `festival-season-calendar.md` to the Essence Festival guide.
 2026-10-21 UTC (second run) — fix: property balance sweep — `nola-group-spring-crawfish-festival-season-guide.md`, `nola-riverfront-guide.md`, `nola-group-brass-band-hire-logistics-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-21 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-22 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-22 UTC — expand: refresh `itinerary-3-day.md` (oldest, 2026-07-25) — verdict-first opener, new title/description, standard lead-time line, removed per-restaurant lead-time windows and dated 25-cent martini claim, planning-hub/best-time/airport/first-timer links, bumped date.
+2026-10-22 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the 3-day itinerary.
+2026-10-22 UTC — fix: property balance sweep — `nola-group-st-patricks-day-guide.md`, `nola-group-budget-tracking-mid-trip-guide.md`, `nola-swamp-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-22 UTC — backlog: no changes; Up Next left empty.
