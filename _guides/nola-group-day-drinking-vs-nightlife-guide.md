@@ -175,6 +175,6 @@ A day drinking trip is almost ideal for a private villa with a pool. The pool is
 
 A nightlife trip is less dependent on villa-specific amenities (the pool is less useful if you're sleeping until noon), but the villa still wins on other dimensions: the pregame space, the post-night kitchen raid, the late-morning slow start that hotels make awkward.
 
-Both Castleday Retreats in [the Bywater](/neighborhoods/bywater/) and The Syd in [the Lower Garden District](/neighborhoods/lower-garden-district/) are structured for exactly these formats. Castleday's private pools support the day drinking arc; The Syd's shared heated pool and hot tub extend the day drinking window into a social evening before anyone goes out. And both are positioned in neighborhoods where either format's ideal venues are within reasonable distance.
+A house with a pool, like The Mazant in [the Bywater](/neighborhoods/bywater/), or a pool-and-apartment property like The Revelry in Central City, suits exactly these formats. The pool carries the day drinking arc and extends it into a social evening before anyone goes out. Both sit in neighborhoods where either format's ideal venues are within reasonable distance.
 
 [See where to stay for large groups →](/where-to-stay/)

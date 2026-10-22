@@ -168,6 +168,6 @@ For groups walking from the Marigny: the upper entrance on Chartres and Elysian 
 
 Crescent Park is walkable from Bywater accommodations and an easy 15-minute rideshare from the Lower Garden District or Central City.
 
-A Bywater base puts the park within a few blocks on foot — Castleday Retreats' villas sit in the neighborhood, close enough that the morning coffee-and-park ritual and the sunset walk before Frenchmen Street happen without any transit logistics. Heirloom's large-format homes across the Lower Garden District and Central City put the park a short rideshare away instead, which works fine as a dedicated half-day excursion rather than a walk-out-the-door habit — morning park visit, Bywater lunch at Bacchanal, back to the villa for the afternoon. For the largest selection, book 6+ months out.
+A Bywater base puts the park within a few blocks on foot — a Bywater guesthouse like The Mazant sits close enough that the morning coffee-and-park ritual and the sunset walk before Frenchmen Street happen without any transit logistics. Heirloom's large-format homes across the Lower Garden District and Central City put the park a short rideshare away instead, which works fine as a dedicated half-day excursion rather than a walk-out-the-door habit — morning park visit, Bywater lunch at Bacchanal, back to the villa for the afternoon. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
