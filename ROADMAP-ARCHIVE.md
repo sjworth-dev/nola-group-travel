@@ -1964,3 +1964,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-22 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the 3-day itinerary.
 2026-10-22 UTC — fix: property balance sweep — `nola-group-st-patricks-day-guide.md`, `nola-group-budget-tracking-mid-trip-guide.md`, `nola-swamp-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-22 UTC — backlog: no changes; Up Next left empty.
+2026-10-22 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-22 UTC (second run) — expand: refresh `nola-group-bayou-boogaloo-guide.md` (oldest, 2026-07-25) — verdict-first opener, shorter title/description, best-time and planning-hub links, bumped date.
+2026-10-22 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` to the Bayou Boogaloo guide.
+2026-10-22 UTC (second run) — fix: property balance sweep — `nola-group-craft-cocktail-bar-strategy-guide.md`, `nola-group-crescent-park-riverside-guide.md`, `nola-group-day-drinking-vs-nightlife-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-22 UTC (second run) — backlog: no changes; Up Next left empty.
