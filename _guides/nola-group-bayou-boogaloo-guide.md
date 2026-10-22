@@ -1,17 +1,19 @@
 ---
-title: "Bayou Boogaloo with a Group: New Orleans' Festival on the Water"
-description: "How to run a big group through Bayou Boogaloo, the free spring music and arts festival on the banks of Bayou St. John in Mid-City — the on-water viewing angle, format, and how it fits a spring trip."
+title: "Bayou Boogaloo with a Group: Festival on the Water"
+description: "Bayou Boogaloo is free, walkable, and half the crowd watches from kayaks. Here's how to run a big group through this Mid-City spring festival."
 category: "Festivals & Events"
 card_title: "Bayou Boogaloo"
 card_description: "A free spring music festival on the banks of Bayou St. John — and the rare NOLA event where half the crowd is watching from a float, kayak, or inner tube."
-date: 2026-07-25
+date: 2026-10-22
 ---
+
+**Verdict: add it if your trip lands on the weekend, don't rebuild the trip around it.** Bayou Boogaloo is free, easy to run with a crowd, and the best low-stakes festival day of the spring season.
 
 Most New Orleans festivals put you on a fairground or a closed-off street. Bayou Boogaloo puts a chunk of the crowd on the water. It's a free spring music and arts festival held along the banks of Bayou St. John in Mid-City, and the defining detail is the one you won't find at Jazz Fest or French Quarter Fest: a real portion of the audience watches the stages from floats, kayaks, canoes, and inner tubes drifting on the bayou itself.
 
 That on-water element makes it a genuinely different kind of festival day, not just a smaller version of the city's bigger events. Instead of a fairground and a beer line, you've got a narrow tree-lined waterway, stages on both banks, and a crowd split between blankets on the grass and people paddling past on whatever floats. It's low-cost, low-key by festival standards, and it happens in a neighborhood — [Mid-City](/neighborhoods/mid-city/) — most visiting groups never see.
 
-For a group already in town during spring's high season, Bayou Boogaloo is a strong lower-cost, lower-commitment festival day to add to the trip. Here's how it works and how to run it with a crew.
+For a group already in town during spring's high season, Bayou Boogaloo is a strong lower-cost, lower-commitment festival day to add to the trip. Here's how it works and how to run it with a crew. If you're still choosing dates, start with the [best time to visit New Orleans](/guides/nola-group-best-time-to-visit-guide/); if the whole trip is still an idea, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the decisions.
 
 ---
 
