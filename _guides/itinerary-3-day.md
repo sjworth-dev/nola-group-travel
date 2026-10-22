@@ -1,23 +1,25 @@
 ---
-title: "New Orleans 3-Day Group Itinerary"
-description: "A fully built 3-day New Orleans group itinerary for the whole crew. Morning, afternoon, and evening slots. Real logistics included."
+title: "3 Days in New Orleans With a Group: The Itinerary"
+description: "Thursday to Sunday is the right length for a big New Orleans trip. Here is the hour-by-hour plan: meals, music, downtime, and the airport runs."
 category: "Planning & Logistics"
 card_title: "3-Day Itinerary"
 card_description: "A complete 3-day New Orleans group itinerary with real logistics for large groups."
-date: 2026-07-25
+date: 2026-10-22
 ---
 
-A 3-day group trip to New Orleans is long enough to feel the city and short enough that you can still be selective. Thursday-Sunday is the classic format. You land Thursday evening and leave Sunday afternoon with enough of a trip that you'll actually want to come back.
+Three days is the right length for a big group in New Orleans: long enough to feel the city, short enough that nobody runs out of liver or patience. Thursday to Sunday is the format to copy. You land Thursday evening, leave Sunday afternoon, and want to come back.
 
-This itinerary is written for a big group staying together at a large-format villa. It's structured to give your group the essential New Orleans experiences while building in the flexibility that large groups always need. It's a framework, not a schedule — for the version that stretches this into a longer stay, see the [5-day itinerary](/guides/itinerary-5-day/).
+Still choosing dates? Start with the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) and the [group trip planning hub](/guides/plan-a-group-trip/) first, then come back here to fill the days.
+
+This itinerary is written for a big group staying together at a large-format villa. It's structured to give your group the essential New Orleans experiences while building in the flexibility that large groups always need. It's a framework, not a schedule — for the version that stretches this into a longer stay, see the [5-day itinerary](/guides/itinerary-5-day/). First time in town? The [first-timer guide](/guides/first-timer-guide/) covers what to know before you land.
 
 Adjust the activities to match your group's personality. If your group hates museums, skip the ones marked optional and add more pool time. If half your group wakes up early and half doesn't, split and reconvene. The bones of the itinerary hold either way.
 
 ## Quick Checklist
 
-- [ ] Book accommodations before finalizing these dates — large-group properties fill up
-- [ ] Make restaurant reservations for Saturday dinner 3-4 weeks in advance
-- [ ] Book any paid activities (swamp tour, cooking class, etc.) 2 weeks in advance
+- [ ] Book accommodations before finalizing these dates — for the largest selection, book 6+ months out
+- [ ] Reserve Saturday dinner and brunch early; big tables are the first thing to go
+- [ ] Book any paid activities (swamp tour, cooking class, etc.) once the headcount is firm
 - [ ] Designate one person as the [trip coordinator](/guides/nola-group-trip-roles-assignment-guide/) (handles payments, herds the group)
 - [ ] Set a group chat with arrival details and the house address
 - [ ] Buy basics at the grocery store Thursday evening (saves money and logistics)
@@ -40,10 +42,10 @@ Adjust the activities to match your group's personality. If your group hates mus
 
 ### Getting There
 
-Most groups arrive Thursday afternoon or evening. Direct flights into Louis Armstrong New Orleans International Airport (MSY) take 2.5-4 hours from most US cities.
+Most groups arrive Thursday afternoon or evening. Direct flights into Louis Armstrong New Orleans International Airport (MSY) take roughly 2.5-4 hours from many US cities. The full breakdown lives in the [airport transfer guide](/guides/nola-airport-transfer-guide/).
 
 **Airport transfer logistics:**
-- Individual rideshares: 20-25 minutes, ~$35-50 each way
+- Individual rideshares: 20-25 minutes, roughly $35-50 each way, depending on demand
 - For a bigger crew: charter a 12-15 passenger van. Easier, comparable cost. See the [ride-share master guide](/guides/nola-group-ride-share-master-guide/) for the full breakdown of when a van beats individual cars.
 - Early arrivals can get groceries while waiting for the rest of the group.
 
@@ -115,7 +117,7 @@ Before you chase the city's big attractions, spend an hour in your home neighbor
 ### 2:00 PM — Afternoon Activity (Pick One)
 
 **Option A: Swamp Tour**
-Best done in the afternoon before sunset. Book in advance. 20-30 minute drive from the city. Alligators, cypress trees, airboats. 2-3 hours total. Strong recommendation for any group visiting for the first time.
+Best done in the afternoon before sunset. Book ahead — see the [swamp tour options](/guides/day-trips/) for the comparison. 20-30 minute drive from the city. Alligators, cypress trees, airboats. 2-3 hours total. Strong recommendation for any group visiting for the first time.
 
 **Option B: The French Quarter Walkabout**
 No plan, no tour guide. Walk from Canal Street down Royal Street (galleries, architecture, jazz on the street), through Jackson Square (St. Louis Cathedral, the Moonwalk), then Café Du Monde for beignets. 2-3 hours, free.
@@ -168,10 +170,10 @@ Saturday is when you go somewhere for brunch. This is the meal most groups look 
 
 | Restaurant | Vibe | Book Ahead? |
 |------------|------|-------------|
-| Brennan's (French Quarter) | Classic NOLA brunch, bananas Foster | Yes, 2-3 weeks |
-| Commander's Palace (Garden District) | Signature experience, 25-cent martinis | Yes, well in advance |
-| Atchafalaya (Lower Garden District) | Great Bloody Marys, neighborhood feel | Yes, 1-2 weeks |
-| Surrey's Café (multiple locations) | Casual, creative, good for mid-size groups | Yes for groups |
+| Brennan's (French Quarter) | Classic NOLA brunch, bananas Foster | Yes |
+| Commander's Palace (Garden District) | The signature experience | Yes, well in advance |
+| Atchafalaya (Lower Garden District) | Great Bloody Marys, neighborhood feel | Yes |
+| Surrey's Café (multiple locations) | Casual, creative, easier for a mid-size table | Call ahead for groups |
 
 ### 12:30 PM — French Quarter Lap
 
@@ -201,7 +203,7 @@ Come back to the house. This is the unplanned hour that often becomes a highligh
 
 ### 7:00 PM — The Signature Dinner
 
-Saturday dinner is the main event. This is the reservation you made 4-6 weeks ago. It should be somewhere special.
+Saturday dinner is the main event. This is the reservation you made weeks ago, and the one everyone will mention in the group chat afterward. It should be somewhere special.
 
 **Options for the signature group dinner:**
 
@@ -256,7 +258,7 @@ Real check-out and airport timing:
 - Get to the airport 90 minutes before domestic flights
 - Afternoon flights mean noon checkout is workable
 
-**Airport coordination:** Same as arrival — charter a van if you have 15+ people.
+**Airport coordination:** Same as arrival — charter a van once the headcount hits fifteen.
 
 ---
 
