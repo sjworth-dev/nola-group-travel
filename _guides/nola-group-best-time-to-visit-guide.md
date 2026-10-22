@@ -33,7 +33,7 @@ This guide exists because that inverted calendar is scattered across a dozen oth
 
 Most U.S. destinations follow a simple rhythm: summer is peak, spring and fall are shoulder, winter is quiet. New Orleans doesn't follow it, and treating it like it does is the single most common planning mistake group organizers make here.
 
-**Peak season is October, and February through May.** October is peak because of weather, not a festival calendar quirk — it's the first real relief from summer heat, plus [Voodoo Fest](/guides/nola-voodoo-fest-guide/) and a Halloween scene the whole city leans into. February through May is peak because it's Mardi Gras, French Quarter Fest, spring crawfish season, and Jazz Fest, one after another with barely a gap.
+**Peak season is October, and February through May.** October is peak because of weather, not a festival calendar quirk — it's the first real relief from summer heat, plus [Voodoo Fest](/guides/nola-voodoo-fest-guide/) and a Halloween scene the whole city leans into. February through May is peak because it's Mardi Gras, French Quarter Fest, spring crawfish season, and Jazz Fest, one after another with barely a gap. Even the free neighborhood events, like [Bayou Boogaloo](/guides/nola-group-bayou-boogaloo-guide/), land inside it.
 
 **Soft season is June through August, and January.** Summer means heat, humidity, and afternoon thunderstorms that clear out both crowds and rates — real value, if your group can handle the weather. January is the lull after the holidays and before Mardi Gras ramps up: the year's cheapest rates, full city operations, cold snaps possible.
 
