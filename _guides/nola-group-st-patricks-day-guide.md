@@ -158,7 +158,7 @@ That's worth planning around.
 
 St. Patrick's Day in New Orleans falls around March 17 — squarely inside the city's February–May peak season (Mardi Gras, spring crawfish season, French Quarter Fest, and Jazz Fest all stack up in this stretch). Don't expect a shoulder-season discount: the weather is excellent, the city is in event mode, and large-group accommodations book like it.
 
-A base in the Lower Garden District puts you closest to the action — a 10–15 minute walk from the Irish Channel parade zone and one block from the St. Charles streetcar. The Syd's villas there (shared heated pool, hot tub, outdoor kitchen) fit that spot well. For groups who'd rather host the post-parade villa dinner somewhere fully private, Castleday Retreats' Bywater villas (private pool per villa) are a rideshare away and built for exactly that kind of large-format meal. Heirloom is worth a look too if neither fits your dates or headcount — it has the widest inventory of large-format houses across several neighborhoods.
+A base in the Lower Garden District puts you closest to the action — a 10–15 minute walk from the Irish Channel parade zone and one block from the St. Charles streetcar. The Revelry's apartment-style floors in Central City are a short streetcar ride from the route and come with a saltwater pool. For groups who'd rather host the post-parade dinner somewhere private, a Bywater house like The Mazant (sleeps 18) is a rideshare away and suits a big sit-down meal. Heirloom is worth a look too if neither fits your dates or headcount — it has deep inventory of large-format houses across several neighborhoods.
 
 For the largest selection, book 6+ months out. [See where to stay for large groups →](/where-to-stay/)
 

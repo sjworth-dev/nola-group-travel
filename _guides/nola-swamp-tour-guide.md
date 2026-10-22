@@ -254,7 +254,7 @@ See the [Day Trips Guide](/guides/day-trips/) for the full Cajun Country day str
 
 A swamp tour is a half-day activity. The other half of that day is at your home base — and after a morning sunburned and muddy from a boat deck, that base needs a pool and a kitchen, not a lobby.
 
-**Editorial examples of what fits:** Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a private pool and full kitchen — good for a group lunch straight off the boat, with Frenchmen Street walkable for the evening. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub one block from the St. Charles Streetcar. Heirloom's larger inventory of large-format homes is worth checking on shorter notice, and a hotel room block works for a group that wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
+**Editorial examples of what fits:** The Mazant, a historic guesthouse in the [Bywater](/neighborhoods/bywater/) that sleeps 18, suits a group lunch straight off the boat, with Frenchmen Street an easy trip for the evening. The Revelry in Central City offers apartment-style floors with a saltwater pool, a short hop from the streetcar. Heirloom's larger inventory of large-format homes is worth checking on shorter notice, and a hotel room block works for a group that wants separate keys and bills. Confirm amenities directly with any property — don't book around one that isn't guaranteed.
 
 For the largest selection, book 6+ months out.
 
