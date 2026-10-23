@@ -135,7 +135,7 @@ The French Quarter is walkable from Bywater bases in 20-30 minutes or a short Ly
 | Option | Notes |
 |--------|-------|
 | Three separate Airbnbs | Functionally three different trips happening simultaneously |
-| Castleday Retreats single villa | Fits 20 comfortably in 12 BR / 17 real beds |
+| Roami's The Mandeville | Up to 12 bedrooms sleeping about two dozen, hotel-style booking with separate units |
 | The Revelry | Central City apartment-style floors (6-9 each) + saltwater pool — a floor per crew with separate billing |
 | Heirloom large-format home | Worth checking for deep inventory at this size or a short-notice booking |
 
