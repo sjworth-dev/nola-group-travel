@@ -42,6 +42,8 @@ If you don't want to cook, these are the kinds of places that traditionally do a
 
 Holiday menus and hours change every year. Call each restaurant for its current Thanksgiving plans and ask about a private room or dedicated section for your headcount.
 
+For a Christmas-side trip, skip the single-night scramble: December is Reveillon season, when restaurants run multi-course prix-fixe menus for weeks. The [Reveillon dinner guide](/guides/nola-group-reveillon-dinner-guide/) explains how to book one for a full table.
+
 ### Cook at Your Rental
 
 When the family runs to twenty or thirty, cooking together can be the whole point:

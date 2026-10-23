@@ -56,7 +56,7 @@ Most U.S. destinations follow a simple rhythm: summer is peak, spring and fall a
 | September | Transitional | Still hot, easing late in month | Saints season kicks off | Late August through mid-September is the real shoulder window |
 | October | Peak | Best of the year, 60s–70s | Voodoo Fest, Halloween week, best weather stretch | Peak pricing for peak weather — no discount here |
 | November | Peak (early) / Soft (late) | Cooling, 60s–70s | Bayou Classic, Thanksgiving | Good weather, moderate rates outside the holiday weekend |
-| December | Moderate | Cool, 50s–60s | Celebration in the Oaks, Reveillon dinners, New Year's Eve | Quiet mid-month, spikes hard around the 31st |
+| December | Moderate | Cool, 50s–60s | Celebration in the Oaks, [Reveillon dinners](/guides/nola-group-reveillon-dinner-guide/), New Year's Eve | Quiet mid-month, spikes hard around the 31st |
 
 ---
 
