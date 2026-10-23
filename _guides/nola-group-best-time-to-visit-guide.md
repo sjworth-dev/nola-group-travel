@@ -52,7 +52,7 @@ Most U.S. destinations follow a simple rhythm: summer is peak, spring and fall a
 | May | Peak | Warm, 70s–80s | Jazz Fest weekend two, crawfish season winding down | Same story as April — book far ahead |
 | June | Soft | Hot, 80s–90s, humid | Creole Tomato Festival, Bayou Boogaloo, hurricane season begins | First real value month; heat is the tradeoff |
 | July | Soft | Hottest, 90s+, humid | Independence Day, Essence Festival (Fourth of July weekend spike) | Cheap and quiet, except the [Essence Fest weekend](/guides/essence-festival/) |
-| August | Soft | Hottest, 90s+, humid | Southern Decadence (last weekend), Satchmo SummerFest early in the month | Deep-value month, with one major crowd spike at month's end |
+| August | Soft | Hottest, 90s+, humid | Southern Decadence (last weekend), Satchmo SummerFest early in the month, [Red Dress Run](/guides/nola-group-red-dress-run-guide/) mid-month | Deep-value month, with one major crowd spike at month's end |
 | September | Transitional | Still hot, easing late in month | Saints season kicks off | Late August through mid-September is the real shoulder window |
 | October | Peak | Best of the year, 60s–70s | Voodoo Fest, Halloween week, best weather stretch | Peak pricing for peak weather — no discount here |
 | November | Peak (early) / Soft (late) | Cooling, 60s–70s | Bayou Classic, Thanksgiving | Good weather, moderate rates outside the holiday weekend |
