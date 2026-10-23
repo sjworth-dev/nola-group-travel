@@ -1974,3 +1974,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-23 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the Red Dress Run guide.
 2026-10-23 UTC — fix: property balance sweep — `nola-group-new-orleans-vs-memphis-guide.md`, `nola-group-group-size-sweet-spot-guide.md`, `private-event-spaces-guide.md` (Castleday/Syd removed; Mazant/Revelry/Roami used).
 2026-10-23 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gates new pages; prompt's backlog-generation step not applied because it conflicts with ROADMAP's rule against bot-added Up Next items).
+2026-10-23 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-23 UTC (second run) — expand: refresh `nola-group-reveillon-dinner-guide.md` (oldest, 2026-07-25) — verdict-first opener, shorter title/description, standard lead-time line, removed generic December-demand claim, best-time/landmark-restaurant/mixed-diet/planning-hub links, bumped date.
+2026-10-23 UTC (second run) — seo: interlink `holiday-gathering.md` and `nola-group-best-time-to-visit-guide.md` to the Reveillon guide.
+2026-10-23 UTC (second run) — fix: property balance sweep — `nola-group-treme-culture-immersion-guide.md`, `sober-group-guide.md`, `nola-group-coffee-shop-work-morning-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-23 UTC (second run) — backlog: no changes; Up Next left empty.
