@@ -4,7 +4,7 @@ description: "Deep cultural immersion in the Tremé for the whole crew: Congo Sq
 category: "Culture & History"
 card_title: "Tremé Culture Immersion Guide"
 card_description: "Congo Square, Backstreet Cultural Museum, brass band encounters, and neighborhood eating — a deep cultural morning in America's oldest Black neighborhood for a big group."
-date: 2026-09-18
+date: 2026-10-23
 ---
 
 The Tremé is the oldest African American neighborhood in the United States. This is not a marketing claim. It is a historical designation that carries real weight: the Tremé was a free Black community before the Civil War, before emancipation, before the legal framework of American freedom was applied here.
@@ -194,6 +194,6 @@ Before taking a group here, be clear about what this is and is not:
 
 ## Large Group Accommodation for a Tremé Morning
 
-The Tremé is accessible from both the Bywater and the Lower Garden District via rideshare — roughly 15-20 minutes from either. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) put the group closest to Congo Square, adjacent to the Marigny and the Tremé itself. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub, one block from the streetcar) trade that proximity for a streetcar ride into a historically Anglo-American stretch of the city — a useful contrast to the morning's subject matter, if not the shortest commute. For the largest selection, book 6+ months out.
+The Tremé is accessible from both the Bywater and the Lower Garden District via rideshare — roughly 15-20 minutes from either. Bywater options like The Mazant (an 1880s guesthouse that sleeps 18) put the group closest to Congo Square, adjacent to the Marigny and the Tremé itself. Central City and Lower Garden District options like The Revelry or Heirloom's large-format homes trade that proximity for a streetcar ride into a historically Anglo-American stretch of the city — a useful contrast to the morning's subject matter, if not the shortest commute. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

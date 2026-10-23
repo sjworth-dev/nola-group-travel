@@ -4,7 +4,7 @@ description: "Planning a large group trip to NOLA when some or all of your group
 category: "Planning & Logistics"
 card_title: "Sober Group Travel"
 card_description: "NOLA is one of the best food and music cities on earth. Here's how to plan a trip where alcohol isn't the activity."
-date: 2026-08-12
+date: 2026-10-23
 ---
 
 New Orleans has a reputation as a drinking city. Bourbon Street, go-cups, no last call. That's all real.
@@ -168,7 +168,7 @@ A sober-friendly trip benefits more than any other trip type from good villa acc
 
 For a group that's not structuring the trip around going out to bars, the villa becomes more central to the day than usual—breakfast together, afternoons by the pool, cooking and cards after the dinner reservation, not before it.
 
-**Editorial examples of what fits:** properties like Castleday Retreats (Bywater private-pool villas) put a group walkable to Frenchmen Street's music clubs and to Bacchanal Wine's food-and-live-music courtyard—useful when the evening plan is listening, not drinking. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, has a shared heated pool and hot tub that give a sober-curious evening a real at-home activity, with streetcar access to restaurants and neighborhoods without car logistics. Heirloom's larger inventory across the Lower Garden District and Central City is worth a look if the dates are tight. None of these is a booking recommendation—the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a shared villa's common space stacks up against a hotel room block for a group building its trip around food and music instead of bars.
+**Editorial examples of what fits:** properties like The Mazant (an 1880s Bywater guesthouse with a heated pool and spa) put a group walkable to Frenchmen Street's music clubs and to Bacchanal Wine's food-and-live-music courtyard—useful when the evening plan is listening, not drinking. The Revelry, in Central City, has apartment-style floors and a saltwater pool that give a sober-curious evening a real at-home activity. Heirloom's larger inventory across the Lower Garden District and Central City is worth a look if the dates are tight. None of these is a booking recommendation—the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a shared villa's common space stacks up against a hotel room block for a group building its trip around food and music instead of bars.
 
 For the largest selection, book 6+ months out.
 
