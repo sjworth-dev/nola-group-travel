@@ -1,15 +1,15 @@
 ---
-title: "Red Dress Run New Orleans: The Group Guide"
-description: "How to do the Red Dress Run with the whole crew — registration, rally points, and keeping twenty people together at the city's reddest charity fun run."
+title: "Red Dress Run New Orleans: How to Do It as a Group"
+description: "The Red Dress Run is a charity bar crawl, not a race. Dresses, pacing, rally points, and how to keep the whole crew together in August heat."
 category: "Festivals & Events"
 card_title: "Red Dress Run"
 card_description: "New Orleans' August charity fun-run where everyone — every gender — wears a red dress. Format, route, dress code, and how to run it with a big group."
-date: 2026-07-25
+date: 2026-10-23
 ---
 
-The name undersells it. The Red Dress Run is billed as a run. It is, generously, a walk. What it actually is: thousands of people, every gender, in a red dress, moving slowly through the French Quarter and Marigny between bars, raising money for local charities along the way. Nobody's timing a mile split.
+**Verdict: go, and treat it as a costumed bar crawl in August heat.** The name undersells it. The Red Dress Run is billed as a run. It is, generously, a walk. What it actually is: thousands of people, every gender, in a red dress, moving slowly between bars through the French Quarter and Marigny, raising money for local charities along the way. Nobody's timing a mile split.
 
-It's organized by the local Hash House Harriers chapter — a running-club-adjacent drinking club whose motto is famously "a drinking club with a running problem" — and it lands every August, squarely in New Orleans' soft season. That timing is not an accident for a group planning around it: rates are down, the city is thinner on tourists, and this is one of the few genuinely large-scale group events happening in that window.
+It's organized by the local Hash House Harriers chapter — a running-club-adjacent drinking club whose motto is famously "a drinking club with a running problem" — and it lands every August (expect mid-August again in 2027; confirm the date on the official site), squarely in New Orleans' soft season. That timing is not an accident for a group planning around it: rates are down, the city is thinner on tourists, and this is one of the few genuinely large-scale group events happening in that window.
 
 For a big group, it's close to a perfect anchor: a costume everyone can pull off cheaply, a route that's really a rolling bar crawl, a charity angle that gives the day some weight, and a season where lodging isn't fighting you. Here's how to run it.
 
@@ -17,7 +17,7 @@ For a big group, it's close to a perfect anchor: a costume everyone can pull off
 
 ## Quick Checklist
 
-- [ ] Confirm the exact date, start time, and staging point on the official Hash House Harriers New Orleans site — it moves within August year to year
+- [ ] Confirm the exact date, start time, and starting point on the official Hash House Harriers New Orleans site — it moves within August year to year
 - [ ] Get everyone a red dress before the trip — thrift stores, costume shops, or ordered online; sizing and availability get tighter closer to the date
 - [ ] Register in advance if the event requires it; registration often bundles in a charity donation
 - [ ] Decide as a group how much of the route you're actually doing — the "run" is really a bar-to-bar crawl, and nobody has to do the whole thing
@@ -35,11 +35,11 @@ Strip away the dresses and it's a charity pub crawl with a costume requirement a
 
 **The dress code.** Everyone — every gender — wears a red dress. That's the whole rule. Some people go for full costume commitment, wigs and all; others grab the cheapest red dress they can find and call it done. Both are correct. The point is a sea of red moving through the [French Quarter](/neighborhoods/french-quarter/) and [Marigny](/neighborhoods/marigny/), not a judged costume contest.
 
-**The "run."** A route winds through the Quarter and Marigny, hitting bars along the way. Some people jog stretches of it; most people walk it at a pace that accommodates a drink in hand. It's a moving street party more than an athletic event.
+**The "run."** A route winds between bars through the Quarter and Marigny. The starting point has moved before (2026 kicked off at Crescent Park), so check where this year's begins. Some people jog stretches of it; most people walk it at a pace that accommodates a drink in hand. It's a moving street party more than an athletic event.
 
 **The charity angle.** Registration and on-site donations support local causes — check the current year's beneficiaries on the official site. It's a real fundraiser wrapped in an absurd costume, which is a very New Orleans combination.
 
-> Don't lock in a specific date, start time, or route from memory — confirm all of it on the official Hash House Harriers New Orleans site before you build a trip around it.
+> Compare it with the other summer anchor: [Essence Festival](/guides/essence-festival/) is the sharper demand spike. Don't lock in a specific date, start time, or route from memory — confirm all of it on the official Hash House Harriers New Orleans site before you build a trip around it.
 
 ---
 
@@ -78,11 +78,11 @@ Nobody has to do the whole route at a run. A big group does better splitting the
 | The heat-averse | Watch from a shaded bar patio, join the group between legs |
 | Anyone driving later or sitting the day out | Spectate, take photos, meet the group for dinner |
 
-The route runs through dense, walkable [French Quarter](/guides/nola-bourbon-street-guide/) and Marigny streets, so peeling off and rejoining is easy — nobody's stranded the way they might be at a spread-out fairgrounds event.
+The route runs through dense, walkable [French Quarter](/guides/nola-bourbon-street-guide/) and Marigny streets (the [Marigny guide](/neighborhoods/marigny/) covers the end of the route), so peeling off and rejoining is easy — nobody's stranded the way they might be at a spread-out fairgrounds event.
 
 ### Pace the Drinking for an August Day
 
-This is a daytime event in August heat, which changes the math on a day of bar-hopping. Water between stops, real food at some point in the afternoon, and shade breaks aren't optional extras — they're what keeps the group upright for the whole route. Treat it with the same heat discipline as any other outdoor August event.
+This is a daytime event in August heat, which changes the math on a day of bar-hopping. Water between stops, real food at some point in the afternoon, and shade breaks aren't optional extras — they're what keeps the group upright for the whole route. Treat it with the same heat discipline as any other outdoor August event, and see [what New Orleans is like in summer](/guides/nola-group-best-time-to-visit-guide/) before you pack.
 
 ### After: The Day Doesn't Have to End at the Last Bar
 
@@ -115,5 +115,7 @@ The Red Dress Run is an easy event to run with a big group logistically — it's
 A large-format property in or near the Quarter or Marigny keeps the walk to the route short on both ends, and a pool matters more here than at almost any other event on the calendar — a group coming off hours of walking and drinking in August heat needs somewhere to actually cool down before the night continues. Spread the search across the field rather than fixating on one name; fit matters more than brand for a group this size.
 
 For the largest selection, book 6+ months out.
+
+Sequencing the rest of the trip? The [group trip planning hub](/guides/plan-a-group-trip/) puts the decisions in order.
 
 [See where to stay for large groups →](/where-to-stay/)
