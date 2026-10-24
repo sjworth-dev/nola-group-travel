@@ -152,7 +152,7 @@ The Magazine crawl rewards accepting this. Don't try to keep twenty people toget
 
 Groups doing the Magazine Street bar crawl are typically staying Uptown, in the [Lower Garden District](/neighborhoods/lower-garden-district/), or in the [Bywater](/neighborhoods/bywater/) — which puts them well-positioned for an evening that ends in this neighborhood before returning. See the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how the accommodation format changes the logistics of a night like this one.
 
-The Syd, in the Lower Garden District, is a short rideshare or walk from the Louisiana Avenue starting point, and the return at the end of the night is straightforward. The Mazant, an 1880s Bywater guesthouse sleeping up to 18, is a longer return but works for groups with the full evening structure in place — the Frenchmen Street extension after the streetcar return makes the longer trip back natural.
+A base in the Lower Garden District or Central City, such as The Revelry or an Heirloom home, is a short rideshare from the Louisiana Avenue starting point, and the return at the end of the night is straightforward. The Mazant, an 1880s Bywater guesthouse sleeping up to 18, is a longer return but works for groups with the full evening structure in place — the Frenchmen Street extension after the streetcar return makes the longer trip back natural.
 
 For the largest selection, book 6+ months out.
 
