@@ -1,13 +1,13 @@
 ---
-title: "Wednesday at the Square with a Group: The New Orleans Spring Concert Series"
-description: "How to run a big group through Wednesday at the Square, the free weekly outdoor concert-and-food series in Lafayette Square — the format, why it's a low-cost anchor during spring's high season, and how to work it into a bigger trip."
+title: "Wednesday at the Square: Free Spring Concerts, Big Group"
+description: "Wednesday at the Square is a free weekly spring concert in Lafayette Square. Here is how a big group uses it as a cheap, easy anchor night."
 category: "Festivals & Events"
 card_title: "Wednesday at the Square"
 card_description: "A free weekly outdoor concert series in the CBD's Lafayette Square. How to run it with a big group and use it as a low-cost spring anchor."
-date: 2026-07-25
+date: 2026-10-24
 ---
 
-Spring in New Orleans is expensive by the city's own standards — Mardi Gras, French Quarter Fest, and Jazz Fest stack on top of each other and pull rates up across the board. Wednesday at the Square is the counterweight: a free, local, weekly outdoor concert series that costs nothing to attend and gives a group a low-key evening between the bigger, pricier anchors.
+Verdict: it's the best free evening on the spring calendar, and the easiest event to run with a crowd. Spring in New Orleans is expensive by the city's own standards — Mardi Gras, French Quarter Fest, and Jazz Fest stack on top of each other and pull rates up across the board. Wednesday at the Square is the counterweight: a free, local, weekly outdoor concert series that costs nothing to attend and gives a group a low-key evening between the bigger, pricier anchors.
 
 It happens on Wednesday evenings in Lafayette Square, a small park in the CBD ringed by office buildings and City Hall, and it runs weekly through the spring. Local and regional bands play, food and drink vendors set up around the perimeter, and after-work New Orleans shows up with blankets and lawn chairs. It's not a tourist event — it's a genuine local ritual that happens to be easy for visitors to walk into.
 
@@ -37,7 +37,7 @@ Strip it down and it's a simple format: a free stage in a small downtown park, o
 
 **The crowd.** Overwhelmingly local. After-work professionals, families, dogs, groups of friends meeting up midweek. It's the closest thing on this site's calendar to "how New Orleans actually spends a Wednesday," which is part of why it's worth building an evening around.
 
-For where this sits against the city's bigger spring events, the [festival season calendar](/guides/festival-season-calendar/) puts it in context — it's the low-cost, low-commitment option in a season otherwise dominated by ticketed, high-demand anchors.
+For where this sits against the city's bigger spring events, the [festival season calendar](/guides/festival-season-calendar/) puts it in context, and the [group trip planning hub](/guides/plan-a-group-trip/) sequences the rest of the decisions — it's the low-cost, low-commitment option in a season otherwise dominated by ticketed, high-demand anchors.
 
 > Don't plan around a specific date, band, or exact start/end time from memory — confirm the current year's schedule on the official Wednesday at the Square site before you build an evening around it.
 
@@ -128,6 +128,6 @@ Spring in New Orleans is stacked: Mardi Gras, French Quarter Fest, crawfish seas
 
 Wednesday at the Square is one of the easiest events on this site's calendar to run with a big group, precisely because it asks so little of the logistics. There's no ticket to coordinate, no gate to funnel twenty people through, and a small park means nobody actually gets lost the way they might at a sprawling festival ground.
 
-The harder part of a spring trip is everything around it — Mardi Gras or Jazz Fest dates fill hotels and large-group properties fast, and a free Wednesday evening doesn't change that math. A CBD-based large-format property puts a group walking distance from Lafayette Square and the rest of downtown, which matters more during a spring trip stacked with other, bigger commitments. For the largest selection, book 6+ months out — spring is the city's tightest season for group inventory, and a low-key Wednesday evening doesn't loosen that at all.
+The harder part of a spring trip is everything around it — Mardi Gras or Jazz Fest dates fill hotels and large-group properties fast, and a free Wednesday evening doesn't change that math. A downtown base such as Hotel Perle or a Roami unit puts a group within walking distance of Lafayette Square, which matters during a spring trip stacked with bigger commitments. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
