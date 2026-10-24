@@ -181,7 +181,7 @@ The French Quarter is mostly a clean grid. The rest of the city follows the curv
 
 ## First-Timer Weekend Itinerary
 
-This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary-3-day/) covers it hour by hour with more room to customize.
+This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary-3-day/) covers it hour by hour with more room to customize, and the [5-day itinerary](/guides/itinerary-5-day/) is the version with a free day built in.
 
 ### Day 1: The Classic Introduction
 

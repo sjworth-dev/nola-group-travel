@@ -96,7 +96,7 @@ October sits inside hurricane season and is simultaneously the most expensive, m
 
 **Group wants the best weather and doesn't mind paying for it:** October. Full stop — nothing else in the calendar matches the temperature and the energy at once.
 
-**Group wants a specific festival:** Build the trip around the festival's dates, not the season. Mardi Gras and Jazz Fest both move annually — confirm the current year's dates before you book anything else. Once the dates are locked, the [3-day itinerary](/guides/itinerary-3-day/) shows how to fill a Thursday-to-Sunday stay.
+**Group wants a specific festival:** Build the trip around the festival's dates, not the season. Mardi Gras and Jazz Fest both move annually — confirm the current year's dates before you book anything else. Once the dates are locked, the [3-day itinerary](/guides/itinerary-3-day/) shows how to fill a Thursday-to-Sunday stay, and the [5-day itinerary](/guides/itinerary-5-day/) stretches it for a group that wants room to breathe.
 
 **Group is budget-primary:** Late January or late August through mid-September. Real savings, not marketing-speak savings.
 
