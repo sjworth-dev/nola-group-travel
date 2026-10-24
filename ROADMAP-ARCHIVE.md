@@ -1979,3 +1979,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-23 UTC (second run) — seo: interlink `holiday-gathering.md` and `nola-group-best-time-to-visit-guide.md` to the Reveillon guide.
 2026-10-23 UTC (second run) — fix: property balance sweep — `nola-group-treme-culture-immersion-guide.md`, `sober-group-guide.md`, `nola-group-coffee-shop-work-morning-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-23 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-24 UTC — expand: refresh `nola-group-wednesday-at-the-square-guide.md` (oldest, 2026-07-25) — verdict-first opener, shorter title/description, planning-hub link, property-neutral large-group section, bumped date.
+2026-10-24 UTC — seo: interlink `festival-season-calendar.md` to the Wednesday at the Square guide.
+2026-10-24 UTC — fix: property balance sweep — `nola-group-airboat-deep-dive-guide.md`, `nola-group-architecture-tour-guide.md`, `nola-group-arrival-day-orientation-walk.md` (Syd removed everywhere; Castleday trimmed to one mention or replaced with Mazant/Revelry/Hotel Perle).
+2026-10-24 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
