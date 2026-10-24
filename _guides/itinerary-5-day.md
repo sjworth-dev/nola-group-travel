@@ -1,15 +1,15 @@
 ---
-title: "New Orleans 5-Day Group Itinerary"
-description: "A complete 5-day New Orleans group itinerary for the whole crew — neighborhood rotation, dining anchors, a day trip, and the full logistics for an extended stay."
+title: "5 Days in New Orleans: A Group Itinerary That Paces"
+description: "Five days is the right length for a big group in New Orleans. Day-by-day plan with neighborhoods, dinners, a swamp or plantation day, and a free day."
 category: "Planning & Logistics"
 card_title: "5-Day Itinerary"
 card_description: "A full 5-day group itinerary with neighborhood rotation, a day trip, and dining anchors."
-date: 2026-07-26
+date: 2026-10-24
 ---
 
-Three days in New Orleans gives you a taste. Five days gives you the city. You get multiple neighborhoods at a real pace, room for a proper day trip, a couple of landmark dinners, and — this is the part three-day trips never manage — actual unscheduled afternoons where nothing is planned and nobody minds.
+Verdict: five days is the right length for a big group in New Orleans. Three days gives you a taste. Five gives you the city. You get multiple neighborhoods at a real pace, room for a proper day trip, a couple of landmark dinners, and — this is the part three-day trips never manage — actual unscheduled afternoons where nothing is planned and nobody minds.
 
-Groups that land on five days usually fall into two camps: the ones who planned it that way on purpose, and the ones who booked three nights and realized at checkout they'd shortchanged themselves. This itinerary is built for either — it's the extended version of the [3-day itinerary](/guides/itinerary-3-day/), for a group with the extra time to actually settle in rather than just visit.
+Groups that land on five days usually fall into two camps: the ones who planned it that way on purpose, and the ones who booked three nights and realized at checkout they'd shortchanged themselves. This itinerary is built for either — it's the extended version of the [3-day itinerary](/guides/itinerary-3-day/), for a group with the extra time to actually settle in rather than just visit. Still choosing dates? The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has the month-by-month verdicts, and the [group trip planning hub](/guides/plan-a-group-trip/) sequences the rest of the decisions.
 
 Wednesday arrival through Sunday departure is the classic format, and the extra two days change the shape of the trip more than you'd expect. By day three you stop feeling like a tourist. That's the whole point of the extra nights.
 
@@ -18,8 +18,8 @@ Wednesday arrival through Sunday departure is the classic format, and the extra 
 ## Quick Checklist
 
 - [ ] Lock accommodations before finalizing dates — five-night stays at large-format properties move fast, and for the largest selection you're booking 6+ months out
-- [ ] Make Friday and Saturday dinner reservations 4-6 weeks ahead
-- [ ] Book paid activities (swamp tour, plantation tour, cooking class) 2-3 weeks out
+- [ ] Make Friday and Saturday dinner reservations as soon as dates are set
+- [ ] Book paid activities (swamp tour, plantation tour, cooking class) once the headcount is firm
 - [ ] Pick one day trip and sort transportation for it in advance
 - [ ] Buy groceries on arrival day — you'll eat at least a few meals at the house over five nights
 - [ ] Build a genuine free day into the schedule, usually day three or four
@@ -107,7 +107,7 @@ The best night for live music in the city. Three blocks, multiple venues, jazz a
 
 ### 9:30 AM — Brunch
 
-Friday morning gets the real reservation. Brennan's for the classic French Quarter version (birthplace of bananas Foster, book 2-3 weeks ahead). Commander's Palace if you want the city's most celebrated restaurant and its 25-cent martini lunch tradition, booked well ahead. Atchafalaya if you want the neighborhood feel and an excellent Bloody Mary bar without the wait.
+Friday morning gets the real reservation. Brennan's for the classic French Quarter version (birthplace of bananas Foster, reserve early). Commander's Palace if you want the city's most celebrated restaurant, booked well ahead. Atchafalaya if you want the neighborhood feel and an excellent Bloody Mary bar without the wait.
 
 ### 12:30 PM — French Quarter Walk
 
@@ -121,7 +121,7 @@ St. Charles Streetcar uptown, off at Washington Avenue. Walk the [Garden Distric
 
 ### 7:00 PM — Dinner
 
-The restaurant caliber goes up tonight. The Warehouse District cluster does the job: Cochon for the essential New Orleans meal (order the pig ear and the daily special, communal format), Pêche for the same ownership's Gulf seafood, Compère Lapin for Nina Compton's Caribbean-Creole flagship. Call at least two weeks ahead once you're booking for a full table.
+The restaurant caliber goes up tonight. The Warehouse District cluster does the job: Cochon for the essential New Orleans meal (order the pig ear and the daily special, communal format), Pêche for the same ownership's Gulf seafood, Compère Lapin for Nina Compton's Caribbean-Creole flagship. Book early once you're reserving for a full table.
 
 ### 9:30 PM — Nightcap or Preservation Hall
 
@@ -151,7 +151,7 @@ Whatever the morning was, the afternoon is recovery. Pool open, pre-dinner drink
 
 ### 7:00 PM — The Signature Dinner
 
-The reservation you made 4-6 weeks ago. Commander's Palace for the institution (book well ahead for weekends), Galatoire's for old-school Creole with jackets required, August for upscale contemporary with private dining, Antoine's for the oldest restaurant in the country and the full experience. Whichever you pick: dress for it, arrive on time, and don't rush the table.
+The reservation you locked in as soon as the dates were set. Commander's Palace for the institution (book well ahead for weekends), Galatoire's for old-school Creole with jackets required, August for upscale contemporary with private dining, Antoine's for the oldest restaurant in the country and the full experience. Whichever you pick: dress for it, arrive on time, and don't rush the table.
 
 ### 10:00 PM — Bourbon Street Night
 
