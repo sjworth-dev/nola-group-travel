@@ -213,6 +213,6 @@ The bike ride is better when it has a destination. Pick the food stop before you
 
 ## Large Group Accommodation for a Blue Bikes Day
 
-The Bywater and Lower Garden District are the two best starting neighborhoods for a Blue Bikes group day. Both have nearby stations and connect naturally to the routes described above: Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) put the group at the front door of the Frenchmen Street and Crescent Park routes, while Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) sit one block from the St. Charles Streetcar and within easy reach of the Magazine Street and Uptown circuit — either way, the ride ends at a private pool rather than a hotel lobby. For the largest selection, book 6+ months out.
+The Bywater and Lower Garden District are the two best starting neighborhoods for a Blue Bikes group day. Both have nearby stations and connect naturally to the routes described above: Bywater options like The Mazant (an 1880s guesthouse sleeping 18, with a heated pool and spa) put the group at the front door of the Frenchmen Street and Crescent Park routes, while Central City and Lower Garden District options like The Revelry (apartment-style floors plus a saltwater pool) sit within easy reach of the Magazine Street and Uptown circuit — either way, the ride can end at a pool rather than a hotel lobby. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
