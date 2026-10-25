@@ -1,13 +1,13 @@
 ---
-title: "Congo Square Rhythms Festival with a Group: African Diaspora Music in Tremé"
-description: "How to run a big group through the Congo Square Rhythms Festival — the free annual African-diaspora music and cultural festival in Louis Armstrong Park's Congo Square — format, history, and how it fits a spring trip."
+title: "Congo Square Rhythms Festival: A Free Day for a Big Group"
+description: "The Congo Square Rhythms Festival is free, walkable, and sits on the most historic ground in American music. Here is how a big group works it into a trip."
 category: "Festivals & Events"
 card_title: "Congo Square Rhythms Festival"
 card_description: "A free annual festival of African-diaspora music and culture on the single most historically significant patch of ground in American music — here's how a group works it into a spring trip."
-date: 2026-07-26
+date: 2026-10-25
 ---
 
-Congo Square doesn't need much dressing up to be worth a visit — it's the ground where enslaved and free Black New Orleanians gathered on Sundays to play music and keep African traditions alive, and it's a direct ancestor of why New Orleans sounds the way it does. The Congo Square Rhythms Festival puts a full weekend of African-diaspora music and cultural programming directly on top of that history, and it's free.
+Verdict: go, and give it the afternoon. It's the cheapest, lowest-stress festival day on the calendar, and the only one that doubles as a history lesson. Congo Square doesn't need much dressing up — it's the ground where enslaved and free Black New Orleanians gathered on Sundays to play music and keep African traditions alive, and it's a direct ancestor of why New Orleans sounds the way it does. The Congo Square Rhythms Festival puts a full weekend of African-diaspora music and cultural programming directly on top of that history, and it's free.
 
 Held in [Louis Armstrong Park](/neighborhoods/treme/)'s Congo Square, the festival is built around music and cultural programming rooted in the African diaspora — a different focus from the food-first [Treme Creole Gumbo Festival](/guides/nola-group-treme-gumbo-festival-guide/) that happens on the same ground later in the year. It typically lands in the spring high-demand window alongside the city's biggest festivals, but it runs at a much smaller, more walkable scale.
 
@@ -79,7 +79,7 @@ Both events happen on the same ground, but they're not the same day. The [Treme 
 
 6. **Have a rideshare plan.** Tremé and Congo Square don't have the pickup density of the French Quarter a few blocks away — build in extra time to get a ride out.
 
-7. **Check it against the rest of your spring dates.** This sits inside the same high-demand window as Jazz Fest and French Quarter Fest — see the [festival season calendar](/guides/festival-season-calendar/) to plan around all of it at once.
+7. **Check it against the rest of your spring dates.** This sits inside the same high-demand window as Jazz Fest and French Quarter Fest — see the [festival season calendar](/guides/festival-season-calendar/) to plan around all of it at once, and the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide if your dates are still open. Still sequencing the whole trip? Start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
