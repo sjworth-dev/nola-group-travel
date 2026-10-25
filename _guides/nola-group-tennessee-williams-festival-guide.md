@@ -1,17 +1,19 @@
 ---
-title: "Tennessee Williams Festival with a Group: New Orleans' Literary Festival"
-description: "How to plan a group trip around the Tennessee Williams & New Orleans Literary Festival — panels, walking tours, the Stella shouting contest, and how a late-March literary festival fits a big group's spring trip."
+title: "Tennessee Williams Festival New Orleans: A Group Guide"
+description: "Go for the Stella shouting contest, stay for one good panel. How to run the Tennessee Williams Festival with a big group, dates for 2027 included."
 category: "Culture & History"
 card_title: "Tennessee Williams Festival"
 card_description: "A late-March literary festival built around panels, walking tours, and a Jackson Square shouting contest — New Orleans' lower-key answer to Jazz Fest and French Quarter Fest."
-date: 2026-07-26
+date: 2026-10-25
 ---
+
+**Verdict: worth building a trip around if your crew includes readers, and worth a free evening if it doesn't.** The 2027 festival is announced for March 17–21 (confirm on the official site before booking anything).
 
 Every big New Orleans festival wants you standing in a crowd with a drink in hand. The Tennessee Williams & New Orleans Literary Festival wants you sitting in a panel discussion, then standing in Jackson Square screaming "STELLA!" at the top of your lungs. It's a genuinely different kind of festival week, and it's the rare one built for a group that includes at least one person who'd rather talk about a play than dance to a brass band.
 
-The festival runs late March, which lands it inside the city's spring high season alongside Mardi Gras, [French Quarter Fest](/guides/french-quarter-fest/), and Jazz Fest — so don't mistake "lower-key" for "off-season." What makes it different is the format: panels and master classes with writers, staged readings, literary walking tours through the French Quarter, and the festival's signature public event, the Stanley and Stella Shouting Contest, where contestants reenact Stanley Kowalski's famous cry from *A Streetcar Named Desire* in front of a crowd in Jackson Square.
+The festival runs in late March, and since the calendar shifts a little each year, treat the dates as announced rather than guaranteed. That lands it inside the city's spring high season alongside Mardi Gras, [French Quarter Fest](/guides/french-quarter-fest/), and Jazz Fest — so don't mistake "lower-key" for "off-season." What makes it different is the format: panels and master classes with writers, staged readings, literary walking tours through the French Quarter, and the festival's signature public event, the Stanley and Stella Shouting Contest, where contestants reenact Stanley Kowalski's famous cry from *A Streetcar Named Desire* in front of a crowd in Jackson Square.
 
-For a group that wants a New Orleans trip built around something other than a bar crawl or a parade route, this is the anchor. Here's how it works and how to run it with a crew.
+For a group that wants a New Orleans trip built around something other than a bar crawl or a parade route, this is the anchor. Here's how it works and how to run it with a crew. If you're still deciding which weekend to pick at all, start with [the best time to visit](/guides/nola-group-best-time-to-visit-guide/) and the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
