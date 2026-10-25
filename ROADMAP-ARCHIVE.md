@@ -1988,3 +1988,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-24 UTC (second run) — seo: interlink `nola-group-best-time-to-visit-guide.md` and `first-timer-guide.md` to the 5-day itinerary.
 2026-10-24 UTC (second run) — fix: property balance sweep — `nola-group-uptown-magazine-bar-crawl-guide.md`, `nola-group-essence-festival-base-camp-guide.md`, `villa-pool-party-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-24 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-25 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-25 UTC — expand: refresh `nola-group-congo-square-rhythms-festival-guide.md` (oldest, 2026-07-26) — verdict-first opener, shorter title/description, best-time and planning-hub links, bumped date.
+2026-10-25 UTC — seo: interlink `festival-season-calendar.md` to the Congo Square Rhythms guide.
+2026-10-25 UTC — fix: property balance sweep — `nola-group-night-before-departure-guide.md`, `nola-group-night-two-energy-management-guide.md`, `nola-group-nightclub-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-25 UTC — backlog: no changes; Up Next left empty.
