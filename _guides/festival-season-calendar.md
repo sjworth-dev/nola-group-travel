@@ -283,7 +283,7 @@ Crowds are significantly larger. Lines form at popular spots. Factor in extra ti
 
 1. **Book against the festival calendar, not just cheap flights.** A $100 cheaper flight during Mardi Gras weekend doesn't matter when accommodations cost $500 more per night.
 
-2. **The weeks surrounding big festivals are often the sweet spot.** The week before Jazz Fest, or the weekend after Mardi Gras, can give you the residual energy of the city without the full price premium. On a gap night, the free [Wednesday at the Square](/guides/nola-group-wednesday-at-the-square-guide/) concert is the cheapest local evening on the spring calendar.
+2. **The weeks surrounding big festivals are often the sweet spot.** The week before Jazz Fest, or the weekend after Mardi Gras, can give you the residual energy of the city without the full price premium. On a gap night, the free [Wednesday at the Square](/guides/nola-group-wednesday-at-the-square-guide/) concert is the cheapest local evening on the spring calendar, and the free [Congo Square Rhythms Festival](/guides/nola-group-congo-square-rhythms-festival-guide/) is the spring day with the most history behind it.
 
 3. **If you want to attend a festival, book accommodation before buying tickets.** Confirming you have a place to stay first is more important than locking in your festival admission.
 

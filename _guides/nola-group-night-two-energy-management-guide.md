@@ -210,6 +210,6 @@ The energy arc management described in this guide is significantly easier when t
 
 A big group staying in a dedicated large-group villa has access to the kitchen, the outdoor space, and the communal areas that turn recovery time into actual recovery instead of just a hotel room.
 
-Castleday Retreats (Bywater villas, private pools), The Syd (Lower Garden District villas, shared heated pool), and Heirloom (dozens of large-format homes across the Lower Garden District and Central City) are three of the operators built for this — a real common space is what makes the hub model and the slow morning possible in the first place, and a hotel room block can't replicate it. For the largest selection, book 6+ months out.
+The Mazant (a Bywater guesthouse sleeping 18, heated pool and spa), The Revelry (Central City apartment floors, saltwater pool), and Heirloom (dozens of large-format homes across the Lower Garden District and Central City) are three of the operators built for this — a real common space is what makes the hub model and the slow morning possible in the first place, and a hotel room block can't replicate it. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
