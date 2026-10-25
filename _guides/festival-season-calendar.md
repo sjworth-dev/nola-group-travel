@@ -77,6 +77,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **Lundi Gras / Final Mardi Gras Weekend**
 - If Mardi Gras falls in March (every few years), this applies here instead of February
 
+**Tennessee Williams & New Orleans Literary Festival (late March)**
+- Panels, walking tours, and the Stella shouting contest in Jackson Square. The [Tennessee Williams Festival guide](/guides/nola-group-tennessee-williams-festival-guide/) covers how to split a group between sessions and the free public events
+- Group impact: Quiet crowd, but it sits inside spring high season, so book on the usual clock
+
 **St. Joseph's Day (March 19)**
 - Mardi Gras Indian Super Sunday (closest Sunday to March 19) is one of the most authentic cultural events in the city. The [Super Sunday guide](/guides/nola-group-super-sunday-mardi-gras-indian-guide/) covers how a group can approach it, and the [spring break guide](/guides/nola-group-spring-break-guide/) shows where it fits in a March trip
 - Mardi Gras Indian tribes gather in full handmade suits
