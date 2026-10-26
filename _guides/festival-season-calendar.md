@@ -221,6 +221,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Good weather — arguably the best month climate-wise
 - Group impact: Book ahead — for the largest selection, book 6+ months out. The [villa Thanksgiving guide](/guides/nola-group-villa-thanksgiving-guide/) covers the full weekend, including Bayou Classic.
 
+**Treme Creole Gumbo Festival (mid-November, announced Nov 14–15, 2026)**
+- Free gumbo cook-off and Creole culture festival in Congo Square
+- Group impact: low-stress, no tickets to coordinate; the [Treme Gumbo Festival guide](/guides/nola-group-treme-gumbo-festival-guide/) covers the tasting strategy.
+
 **Bayou Classic (Saturday after Thanksgiving)**
 - Grambling vs. Southern University HBCU rivalry game at Caesars Superdome
 - One of the best gameday atmospheres in college football
