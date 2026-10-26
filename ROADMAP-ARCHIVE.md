@@ -1998,3 +1998,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-25 UTC (second run) — seo: interlink `festival-season-calendar.md` to the Tennessee Williams Festival guide.
 2026-10-25 UTC (second run) — fix: property balance sweep — `nola-group-bachelorette-vip-night-guide.md`, `nola-group-bead-throwing-etiquette-guide.md`, `nola-group-bike-share-neighborhood-hop-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-25 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-26 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-26 UTC — expand: refresh `nola-group-oyster-festival-guide.md` (oldest, 2026-07-26) — verdict-first opener, shorter title/description, best-time, planning-hub and oyster-bar links, bumped date.
+2026-10-26 UTC — seo: interlink `festival-season-calendar.md` to the Oyster Festival guide.
+2026-10-26 UTC — fix: property balance sweep — `pre-wedding-activities-guide.md`, `nola-group-vinyl-record-hunting-guide.md`, `nola-group-first-time-organizer-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-26 UTC — backlog: no changes; Up Next left empty.
