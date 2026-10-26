@@ -1,17 +1,19 @@
 ---
-title: "The Louisiana Oyster Festival with a Group: New Orleans' Free Riverfront Cook-Off"
-description: "How to run a big group through the Louisiana Oyster Festival — the free annual riverfront festival celebrating Gulf oysters — cooking demos, the shucking contest, and how it fits an early-summer trip."
+title: "Louisiana Oyster Festival in New Orleans: A Group Guide"
+description: "Free to enter, built around one ingredient, and held in the soft season. How a big group should work the Louisiana Oyster Festival: demos, contest, sampling."
 category: "Food & Drink"
 card_title: "Louisiana Oyster Festival"
 card_description: "A free annual riverfront festival built entirely around Gulf oysters — cooking demos, a shucking contest, and the best-value food day of the early-summer calendar."
-date: 2026-07-26
+date: 2026-10-26
 ---
 
-Most New Orleans food festivals give you a wristband and a row of booths. The Louisiana Oyster Festival gives you a riverfront park, a working shucking contest, and more ways to eat a Gulf oyster than most people knew existed. It's free to get in, it's built around one ingredient the city genuinely does better than almost anywhere else, and it lands in the part of the calendar when a big group can actually get a table without a three-hour wait.
+**Verdict: a cheap, easy food day worth anchoring a summer trip around, as long as you treat it as a tasting crawl and not a sit-down meal.** Confirm this year's dates on the official festival site; they're announced annually.
 
-Held on the riverfront near the [French Quarter](/neighborhoods/french-quarter/), the festival pairs cooking demonstrations from local chefs with an oyster-eating and shucking contest, live music, and food and craft vendors working the oyster in every direction — raw, chargrilled, fried, stewed. It typically lands in the early-summer soft-season window, which makes it one of the better festival anchors for a group trying to avoid peak-season prices and crowds.
+Most New Orleans food festivals give you a wristband and a row of booths. The Louisiana Oyster Festival gives you a riverfront park, a working shucking contest, and more ways to eat a Gulf oyster than most people knew existed. It's free to get in, it's built around one ingredient the city genuinely does better than almost anywhere else, and it lands in the soft season, when rates drop and crowds thin.
 
-If your group already knows its way around a raw bar, this is the next level up — a full day built around the thing you were going to order anyway. Here's how to work it into a trip.
+Held on the riverfront near the [French Quarter](/neighborhoods/french-quarter/), the festival pairs cooking demonstrations from local chefs with an oyster-eating and shucking contest, live music, and food and craft vendors working the oyster in every direction — raw, chargrilled, fried, stewed. It typically lands in the early-summer soft-season window (June through August is the city's value stretch), which makes it one of the better festival anchors for a group trying to avoid peak-season prices and crowds. Not sure summer is the right call? Check [the best time to visit](/guides/nola-group-best-time-to-visit-guide/) first.
+
+If your group already knows its way around a raw bar, this is the next level up — a full day built around the thing you were going to order anyway. Here's how to work it into a trip. If you're still sequencing the whole weekend, the [group trip planning hub](/guides/plan-a-group-trip/) puts the decisions in order, and the [oyster bar guide](/guides/nola-oyster-bar-guide/) covers the sit-down version for the night after.
 
 ---
 
