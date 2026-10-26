@@ -223,7 +223,7 @@ Cycling works well as a morning activity that sets up the rest of the day.
 
 Base camp location matters for cycling. You want to be in or near a neighborhood with direct access to your primary routes — or within easy reach of a rental shop.
 
-For City Park and Lafitte Greenway routes, a Bywater base — Castleday Retreats' villas, for instance — puts you adjacent to Crescent Park and connected to the river levee route without a transfer. For Garden District and Magazine Street routes, Lower Garden District options like The Syd sit one block from the St. Charles Streetcar with Magazine Street's bike infrastructure at the door. Heirloom's inventory spans both areas if neither single property fits your dates. Whichever base you pick, private pools and full kitchens (not every property has both — check before booking) mean the post-ride recovery is handled at home rather than in an Uber back to a hotel.
+For City Park and Lafitte Greenway routes, a Bywater base, such as The Mazant, puts you adjacent to Crescent Park and connected to the river levee route without a transfer. For Garden District and Magazine Street routes, Lower Garden District options sit one block from the St. Charles Streetcar with Magazine Street's bike infrastructure at the door. Heirloom's inventory spans both areas if neither single property fits your dates. Whichever base you pick, private pools and full kitchens (not every property has both — check before booking) mean the post-ride recovery is handled at home rather than in an Uber back to a hotel.
 
 For the largest selection, book 6+ months out.
 
