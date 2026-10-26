@@ -36,7 +36,7 @@ It lands in mid-November, after October's peak crowds, and it plays at a complet
 
 **The programming around it.** Beyond the cook-off, expect live music, cultural demonstrations, and food and craft vendors spread across the park. It's a full festival day, not a single-attraction event.
 
-**The scale.** Free admission, one park, walkable in full within an hour if you're not stopping to eat and listen. That makes it one of the lowest-commitment festival days on the spring calendar — easy to drop into for an afternoon rather than build an entire day around. If you are still choosing dates for the trip, the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide lays out where this weekend sits.
+**The scale.** Free admission, one park, walkable in full within an hour if you're not stopping to eat and listen. That makes it one of the lowest-commitment festival days on the fall calendar — easy to drop into for an afternoon rather than build an entire day around. If you are still choosing dates for the trip, the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide lays out where this weekend sits.
 
 | Treme Gumbo Festival | A ticketed food festival |
 |---|---|
