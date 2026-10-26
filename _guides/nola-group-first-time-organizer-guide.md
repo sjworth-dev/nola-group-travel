@@ -206,7 +206,7 @@ The trap of being the trip organizer is spending the entire trip managing logist
 
 One of the biggest logistical advantages of a single private villa over scattered hotel rooms is that you have one address, one check-in, one management relationship, and one common space where the whole group is together. For a first-time organizer, that reduction in moving parts is significant — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) walks through the full trade-off if you're still deciding.
 
-Whichever way you lean, the field spans a range of fits: Castleday Retreats has private-pool villas in the Bywater, The Syd has villas with a shared heated pool in the Lower Garden District, Heirloom has the deepest inventory of large-format homes for a short-notice booking, and a hotel room block from somewhere like The Roosevelt or Hotel Peter & Paul suits a group that wants separate keys and separate bills. Whatever you pick, for the largest selection, book 6+ months out.
+Whichever way you lean, the field spans a range of fits: The Mazant is a Bywater guesthouse that sleeps 18, The Revelry has apartment-style floors with separate billing in Central City, Heirloom has the deepest inventory of large-format homes for a short-notice booking, and a hotel room block from somewhere like The Roosevelt or Hotel Peter & Paul suits a group that wants separate keys and separate bills. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
