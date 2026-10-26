@@ -147,6 +147,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Three stages, floating spectators, very New Orleans
 - Group impact: Mid-City accommodation fills; good for neighborhood-based groups. See the [Bayou Boogaloo guide](/guides/nola-group-bayou-boogaloo-guide/) for logistics.
 
+**Louisiana Oyster Festival (early summer, confirm dates)**
+- Free riverfront festival built around Gulf oysters: cooking demos, a shucking contest, and vendors
+- Group impact: low-stress, no tickets to coordinate; the [Oyster Festival guide](/guides/nola-group-oyster-festival-guide/) covers how to sample it as a crew.
+
 ---
 
 ### July
