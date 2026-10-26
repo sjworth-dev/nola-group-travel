@@ -1,17 +1,19 @@
 ---
-title: "Treme Creole Gumbo Festival with a Group: New Orleans' Congo Square Cook-Off"
-description: "How to run a big group through the Treme Creole Gumbo Festival — the free annual gumbo cook-off and Creole culture festival in Congo Square — format, food strategy, and how it fits a spring trip."
+title: "Treme Creole Gumbo Festival: A Group Guide to the Cook-Off"
+description: "Free, walkable, and built around a real gumbo cook-off. How a big group should work the Treme Creole Gumbo Festival: timing, tasting strategy, and the history."
 category: "Food & Drink"
 card_title: "Treme Gumbo Festival"
-card_description: "A free annual gumbo cook-off and Creole culture festival in Congo Square — the tastiest, lowest-cost way to spend a spring afternoon with a group."
-date: 2026-07-26
+card_description: "A free annual gumbo cook-off and Creole culture festival in Congo Square — the tastiest, lowest-cost way to spend an autumn afternoon with a group."
+date: 2026-10-26
 ---
+
+**Verdict: the best-value food day on the calendar, as long as you taste your way through it instead of committing to the first bowl.** This year's festival is announced for November 14–15, 2026 in Armstrong Park; confirm the schedule on the official site before you lock flights.
 
 Most New Orleans food festivals ask you to pick a booth and get in line. The Treme Creole Gumbo Festival asks you to eat your way through a genuine cook-off — dozens of cooks and organizations, all making their own version of the same dish, all competing to prove theirs is right. It's free, it's in Congo Square, and it might be the single best-value food festival day the city runs.
 
 Held in [Louis Armstrong Park](/neighborhoods/treme/)'s Congo Square, the festival pairs the gumbo cook-off with broader Creole culture programming — music, cultural demonstrations, and food and craft vendors — in a setting that's historically loaded in a way few festival grounds are. Congo Square is where enslaved and free Black New Orleanians gathered on Sundays to play music and keep African traditions alive; the ground this festival happens on is part of the reason New Orleans music sounds the way it does.
 
-It typically lands in the spring high-demand window alongside the city's bigger festivals, but it plays at a completely different scale — a free, walkable, single-park event rather than a ticketed production. Here's how to work it into a group trip.
+It lands in mid-November, after October's peak crowds, and it plays at a completely different scale from the big ticketed festivals — a free, walkable, single-park event. Here's how to work it into a group trip, and how it pairs with the rest of the [festival season calendar](/guides/festival-season-calendar/).
 
 ---
 
@@ -34,7 +36,7 @@ It typically lands in the spring high-demand window alongside the city's bigger 
 
 **The programming around it.** Beyond the cook-off, expect live music, cultural demonstrations, and food and craft vendors spread across the park. It's a full festival day, not a single-attraction event.
 
-**The scale.** Free admission, one park, walkable in full within an hour if you're not stopping to eat and listen. That makes it one of the lowest-commitment festival days on the spring calendar — easy to drop into for an afternoon rather than build an entire day around.
+**The scale.** Free admission, one park, walkable in full within an hour if you're not stopping to eat and listen. That makes it one of the lowest-commitment festival days on the spring calendar — easy to drop into for an afternoon rather than build an entire day around. If you are still choosing dates for the trip, the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide lays out where this weekend sits.
 
 | Treme Gumbo Festival | A ticketed food festival |
 |---|---|
@@ -59,15 +61,15 @@ Congo Square is compact enough that a group can split toward different cooks, th
 
 A group that treats this as just a lunch stop is missing most of what makes it worth doing. Pair the festival with time in [Tremé](/neighborhoods/treme/) itself — the [Tremé culture immersion guide](/guides/nola-group-treme-culture-immersion-guide/) covers the neighborhood's history in more depth, and a group with a free afternoon can easily combine both into one day.
 
-### Treat It Like Any Outdoor Spring Festival Day
+### Treat It Like Any Outdoor Festival Day
 
-Spring in New Orleans already brings real heat and sun exposure. Water, shade, and pacing matter here the same as at any other all-day outdoor event.
+November is far kinder than summer, but Congo Square has little shade and the sun still works. Water, layers, and pacing matter here the same as at any other all-day outdoor event.
 
 ---
 
 ## Pro Tips
 
-1. **Check the current year's date before locking travel plans around it.** Like most NOLA festivals, this one moves within the spring calendar year to year.
+1. **Check the current year's date before locking travel plans around it.** It is announced for November 14–15, 2026, but confirm on the official site.
 
 2. **Bring cash.** Vendor and cook-off lines move faster with cash on hand.
 
@@ -75,7 +77,7 @@ Spring in New Orleans already brings real heat and sun exposure. Water, shade, a
 
 4. **Don't skip the history.** Congo Square's significance is a genuine part of the day, not a footnote — give the site the attention it deserves.
 
-5. **Sun protection is not optional.** This is all outdoors with limited shade, same as any other spring festival day.
+5. **Sun protection is not optional.** This is all outdoors with limited shade.
 
 6. **Combine it with a broader Tremé visit if you have the time.** The neighborhood rewards more than a single afternoon.
 
@@ -87,6 +89,6 @@ Spring in New Orleans already brings real heat and sun exposure. Water, shade, a
 
 The Treme Creole Gumbo Festival is about as low-stress as a big-group festival day gets: free admission means no ticket coordination, the footprint is small enough to split and reconvene easily, and the cook-off format gives a group something genuinely fun to argue about over the rest of the trip. It's also one of the few festival days that doubles as a real history lesson without anyone having to sit through a lecture.
 
-The trip-level logistics are the same as any other spring week in New Orleans — this sits inside the city's high season, and large-format properties and hotel blocks fill up on the same clock as every other spring event. For the largest selection, book 6+ months out.
+Large-format properties and hotel blocks fill on the same clock all year, and fall is high season. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
