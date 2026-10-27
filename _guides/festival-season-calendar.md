@@ -201,8 +201,8 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Smaller than Jazz Fest but significant for music groups
 - Group impact: Mid-City and City Park area books fast — for the largest selection, book 6+ months out. The [Voodoo Fest guide](/guides/nola-voodoo-fest-guide/) covers tickets, camping-adjacent logistics, and pairing it with Halloween week.
 
-**New Orleans Film Festival (mid-October)**
-- Independent films screened across the city
+**New Orleans Film Festival (late October)**
+- Independent films screened across the city; see the [film festival guide](/guides/nola-group-film-festival-guide/) for how to work it into a group trip
 - Minimal crowd disruption
 - Group impact: Negligible on accommodation pricing or logistics
 
