@@ -2013,3 +2013,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-27 UTC — seo: interlink `festival-season-calendar.md` to the film festival guide.
 2026-10-27 UTC — fix: property balance sweep — `nola-group-booze-cruise-guide.md`, `nola-group-bourbon-street-cocktail-tour-guide.md`, `nola-group-brass-band-bar-crawl-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-27 UTC — backlog: no changes; Up Next left empty (ROADMAP's human-gated rule overrides the runner prompt's backlog-generation step).
+2026-10-27 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-27 UTC (second run) — expand: refresh `nola-group-celebration-in-the-oaks-guide.md` (oldest, 2026-07-27) — verdict-first opener, shorter title/description, late-November opening note, best-time/planning-hub/family-reunion/Mid-City links, bumped date.
+2026-10-27 UTC (second run) — seo: interlink `festival-season-calendar.md` to the Celebration in the Oaks guide.
+2026-10-27 UTC (second run) — fix: property balance sweep — `nola-group-day-two-slump-guide.md`, `nola-group-departure-day-guide.md`, `nola-group-film-location-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry used).
+2026-10-27 UTC (second run) — backlog: no changes; Up Next left empty.
