@@ -1,11 +1,13 @@
 ---
-title: "New Orleans Film Festival with a Group: The Planning Guide"
-description: "How to run a big group through the New Orleans Film Festival — a mid-October run of independent film screenings across city venues. Ticketing, venue-hopping, and how it fits a peak-season October trip."
+title: "New Orleans Film Festival with a Group: Worth It?"
+description: "Worth it for a big group? Yes, as a half-day break, not a centerpiece. How the late-October film festival works: tickets, venues, and splitting the crew."
 category: "Festivals & Events"
 card_title: "New Orleans Film Festival"
-card_description: "A mid-October week of independent film screenings across city venues — the quiet, indoor counterpart to October's outdoor festival calendar."
-date: 2026-07-27
+card_description: "A late-October week of independent film screenings across city venues — the quiet, indoor counterpart to October's outdoor festival calendar."
+date: 2026-10-27
 ---
+
+**Verdict: worth it as a half-day for the film-minded half of your crew, not as the trip's centerpiece.** Skip it if only two people are excited.
 
 October in New Orleans is loud. Voodoo Fest fills City Park, Halloween takes over the Quarter, and the whole city is running on peak-season energy. The New Orleans Film Festival is the quiet one in the mix — a week of independent film screenings spread across theaters and venues around town, built for sitting in a dark room instead of standing in a crowd.
 
@@ -28,7 +30,7 @@ It's not a fit for every crew — this only works if enough of the group actuall
 
 ## What the Festival Actually Is
 
-The New Orleans Film Festival runs for about a week in mid-October, screening independent films — features, shorts, documentaries — across a handful of venues around the city rather than one dedicated festival ground.
+The New Orleans Film Festival runs for about a week in late October (the 2026 run is announced for October 22–27; confirm on the official site), screening independent films — features, shorts, documentaries — across a handful of venues around the city rather than one dedicated festival ground.
 
 **The lineup.** A mix of independent film from around the country and world, with a meaningful concentration of Louisiana-made and Louisiana-set work given the film festival's roots and the state's production-tax-credit-driven industry. Expect features, shorts blocks, and documentaries, not just one format.
 
@@ -54,7 +56,7 @@ October is New Orleans' single busiest month — Voodoo Fest, Halloween in the Q
 | Weather exposure | None | Full October sun/heat during the day |
 | Booking pressure | Moderate, screening-by-screening | High, event-wide |
 
-Neither replaces the other. A group that pairs one film festival afternoon with the rest of an October trip's outdoor events gets a real reset built in, rather than five straight days of standing in crowds.
+Neither replaces the other. For the loud side, the [Voodoo Fest guide](/guides/nola-voodoo-fest-guide/) and [Halloween guide](/guides/halloween-guide/) cover what the film crowd is skipping, and the [best-time-to-visit guide](/guides/nola-group-best-time-to-visit-guide/) explains why October is peak, not shoulder. A group that pairs one film festival afternoon with the rest of an October trip's outdoor events gets a real reset built in, rather than five straight days of standing in crowds.
 
 ---
 
@@ -62,7 +64,7 @@ Neither replaces the other. A group that pairs one film festival afternoon with 
 
 ### Split Honestly by Actual Interest
 
-This isn't an event where the whole group needs to attend together. Some members will want a full afternoon of back-to-back screenings; others would rather spend that time on [Magazine Street](/neighborhoods/garden-district/) or at the villa. Let the film-interested subset build their own mini-schedule and reconvene with the rest of the group for dinner.
+This isn't an event where the whole group needs to attend together. Some members will want a full afternoon of back-to-back screenings; others would rather spend that time on [Magazine Street](/neighborhoods/garden-district/) or at the villa. Let the film-interested subset (and if the trip itself is still a rough idea, the [planning hub](/guides/plan-a-group-trip/) sequences the decisions) build their own mini-schedule and reconvene with the rest of the group for dinner.
 
 ### Buy Tickets to Specific Blocks, Not a Vague Plan
 
