@@ -249,7 +249,7 @@ This doesn't need to be orchestrated. But it does need to not be completely impr
 
 The best departure morning is one where you don't want to leave — which means the property made that possible.
 
-The field runs wide. Castleday Retreats' Bywater villas give a group a full kitchen for the last coffee and a courtyard where people can sit at their own pace without being on top of each other while they pack. The Syd's Lower Garden District villas are centrally located — within easy range of the French Quarter for a final morning walk, with a shared outdoor space that suits a slow last morning. Hotel room blocks (The Roosevelt, Hotel Peter & Paul, and similar) simplify checkout further, since each guest owns their own key and bill. Whatever you pick, for the largest selection, book 6+ months out.
+The field runs wide. The Mazant, a Bywater guesthouse sleeping 18, gives a group one house to pack up at their own pace. The Revelry's apartment-style floors in Central City let each crew pack and check out on its own clock. Hotel room blocks (The Roosevelt, Hotel Peter & Paul, and similar) simplify checkout further, since each guest owns their own key and bill. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
