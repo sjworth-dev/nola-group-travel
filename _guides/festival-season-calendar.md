@@ -236,7 +236,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 ### December
 
-**Celebration in the Oaks (December — City Park)**
+**Celebration in the Oaks (late November–December — City Park)** — [group guide](/guides/nola-group-celebration-in-the-oaks-guide/)
 - Massive holiday light display at City Park
 - Very family-friendly; great for multigenerational groups
 - Group impact: Minimal accommodation disruption; good evening add-on

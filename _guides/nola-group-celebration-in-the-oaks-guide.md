@@ -1,15 +1,17 @@
 ---
-title: "Celebration in the Oaks with a Group: The City Park Holiday Lights Guide"
-description: "How to plan a group visit to Celebration in the Oaks, City Park's annual holiday light display running through December. Format, ticketing approach, and how it works for a multigenerational group."
+title: "Celebration in the Oaks with a Group: Holiday Lights Guide"
+description: "Celebration in the Oaks is the one December night that works for grandparents, toddlers, and adults alike. How to fit the City Park lights into a group trip."
 category: "Friends & Family"
 card_title: "Celebration in the Oaks"
 card_description: "City Park's annual holiday light display, running through December. A low-key, multigenerational-friendly evening anchor for a December group trip."
-date: 2026-07-27
+date: 2026-10-27
 ---
 
-Most of this site is built around events that ask something of your group — standing in a crowd, drinking through the afternoon, chasing a parade route. Celebration in the Oaks doesn't ask much of anyone. It's a holiday light display spread across City Park, running through December, and it's one of the few things in New Orleans that works equally well for a grandparent, a toddler, and a group of adults who just want a quiet, pretty evening between louder days.
+**Verdict: go, and make it the easy night.** Celebration in the Oaks is the least demanding thing on a New Orleans group calendar, and that is the point.
 
-That's the actual case for it. A December trip to New Orleans already has a strong anchor in [Reveillon dinners](/guides/nola-group-reveillon-dinner-guide/) and the holiday food scene covered in the [holiday gathering guide](/guides/holiday-gathering/), but those are dinner-table events. Celebration in the Oaks is the walk-around, low-commitment evening that fills the gap between them — especially for a multigenerational group where not everyone wants a late night out.
+Most of this site is built around events that ask something of your group — standing in a crowd, drinking through the afternoon, chasing a parade route. Celebration in the Oaks doesn't ask much of anyone. It's a holiday light display spread across City Park, typically opening in late November and running through December (the official City Park site sets the exact dates), and it's one of the few things in New Orleans that works equally well for a grandparent, a toddler, and a group of adults who just want a quiet, pretty evening between louder days.
+
+That's the actual case for it. If you're still choosing the month, the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) covers how December compares, and the [group trip planning hub](/guides/plan-a-group-trip/) sequences the rest. A December trip to New Orleans already has a strong anchor in [Reveillon dinners](/guides/nola-group-reveillon-dinner-guide/) and the holiday food scene covered in the [holiday gathering guide](/guides/holiday-gathering/), but those are dinner-table events. Celebration in the Oaks is the walk-around, low-commitment evening that fills the gap between them — especially for a multigenerational group where not everyone wants a late night out.
 
 Here's how it actually works and how to fit it into a group's December week.
 
@@ -22,7 +24,7 @@ Here's how it actually works and how to fit it into a group's December week.
 - [ ] Buy tickets in advance for a weekend evening; midweek is generally the easier walk-up option
 - [ ] Dress for a December evening walk — Louisiana winter evenings are cool, not cold, but you're outside for a while
 - [ ] Treat it as a 90-minute-to-2-hour evening activity, not a full night out
-- [ ] Pair it with a nearby Mid-City dinner before or after rather than trying to eat inside the display footprint
+- [ ] Pair it with a nearby Mid-City dinner before or after rather than trying to eat inside the display footprint ([Mid-City](/neighborhoods/mid-city/) is the natural dinner base)
 
 ---
 
@@ -58,7 +60,7 @@ A group doesn't need to choose one lane for the whole trip. Celebration in the O
 
 ### Use It as the Multigenerational Night
 
-If your December trip mixes generations — a family reunion, a milestone trip with parents along — this is the event that doesn't require splitting the group by energy level or drinking preference. Nobody needs a plan B for the kids or the grandparents; it's built for everyone to do together.
+If your December trip mixes generations — a [family reunion](/guides/family-reunion/), a milestone trip with parents along — this is the event that doesn't require splitting the group by energy level or drinking preference. Nobody needs a plan B for the kids or the grandparents; it's built for everyone to do together.
 
 ### Buy Tickets for a Specific Evening
 
