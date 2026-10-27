@@ -2008,3 +2008,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-26 UTC (second run) — seo: interlink `festival-season-calendar.md` to the Treme Gumbo Festival guide.
 2026-10-26 UTC (second run) — fix: property balance sweep — `nola-group-airboat-deep-dive-guide.md`, `nola-group-bike-tour-guide.md`, `nola-group-birthday-trip-guide.md` (Castleday/Syd removed; Mazant/Natchez/Revelry used).
 2026-10-26 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-27 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-27 UTC — expand: refresh `nola-group-film-festival-guide.md` (oldest, 2026-07-27) — verdict-first opener, corrected mid→late October timing (announced Oct 22–27, 2026), shorter title/description, Voodoo/Halloween/best-time/planning-hub links, bumped date.
+2026-10-27 UTC — seo: interlink `festival-season-calendar.md` to the film festival guide.
+2026-10-27 UTC — fix: property balance sweep — `nola-group-booze-cruise-guide.md`, `nola-group-bourbon-street-cocktail-tour-guide.md`, `nola-group-brass-band-bar-crawl-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-27 UTC — backlog: no changes; Up Next left empty (ROADMAP's human-gated rule overrides the runner prompt's backlog-generation step).
