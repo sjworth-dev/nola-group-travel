@@ -1,6 +1,6 @@
 ---
 title: "The Thursday-to-Sunday New Orleans Bachelorette Itinerary"
-description: "A Thursday-to-Sunday New Orleans bachelorette itinerary: drag brunch, Frenchmen Street, one Bourbon night, and a Sunday landing. Hour by hour, with stale intel flagged."
+description: "A Thursday-to-Sunday New Orleans bachelorette itinerary: drag brunch, Frenchmen Street, one Bourbon night, and a soft Sunday landing. Stale intel flagged."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Weekend Itinerary"
 card_description: "Thursday to Sunday, hour by hour — drag brunch, Frenchmen Street, one Bourbon night, and the landing."
