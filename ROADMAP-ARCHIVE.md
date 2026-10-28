@@ -2023,3 +2023,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-28 UTC — seo: interlink `bachelorette-day-drinking-itinerary.md` to the bachelorette weekend itinerary.
 2026-10-28 UTC — fix: property balance sweep — `nola-group-final-night-guide.md`, `nola-group-first-night-structure-guide.md`, `nola-group-fishing-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-28 UTC — backlog: no changes; Up Next left empty (ROADMAP's human-gated rule overrides the runner prompt's backlog-generation step).
+2026-10-28 UTC (second run) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-28 UTC (second run) — expand: refresh `day-trips.md` (oldest, 2026-07-27) — verdict-first opener, shorter title/description, removed unverifiable restaurant names/prices/drive times, planning-hub/first-timer/swamp/kayak/charter links, bumped date.
+2026-10-28 UTC (second run) — seo: interlink `itinerary-5-day.md` to the day trips and swamp tour guides.
+2026-10-28 UTC (second run) — fix: property balance sweep — `nola-group-french-quarter-at-night-guide.md`, `nola-group-ghost-tour-booking-guide.md`, `nola-group-heritage-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-28 UTC (second run) — backlog: no changes; Up Next left empty.
