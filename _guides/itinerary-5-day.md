@@ -133,6 +133,8 @@ Preservation Hall if you have tickets — traditional jazz in a tiny room, unfor
 
 Saturday is the day you either leave the city or go deeper into it.
 
+If you want more than a swamp or a plantation, the [day trips guide](/guides/day-trips/) covers Cajun Country, the Gulf Coast, and the charter-van math, and the [swamp tour guide](/guides/nola-swamp-tour-guide/) picks the boat.
+
 ### Option A: Swamp Tour
 
 20-45 minutes outside the city to the boat landing, then 1.5-2 hours on the water. Alligators, cypress, Spanish moss, genuine wilderness a half-hour from downtown. Book ahead, private charter if your group's size warrants it, back by mid-afternoon.
