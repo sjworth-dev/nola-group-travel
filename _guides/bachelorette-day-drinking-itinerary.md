@@ -7,7 +7,7 @@ card_description: "Hour-by-hour itinerary for the whole crew: Bloody Mary brunch
 date: 2026-08-07
 ---
 
-The bachelorette day-drinking day is its own art form. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal: full energy at 10pm when the real night starts. This itinerary assumes you've already worked through the broader [bachelorette party guide](/guides/bachelorette-party/) for the rest of the weekend — this page is just the one day, hour by hour.
+The bachelorette day-drinking day is its own art form. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal: full energy at 10pm when the real night starts. This itinerary assumes you've already worked through the broader [bachelorette party guide](/guides/bachelorette-party/) for the rest of the weekend, or the [Thursday-to-Sunday bachelorette itinerary](/guides/bachelorette-weekend/) for the full arc — this page is just the one day, hour by hour.
 
 This is the schedule that works. It's been battle-tested in a city that was specifically designed for this kind of day.
 
