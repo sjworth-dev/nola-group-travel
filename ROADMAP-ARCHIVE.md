@@ -2018,3 +2018,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-27 UTC (second run) — seo: interlink `festival-season-calendar.md` to the Celebration in the Oaks guide.
 2026-10-27 UTC (second run) — fix: property balance sweep — `nola-group-day-two-slump-guide.md`, `nola-group-departure-day-guide.md`, `nola-group-film-location-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry used).
 2026-10-27 UTC (second run) — backlog: no changes; Up Next left empty.
+2026-10-28 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-28 UTC — expand: refresh `bachelorette-weekend.md` (oldest, 2026-07-27) — dropped unverifiable "every venue verified 2026" claims, shorter description, bridesmaids typo, added bachelor/bachelorette comparison and festival-guide links, bumped date.
+2026-10-28 UTC — seo: interlink `bachelorette-day-drinking-itinerary.md` to the bachelorette weekend itinerary.
+2026-10-28 UTC — fix: property balance sweep — `nola-group-final-night-guide.md`, `nola-group-first-night-structure-guide.md`, `nola-group-fishing-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-28 UTC — backlog: no changes; Up Next left empty (ROADMAP's human-gated rule overrides the runner prompt's backlog-generation step).
