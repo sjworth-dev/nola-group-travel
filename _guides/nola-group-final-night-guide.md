@@ -206,7 +206,7 @@ This is for a trip with noon or later departures.
 
 ## The Right Place to End It
 
-The goodbye moment works best in a space that belongs entirely to your group — a private courtyard beats a hotel lobby every time. Castleday Retreats (Bywater villas, private pool per villa) puts that last morning in the Bywater, close to Frenchmen Street and a range of last-night dinner options. The Syd (Lower Garden District villas, shared heated pool) sits a block from the St. Charles Streetcar, which gets an early-departure contingent moving toward the airport corridor while the late group keeps the courtyard to themselves. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look too if your dates are still moving. None of these is a booking recommendation — pick by fit.
+The goodbye moment works best in a space that belongs entirely to your group — a private courtyard beats a hotel lobby every time. The Mazant (an 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa) puts that last morning near Frenchmen Street and a range of last-night dinner options. The Revelry (Central City apartment-style floors with a saltwater pool) suits a crew that wants to split into floors for the early-departure and late-checkout contingents. Heirloom's large-format homes are worth a look too if your dates are still moving. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 

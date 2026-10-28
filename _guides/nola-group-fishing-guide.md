@@ -201,7 +201,7 @@ Offshore is the full-day commitment. Budget nothing else for that day.
 
 After a 5am departure, you need a home base worth coming back to. That means a kitchen for a fish fry, a pool for the afternoon, and space for the whole group to gather.
 
-**Editorial examples of what fits:** Castleday Retreats runs private villas in the [Bywater](/neighborhoods/bywater/), each with a full kitchen and private pool — good for cooking the catch and recovering afterward, close to the neighborhood's own bar and restaurant scene for the evening. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), has a shared heated pool and hot tub one block from the St. Charles Streetcar. Heirloom's larger inventory of large-format homes is worth checking for a group that books late, and a hotel room block works when the crew wants separate keys and bills. Confirm kitchen setup and amenities directly with any property before you plan the fish fry around it — don't book on an assumption.
+**Editorial examples of what fits:** The Mazant, an 1880s guesthouse in the [Bywater](/neighborhoods/bywater/) that sleeps 18, has a heated pool and spa for recovering after a long day on the water, and the neighborhood's own bar and restaurant scene is close for the evening. Heirloom's larger inventory of large-format homes is worth checking for a group that books late, and a hotel room block works when the crew wants separate keys and bills. Confirm kitchen setup and amenities directly with any property before you plan the fish fry around it — don't book on an assumption.
 
 For the largest selection, book 6+ months out.
 

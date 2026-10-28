@@ -166,7 +166,7 @@ The villa arrival moment is concrete: a shared front door, a shared living room,
 
 The late-night taper is also easier. When home is a shared villa, calling the end of night one means walking ten minutes and arriving somewhere that still has group energy — people on the porch, the card game starting, the kitchen running. The night doesn't have to end in a hotel lobby. It just shifts modes.
 
-Properties like The Mazant in the Bywater and The Syd in the Lower Garden District are both designed around groups that spend real time at the base — not just rooms, but full communal infrastructure. Both put you in walkable neighborhoods where the orientation walk is actually interesting.
+Properties like The Mazant in the Bywater and The Revelry in Central City are both designed around groups that spend real time at the base — not just rooms, but shared pool space and room to gather. Pick by how far you want the orientation walk to go; neither is a recommendation over the other.
 
 For the largest selection, book 6+ months out.
 
