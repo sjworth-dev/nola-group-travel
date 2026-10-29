@@ -1,13 +1,15 @@
 ---
-title: "French Quarter Festival: Group Guide"
-description: "How to plan a large group trip around French Quarter Festival — New Orleans' free music festival every April. What it is, how it differs from Jazz Fest, and how to make it work for the whole crew."
+title: "French Quarter Festival: Free, Huge, Worth It for a Group"
+description: "French Quarter Fest is free, local, and easier to run with a big group than Jazz Fest. Announced 2027 dates, stage strategy, and a 4-day plan."
 category: "Festivals & Events"
 card_title: "French Quarter Festival"
 card_description: "New Orleans' free music festival every April. How it's different from Jazz Fest and how to do it right with a large group."
-date: 2026-07-27
+date: 2026-10-29
 ---
 
-French Quarter Festival runs every April and it's one of the best-kept secrets in American music festivals — though at this point, the secret is largely out. Free to attend, spread across multiple stages throughout the French Quarter, and featuring an almost entirely local lineup, it's the festival that New Orleans residents actually love.
+**Verdict: if your crew wants New Orleans music without ticket logistics, this beats Jazz Fest for a big group.** The 2027 festival is announced for April 8–11 (Thursday through Sunday); confirm on the official site before you book anything.
+
+French Quarter Festival is one of the best-kept secrets in American music festivals — though at this point, the secret is largely out. Free to attend, spread across multiple stages throughout the French Quarter, and featuring an almost entirely local lineup, it's the festival that New Orleans residents actually love.
 
 [Jazz Fest](/guides/jazz-fest-group-guide/) gets the global attention and the headliners. French Quarter Fest is where you go to see what New Orleans music actually sounds like on its best day, without paying a $150 ticket to do it. Both sit inside the city's spring peak stretch — see the [festival season calendar](/guides/festival-season-calendar/) for how the two line up against Mardi Gras and the rest of the season.
 
@@ -17,7 +19,7 @@ For large groups, it's a genuinely great option: no single venue to coordinate a
 
 - Book accommodations well ahead — April is peak season in New Orleans; for the largest selection, book 6+ months out
 - Make dinner reservations before you arrive (restaurants fill during FQF)
-- Download the festival app or check the schedule when it's announced — usually February/March
+- Check the official schedule when it's released and screenshot it for the group chat
 - Identify 2-3 must-see acts per day and leave the rest unstructured
 - Wear good walking shoes; you'll cover several miles per day
 - Have a group meeting spot that isn't "in front of the stage"
@@ -27,12 +29,12 @@ For large groups, it's a genuinely great option: no single venue to coordinate a
 
 ## What French Quarter Festival Actually Is
 
-FQF runs for four days — typically the second full weekend of April (Thursday through Sunday). The festival is produced by the French Quarter Festival Inc., a local nonprofit.
+FQF runs for four days in April, Thursday through Sunday. The 2027 dates are announced as April 8–11. It is produced by a local nonprofit.
 
 **The basics:**
 
 - Admission: Free
-- Stages: Roughly a dozen, spread throughout the French Quarter and riverfront
+- Stages: Many, spread throughout the French Quarter and riverfront
 - Music: Almost exclusively local and Louisiana artists
 - Attendance: Several hundred thousand over the four days
 - Food: Festival food vendors throughout, plus all French Quarter restaurants open and doing brisk business
@@ -48,9 +50,9 @@ This comparison matters because many people assume French Quarter Fest is a smal
 
 | Factor | French Quarter Fest | Jazz Fest |
 |--------|--------------------|-----------| 
-| Cost | Free | $100-150/day |
+| Cost | Free | Ticketed (check current prices) |
 | Location | French Quarter, riverfront | Fairgrounds racetrack |
-| Scale | City-wide, 12+ stages | Festival grounds, 12 stages |
+| Scale | City-wide, many stages | Festival grounds, many stages |
 | Artist lineup | Local and Louisiana focus | National/international headliners |
 | Vibe | Block party energy | Music festival energy |
 | Food | Quarter restaurants + vendors | Famous festival food |
@@ -58,17 +60,17 @@ This comparison matters because many people assume French Quarter Fest is a smal
 | Logistics for groups | Easier (no entrance, no tickets) | More complex (tickets, transportation) |
 | Best for | Local music discovery, easy days | Bucket-list headliners, full festival experience |
 
-Neither is better. They're different experiences. Some people do both (the two overlap some years; check dates). If your group's goal is to see big-name headliners, the [Jazz Fest group guide](/guides/jazz-fest-group-guide/) is the move. If the goal is to absorb the best of New Orleans music in the places where New Orleans music actually lives, FQF wins.
+Neither is better. They're different experiences. Some people do both — in 2027 they land two weekends apart (Jazz Fest is announced for April 22–25), so a longer trip can cover both. The [festival season calendar](/guides/festival-season-calendar/) shows how they stack. If your group's goal is to see big-name headliners, the [Jazz Fest group guide](/guides/jazz-fest-group-guide/) is the move. If the goal is to absorb the best of New Orleans music in the places where New Orleans music actually lives, FQF wins.
 
 ---
 
 ## The Music
 
-The FQF lineup is announced roughly 6-8 weeks before the festival. The format is always the same: 8-15 acts per stage per day across all four days, with virtually no names that aren't from Louisiana.
+The lineup is typically announced in the weeks before the festival, with a heavy Louisiana-artist focus across all four days.
 
 **Genres you'll encounter:**
 
-- Traditional jazz and Dixieland (Preservation Hall Jazz Band is a frequent presence)
+- Traditional jazz and Dixieland 
 - Contemporary jazz
 - New Orleans funk and R&B
 - Zydeco
@@ -94,11 +96,9 @@ Stages are clustered in a few main areas. Understanding the geography helps you 
 
 **Jackson Square / St. Ann Street** — The heart of the Quarter. Often hosts jazz and traditional acts.
 
-**Bourbon Street Stage** — Yes, there's a stage on Bourbon. Best experienced briefly; don't plant your flag here for the day.
-
 **French Market Stage** — Lower Quarter, near the market. Good for Zydeco and folk acts.
 
-**Other stages** — Scattered throughout the Quarter; check the festival map for the current year.
+**Other stages** — Scattered throughout the Quarter, and the footprint shifts by year; check the official map before you pick a rally point.
 
 **For large groups:** The riverfront stages are the best anchors. Wide open space, easier to stay together, and you can set up a meeting spot that isn't "in front of the left speaker."
 
@@ -157,7 +157,7 @@ FQF is four days. You don't need to spend all four days in the French Quarter.
 - Dinner at a restaurant with a reservation (plan this)
 - [Frenchmen Street](/guides/nola-group-french-quarter-at-night-guide/) for live music that keeps going after FQF stages go dark
 - Bar hop through the [Bywater](/neighborhoods/bywater/)
-- Late night at Preservation Hall (smaller, intimate, tickets required but usually available)
+- A late set at a small jazz room, where tickets are usually required — check ahead
 
 The festival is part of the trip, not the entire trip. Groups that treat it that way have a dramatically better experience than groups that try to spend every daylight hour at the stages.
 
@@ -193,7 +193,7 @@ The festival is part of the trip, not the entire trip. Groups that treat it that
 | Morning | Magazine Street or Garden District walk |
 | 1 PM | Festival for headliner acts (Saturday usually best lineup) |
 | 4-7 PM | Festival and river walk |
-| 8 PM | Big dinner — the nice one you reserved 3 weeks ago |
+| 8 PM | Big dinner — the nice one you reserved weeks ago |
 | After dinner | Your call |
 
 ### Sunday: Wind Down
@@ -211,7 +211,7 @@ The festival is part of the trip, not the entire trip. Groups that treat it that
 
 ### Timing
 
-Book everything as early as possible. April is one of New Orleans' busiest months — French Quarter Fest, the weather is excellent, and the tourism season is in full swing.
+Book everything as early as possible. April sits inside New Orleans' February-through-May peak stretch — festival crowds, good weather, full pricing.
 
 **Accommodation:** Large-format properties and hotel blocks fill up early for April — see the booking note below.
 **Restaurants:** Book as soon as your dates are set; Quarter restaurants fill fast during FQF.
@@ -235,7 +235,7 @@ The French Quarter is walkable from almost any city-center accommodation. You do
 
 3. **Never try to move the whole crew through Bourbon Street at 3 PM during FQF.** Just don't. Bourbon is worse than usual during the festival.
 
-4. **Make dinner reservations before you leave home.** French Quarter restaurants fill during FQF. Locals and visitors both know it. Don't assume you can walk in.
+4. **Make dinner reservations before you leave home.** French Quarter restaurants fill during FQF. Don't assume you can walk in.
 
 5. **The river is underrated.** Woldenberg Park and the Moonwalk along the Mississippi are some of the best spots to hear music at FQF while having room to breathe. Go there.
 
@@ -255,7 +255,7 @@ A [Bywater](/neighborhoods/bywater/) house such as The Mazant puts you close eno
 
 ## Go This April
 
-Planning the rest of the year's dates? The [festival season calendar](/guides/festival-season-calendar/) lays them out, and the [planning hub](/guides/plan-a-group-trip/) sequences the decisions.
+Deciding between this and the ticketed festival? The [first-timer guide](/guides/first-timer-guide/) and [best time to visit](/guides/nola-group-best-time-to-visit-guide/) help frame it. Planning the rest of the year's dates? The [festival season calendar](/guides/festival-season-calendar/) lays them out, and the [planning hub](/guides/plan-a-group-trip/) sequences the decisions.
 
 French Quarter Festival doesn't require a lot of planning. It rewards being present. Show up in the French Quarter, follow your ears, eat well, and stay until the music stops.
 
