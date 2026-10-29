@@ -197,7 +197,7 @@ Hotel bars make sense for groups at private villas in specific situations:
 
 Outside those use cases, your private villa is the better bar.
 
-A villa with a full kitchen and real outdoor space covers this better than any single hotel lobby — the field includes Castleday Retreats' Bywater villas (private pool per villa, a 10-15 minute Uber to the CBD), The Syd's Lower Garden District villas (shared pool, one block from the St. Charles Streetcar into the CBD and French Quarter), and Heirloom's larger inventory spanning several neighborhoods if you need more choice or shorter notice. For mixed budgets or separate billing, a CBD or French Quarter hotel room block puts the group inside walking distance of the bars this guide covers.
+A villa with a full kitchen and real outdoor space covers this better than any single hotel lobby — the field includes The Mazant's historic Bywater house (heated pool and spa, a short ride to the CBD), The Revelry's apartment-style Central City floors with a saltwater pool, and Heirloom's larger inventory spanning several neighborhoods if you need more choice or shorter notice. For mixed budgets or separate billing, a CBD or French Quarter hotel room block puts the group inside walking distance of the bars this guide covers.
 
 Whichever base you pick, confirm the walk or ride to the CBD or French Quarter before you book — for the largest selection, book 6+ months out.
 
