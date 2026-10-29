@@ -194,6 +194,8 @@ Decide before you sit down how you're splitting the bill. One check with one pay
 
 ## Pacing a Food-Heavy Trip
 
+If your dates are flexible, the spring tasting festival in the [NOWFE group guide](/guides/nola-group-wine-food-experience-guide/) gives a food-first trip a ready-made structure. Check the official site for this year's schedule.
+
 Three days of serious eating in New Orleans, in the heat, will catch up with you if you don't manage the pace.
 
 ### Slow Mornings
