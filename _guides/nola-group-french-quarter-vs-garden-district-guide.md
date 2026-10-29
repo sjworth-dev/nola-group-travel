@@ -95,7 +95,7 @@ The choice between Bywater and LGD is really the underlying choice you've been t
 
 **Lower Garden District** sits one block from the St. Charles Streetcar, between the CBD and the Garden District proper. It has the quieter, residential feel of its upriver neighbor with faster access to downtown. Groups based here are on the Garden District side of the city.
 
-**On the FQ side,** Bywater options include The Mazant (an 1880s guesthouse sleeping 18 with a heated pool and spa) and Castleday Retreats' larger villas. **On the GD side,** The Revelry offers apartment-style floors with separate billing, and Heirloom runs large-format homes across LGD and Central City.
+**On the FQ side,** Bywater options include The Mazant (an 1880s guesthouse sleeping 18 with a heated pool and spa) and The Lookout Inn for groups near a dozen. **On the GD side,** The Revelry offers apartment-style floors with separate billing, and Heirloom runs large-format homes across LGD and Central City.
 
 For the complete breakdown of how these two neighborhoods compare, the [Bywater vs. Lower Garden District deep comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) covers the full side-by-side across villa inventory, noise, walkability, and group type fit. And if you want to see all four main neighborhoods mapped against each other, the [NOLA neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) does that in one place.
 

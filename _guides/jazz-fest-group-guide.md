@@ -160,7 +160,7 @@ After a 10-hour day at the Fair Grounds, a pool and an outdoor kitchen are not l
 | Food quality | Outstanding (festival vendors) | Good, but logistics are harder |
 | Best for | Music lovers, foodies, culture seekers | People who want the full NOLA spectacle |
 
-Neither is better. They're different experiences. Many groups do both in the same year — the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) covers the parade-viewing and krewe logistics that make that trip a different planning problem entirely. If you're still nailing down which month to book at all, the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks down every month against the other.
+Neither is better. They're different experiences. If you'd rather skip the ticketing, [French Quarter Fest](/guides/french-quarter-fest/) is the free version of a New Orleans April. Many groups do both in the same year — the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) covers the parade-viewing and krewe logistics that make that trip a different planning problem entirely. If you're still nailing down which month to book at all, the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks down every month against the other.
 
 ---
 
