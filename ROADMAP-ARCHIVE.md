@@ -2043,3 +2043,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-30 UTC — seo: interlink `large-group-golf-guide.md` to the Zurich Classic spectator guide.
 2026-10-30 UTC — fix: property balance sweep — `nola-group-hotel-pool-day-guide.md`, `nola-group-jazz-brunch.md`, `nola-group-jazz-clubs-vs-music-bars-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom/Lookout Inn used).
 2026-10-30 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
+2026-10-30 13:35 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-30 13:35 UTC — expand: refresh `nola-group-new-orleans-vs-miami-guide.md` (oldest, 2026-07-28) — verdict-first opener covering both phrasings, shorter title/description, removed "groups of 10 or more" and unsupported per-person cost claim, rival-city links, bumped date.
+2026-10-30 13:35 UTC — seo: interlink `nola-group-new-orleans-vs-nashville-guide.md` to the Miami comparison.
+2026-10-30 13:35 UTC — fix: property balance sweep — `nola-group-new-orleans-vs-austin-guide.md`, `-vs-destin-guide.md`, `-vs-kansas-city-guide.md` (Castleday/Syd removed; Mazant/Heirloom used).
+2026-10-30 13:35 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
