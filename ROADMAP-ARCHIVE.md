@@ -2038,3 +2038,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-29 13:40 UTC — seo: interlink `nola-group-foodie-itinerary-guide.md` to the NOWFE guide.
 2026-10-29 13:40 UTC — fix: property balance sweep — `nola-group-hidden-bar-speakeasy-guide.md`, `nola-group-historic-bar-guide.md`, `nola-group-hotel-bar-guide.md` (Castleday/Syd removed; Mazant/Revelry/Lookout Inn/Heirloom used).
 2026-10-29 13:40 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule).
+2026-10-30 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-30 UTC — expand: refresh `nola-group-zurich-classic-guide.md` (oldest, 2026-07-27) — verdict-first opener, shorter title/description, removed unverifiable distance/field-size claims, noted 2027 dates not in calendar data, calendar/planning-hub/heat-management links, bumped date.
+2026-10-30 UTC — seo: interlink `large-group-golf-guide.md` to the Zurich Classic spectator guide.
+2026-10-30 UTC — fix: property balance sweep — `nola-group-hotel-pool-day-guide.md`, `nola-group-jazz-brunch.md`, `nola-group-jazz-clubs-vs-music-bars-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom/Lookout Inn used).
+2026-10-30 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
