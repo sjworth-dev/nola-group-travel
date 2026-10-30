@@ -137,4 +137,4 @@ That gap — a real villa built for a crowd versus a big house that happens to f
 
 ---
 
-**Comparing other cities too?** New Orleans vs [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/)
+**Comparing other cities too?** New Orleans vs [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/) · [Miami](/guides/nola-group-new-orleans-vs-miami-guide/)
