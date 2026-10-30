@@ -1,17 +1,19 @@
 ---
-title: "The Zurich Classic with a Group: A Spectator Day Guide"
-description: "How to spend a day at the Zurich Classic — the PGA Tour's team-format stop at TPC Louisiana in late April — with a group. Grounds tickets, hospitality areas, shuttle logistics, and how it pairs with the rest of a spring New Orleans trip."
+title: "Zurich Classic New Orleans: A Group Spectator Day"
+description: "The Zurich Classic is a PGA Tour team event worth one day, not a whole trip. Grounds vs. hospitality, shuttle logistics, and how to split a big group."
 category: "Activities & Day Trips"
 card_title: "Zurich Classic Spectator Day"
 card_description: "A PGA Tour stop at TPC Louisiana in late April, with a team format that plays differently than a normal Tour event. Grounds tickets, hospitality, and shuttle logistics for a group."
-date: 2026-07-27
+date: 2026-10-30
 ---
 
-New Orleans hosts an actual PGA Tour event, and most group organizers planning a spring trip don't even know it's on the calendar. The Zurich Classic runs in late April at TPC Louisiana in Avondale, and it's the Tour's only official team-format event — two-person teams playing alternate-shot and best-ball rounds instead of the usual solo stroke play. That format alone makes it worth a day for a group that would otherwise skip a golf tournament entirely.
+Verdict: give the Zurich Classic one day, not the whole trip. It's a real PGA Tour event, it plays differently than the usual solo grind, and most organizers planning a spring trip don't know it exists.
+
+The Zurich Classic runs in late April at TPC Louisiana in Avondale. It's the Tour's only official team-format event — two-person teams playing alternate-shot and best-ball rounds instead of the usual solo stroke play. That format alone makes it worth a day for a group that would otherwise skip a golf tournament entirely.
 
 This is a spectator guide, not a "your group plays golf" guide — for that, see the [large group golf guide](/guides/large-group-golf-guide/), which covers booking tee times at TPC Louisiana and elsewhere for a group that wants to play rather than watch.
 
-The Zurich Classic lands in the same stretch as [French Quarter Fest](/guides/french-quarter-fest/) and the early Jazz Fest weekend, which means a group already in town for spring's festival run can add a tournament day without rearranging the trip.
+The Zurich Classic lands in the same stretch as [French Quarter Fest](/guides/french-quarter-fest/) and [Jazz Fest](/guides/jazz-fest-group-guide/), so a group already in town for spring's festival run can add a tournament day without rearranging the trip. The [festival season calendar](/guides/festival-season-calendar/) shows how the weeks stack up, and the [planning hub](/guides/plan-a-group-trip/) covers the order to make the big decisions in.
 
 ---
 
@@ -31,11 +33,11 @@ The Zurich Classic lands in the same stretch as [French Quarter Fest](/guides/fr
 
 The Zurich Classic is a regular PGA Tour event with one structural twist: it's played as a team competition. Two-person teams play foursomes (alternate shot) one round and best ball another, which changes the rhythm of watching compared to a normal stroke-play Tour stop.
 
-**The format.** Because players compete in pairs, you'll see teams strategizing shot selection together mid-round — a different spectacle than watching one player worked through a hole alone. It also means the field is smaller than a standard 156-player event, which can make certain sightlines and group areas less crowded than you'd expect from a Tour stop.
+**The format.** Because players compete in pairs, you'll see teams strategizing shot selection together mid-round — a different spectacle than watching one player worked through a hole alone. Expect a different feel from a standard Tour stop, but check the official site for field size and course layout rather than assuming.
 
-**The venue.** TPC Louisiana is a Pete Dye design in Avondale, roughly 25 miles from the French Quarter. It's a real, water-heavy championship course — worth seeing even if your group has zero interest in golf mechanics.
+**The venue.** TPC Louisiana is a Pete Dye design in Avondale, on the west bank, a real drive from the French Quarter. It's a real, water-heavy championship course — worth seeing even if your group has zero interest in golf mechanics.
 
-**The timing.** Late April, generally the week before or overlapping with the start of Jazz Fest's first weekend. Confirm the current year's exact dates and how they land relative to other spring events before locking a trip around it.
+**The timing.** Late April, in the same stretch as the spring festival run. The 2027 dates aren't in our event calendar, so confirm them on the official tournament site and see how they land against Jazz Fest and French Quarter Fest before locking a trip around it.
 
 > Don't lock in specific ticket prices, hospitality packages, or exact dates from memory — confirm all of it on the official tournament site before buying.
 
@@ -69,7 +71,7 @@ Because the course is a real drive from the Quarter or Uptown, budget the round-
 
 ### Pair It With the Rest of Spring
 
-Late April is peak season in New Orleans — French Quarter Fest and the first Jazz Fest weekend are both in the same general window. A group building a longer spring trip can treat a Zurich Classic day as one piece of a busy week rather than the sole reason for the visit.
+Late April is peak season in New Orleans (February–May is the high-demand stretch) — French Quarter Fest and the first Jazz Fest weekend are both in the same general window. A group building a longer spring trip can treat a Zurich Classic day as one piece of a busy week rather than the sole reason for the visit.
 
 ---
 
@@ -83,7 +85,7 @@ Late April is peak season in New Orleans — French Quarter Fest and the first J
 
 4. **Don't build the whole trip around one round of golf-watching.** Pair it with the rest of a spring week — French Quarter Fest, Jazz Fest's early weekend, or a plain city day.
 
-5. **Bring shade and water regardless of ticket type.** Late April in Louisiana can already run warm, and the course has long stretches without cover.
+5. **Bring shade and water regardless of ticket type.** Late April in Louisiana can already run warm, and golf courses have long stretches without cover. The [heat management guide](/guides/nola-group-outdoor-festival-heat-management/) applies here too.
 
 6. **Let the non-golf subset opt out cleanly.** This is a good split-off activity, not a mandatory group event.
 
