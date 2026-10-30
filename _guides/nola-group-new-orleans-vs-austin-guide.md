@@ -64,7 +64,7 @@ Austin's short-term rental scene for large groups skews toward big suburban hous
 
 New Orleans has a more developed purpose-built large-group villa market, concentrated in the Bywater and the Lower Garden District. These are properties designed specifically for the whole crew — private or shared pools, full kitchens, a real home base rather than a big house that happens to sleep a lot of people. The [Bywater vs. LGD comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down how those two neighborhoods differ for a group choosing between them.
 
-**Editorial examples of what that inventory looks like:** Castleday Retreats operates villas in the Bywater, each with a private pool. Heirloom's inventory of large-format homes runs through the Lower Garden District and Central City, dozens of properties deep, which matters if you're booking on shorter notice. Neither is a booking recommendation here — they're representative of the kind of purpose-built inventory New Orleans has that Austin's more spread-out, regulation-tightened rental market doesn't match at the same scale.
+**Editorial examples of what that inventory looks like:** The Mazant is a historic Bywater guesthouse that sleeps 18 with a heated pool and spa. Heirloom's inventory of large-format homes runs through the Lower Garden District and Central City, dozens of properties deep, which matters if you're booking on shorter notice. Neither is a booking recommendation here — they're representative of the kind of purpose-built inventory New Orleans has that Austin's more spread-out, regulation-tightened rental market doesn't match at the same scale.
 
 ---
 
