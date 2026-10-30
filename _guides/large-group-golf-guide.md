@@ -28,7 +28,7 @@ If golf is on the agenda for your group trip, this is not the place to half-comm
 
 ### TPC Louisiana
 
-The premier course in the region. Host of the PGA Tour's Zurich Classic of New Orleans every spring — a legitimate, world-class course that hosts real professional golf.
+The premier course in the region. Host of the PGA Tour's Zurich Classic of New Orleans every spring (watching it instead of playing? see the [Zurich Classic spectator guide](/guides/nola-group-zurich-classic-guide/)) — a legitimate, world-class course that hosts real professional golf.
 
 **What you get:** 7,500-yard Pete Dye design. Bermuda fairways, water everywhere, the kind of layout that reminds you what serious golf looks like. It's not punishing for recreational players but it is unmistakably a championship facility.
 
