@@ -175,6 +175,6 @@ The pool is the correct afternoon activity for the people who left early. Not an
 
 Day two of Jazz Fest goes better with the right base camp. At full headcount, that means a private villa with a pool, a real kitchen, and space to disperse when people are ready to stop being around each other.
 
-Properties like Castleday Retreats in the [Bywater](/neighborhoods/bywater/) put the group within Uber range of the fairgrounds and walking distance of the Marigny's evening corridor — which means the people who left early are home and recovered by the time the full-day group returns. Properties like The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) add the St. Charles Streetcar connection, which can function as a transit option for getting to and from Uptown neighborhoods between Jazz Fest days.
+Properties like The Mazant in the [Bywater](/neighborhoods/bywater/) put the group within Uber range of the fairgrounds and walking distance of the Marigny's evening corridor — which means the people who left early are home and recovered by the time the full-day group returns. Apartment-style floors like The Revelry in Central City, or downtown hotel room blocks, keep the group close to transit and rideshare pickup between Jazz Fest days.
 
 [See where to stay for large groups →](/where-to-stay/)
