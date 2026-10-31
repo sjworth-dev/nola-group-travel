@@ -2053,3 +2053,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-31 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the Creole Tomato Festival guide.
 2026-10-31 UTC — fix: property balance sweep — `nola-group-jazz-fest-camping-alternative-guide.md`, `nola-group-jazz-fest-day-two-pivot-guide.md`, `nola-group-jazz-fest-survival-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-10-31 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
+2026-10-31 13:10 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-31 13:10 UTC — expand: refresh `nola-group-freret-street-festival-guide.md` (oldest, 2026-07-28) — verdict-first opener, shorter title/description, trimmed unverifiable "decade and a half" claim, planning-hub link, bumped date.
+2026-10-31 13:10 UTC — seo: interlink `french-quarter-fest.md` to the Freret Street Festival guide.
+2026-10-31 13:10 UTC — fix: property balance sweep — `nola-group-red-beans-and-rice-monday-guide.md`, `nola-group-rehearsal-dinner-guide.md`, `nola-group-riverboat-casino-cruise-guide.md` (Castleday/Syd removed; Mazant/Revelry/Hotel Perle/Heirloom used).
+2026-10-31 13:10 UTC — backlog: no changes; Up Next left empty.

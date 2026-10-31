@@ -217,6 +217,10 @@ Book everything as early as possible. April sits inside New Orleans' February-th
 **Restaurants:** Book as soon as your dates are set; Quarter restaurants fill fast during FQF.
 **Flights:** As early as you can lock in dates.
 
+### Want a Quieter Spring Day?
+
+If the crew needs a break from FQF crowds, the free, walkable [Freret Street Festival](/guides/nola-group-freret-street-festival-guide/) is the Uptown alternative for one afternoon.
+
 ### Getting Around
 
 The French Quarter is walkable from almost any city-center accommodation. You do not need to rent cars for FQF — in fact, don't. Parking is a disaster during the festival and you won't use a car.
