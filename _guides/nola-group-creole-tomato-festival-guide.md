@@ -1,15 +1,17 @@
 ---
-title: "The Creole Tomato Festival with a Group: New Orleans' Low-Key June Market Day"
-description: "How to spend a mid-June day at the Creole Tomato Festival with a group — the French Market farmers-market format, cooking demos, and how it fits a soft-season New Orleans trip."
+title: "Creole Tomato Festival: A Low-Key June Market Day"
+description: "Skip the trip-planning for it, but don't skip it if you're there: the Creole Tomato Festival is a free French Market morning with cooking demos. Here's the plan."
 category: "Food & Drink"
 card_title: "Creole Tomato Festival"
 card_description: "A mid-June farmers-market festival at the French Market built around the Creole tomato — cooking demos, produce stalls, and the easiest afternoon on the summer calendar."
-date: 2026-07-28
+date: 2026-10-31
 ---
 
-Not every New Orleans festival needs a wristband, a footprint map, and a plan. The Creole Tomato Festival is the opposite of that — a low-key farmers-market weekend at the [French Market](/guides/nola-group-french-market-morning-guide/) built around one thing the city grows better than most of the country: the Creole tomato, a thin-skinned, high-acid variety that thrives in the river-silt soil around New Orleans and shows up on menus across the city the moment it's in season.
+Worth an hour or two, not a trip. If your crew is in New Orleans in mid-June anyway, the Creole Tomato Festival is an easy, free morning at the [French Market](/guides/nola-group-french-market-morning-guide/). If it's the only reason you'd book flights, don't.
 
-There's no headliner, no ticket, and no crowd to fight. It's produce stalls, cooking demonstrations from local chefs, and a French Market afternoon that happens to be dressed up for the occasion. For a group already leaning toward a quieter, cheaper June trip, it's an easy half-day anchor rather than an event to build a whole itinerary around.
+It's a farmers-market weekend built around one thing the region does well: the Creole tomato, which turns up on menus around the city once it's in season. Expect produce stalls and cooking demonstrations from local chefs. Don't expect a headliner, a gate, or a footprint map.
+
+For a group already leaning toward a quieter, cheaper summer trip, it's a half-day add-on. Mid-June is soft season, so rates are friendlier, and the heat and afternoon thunderstorms are already doing their thing. Plan around both.
 
 Here's what it actually is, and how to work it into a trip without over-planning something that was never meant to be over-planned.
 
@@ -20,7 +22,7 @@ Here's what it actually is, and how to work it into a trip without over-planning
 - [ ] Confirm this year's exact dates and the cooking-demo schedule on the official French Market site — the festival is annual and details shift year to year
 - [ ] Bring cash for produce stalls and vendor booths
 - [ ] Treat it as a couple of hours, not a full day — the format doesn't sustain more than that
-- [ ] Pair it with a broader [French Quarter](/neighborhoods/french-quarter/) morning or afternoon rather than building a day entirely around it
+- [ ] Pair it with a broader [French Quarter](/neighborhoods/french-quarter/) morning (see also the [first-timer guide](/guides/first-timer-guide/)) or afternoon rather than building a day entirely around it
 - [ ] Know that mid-June sits in the city's genuine soft season — good for a lower-cost trip, but summer heat and humidity are already in full effect
 - [ ] Set a loose rally point if your group wants to split between the produce stalls, the demos, and the rest of the Market
 
@@ -34,7 +36,7 @@ Here's what it actually is, and how to work it into a trip without over-planning
 
 **The setting.** The [French Market](/guides/nola-group-french-market-morning-guide/) itself, the country's oldest public market and already a natural half-day stop for a group exploring the French Quarter's riverside edge.
 
-**What it isn't.** There's no headliner stage, no ticket gate, and historically no crowd on the scale of the city's music festivals. Don't build a trip around it expecting a Jazz Fest-sized event — it's a market day, not a festival footprint.
+**What it isn't.** There's no headliner stage, no ticket gate, and nothing like the crowds at the city's music festivals. Don't build a trip around it expecting a Jazz Fest-sized event — it's a market day, not a festival footprint.
 
 | Creole Tomato Festival | A typical NOLA outdoor festival |
 |---|---|
