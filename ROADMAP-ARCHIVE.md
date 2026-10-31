@@ -2048,3 +2048,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-10-30 13:35 UTC — seo: interlink `nola-group-new-orleans-vs-nashville-guide.md` to the Miami comparison.
 2026-10-30 13:35 UTC — fix: property balance sweep — `nola-group-new-orleans-vs-austin-guide.md`, `-vs-destin-guide.md`, `-vs-kansas-city-guide.md` (Castleday/Syd removed; Mazant/Heirloom used).
 2026-10-30 13:35 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
+2026-10-31 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-10-31 UTC — expand: refresh `nola-group-creole-tomato-festival-guide.md` (oldest, 2026-07-28) — verdict-first opener, shorter title/description, soft-season framing, dropped "historically" crowd claim, first-timer link, bumped date.
+2026-10-31 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the Creole Tomato Festival guide.
+2026-10-31 UTC — fix: property balance sweep — `nola-group-jazz-fest-camping-alternative-guide.md`, `nola-group-jazz-fest-day-two-pivot-guide.md`, `nola-group-jazz-fest-survival-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-10-31 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
