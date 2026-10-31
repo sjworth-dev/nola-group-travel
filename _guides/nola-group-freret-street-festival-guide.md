@@ -1,13 +1,15 @@
 ---
-title: "The Freret Street Festival with a Group: Uptown's One-Day Restaurant Block Party"
-description: "How to plan a group day around the Freret Street Festival — the one-day spring block party on Uptown's Freret Street restaurant corridor. Format, neighborhood context, and how it fits a spring NOLA trip."
+title: "Freret Street Festival with a Group: Worth the Detour?"
+description: "Yes, if your crew wants a free, walkable Uptown afternoon instead of Jazz Fest crowds. How to work the Freret Street Festival, eat well, and keep the group together."
 category: "Festivals & Events"
 card_title: "Freret Street Festival"
 card_description: "A one-day spring block party on Uptown's restaurant-and-bar corridor — free, walkable, and built around a food scene the festival calendar usually skips."
-date: 2026-07-28
+date: 2026-10-31
 ---
 
-Most of the spring festival calendar pulls a group toward the French Quarter or the Fair Grounds. The Freret Street Festival pulls the other direction — a one-day block party on the Freret Street corridor in Uptown, the stretch of restaurants and bars that spent the last decade and a half turning a once-overlooked street into one of the city's better eating blocks.
+**Verdict: worth the detour, as an afternoon, not a headliner.** It's free, walkable, and the one spring festival where nobody loses the group.
+
+Most of the spring festival calendar pulls a group toward the French Quarter or the Fair Grounds. The Freret Street Festival pulls the other direction — a one-day block party on the Freret Street corridor in Uptown, a stretch of restaurants and bars that has become one of the city's better eating blocks.
 
 It's free, it's local, and it's small enough that a group can actually work the whole thing in an afternoon rather than losing each other in a crowd. The festival exists mostly to show off what the corridor has become: live music on outdoor stages, vendor booths from the street's own restaurants and bars, and a genuine neighborhood crowd rather than a tourist one.
 
@@ -22,7 +24,7 @@ If your group is building a spring trip around [French Quarter Fest](/guides/fre
 - [ ] Bring cash for vendor booths, even where cards are accepted
 - [ ] Book a Freret Street restaurant dinner ahead of time if your group wants to sit down after the festival winds down — the corridor's regular tables fill fast on festival day
 - [ ] Set a rally point before the group splits toward different stages and booths
-- [ ] Know that spring in New Orleans is peak season — see the [festival season calendar](/guides/festival-season-calendar/) for how it stacks against the rest of the year
+- [ ] Know that spring in New Orleans is peak season — see the [festival season calendar](/guides/festival-season-calendar/) for how it stacks against the rest of the year, and the [first-timer guide](/guides/plan-a-group-trip/) if the rest of the trip is still unplanned
 
 ---
 
