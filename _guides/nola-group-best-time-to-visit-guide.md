@@ -35,7 +35,7 @@ Most U.S. destinations follow a simple rhythm: summer is peak, spring and fall a
 
 **Peak season is October, and February through May.** October is peak because of weather, not a festival calendar quirk — it's the first real relief from summer heat, plus [Voodoo Fest](/guides/nola-voodoo-fest-guide/) and a Halloween scene the whole city leans into. February through May is peak because it's Mardi Gras, French Quarter Fest, spring crawfish season, and Jazz Fest, one after another with barely a gap. Even the free neighborhood events, like [Bayou Boogaloo](/guides/nola-group-bayou-boogaloo-guide/), land inside it.
 
-**Soft season is June through August, and January.** Summer means heat, humidity, and afternoon thunderstorms that clear out both crowds and rates — real value, if your group can handle the weather. January is the lull after the holidays and before Mardi Gras ramps up: the year's cheapest rates, full city operations, cold snaps possible.
+**Soft season is June through August, and January.** Summer means heat, humidity, and afternoon thunderstorms that clear out both crowds and rates — real value, if your group can handle the weather. A June trip can still have an anchor: the free [Creole Tomato Festival](/guides/nola-group-creole-tomato-festival-guide/) is an easy French Market morning. January is the lull after the holidays and before Mardi Gras ramps up: the year's cheapest rates, full city operations, cold snaps possible.
 
 **The genuine shoulder window — the one other cities call "shoulder" by default — is late August through mid-September.** Still hot, but ahead of October's demand ramp and past the worst of peak summer.
 
