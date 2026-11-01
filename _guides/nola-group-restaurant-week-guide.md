@@ -1,17 +1,17 @@
 ---
-title: "New Orleans Restaurant Week with a Group: The January Booking Guide"
-description: "How to plan a group around New Orleans Restaurant Week, the mid-January stretch of reduced-price prix-fixe menus at top restaurants. Reservation strategy, format, and how it fits a January trip."
+title: "New Orleans Restaurant Week for Groups: How to Book It"
+description: "Restaurant Week is the cheapest way to eat well in New Orleans, but big parties get squeezed. How to book it, when to split tables, and why January helps."
 category: "Food & Drink"
 card_title: "Restaurant Week"
 card_description: "A mid-January stretch of reduced prix-fixe menus at the city's best restaurants. Reservation strategy for a group, and why it's the cheapest way to eat well here all year."
-date: 2026-07-28
+date: 2026-11-01
 ---
 
-January is the one month on the calendar where New Orleans isn't fighting a festival, a parade, or a heat wave for your attention — and Restaurant Week is the city's answer to what to do with that lull. For roughly a week in mid-January, a wide swath of the city's best restaurants run special prix-fixe menus at a reduced price, and a group that eats seriously can get a meaningfully cheaper version of a splurge dinner it would otherwise save for a bigger night.
+Verdict: Restaurant Week is worth building a January trip around, as long as you treat it as a booking puzzle and not a single big dinner. January is the one month where New Orleans isn't fighting a festival, a parade, or a heat wave for your attention, and Restaurant Week is the city's answer to the lull. For roughly a week in mid-January, a wide swath of the city's best restaurants run special prix-fixe menus at a reduced price, and a group that eats seriously can get a meaningfully cheaper version of a splurge dinner it would otherwise save for a bigger night.
 
 This lands inside the city's genuine soft season — see the [festival season calendar](/guides/festival-season-calendar/) for why January is the post-holiday lull before things ramp back up toward Mardi Gras — which means lower lodging rates on top of lower dinner tabs. It's a real value window, not a marketing one.
 
-This isn't a festival with a footprint or a ticket. It's a citywide reservation exercise, and for a group, the strategy is entirely about booking, not about showing up. Here's how to actually run it.
+This isn't a festival with a footprint or a ticket. It's a citywide reservation exercise, and for a group, the strategy is entirely about booking, not about showing up. Here's how to actually run it. If you're still deciding whether January is the month, start with the [group trip planning hub](/guides/plan-a-group-trip/) and the [best time to visit](/guides/nola-group-best-time-to-visit-guide/) guide.
 
 ---
 
