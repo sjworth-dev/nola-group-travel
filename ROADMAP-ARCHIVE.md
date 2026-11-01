@@ -2063,3 +2063,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-01 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the Restaurant Week guide.
 2026-11-01 UTC — fix: property balance sweep — `nola-group-riverfront-evening-guide.md`, `nola-group-riverfront-picnic-guide.md`, `nola-group-rock-n-roll-marathon-guide.md` (Castleday/Syd removed; Mazant/Heirloom/Revelry/hotel blocks used).
 2026-11-01 UTC — backlog: no changes; Up Next left empty (ROADMAP human-gated rule overrides the runner prompt's backlog-generation step).
+2026-11-01 UTC — note: second run today; `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-01 UTC — expand: refresh `private-chef-guide.md` (oldest, 2026-07-28) — verdict-first opener, variable lead times replaced, Syd mention removed, planning-hub and itinerary-builder links, bumped date.
+2026-11-01 UTC — seo: interlink `bachelorette-party.md` to the private chef guide (bundled in the sweep commit).
+2026-11-01 UTC — fix: property balance sweep — `nola-group-rooftop-brunch-guide.md`, `nola-group-saint-josephs-day-guide.md`, `nola-group-sazerac-house-distillery-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-11-01 UTC — backlog: no changes; Up Next left empty.
