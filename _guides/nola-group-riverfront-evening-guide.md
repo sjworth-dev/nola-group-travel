@@ -164,7 +164,7 @@ The ferry itself imposes a small constraint — the schedule — but that constr
 
 ## Where to Base This Evening
 
-Base location shapes this evening more than most. From a [Bywater](/neighborhoods/bywater/) base, like Castleday Retreats (private villas, private pool per villa), the riverfront and the Moonwalk are a short rideshare or a pleasant walk along the levee, and the Algiers Ferry terminal is reachable without ever entering the French Quarter proper. A Lower Garden District base, like The Syd (shared heated pool, one block from the St. Charles Streetcar), connects efficiently to the CBD and a short walk to the riverfront — or a quieter, more residential approach to the same water via the Garden District side. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice. None of these is a booking recommendation — pick by fit.
+Base location shapes this evening more than most. From a [Bywater](/neighborhoods/bywater/) base, the riverfront and the Moonwalk are a short rideshare or a pleasant walk along the levee, and the Algiers Ferry terminal is reachable without ever entering the French Quarter proper. A Lower Garden District base, near the St. Charles Streetcar, connects efficiently to the CBD and a short walk to the riverfront — or a quieter, more residential approach to the same water via the Garden District side. Heirloom's large-format homes across the Lower Garden District and Central City add more choice on short notice, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for mixed budgets. None of these is a booking recommendation — pick by fit.
 
 For the largest selection, book 6+ months out.
 
