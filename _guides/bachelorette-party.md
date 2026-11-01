@@ -107,7 +107,7 @@ One dinner should be *the* dinner. For a big group that means a private room or 
 - **Cochon** – Southern/Cajun, handles groups well.
 - **Pêche** – Seafood, James Beard winner, big space.
 
-**The call script** (phone, not OpenTable, for anything over 10): *"Hi — I'm planning a bachelorette dinner for [X] people on [date], around 7:30. Do you have a private room or a section that fits us? Is there a set menu for groups, and is it one check? What deposit do you need to hold it?"* Four questions, ninety seconds, and you'll know if it's the spot. The [restaurant guide](/guides/restaurant-guide/) has the full private-dining rundown and what to do when the first choice is booked.
+**The call script** (phone, not OpenTable, for anything over 10): *"Hi — I'm planning a bachelorette dinner for [X] people on [date], around 7:30. Do you have a private room or a section that fits us? Is there a set menu for groups, and is it one check? What deposit do you need to hold it?"* Four questions, ninety seconds, and you'll know if it's the spot. If the group would rather skip restaurant roulette entirely, a [private chef at the house](/guides/private-chef-guide/) is the other route. The [restaurant guide](/guides/restaurant-guide/) has the full private-dining rundown and what to do when the first choice is booked.
 
 **Brunch:** The Country Club (pool + brunch, made for bach parties), Atchafalaya (build-your-own Bloody Mary bar — book the patio), Willa Jean (trendy, bakery-forward).
 

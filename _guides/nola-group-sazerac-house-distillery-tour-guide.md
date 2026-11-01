@@ -168,6 +168,6 @@ Designate someone to set this tone before you arrive. "We are here to learn what
 
 The Sazerac House is on Canal Street in the Central Business District — easily accessible from both the Bywater and the Lower Garden District by rideshare.
 
-Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) sit near the French Quarter and Marigny, close enough to extend a spirits afternoon into a Frenchmen Street evening without changing neighborhoods — and a villa with a full bar setup means the spirits education becomes immediately applicable, making a proper Sazerac back at the house one of the better trip moments available. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) work just as well if the group would rather end the afternoon in a courtyard than head back out. For the largest selection, book 6+ months out.
+A Bywater house like The Mazant (sleeps 18, heated pool and spa) sits near the French Quarter and Marigny, close enough to extend a spirits afternoon into a Frenchmen Street evening without changing neighborhoods — and a villa with a full bar setup means the spirits education becomes immediately applicable, making a proper Sazerac back at the house one of the better trip moments available. Central City options like The Revelry (saltwater pool, a floor per crew) work just as well if the group would rather end the afternoon in a courtyard than head back out. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

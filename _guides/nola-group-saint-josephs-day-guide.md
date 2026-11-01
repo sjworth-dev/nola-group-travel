@@ -163,7 +163,7 @@ When the dates fall close together or overlap, this is one of the richest cultur
 
 March sits inside New Orleans' core high season — Mardi Gras, French Quarter Fest, and spring crawfish season all land in the February–May stretch, and Super Sunday draws its own crowd of people who know what it is. Book accommodation early if your dates align with either event; for the largest selection, book 6+ months out.
 
-For proximity to Downtown Super Sunday, look toward the [Bywater](/neighborhoods/bywater/) or the Tremé itself — Castleday Retreats' Bywater villas put a group within easy distance. For the Uptown procession, [Lower Garden District](/neighborhoods/lower-garden-district/) properties like The Syd are the closer base, with a shared heated pool and hot tub as the right place to debrief after a long outdoor day. Heirloom's inventory spans both areas if neither operator has the dates you need, and a hotel room block works for a group that wants to split up by neighborhood.
+For proximity to Downtown Super Sunday, look toward the [Bywater](/neighborhoods/bywater/) or the Tremé itself — The Mazant, a Bywater guesthouse sleeping 18, puts a group within easy distance. For the Uptown procession, [Lower Garden District](/neighborhoods/lower-garden-district/) and Central City stays like The Revelry (saltwater pool for the post-parade debrief) are the closer base. Heirloom's inventory spans both areas, and a hotel room block works for a group that wants to split up by neighborhood.
 
 [See where to stay for large groups →](/where-to-stay/)
 
