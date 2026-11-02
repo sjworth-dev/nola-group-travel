@@ -2068,3 +2068,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-01 UTC — seo: interlink `bachelorette-party.md` to the private chef guide (bundled in the sweep commit).
 2026-11-01 UTC — fix: property balance sweep — `nola-group-rooftop-brunch-guide.md`, `nola-group-saint-josephs-day-guide.md`, `nola-group-sazerac-house-distillery-tour-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
 2026-11-01 UTC — backlog: no changes; Up Next left empty.
+2026-11-02 UTC — expand: refresh `nola-group-audubon-zoo-aquarium-guide.md` (oldest, 2026-07-29) — verdict-first opener, retitled/redescribed, heat/seasonality note, Insectarium claim hedged, planning-hub and neighborhood-comparison links, bumped date.
+2026-11-02 UTC — seo: interlink `festival-season-calendar.md` to FQF deep dive, Jazz Fest survival/day-two/camping guides, and St. Joseph's Day guide.
+2026-11-02 UTC — fix: property balance sweep — `nola-group-jazz-historical-park-guide.md`, `nola-group-jazz-improv-session-guide.md`, `nola-group-lake-pontchartrain-guide.md` (Castleday/Syd removed; Mazant/Revelry/Heirloom used).
+2026-11-02 UTC — backlog: no changes; Up Next empty (human-gated), no new page. Refresh queue fully checked, oldest-dated fallback used.
