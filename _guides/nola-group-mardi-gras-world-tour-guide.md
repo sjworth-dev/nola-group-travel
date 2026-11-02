@@ -1,13 +1,13 @@
 ---
-title: "Mardi Gras World with a Group: Touring the Float-Building Warehouse"
-description: "How to plan a group visit to Mardi Gras World, the working float-building warehouse on the riverfront — tour format, what a group actually sees, and group booking considerations. Defer current hours and pricing to official sources."
+title: "Mardi Gras World Group Tour: Worth an Hour, Any Month"
+description: "Yes, take the group to Mardi Gras World: an indoor, weather-proof hour inside the float-building warehouse, open when Carnival isn't. What to expect and how to book."
 category: "Activities & Day Trips"
 card_title: "Mardi Gras World Tour"
 card_description: "The float-building warehouse behind every parade you've ever watched on TV — how to work it into a group day, rain or shine, any month of the year."
-date: 2026-07-29
+date: 2026-11-02
 ---
 
-Every parade New Orleans throws — Mardi Gras, [BUKU](/guides/nola-group-buku-music-festival-guide/), Endymion, the works — starts as a half-built fiberglass sculpture in a warehouse on the river. Mardi Gras World is that warehouse, open to visitors year-round, which makes it one of the few Carnival-adjacent things a group can actually do in July as easily as February.
+**Verdict: worth an hour, and the best Carnival fix available outside Carnival.** Every parade New Orleans throws — Mardi Gras, [BUKU](/guides/nola-group-buku-music-festival-guide/), Endymion, the works — starts as a half-built fiberglass sculpture in a warehouse on the river. Mardi Gras World is that warehouse, open to visitors year-round, which makes it one of the few Carnival-adjacent things a group can actually do in July as easily as February.
 
 It's not a museum in the usual sense. It's a working studio — floats from past parades stacked alongside ones being built for next year, den artists sanding and painting in the same room you're standing in. For a group that wants an hour of genuine New Orleans culture that isn't a bar, a restaurant, or a walking tour, it fills a real gap in the itinerary.
 
@@ -32,7 +32,7 @@ If your trip is already built around [Mardi Gras season](/guides/mardi-gras-grou
 
 **The working studio.** Depending on when you visit, den artists may be actively sculpting, sanding, or painting. It's a genuine working shop, not a static display, which is part of what makes it interesting for a group that's already spent a few days doing more curated tourist stops.
 
-**The history.** Exhibits and guide commentary cover how Carnival float-building actually works — the den system, the artists' union of sorts, how a single krewe's float gets reused, repainted, and reworked year over year rather than built from scratch every season.
+**The history.** Exhibits and guide commentary cover how Carnival float-building actually works — the den system, the artists behind the builds, how a single krewe's float gets reused, repainted, and reworked year over year rather than built from scratch every season.
 
 **The photo ops.** Giant fiberglass heads, dragons, kings, and characters make this one of the more photogenic stops on a group itinerary — worth building in extra time if your group leans that direction.
 
@@ -57,13 +57,15 @@ If your trip is already built around [Mardi Gras season](/guides/mardi-gras-grou
 
 **Mixing with other groups.** Depending on the day, you may share the floor with school groups, other tourists, or private events being hosted on-site. If your group wants a fully private experience, ask when booking whether that's an option and what it costs.
 
-**Corporate and team groups.** The venue has hosted private events and buyouts in the past — worth asking about if you're planning something beyond a standard tour, especially for a [corporate retreat](/guides/nola-group-corporate-meeting-space-guide/) looking for a New Orleans-flavored team activity that isn't a bar crawl.
+**Corporate and team groups.** The venue has hosted private events and buyouts in the past — worth asking about if you're planning something beyond a standard tour, especially for a [corporate retreat](/guides/nola-group-corporate-meeting-space-guide/) (see also the [planning hub](/guides/plan-a-group-trip/)) looking for a New Orleans-flavored team activity that isn't a bar crawl.
 
 ---
 
 ## Getting There With a Group
 
-Mardi Gras World sits on the west bank side of the river, near the Convention Center and downtown, not inside the French Quarter itself. For a group coordinating from Uptown, the Marigny, or the Bywater, plan for a short rideshare or shuttle rather than a walk — check with the venue directly about shuttle service from the riverfront, since options here have changed over the years and are worth confirming fresh rather than assuming.
+Mardi Gras World sits on the riverfront near the Convention Center, just upriver from the French Quarter rather than inside it. For a group coming from Uptown, the Marigny, or the Bywater, plan for a short rideshare or shuttle rather than a walk — check with the venue directly about shuttle service from the riverfront, since options here have changed over the years and are worth confirming fresh rather than assuming.
+
+Timing it for the real thing? Fat Tuesday 2027 is February 9, and the parade run-up is mapped in the [Carnival season parade calendar](/guides/nola-group-carnival-season-parade-calendar/); the [Mardi Gras Day guide](/guides/nola-group-mardi-gras-day-guide/) covers the day itself. Remember that Carnival is peak season, so an indoor warehouse hour in July is the quieter, cheaper way to get the same floats.
 
 If your group is already spending the morning downtown or at the [riverfront](/guides/nola-riverfront-guide/), this is an easy add without a major detour.
 
