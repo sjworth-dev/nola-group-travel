@@ -197,6 +197,6 @@ Both are worth doing. They're not competing for the same slot on your itinerary.
 
 The connection between live music evenings and the villa base is practical: the music night ends, the group reconvenes either on the way home or at the villa, and the experience continues in a space you own for the evening. The after-show villa is a different social environment than a bar — quieter, more intimate, often where the most interesting conversations about the music happen.
 
-Groups at The Mazant in the [Bywater](/neighborhoods/bywater/) are walking distance from the Marigny and Frenchmen Street music corridor — the residency circuit is essentially out the door. Groups at The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) are a short rideshare from both Frenchmen Street and the Uptown venues, with the Magazine Street corridor as a secondary music neighborhood. For the largest selection, book 6+ months out.
+Groups at The Mazant in the [Bywater](/neighborhoods/bywater/) are walking distance from the Marigny and Frenchmen Street music corridor — the residency circuit is essentially out the door. Groups at The Revelry in Central City are a short rideshare from both Frenchmen Street and the Uptown venues, with the Magazine Street corridor as a secondary music neighborhood. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

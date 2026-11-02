@@ -51,7 +51,7 @@ A private villa is the only accommodation that makes sense at this budget level 
 
 At the luxury end, look for villas with private pools, quality outdoor kitchens, and enough indoor common space that a group of 20 can actually be in the same room together. Bywater and the Lower Garden District are the neighborhoods worth targeting — both have access to great restaurants on foot and a strong sense of place.
 
-**Castleday Retreats** (private Bywater villas, up to 30 guests each with a pool per villa) and **The Syd** (Lower Garden District, up to 22 guests per villa, shared heated pool, hot tub, and outdoor kitchen, one block from the St. Charles Streetcar) both operate at this tier. **Heirloom**'s larger-format homes are worth checking too if you want more options at the same budget.
+**The Mazant** (an 1880s Bywater guesthouse sleeping 18, with a heated pool and spa) and **Hotel Perle** (CBD group suites with a rooftop pool and separate bills) both operate at this tier. **Heirloom**'s larger-format homes are worth checking too if you want more options at the same budget.
 
 At the luxury budget, the per-person villa cost is actually a smaller percentage of overall spend than it looks. If you're spending $500/person/day for three nights, you're spending $1,500/person total — a villa at $300-400/person for the accommodation line is only 20-25% of the trip cost. Don't cut here.
 

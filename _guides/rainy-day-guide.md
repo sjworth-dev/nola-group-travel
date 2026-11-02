@@ -47,6 +47,8 @@ This matters for planning.
 
 **Ogden Museum of Southern Art** — Warehouse District. One of the best regional art museums in the South. Smaller and easier to navigate in a few hours.
 
+**Mardi Gras World** — The float-building warehouse is mostly indoors and open year-round, an easy 60–90 minutes with the whole crew. See the [Mardi Gras World group tour guide](/guides/nola-group-mardi-gras-world-tour-guide/).
+
 **The Historic New Orleans Collection** — Tucked in the French Quarter. A deep archive of NOLA history with rotating exhibitions. Undervisited. Free admission to the gallery on Royal Street.
 
 **Louisiana Children's Museum** — If you have a family group with kids, City Park location is excellent.
