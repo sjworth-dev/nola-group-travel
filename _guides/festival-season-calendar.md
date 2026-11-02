@@ -4,7 +4,7 @@ description: "Every major New Orleans festival and event season, with group plan
 category: "Planning & Logistics"
 card_title: "Festival Season Calendar"
 card_description: "Mardi Gras, Jazz Fest, Essence, Southern Decadence, and every major event — when to go, when to book, what to expect."
-date: 2026-08-12
+date: 2026-11-02
 ---
 
 New Orleans is a festival city. Not one or two events a year — a near-continuous calendar of parades, fests, and massive gatherings that reshape the city's logistics, pricing, and energy from January through December.
@@ -82,6 +82,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Group impact: Quiet crowd, but it sits inside spring high season, so book on the usual clock
 
 **St. Joseph's Day (March 19)**
+- Altars, parades, and a very Italian-American Quarter afternoon: see the [St. Joseph's Day guide](/guides/nola-group-saint-josephs-day-guide/).
 - Mardi Gras Indian Super Sunday (closest Sunday to March 19) is one of the most authentic cultural events in the city. The [Super Sunday guide](/guides/nola-group-super-sunday-mardi-gras-indian-guide/) covers how a group can approach it, and the [spring break guide](/guides/nola-group-spring-break-guide/) shows where it fits in a March trip
 - Mardi Gras Indian tribes gather in full handmade suits
 - Not a tourist-packaged event. Show up respectfully. Watch and appreciate.
@@ -96,7 +97,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Next up: April 8–11, 2027 (confirm exact hours at the official site closer to the date)
 - All local music, no national acts. This is the point.
 - Best music festival in the city, in our opinion
-- Group impact: French Quarter accommodation books fast — for the largest selection, book 6+ months out. Full breakdown in the [French Quarter Fest guide](/guides/french-quarter-fest/).
+- Group impact: French Quarter accommodation books fast — for the largest selection, book 6+ months out. Full breakdown in the [French Quarter Fest guide](/guides/french-quarter-fest/), and the [deep dive](/guides/nola-group-french-quarter-festival-deep-dive/) if you want stage-by-stage strategy.
 
 **Zurich Classic (late April)**
 - PGA Tour event at TPC Louisiana in Avondale
@@ -108,7 +109,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 - Two weekends: expected April 22–25 and April 29–May 2, 2027 (dates are announced but the lineup isn't yet — check nojazzfest.com before you lock plans)
 - 14 stages, thousands of artists, hundreds of food vendors
 - World-class lineup, unmatched food spread
-- Group impact: **The city is at or near capacity both weekends.** For the largest selection, book 6+ months out. The [Jazz Fest group guide](/guides/jazz-fest-group-guide/) covers tickets, shuttles, and where to base a big crew.
+- Group impact: **The city is at or near capacity both weekends.** For the largest selection, book 6+ months out. The [Jazz Fest group guide](/guides/jazz-fest-group-guide/) covers tickets, shuttles, and where to base a big crew. Going in? The [Jazz Fest survival guide](/guides/nola-group-jazz-fest-survival-guide/) handles the field-day logistics, and the [day-two pivot](/guides/nola-group-jazz-fest-day-two-pivot-guide/) is for when plan A falls apart.
 
 | Jazz Fest Factor | What to Know |
 |-----------------|-------------|
@@ -123,7 +124,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 ### May
 
 **Jazz Fest (early May — second weekend)**
-- See April entry — same logistics, expected April 29–May 2, 2027
+- See April entry — same logistics, expected April 29–May 2, 2027 (the [camping alternative guide](/guides/nola-group-jazz-fest-camping-alternative-guide/) covers lodging when the city is full)
 - The second weekend is sometimes considered better (bigger headliners on Sunday)
 - Group impact: Same as first weekend — book far ahead
 
