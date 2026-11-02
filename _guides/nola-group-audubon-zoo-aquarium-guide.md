@@ -1,17 +1,17 @@
 ---
-title: "Audubon Zoo and the Aquarium of the Americas: A Group Ticketing Guide"
-description: "How to plan a group visit to the Audubon Zoo and the Aquarium of the Americas — group ticket math, membership vs. single-day pricing, the Insectarium add-on, and how to split a mixed-interest group between the two sites."
+title: "Audubon Zoo & Aquarium for Groups: Tickets and Logistics"
+description: "Pick one per day: the Zoo or the Aquarium. Group ticket math, combo vs. membership, the Insectarium question, and how to split a crew with mixed interests."
 category: "Activities & Day Trips"
 card_title: "Zoo & Aquarium Guide"
 card_description: "Group ticket math for the Audubon Zoo and the riverfront Aquarium, plus how to split a mixed-interest crew between the two without wasting a day."
-date: 2026-07-29
+date: 2026-11-02
 ---
 
-The Audubon Zoo and the Aquarium of the Americas are the two biggest non-bar, non-restaurant attractions a New Orleans group can build a real day around — and they're also the two attractions groups most often mismanage, because they're not in the same place and they don't run on the same clock.
+Pick one per day. The Audubon Zoo and the Aquarium of the Americas are the two biggest non-bar, non-restaurant attractions a New Orleans group can build a day around, and groups keep trying to cram both into a single afternoon. It doesn't work, because they're on opposite sides of the city.
 
 The Zoo sits Uptown, inside Audubon Park off Magazine Street. The Aquarium sits downtown on the riverfront, a short walk from the French Quarter. They're connected institutions under the same nonprofit, but they are not next door to each other, and treating them as a single stop is the most common planning mistake groups make with either.
 
-This is the ticketing-and-logistics page. For the kid-specific angle, see the [kids and families guide](/guides/kids-families-guide/); for how these fit into a broader outdoor day, see the [outdoor activities guide](/guides/outdoor-activities-guide/).
+This is the ticketing-and-logistics page. For the kid-specific angle, see the [kids and families guide](/guides/kids-families-guide/); for how these fit into a broader outdoor day, see the [outdoor activities guide](/guides/outdoor-activities-guide/). Still sequencing the whole trip? Start with the [group trip planning hub](/guides/plan-a-group-trip/).
 
 ---
 
@@ -33,9 +33,11 @@ This is the ticketing-and-logistics page. For the kid-specific angle, see the [k
 
 **Aquarium of the Americas** — Downtown on the riverfront, a short walk from Woldenberg Park and the [riverfront](/guides/nola-riverfront-guide/) corridor. Gulf Coast and Americas-focused exhibits, generally a 2-3 hour visit on its own.
 
-**The Insectarium** — Housed at the Aquarium site (the standalone Uptown location has closed in past years — confirm the current location when you book). Worth adding for groups with entomology-curious members or kids who've already done the standard zoo-and-fish-tank circuit; skippable for groups tight on time.
+**The Insectarium** — The Audubon Nature Institute's bug museum has changed locations over the years, so confirm where it is and whether it's open before you plan around it. Worth adding for groups with entomology-curious members or kids who've already done the standard zoo-and-fish-tank circuit; skippable for groups tight on time.
 
-Because the Zoo and Aquarium sit in different parts of the city, doing both in one day means committing to a transit leg between them — rideshare or the streetcar, depending on where your group is staying. Groups based in the [Lower Garden District or Bywater](/where-to-stay/) should expect a genuine cross-town trip either direction.
+Because the Zoo and Aquarium sit in different parts of the city, doing both in one day means committing to a transit leg between them — rideshare or the streetcar, depending on where your group is staying. Check the [neighborhood comparison](/guides/nola-group-neighborhood-comparison-guide/) for how far your base sits from each; Bywater crews in particular should expect a genuine cross-town trip either direction.
+
+Heat matters here too. From June through August the Zoo is mostly outdoors, afternoon storms are routine, and it's the soft season for a reason. Go at opening, or save it for the cooler stretch from October on, when the weather is the best of the year (and demand is high, so expect a crowd).
 
 ---
 
