@@ -218,6 +218,6 @@ The Jazz National Historical Park is the highest depth-to-cost ratio on this lis
 
 The Jazz National Historical Park visitor center is in the French Quarter, and the half-day walk ends on Frenchmen Street at the edge of the Marigny. Both of these put the group close to the Bywater and the [Lower Garden District](/neighborhoods/lower-garden-district/).
 
-Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) sit a short walk from Frenchmen Street — a natural return after an evening on the music corridor. The Lower Garden District, where The Syd runs villas up to 22 guests with a shared heated pool and hot tub, is a longer ride from Frenchmen but sits one block off the St. Charles Streetcar and closer to the Garden District and Magazine Street. Groups that want separate bills per unit, or a hotel-style booking, can look at Heirloom's inventory across the LGD and Central City or a downtown room block instead. For the largest selection, book 6+ months out.
+Bywater is the natural base for this one: The Mazant, an 1880s guesthouse that sleeps 18 with a heated pool and spa, sits a short walk from Frenchmen Street, a natural return after an evening on the music corridor. Groups that want separate bills per unit can look at The Revelry's apartment-style floors in Central City, Heirloom's large-format homes across the Lower Garden District and Central City, or a downtown room block. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

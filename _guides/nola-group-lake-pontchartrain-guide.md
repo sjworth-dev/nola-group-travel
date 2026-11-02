@@ -204,6 +204,6 @@ The river experience and the lake experience are complementary — the city's ge
 
 ## Large Group Accommodation for a Lake Afternoon
 
-The lake is most accessible from Mid-City, Lakeview, and the Bayou St. John neighborhood — roughly 20 minutes from both the Bywater and the Lower Garden District by rideshare. Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) and Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) both put a similar 20-minute rideshare between the villa and the West End seawall — either way, the group returns to a private pool after an afternoon built around a different body of water. Heirloom's larger inventory across Central City and the Lower Garden District is worth checking too if the group needs short-notice availability. For the largest selection, book 6+ months out.
+The lake is most accessible from Mid-City, Lakeview, and the Bayou St. John neighborhood — roughly 20 minutes from both the Bywater and the Lower Garden District by rideshare. A Bywater house like The Mazant (sleeps 18, heated pool and spa) or Central City options like The Revelry's apartment floors and Heirloom's large-format homes all sit a similar 20-minute rideshare from the West End seawall, so the group returns to a pool or a shared living room after an afternoon built around a different body of water. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
