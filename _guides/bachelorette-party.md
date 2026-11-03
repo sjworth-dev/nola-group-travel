@@ -41,7 +41,7 @@ Bach trips die from sequencing errors, not bad ideas. The order:
 **The value play:** late August through mid-September. Still hot, but rates dip before October's demand ramp — the closest thing this city has to a shoulder season. January is the true bargain window if the group runs cold-tolerant.
 
 **Avoid unless intentional:**
-- **Mardi Gras (date moves — Fat Tuesday is February 9, 2027):** Incredible but chaotic, expensive, crowded. Great if that's the plan; overwhelming if you just want a bachelorette trip. The [Mardi Gras group guide](/guides/mardi-gras-group-guide/) is its own project.
+- **Mardi Gras (date moves — Fat Tuesday is February 9, 2027):** Incredible but chaotic, expensive, crowded. Great if that's the plan; overwhelming if you just want a bachelorette trip. The [Mardi Gras group guide](/guides/mardi-gras-group-guide/) is its own project. Picking between cities? Compare [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) and [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) before you commit.
 - **July–August:** Brutally hot and humid. Plan pool-heavy days and indoor afternoons or pick another month.
 
 **Consider:** **Jazz Fest** (late April–early May) if the bride loves live music, or **French Quarter Fest** (April) — free, high-energy, less crowded. Exact dates for everything are on the [festival calendar](/events/). Before the first big night out, read the [group safety guide](/guides/nola-group-safety-guide/) — the bride's crew fragmenting at 1am is the real risk, not the city.
@@ -113,13 +113,13 @@ One dinner should be *the* dinner. For a big group that means a private room or 
 
 ## Bachelorette Activities
 
-**Classic NOLA:** French Quarter walking tour · cemetery tour · Steamboat Natchez cruise · haunted history tour
+**Classic NOLA:** French Quarter walking tour · [cemetery tour](/guides/nola-group-cemetery-tour-guide/) · Steamboat Natchez cruise · [haunted history tour](/guides/nola-group-ghost-tour-booking-guide/)
 
 **Pool:** The Country Club (reserve a cabana) · your own rental — if the house has a pool, the day plans itself
 
-**Pampering:** Spa day (Belladonna, Nola Bliss) · group mani-pedis (book ahead) · blowout bar (Drybar Uptown)
+**Pampering:** [Spa day](/guides/nola-bachelorette-spa-day/) (Belladonna, Nola Bliss) · group mani-pedis (book ahead) · blowout bar (Drybar Uptown)
 
-**Only-in-New-Orleans:** cooking class (gumbo or beignets) · swamp tour (alligators, airboats, group screaming) · burlesque show (The Allways Lounge) · a [second line parasol workshop](/guides/nola-group-second-line-umbrella-making-guide/) if the group wants a craft with a payoff
+**Only-in-New-Orleans:** [cooking class](/guides/nola-cooking-class-guide/) (gumbo or beignets) · swamp tour (alligators, airboats, group screaming) · burlesque show (The Allways Lounge) · a [second line parasol workshop](/guides/nola-group-second-line-umbrella-making-guide/) if the group wants a craft with a payoff
 
 ## Nightlife Guide
 
@@ -164,7 +164,7 @@ Worked example for a crew of twelve at mid-range: roughly $525–800 each, so th
 
 If you cross into the large-group range, logistics change:
 
-Not a bachelorette at all, just a big girls weekend? The [girls trip guide](/guides/nola-group-girls-trip-guide/) runs the same city at a slower pace.
+Want a fancier night for the bride? See the [VIP night guide](/guides/nola-group-bachelorette-vip-night-guide/). Not a bachelorette at all, just a big girls weekend? The [girls trip guide](/guides/nola-group-girls-trip-guide/) runs the same city at a slower pace.
 
 - **Accommodations:** only a short list of properties legally fits a double-digit group — compare them in the [where-to-stay guide](/where-to-stay/) and book before anything else
 - **Restaurants:** Call ahead. A group this size needs private dining or a reserved section. The [large group seating strategy guide](/guides/nola-group-large-group-seating-strategy-guide/) covers what to ask when you call and how to set up seating for 15+ without a private room.
