@@ -2077,3 +2077,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-02 14:30 UTC — seo: interlink `rainy-day-guide.md` to the Mardi Gras World tour guide (bundled in sweep commit).
 2026-11-02 14:30 UTC — fix: property balance sweep — `nola-group-live-music-crawl-guide.md`, `nola-group-local-live-music-residency-guide.md`, `nola-group-luxury-weekend-guide.md` (Castleday/Syd removed; Mazant/Revelry/Hotel Perle used).
 2026-11-02 14:30 UTC — backlog: no changes; Up Next empty.
+2026-11-03 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-03 UTC — expand: refresh `solo-friendly-group-guide.md` (oldest, 2026-07-29) — verdict opener, retitled/redescribed, planning-hub, neighborhood-comparison and Bourbon Street links, Castleday swapped for The Revelry, bumped date.
+2026-11-03 UTC — seo: interlink `bachelor-party.md` to the casino, riverboat casino cruise, swamp tour, sports bar and Saints bar guides.
+2026-11-03 UTC — fix: property balance sweep — `nola-group-morning-routine-guide.md`, `nola-group-morning-after-strategy-guide.md`, `nola-group-magazine-street-full-day-guide.md` (Syd removed; Revelry/Heirloom/Mazant used).
+2026-11-03 UTC — backlog: no changes; Up Next empty.
