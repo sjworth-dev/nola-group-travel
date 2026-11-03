@@ -198,7 +198,7 @@ Hotel mornings for a group of 20 are a logistics exercise: lobby coffee that run
 
 Villa mornings are the opposite. Everyone wakes up in the same space. The kitchen is there. The outdoor space is there. The morning has a natural social structure without anyone having to organize it.
 
-The fit depends on what the rest of the trip needs. **Heirloom**'s large-format homes across the Lower Garden District and Central City give a group comparing layouts on short notice a full kitchen with the counter space to run a real group breakfast. **Hotel Perle**'s CBD/Warehouse group suites work for a crew that wants walkability and separate bills over one shared house. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, has a shared outdoor kitchen and courtyard that turns morning coffee into a group hang instead of a queue for the machine.
+The fit depends on what the rest of the trip needs. **Heirloom**'s large-format homes across the Lower Garden District and Central City give a group comparing layouts on short notice a full kitchen with the counter space to run a real group breakfast. **Hotel Perle**'s CBD/Warehouse group suites work for a crew that wants walkability and separate bills over one shared house. **The Revelry**'s apartment-style floors in Central City give each sub-crew its own kitchen and coffee machine, which beats one shared queue for the machine.
 
 ---
 

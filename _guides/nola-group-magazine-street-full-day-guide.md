@@ -200,6 +200,6 @@ Cross one block to St. Charles Avenue and board the streetcar back toward Canal 
 
 Magazine Street runs through or adjacent to the Lower Garden District, the Garden District, and Uptown. Both the Bywater and the LGD are well-positioned for a Magazine Street start, and location relative to the street is worth weighing against the other factors that matter for a group stay.
 
-A villa in the Lower Garden District puts Magazine Street at or near the front door, which cuts the morning to a walk instead of a rideshare. The Syd's LGD villas are one option there. Heirloom's large-format homes across the Lower Garden District and Central City are another, and The Revelry's apartment-style floors in Central City sit a short ride from the LGD end of the street. Bywater options like The Mazant trade proximity for a quieter base. For the largest selection, book 6+ months out.
+A villa in the Lower Garden District puts Magazine Street at or near the front door, which cuts the morning to a walk instead of a rideshare. Heirloom's large-format homes across the Lower Garden District and Central City are another, and The Revelry's apartment-style floors in Central City sit a short ride from the LGD end of the street. Bywater options like The Mazant trade proximity for a quieter base. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)

@@ -188,6 +188,6 @@ The morning-after experience is shaped more than anything by where you're stayin
 
 For large groups, the villa model is specifically designed for this: common space where people can gather at their own pace, a kitchen for coffee and real food, and a pool that handles the midday recovery without requiring anyone to go anywhere.
 
-The Mazant in the [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) are both set up for this dynamic — multiple rooms, full kitchens, outdoor pools, and the kind of morning-after infrastructure that makes a slow start comfortable rather than logistically complicated. For the largest selection, book 6+ months out.
+The Mazant in the [Bywater](/neighborhoods/bywater/) and The Revelry in Central City are both set up for this dynamic — multiple rooms, kitchens, saltwater or heated pools, and the kind of morning-after infrastructure that makes a slow start comfortable rather than logistically complicated. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
