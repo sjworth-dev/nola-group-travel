@@ -2082,3 +2082,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-03 UTC — seo: interlink `bachelor-party.md` to the casino, riverboat casino cruise, swamp tour, sports bar and Saints bar guides.
 2026-11-03 UTC — fix: property balance sweep — `nola-group-morning-routine-guide.md`, `nola-group-morning-after-strategy-guide.md`, `nola-group-magazine-street-full-day-guide.md` (Syd removed; Revelry/Heirloom/Mazant used).
 2026-11-03 UTC — backlog: no changes; Up Next empty.
+2026-11-03 UTC — note: second run today; `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-03 UTC — expand: refresh `rainy-day-guide.md` (oldest, 2026-07-29) — verdict opener, retitled/redescribed, hurricane/summer seasonality checked, hedged unverified claims (admission, Preservation Hall hours), removed group-size column/ranges and superlatives, added WWII, museum-day, cooking class, casino, summer, hurricane and hub links, bumped date.
+2026-11-03 UTC — seo: interlink `bachelorette-party.md` to cemetery, ghost tour, spa, cooking class, VIP night, Nashville and Savannah vs guides.
+2026-11-03 UTC — fix: property balance sweep — `villa-arrival-setup-guide.md`, `nola-group-villa-hot-tub-protocol-guide.md`, `nola-group-villa-game-night-guide.md` (Castleday/Syd removed; Mazant/Revelry/Natchez used).
+2026-11-03 UTC — backlog: no changes; Up Next empty.
