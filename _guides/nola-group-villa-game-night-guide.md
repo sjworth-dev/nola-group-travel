@@ -209,7 +209,7 @@ Make enough for the group plus 20%. You will always run low if you estimate exac
 
 A game night for the whole crew requires space: a table for teams, a TV or visible scoring surface, enough floor room for people not playing to stand or sit without being on top of the game. Most hotel rooms and short-term apartment rentals don't have this. Villa common areas do.
 
-The field spans single-property villas like Castleday Retreats (private pool per villa) in [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/), with a shared heated pool and hot tub one block from the St. Charles Streetcar. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks, round out the field for groups who'd rather have separate keys. Whatever you pick, check that the common area can actually fit the whole group at once before you commit — full kitchens for the batch cocktail setup and a courtyard or pool deck for the outdoor bracket games are the features that matter here, not the biggest number on a listing.
+The field spans single-house options like The Mazant in [Bywater](/neighborhoods/bywater/), with a heated pool and spa. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks, round out the field for groups who'd rather have separate keys. Whatever you pick, check that the common area can actually fit the whole group at once before you commit — full kitchens for the batch cocktail setup and a courtyard or pool deck for the outdoor bracket games are the features that matter here, not the biggest number on a listing.
 
 For the largest selection, book 6+ months out.
 
