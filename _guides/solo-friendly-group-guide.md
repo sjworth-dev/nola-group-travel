@@ -1,17 +1,19 @@
 ---
-title: "Mixed Groups in New Orleans: Solo Travelers, Partners, and Different Interests"
-description: "How to plan a NOLA group trip when some people are solo travelers, some are couples, and everyone wants something different."
+title: "Mixed Groups in New Orleans: Solos, Couples, Clashing Tastes"
+description: "Solo travelers, tag-along partners, early sleepers and night owls: the soft-schedule plan that lets a mismatched New Orleans crew split up and still reunite."
 category: "Planning & Logistics"
 card_title: "Mixed Group Planning"
 card_description: "Solo travelers, tag-along partners, introverts, extroverts. How to make one trip work for everyone."
-date: 2026-07-29
+date: 2026-11-03
 ---
+
+Verdict: don't plan one trip for everyone. Plan one dinner a day, let the afternoons split, and New Orleans handles the rest.
 
 Every group has them: the partner who came because their significant other did. The friend who doesn't drink. The introvert who loves everyone but needs a break from everyone. The one person who's never been to New Orleans and wants to do ALL the tourist things while everyone else has been a dozen times.
 
 Managing a group with different interests, energy levels, and travel styles is one of the harder logistical problems in group travel. New Orleans actually helps—it's a city where doing nothing is an activity, where there's always something happening, and where you can split up and reconvene without anyone feeling left out.
 
-Here's how to make one trip work for everyone.
+Here's how to make one trip work for everyone. If you're still at the "where do we even start" stage, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the big decisions first; this guide is for the people-management part.
 
 ## Quick Planning Checklist
 
@@ -151,7 +153,7 @@ In a city that runs 24 hours, introverts can burn out fast. They'll go along unt
 
 **For the extroverts:**
 
-- The second half of Bourbon Street is never closed
+- Bourbon Street never closes, and neither do the bars on Frenchmen — see the [Bourbon Street guide](/guides/nola-bourbon-street-guide/) for the one hour worth your time
 - There will always be someone to go out with — this city has no shortage of activity
 - Don't guilt-trip the people who tap out early
 
@@ -225,9 +227,9 @@ The group anchor moments — the dinners together, the one big activity — shou
 
 For mixed groups, accommodation choice is even more important than for a homogenous group. You need enough private space that people can retreat, plus enough common space that togetherness happens naturally — and the property field spans a real range of fits here.
 
-**Castleday Retreats** — private-pool Bywater villas, 14–30 guests each. The combination of private rooms, a full kitchen, and common areas means the introvert can disappear to the pool with a book while the extroverts are deep in the kitchen cooking together — and they're still in the same space. That fits mixed groups where togetherness and privacy have to coexist.
+**The Revelry** — Central City apartment-style floors (6–9 guests each) with a saltwater pool and separate billing per floor. A floor per sub-crew means the early sleepers and night owls aren't sharing a hallway, and the pool is common ground. That fits mixed groups where togetherness and privacy have to coexist.
 
-**The Mazant** — a single 1880s Bywater guesthouse sleeping 18, with a heated pool and spa. One house with a pool and spa to retreat to — the right size when the group tops out around eighteen. If you'd rather be near the St. Charles Streetcar, the Lower Garden District is the alternative: the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car.
+**The Mazant** — a single 1880s Bywater guesthouse sleeping 18, with a heated pool and spa. One house with a pool and spa to retreat to — the right size when the group tops out around eighteen. If you'd rather be near the St. Charles Streetcar, the Lower Garden District is the alternative: the non-drinker who wants the Garden District while the group bar-hops can get there and back without a car. The [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) lays out the tradeoffs.
 
 **Hotel Perle** — CBD/Warehouse District group suites with separate bills per room. If your mixed group includes people who genuinely want their own paid-for space rather than a shared house, suites with individual billing solve that friction better than a villa split evenly on one card.
 
