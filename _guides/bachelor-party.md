@@ -99,13 +99,13 @@ Book big-group tee times weeks out — the [large group golf guide](/guides/larg
 ### On the Water
 
 - **Fishing charter:** half-day redfish and speckled trout runs. Boats take 4–6, so a big crew books a small fleet — the [fishing guide](/guides/nola-group-fishing-guide/) covers the split and the marina logistics.
-- **Swamp/airboat tour:** alligators guaranteed, funnier with a mild hangover than you'd expect.
+- **Swamp/airboat tour:** alligators guaranteed (the [swamp tour guide](/guides/nola-swamp-tour-guide/) compares the boats), funnier with a mild hangover than you'd expect.
 - **Kayaking Bayou St. John:** the quiet option nobody suggests and everybody enjoys.
 
 ### Other Ideas
 
-- **Gambling:** Harrah's (now Caesars New Orleans) downtown — the city's one land-based casino floor, with a sportsbook. Manage expectations: it's a casino, not a Vegas resort ecosystem.
-- **Saints/Pelicans game:** if timing works, nothing beats the Superdome with a crew.
+- **Gambling:** Harrah's (now Caesars New Orleans) downtown — the city's one land-based casino floor, with a sportsbook. Manage expectations: it's a casino, not a Vegas resort ecosystem. The [casino guide](/guides/nola-casino-guide/) and the [riverboat casino cruise guide](/guides/nola-group-riverboat-casino-cruise-guide/) cover the options.
+- **Saints/Pelicans game:** if timing works, nothing beats the Superdome with a crew. No tickets? The [sports bar guide](/guides/nola-group-sports-bar-guide/) and [Saints bar guide](/guides/nola-group-new-orleans-saints-bar-guide/) find a room that fits the whole headcount.
 - **Gun range:** shooting sports available outside the city for the group that wants it.
 
 ## Where to Eat (Group-Friendly)
