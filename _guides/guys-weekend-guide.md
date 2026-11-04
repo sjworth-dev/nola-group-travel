@@ -44,6 +44,8 @@ New Orleans is a legitimate golf city. You're not roughing it. For a full tee-ti
 
 ### Fishing
 
+For charter logistics and what a full boat costs, see the [fishing guide](/guides/nola-group-fishing-guide/).
+
 The Gulf Coast fishing around New Orleans is legitimate world-class stuff. Red drum (redfish), speckled trout, and flounder in the marsh. Offshore for larger game.
 
 **Types of trips:**
@@ -59,7 +61,7 @@ The Gulf Coast fishing around New Orleans is legitimate world-class stuff. Red d
 
 ### Swamp Tours
 
-If some guys want the fishing experience but not the full charter commitment, a swamp tour is a solid half-day option.
+If some guys want the fishing experience but not the full charter commitment, a swamp tour is a solid half-day option. The [swamp tour guide](/guides/nola-swamp-tour-guide/) compares the formats.
 
 Airboat tours get you into the cypress swamps and bayous south of the city. You'll see alligators. You'll see cypress trees draped in Spanish moss. It's genuinely impressive.
 
@@ -68,6 +70,8 @@ Most tour companies run group departures out of the Bayou Segnette area, about 3
 ---
 
 ### Sports Bars and Gameday
+
+Need a bar that can seat the whole crew for kickoff? The [sports bar guide](/guides/nola-group-sports-bar-guide/) sorts them.
 
 New Orleans is a Saints city. When the Saints are on, the bars fill up and the energy is real.
 
@@ -97,7 +101,7 @@ Not a bachelor party officially, but the group is in that range. Here's what wor
 
 **Axe throwing** — A few venues in the area. Works fine for groups, no setup required.
 
-**Poker night at the house** — If you have a big private rental, one night just playing cards and ordering delivery hits different. Not everything needs to be a scheduled activity.
+**Poker night at the house** — If you have a big private rental, one night just playing cards and ordering delivery hits different. Not everything needs to be a scheduled activity. If the group wants real stakes, the [casino guide](/guides/nola-casino-guide/) covers the other option.
 
 **Private second line** — Hire a brass band to lead your group through the streets. This is genuinely one of the most fun things you can do in New Orleans with a large group. See the [second line guide](/guides/second-line-guide/) for how to book.
 

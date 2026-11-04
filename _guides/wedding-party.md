@@ -47,7 +47,7 @@ Smaller weddings where the entire guest list stays together in one large rental.
 
 ### For Large Wedding Parties
 
-The field spans private-villa operators like Castleday Retreats (Bywater, private pools per villa) and The Syd (Lower Garden District, a block off the St. Charles streetcar, shared pool and hot tub), Heirloom's larger inventory of large-format homes across the LGD and Central City for short-notice availability, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for guests who want their own key and bill. Pick for the getting-ready space and common area your wedding party actually needs, not the biggest number on a listing.
+The field spans large-format rentals like The Mazant (an 1880s Bywater guesthouse sleeping 18, with a pool and spa), Heirloom's larger inventory of large-format homes across the LGD and Central City for short-notice availability, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for guests who want their own key and bill. Pick for the getting-ready space and common area your wedding party actually needs, not the biggest number on a listing.
 
 ### Bridesmaids vs. Groomsmen
 
