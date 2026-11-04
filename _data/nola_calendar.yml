@@ -2,66 +2,24 @@
 # Facts only: event dates for guide refreshes. 'announced' events are set by
 # organizers each year — verify online before publishing a specific date.
 generated_window:
-- '2026-09-01'
-- '2027-11-01'
+- '2026-11-01'
+- '2028-01-01'
 events:
-- name: Southern Decadence
-  slug: southern-decadence
-  location: French Quarter
-  start: '2026-09-03'
-  end: '2026-09-07'
-  confidence: exact
-- name: Saints home games
-  slug: saints-home-games
-  location: Caesars Superdome
-  start: '2026-09-27'
-  end: '2026-09-27'
-  confidence: announced
-- name: Fried Chicken Fest
-  slug: fried-chicken-fest
-  location: Lakefront (New Orleans Lakefront Airport grounds)
-  start: '2026-10-02'
-  end: '2026-10-04'
-  confidence: announced
-- name: Art for Art's Sake
-  slug: art-for-arts-sake
-  location: Magazine Street galleries
-  start: '2026-10-03'
-  end: '2026-10-03'
-  confidence: typical
-- name: Crescent City Blues & BBQ Fest
-  slug: crescent-city-blues-bbq-fest
-  location: Lafayette Square
-  start: '2026-10-09'
-  end: '2026-10-11'
-  confidence: announced
-- name: New Orleans Film Festival
-  slug: new-orleans-film-festival
-  location: Citywide (multiple venues)
-  start: '2026-10-22'
-  end: '2026-10-27'
-  confidence: announced
-- name: Krewe of Boo
-  slug: krewe-of-boo
-  location: French Quarter route
-  start: '2026-10-24'
-  end: '2026-10-24'
-  confidence: typical
-- name: Halloween on Frenchmen Street
-  slug: halloween-on-frenchmen-street
-  location: Frenchmen St, through the Marigny
-  start: '2026-10-31'
-  end: '2026-10-31'
-  confidence: exact
 - name: Oak Street Po-Boy Festival
   slug: oak-street-po-boy-festival
   location: Oak Street, Carrollton
   start: '2026-11-08'
   end: '2026-11-08'
   confidence: announced
+- name: Saints home games
+  slug: saints-home-games
+  location: Caesars Superdome
+  start: '2026-11-08'
+  end: '2026-11-08'
+  confidence: announced
 - name: Luna Fete
   slug: luna-fete
-  location: Lafayette Square
+  location: Downtown (Gallier Hall)
   start: '2026-11-13'
   end: '2026-11-15'
   confidence: announced
@@ -227,6 +185,30 @@ events:
   start: '2027-08-14'
   end: '2027-08-14'
   confidence: typical
+- name: Southern Decadence
+  slug: southern-decadence
+  location: French Quarter
+  start: '2027-09-02'
+  end: '2027-09-06'
+  confidence: exact
+- name: Art for Art's Sake
+  slug: art-for-arts-sake
+  location: Magazine Street galleries
+  start: '2027-10-02'
+  end: '2027-10-02'
+  confidence: typical
+- name: Krewe of Boo
+  slug: krewe-of-boo
+  location: French Quarter route
+  start: '2027-10-30'
+  end: '2027-10-30'
+  confidence: typical
+- name: Halloween on Frenchmen Street
+  slug: halloween-on-frenchmen-street
+  location: Frenchmen St, through the Marigny
+  start: '2027-10-31'
+  end: '2027-10-31'
+  confidence: exact
 seasons:
 - slug: oyster-season
   name: Oyster Season
@@ -282,3 +264,9 @@ seasons:
   end: '2028-01-05'
   confidence: typical
   note: regular season; actual home dates live in announced-dates.yaml under saints-home-games
+- slug: reveillon-dinners
+  name: Reveillon dinners
+  start: '2027-12-01'
+  end: '2027-12-31'
+  confidence: exact
+  note: restaurant Réveillon menus run all December
