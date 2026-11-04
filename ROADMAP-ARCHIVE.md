@@ -2087,3 +2087,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-03 UTC — seo: interlink `bachelorette-party.md` to cemetery, ghost tour, spa, cooking class, VIP night, Nashville and Savannah vs guides.
 2026-11-03 UTC — fix: property balance sweep — `villa-arrival-setup-guide.md`, `nola-group-villa-hot-tub-protocol-guide.md`, `nola-group-villa-game-night-guide.md` (Castleday/Syd removed; Mazant/Revelry/Natchez used).
 2026-11-03 UTC — backlog: no changes; Up Next empty.
+2026-11-04 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-04 UTC — expand: refresh `new-years-guide.md` (oldest, 2026-07-30) — verdict opener, retitled/redescribed, Sugar Bowl no longer assumed Jan 1 (calendar data: Jan 15 2027, announced), removed invented restaurant capacities and unverified ball-drop/second-line claims, normalized pricing language, added planning-hub, budget and weather links, bumped date.
+2026-11-04 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the New Year's Eve guide (bundled in sweep commit).
+2026-11-04 UTC — fix: property balance sweep — `nola-group-mardi-gras-costume-guide.md`, `nola-group-new-orleans-vs-charleston-guide.md`, `nola-group-new-orleans-vs-key-west-guide.md` (Castleday/Syd removed; Mazant used).
+2026-11-04 UTC — backlog: no changes; Up Next empty.
