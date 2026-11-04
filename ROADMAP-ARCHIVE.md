@@ -2092,3 +2092,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-04 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to the New Year's Eve guide (bundled in sweep commit).
 2026-11-04 UTC — fix: property balance sweep — `nola-group-mardi-gras-costume-guide.md`, `nola-group-new-orleans-vs-charleston-guide.md`, `nola-group-new-orleans-vs-key-west-guide.md` (Castleday/Syd removed; Mazant used).
 2026-11-04 UTC — backlog: no changes; Up Next empty.
+2026-11-04 UTC — note: second run today; `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-04 UTC — expand: refresh `nola-group-jazz-museum-guide.md` (oldest, 2026-07-30) — verdict opener, retitled/redescribed, removed unverified exhibit claims (specific Armstrong/Bechet instruments), Satchmo SummerFest dating hedged, seasonality wording fixed, added music-history, jazz-history-tour, second-line, planning-hub and rainy-day links, bumped date.
+2026-11-04 UTC — seo: interlink `guys-weekend-guide.md` to the fishing, swamp tour, sports bar and casino guides.
+2026-11-04 UTC — fix: property balance sweep — `wedding-weekend-guide.md`, `wedding-party.md`, `volunteer-trip-guide.md` (Castleday/Syd removed; Revelry/Mazant/Natchez used). Bundled into the guys-weekend seo commit.
+2026-11-04 UTC — backlog: no changes; Up Next empty.
