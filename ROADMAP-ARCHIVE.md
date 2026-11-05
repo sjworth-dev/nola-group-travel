@@ -2097,3 +2097,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-04 UTC — seo: interlink `guys-weekend-guide.md` to the fishing, swamp tour, sports bar and casino guides.
 2026-11-04 UTC — fix: property balance sweep — `wedding-weekend-guide.md`, `wedding-party.md`, `volunteer-trip-guide.md` (Castleday/Syd removed; Revelry/Mazant/Natchez used). Bundled into the guys-weekend seo commit.
 2026-11-04 UTC — backlog: no changes; Up Next empty.
+2026-11-05 UTC — note: `## Up Next` empty, so no new page (human-gated; the runner prompt's "generate backlog" instruction was not applied because ROADMAP.md's human-gate rule governs). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-05 UTC — expand: refresh `nola-group-wwii-museum-guide.md` (oldest, 2026-07-30) — verdict opener, retitled/redescribed, hedged time estimates, added planning-hub, budget, cemetery, Jazz Museum links, summer seasonality line, bumped date.
+2026-11-05 UTC — seo: interlink `first-timer-guide.md` to the WWII museum and rainy-day guides.
+2026-11-05 UTC — fix: property balance sweep — vs Nashville, San Antonio, Savannah guides (Castleday/Syd removed; Mazant used).
+2026-11-05 UTC — backlog: no changes; Up Next empty.
