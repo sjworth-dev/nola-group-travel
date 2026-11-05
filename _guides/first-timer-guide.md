@@ -67,7 +67,7 @@ Not from Subway. Not from a gas station. From a real po-boy shop. Roast beef dre
 
 ### 3. The WWII Museum
 
-One of the best museums in the country, full stop. Groups that dismiss it as a boring museum are wrong — the production quality and scale are remarkable. Budget half a day. It's in the Warehouse District.
+One of the best museums in the country, full stop. Groups that dismiss it as a boring museum are wrong — the production quality and scale are remarkable. Budget half a day. It's in the Warehouse District. The [WWII Museum group guide](/guides/nola-group-wwii-museum-guide/) covers pacing and group tickets; if rain wrecks the plan, it anchors the [rainy-day guide](/guides/rainy-day-guide/) too.
 
 ### 4. The Garden District Walking Tour
 
