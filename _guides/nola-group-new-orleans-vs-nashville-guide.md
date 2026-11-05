@@ -54,7 +54,7 @@ Nashville's short-term rental scene for large groups leans toward big suburban h
 
 New Orleans has a more developed purpose-built large-group villa market, concentrated in the Bywater and Lower Garden District. These are properties designed specifically for double-digit crews — private or shared pools, full kitchens, and a real home base rather than a big house that happens to sleep a lot of people. The [Bywater vs. LGD comparison](/guides/nola-group-bywater-vs-lgd-deep-comparison/) breaks down how those two neighborhoods differ for a group deciding between them.
 
-**Editorial examples of what that inventory looks like** (representative, not recommendations): purpose-built villas like Castleday Retreats in the Bywater or The Syd in the Lower Garden District sleep the whole crew under one roof with a pool; operators like Heirloom carry dozens of large-format homes with real short-notice availability; The Natchez and The Revelry cover the apartments-around-a-pool format; and hotels from Hotel Perle to The Roosevelt handle group suites and room blocks. That's a depth of walkable, purpose-built group housing that most cities, Nashville included, don't have.
+**Editorial examples of what that inventory looks like** (representative, not recommendations): purpose-built houses like The Mazant in the Bywater sleep the whole crew under one roof with a pool; operators like Heirloom carry dozens of large-format homes with real short-notice availability; The Natchez and The Revelry cover the apartments-around-a-pool format; and hotels from Hotel Perle to The Roosevelt handle group suites and room blocks. That's a depth of walkable, purpose-built group housing that most cities, Nashville included, don't have.
 
 ---
 
