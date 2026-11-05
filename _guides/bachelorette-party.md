@@ -119,7 +119,7 @@ One dinner should be *the* dinner. For a big group that means a private room or 
 
 **Pampering:** [Spa day](/guides/nola-bachelorette-spa-day/) (Belladonna, Nola Bliss) · group mani-pedis (book ahead) · blowout bar (Drybar Uptown)
 
-**Only-in-New-Orleans:** [cooking class](/guides/nola-cooking-class-guide/) (gumbo or beignets) · swamp tour (alligators, airboats, group screaming) · burlesque show (The Allways Lounge) · a [second line parasol workshop](/guides/nola-group-second-line-umbrella-making-guide/) if the group wants a craft with a payoff
+**Only-in-New-Orleans:** [cooking class](/guides/nola-cooking-class-guide/) (gumbo or beignets) · swamp tour (alligators, airboats, group screaming) · burlesque show (The Allways Lounge) · a [second line parasol workshop](/guides/nola-group-second-line-umbrella-making-guide/) if the group wants a craft with a payoff · a private brass band [second line](/guides/second-line-guide/) for the walk to dinner (the [public vs. private breakdown](/guides/nola-group-private-second-line-vs-public-guide/) helps you pick)
 
 ## Nightlife Guide
 

@@ -2102,3 +2102,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-05 UTC — seo: interlink `first-timer-guide.md` to the WWII museum and rainy-day guides.
 2026-11-05 UTC — fix: property balance sweep — vs Nashville, San Antonio, Savannah guides (Castleday/Syd removed; Mazant used).
 2026-11-05 UTC — backlog: no changes; Up Next empty.
+2026-11-05 UTC — note: second run today; `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-05 UTC — expand: refresh `second-line-guide.md` (oldest, 2026-07-30) — verdict opener, retitled/redescribed, hedged schedule/season/mileage claims, replaced per-date booking window with "book early", property paragraph made neutral, added Carnival calendar, Jazz Fest, music history, 3-day itinerary and planning-hub links, bumped date.
+2026-11-05 UTC — seo: interlink `bachelorette-party.md` to the second line guide and private-vs-public second line guide.
+2026-11-05 UTC — fix: property balance sweep — piano bar, paint night, scavenger hunt guides (Castleday/Syd removed; Mazant/Revelry/Natchez used).
+2026-11-05 UTC — backlog: no changes; Up Next empty.
