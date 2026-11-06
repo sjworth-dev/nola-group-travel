@@ -86,7 +86,7 @@ For groups who want the sports experience without stadium logistics, New Orleans
 
 **Neighborhood bars in the Bywater** — The Bywater's dive bars show the game. Less tourist energy, more local.
 
-**The house watch party:** Both Castleday and The Syd villas have full living spaces. A group of 20 watching a Saints game at the house, with the outdoor setup running, food from the kitchen, and the freedom to control the environment — sometimes this beats the bar.
+**The house watch party:** Large-format rentals and apartment-style floors (Heirloom, The Revelry and similar) have full living spaces. A group of 20 watching a Saints game at the house, with the outdoor setup running, food from the kitchen, and the freedom to control the environment — sometimes this beats the bar.
 
 ---
 

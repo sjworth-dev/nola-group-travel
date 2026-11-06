@@ -201,7 +201,7 @@ The most important thing: don't minimize symptoms and don't wait.
 
 The villa rotation model works because the villa is worth coming back to. A hotel room that sleeps three and has one bathroom isn't much of a recovery space for a group of 20; a private rental with a real kitchen and its own outdoor space is.
 
-The field varies by neighborhood and what it fits. Castleday Retreats runs Bywater villas with a private pool per house, roughly 15 minutes from the Fair Grounds on a Jazz Fest day. The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas share a heated pool and hot tub about 20 minutes from the Superdome cluster, a workable Essence Fest rotation base. Heirloom's larger inventory spans several neighborhoods if those two don't have the dates or headcount you need. Whichever you book, confirm the AC and the pool situation directly — don't assume amenities a listing doesn't state.
+The field varies by neighborhood and what it fits. Heirloom's larger-format homes in the [Lower Garden District](/neighborhoods/lower-garden-district/) and Central City offer the deepest inventory if dates are tight. The Revelry's apartment-style floors share a saltwater pool for post-festival cooldowns, and Hotel Perle's CBD suites keep a downtown festival like Essence Fest within reach. Hotel room blocks work too if the crew wants separate keys and bills. Whichever you book, confirm the AC and the pool situation directly — don't assume amenities a listing doesn't state.
 
 [See where to stay for large groups →](/where-to-stay/)
 
