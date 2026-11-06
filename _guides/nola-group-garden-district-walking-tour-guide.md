@@ -156,6 +156,8 @@ Carry water. The Magazine Street cafes are a natural hydration point. Ice cream 
 
 ## Garden District vs. Other NOLA Neighborhood Walks
 
+Pairing the walk with a girls trip? The [Uptown girls trip guide](/guides/girls-trip-uptown/) slots it between a Magazine Street shopping pass and brunch.
+
 | Walk | Character | Group Size | Time |
 |------|-----------|------------|------|
 | Garden District | Grand architecture, wide sidewalks, cemetery | 10-30 | 3 hours |
