@@ -273,7 +273,7 @@ Regardless of season, this is the list every person in your group should have:
 
 If your group is staying at one of the large-group villas — the kind with a real kitchen and a pool — your packing list adjusts slightly. You're not just sleeping here; you're living here for a few days.
 
-**Bywater villas** like Castleday Retreats (14-30 guests per villa, private pool) put you in a house with a full kitchen, not a hotel room. **Lower Garden District villas** like The Syd (up to 22 guests per villa, shared heated pool and outdoor kitchen) do the same, and Heirloom's large-format homes across the LGD and Central City are the option when the calendar's tight or your headcount doesn't fit neatly into one villa. Bring: swimwear (you'll be in the pool), something to cook in, coffee supplies if you have a specific preference, and light clothing for outdoor kitchen dinners.
+**Bywater houses** like The Mazant (sleeps 18, heated pool and spa) put you in a house with a kitchen, not a hotel room. **Apartment-style options** like The Revelry in Central City (a floor per crew, saltwater pool) split the difference, and Heirloom's large-format homes across the LGD and Central City are the option when the calendar's tight or your headcount doesn't fit neatly into one villa. Bring: swimwear (you'll be in the pool), something to cook in, coffee supplies if you have a specific preference, and light clothing for outdoor kitchen dinners.
 
 These are all residential neighborhoods. You're not walking out the front door into a hotel lobby. You're in a house in New Orleans. Pack like you're staying at someone's house — comfortable clothes, stuff you can relax in, and the essentials for going out. For the largest selection, book 6+ months out.
 

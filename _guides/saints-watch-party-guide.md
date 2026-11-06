@@ -240,7 +240,7 @@ For groups of 15+, call ahead if you want space together. Don't walk in expectin
 
 The best watch parties happen when everyone's under one roof, with a real kitchen and somewhere to spread out. A hotel room block can work if your group wants its own keys and bills, but it won't give you the shared living space a watch party actually needs.
 
-**Editorial examples of what fits:** properties like Castleday Retreats (private-pool Bywater villas) put a group about a 30-minute walk or 10-minute ride from the Superdome, with multiple living areas and full kitchens for a proper game-day home base. The Syd, one block from the St. Charles Streetcar in the Lower Garden District, gets you to the CBD and Superdome in under 15 minutes — a good fit if you're deciding villa vs. stadium up until kickoff. Neither is a booking recommendation; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a shared villa stacks up against a hotel room block for a group this size.
+**Editorial examples of what fits:** The Revelry (apartment-style floors with a saltwater pool in Central City) and Hotel Perle (group suites in the CBD) both sit close to the Superdome, which suits a crew that wants to walk or take a short ride to kickoff. Heirloom's large-format homes in the Lower Garden District and Central City add choice if you're deciding villa vs. stadium up until kickoff. Neither is a booking recommendation; the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a shared villa stacks up against a hotel room block for a group this size.
 
 For the largest selection, book 6+ months out.
 
