@@ -2107,3 +2107,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-05 UTC — seo: interlink `bachelorette-party.md` to the second line guide and private-vs-public second line guide.
 2026-11-05 UTC — fix: property balance sweep — piano bar, paint night, scavenger hunt guides (Castleday/Syd removed; Mazant/Revelry/Natchez used).
 2026-11-05 UTC — backlog: no changes; Up Next empty.
+2026-11-06 UTC — note: `## Up Next` empty, so no new page (human-gated; the runner prompt's "generate backlog" instruction was not applied because ROADMAP.md's human-gate rule governs). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-06 UTC — expand: refresh `girls-trip-uptown.md` (oldest, 2026-07-31) — verdict opener, retitled/redescribed, removed invented group-size column, hedged restaurant/spa/award claims, removed variable booking window, neutralized property paragraph, added spa, bachelorette, brunch, Garden District links, bumped date.
+2026-11-06 UTC — seo: interlink `nola-group-garden-district-walking-tour-guide.md` to the Uptown girls trip guide.
+2026-11-06 UTC — fix: property balance sweep — oyster bar, packing, Saints watch party guides (Castleday/Syd removed; Mazant/Revelry/Perle used).
+2026-11-06 UTC — backlog: no changes; Up Next empty.
