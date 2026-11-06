@@ -2112,3 +2112,7 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-06 UTC — seo: interlink `nola-group-garden-district-walking-tour-guide.md` to the Uptown girls trip guide.
 2026-11-06 UTC — fix: property balance sweep — oyster bar, packing, Saints watch party guides (Castleday/Syd removed; Mazant/Revelry/Perle used).
 2026-11-06 UTC — backlog: no changes; Up Next empty.
+2026-11-06 14:xx UTC — expand: refresh `first-timer-guide.md` (oldest, 2026-07-31) — retitled/redescribed, hedged invented restaurant names, fixed second-line/red-beans/heat-season claims, standard lead-time line, Mardi Gras Day 2027 date.
+2026-11-06 14:xx UTC — seo: interlink `guys-weekend-guide.md` to bachelor-party and bachelor-party-itinerary.
+2026-11-06 14:xx UTC — fix: property balance sweep — outdoor-festival-heat-management, sports-weekend, umbrella-drinks guides (Castleday/Syd removed).
+2026-11-06 14:xx UTC — backlog: no changes; Up Next empty (no new page, human-gated). Slack unreachable (MCP connect failed).
