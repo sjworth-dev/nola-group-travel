@@ -1,23 +1,23 @@
 ---
-title: "New Orleans First-Timer Guide for Large Groups"
-description: "Everything a large group needs to know before their first trip to New Orleans: the must-dos, common mistakes, what's real vs. tourist trap, and how to actually experience the city."
+title: "First Time in New Orleans With a Big Group? Read This"
+description: "Going to New Orleans for the first time with a crowd? Skip the tourist traps, pick the right neighborhoods, and avoid the mistakes that cost big groups half a day."
 category: "Planning & Logistics"
 card_title: "First-Timer Guide"
 card_description: "What to know, what to skip, and how to see the real New Orleans with your group."
-date: 2026-07-31
+date: 2026-11-06
 ---
 
 New Orleans is unlike any other American city. That's not a marketing line — it's a practical fact that matters for your planning. The culture, the food, the music, the pace, the geography — everything is different here. Groups that show up with assumptions built on other cities have a rough first day. Groups that understand what they're walking into have one of the best trips of their lives.
 
-This guide is the orientation we wish every first-timer had before they landed.
+This guide is the orientation to read before you land: what to do, what to skip, and where the city actually lives.
 
 ## Quick Checklist
 
-- [ ] Book accommodations early — large-group rentals are scarce and fill up
+- [ ] Lock in accommodations first — for the largest selection, book 6+ months out
 - [ ] Make 2-3 dinner reservations before you arrive (don't try to walk in to popular spots with 20 people)
 - [ ] Download a map that works offline — French Quarter streets are confusing
 - [ ] Know your neighborhoods: French Quarter ≠ all of New Orleans
-- [ ] Check the [festival calendar](/guides/festival-season-calendar/) for what's happening that weekend — [Mardi Gras](/guides/mardi-gras-group-guide/), [Jazz Fest](/guides/jazz-fest-group-guide/), and [Essence Fest](/guides/essence-festival/) change everything
+- [ ] Check the [festival calendar](/guides/festival-season-calendar/) for what's happening that weekend (Mardi Gras Day 2027 is Feb. 9) — [Mardi Gras](/guides/mardi-gras-group-guide/), [Jazz Fest](/guides/jazz-fest-group-guide/), and [Essence Fest](/guides/essence-festival/) change everything
 - [ ] Set a realistic budget — the [budget guide](/guides/budget-guide/) runs the real per-person math
 - [ ] Tell someone they're the trip point person before you land
 
@@ -39,7 +39,7 @@ You don't have to go deep on day one. But go with an open itinerary and you'll f
 
 | Neighborhood | What It Is | Best For |
 |-------------|-----------|---------|
-| French Quarter | Historic core, most tourists | First impressions, Bourbon Street, Pat O'Brien's |
+| French Quarter | Historic core, most tourists | First impressions, Bourbon Street, Bourbon Street |
 | Marigny | Just east of the Quarter | Frenchmen Street live music — this is the real scene |
 | Bywater | Artist neighborhood, east of Marigny | Bacchanal Wine, local feel, artist studios |
 | Garden District | Historic mansions, Magazine Street | Walking tour, shopping, Commander's Palace |
@@ -79,7 +79,7 @@ A wine shop with a back courtyard that has live jazz, cheese boards, and a kitch
 
 ### 6. A Second Line Parade
 
-If one happens to be scheduled during your visit, you go. These are community parades with brass bands that wind through neighborhoods every Sunday (when not during summer and certain holidays). Nothing staged about it. You join in. See the [second line guide](/guides/second-line-guide/) for logistics.
+If one happens to be scheduled during your visit, you go. These are community parades with brass bands that wind through neighborhoods on Sundays during the season (roughly fall through spring; check the schedule, since summer is mostly quiet). Nothing staged about it. You join in. See the [second line guide](/guides/second-line-guide/) for logistics.
 
 ### 7. Breakfast at a Real NOLA Spot
 
@@ -113,7 +113,7 @@ With a group of 20, you can't just walk into popular restaurants. The ones worth
 
 ### Underestimating the Heat
 
-May through October is brutal. Not "a little warm" — legitimately oppressive heat and humidity. Schedule outdoor activities in the morning. Have a midday plan that involves AC. Hydrate constantly. If the heat is the price of a cheaper trip, the [off-season guide](/guides/shoulder-season-guide/) explains what the summer and January discounts actually buy.
+Late spring through early fall is brutal. Not "a little warm" — legitimately oppressive heat and humidity (October is the first real relief, which is part of why it's peak season). Schedule outdoor activities in the morning. Have a midday plan that involves AC. Hydrate constantly. If the heat is the price of a cheaper trip, the [off-season guide](/guides/shoulder-season-guide/) explains what the summer and January discounts actually buy.
 
 ### Arriving Without a Plan and Calling It "Spontaneous"
 
@@ -121,7 +121,7 @@ This works fine for a couple. It fails for a large group. When 20 people have to
 
 ### Spending All Your Time in the French Quarter
 
-Important for context: the French Quarter is the most tourist-dense, most policed, most expensive part of New Orleans. Real NOLA eats in the Bywater, drinks on Frenchmen Street, and lives Uptown.
+Important for context: the French Quarter is the most tourist-dense, most policed, most expensive part of New Orleans. Locals eat in the Bywater, drink on Frenchmen Street, and live Uptown.
 
 ### Missing the Music
 
@@ -159,7 +159,7 @@ The French Quarter is mostly a clean grid. The rest of the city follows the curv
 |------|-----------|---------------|
 | Po-boy | Sandwich on French bread, filled with roast beef, shrimp, oysters, or debris | Any local po-boy shop |
 | Gumbo | Dark roux stew with okra, meat, and andouille | Order it anywhere, it varies widely |
-| Red beans and rice | Mondays in New Orleans — it's tradition | Tuesday through Sunday anywhere good |
+| Red beans and rice | A Monday tradition, now served at plenty of places any day | Any local spot that does it right |
 | Crawfish étouffée | Crawfish in a rich Cajun butter sauce | Any Cajun restaurant |
 | Beignets | Fried dough, powdered sugar | Café Du Monde is the standard |
 | Oysters | Gulf oysters, usually fried or on the half shell | Any seafood restaurant |
@@ -196,7 +196,7 @@ This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary
 - Head to Bacchanal Wine in the Bywater for late afternoon
 
 **Evening:**
-- Dinner: Bywater Bistro or Oxalis or a neighborhood spot
+- Dinner: a Bywater or Marigny neighborhood spot (reserve ahead for a big table)
 - Frenchmen Street for live music (stay until at least 11 PM)
 
 ---
@@ -213,7 +213,7 @@ This is a solid default shape, but the [3-day itinerary guide](/guides/itinerary
 
 **Evening:**
 - Pre-dinner cocktails at the Sazerac Bar (Roosevelt Hotel)
-- Dinner: Cochon or Pêche
+- Dinner: a Warehouse District Cajun or seafood spot
 - French Quarter for one proper Bourbon Street experience
 - Transition to Frenchmen Street by midnight
 
