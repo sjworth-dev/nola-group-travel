@@ -9,7 +9,7 @@ date: 2026-07-31
 
 New Orleans is one of the best cities in the country for a guys weekend. The activities are genuinely good—golf, fishing, swamp tours, sports bars. The bar culture is built for groups. And nobody's going to rush you out anywhere.
 
-The problem most guys trips run into: they show up without a plan and spend most of the weekend arguing about what to do next. This guide gives you the plan. If nobody's organized a group trip here before, the [planning hub](/guides/plan-a-group-trip/) sequences the bigger decisions — dates, housing, budget — in the order they actually need to happen.
+The problem most guys trips run into: they show up without a plan and spend most of the weekend arguing about what to do next. This guide gives you the plan. If nobody's organized a group trip here before, the [planning hub](/guides/plan-a-group-trip/) sequences the bigger decisions — dates, housing, budget — in the order they actually need to happen. If the weekend is really a send-off, the [bachelor party guide](/guides/bachelor-party/) and its [hour-by-hour itinerary](/guides/bachelor-party-itinerary/) are the better starting point.
 
 ## Quick Checklist
 
