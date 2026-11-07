@@ -1,11 +1,13 @@
 ---
-title: "Hogs for the Cause With a Group: New Orleans' BBQ-and-Brass-Bands Charity Festival"
-description: "How to plan a group day around Hogs for the Cause — the March BBQ competition and live music festival at the UNO lakefront, and how it fits New Orleans' spring peak-season calendar."
+title: "Hogs for the Cause New Orleans: A Group Day Guide"
+description: "Hogs for the Cause is a March BBQ cookoff with live music on the lakefront. Here's how to run it with a big group: tickets, transport, sun, and sampling."
 category: "Festivals & Events"
 card_title: "Hogs for the Cause"
 card_description: "A BBQ competition, a lakefront full of smoke and live music, and a cause worth showing up for — the group planning guide."
-date: 2026-07-31
+date: 2026-11-07
 ---
+
+**Verdict: go, but treat it as a full day out at the lakefront, not a stop on the way to somewhere else.** It is the best food-first festival on the spring calendar, and the cause makes the line for brisket feel less guilty.
 
 Most of the spring festival calendar pulls a group toward the French Quarter or the Fair Grounds. Hogs for the Cause pulls the other direction entirely — out to the UNO lakefront, where dozens of amateur and professional barbecue teams spend a weekend competing over pork, smoke, and a genuinely good cause: raising money for families dealing with pediatric brain cancer.
 
@@ -17,13 +19,14 @@ Hogs for the Cause lands squarely inside the city's spring [peak season](/guides
 
 ## Quick Checklist
 
-- [ ] Confirm the current year's exact dates and ticket tiers on the official Hogs for the Cause site — both shift year to year and this guide won't invent specifics
+- [ ] Confirm the exact dates (currently announced for March 19–20, 2027; verify on the official site)
+- [ ] Confirm the current year's ticket tiers and ticket tiers on the official Hogs for the Cause site — both shift year to year and this guide won't invent specifics
 - [ ] Buy tickets ahead rather than counting on gate sales for a group
 - [ ] Plan transportation to the UNO lakefront — it's outside the French Quarter/Uptown core most group trips anchor around
 - [ ] Bring cash for team booths selling extra plates and merchandise
 - [ ] Set a rally point for the group before splitting up to explore competing teams' booths
 - [ ] Check the weather forecast — this is an outdoor, mostly unshaded lakefront event
-- [ ] Book lodging with spring peak-season lead time, not a shoulder-season assumption
+- [ ] Book lodging early — March is peak season, and for the largest selection, book 6+ months out
 
 ---
 
@@ -63,13 +66,13 @@ The lakefront grounds are largely open. For a group spending a full day outside,
 
 ### Pair It With the Rest of the Spring Calendar
 
-Because Hogs for the Cause lands in March, it often overlaps with the broader run-up to [Mardi Gras](/guides/mardi-gras-group-guide/) season or sits in the run-up to [French Quarter Fest](/guides/french-quarter-fest/) and [Jazz Fest](/guides/jazz-fest-group-guide/). A group building a longer spring trip can treat it as one distinct day inside a bigger festival-season itinerary rather than the whole reason for the trip.
+Because Hogs for the Cause lands in March, it falls after [Mardi Gras](/guides/mardi-gras-group-guide/) (Fat Tuesday is February 9 in 2027) and ahead of [French Quarter Fest](/guides/french-quarter-fest/) and [Jazz Fest](/guides/jazz-fest-group-guide/). Check the [events calendar](/events/) for how the weekends stack. A group building a longer spring trip can treat it as one distinct day inside a bigger festival-season itinerary rather than the whole reason for the trip.
 
 ---
 
 ## Pro Tips
 
-1. **Confirm the current year's dates before booking anything else.** Hogs for the Cause moves within the March calendar year to year — check the official site, not a guess.
+1. **Confirm the dates before booking anything else.** The 2027 weekend is announced as March 19–20, but dates move year to year — check the official site before you commit.
 
 2. **Buy tickets in advance for the group.** A charity festival with this kind of following doesn't guarantee easy gate access for a big group showing up unplanned.
 
@@ -81,7 +84,7 @@ Because Hogs for the Cause lands in March, it often overlaps with the broader ru
 
 6. **Watch the forecast and plan for sun.** This is a mostly open-air, unshaded event footprint.
 
-7. **Remember this lands in spring peak season.** March sits inside the city's high-demand stretch — book lodging and transportation with that lead time in mind, not a shoulder-season assumption.
+7. **Remember this lands in spring peak season.** March sits inside the city's high-demand stretch — book lodging and transportation early.
 
 ---
 
@@ -89,6 +92,6 @@ Because Hogs for the Cause lands in March, it often overlaps with the broader ru
 
 Hogs for the Cause is an easy full-day anchor for a group that wants a festival built around food, music, and an actual cause rather than pure spectacle — no dense historic-neighborhood crowd to navigate, and a genuinely different energy than the French Quarter or Fair Grounds events most spring trips default to.
 
-Because it sits inside the city's spring peak season alongside Mardi Gras, French Quarter Fest, and Jazz Fest, treat lodging and transportation planning with the same urgency as any other March or April weekend — for the largest selection, book 6+ months out.
+Because it sits inside the city's spring peak season alongside Mardi Gras, French Quarter Fest, and Jazz Fest, plan lodging and transportation like any other March or April weekend. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
