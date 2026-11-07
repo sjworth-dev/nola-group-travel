@@ -88,6 +88,8 @@ New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but d
 
 ---
 
+Still choosing between cities? The [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/), [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) and [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) comparisons run the same test against the other usual suspects.
+
 ## Pro Tips
 
 1. **Don't compare nightly rates alone.** Asheville's brewery flights, tasting fees, and any guided hiking or rafting add-ons add up fast — price the whole day, not just the cabin.
