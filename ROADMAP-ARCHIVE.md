@@ -2121,3 +2121,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-07 UTC — seo: interlink `nola-group-new-orleans-vs-asheville-guide.md` to Savannah, Charleston, Nashville vs pages.
 2026-11-07 UTC — fix: property balance sweep — po-boy crawl, pool day, rooftop bar guides (Castleday/Syd removed).
 2026-11-07 UTC — backlog: no changes; Up Next empty.
+2026-11-07 UTC (run 2) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-07 UTC (run 2) — expand: refresh `nola-group-hogs-for-the-cause-guide.md` (oldest, 2026-07-31) — verdict opener, retitled/redescribed, announced 2027 dates (Mar 19–20), fixed Mardi Gras sequencing (Hogs falls after Mardi Gras), standard lead-time line, events link, bumped date.
+2026-11-07 UTC (run 2) — seo: interlink `nola-group-new-orleans-vs-memphis-guide.md` to Nashville, Savannah, Charleston vs pages.
+2026-11-07 UTC (run 2) — fix: property balance sweep — villa farewell breakfast, tipping culture deep dive, new year's villa guides (Castleday/Syd removed).
+2026-11-07 UTC (run 2) — backlog: no changes; Up Next empty.

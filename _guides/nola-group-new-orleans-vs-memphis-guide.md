@@ -121,6 +121,8 @@ The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) and the [budget guide
 
 **Pick New Orleans if the group is large.** Memphis's whole-crew inventory near the core is thin, which pushes bigger groups toward houses away from Beale or splitting up. New Orleans's purpose-built villa market makes housing a double-digit crew together, near the fun, genuinely easier.
 
+Weighing other music-and-food cities too? The [New Orleans vs. Nashville guide](/guides/nola-group-new-orleans-vs-nashville-guide/) covers the other big-name rival, and the [New Orleans vs. Savannah guide](/guides/nola-group-new-orleans-vs-savannah-guide/) and [New Orleans vs. Charleston guide](/guides/nola-group-new-orleans-vs-charleston-guide/) cover the slower Southern alternatives.
+
 Still deciding what kind of trip this is? The [girls trip guide](/guides/nola-group-girls-trip-guide/) and [bachelorette party guide](/guides/bachelorette-party/) lay out what a NOLA itinerary looks like once you commit.
 
 ---
