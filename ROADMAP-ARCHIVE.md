@@ -2116,3 +2116,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-06 14:xx UTC — seo: interlink `guys-weekend-guide.md` to bachelor-party and bachelor-party-itinerary.
 2026-11-06 14:xx UTC — fix: property balance sweep — outdoor-festival-heat-management, sports-weekend, umbrella-drinks guides (Castleday/Syd removed).
 2026-11-06 14:xx UTC — backlog: no changes; Up Next empty (no new page, human-gated). Slack unreachable (MCP connect failed).
+2026-11-07 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-07 UTC — expand: refresh `guys-weekend-guide.md` (oldest, 2026-07-31) — verdict opener, retitled/redescribed, removed clinical group-size ranges, hedged unverified bar/restaurant claims, removed misfit sports-bar row, events calendar link, bumped date.
+2026-11-07 UTC — seo: interlink `nola-group-new-orleans-vs-asheville-guide.md` to Savannah, Charleston, Nashville vs pages.
+2026-11-07 UTC — fix: property balance sweep — po-boy crawl, pool day, rooftop bar guides (Castleday/Syd removed).
+2026-11-07 UTC — backlog: no changes; Up Next empty.
