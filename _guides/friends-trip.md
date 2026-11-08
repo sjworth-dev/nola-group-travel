@@ -9,7 +9,7 @@ date: 2026-09-16
 
 The group chat has been talking about "doing a trip" for years. Someone finally picked a date. Now you need to actually make it happen.
 
-New Orleans is perfect for this. It's the rare city where you can do absolutely nothing and still have a great time—or pack every hour with activities. The vibe adjusts to whatever your group wants.
+New Orleans is perfect for this — and if the group is still arguing over where to go, the [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/), [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) and [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) comparisons settle it fast. It's the rare city where you can do absolutely nothing and still have a great time—or pack every hour with activities. The vibe adjusts to whatever your group wants.
 
 Before you do anything else, send a [pre-trip survey to the group](/guides/nola-group-pre-trip-survey-guide/) about three weeks out. NOLA has specific variables — heat, walkability, French Quarter tolerance, dietary restrictions — that surface mid-trip friction if you don't ask upfront. It takes ten minutes to build and saves you five days of competing preferences.
 
