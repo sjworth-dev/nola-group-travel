@@ -84,7 +84,7 @@ For New Orleans specifically, check the actual calendar before assuming a "summe
 
 **Pick Palm Springs if:** your group wants a horizontal, sun-soaked trip built around a private pool and an optional resort pool-club day, a desert-modern food and brunch scene, and doesn't mind driving between the rental and downtown.
 
-**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a rental house on the edge of town, wants nights that run on the city's own clock instead of winding down after sunset, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/).
+**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a rental house on the edge of town, wants nights that run on the city's own clock instead of winding down after sunset, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/). Still comparing cities? The [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/), [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) and [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) pages run the same test.
 
 ---
 
