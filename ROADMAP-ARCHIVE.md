@@ -2126,3 +2126,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-07 UTC (run 2) — seo: interlink `nola-group-new-orleans-vs-memphis-guide.md` to Nashville, Savannah, Charleston vs pages.
 2026-11-07 UTC (run 2) — fix: property balance sweep — villa farewell breakfast, tipping culture deep dive, new year's villa guides (Castleday/Syd removed).
 2026-11-07 UTC (run 2) — backlog: no changes; Up Next empty.
+2026-11-08 UTC — note: `## Up Next` empty, so no new page (human-gated; the runner prompt's "generate backlog" instruction was not applied because ROADMAP.md's human-gate rule governs). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-08 UTC — expand: refresh `nola-group-new-orleans-vs-asheville-guide.md` (oldest, 2026-07-31) — verdict opener, retitled/redescribed, removed clinical group-size phrasing, hedged climate/rules claims, added bachelor and events links, bumped date.
+2026-11-08 UTC — seo: interlink `nola-group-new-orleans-vs-palm-springs-guide.md` to Savannah, Nashville, Las Vegas vs pages.
+2026-11-08 UTC — fix: property balance sweep — vs San Francisco, Scottsdale, Washington DC guides (Castleday/Syd removed; Mazant/Natchez used).
+2026-11-08 UTC — backlog: no changes; Up Next empty.
