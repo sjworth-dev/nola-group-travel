@@ -176,7 +176,7 @@ This is where groups fail. The parade ends. Everyone is simultaneously hungry, t
 
 Long parade days require a real base. Somewhere to stage the supplies, store the beads, and return to when the parade is done. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the full math on which structure fits your group, but for parade season specifically, a few property types stand out:
 
-**The Syd** — Villas in the Lower Garden District, up to 22 guests each, one block from the St. Charles streetcar with a shared heated pool and hot tub. That streetcar access is the real edge during parade season — it drops you close to the Uptown route without needing a car or a long rideshare wait home afterward.
+**Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City. The fit here is choice and short-notice availability, and a base on that side of town keeps the Uptown route a short hop away instead of a cross-city rideshare.
 
 **The Mazant** — An 1880s Bywater guesthouse sleeping 18, with a heated pool and spa. It's a rideshare or streetcar ride from the Uptown route rather than walking distance, but a heated pool and spa on-site is a strong post-parade recovery option — the group returns, drops the beads, and unwinds before dinner.
 

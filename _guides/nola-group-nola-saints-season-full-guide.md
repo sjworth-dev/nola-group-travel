@@ -185,6 +185,6 @@ A Saints weekend for twenty people involves a pre-game window that can last four
 
 Groups spread across multiple hotel rooms coordinate the pre-game timeline by text message — inevitably with sub-groups ready at different times, in different parts of the hotel, unsure whether to wait or meet outside. Groups in a shared villa have a kitchen table to plan around, a front door to leave from, and a place to come home to that's already stocked.
 
-Castleday Retreats in [Bywater](/neighborhoods/bywater/) puts groups east of the CBD — about fifteen minutes by car to the Superdome, with easy access to Frenchmen Street for postgame. The Syd in the Lower Garden District is on the St. Charles Streetcar line, which connects directly to the CBD without requiring a rideshare at all.
+A downtown base like Hotel Perle's group suites or Roami's apartment-style units keeps the Superdome close enough to walk or take a short ride. Staying in [Bywater](/neighborhoods/bywater/) puts you east of the CBD — a rideshare to the dome, but easy access to Frenchmen Street for postgame. The Lower Garden District sits on the St. Charles Streetcar line, which connects to the CBD without a rideshare. Pick by how much you want the postgame to happen near your front door.
 
 [See where to stay for large groups →](/where-to-stay/)

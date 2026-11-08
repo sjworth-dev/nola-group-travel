@@ -187,6 +187,6 @@ If you're going the private chef route, these are the questions to have answered
 
 A villa with serious kitchen infrastructure makes this whole decision more viable in both directions. The private chef option is more attractive when the kitchen can actually support a professional working at scale — good equipment, counter space, and a layout that allows service. The self-catering option is more viable when the kitchen is genuinely equipped for large-group output rather than just technically a "full kitchen."
 
-Properties like Castleday Retreats in the [Bywater](/neighborhoods/bywater/) and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/) both have kitchens built for groups rather than apartments adapted for them. When you're comparing options, ask about the specific kitchen setup rather than accepting "full kitchen" as meaningful information.
+Large-format homes like Heirloom's across the [Lower Garden District](/neighborhoods/lower-garden-district/) and Central City, or a single historic house like The Mazant in the [Bywater](/neighborhoods/bywater/), are the kinds of places to ask about group-scale kitchens. When you're comparing options, ask about the specific kitchen setup rather than accepting "full kitchen" as meaningful information.
 
 [See where to stay for large groups →](/where-to-stay/)
