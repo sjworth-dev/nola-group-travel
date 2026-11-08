@@ -54,7 +54,7 @@ Scottsdale's big-group lodging model is the resort suite or the golf-cart-adjace
 
 New Orleans has a genuinely developed purpose-built large-group villa market, concentrated in neighborhoods like the Bywater and Lower Garden District — properties built specifically to hold a big group under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
-**Editorial examples of what that inventory looks like:** properties like Castleday Retreats (private-pool Bywater villas built for total privacy) or The Revelry (apartment-style floors in Central City with separate billing per crew) represent the kind of purpose-built group housing New Orleans has developed at a scale Scottsdale's resort-suite model doesn't really match. Neither is a booking recommendation — they're representative of a category, and hotel room blocks (properties like The Roosevelt or Hotel Peter & Paul) are the answer for a mixed-budget group in either city.
+**Editorial examples of what that inventory looks like:** properties like The Mazant (an 1880s Bywater guesthouse sleeping up to 18, with a heated pool and spa) or The Revelry (apartment-style floors in Central City with separate billing per crew) represent the kind of purpose-built group housing New Orleans has developed at a scale Scottsdale's resort-suite model doesn't really match. Neither is a booking recommendation — they're representative of a category, and hotel room blocks (properties like The Roosevelt or Hotel Peter & Paul) are the answer for a mixed-budget group in either city.
 
 ---
 

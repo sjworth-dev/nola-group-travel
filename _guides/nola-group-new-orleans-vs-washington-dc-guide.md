@@ -54,7 +54,7 @@ DC's large-group lodging runs almost entirely on hotels, with short-term rentals
 
 New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the [Bywater](/neighborhoods/bywater/) and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a drive to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
-**Editorial examples of what that inventory looks like:** properties like Castleday Retreats (private-pool Bywater villas built for total privacy) or Heirloom's deeper inventory across the Lower Garden District and Central City represent the kind of purpose-built group housing New Orleans has developed at a scale DC's hotel-heavy market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and a DC hotel block remains a fine answer if your group wants separate keys and bills near the Mall.
+**Editorial examples of what that inventory looks like:** properties like The Natchez Vacation Rentals (apartment-style rentals sharing a saltwater pool and hot tubs) or Heirloom's deeper inventory across the Lower Garden District and Central City represent the kind of purpose-built group housing New Orleans has developed at a scale DC's hotel-heavy market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and a DC hotel block remains a fine answer if your group wants separate keys and bills near the Mall.
 
 ---
 

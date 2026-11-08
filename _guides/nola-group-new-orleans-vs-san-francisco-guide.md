@@ -54,7 +54,7 @@ San Francisco's large-group lodging runs almost entirely on hotels, at some of t
 
 New Orleans has a developed purpose-built large-group villa market, concentrated in walkable neighborhoods like the Bywater and [Lower Garden District](/neighborhoods/lower-garden-district/) — properties built specifically to hold a whole crew under one roof, with private or shared pools, full kitchens, and a walk instead of a hilly Uber ride to the entertainment core. The [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how that math works here.
 
-**Editorial examples of what that inventory looks like:** properties like The Syd (Lower Garden District, shared heated pool, one block from the streetcar) or Hotel Perle's group suites (CBD/Warehouse District, separate bills, rooftop pool) represent the kind of purpose-built group housing New Orleans has developed at a scale SF's hotel-heavy, high-cost market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and an SF hotel block remains a fine answer if your group wants separate keys and bills near the Wharf.
+**Editorial examples of what that inventory looks like:** properties like The Mazant (an 1880s Bywater guesthouse sleeping up to 18, with a heated pool and spa) or Hotel Perle's group suites (CBD/Warehouse District, separate bills, rooftop pool) represent the kind of purpose-built group housing New Orleans has developed at a scale SF's hotel-heavy, high-cost market doesn't match once a group gets large. Neither is a booking recommendation — they're representative of a category, and an SF hotel block remains a fine answer if your group wants separate keys and bills near the Wharf.
 
 ---
 
