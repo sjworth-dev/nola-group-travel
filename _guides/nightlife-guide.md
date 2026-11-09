@@ -209,7 +209,7 @@ Start at the Carousel Bar in the Hotel Monteleone (actually rotating bar, great 
 
 5. **Wednesday is local comedy night at various spots.** If your trip includes a midweek night and the group is open to something different, the comedy scene in New Orleans is underrated and much easier to do as a large group than a bar crawl.
 
-6. **The French Quarter has better cocktails than Bourbon Street.** One block off Bourbon in any direction, there are excellent bars with creative cocktail programs and a fraction of the crowd. Jewel of the South, Cane & Table, and the bar at August are worth the detour.
+6. **The French Quarter has better cocktails than Bourbon Street.** One block off Bourbon in any direction, there are excellent bars with creative cocktail programs and a fraction of the crowd. Jewel of the South, Cane & Table, and the bar at August are worth the detour. The [cocktail culture guide](/guides/cocktail-culture-guide/) has the drinks and origin stories behind the historic rooms.
 
 7. **Get to Preservation Hall early or book the private show option.** Lines are long on weekends. The private show before public hours opens is genuinely worth the cost once your group hits real double digits.
 
