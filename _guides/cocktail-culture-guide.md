@@ -1,20 +1,20 @@
 ---
-title: "New Orleans Cocktail Culture Guide for Groups"
-description: "The complete guide to New Orleans cocktail culture for large groups: the classic drinks, where they were invented, the best craft cocktail bars, and how to run a group cocktail tour."
+title: "New Orleans Cocktail Bars & Classic Drinks, Ranked"
+description: "Start at the Sazerac Bar, skip nothing historic, go slow at the craft bars. The classic New Orleans drinks, where they began, and how to tour them as a crowd."
 category: "Nightlife & Music"
 card_title: "Cocktail Culture"
 card_description: "Classic drinks, their origins, the best craft bars, and how to run a group cocktail tour."
-date: 2026-08-01
+date: 2026-11-09
 ---
 
-New Orleans invented American cocktail culture. This is not a slogan. The Sazerac — widely considered the first American cocktail — was born here in the 1800s. The word "cocktail" itself may have originated in New Orleans. The city's relationship with mixed drinks is over two centuries old and still actively evolving.
+Start at the Sazerac Bar, drink one thing per stop, and save the craft bars for the night you want to sit down. New Orleans has a stronger claim to American cocktail culture than any other city, and that is not a slogan. The Sazerac — widely considered the first American cocktail — was born here in the 1800s. The word "cocktail" itself may have originated in New Orleans. The city's relationship with mixed drinks is over two centuries old and still actively evolving.
 
 For a large group, that history means something tangible: there are real bars to visit, real origin stories to know, and a genuine cocktail tour that's more interesting than what most cities can offer. This guide gives you the drinks, the bars, and the logistics for doing it right with the whole crew.
 
 ## Quick Checklist
 
 - [ ] Pick your approach: historic bar tour, craft cocktail tour, or both
-- [ ] Make reservations at craft cocktail bars for groups larger than 15
+- [ ] Call ahead to craft cocktail bars once the group is double-digit
 - [ ] Assign a designated non-drinking or light-drinking wrangler for the night
 - [ ] Plan food before and ideally during the tour — cocktails are strong here
 - [ ] Have cash for bars that are cash-only (several historic ones are)
@@ -91,7 +91,7 @@ This route focuses on the origin-story bars. All are in or near the French Quart
 | 4 | Pat O'Brien's | Hurricane | Do the courtyard. Get it out of your system. |
 | 5 | Lafitte's Blacksmith Shop | Whatever you want | Oldest bar building in the US, candlelit, cash only |
 
-**Timeline:** Budget about 45 minutes per stop. This is a 4-hour tour minimum, not a 2-hour sprint. For a structured route through the Quarter and beyond, see the [bar crawl guide](/guides/bar-crawl-guide/).
+**Timeline:** Budget about 45 minutes per stop. This is a 4-hour tour minimum, not a 2-hour sprint. For a structured route through the Quarter and beyond, see the [bar crawl guide](/guides/bar-crawl-guide/), or the [historic bar guide](/guides/nola-group-historic-bar-guide/) for the older rooms.
 
 **Group logistics:** The historic bars can handle walk-ins for large groups because they're large venues. No reservations needed except for private events. The Carousel Bar is the exception — seating fills up. Get there early or plan to stand.
 
@@ -123,7 +123,7 @@ All stops walkable in the French Quarter and CBD. 4-5 bars over 4-5 hours. One d
 
 **Option B: The Craft Cocktail Night (Best for Serious Drinkers)**
 
-2-3 stops, Ubers between them, budget more time at each. Starts at Cure or Jewel of the South, ends wherever. Smaller groups handle this better — 20+ people at a craft cocktail bar is a logistics challenge.
+2-3 stops, Ubers between them, budget more time at each. Starts at Cure or Jewel of the South, ends wherever. A smaller crew handles this better; twenty people at a craft cocktail bar is a logistics challenge.
 
 **Option C: The Full Arc**
 
@@ -133,13 +133,13 @@ Start at a historic bar (Sazerac Bar or Carousel Bar), do one craft cocktail sto
 
 ### Group Logistics for Cocktail Tours
 
-**Money:** Cocktails at serious bars cost more than beer. Budget $15-20 per drink per person at craft cocktail bars. Historic bars are slightly less but still not cheap. A 5-bar tour for 20 people at one drink per stop per bar can run $1,500-2,000 in bar tabs. Know this before you go.
+**Money:** Cocktails at serious bars cost more than beer. Expect roughly $15-20 a drink at craft bars, with historic bars a little lower but not cheap (menus change, so treat these as ballparks). Multiply by headcount and stops before you leave: a five-bar tour for twenty people adds up to a four-figure bar tab. Know this before you go.
 
 **Pace:** One drink per stop is the guideline. People who try to have two at every stop are done by bar three. If the cocktail tour is one night of a longer trip, the [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) covers how to keep the whole crew upright for the nights that follow.
 
-**Wrangling:** A group of 20 at a cocktail bar requires someone who's not drinking heavily to manage the logistics — getting everyone's attention, moving the group, handling tabs. Designate this person before you leave.
+**Wrangling:** Twenty people at a cocktail bar requires someone who's not drinking heavily to manage the logistics — getting everyone's attention, moving the group, handling tabs. Designate this person before you leave.
 
-**Reservations:** Call ahead for groups of 15+, even at historic bars. The Carousel Bar at the Monteleone in particular — no reservations for bar seating, so large groups need to know they may be standing or may need to split up.
+**Reservations:** Call ahead once the group is double-digit, even at historic bars. The Carousel Bar at the Monteleone in particular — no reservations for bar seating, so large groups need to know they may be standing or may need to split up.
 
 ---
 
@@ -181,7 +181,7 @@ New Orleans' calendar runs backward from most cities' — check it before assumi
 
 **October, and February through May:** This is peak season here, not shoulder — Mardi Gras, French Quarter Fest, crawfish season, and Jazz Fest all land in this stretch, plus October's Halloween and Voodoo Fest crowds. The classic bars are busiest and hardest to seat a large group in without a reservation during any of it. Mardi Gras specifically is a different animal — you're part of a massive crowd, not a managed tasting.
 
-**Tales of the Cocktail (July):** The industry's own week, right in the city where several of these drinks were invented. If your group is genuinely into cocktails, it's worth timing a trip around — the [Tales of the Cocktail guide](/guides/nola-group-tales-of-the-cocktail-guide/) covers how to plan a big crew through it.
+**Tales of the Cocktail (typically July; check the official site for current dates):** The industry's own week, right in the city where several of these drinks were invented. If your group is genuinely into cocktails, it's worth timing a trip around — the [Tales of the Cocktail guide](/guides/nola-group-tales-of-the-cocktail-guide/) covers how to plan a big crew through it.
 
 **June through August, and January:** The soft season — thinner crowds, easier reservations, and the best availability for a cocktail-focused itinerary, with the tradeoff being heat and humidity by day. Cocktail tours work better starting at 7 or 8 PM once the sun is down. Late August through mid-September is the closest thing to a genuine value window if your group wants lower rates without dead-of-summer heat.
 
@@ -193,7 +193,7 @@ New Orleans' calendar runs backward from most cities' — check it before assumi
 
 2. **One cocktail per stop is a rule, not a suggestion.** At serious cocktail bars, ordering one drink and moving on is the respectful way to do it and keeps your group functional through the whole tour.
 
-3. **Eat before and during.** A cocktail tour on an empty stomach ends at bar two. Eat a real dinner before you start, or build in a food stop midway. Cochon Butcher is near several of the better cocktail bars and can handle a large group.
+3. **Eat before and during.** A cocktail tour on an empty stomach ends at bar two. Eat a real dinner before you start, or build in a food stop midway. Build the food stop in before the second bar, not after the third; confirm any restaurant can seat the whole crew before you commit.
 
 4. **Cash at Lafitte's.** It's cash only. This surprises people every time. ATM nearby, but the fees are rough.
 
@@ -209,7 +209,7 @@ New Orleans' calendar runs backward from most cities' — check it before assumi
 
 A cocktail tour works best when your group has a real home base — a kitchen to stock, space to debrief, and somewhere to sleep it off without fighting for hotel elevator space at 2 AM.
 
-The property field spans a real range of fits here. A full kitchen matters most if your group wants to run its own tasting night — a house bar stocked with Peychaud's, Herbsaint, and rye turns any villa's common area into the last stop of the tour. Bywater-based properties like **The Mazant** put you closest to Bacchanal and the Frenchmen Street end point; Lower Garden District options like **Heirloom** sit closer to Cure in Uptown and a short trip from the St. Charles Streetcar. For a mixed-budget group that wants its own keys and its own bills, a room block at a hotel like **Hotel Peter & Paul** or **The Pontchartrain** works just as well for a cocktail-focused trip. None of these is a booking recommendation — pick by fit and proximity to the bars your group actually wants to hit.
+The property field spans a real range of fits here. A full kitchen matters most if your group wants to run its own tasting night — a house bar stocked with Peychaud's, Herbsaint, and rye turns any villa's common area into the last stop of the tour. Bywater-based properties like **The Mazant** or **The Lookout Inn** put you closest to Bacchanal and the Frenchmen Street end point; Central City and Lower Garden District options like **Heirloom** or **The Revelry** sit closer to Uptown's craft bars and the St. Charles Streetcar. For a mixed-budget group that wants its own keys and its own bills, a room block at a hotel like **Hotel Peter & Paul** or **The Pontchartrain** works just as well for a cocktail-focused trip. None of these is a booking recommendation — pick by fit and proximity to the bars your group actually wants to hit.
 
 For the largest selection, book 6+ months out.
 
