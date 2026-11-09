@@ -2141,3 +2141,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-09 UTC — seo: interlink `nightlife-guide.md` to cocktail culture guide.
 2026-11-09 UTC — fix: property balance sweep — jazz club deep dive, private vs public second line, Super Bowl LX guides (Castleday/Syd removed).
 2026-11-09 UTC — backlog: no changes; Up Next empty.
+2026-11-09 UTC (run 2) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-09 UTC (run 2) — expand: refresh `hotel-vs-villa-guide.md` (oldest, 2026-08-01) — verdict opener, retitled/redescribed, removed clinical group-size phrasing and unsourced "research" claims, standard lead-time line, plan-a-group-trip hub link, bumped date.
+2026-11-09 UTC (run 2) — seo: interlink `bachelorette-party.md` to Las Vegas and Charleston vs pages.
+2026-11-09 UTC (run 2) — fix: property balance sweep — trivia, trivia night, walking tour guides (Castleday/Syd removed).
+2026-11-09 UTC (run 2) — backlog: no changes; Up Next empty.
