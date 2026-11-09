@@ -245,7 +245,7 @@ For when a specific act is worth the Uptown trip.
 
 The logistics of a jazz night get much easier when you're staying somewhere with space to pre-game properly and a kitchen for the late-night aftermath.
 
-**Editorial examples of what fits:** villas like Castleday Retreats sit in the [Bywater](/neighborhoods/bywater/), less than 10 minutes from Frenchmen Street — a private pool deck for pre-gaming and a walkable or short-rideshare trip home after the last set. The Syd, in the [Lower Garden District](/neighborhoods/lower-garden-district/), puts a shared heated pool and hot tub within a short rideshare of Frenchmen and works well for a group that wants everyone gathering in one outdoor space before heading out. Heirloom's deeper bench of large-format homes across the LGD and Central City is worth a look if your dates are tight. None of these is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room block for a group this size.
+**Editorial examples of what fits:** Bywater properties like The Mazant or The Lookout Inn sit within a short walk or rideshare of Frenchmen Street, so the trip home after the last set is easy. Heirloom's deeper bench of large-format homes across the LGD and Central City is worth a look if your dates are tight, and The Natchez Vacation Rentals offer a shared pool scene for the pre-game. None of these is a booking recommendation — the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) covers how a private pool and kitchen weigh against a hotel room block for a group this size.
 
 For the largest selection, book 6+ months out.
 

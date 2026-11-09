@@ -195,6 +195,6 @@ If your group is in New Orleans for a long weekend and your dates allow it, expe
 
 Whether your group does a public second line, books a private one, or both, the villa is where the experience comes to rest afterward. The decompression — music still in your head, feet resting, cold drinks, retelling the moments — is part of the experience.
 
-Groups at Castleday Retreats in the Bywater are within easy walking distance of the Marigny music corridor and Tremé — both natural second line neighborhoods — and can transition directly from a public Sunday parade to their courtyard pool without a rideshare. Groups at The Syd in the Lower Garden District have the courtyard and outdoor kitchen that makes a post-second-line gathering immediate and easy.
+Groups staying in the Bywater, at a property like The Mazant, are within easy reach of the Marigny music corridor and Tremé — both natural second line neighborhoods — and can go from a public Sunday parade straight back to a pool without much of a rideshare. Any rental with a courtyard or outdoor kitchen makes the post-second-line gathering immediate and easy.
 
 [See where to stay for large groups →](/where-to-stay/)
