@@ -1,15 +1,17 @@
 ---
-title: "Hotel vs Villa for a New Orleans Group Trip"
-description: "Room block or one big house? The honest math on cost, togetherness, and logistics — and the group sizes where each option genuinely wins."
+title: "Hotel or Villa for a Big New Orleans Group? The Math"
+description: "Room block or one big house? Villas usually win once the headcount climbs; hotels win on accessibility and flexibility. The real math, side by side."
 category: "Planning & Logistics"
 card_title: "Hotel vs. Villa"
 card_description: "The actual math, the real differences, and when each option makes sense for your group."
-date: 2026-08-01
+date: 2026-11-09
 ---
 
-Hotels are the default. Villa is the upgrade. That's how most groups think about it, and for most groups, that framing is wrong.
+Verdict: once the crew passes about fifteen, book the house. Below that, run the numbers before you assume anything.
 
-For large groups — 15 people or more — a private villa is often less expensive than equivalent hotel rooms, and reliably produces a better trip. The reason most groups don't know this is that the villa's total price tag looks large before you divide it by 20 people.
+Hotels are the default and the villa feels like the splurge. For a big group, that framing is backwards.
+
+A private villa is often cheaper than equivalent hotel rooms, and it tends to produce a better trip. The reason most groups don't know this is that the villa's total price tag looks large before you divide it by twenty people. Start with the [plan-a-group-trip hub](/guides/plan-a-group-trip/) if you haven't locked dates or headcount yet.
 
 This guide does the math, explains what each option actually delivers in practice, and tells you when hotels are the right call (there are situations where they are).
 
@@ -22,7 +24,7 @@ This guide does the math, explains what each option actually delivers in practic
 - [ ] Check if your dates overlap with major events (Mardi Gras, Jazz Fest) — villa pricing peaks during these periods
 - [ ] Confirm the villa's security deposit terms and who carries it
 - [ ] For a big group, run the side-by-side comparison before making any decision — the [group size guide](/guides/group-size-guide/) covers how the math shifts as headcount climbs
-- [ ] For groups under 10, be honest that hotels often make more financial sense
+- [ ] For a smaller crew, be honest that hotels often make more financial sense
 
 ---
 
@@ -140,15 +142,15 @@ Let's be fair. Hotels offer real things that villas don't.
 
 ---
 
-## The Experience Difference: What Research Shows
+## The Experience Difference
 
-Travel researchers who study group dynamics have found consistent patterns in how hotel vs. villa accommodation affects the group experience:
+The cost gap is the easy part. The harder-to-price difference is how each option shapes the trip:
 
 **Accidental togetherness.** In villas, groups spend more unplanned time together — the morning coffee in the kitchen, the spontaneous pool hour, the evening on the porch. Hotel rooms have no equivalent. This unplanned time is often what group trips are actually for.
 
 **Shared context.** A villa gives the group a shared home for the duration of the trip. It becomes a reference point — "I'll meet you back at the house" vs. "I'll meet you in the hotel lobby" sounds trivial but meaningfully affects how cohesive the group feels.
 
-**The kitchen effect.** Groups who cook together report higher trip satisfaction. This doesn't mean elaborate meals — it means someone makes coffee, someone makes eggs, people sit around the table and talk. A hotel room eliminates this entirely.
+**The kitchen effect.** Groups who cook together tend to enjoy the trip more. This doesn't mean elaborate meals — it means someone makes coffee, someone makes eggs, people sit around the table and talk. A hotel room eliminates this entirely.
 
 ---
 
@@ -156,7 +158,7 @@ Travel researchers who study group dynamics have found consistent patterns in ho
 
 Be honest about these situations:
 
-**When the group is under 10 people and price-sensitive.** Below a certain group size, villas don't have the math advantage. A group of 8 traveling cheaply may genuinely find hotel rooms less expensive than a villa.
+**When the crew is small and price-sensitive.** Below a certain group size, villas don't have the math advantage. A group of eight traveling cheaply may genuinely find hotel rooms less expensive than a villa.
 
 **When ADA accessibility is non-negotiable.** If a guest has specific accessibility requirements that a villa can't document meeting, the legal floor of an ADA hotel room is the safer choice. Some villas work well for mobility-limited guests — but the certainty hotels provide matters. The [accessible group guide](/guides/accessible-group-guide/) covers what to check for either option before booking.
 
@@ -172,7 +174,7 @@ Be honest about these situations:
 
 | Factor | Hotel | Villa |
 |--------|-------|-------|
-| Booking lead time | 2–8 weeks sufficient | For the largest selection, book 6+ months out |
+| Booking lead time | For the largest selection, book 6+ months out | For the largest selection, book 6+ months out |
 | Cancellation flexibility | Often 48–72 hours | Typically strict; often non-refundable |
 | Payment timing | Credit card hold; pay at checkout | Often full payment upfront |
 | Security deposit | Per-room incidental hold | Full security deposit ($500–1,500) |
@@ -185,7 +187,7 @@ Be honest about these situations:
 
 If you've done the math and a private villa makes sense, the field spans a real range of fits. Bywater properties like **The Mazant** (one historic house, sleeps 18) deliver privacy and distance from French Quarter tourist density. **Heirloom**'s larger-format homes across the LGD and Central City add deeper inventory and short-notice availability. **The Revelry** offers apartment-style floors with separate billing — useful when the group wants one roof but split tabs. For a mixed-budget group that wants its own keys, room blocks at hotels like The Roosevelt or Hotel Peter & Paul answer the same brief without the villa commitment.
 
-Whichever property fits, the villa argument holds across the field: private outdoor space, full kitchens, common areas where the group gathers, and per-person costs that compete directly with mid-range hotels once the group reaches 15 or more people. None of the above is a booking recommendation — pick by fit.
+Whichever property fits, the villa argument holds across the field: private outdoor space, full kitchens, common areas where the group gathers, and per-person costs that compete directly with mid-range hotels once the group reaches fifteen or more. None of the above is a booking recommendation — pick by fit.
 
 ---
 
@@ -211,9 +213,9 @@ Whichever property fits, the villa argument holds across the field: private outd
 
 The decision framework is simple:
 
-- **Group of 8 or fewer:** Hotel or small rental, case by case
-- **Group of 12–15:** Run the full cost comparison; either can work
-- **Group of 15+:** Villas almost always win on cost and experience
+- **Eight people or fewer:** Hotel or small rental, case by case
+- **Twelve to fifteen:** Run the full cost comparison; either can work
+- **Fifteen and up:** Villas almost always win on cost and experience
 - **ADA requirements:** Hotels first; villas only after confirming specifics
 - **One-night stay:** Hotel
 - **Convention lodging block:** Honor the block; skip the stress
