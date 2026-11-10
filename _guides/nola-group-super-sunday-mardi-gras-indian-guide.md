@@ -178,7 +178,7 @@ Respectful engagement does not mean passive silence. It means arriving with know
 
 A.L. Davis Park in Central City is approximately 20-25 minutes from both the Bywater and the Lower Garden District.
 
-**Castleday Retreats** — Private villas in the Bywater, 14–30 guests each with a private pool per villa. Groups staying in the Bywater planning a March trip around Super Sunday benefit from the proximity to the Tremé and Marigny cultural corridor — the same general area that houses the brass band tradition, Frenchmen Street, and the Backstreet Cultural Museum, with A.L. Davis Park a rideshare away rather than a walk.
+**Bywater villas** — Groups staying in the Bywater planning a March trip around Super Sunday benefit from the proximity to the Tremé and Marigny cultural corridor — the same general area that houses the brass band tradition, Frenchmen Street, and the Backstreet Cultural Museum, with A.L. Davis Park a rideshare away rather than a walk.
 
 **Heirloom** — Dozens of large-format homes across the Lower Garden District and Central City — the same neighborhood A.L. Davis Park sits in. Groups wanting the shortest possible trip to the park, or a short-notice booking, have a strong case for Heirloom's Central City inventory specifically.
 
