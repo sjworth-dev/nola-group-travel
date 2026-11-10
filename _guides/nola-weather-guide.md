@@ -293,7 +293,7 @@ Having this conversation before you arrive—not the night a storm forms—saves
 
 Weather is the one variable you can completely control by choosing the right dates. Everything else—activities, restaurants, budget—is more flexible. Book your dates around the weather, not the other way around, and let where you stay follow from what the season demands.
 
-**Editorial examples of what fits:** in summer, a property with a private pool (like Castleday Retreats' Bywater villas) turns the brutal afternoon into the best hour of the day. In cooler, wetter months, a property with real shared common space (like The Syd's Lower Garden District villas, one block from the streetcar) matters more than outdoor amenities — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how that tradeoff plays out against a hotel room block. Neither is a booking recommendation; both operate year-round.
+**Editorial examples of what fits:** in summer, a property with a private pool (like The Mazant in the Bywater) turns the brutal afternoon into the best hour of the day. In cooler, wetter months, a property with real shared common space (like The Revelry's apartment-style floors in Central City) matters more than outdoor amenities — see the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) for how that tradeoff plays out against a hotel room block. Neither is a booking recommendation; both operate year-round.
 
 For the largest selection, book 6+ months out.
 
