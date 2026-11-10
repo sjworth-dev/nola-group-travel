@@ -2151,3 +2151,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-10 UTC — seo: interlink `family-reunion.md` to Savannah, Charleston, Gulf Shores vs pages.
 2026-11-10 UTC — fix: property balance sweep — sports bar, Super Sunday, second line chase guides (Castleday/Syd removed).
 2026-11-10 UTC — backlog: no changes; Up Next empty.
+2026-11-10 UTC (run 2) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-10 UTC (run 2) — expand: refresh `nola-group-new-orleans-vs-napa-valley-guide.md` (oldest, 2026-08-01) — verdict opener, retitled/redescribed, hedged open-container/cover claim, bumped date.
+2026-11-10 UTC (run 2) — seo: interlink `bachelorette-party.md` to Napa Valley vs page.
+2026-11-10 UTC (run 2) — fix: property balance sweep — karaoke, weather, spa wellness guides (Castleday/Syd removed).
+2026-11-10 UTC (run 2) — backlog: no changes; Up Next empty.
