@@ -17,6 +17,8 @@ This guide covers the standard reunion trip. Bringing young children? The [kids 
 
 ## Why New Orleans for Family Reunions
 
+Still choosing the city? Reunion groups most often weigh New Orleans against [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/), [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/), and a beach house at [Gulf Shores](/guides/nola-group-new-orleans-vs-gulf-shores-guide/). Those pages give the straight verdict on each; the case for New Orleans:
+
 **Multi-generational appeal.** There's something for every age—from playgrounds to jazz clubs.
 
 **The food.** It's a universal language. Three-year-olds and 80-year-olds both love beignets.
