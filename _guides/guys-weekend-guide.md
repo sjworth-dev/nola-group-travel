@@ -9,7 +9,7 @@ date: 2026-11-07
 
 Verdict: New Orleans is one of the best guys-weekend cities in the country, and the only way to ruin it is to arrive with no plan. Golf, fishing, swamp tours and sports bars are all genuinely good, the bar culture is built for crowds, and nobody rushes you out of anywhere.
 
-The problem most guys trips run into: they show up without a plan and spend most of the weekend arguing about what to do next. This guide gives you the plan. If nobody's organized a group trip here before, the [planning hub](/guides/plan-a-group-trip/) sequences the bigger decisions — dates, housing, budget — in the order they actually need to happen. If the weekend is really a send-off, the [bachelor party guide](/guides/bachelor-party/) and its [hour-by-hour itinerary](/guides/bachelor-party-itinerary/) are the better starting point.
+The problem most guys trips run into: they show up without a plan and spend most of the weekend arguing about what to do next. This guide gives you the plan. If nobody's organized a group trip here before, the [planning hub](/guides/plan-a-group-trip/) sequences the bigger decisions — dates, housing, budget — in the order they actually need to happen. Still deciding on the city? The head-to-heads against [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/), [Austin](/guides/nola-group-new-orleans-vs-austin-guide/), [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) and [San Antonio](/guides/nola-group-new-orleans-vs-san-antonio-guide/) settle it. If the weekend is really a send-off, the [bachelor party guide](/guides/bachelor-party/) and its [hour-by-hour itinerary](/guides/bachelor-party-itinerary/) are the better starting point.
 
 ## Quick Checklist
 
