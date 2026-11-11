@@ -2156,3 +2156,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-10 UTC (run 2) — seo: interlink `bachelorette-party.md` to Napa Valley vs page.
 2026-11-10 UTC (run 2) — fix: property balance sweep — karaoke, weather, spa wellness guides (Castleday/Syd removed).
 2026-11-10 UTC (run 2) — backlog: no changes; Up Next empty.
+2026-11-11 UTC — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-11 UTC — expand: refresh `nola-group-new-orleans-vs-san-antonio-guide.md` (oldest, 2026-08-01) — verdict opener, retitled/redescribed, hedged open-container/cover and round-the-clock claims, events/bachelor/open-container links, standard lead-time line, bumped date.
+2026-11-11 UTC — seo: interlink `guys-weekend-guide.md` to Nashville, Austin, Las Vegas, San Antonio vs pages.
+2026-11-11 UTC — fix: property balance sweep — wedding anniversary, art scene immersion, Oak Street neighborhood guides (Castleday/Syd removed; Mazant/Revelry used).
+2026-11-11 UTC — backlog: no changes; Up Next empty.
