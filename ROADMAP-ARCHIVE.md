@@ -2161,3 +2161,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-11 UTC — seo: interlink `guys-weekend-guide.md` to Nashville, Austin, Las Vegas, San Antonio vs pages.
 2026-11-11 UTC — fix: property balance sweep — wedding anniversary, art scene immersion, Oak Street neighborhood guides (Castleday/Syd removed; Mazant/Revelry used).
 2026-11-11 UTC — backlog: no changes; Up Next empty.
+2026-11-11 UTC (run 2) — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-11 UTC (run 2) — expand: refresh `nola-group-new-orleans-vs-tulum-guide.md` (oldest, 2026-08-01) — verdict opener, retitled/redescribed, hedged street-drinking/cover/no-closing claims, open-container link, bumped date.
+2026-11-11 UTC (run 2) — seo: interlink `nola-group-girls-trip-guide.md` to Tulum vs page.
+2026-11-11 UTC (run 2) — fix: property balance sweep — Po-Boy Festival, packing by group type, photography session guides (Castleday/Syd removed; Mazant/Revelry used).
+2026-11-11 UTC (run 2) — backlog: no changes; Up Next empty.
