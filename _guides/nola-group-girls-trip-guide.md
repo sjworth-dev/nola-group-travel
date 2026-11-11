@@ -11,7 +11,7 @@ New Orleans is built for this trip. Eat well, sleep late, stay up later, and nob
 
 A big girls trip to NOLA has a specific rhythm that's different from a bachelorette weekend (higher stakes, tighter schedule) and different from a generic friends trip (tends to be more activity-driven). The pace is more deliberate: long mornings, intentional afternoons, late evenings. Pool time matters. Brunch matters. A good spa day can be the best afternoon of the trip.
 
-This guide is built for a big crew of women coming for a long weekend — usually Thursday through Sunday. Not a bachelorette (that's a [different guide](/guides/bachelorette-party/)), though much of this applies there too. Still choosing the city? See [New Orleans vs. Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) and [vs. Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/). Starting from zero? The [group trip planning hub](/guides/plan-a-group-trip/) sequences every decision.
+This guide is built for a big crew of women coming for a long weekend — usually Thursday through Sunday. Not a bachelorette (that's a [different guide](/guides/bachelorette-party/)), though much of this applies there too. Still choosing the city? See [New Orleans vs. Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) and [vs. Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/), or weighing a beach instead, [vs. Tulum](/guides/nola-group-new-orleans-vs-tulum-guide/). Starting from zero? The [group trip planning hub](/guides/plan-a-group-trip/) sequences every decision.
 
 ---
 
