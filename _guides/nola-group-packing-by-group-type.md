@@ -231,7 +231,7 @@ New Orleans weather is not like anywhere else. The temperature is high. The humi
 
 A large group with coordinated packing and shared supplies needs a base of operations that has the space to actually store and access all of it. Hotel rooms don't have that space. A villa does.
 
-The field runs wide here. Castleday Retreats' Bywater villas each have private pools and courtyards where a group can spread supplies out. The Syd's Lower Garden District villas share a heated pool, hot tub, and outdoor kitchen — a natural staging area for a wedding party or corporate group's shared food and gear. Heirloom's large-format homes across the LGD and Central City are the deepest inventory if you're still deciding on dates, and a hotel room block suits a group that would rather each own their key and their bill. Whatever you pick, for the largest selection, book 6+ months out.
+The field runs wide here. The Mazant's Bywater house has a heated pool and spa where a group can spread supplies out, and The Revelry's apartment-style floors give a wedding party or corporate group a staging area per crew. Heirloom's large-format homes across the LGD and Central City are the deepest inventory if you're still deciding on dates, and a hotel room block suits a group that would rather each own their key and their bill. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
