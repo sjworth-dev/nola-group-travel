@@ -1,13 +1,15 @@
 ---
-title: "New Orleans vs. San Antonio: Which One Actually Fits Your Group?"
-description: "The River Walk-bar-hop-vs-live-music-city debate, settled honestly. Barhopping culture, hotel-block lodging, Tex-Mex vs. Creole-Cajun food and drink, and the dry-heat-vs-Gulf-humidity tradeoff for a big group choosing between the two."
+title: "New Orleans vs San Antonio for a Group Trip: The Verdict"
+description: "San Antonio or New Orleans? Pick San Antonio for an easy River Walk crawl, New Orleans for live music and a late city. Lodging, food, heat, verdict."
 category: "Planning & Logistics"
 card_title: "New Orleans vs. San Antonio"
 card_description: "River Walk barhopping or brass bands on the street? The honest comparison for group organizers weighing San Antonio against New Orleans."
-date: 2026-08-01
+date: 2026-11-11
 ---
 
-San Antonio's River Walk shows up constantly in Texas bachelorette and girls-trip group chats alongside New Orleans, and it's easy to see why — a canal-level strip of bars and restaurants you can barhop end to end without ever crossing a street, margaritas within arm's reach the whole way, and a compact, easy-to-navigate footprint that's hard for a first-time organizer to mess up.
+**The verdict:** pick San Antonio if the trip should be easy, contained, and margarita-forward — one strip, zero logistics. Pick New Orleans if the trip is the music, the food, and a night that wanders. San Antonio is the simpler trip; New Orleans is the bigger one.
+
+San Antonio's River Walk shows up constantly in Texas bachelorette and girls-trip group chats alongside New Orleans, and it's easy to see why — a canal-level strip of bars and restaurants you can barhop end to end without ever crossing a street, margaritas within arm's reach the whole way, and a compact footprint that's hard for a first-time organizer to mess up.
 
 The two cities aren't really running the same kind of trip. San Antonio's version of a big night is the River Walk itself — a linear crawl along the water, party barges gliding past, Tex-Mex and margaritas at every other stop. New Orleans doesn't have a comparable single-strip crawl — its version of "the trip is the point" runs on live music spread across a neighborhood, a street culture that never really closes, and food that's the actual center of gravity rather than a scenic backdrop to the bar crawl.
 
@@ -30,7 +32,7 @@ Here's the honest version of the comparison: River Walk barhopping vs. live-musi
 
 San Antonio's whole model is built around one strip. The River Walk is a below-street-level path along the San Antonio River lined with bars, restaurants, and patios — a group can start at one end and barhop the whole thing without ever needing a car or a rideshare. Add a river barge dinner cruise and the day mostly plans itself. It's a genuinely easy format for a group that wants everything within a five-minute walk and doesn't want to think hard about logistics.
 
-New Orleans doesn't have a single defined strip like it — what the city has instead is a night that starts at dinner and doesn't really end, spread across several neighborhoods: live music on [Frenchmen Street](/guides/live-music-guide/), Bourbon Street's round-the-clock bars, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) culture that spans both halves of the day.
+New Orleans doesn't have a single defined strip like it — what the city has instead is a night that starts at dinner and doesn't really end, spread across several neighborhoods: live music on [Frenchmen Street](/guides/live-music-guide/), Bourbon Street's bars that keep pouring long after the River Walk patios have stacked their chairs, and a [day-drinking-vs-nightlife](/guides/nola-group-day-drinking-vs-nightlife-guide/) culture that spans both halves of the day.
 
 **The real distinction:** San Antonio sells your group one easy, self-contained strip where the hardest decision is which patio to sit at next. New Orleans gives your group a private pool at the house during the day and a sprawling, unstructured city built around live music at night. If the trip is supposed to be simple, contained, and margarita-forward, San Antonio wins that format outright. If the group wants a night that moves through real neighborhoods with a band on every corner, New Orleans wins.
 
@@ -63,7 +65,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 | Factor | New Orleans | San Antonio |
 |--------|-------------|--------------|
 | Daytime scene | Villa pool, your own schedule | River Walk cafes, river barge cruise |
-| Nighttime scene | Live music, open container, no cover at most venues | River Walk bar crawl, patio-to-patio |
+| Nighttime scene | Live music; street-drinking rules differ from most cities (see the [open container guide](/guides/nola-group-open-container-law-guide/)); cover varies by venue | River Walk bar crawl, patio-to-patio |
 | Food and drink | Deep, centuries-old Creole/Cajun tradition | Tex-Mex, margaritas, breakfast tacos |
 | Large-group lodging | Purpose-built villas near the entertainment core | River Walk hotel blocks, own-key/own-bill |
 | Climate | Hot, humid summers; best weather Oct and Feb–May | Hot summers, notably less humid than the Gulf Coast |
@@ -76,7 +78,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 Both cities get genuinely hot, but the two heat problems aren't the same. San Antonio's summer heat is real and sits in the upper 90s for weeks at a stretch, but the humidity is noticeably lower than what New Orleans deals with — it's a drier, more bearable heat even at similar temperatures, and the River Walk's shaded, tree-lined path helps.
 
-New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours. Check the actual calendar before assuming a "summer bad, other months fine" rule here: October and February through May are the genuine high-demand stretch, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks down the month-by-month case in full.
+New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but doesn't stop the city from functioning — bars, restaurants, and music venues are all air-conditioned, and the trip just shifts indoors during the worst hours. Check the actual calendar (the [events page](/events/) keeps the dates) before assuming a "summer bad, other months fine" rule here: October and February through May are the genuine high-demand stretch, not the shoulder season most cities have in fall. Late August through mid-September is the closer thing to a value window if a group wants lower rates and is willing to take the heat. The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) breaks down the month-by-month case in full.
 
 ---
 
@@ -84,7 +86,7 @@ New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but d
 
 **Pick San Antonio if:** your group wants a simple, contained trip built around one walkable strip, Tex-Mex food and margaritas, and a hotel-block stay where everyone books their own room without much coordination.
 
-**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool and kitchen rather than a scattered hotel block, wants a night that moves through real neighborhoods instead of one strip, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/).
+**Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool and kitchen rather than a scattered hotel block, wants a night that moves through real neighborhoods instead of one strip, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/) or the [bachelor party guide](/guides/bachelor-party/).
 
 ---
 
@@ -94,7 +96,7 @@ New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but d
 
 2. **Run the actual budget in both cities before deciding.** The [budget guide](/guides/budget-guide/) runs the real per-person math for a New Orleans trip; San Antonio's cruise and bar tabs deserve the same scrutiny.
 
-3. **Book large-group lodging early in both cities.** Availability, not price, is the real bottleneck once a group hits real double digits — River Walk hotel blocks and New Orleans' peak months both sell out lodging first. For the largest selection in New Orleans, book 6+ months out.
+3. **Book large-group lodging early in both cities.** Availability, not price, is the real bottleneck once the headcount goes double-digit. For the largest selection, book 6+ months out.
 
 4. **Check New Orleans' event calendar before locking dates.** The season here is genuinely inverted from most cities — October and February through May are peak, not shoulder.
 
