@@ -2171,3 +2171,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-12 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to plan-a-group-trip hub.
 2026-11-12 UTC — fix: property balance sweep — spoken word storytelling, music festival packing, St. Charles streetcar itinerary guides (Castleday/Syd removed).
 2026-11-12 UTC — backlog: no changes; Up Next empty.
+2026-11-12 UTC (run 2) — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-12 UTC (run 2) — expand: refresh `halloween-guide.md` (oldest, 2026-08-02) — verdict opener, retitled/redescribed, Halloween 2027 (Sunday) framing, Krewe of Boo route corrected (Marigny → Quarter → Warehouse District; 2027 date "expected"), Voodoo Fest hedged as unconfirmed year to year, Lafayette Cemetery No. 1 updated for its October 2026 tour-only reopening, removed unverified late-night venue, links to planning hub/open-container/budget/neighborhood-comparison guides, bumped date.
+2026-11-12 UTC (run 2) — seo: interlink `festival-season-calendar.md` to best-time, plan-a-group-trip, October, Satchmo SummerFest, New Year's Eve guides.
+2026-11-12 UTC (run 2) — fix: property balance sweep — Saints gameday, music lesson, wellness morning guides (Castleday/Syd removed; Mazant/Revelry/Natchez used). 39 pages still name Castleday or The Syd.
+2026-11-12 UTC (run 2) — flag for a human: `events.md` and `nola-voodoo-fest-guide.md` still present Voodoo Music + Arts Experience as a live annual event ("Voodoo ... 2026" incl. Event JSON-LD); no official confirmation found online and it is absent from `_data/nola_calendar.yml`. `nola-group-october-guide.md` still carries 2026 Halloween dates. Not changed this run.
+2026-11-12 UTC (run 2) — backlog: no changes; Up Next empty.
