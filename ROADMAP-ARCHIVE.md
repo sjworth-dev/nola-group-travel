@@ -2166,3 +2166,8 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-11 UTC (run 2) — seo: interlink `nola-group-girls-trip-guide.md` to Tulum vs page.
 2026-11-11 UTC (run 2) — fix: property balance sweep — Po-Boy Festival, packing by group type, photography session guides (Castleday/Syd removed; Mazant/Revelry used).
 2026-11-11 UTC (run 2) — backlog: no changes; Up Next empty.
+2026-11-12 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-12 UTC — expand: refresh `outdoor-activities-guide.md` (oldest, 2026-08-01) — verdict opener, retitled/redescribed, removed variable lead times and numeric group ranges, hedged prices/admissions, neutral property section, links to swamp/kayak/fishing guides, bumped date.
+2026-11-12 UTC — seo: interlink `nola-group-best-time-to-visit-guide.md` to plan-a-group-trip hub.
+2026-11-12 UTC — fix: property balance sweep — spoken word storytelling, music festival packing, St. Charles streetcar itinerary guides (Castleday/Syd removed).
+2026-11-12 UTC — backlog: no changes; Up Next empty.
