@@ -1,24 +1,29 @@
 ---
-title: "Halloween in New Orleans: Group Guide"
-description: "How to do Halloween in New Orleans with a large group: the best events, costume logistics, bar crawls, and why NOLA is one of the top Halloween cities in the country."
+title: "Halloween in New Orleans: What's Worth It With a Group"
+description: "Halloween in New Orleans with a big group: Frenchmen Street beats Bourbon, Krewe of Boo is worth the curb time, and the costume crawl needs a plan."
 category: "Festivals & Events"
 card_title: "Halloween in NOLA"
 card_description: "One of the best Halloween cities in the country. Here's how to do it with a large group."
-date: 2026-08-02
+date: 2026-11-12
 ---
+
+Verdict: yes, come for Halloween. Spend the night on Frenchmen Street, give Bourbon one walk-through, and catch the Krewe of Boo parade if your dates line up. Skip nothing else on purpose.
 
 New Orleans takes Halloween seriously. More seriously than any other city except maybe Salem — and New Orleans has better food.
 
 The city has a genuine relationship with the macabre: above-ground cemeteries, Voodoo history, ghost stories that predate the American republic, a year-round culture of theater and spectacle. Halloween here isn't a special event grafted onto a normal city. It's a city that was already like this, turned up to maximum.
 
-For large groups, the timing is excellent: late October is one of the best weather windows of the year in New Orleans. Warm but not oppressive, and no Jazz Fest crowds. October is still peak season for demand, though, and tropical weather can still show up early in the month. The [October group trip guide](/guides/nola-group-october-guide/) has the full weather and pricing picture, and the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) shows where Halloween fits in the year.
+For a big group, the timing is excellent: late October is one of the best weather windows of the year in New Orleans. Warm but not oppressive, and no Jazz Fest crowds. October is peak season for demand, though, so nothing about this weekend is a bargain, and tropical weather can still show up early in the month.
+
+One calendar note: Halloween 2027 falls on a Sunday, so the costume weekend runs Friday through Sunday night. Plan the flight home for Monday, or accept that you're leaving before the main event. If you're still at the picking-dates stage, [start with the planning hub](/guides/plan-a-group-trip/). The [October group trip guide](/guides/nola-group-october-guide/) has the full weather and pricing picture, and the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) shows where Halloween fits in the year.
 
 ## Quick Checklist
 
-- [ ] Book accommodations early — for the largest selection, book 6+ months out; October weekends fill fast
+- [ ] Book accommodations early — for the largest selection, book 6+ months out
 - [ ] Decide on a group costume vs. individual costumes early
 - [ ] Make dinner reservations for Halloween night — the city gets busy
-- [ ] Check the Voodoo Fest schedule if your weekend overlaps (late October/early November)
+- [ ] Check whether Voodoo Fest is actually happening this year before building a day around it (official site only)
+- [ ] Check the Krewe of Boo date and route on the krewe's official site — it usually rolls the weekend before or of Halloween
 - [ ] Have a costume backup plan for heat — October in NOLA can still be 75-80°F
 - [ ] Designate a wrangler for the bar crawl — large groups in costume lose people fast
 - [ ] Stock the house for the debrief — the post-bar-crawl night at the rental is part of the trip
@@ -35,7 +40,7 @@ Most cities do Halloween. New Orleans does it with depth.
 
 **Nobody's embarrassed.** In most cities, adults in elaborate costumes feel slightly self-conscious. In New Orleans at Halloween, there is no self-conscious. You're underdressed if you're not in costume.
 
-**The street culture supports it.** Walk-around drinks, open-air bars, dense walkable neighborhoods. A Halloween bar crawl here is more natural than anywhere else in the country.
+**The street culture supports it.** Walk-around drinks (plastic cups only — the [open container rules](/guides/nola-group-open-container-law-guide/) are short and worth two minutes), open-air bars, dense walkable neighborhoods. A Halloween bar crawl here is more natural than anywhere else in the country.
 
 ---
 
@@ -43,15 +48,17 @@ Most cities do Halloween. New Orleans does it with depth.
 
 ### Voodoo Fest
 
-The Voodoo Music + Arts Experience (often called Voodoo Fest) runs in City Park in late October or early November, depending on the year. Major music acts, art installations, food vendors. It's a full music festival, not specifically a Halloween event, but the timing is intentional. See the [Voodoo Fest guide](/guides/nola-voodoo-fest-guide/) for ticketing tiers and how to structure a festival day with a large group.
+The Voodoo Music + Arts Experience (often called Voodoo Fest) is the City Park music festival traditionally tied to Halloween weekend. Be warned: it has not run reliably in recent years, and a listing on a ticket-resale site is not proof of a festival. Confirm on the official festival site before you plan a day, or a budget, around it. Halloween in New Orleans does not need it.
 
-**For large groups:** Voodoo Fest has general admission and VIP options. Groups of 20 can manage the festival well — it's spread out, not a crush. The City Park location is beautiful.
+If it is on, the [Voodoo Fest guide](/guides/nola-voodoo-fest-guide/) covers ticketing tiers and how to structure a festival day with a large group.
 
-**Overlap note:** Voodoo Fest draws significant visitors, which means hotels and rentals fill earlier than normal. If your Halloween weekend coincides with Voodoo Fest, book accommodations extra early. For leaving the festival with a large group — rideshare timing, meeting points, and the post-festival transition — the [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers the logistics.
+**For a big group:** when it runs, the grounds are spread out rather than a crush, and twenty people can manage it with one agreed meeting point.
+
+**Overlap note:** a festival year adds visitors to an already busy weekend. For leaving the festival with a large group — rideshare timing, meeting points, and the post-festival transition — the [festival exit strategy guide](/guides/nola-group-festival-exit-strategy-guide/) covers the logistics.
 
 ### Krewe of Boo
 
-The official Halloween parade of New Orleans. A krewe-style Mardi Gras parade adapted for Halloween — floats, throws, costumes, the whole thing. Runs through the CBD and into the neighborhoods in mid-to-late October.
+The official Halloween parade of New Orleans. A krewe-style Mardi Gras parade adapted for Halloween — floats, throws, costumes, the whole thing. It typically starts on Elysian Fields in the Marigny, rolls through the French Quarter, and finishes in the Warehouse District, on a Saturday evening in mid-to-late October. The 2027 parade is expected around October 30; the krewe sets the date and route each year, so check its official site.
 
 This is genuinely one of the more distinctive Halloween events in the country. A Halloween parade that works like Mardi Gras is not something you'll find elsewhere.
 
@@ -59,7 +66,7 @@ This is genuinely one of the more distinctive Halloween events in the country. A
 
 ### Cemetery Tours
 
-October is peak season for cemetery tours in New Orleans. The above-ground cemeteries — St. Louis Cemetery No. 1 (French Quarter), Lafayette Cemetery (Garden District) — are genuinely atmospheric in the fall.
+October is peak season for cemetery tours in New Orleans. The above-ground cemeteries — St. Louis Cemetery No. 1 (French Quarter), Lafayette Cemetery No. 1 (Garden District) — are genuinely atmospheric in the fall.
 
 **For large groups:** Most tour companies offer private group tours. Worth booking. The guided context makes the experience; a self-guided walk through St. Louis No. 1 without history is less than the sum of its parts. The [cemetery tour guide](/guides/nola-group-cemetery-tour-guide/) covers how to book a private group tour and which cemeteries suit a large group best.
 
@@ -92,12 +99,12 @@ Halloween night in New Orleans is a bar crawl. That's not a plan you make — it
 | Maison (Frenchmen St) | Three floors, designed for crowds, live music | Best capacity on Frenchmen |
 | d.b.a. (Frenchmen St) | Excellent bands, more space than it looks | Gets packed by midnight |
 | Pat O'Brien's (French Quarter) | Massive venue, courtyard, walk-around drinks | Built for exactly this crowd |
-| Bourbon Street generally | The full experience, for better or worse | Walk-around cups, no last call |
+| Bourbon Street generally | The full experience, for better or worse | Walk-around cups, very late hours |
 | Blue Nile (Frenchmen St) | Brass bands, dancing, late night | Good late-night anchor |
 
 ### Costume Logistics for Large Groups
 
-**Group costumes:** They work in New Orleans better than anywhere else. The city appreciates the commitment. If your group of 20 shows up with a coordinated theme, you will be noticed and celebrated.
+**Group costumes:** They work in New Orleans better than anywhere else. The city appreciates the commitment. If twenty of you show up with a coordinated theme, you will be noticed and celebrated.
 
 **Practicalities:**
 - Wear comfortable shoes. Non-negotiable. You will walk significantly.
@@ -107,7 +114,7 @@ Halloween night in New Orleans is a bar crawl. That's not a plan you make — it
 - One person in the group should have a visible costume — it becomes the meeting-point signal ("meet at the person in the giant bird costume")
 
 **Keeping the group together:**
-Large groups in costume on Halloween are a wrangling challenge. Half the group will be approached for photos. People get separated. Set explicit anchor bars ("we'll be at d.b.a. at midnight — find us there") rather than trying to keep 20 people in a physical chain.
+A big group in costume on Halloween is a wrangling challenge. Half the group will be approached for photos. People get separated. Set explicit anchor bars ("we'll be at d.b.a. at midnight — find us there") rather than trying to keep 20 people in a physical chain.
 
 ---
 
@@ -115,7 +122,7 @@ Large groups in costume on Halloween are a wrangling challenge. Half the group w
 
 ### Garden District Cemetery Walk
 
-Lafayette Cemetery in the Garden District is active and atmospheric. Free to enter (unlike St. Louis No. 1). The enormous live oaks overhead are perfect in late October. Walk it in the morning, then do Commander's Palace for lunch nearby.
+Lafayette Cemetery No. 1 in the Garden District reopened for tours in October 2026 after a years-long closure. Access rules changed with the reopening, so don't assume the old free walk-in: check current entry and tour-size rules before you promise it to the group, and expect to split a big crew across tour slots. Go in the morning, then do Commander's Palace for lunch across the street. If the cemetery doesn't work out, the Garden District walk under the live oaks is still worth the morning.
 
 ### Haunted History Tour
 
@@ -138,13 +145,15 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 | Meal | Option | Notes |
 |------|--------|-------|
 | Friday dinner | Cochon, Pêche, Compère Lapin | Get the reservation in before Halloween proper |
-| Saturday (Halloween) brunch | Commander's Palace, Brennan's | Start the day right |
+| Weekend brunch | Commander's Palace, Brennan's | Start the day right |
 | Halloween dinner | Pre-reserve somewhere — the city fills up | Don't wing it with a group — see the [large group seating guide](/guides/nola-group-large-group-seating-strategy-guide/) |
-| Late night | Café Du Monde, Dat Dog, Killer PoBoys | Post-bar-crawl calories |
+| Late night | Café Du Monde for beignets, or whatever kitchen is still open near Frenchmen | Post-bar-crawl calories; confirm hours, they shift |
 
 ---
 
 ## Sample Halloween Weekend Itinerary
+
+Written for the big costume night, whichever night that is. When Halloween lands on a Sunday (as in 2027), Saturday is usually the parade-and-warm-up night and Sunday is the crawl; shift the days below to match.
 
 ### Friday Evening
 - Arrive, check in, get into costume
@@ -153,8 +162,8 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 - Frenchmen Street for the warm-up night
 - Test costume logistics, find your group's rhythm
 
-### Saturday (Halloween Day)
-- Morning: Lafayette Cemetery walk, Garden District tour
+### Saturday (The Big Costume Day)
+- Morning: Garden District walk, cemetery tour if booked
 - Afternoon: Haunted history tour or Krewe of Boo parade if scheduled
 - Cocktail hour at the house, full costume assembly
 - Early dinner: Commander's Palace or pre-reserved restaurant
@@ -181,11 +190,13 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 | Transport | $20-40 | $40-75 | $100 |
 | **3-night total** | **~$500** | **~$900** | **$1,500+** |
 
+Per person, rough planning ranges rather than quotes. October is peak season, so accommodation lands at the upper end of each band. The [budget guide](/guides/budget-guide/) has the fuller per-person math.
+
 ---
 
 ## Pro Tips
 
-1. **Book October accommodations early.** Halloween weekend is competitive, and Voodoo Fest overlap makes it worse. For the largest selection, book 6+ months out — do not assume you'll find something last-minute.
+1. **Book October accommodations early.** Halloween weekend is competitive. For the largest selection, book 6+ months out.
 
 2. **Group costumes are worth the coordination effort.** In any other city, group costumes feel forced. In New Orleans on Halloween, they're celebrated. Commit to the theme.
 
@@ -197,7 +208,7 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 6. **Eat before the crawl.** A full dinner before the bar crawl is not optional for a large group. Find out who hasn't eaten at 10 PM and they're the one you're taking home at midnight. And watch the pace during the day — Halloween in October can still be warm, and a group that starts too hard in the afternoon won't make it to midnight. The [drink pace management guide](/guides/nola-group-drink-pace-management-guide/) has the day-by-day burn-rate math.
 
-7. **Voodoo Fest and Halloween can be done in the same weekend.** Festival Saturday plus Halloween bar crawl Saturday night is an aggressive but doable day. Build in recovery time on Sunday morning.
+7. **Parade and crawl can share a night.** Krewe of Boo in the early evening, then the crawl, is an aggressive but doable day. Build in recovery time the next morning.
 
 ---
 
@@ -205,8 +216,8 @@ Halloween weekend doesn't mean skipping New Orleans food. Make at least two real
 
 Late October is one of the best weekends to be in New Orleans, which means accommodation pressure is real. Large private rentals in good neighborhoods book up well in advance, and the house does more work on Halloween weekend than on a typical trip — it's the costume staging area, the pre-crawl gathering space, and the post-midnight recovery zone.
 
-The neighborhood matters as much as the property. A Bywater base puts you walking distance from Frenchmen Street, your likely primary bar-crawl destination; a Lower Garden District base is convenient for the Krewe of Boo parade route and sits near the streetcar. Properties like The Mazant (a Bywater guesthouse with a heated pool) fit the Bywater approach, while a floor at The Revelry or a hotel room block at a property like Hotel Peter & Paul suits a crew that wants separate keys and separate bills, useful if half the group is doing the full costume-and-crawl weekend and half wants a quieter exit; all are worth checking. None of these is a booking recommendation, and the right fit depends on which crawl zone your group is anchoring to.
+The neighborhood matters as much as the property. A Bywater base puts you walking distance from Frenchmen Street, your likely primary bar-crawl destination; a Lower Garden District or Warehouse District base sits near the end of the usual Krewe of Boo route and the streetcar. Properties like The Mazant (a Bywater guesthouse with a heated pool) fit the Bywater approach, while a floor at The Revelry or a hotel room block at a property like Hotel Peter & Paul suits a crew that wants separate keys and separate bills, useful if half the group is doing the full costume-and-crawl weekend and half wants a quieter exit; all are worth checking. None of these is a booking recommendation, and the right fit depends on which crawl zone your group is anchoring to.
 
-For the largest selection, book 6+ months out.
+The [neighborhood comparison](/guides/nola-group-neighborhood-comparison-guide/) covers the trade-offs in more depth. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
