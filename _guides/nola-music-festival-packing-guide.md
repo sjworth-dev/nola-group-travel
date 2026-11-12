@@ -105,7 +105,7 @@ Essence Fest runs over Fourth of July weekend and is centered on the Ernest N. M
 
 **Plan around the concert schedule, not the daytime.** Essence Fest's primary experience is the evening concerts. The daytime expo and programming are valuable but secondary. Build the group day around when the main acts are and work backward.
 
-**Hotel vs. villa proximity:** The Superdome is in the CBD. Groups staying in Lower Garden District (The Syd) are close. Groups in Bywater need rideshares or the Streetcar to St. Charles and then transport. Neither is prohibitive, but plan the transit time.
+**Hotel vs. villa proximity:** The Superdome is in the CBD. Groups staying in the CBD, Warehouse District, or Lower Garden District are close. Groups in Bywater need rideshares or the Streetcar to St. Charles and then transport. Neither is prohibitive, but plan the transit time.
 
 **Split groups for Essence Fest.** A group of 20 at Essence Fest will not all want to see the same things. Smaller subgroups that share musical interests work better than trying to keep 20 people together in an arena. Set a post-concert meeting point.
 

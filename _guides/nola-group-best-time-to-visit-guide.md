@@ -13,7 +13,7 @@ Every generic "best time to visit" list defaults to the same script: spring and 
 
 New Orleans runs its own calendar. October is the best weather of the year and the fullest pricing to match it — not a secret bargain month. Summer is genuinely hot, and it's also the closest thing this city has to a real discount window. Spring isn't shoulder season at all; it's Mardi Gras, French Quarter Fest, and Jazz Fest stacked back to back, which makes February through May the single longest peak stretch most destinations don't have.
 
-This guide exists because that inverted calendar is scattered across a dozen other pages on this site — the [festival calendar](/guides/festival-season-calendar/), the [shoulder season guide](/guides/shoulder-season-guide/), the [October guide](/guides/nola-group-october-guide/) — but never assembled into one place a group organizer can use to actually pick a month. Here it is, straight through.
+This guide exists because that inverted calendar is scattered across a dozen other pages on this site — the [festival calendar](/guides/festival-season-calendar/), the [shoulder season guide](/guides/shoulder-season-guide/), the [October guide](/guides/nola-group-october-guide/) — but never assembled into one place a group organizer can use to actually pick a month. Here it is, straight through. If you're still at the "where do we even start" stage, the [group trip planning hub](/guides/plan-a-group-trip/) puts the dates decision in order with everything else.
 
 ---
 

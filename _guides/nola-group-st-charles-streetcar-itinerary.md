@@ -204,6 +204,6 @@ The streetcar runs in most weather. New Orleans thunderstorms pass quickly. If i
 
 ## Where to Stay for Easy Streetcar Access
 
-A base near the line changes this day from an outing into a two-minute walk to the stop. Lower Garden District options like The Syd sit a block or two off St. Charles; the field also runs to deep-inventory operators like Heirloom (LGD/Central City), Bywater villa operators like Castleday Retreats (a rideshare or bike ride to the Canal Street terminus instead), and hotel room blocks for groups who'd rather book by the room. If you're still weighing a rental against a hotel, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the actual tradeoffs. For the largest selection, book 6+ months out.
+A base near the line changes this day from an outing into a two-minute walk to the stop. Lower Garden District and Central City homes from operators like Heirloom sit near the line; Bywater options like The Mazant mean a rideshare or bike ride to the Canal Street terminus instead; and there are hotel room blocks for groups who'd rather book by the room. If you're still weighing a rental against a hotel, the [hotel vs. villa guide](/guides/hotel-vs-villa-guide/) runs the actual tradeoffs. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
