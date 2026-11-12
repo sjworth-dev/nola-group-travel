@@ -11,7 +11,7 @@ New Orleans is a festival city. Not one or two events a year — a near-continuo
 
 For large groups, this cuts both ways. Festival season means incredible experiences and electric street energy. It also means accommodation prices climb, the best rentals go fast, and restaurants are slammed for weeks at a time — for the largest selection, book 6+ months out.
 
-Know the calendar before you pick your dates. It changes everything.
+Know the calendar before you pick your dates. It changes everything. If dates are the first decision you're making, the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) gives the month-by-month verdicts, and the [planning hub](/guides/plan-a-group-trip/) puts the rest of the decisions in order.
 
 ## Quick Planning Checklist
 
@@ -174,6 +174,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 ### August
 
+**Satchmo SummerFest (early August)**
+- Louis Armstrong tribute festival; small, music-first, and very hot — the [Satchmo SummerFest guide](/guides/nola-group-satchmo-summerfest-guide/) weighs whether August is worth it for a group
+- Group impact: Low; this is soft season
+
 **Southern Decadence (Labor Day weekend)**
 - One of the largest LGBTQ+ events in the country
 - Anchored to Labor Day, which is always the first Monday of September — in 2026 that puts the event September 3–7, so it lands in September more often than not despite the "late summer" feel
@@ -195,6 +199,8 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 ---
 
 ### October
+
+October is peak season, not shoulder: best weather of the year, full pricing. The [October group trip guide](/guides/nola-group-october-guide/) has the honest read.
 
 **Voodoo Music + Arts Experience (late October weekend)**
 - Major music festival in City Park
@@ -244,7 +250,7 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 
 **New Year's Eve**
 - Fireworks at the Mississippi, Frenchmen Street countdown, French Quarter chaos
-- The city goes all-in
+- The city goes all-in; the [New Year's Eve group guide](/guides/new-years-guide/) covers the night itself
 - Group impact: New Year's Eve weekend is one of the most popular travel dates, with demand rivaling Mardi Gras on the night itself — for the largest selection, book 6+ months out. The [New Year's Eve villa guide](/guides/nola-group-new-years-villa-guide/) makes the case for staying in versus fighting the French Quarter crowds.
 
 ---
