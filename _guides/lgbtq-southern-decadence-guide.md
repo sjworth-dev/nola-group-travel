@@ -7,11 +7,11 @@ card_description: "The biggest queer event in the South. How to plan Southern De
 date: 2026-08-11
 ---
 
-Southern Decadence is one of the biggest LGBTQ+ events in the country. It draws hundreds of thousands of people to New Orleans over Labor Day weekend — five days of street parties, bar events, and one massive Sunday parade through the French Quarter. In 2026, that's **September 3–7**.
+Southern Decadence is one of the biggest LGBTQ+ events in the country. It draws hundreds of thousands of people to New Orleans over Labor Day weekend — five days of street parties, bar events, and one massive Sunday parade through the French Quarter. In 2027, that's **September 2–6**. Still deciding between this and a cooler month? The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) shows what you're trading.
 
 It is also deeply misunderstood by groups planning their first trip. Most groups show up thinking it's just a giant Bourbon Street party with a parade. It's more than that, and if you plan it right, it's one of the best weekends you'll have anywhere.
 
-This guide is for the whole crew planning Southern Decadence specifically, or for larger LGBTQ+ groups visiting New Orleans at any time of year.
+This guide is for the whole crew planning Southern Decadence specifically, or for larger LGBTQ+ groups visiting New Orleans at any time of year. For the year-round picture — which bars, which neighborhoods, which other weekends — see the [LGBTQ+ group guide](/guides/lgbtq-group-guide/), and if the trip is still just an idea, [start with the planning hub](/guides/plan-a-group-trip/).
 
 ## Quick Checklist
 
@@ -30,7 +30,7 @@ This guide is for the whole crew planning Southern Decadence specifically, or fo
 
 **The official timeline:**
 
-Southern Decadence runs Thursday through Monday of Labor Day weekend — for 2026, that's **September 3 through 7**, with the bulk of activity concentrated Thursday through Sunday. The Sunday afternoon Grand Marshal Parade is the centerpiece — it starts in the French Quarter and winds through the streets with dancing, costumes, brass bands, and crowds that fill the entire neighborhood.
+Southern Decadence runs Thursday through Monday of Labor Day weekend — for 2027, that's **September 2 through 6**, with the bulk of activity concentrated Thursday through Sunday. The Sunday afternoon Grand Marshal Parade is the centerpiece — it starts in the French Quarter and winds through the streets with dancing, costumes, brass bands, and crowds that fill the entire neighborhood.
 
 The rest of the weekend is a mix of:
 - Ticketed events at clubs and bars throughout the city
@@ -85,7 +85,7 @@ The Grand Marshal Parade is the event that defines Southern Decadence. It typica
 
 ### How the Ticketed Event Ecosystem Works
 
-Southern Decadence has dozens of ticketed events: pool parties, club nights, themed parties, drag shows, and outdoor stage events. They range from free to $75+. Quality varies.
+Southern Decadence has dozens of ticketed events: pool parties, club nights, themed parties, [drag shows](/guides/nola-group-drag-show-guide/), and outdoor stage events. They range from free to $75+. Quality varies.
 
 **For a full crew:**
 
