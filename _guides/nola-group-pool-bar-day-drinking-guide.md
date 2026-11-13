@@ -205,7 +205,7 @@ Groups that maintain all three have members who can actually make midnight. Grou
 
 The pool-to-bar structure only functions if the home base is actually built for it. A hotel lobby does not have a pool deck with music and a cooler. A cramped Airbnb does not have a courtyard where 20 people can spread out for two hours before heading out.
 
-The field spans single-property villas like Castleday Retreats (private pool per villa) in [Bywater](/neighborhoods/bywater/) — walking distance from Frenchmen Street and the [Marigny](/neighborhoods/marigny/) afternoon bar scene — and The Syd in the [Lower Garden District](/neighborhoods/lower-garden-district/), with a shared heated pool and hot tub one block from the St. Charles Streetcar for staging the afternoon bar phase. Apartment-style operators like Heirloom and The Revelry, and hotel room blocks, round out the field for groups who'd rather have separate keys. Pick for the pool deck and the walking distance to the afternoon bar neighborhood, not the biggest number on a listing.
+The field spans a historic single house like The Mazant in [Bywater](/neighborhoods/bywater/) — walking distance from Frenchmen Street and the [Marigny](/neighborhoods/marigny/) afternoon bar scene, with a heated pool and spa — and apartment-style stays like The Natchez Vacation Rentals, with a shared saltwater pool and hot tubs for staging the afternoon bar phase. Operators like Heirloom and The Revelry, and hotel room blocks, round out the field for groups who'd rather have separate keys. Pick for the pool deck and the walking distance to the afternoon bar neighborhood, not the biggest number on a listing.
 
 For the largest selection, book 6+ months out.
 
