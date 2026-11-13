@@ -196,6 +196,6 @@ The hub needs to be a real hub — space enough for 20 people to disperse within
 
 **The Mazant** — an 1880s Bywater guesthouse sleeping 18. A shared pool and common areas make a genuinely good hub. When Track A comes back at 5pm from the museum, they can find the pool going and the kitchen open and have a full hour before Track B gets back from the golf course. That's what a good hub produces.
 
-The rest of the field fits the hub-and-spoke model too: Castleday Retreats' Bywater villas (private pool per villa), Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
+The rest of the field fits the hub-and-spoke model too: The Mazant's Bywater guesthouse for a single historic house, Heirloom's deeper inventory in LGD/Central City, apartment-style stays like The Revelry or The Natchez for separate billing, or a hotel room block for mixed budgets. For the full rundown of what fits your group, see [where to stay for large groups →](/where-to-stay/) — and for the largest selection, book 6+ months out.
 
 Plan around your group's actual composition. Let the sub-schedules breathe. Come back together at the moments that matter.

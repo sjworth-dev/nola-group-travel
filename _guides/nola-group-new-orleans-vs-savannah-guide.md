@@ -163,4 +163,4 @@ New Orleans has the more developed version of that market — from single-villa 
 
 ---
 
-**Comparing other cities too?** New Orleans vs [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/)
+**Comparing other cities too?** New Orleans vs [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Chicago](/guides/nola-group-new-orleans-vs-chicago-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) · [Austin](/guides/nola-group-new-orleans-vs-austin-guide/) · [Charlotte](/guides/nola-group-new-orleans-vs-charlotte-guide/)
