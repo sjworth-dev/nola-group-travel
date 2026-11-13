@@ -146,7 +146,7 @@ Once the trip goes well past a dozen, the workshop has logistical dimensions:
 
 ## The Villa as Workshop Space
 
-Several large-group workshop operators will bring the workshop to your villa rather than requiring you to travel to them. This is the logistics move for groups of 20+.
+Several large-group workshop operators will bring the workshop to your villa rather than requiring you to travel to them. This is the logistics move once the crew passes twenty.
 
 Clearing a dining room table or setting up folding tables in the outdoor space creates a workshop environment. The operator brings all materials. The group doesn't have to transport 25 people to a workshop location. And afterward, the second line starts from the villa — either joining a street second line nearby or marching through the neighborhood with the brass band you booked.
 
@@ -174,6 +174,6 @@ When exploring workshop operators, ask specifically: "Do you do private villa wo
 
 ## The Right Base for a Second Line Workshop Day
 
-A villa base makes the in-villa workshop option straightforward — a dining table or outdoor space for the craft session, then a straight walk or short ride to the second line. Castleday Retreats has villas in the Bywater, directly adjacent to the communities where second line culture lives — the Tremé and the Seventh Ward are minutes away. The Syd's Lower Garden District villas sit one block from the St. Charles Streetcar, an easy transit line to second line neighborhoods, with courtyard space that works well for a workshop setup. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, and a hotel room block works for groups that would rather do the workshop off-site and skip the in-villa logistics. Whatever you pick, for the largest selection, book 6+ months out.
+A villa base makes the in-villa workshop option straightforward — a dining table or outdoor space for the craft session, then a short ride to the second line. Bywater houses sit close to the Tremé and the Seventh Ward, where second line culture lives; The Mazant, a historic guesthouse that sleeps 18, is one example there. Heirloom has the deepest inventory of large-format homes if you're booking on short notice, The Revelry's apartment-style floors in Central City suit crews that want separate billing, and a hotel room block works for groups that would rather do the workshop off-site and skip the in-villa logistics. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
