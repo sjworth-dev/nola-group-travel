@@ -85,7 +85,7 @@ The tradeoff is that Charlotte, once you arrive, is a pleasant regional city wit
 
 **Pick Charlotte if:** your group prioritizes an easy regional drive or short flight above all else, wants a clean and modern brewery-and-rooftop scene, and is fine with the trip being a solid, low-friction weekend rather than the centerpiece of the year.
 
-**Bachelorette verdict:** if the trip is a bachelorette, New Orleans is the stronger story; the [bachelorette party guide](/guides/bachelorette-party/) has the hour-by-hour version. Charlotte works for a low-key send-off.
+**Bachelorette verdict:** if the trip is a bachelorette, New Orleans is the stronger story; the [bachelorette party guide](/guides/bachelorette-party/) has the hour-by-hour version. Charlotte works for a low-key send-off. If the Carolinas shortlist also includes the Triangle, the [New Orleans vs. Raleigh comparison](/guides/nola-group-new-orleans-vs-raleigh-guide/) runs the same math one city over.
 
 **Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a standard rental house, and is willing to trade some travel convenience for a trip built around a single deep culinary and musical tradition. For the full itinerary version, see the [girls trip guide](/guides/nola-group-girls-trip-guide/).
 
