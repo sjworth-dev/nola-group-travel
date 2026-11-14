@@ -2188,3 +2188,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-13 UTC (run 2) — seo: interlink `nola-group-new-orleans-vs-savannah-guide.md` cross-link row now includes Charlotte.
 2026-11-13 UTC (run 2) — fix: property balance sweep — spa retreat day, split schedule, pool bar day drinking guides (Castleday/Syd removed). ~33 pages still name Castleday or The Syd.
 2026-11-13 UTC (run 2) — backlog: no changes; Up Next empty.
+2026-11-14 UTC — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-14 UTC — expand: refresh `nola-group-new-orleans-vs-destin-guide.md` (oldest, 2026-08-02) — verdict opener, retitled/redescribed to length, bachelorette verdict section, hedged "no cover" table claim, links to best-time/open-container/bachelorette guides, bumped date.
+2026-11-14 UTC — seo: interlink `bachelorette-party.md` city-comparison line to the Destin vs page.
+2026-11-14 UTC — fix: property balance sweep — villa movie night, villa karaoke night, villa cocktail hour upgrade guides (Castleday/Syd removed; Mazant/Revelry/Natchez used; dropped an unverified Treme-filmed-in-Bywater claim). 30 guide/neighborhood pages still name Castleday or The Syd (most with a single mention).
+2026-11-14 UTC — still open for a human (carried from 11-12): `events.md` / `nola-voodoo-fest-guide.md` present Voodoo Fest as a live 2026 event; `nola-group-october-guide.md` carries 2026 Halloween dates.
+2026-11-14 UTC — backlog: no changes; Up Next empty.
