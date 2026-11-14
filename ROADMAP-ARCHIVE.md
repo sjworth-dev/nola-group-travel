@@ -2194,3 +2194,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-14 UTC — fix: property balance sweep — villa movie night, villa karaoke night, villa cocktail hour upgrade guides (Castleday/Syd removed; Mazant/Revelry/Natchez used; dropped an unverified Treme-filmed-in-Bywater claim). 30 guide/neighborhood pages still name Castleday or The Syd (most with a single mention).
 2026-11-14 UTC — still open for a human (carried from 11-12): `events.md` / `nola-voodoo-fest-guide.md` present Voodoo Fest as a live 2026 event; `nola-group-october-guide.md` carries 2026 Halloween dates.
 2026-11-14 UTC — backlog: no changes; Up Next empty.
+2026-11-14 UTC (run 2) — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-14 UTC (run 2) — expand: refresh `nola-group-new-orleans-vs-raleigh-guide.md` (oldest, 2026-08-02) — verdict opener, retitled/redescribed to length, bachelorette verdict section, open-container link + hedged "no cover" table claim, value-month seasonality added, links to best-time/festival-calendar/bachelorette/Charlotte guides, bumped date.
+2026-11-14 UTC (run 2) — seo: interlink `nola-group-new-orleans-vs-nashville-guide.md` cross-city row (+Charlotte, Raleigh, Destin) and `nola-group-new-orleans-vs-charlotte-guide.md` → Raleigh.
+2026-11-14 UTC (run 2) — fix: property balance sweep — Riverbend/Carrollton, Ninth Ward, Mid-City neighborhood pages (Castleday/Syd dual mentions cut to ≤1; Revelry/Mazant used). 29 guide/neighborhood pages still name Castleday or The Syd.
+2026-11-14 UTC (run 2) — still open for a human (carried from 11-12): `events.md` / `nola-voodoo-fest-guide.md` present Voodoo Fest as a live 2026 event; `nola-group-october-guide.md` carries 2026 Halloween dates.
+2026-11-14 UTC (run 2) — backlog: no changes; Up Next empty.
