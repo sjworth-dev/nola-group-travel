@@ -190,11 +190,15 @@ Frenchmen Street from a Bywater villa, or a neighborhood bar in the Lower Garden
 
 The villa is the whole setup here. You need outdoor space or a living room large enough for the whole crew to have an audience-performer dynamic. You need a kitchen or bar area that's not in the performance space. You need enough room for people to be in the room without everyone sitting on top of each other.
 
-### Castleday Retreats
+### The Revelry
 
-Bywater villas with a private pool per villa, accommodating 14 to 30 guests depending on the house. The pool deck and courtyard space work well as an outdoor karaoke setup — pool as backdrop, deck as audience seating, and enough separation from neighboring properties that normal group volumes aren't a constant negotiation.
+Central City apartment-style floors, each sleeping six to nine, with a saltwater pool. The floor-per-crew format means karaoke can happen on one floor while the people who'd rather sleep retreat to another — a genuine advantage on a night built around volume. Confirm which common space can host the setup before booking.
 
-The Bywater is also where you want to be if karaoke transitions to going out. Frenchmen Street is a short distance; the St. Claude Arts District bar corridor is closer. The energy you build at the villa has somewhere to go.
+### The Mazant
+
+An 1880s Bywater guesthouse sleeping 18, with a heated pool and spa — one house, one courtyard, if the whole crew fits under that number.
+
+The Bywater is where you want to be if karaoke transitions to going out. Frenchmen Street is a short distance; the St. Claude Arts District bar corridor is closer. The energy you build at the villa has somewhere to go.
 
 ### Heirloom
 

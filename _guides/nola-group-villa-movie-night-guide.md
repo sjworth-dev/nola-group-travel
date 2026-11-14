@@ -246,11 +246,11 @@ Give the going-out group a loose return time. "Last call is 2am, plan accordingl
 
 The outdoor movie night concept requires specific things from the space: enough outdoor square footage to seat the whole crew in a shared orientation, an electrical situation that supports the equipment, a wall or screen surface that works as a projection target, and enough privacy that outdoor sound at movie-watching volume does not create a problem. Not all villas deliver all of this.
 
-### Castleday Retreats
+### The Mazant
 
-Bywater villas with a private courtyard and pool per villa, accommodating 14 to 30 guests depending on the house. The enclosed courtyard works naturally as an outdoor movie venue — it contains sound better than a more exposed deck would, and the pool area gives the group room to sit with real sightlines to a projection surface.
+An 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. For a crew at or under that headcount, one historic house with its own outdoor space is the simplest version of this night — confirm the courtyard layout and a usable projection wall before you plan the screen around it.
 
-The Bywater is also the neighborhood that Treme spent three seasons depicting in detail. Watching Treme from a Bywater villa is the most location-specific version of this film list — the neighborhood you are in, on screen, from a courtyard within walking distance of the streets shown.
+The Bywater location also makes the going-out track easy: Frenchmen Street and the St. Claude bar corridor are a short ride away when the credits roll.
 
 ### Heirloom
 
