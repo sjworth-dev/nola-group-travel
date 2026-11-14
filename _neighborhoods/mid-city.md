@@ -170,7 +170,7 @@ Mid-City doesn't have a streetcar line. Rideshare is the most practical option f
 
 Mid-City doesn't have large-group rental inventory. Base yourself nearby.
 
-Castleday Retreats runs villas in the Bywater with a private pool per house, about 20-25 minutes from Mid-City by rideshare — a fit for a group that wants total privacy and its own outdoor space. Heirloom's inventory of large-format homes spans the Lower Garden District and Central City, closer to Mid-City on the rideshare and with more dates available if you're booking later. A hotel room block near the CBD splits the difference — separate bills, and a similar ride to Mid-City as either villa option.
+The Revelry's Central City apartment-style floors (a floor per crew, a shared saltwater pool, separate billing) are a fit for a group that wants its own space without one person fronting the whole bill. Heirloom's inventory of large-format homes spans the Lower Garden District and Central City, closer to Mid-City on the rideshare and with more dates available if you're booking later. A hotel room block near the CBD splits the difference — separate bills, and a similar ride to Mid-City as either villa option.
 
 Whichever base you pick, you're trading a few minutes of rideshare time for a real house with a full kitchen and common space — worth it for most groups making City Park the centerpiece of a day. For the largest selection, book 6+ months out.
 

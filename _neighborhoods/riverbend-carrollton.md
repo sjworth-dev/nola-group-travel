@@ -172,7 +172,7 @@ It's also an excellent last-day option: slower, neighborhood-paced, good for gro
 
 Riverbend and Carrollton don't have large-group private villa inventory comparable to the [Bywater](/neighborhoods/bywater/) or [Lower Garden District](/neighborhoods/lower-garden-district/). At full headcount, you're staying elsewhere and visiting here — not basing here.
 
-The Syd's Lower Garden District villas share a heated pool and sit one block from the St. Charles Streetcar, which puts Riverbend a direct streetcar ride away — get on at Jackson Avenue, ride the full line to Carrollton Avenue, come back the same way. Castleday Retreats has private-pool villas in the Bywater, about 25–30 minutes from Riverbend by streetcar or Uber. Heirloom has the deepest inventory of large-format homes across both areas for a short-notice booking, and a hotel room block works fine for a mixed-budget group. Whatever you pick, for the largest selection, book 6+ months out.
+The Syd's Lower Garden District villas share a heated pool and sit one block from the St. Charles Streetcar, which puts Riverbend a direct streetcar ride away — get on at Jackson Avenue, ride the full line to Carrollton Avenue, come back the same way. The Revelry's apartment-style floors in Central City, with a shared saltwater pool and separate billing per floor, keep the Uptown end of town a short rideshare away. Heirloom has the deepest inventory of large-format homes across both areas for a short-notice booking, and a hotel room block works fine for a mixed-budget group. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
