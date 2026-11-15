@@ -198,6 +198,6 @@ Set the post-game plan before you walk in:
 
 Caesars Superdome is in the CBD, accessible by rideshare from the Bywater, the Lower Garden District, and Central City in under 20 minutes.
 
-A villa with a real kitchen and outdoor space is what makes the pre-game format in this guide work at all — a courtyard for the group to assemble in, a kitchen for the batch cocktail, and a pool for the post-game recovery after 4-6 hours in a stadium. Heirloom's large-format homes across the Lower Garden District and Central City have the deepest inventory if you're booking without much lead time; a Castleday Retreats villa in the Bywater puts you a short rideshare from the Dome with the same setup. For the largest selection, book 6+ months out.
+A villa with a real kitchen and outdoor space is what makes the pre-game format in this guide work at all — a courtyard for the group to assemble in, a kitchen for the batch cocktail, and a pool for the post-game recovery after 4-6 hours in a stadium. Heirloom's large-format homes across the Lower Garden District and Central City have the deepest inventory if you're booking without much lead time; Hotel Perle's CBD/Warehouse District group suites put you within walking distance of the Dome, with separate bills and a rooftop pool instead of a private courtyard. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
