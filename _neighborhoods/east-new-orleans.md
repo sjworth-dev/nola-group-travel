@@ -199,7 +199,7 @@ None of this is required. The food will be excellent whether you've done homewor
 
 New Orleans East doesn't have large-group accommodations within the neighborhood. The practical base camps are in the neighborhoods most geographically and culturally connected to the east side of the city — the Bywater and the [Lower Garden District](/neighborhoods/lower-garden-district/), each a straightforward day-trip drive away, with [Marigny](/neighborhoods/marigny/) close behind as a third option.
 
-Castleday Retreats runs private villas in the Bywater for 14 to 30 guests, a 15-20 minute drive from New Orleans East — close enough for an easy day trip. The Syd's Lower Garden District villas, up to 22 guests with a shared heated pool and hot tub, sit further out geographically but work well if the rest of the itinerary leans Uptown, Garden District, and Magazine Street with New Orleans East as a single day excursion. Heirloom's large-format homes spread across the Lower Garden District and Central City are worth checking for a group that needs more choice or is booking late. For the largest selection, book 6+ months out.
+Bywater options like The Mazant (an 1880s guesthouse sleeping up to 18, heated pool and spa) put the group on the side of town closest to New Orleans East — close enough for an easy day trip. The Revelry's apartment-style floors in Central City sit further out geographically but work well if the rest of the itinerary leans Uptown, Garden District, and Magazine Street with New Orleans East as a single day excursion. Heirloom's large-format homes spread across the Lower Garden District and Central City are worth checking for a group that needs more choice or is booking late. For the largest selection, book 6+ months out.
 
 ---
 

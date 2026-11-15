@@ -129,6 +129,6 @@ This produces a day that's meaningfully different from anything on the standard 
 
 Gentilly itself has limited large-group accommodation options. The closest group-appropriate bases are in the [Bywater](/neighborhoods/bywater/)/Marigny corridor to the south, a straight drive down St. Claude Avenue, or the [Lower Garden District](/neighborhoods/lower-garden-district/) to the west, which gives faster access toward Mid-City and on to Gentilly via the main corridors.
 
-Castleday Retreats has private-pool villas in the Bywater; The Syd's Lower Garden District villas share a heated pool and sit one block from the St. Charles Streetcar; Heirloom has the deepest inventory of large-format homes across both areas for a short-notice booking; and a hotel room block works if the group wants separate keys and bills. Whatever you pick, for the largest selection, book 6+ months out.
+The Mazant is a historic Bywater guesthouse for up to 18 with a heated pool and spa; The Revelry's Central City apartment-style floors give each sub-crew its own space and bill; Heirloom has the deepest inventory of large-format homes across both areas for a short-notice booking; and a hotel room block works if the group wants separate keys and bills. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
