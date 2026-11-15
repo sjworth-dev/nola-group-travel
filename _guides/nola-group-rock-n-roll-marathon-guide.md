@@ -1,73 +1,105 @@
 ---
-title: "Rock 'n' Roll New Orleans Marathon: The Group Trip Guide"
-description: "Planning a group trip around the Rock 'n' Roll New Orleans Marathon: the runner-vs-spectator split, race-morning road closures, carb-load dinner logistics, and structuring a recovery day at a villa."
+title: "Rock 'n' Roll New Orleans Marathon Is Gone: What Now"
+description: "The Rock 'n' Roll New Orleans race was discontinued after 2022. Here's what runs instead now and how to plan a group race weekend around it."
 category: "Activities & Day Trips"
-card_title: "Rock 'n' Roll Marathon Guide"
-card_description: "One person's running 13.1 or 26.2 miles. Everyone else is cheering, drinking coffee, and figuring out where the road closures put them. Here's how to plan the whole group's weekend."
-date: 2026-08-02
+card_title: "New Orleans Marathon Weekend Guide"
+card_description: "Rock 'n' Roll left town. The races that replaced it still split your group into runners and a cheering section. Here's how to plan both halves."
+date: 2026-11-15
 ---
 
-The Rock 'n' Roll New Orleans Marathon is typically run in late February — which means it lands inside New Orleans' genuine peak season, not some quiet off-month. Check the official race site for the current year's exact date before you book anything; it moves within that late-February window year to year, and it sometimes sits close enough to Mardi Gras season that the two compete for the same hotel rooms.
+**Short answer: the Rock 'n' Roll New Orleans Marathon no longer exists.** The series ran its last New Orleans race in 2022, cancelled 2023, and officially discontinued the event. If you're searching for it to build a group trip around, stop booking flights for a race that isn't happening.
 
-The honest version of this trip: one part of your group is running a marathon, half marathon, or one of the shorter distances, and the other part is standing on a sidewalk with a sign and a coffee. Both halves need a plan, and they're not the same plan. Runners need an early night, a carb-load dinner, and a race morning built around road closures they didn't cause but absolutely have to navigate. Spectators need to know where the course actually goes, when to show up, and what to do with the four hours between the start gun and brunch.
+The good news is that New Orleans didn't stay a marathon-free city. A standalone **New Orleans Marathon** returned in November 2026, starting from City Park, after roughly seven years without a full marathon in town. Other road races fill the calendar too — a women's marathon has been announced for late February 2027, and spring brings the city's long-running 10Ks. Dates for the 2027 editions are still settling, so check each race's official site before anyone buys a plane ticket.
 
-This isn't a bachelorette trip or a wedding weekend — it's a race weekend with a group attached, and the logistics run backward from a start time instead of forward from a dinner reservation. Get that structure right and it's one of the better reasons to bring a big group to New Orleans in February.
+What hasn't changed is the shape of the trip. One part of your group is running 13.1 or 26.2 miles; the other part is standing on a curb with a sign and an iced coffee. Both halves need a plan, they are not the same plan, and the whole weekend runs backward from a start gun instead of forward from a dinner reservation.
 
 ---
 
 ## Quick Checklist
 
-- [ ] Confirm the current year's race date and course map on the official Rock 'n' Roll New Orleans site before booking flights
-- [ ] Check whether your dates overlap early Mardi Gras season — parade krewes can start rolling in the weeks before Fat Tuesday, which affects both crowds and lodging availability
-- [ ] Separate runners' Saturday night from everyone else's — runners need an early night and a carb-load dinner, not a late one
-- [ ] Plan spectator viewing spots along the route in advance; road closures make moving between spots mid-race harder than it looks
-- [ ] Book rideshare or a private driver for race morning — closures reroute traffic well before the start gun
-- [ ] Build in a genuine recovery day for runners; don't schedule a big night out the evening of the race
+- [ ] Confirm the race exists, its date, and its course map on the official site — this page exists because people keep planning around a discontinued one
+- [ ] Note where the start and finish actually are (the November 2026 New Orleans Marathon started from City Park) and pick a home base with that in mind
+- [ ] Check your dates against the [festival season calendar](/guides/festival-season-calendar/) — a late-February race can sit on top of Carnival parades
+- [ ] Give the runners their own Saturday night: early carb-load dinner, early bed
+- [ ] Choose spectator viewing spots before race morning; closed streets make improvising miserable
+- [ ] Book a driver or group van for race morning instead of trusting rideshare near closures
+- [ ] Schedule a real recovery day — no bar crawl the night of the race
 - [ ] For the largest selection, book 6+ months out
+
+---
+
+## What Actually Runs in New Orleans Now
+
+| Race | When | Status | What it means for your group |
+|------|------|--------|------------------------------|
+| Rock 'n' Roll New Orleans | Formerly late winter | **Discontinued** (last run 2022) | Nothing to plan. Ignore old blog posts and race listings that still show it. |
+| New Orleans Marathon | November (Nov 14 in 2026, from City Park) | Returned in 2026 | The current full-marathon option. 2027 date not yet announced — check the official site. |
+| Every Woman's Marathon (Team Milk) | Late February 2027 (listed as Feb 28) | Announced for 2027 | Can land on or near Carnival weekends depending on the year. Verify the date officially. |
+| Spring 10Ks and shorter races | March–April, typically | Annual | The low-commitment option: a race morning, then a normal NOLA weekend. |
+
+**The verdict:** if your group wants a full marathon in New Orleans, the November race is the one to watch. If half your group runs and half your group "supports," a shorter spring race gives everybody more weekend and fewer blisters.
 
 ---
 
 ## The Runner-vs-Spectator Split
 
-This is the defining logistics problem of the weekend, and most groups underplan for it.
+This is the defining logistics problem of the weekend, and most groups underplan it.
 
-**Runners** need: an early Saturday night, a carb-heavy dinner the night before, hydration discipline, and transportation to the start line that accounts for road closures. Race morning is not negotiable — it starts when it starts, and a runner who's out late Friday or Saturday is racing on a deficit.
+**Runners** need an early night before the race, a carb-heavy dinner, hydration discipline, and a route to the start line that accounts for road closures. Race morning starts when it starts. A runner who closed down a bar on Friday is racing on a deficit.
 
-**Spectators** need: a viewing strategy (the course covers a lot of ground, and you can't casually walk across a closed street to catch your runner at mile 18 if you didn't plan the crossing), something to do during the multiple hours the race takes, and a plan for meeting up afterward that doesn't rely on cell service in a finish-line crowd.
+**Spectators** need a viewing plan (you can't casually stroll across a closed course to catch your runner at mile 18), something to do during the hours the race takes, and a meetup spot that doesn't depend on cell service in a finish-line crowd.
 
-**The real distinction:** this is closer to a [Saints gameday trip](/guides/sports-weekend/) than a bachelorette weekend — the schedule is dictated by a start gun, not a dinner reservation, and the group splits into two genuinely different experiences that reunite at the end rather than moving through the day together.
+**The real distinction:** this trip is closer to a [sports weekend](/guides/sports-weekend/) than a bachelorette. A clock sets the schedule, the group splits into two genuinely different experiences, and everyone reunites at the end instead of moving through the day together.
 
 ---
 
 ## Race Morning: Road Closures and Getting There
 
-Race organizers close a rolling set of streets along the course starting before dawn, and closures move as the race clock does — a street that's open at 7 AM may be a active course at 8:30. This is the single biggest planning failure for groups who haven't run a race weekend before: assuming you can drive or rideshare wherever you want, whenever you want, on race morning.
+Organizers close a rolling set of streets along the course, starting before dawn, and closures shift as the race moves. A street that's open at 7 AM may be an active course at 8:30. The most common group failure is assuming you can rideshare anywhere, anytime, on race morning.
 
-**For runners:** Confirm your drop-off point relative to the start corral well before race day, and plan to arrive earlier than feels necessary — road closures mean the last mile of your trip to the start might be on foot regardless of how you got most of the way there.
+**For runners:** confirm your drop-off point relative to the start corral days ahead, and plan to arrive earlier than feels necessary. The last stretch to the start may be on foot no matter how you got most of the way there.
 
-**For spectators:** Pick your viewing spot(s) before the race, not during it. Crossing an active course mid-race to reach a different spot is often impossible or requires a long walk around. If your group wants to see a runner at more than one point, study the map and identify a crossing point that opens between waves, or accept you'll see them once.
+**For spectators:** pick viewing spots before the race. If you want to see your runner at more than one point, study the course map for a realistic crossing, or accept that you'll see them once and make it count with a very large sign.
 
-**For everyone:** Rideshare pricing and availability get worse near the start and finish areas on race morning. A private driver or a group van booked in advance is worth it if your group is large — see the [charter bus guide](/guides/nola-group-charter-bus-guide/) for how that works at scale.
+**For everyone:** rideshare gets slow and expensive near the start and finish. A booked driver or group van is worth it at full headcount — the [charter bus guide](/guides/nola-group-charter-bus-guide/) covers how that works at scale.
+
+---
+
+## Where to Base the Group
+
+When the race starts from City Park, the geography of your weekend shifts. City Park sits well north of the French Quarter, which means a Quarter or CBD hotel is a ride away on race morning rather than a stroll.
+
+- **Closest to a City Park start:** [Mid-City](/neighborhoods/mid-city/) and [Lakeview](/neighborhoods/lakeview/) put runners near the start. Quieter neighborhoods, which is exactly what a runner wants the night before.
+- **Splitting the difference:** [Bayou St. John](/neighborhoods/bayou-st-john/) is next to the park and still has restaurants and bars for the spectators.
+- **Nightlife first:** a Quarter, Marigny, or Bywater base is better for the non-runners' evenings and worse for a 5 AM wake-up. Budget a driver.
+
+For courses that start or finish elsewhere, apply the same rule: put the runners close to the start and let the spectators handle the commute.
+
+The [City Park full-day guide](/guides/nola-group-mid-city-city-park-full-day-guide/) is a solid plan for spectators who'd rather explore the park than stand on a corner the whole time.
 
 ---
 
 ## The Night Before: Carb-Load Dinner
 
-Runners need a genuinely different Saturday night than the rest of the group, and the group's structure should reflect that rather than fight it.
+Runners need a different Saturday night from the rest of the group. Build the weekend around that instead of fighting it.
 
-**What works:** an early, carb-forward dinner — pasta, red beans and rice, a bread-heavy meal — finished by 8 or 8:30, with runners in bed at a reasonable hour. New Orleans makes this easy; there's no shortage of good carb-heavy Creole and Cajun options that also happen to be exactly what a runner wants the night before 13.1 or 26.2 miles.
+**What works:** an early, carb-forward dinner — pasta, red beans and rice, a bread-heavy meal — wrapped by 8 or 8:30. New Orleans makes this suspiciously easy; half the local canon is carbs.
 
-**What doesn't work:** treating Saturday night like every other night of the trip. If your group's instinct is [Frenchmen Street](/guides/live-music-guide/) until 1 AM, that's a fine plan for the non-running half of the group — just don't build it around the people racing in eight hours.
+**What doesn't:** treating race eve like every other night. If the group's instinct is [Frenchmen Street](/guides/live-music-guide/) until 1 AM, fine for the cheering section. Just don't schedule it around people racing in eight hours.
 
-A villa with a full kitchen solves this cleanly: cook a carb-load dinner at the house, keep it early, and let the spectators peel off for a later night out afterward without disrupting the runners' schedule.
+A rental with a full kitchen solves this cleanly: cook the carb-load dinner at the house, keep it early, and let the spectators head out afterward without waking anyone.
 
 ---
 
-## Race Weekend vs. Mardi Gras Season
+## Race Weekend and the Calendar
 
-Late February sits inside New Orleans' genuine peak season — October and February through May are the high-demand stretch here, not the shoulder months most cities have in late winter. Depending on the exact race date and how early Fat Tuesday falls that year, marathon weekend can land close enough to the start of Carnival season that parade krewes are already rolling on some weekends.
+The race you pick decides what else is happening in town.
 
-This matters for two reasons: lodging gets scarcer the closer the race sits to Carnival season, and road closures for parades stack on top of race-day closures if your dates overlap. Check both calendars — the race's official schedule and the [festival season calendar](/guides/festival-season-calendar/) — before locking your trip, especially if you're arriving a few days early or staying a few days after.
+- **November:** the current full marathon runs in November. Hurricane season technically runs through November 30, though the statistical peak is August–October. Check what else is on that weekend — fall football weekends can tighten hotels.
+- **Late February:** inside New Orleans' genuine peak season (October and February–May are the high-demand stretch here). Depending on when Fat Tuesday falls, Carnival parades may roll the same weekend, stacking parade closures on top of race closures. The [Mardi Gras group guide](/guides/mardi-gras-group-guide/) explains what that does to traffic.
+- **Spring:** March and April races share the calendar with crawfish season and festival weekends. Great weather, busy city.
+
+The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has month-by-month verdicts if race weekend is flexible and the rest of the trip isn't.
 
 ---
 
@@ -76,47 +108,47 @@ This matters for two reasons: lodging gets scarcer the closer the race sits to C
 | Factor | Runners | Spectators |
 |--------|---------|------------|
 | Friday night | Light dinner, hydrate, early to bed | Normal trip pace |
-| Saturday night | Carb-load dinner, early night, gear laid out | Can go later, but plan quiet return for runners |
-| Race morning | Confirm drop-off point, arrive earlier than feels needed | Pick viewing spot(s) before the race starts |
-| During the race | Running | Coffee, breakfast spot near the route, or back at the villa |
-| Post-race | Recovery day — no big plans | Free to plan a normal NOLA day or night |
-| Transportation | Rideshare gets harder near start/finish — plan ahead | Same; road closures affect everyone |
+| Saturday night (race eve) | Carb-load dinner, early night, gear laid out | Can go later; come home quietly |
+| Race morning | Confirm drop-off, arrive earlier than feels needed | Viewing spots picked in advance |
+| During the race | Running | Coffee, breakfast near the course, or a park wander |
+| Post-race | Recovery day — no big plans | Free for a normal NOLA day |
+| Transportation | Rideshare gets harder near start/finish | Same; closures affect everyone |
 
 ---
 
 ## The Recovery Day
 
-Whoever ran 13.1 or 26.2 miles is not doing a bar crawl that night, and a good group trip plans around that instead of resenting it.
+Whoever just ran 26.2 miles is not doing a bar crawl tonight, and a good group trip plans around that instead of sulking about it.
 
-**What a recovery day actually looks like:** a slow morning, a big breakfast, a private villa pool for sore legs, and a low-key evening. This is exactly the kind of day a villa handles better than a hotel — nobody has to coordinate around a single hotel room, and there's a pool and a full kitchen right there instead of a lobby.
+**What recovery looks like:** slow morning, big breakfast, a pool or hot tub for sore legs if your rental has one, and a low-key dinner. A long, sit-down [brunch](/guides/nola-brunch-guide/) is the most socially acceptable way to eat your weight in grits.
 
-For the group members who didn't run, the recovery day is a good window for a normal NOLA activity — brunch, a walk through the [French Quarter](/guides/live-music-guide/), a lazy pool afternoon — while runners rest. Reunite for dinner once legs feel human again.
+For the non-runners, recovery day is a good window for a normal NOLA activity while the runners nap. Reunite for dinner once legs feel human again.
 
 ---
 
 ## Pro Tips
 
-1. **Book your accommodation with race-day road closures in mind.** A villa or hotel a short walk from the start/finish area, rather than a long rideshare away, removes the single biggest morning-of stress point.
+1. **Verify the race before anything else.** Plenty of race listings still show Rock 'n' Roll New Orleans. It's gone. Confirm your race on its official site first.
 
-2. **Carb-load the night before, not the morning of.** A big pasta dinner Saturday night beats a big breakfast Sunday morning — digestion timing matters more than most first-time racers expect.
+2. **Base the runners near the start.** With a City Park start, a Mid-City or Lakeview base removes the single biggest race-morning stress.
 
-3. **Spectators should scout the course map in advance.** Decide where you're watching before race morning, not during it — closures make improvising difficult once the race is underway.
+3. **Carb-load the night before, not the morning of.** A big pasta dinner on race eve beats a giant race-morning breakfast.
 
-4. **Don't schedule a big group activity for race afternoon.** Runners need recovery time, and forcing an active plan onto tired legs a few hours after a half or full marathon makes for a miserable afternoon.
+4. **Spectators scout the course map in advance.** Decide where you're watching before race morning; closures make improvising hard.
 
-5. **Check whether your dates overlap early Carnival season.** If they do, book lodging even earlier than the standard 6-month mark — parade weekends and race weekend competing for the same rooms tightens availability fast.
+5. **Don't schedule a big group activity for race afternoon.** Forcing an active plan onto freshly destroyed legs is how you get a miserable dinner.
 
-6. **A private driver or booked van beats rideshare on race morning.** Road closures and driver reluctance to enter closed zones make ad hoc rideshare unreliable exactly when you need it most.
+6. **Book a driver or van for race morning.** Closures and driver reluctance make ad hoc rideshare unreliable right when you need it.
 
-7. **Plan one genuinely quiet night around the race.** Whether it's the carb-load dinner or the recovery night, build at least one low-key evening into the weekend — the rest of the trip can be as loud as your group wants.
+7. **Check for Carnival overlap on any February race.** Parade weekends and race weekend compete for the same rooms and the same streets.
 
 ---
 
 ## For a Big Group
 
-A race weekend with a mixed group of runners and spectators is a genuinely good fit for a large-format villa rather than a hotel room split across floors. Everyone needs a home base that can absorb an early-to-bed contingent and a still-going-out contingent on the same night without either group disrupting the other — a full kitchen for the carb-load dinner, a pool for the recovery day, and enough common space that eight quiet people and six loud ones aren't fighting over the same room.
+A race weekend with runners and spectators fits a large rental or a set of separate units better than a hotel room scattered across floors. You need a base that can absorb an early-to-bed contingent and a still-going-out contingent on the same night: a full kitchen for the carb-load dinner, somewhere for sore legs the next day, and enough common space that the quiet half and the loud half aren't fighting over one room.
 
-Bywater properties like The Mazant put a group within a manageable rideshare of the CBD start/finish area, with a heated pool and spa for recovery. Lower Garden District and Central City options like Heirloom's large-format homes or The Revelry sit along the St. Charles corridor the course itself uses, with a saltwater pool at The Revelry for sore legs afterward. Hotel room blocks — at properties like The Roosevelt or Hotel Peter & Paul — work well for a group that wants separate keys and separate bills rather than one shared roof. None of the above is a booking recommendation; pick by fit and proximity to the course.
+A few examples from across the field, picked by fit rather than favoritism: The Mazant (a historic Bywater guesthouse sleeping up to 18, with a heated pool and spa) works for one house with recovery built in, though it's a drive from a City Park start. The Revelry's apartment-style floors in Central City give each sub-crew its own space and bill, plus a saltwater pool. Hotel room blocks at places like The Roosevelt or Hotel Peter & Paul suit groups who want separate keys and separate bills. None of these is a booking recommendation — check the course, then pick by proximity and fit. The [planning hub](/guides/plan-a-group-trip/) sequences the rest of the decisions.
 
 For the largest selection, book 6+ months out.
 
