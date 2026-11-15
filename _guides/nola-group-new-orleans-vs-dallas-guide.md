@@ -62,7 +62,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 | Factor | New Orleans | Dallas |
 |--------|-------------|--------|
-| Nighttime scene | Live music, open container, no cover at most venues | Uptown rooftops, Deep Ellum live-music strip |
+| Nighttime scene | Live music, [go-cups allowed](/guides/nola-group-open-container-law-guide/), many bars with little or no cover | Uptown rooftops, Deep Ellum live-music strip |
 | Food and drink | Deep, centuries-old Creole/Cajun tradition | Elite steakhouses, genuine Tex-Mex |
 | Large-group lodging | Purpose-built villas near the entertainment core | Hotels and conventional short-term rentals |
 | Travel logistics | Flight or long drive for most of the region | Easy regional drive for most of Texas |
@@ -75,7 +75,7 @@ New Orleans has a developed purpose-built large-group villa market, concentrated
 
 This is the tradeoff that decides it for a lot of groups. Dallas's biggest advantage is real: for most of Texas, Oklahoma, and a wide swath of the surrounding region, it's a straightforward drive, which makes aligning a big group's calendars far easier than coordinating flights. Groups weighing the other big Texas drive option should see the [New Orleans vs. Houston comparison](/guides/nola-group-new-orleans-vs-houston-guide/) too — the same tradeoff shows up there with a different city on the other side.
 
-The tradeoff is that Dallas, once you're there, is a polished big-city weekend that leans on cars to get between its best neighborhoods rather than a single walkable core. New Orleans asks more to get there — a flight or a long drive for most of the region, more planning around [the actual demand calendar](/guides/festival-season-calendar/) since October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have — but it delivers a trip that's memorable specifically because nothing about it feels like a nicer version of a city your group has already visited.
+The tradeoff is that Dallas, once you're there, is a polished big-city weekend that leans on cars to get between its best neighborhoods rather than a single walkable core. New Orleans asks more to get there — a flight or a long drive for most of the region, more planning around [the actual demand calendar](/guides/festival-season-calendar/) since October and February through May are the genuine high-demand stretch here, not the fall shoulder season most cities have (the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has month-by-month verdicts) — but it delivers a trip that's memorable specifically because nothing about it feels like a nicer version of a city your group has already visited.
 
 ---
 
@@ -83,7 +83,7 @@ The tradeoff is that Dallas, once you're there, is a polished big-city weekend t
 
 **Pick Dallas if:** your group prioritizes an easy Texas-region drive, wants a night built around rooftop bars, a Deep Ellum show, and a genuinely great steak dinner, and is fine with getting around by car between neighborhoods.
 
-**Pick New Orleans if:** your group cares about live music that doesn't stop, wants a villa home base with its own pool within walking distance of the entertainment core rather than a scattered rental market, and is willing to trade travel convenience for a trip built around one of the country's deepest culinary and musical traditions. For the full itinerary version, see the [girls trip guide](/guides/nola-group-girls-trip-guide/).
+**Pick New Orleans if:** your group cares about live music that doesn't stop, wants a villa home base with its own pool within walking distance of the entertainment core rather than a scattered rental market, and is willing to trade travel convenience for a trip built around one of the country's deepest culinary and musical traditions. For the full itinerary version, see the [girls trip guide](/guides/nola-group-girls-trip-guide/). Still shopping Texas? The [New Orleans vs. Austin](/guides/nola-group-new-orleans-vs-austin-guide/) and [New Orleans vs. San Antonio](/guides/nola-group-new-orleans-vs-san-antonio-guide/) comparisons run the same test, and [New Orleans vs. Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) covers the rival that wins more bachelorette debates than any Texas city.
 
 ---
 
