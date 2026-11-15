@@ -119,6 +119,10 @@ Tulane and Xavier of Louisiana both compete in the New Orleans area. Less likely
 
 Several excellent golf courses serve groups in the New Orleans area. TPC Louisiana (PGA Tour host) is the standout option for serious golfers. Audubon Park Golf Course is more accessible and walkable from Uptown. For a sports weekend with a mixed group, a morning golf round before an afternoon Saints watch is a classic combination.
 
+### Running a Race
+
+If someone in the group would rather run 26.2 miles than watch other people play, New Orleans has a full marathon again: the New Orleans Marathon returned in November 2026, starting from City Park. (The old Rock 'n' Roll New Orleans race is gone, whatever outdated listings say.) The [marathon weekend guide](/guides/nola-group-rock-n-roll-marathon-guide/) covers the runner-vs-spectator split, race-morning closures, and where to base the group.
+
 ---
 
 ## Sports Weekend Itinerary: The Template
