@@ -163,7 +163,7 @@ End the Tremé portion of the morning at a natural stopping point — the end of
 
 The Tremé is a 15-20 minute rideshare from both the [Bywater](/neighborhoods/bywater/) and the [Lower Garden District](/neighborhoods/lower-garden-district/) — a short, easy transit that makes this morning accessible from either area.
 
-**Castleday Retreats** — Private villas in the Bywater, 14–30 guests each with a private pool per villa. The Bywater's position adjacent to the Marigny and the Tremé makes the geographic sequence of this morning — Bywater villa to Tremé, Tremé to Frenchmen Street, Frenchmen Street to Bywater — a natural loop that covers three of the city's most significant cultural neighborhoods in a single half-day.
+**The Mazant** — An 1880s Bywater guesthouse that sleeps 18, with a heated pool and spa. The Bywater sits just downriver of the Marigny, which makes the sequence of this morning — Bywater to Tremé, Tremé to Frenchmen Street, Frenchmen Street back to the Bywater — a natural loop through three of the city's most significant cultural neighborhoods in a single half-day. Bigger crews can get the same loop from The Lookout Inn (maxes out around 12) plus a second nearby rental.
 
 **Heirloom** — Large-format homes across the Lower Garden District and Central City. From either of those bases, the Tremé morning is a 15-20 minute rideshare north and east — a direct transit for groups on the upriver side of the city who'd rather have deeper booking inventory than the Bywater's walk-to-everything setup.
 
