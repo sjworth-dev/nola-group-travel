@@ -205,7 +205,7 @@ The second line is not a performance for visitors. The club members in costume, 
 
 ## Where to Stay for Second Line Sunday
 
-Second lines run through Central City, Tremé, and the 7th Ward, so a base anywhere in the central city puts you a short rideshare from most starting points. The field spans private-villa operators like Castleday Retreats (Bywater) and The Syd (Lower Garden District), Heirloom's larger inventory of large-format homes across the LGD and Central City, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for mixed budgets or groups who each want their own key and bill. Whichever you pick, build in a return-to-base window before the evening — the heat and the walking take more out of a group than the parade itself looks like it would.
+Second lines run through Central City, Tremé, and the 7th Ward, so a base anywhere in the central city puts you a short rideshare from most starting points. The field spans historic houses like The Mazant (Bywater), apartment-style floors at The Revelry in Central City itself, Heirloom's larger inventory of large-format homes across the LGD and Central City, and hotel room blocks (The Roosevelt, Hotel Bennett, Hotel Peter & Paul, The Pontchartrain, Hotel Saint Vincent) for mixed budgets or groups who each want their own key and bill. Whichever you pick, build in a return-to-base window before the evening — the heat and the walking take more out of a group than the parade itself looks like it would.
 
 For the largest selection, book 6+ months out.
 
