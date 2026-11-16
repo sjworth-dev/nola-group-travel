@@ -87,7 +87,7 @@ New Orleans' winter is mild by comparison — January is actually the city's val
 
 **Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a hotel floor, and is drawn to a trip built around a single deep culinary and musical tradition rather than range. For the full itinerary version, see the [girls trip guide](/guides/nola-group-girls-trip-guide/).
 
-**For a bachelorette party specifically:** this one isn't close. Chicago is a great city that happens to host bachelorettes; New Orleans is structurally built for them — no last call, drinks that walk with you, live music without cover charges, and houses that sleep the whole party under one roof instead of down a hotel corridor. Chicago makes sense when most of the group already lives within driving distance of it; otherwise the [bachelorette party guide](/guides/bachelorette-party/) shows what the New Orleans version looks like.
+**For a bachelorette party specifically:** this one isn't close. Chicago is a great city that happens to host bachelorettes; New Orleans is structurally built for them — no last call, drinks that walk with you, live music that often has little or no cover, and houses that sleep the whole party under one roof instead of down a hotel corridor. Chicago makes sense when most of the group already lives within driving distance of it (and if the real alternative is an even shorter Midwest drive, the [New Orleans vs. Columbus](/guides/nola-group-new-orleans-vs-columbus-guide/) breakdown covers that version); otherwise the [bachelorette party guide](/guides/bachelorette-party/) shows what the New Orleans version looks like.
 
 ---
 
@@ -121,4 +121,4 @@ For the largest selection, book 6+ months out.
 
 ---
 
-**Comparing other cities too?** New Orleans vs [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) · [Memphis](/guides/nola-group-new-orleans-vs-memphis-guide/)
+**Comparing other cities too?** New Orleans vs [Savannah](/guides/nola-group-new-orleans-vs-savannah-guide/) · [Nashville](/guides/nola-group-new-orleans-vs-nashville-guide/) · [Charleston](/guides/nola-group-new-orleans-vs-charleston-guide/) · [Las Vegas](/guides/nola-group-new-orleans-vs-las-vegas-guide/) · [Memphis](/guides/nola-group-new-orleans-vs-memphis-guide/) · [Columbus](/guides/nola-group-new-orleans-vs-columbus-guide/)
