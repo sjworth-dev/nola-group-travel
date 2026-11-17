@@ -148,7 +148,7 @@ This gives you 6-8 hours of structured activity without feeling rushed, and inco
 
 ## Where to Stay for Groups Visiting the Irish Channel
 
-The Irish Channel itself doesn't have large-group private rentals in the same density as nearby neighborhoods, so groups base nearby and treat it as an excursion. The field spans The Syd's [Lower Garden District](/neighborhoods/lower-garden-district/) villas (up to 22 guests, one stop up Magazine Street from the Irish Channel) and Castleday Retreats' [Bywater](/neighborhoods/bywater/) villas (up to 30, a 10-15 minute Uber), plus apartment-style options like Heirloom and The Revelry and hotel room blocks for mixed-budget groups. Whichever base you pick, that's a real home base — not scattered hotel rooms, but one place where you can debrief, cook, pool, and actually be together between excursions. For the largest selection, book 6+ months out.
+The Irish Channel itself doesn't have large-group private rentals in the same density as nearby neighborhoods, so groups base nearby and treat it as an excursion. The closest inventory is uptown-side: Heirloom's large-format homes across the [Lower Garden District](/neighborhoods/lower-garden-district/) and Central City, and The Revelry's apartment-style floors around a saltwater pool. Groups that want one historic house can look downriver to The Mazant in the [Bywater](/neighborhoods/bywater/) (sleeps 18, a longer rideshare), and hotel room blocks still work for mixed-budget groups. Whichever base you pick, that's a real home base — not scattered hotel rooms, but one place where you can debrief, cook, pool, and actually be together between excursions. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 

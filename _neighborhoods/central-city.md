@@ -167,6 +167,6 @@ Groups that understand this context visit differently than groups that don't. Th
 
 ## Staying Near Central City
 
-Central City doesn't have large-group accommodation on the corridor itself, so groups base nearby. The [Lower Garden District](/neighborhoods/lower-garden-district/) (The Syd's villas, one block from the streetcar) and the [Bywater](/neighborhoods/bywater/) (Castleday Retreats) are both workable, and apartment-style options like Heirloom or a hotel room block downtown put you on the streetcar line too. Whichever base you pick, it should hold the group as one unit for a multi-neighborhood itinerary — for the largest selection, book 6+ months out.
+The O. C. Haley corridor itself isn't where big groups sleep, but the neighborhood around it has more group inventory than its reputation suggests: The Revelry runs apartment-style floors of 6–9 guests each around a saltwater pool, and Heirloom's large-format homes spread across Central City and the [Lower Garden District](/neighborhoods/lower-garden-district/). A hotel room block downtown — Hotel Perle's group suites, for one — keeps you a short ride or streetcar hop away. Whichever base you pick, it should hold the group as one unit for a multi-neighborhood itinerary — for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
