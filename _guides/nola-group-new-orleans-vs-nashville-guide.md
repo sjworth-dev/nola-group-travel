@@ -30,9 +30,9 @@ If your group is genuinely torn, here's the honest version — not the version w
 
 Nashville is Music City by branding and by industry. It's the business side of American music — labels, songwriters, the Grand Ole Opry, honky-tonks stacked three deep on Broadway with live bands playing covers from open to close. It is loud, energetic, and built for a group that wants to bar-hop and sing along.
 
-New Orleans invented multiple American genres and still plays them, live, most nights of the week. Jazz, brass band, R&B, funk, and second-line music aren't a tourist backdrop here — they're what the city sounds like on a Tuesday. Frenchmen Street is the closest thing to Nashville's Broadway, but the music is original, not cover-band karaoke, and it spills out of clubs that have been doing this for generations.
+New Orleans invented multiple American genres and still plays them, live, most nights of the week. Jazz, brass band, R&B, funk, and second-line music aren't a tourist backdrop here — they're what the city sounds like on a Tuesday. Frenchmen Street is the closest thing to Nashville's Broadway, but the music is original, not cover-band karaoke, and it spills out of clubs that have been doing this for generations. Plenty of the best bands hold the same room on the same night every week, so you can plan around a [standing gig](/guides/nola-group-local-live-music-residency-guide/) instead of hoping the calendar cooperates.
 
-**The honest distinction:** Nashville nightlife is a party built around music. New Orleans nightlife is a city that happens to be a nonstop party, with music as the connective tissue. If your group wants sing-along energy and matching outfits fit right in, Nashville wins. If your group wants to hear something they can't hear anywhere else, New Orleans wins. Check the [live music guide](/guides/live-music-guide/) and the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) for what a NOLA music night actually looks like.
+**The honest distinction:** Nashville nightlife is a party built around music. New Orleans nightlife is a city that happens to be a nonstop party, with music as the connective tissue. If your group wants sing-along energy and matching outfits fit right in, Nashville wins. If your group wants to hear something they can't hear anywhere else, New Orleans wins. Check the [live music guide](/guides/live-music-guide/) and the [jazz clubs vs. music bars guide](/guides/nola-group-jazz-clubs-vs-music-bars-guide/) for what a NOLA music night actually looks like, and the [music venues guide](/guides/new-orleans-music-venues-guide/) for the rooms beyond Frenchmen.
 
 ---
 
@@ -62,7 +62,7 @@ New Orleans has a more developed purpose-built large-group villa market, concent
 
 | Factor | New Orleans | Nashville |
 |--------|-------------|-----------|
-| Music style | Jazz, brass, R&B, funk — original, live, everywhere | Country, cover bands, honky-tonk energy |
+| Music style | Jazz, brass, R&B, funk — original, live, everywhere ([crawl route](/guides/nola-group-live-music-crawl-guide/)) | Country, cover bands, honky-tonk energy |
 | Food scene | Historic, deep, arguably the country's best | Strong and growing, hot chicken and barbecue anchors |
 | Nightlife hours | No last call, runs all night | Bars generally close by 2-3 AM |
 | Walkability for groups | High in Bywater/Marigny/FQ corridor | Lower; many rentals require a rideshare downtown |
