@@ -166,7 +166,7 @@ Bayou St. John is a half-day destination, not a full day. Build it into a larger
 
 From Bayou St. John, rideshares are easy and cost-effective during the day. Budget 15-20 minutes to any major neighborhood.
 
-Bywater villas (Castleday Retreats among them, each sleeping 14–30 with a private pool) are roughly 20 minutes by rideshare from Bayou St. John — close enough that you can do the bayou as a morning activity and be back at the pool by early afternoon, with Frenchmen Street live music minutes away for the evening. Lower Garden District options like The Syd (up to 22 per villa, shared pool and hot tub) run 20-25 minutes by rideshare, or a slower, more local trip via the St. Charles Streetcar to Canal Street and a transfer toward Mid-City. For the largest selection, book 6+ months out.
+Bywater houses (The Mazant among them, an 1880s guesthouse sleeping 18 with a heated pool and spa) are roughly 20 minutes by rideshare from Bayou St. John — close enough that you can do the bayou as a morning activity and be back at the pool by early afternoon, with Frenchmen Street live music minutes away for the evening. Central City options like The Revelry (apartment-style floors, shared saltwater pool, separate billing per floor) are a similar rideshare away, and Heirloom's large-format homes across the Lower Garden District and Central City are worth checking on a late booking. For the largest selection, book 6+ months out.
 
 ---
 

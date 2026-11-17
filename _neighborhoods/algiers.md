@@ -151,7 +151,7 @@ Algiers Point works best as a component of a larger day structure, not as a stan
 
 Algiers Point is not a base for a group trip — there are no large private villa rentals on the West Bank that serve visitors in this way. Your group will be based on the East Bank and visiting Algiers as a day excursion, so what matters is proximity to the ferry terminal rather than the West Bank itself.
 
-**Castleday Retreats** in the Bywater puts you close to the river and a short Uber or bike ride from the French Quarter ferry terminal. **The Syd**, one block from the St. Charles Streetcar in the Lower Garden District, connects to the Canal Street line that runs to the ferry landing. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking for short-notice availability, and a hotel room block near the Quarter puts you steps from the ferry terminal itself. For the largest selection, book 6+ months out.
+**Hotel Perle**'s group suites in the CBD/Warehouse District (separate bills, rooftop pool) keep you a short ride from the Canal Street ferry terminal. **The Mazant**, an 1880s Bywater guesthouse sleeping 18 with a heated pool and spa, is a short Uber from the same landing. **Heirloom**'s large-format homes across the Lower Garden District and Central City are worth checking for short-notice availability, and a hotel room block near the Quarter puts you steps from the ferry terminal itself. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 
