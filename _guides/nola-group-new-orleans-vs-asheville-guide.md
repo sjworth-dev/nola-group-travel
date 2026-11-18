@@ -84,7 +84,7 @@ New Orleans' heat is a humid Gulf heat that makes summer afternoons brutal but d
 
 ## Which Group Should Pick Which City
 
-**Pick Asheville if:** your group wants an outdoor-and-brewery trip built around hiking, mountain scenery, and a relaxed evening of craft beer, and doesn't mind a drive between the cabin and downtown.
+**Pick Asheville if:** your group wants an outdoor-and-brewery trip built around hiking, mountain scenery, and a relaxed evening of craft beer, and doesn't mind a drive between the cabin and downtown. (If the mountain shortlist also includes a bigger city with an airport hub, the [Denver comparison](/guides/nola-group-new-orleans-vs-denver-guide/) runs the same outdoors-vs-music question at altitude.)
 
 **Pick New Orleans if:** your group cares about live music you can't hear anywhere else, wants a villa home base with its own pool close to the entertainment core rather than a cabin outside town, wants nights that run on the city's own clock instead of winding down after a brewery flight, or wants a trip built around a single deep culinary tradition. For the full itinerary version, see the [bachelorette party guide](/guides/bachelorette-party/) or the [bachelor party guide](/guides/bachelor-party/). Planning the whole trip? The [events calendar](/events/) shows what's on your dates.
 
