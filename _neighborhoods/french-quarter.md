@@ -131,7 +131,7 @@ The Quarter is easy to reach from anywhere in the city. If you're staying at one
 
 Here's the honest answer about the French Quarter and large groups: **don't try to stay here.** Large-group rentals in the Quarter are extremely limited due to city regulations, and what exists is expensive and often loud.
 
-The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look for short-notice availability, Castleday Retreats runs Bywater villas up to 30 guests each with a private pool per villa 15-20 minutes from the Quarter on foot, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately.
+The groups that enjoy the Quarter most are the ones who stay elsewhere, visit the Quarter intentionally for specific experiences, and then return to a comfortable home base. Heirloom's large-format homes across the Lower Garden District and Central City are worth a look for short-notice availability, The Mazant is a single 1880s Bywater guesthouse sleeping up to 18 with a heated pool and spa for a crew that wants one historic house, Hotel Perle's group suites in the CBD/Warehouse District keep the Quarter close with separate bills, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for groups who want to split by floor and bill separately.
 
 None of these home bases are inside the French Quarter. That's the point — the whole crew gets a real home base to gather, relax, and decompress, while staying close enough for the Quarter experiences worth having.
 
