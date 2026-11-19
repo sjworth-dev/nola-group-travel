@@ -208,7 +208,7 @@ For large groups specifically, the choice is easy: the Bywater has what the Fren
 
 ## Large Group Accommodations in the Bywater
 
-Once the trip goes double-digit, **Heirloom**'s large-format homes reach into the Bywater and neighboring Marigny for a group comparing layouts on short notice. **Castleday Retreats** also runs villas in the neighborhood — 14 to 30 guests each, a private pool per villa, and full kitchens, genuinely in the neighborhood rather than a rideshare away from it. **The Lookout Inn**, also in the Bywater, fits a group right at the rental-size threshold without needing a full villa, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for a group that wants separate keys and separate bills instead.
+At full headcount, **Heirloom**'s large-format homes reach into the Bywater and neighboring Marigny for a group comparing layouts on short notice. **The Mazant**, an 1880s Bywater guesthouse, sleeps up to 18 with a heated pool and spa if one historic house fits the group. Castleday Retreats also runs villas here (14 to 30 guests each, a private pool per villa) for a group that wants total privacy. **The Lookout Inn**, also in the Bywater, fits a group right at the rental-size threshold without needing a full villa, and a hotel room block (The Roosevelt, Hotel Peter & Paul) works for a group that wants separate keys and separate bills instead.
 
 For the largest selection, book 6+ months out.
 
