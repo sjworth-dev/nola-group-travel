@@ -259,13 +259,9 @@ Earlier Mardi Gras than 2026—carnival season will be compressed.
 
 ### Accommodations
 
-Festival weekends book up fast. For large groups:
+Festival weekends book up fast, and big-group properties fill on roughly the same clock all year: for the largest selection, book 6+ months out.
 
-- **6+ months ahead:** Mardi Gras, Jazz Fest
-- **4+ months ahead:** Essence, Voodoo, Southern Decadence
-- **2+ months ahead:** French Quarter Fest, smaller events
-
-Castleday Retreats and The Syd both accommodate large groups and are walkable to most events.
+Where you base matters more than usual during a festival — rideshare surges and street closures punish a long commute. Hotel Perle's group suites in the CBD/Warehouse District and a hotel room block downtown keep the Quarter and the parade routes walkable; The Revelry's apartment-style floors in Central City and Heirloom's large-format homes across the Lower Garden District and Central City put you near the St. Charles route; The Mazant in the Bywater is a short ride from Frenchmen Street. The [neighborhood comparison guide](/guides/nola-group-neighborhood-comparison-guide/) covers the trade-offs.
 
 ### Pricing
 
@@ -323,9 +319,8 @@ During festivals, forget about driving:
 
 ---
 
-## Book Your Festival Stay
+## Where to Stay During a Festival
 
-Large group accommodations are scarce during festivals. The earlier you book, the better your options.
+Large-group accommodations are scarce during festivals — villas, apartment-style buildings, and hotel room blocks alike. Pick by fit (one shared house vs. separate units vs. separate bills), not by whichever listing surfaces first. For the largest selection, book 6+ months out.
 
-- Castleday Retreats – Private villas in the Bywater, sleeps up to 30
-- The Syd – Art-filled villas in Lower Garden District, sleeps up to 22
+[See where to stay for large groups →](/where-to-stay/)
