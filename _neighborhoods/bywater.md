@@ -45,7 +45,7 @@ Often costs less than comparable properties elsewhere.
 
 ### For Large Groups
 
-The Bywater has more purpose-built large-group inventory than most New Orleans neighborhoods. Castleday Retreats runs villas here with a private pool per house, for a group that wants total privacy and doesn't mind having the block to themselves. The Mazant is a single 1880s guesthouse sleeping up to 18 with a heated pool and spa, if one historic house fits the group better than a standalone villa. The Lookout Inn caps out around 12 — right for a group sitting at the rental-size threshold, where a full villa is overkill. Heirloom's broader inventory of large-format homes extends into nearby Central City and the Lower Garden District if the Bywater specifically doesn't have what you need on your dates. For the largest selection, book 6+ months out.
+The Bywater has more purpose-built large-group inventory than most New Orleans neighborhoods. The Mazant is a single 1880s guesthouse sleeping up to 18 with a heated pool and spa, if one historic house fits the group. The Lookout Inn caps out around 12 — right for a group sitting at the rental-size threshold, where a full villa is overkill. Castleday Retreats also runs villas here with a private pool per house, for a group that wants total privacy. Heirloom's broader inventory of large-format homes extends into nearby Central City and the Lower Garden District if the Bywater specifically doesn't have what you need on your dates. For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
 

@@ -162,6 +162,6 @@ Transportation: plan for 2-3 Ubers or a van rental. Don't underestimate the logi
 
 The neighborhoods most adjacent to the Ninth Ward — [Bywater](/neighborhoods/bywater/), Marigny — are also some of the most interesting for large-group accommodations, and staying there places your group in a neighborhood with its own complex post-Katrina story (the Bywater gentrified significantly after the storm, with real tension between longtime residents and newcomers) — part of understanding the broader narrative.
 
-Castleday Retreats has private-pool villas right there in the Bywater; The Mazant, an 1880s Bywater guesthouse sleeping 18 with a heated pool and spa, is the one-historic-house option nearby; Heirloom has the deepest inventory of large-format homes across both areas if you're booking on short notice; and a hotel room block covers a mixed-budget group. Whatever you pick, for the largest selection, book 6+ months out.
+The Mazant, an 1880s Bywater guesthouse sleeping 18 with a heated pool and spa, is the one-historic-house option nearby; The Lookout Inn, also in the Bywater, fits a crew of about a dozen; Heirloom has the deepest inventory of large-format homes if you're booking on short notice; and a hotel room block covers a mixed-budget group. Whatever you pick, for the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
