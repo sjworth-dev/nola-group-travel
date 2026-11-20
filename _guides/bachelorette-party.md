@@ -55,7 +55,7 @@ This is the hardest part for a big group, so it goes first and gets decided fast
 Once the party goes into double-digit headcount, the regular rental market disappears — most New Orleans short-term rentals cap at 10 guests, by permit. A short list of properties is actually built and licensed for this size: whole-villa compounds in the Bywater, villa clusters near the streetcar, large-format homes across the Lower Garden District, and apartment-style floors with separate billing. The [where-to-stay guide](/where-to-stay/) compares the whole field honestly.
 
 **Why a whole house wins for bach parties:**
-- A pool to yourselves for day drinking and the group photo
+- A pool to yourselves for [day drinking](/guides/bachelorette-day-drinking-itinerary/) and the group photo
 - Everyone stays together (no coordinating between hotels)
 - Full kitchen for the welcome party and morning mimosas
 - Space to spread out when someone needs a break from the group
@@ -80,7 +80,7 @@ Anchor points, not a schedule. Three commitments a day; New Orleans handles the 
 
 ### Day 2: The Big Day
 
-- **10:00am** — Brunch out (The Country Club, Atchafalaya's Bloody Mary bar) or a slower house brunch with a hired-in option
+- **10:00am** — Brunch out (The Country Club, Atchafalaya's Bloody Mary bar), a [rooftop brunch](/guides/nola-group-rooftop-brunch-guide/), or a slower house brunch with a hired-in option
 - **12:30pm** — The chosen afternoon: spa/blowouts, pool cabana, Magazine Street shopping, or a swamp tour (funnier with a hangover than you'd think)
 - **4:00pm** — Back to the house. Nap window. Enforce it gently.
 - **7:30pm** — *The* dinner (below). Photos before, not after.
@@ -91,7 +91,7 @@ Anchor points, not a schedule. Three commitments a day; New Orleans handles the 
 
 - **10:30am** — Slow start. The [hangover recovery plan](/guides/nola-group-villa-hangover-recovery-guide/) is the cheat sheet for stocking the house. Beignets at Café Du Monde (yes, it's touristy; do it anyway) or Bloody Marys at the house
 - **1:00pm** — Low-key: Garden District wander, Magazine Street boutiques, or nothing at all by the pool
-- **7:00pm** — Casual dinner near the house, then Bacchanal-style wine-and-live-music night, or a burlesque show (The Allways Lounge) if the group has one more gear
+- **7:00pm** — Casual dinner near the house, then Bacchanal-style wine-and-live-music night, or a [burlesque show](/guides/nola-group-burlesque-show-guide/) (The Allways Lounge) if the group has one more gear
 - Earlier night. Flights exist.
 
 ### Day 4: Departure

@@ -168,7 +168,7 @@ You want: private dining or a reserved section, professional service, a good win
 
 You want: somewhere that can handle a group without reservations, good food, manageable prices.
 
-**Top picks:** Central Grocery (muffulettas, counter service), Parkway Bakery (po-boys), Turkey and the Wolf (Magazine Street, counter service, James Beard recognition), Café Du Monde (beignets, outdoor, walk-up).
+**Top picks:** Central Grocery (muffulettas, counter service), Parkway Bakery (po-boys), Turkey and the Wolf (Magazine Street, counter service, James Beard recognition), Café Du Monde (beignets, outdoor, walk-up). String all four into one afternoon and you have the [self-guided food tour](/guides/culinary-tour-guide/).
 
 ### The Late-Night Food Run
 
