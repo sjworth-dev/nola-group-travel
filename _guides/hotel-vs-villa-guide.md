@@ -61,7 +61,7 @@ The villa's advertised rate is close to the actual rate. Add:
 
 That's not a marginal difference. That's $214 per person — for a group of 20, the villa saves you $4,280 on a three-night trip.
 
-The numbers vary by property, season, and how many meals you eat at home. But the direction is consistent: for groups of 15 or more, private villas compete with and often beat hotels on pure cost. The [budget guide](/guides/budget-guide/) runs the fuller per-person math across a whole trip, not just the room.
+The numbers vary by property, season, and how many meals you eat at home. But the direction is consistent: for groups of 15 or more, private villas compete with and often beat hotels on pure cost. The [budget guide](/guides/budget-guide/) runs the fuller per-person math across a whole trip, not just the room, and the [budget villa guide](/guides/budget-villa-guide/) covers the part after the math: collecting the money and answering the skeptic in the group chat.
 
 ---
 
