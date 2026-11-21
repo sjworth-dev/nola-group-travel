@@ -64,7 +64,7 @@ The [restaurant guide](/guides/restaurant-guide/) covers which places genuinely 
 
 ## Step 6: Now — and only now — the itinerary
 
-The itinerary comes last because it's the most flexible piece and the one people most enjoy over-planning first. With dates, beds, budget, and dinners locked, use the [itinerary builder framework](/guides/group-itinerary-builder-guide/) to structure the days — or start from the [3-day itinerary](/guides/itinerary-3-day/) and adapt. Flying in Friday night and out Sunday? The [48-hour version](/guides/itinerary-weekend-warrior/) is already cut down for you, and if the budget talk in Step 3 ended somewhere modest, the [budget itinerary](/guides/budget-itinerary-guide/) builds the days around what's free and cheap.
+The itinerary comes last because it's the most flexible piece and the one people most enjoy over-planning first. With dates, beds, budget, and dinners locked, use the [itinerary builder framework](/guides/group-itinerary-builder-guide/) to structure the days — or start from the [3-day itinerary](/guides/itinerary-3-day/) and adapt. Flying in Friday night and out Sunday? The [48-hour version](/guides/itinerary-weekend-warrior/) is already cut down for you, and if the budget talk in Step 4 ended somewhere modest, the [budget itinerary](/guides/budget-itinerary-guide/) builds the days around what's free and cheap.
 
 The one structural rule for groups: plan mornings loosely and evenings firmly, and never schedule the whole group for the whole day. Splitting up for an afternoon isn't a planning failure — it's the thing that keeps twenty people liking each other by day three.
 
