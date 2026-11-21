@@ -80,6 +80,8 @@ New Orleans police are not aggressively hunting open container violations in the
 3. **Drinking in a parked or moving vehicle**, which is enforced more strictly than street drinking
 4. **Large glass bottles being passed around a group**, which reads as a bigger problem than one person's cup
 
+None of this tolerance extends to anything you smoke. The go-cup rule is about alcohol only — [whether weed is legal in New Orleans](/guides/nola-group-marijuana-laws-guide/) is a separate question with a much less relaxed answer about public use.
+
 A group that's loud but orderly, carrying plastic cups, isn't the target of enforcement. A group that's visibly overserved, carrying glass, or causing a disturbance is a different story regardless of the container question.
 
 ---
