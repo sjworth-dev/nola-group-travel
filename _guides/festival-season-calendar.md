@@ -77,6 +77,10 @@ The weekend before Fat Tuesday (Orpheus Sunday, Lundi Gras Monday) is often the 
 **Lundi Gras / Final Mardi Gras Weekend**
 - If Mardi Gras falls in March (every few years), this applies here instead of February
 
+**Hogs for the Cause (typically mid-to-late March — check the official site for dates)**
+- Barbecue cook-off and music festival out at the lakefront, raising money for families facing pediatric brain cancer
+- Group impact: a ticketed full day away from the Quarter, so transport is the thing to solve — the [Hogs for the Cause guide](/guides/nola-group-hogs-for-the-cause-guide/) covers tickets, rides, and how to sample without running out of stomach.
+
 **Tennessee Williams & New Orleans Literary Festival (late March)**
 - Panels, walking tours, and the Stella shouting contest in Jackson Square. The [Tennessee Williams Festival guide](/guides/nola-group-tennessee-williams-festival-guide/) covers how to split a group between sessions and the free public events
 - Group impact: Quiet crowd, but it sits inside spring high season, so book on the usual clock
@@ -227,6 +231,10 @@ October is peak season, not shoulder: best weather of the year, full pricing. Th
 - Popular travel period, city gets busy
 - Good weather — arguably the best month climate-wise
 - Group impact: Book ahead — for the largest selection, book 6+ months out. The [villa Thanksgiving guide](/guides/nola-group-villa-thanksgiving-guide/) covers the full weekend, including Bayou Classic.
+
+**Oak Street Po-Boy Festival (typically a Sunday in early-to-mid November — check the official site)**
+- A one-day street festival in Carrollton where the whole point is eating more po-boys than is sensible
+- Group impact: crowded street, short lines if you split up and share — the [Oak Street Po-Boy Festival guide](/guides/nola-group-oak-street-po-boy-festival-guide/) has the divide-and-conquer plan.
 
 **Treme Creole Gumbo Festival (mid-November, announced Nov 14–15, 2026)**
 - Free gumbo cook-off and Creole culture festival in Congo Square

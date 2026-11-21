@@ -70,7 +70,7 @@ Anchor points, not a schedule. Three commitments a day; New Orleans fills the re
 - **3:00pm** — Nap window. Enforce it. The nap is the difference between a legendary Saturday night and a 10pm casualty.
 - **7:30pm** — *The* dinner (below). One good group photo before, not after.
 - **10:00pm** — The Bourbon Street lap (once, ironically, get it out of the system) then Frenchmen for the real music
-- **1:00am+** — The crew splits into night owls and pumpkin coaches. Plan for it: everyone knows the address, rideshares in twos and threes, and Verti Marte exists for a reason at 3am.
+- **1:00am+** — The crew splits into night owls and pumpkin coaches. Plan for it: everyone knows the address, rideshares in twos and threes, and Verti Marte exists for a reason at 3am. The [after-midnight guide](/guides/nola-group-after-midnight-guide/) covers what's still worth doing once the clock rolls over.
 
 ### Day 3: Recovery + Round Two
 
@@ -106,6 +106,7 @@ Book big-group tee times weeks out — the [large group golf guide](/guides/larg
 
 - **Gambling:** Harrah's (now Caesars New Orleans) downtown — the city's one land-based casino floor, with a sportsbook. Manage expectations: it's a casino, not a Vegas resort ecosystem. The [casino guide](/guides/nola-casino-guide/) and the [riverboat casino cruise guide](/guides/nola-group-riverboat-casino-cruise-guide/) cover the options.
 - **Saints/Pelicans game:** if timing works, nothing beats the Superdome with a crew. No tickets? The [sports bar guide](/guides/nola-group-sports-bar-guide/) and [Saints bar guide](/guides/nola-group-new-orleans-saints-bar-guide/) find a room that fits the whole headcount.
+- **Axe throwing:** the rainy-day backup that gives the crew a scoreboard and something to argue about — the [axe throwing guide](/guides/nola-group-axe-throwing-guide/) covers booking lanes for a big headcount.
 - **Gun range:** shooting sports available outside the city for the group that wants it.
 
 ## Where to Eat (Group-Friendly)
@@ -125,6 +126,8 @@ Reserve at least three weeks out for a double-digit table, by phone. **The call 
 ## Nightlife Guide
 
 **Bourbon Street (do it once):** trashy, loud, touristy — and you're going anyway. Pat O'Brien's (Hurricanes, dueling pianos), Lafitte's Blacksmith Shop (oldest bar in the country, cash only), Cat's Meow (karaoke, unreasonably fun). Get it out of the system night one or as the day-2 lap.
+
+**The quiet round:** if the groom would rather have one very good drink than six bad ones, the [hidden bar and speakeasy guide](/guides/nola-group-hidden-bar-speakeasy-guide/) covers the reservation-required cocktail rooms — and which ones can actually take a big party.
 
 **Frenchmen Street (the real move):** three blocks of live music where the city actually goes. The Spotted Cat (tiny, sweaty, incredible) · d.b.a. (real music room) · Maison (three floors) · Blue Nile (brass bands). The [bar crawl guide](/guides/nola-group-bywater-bar-crawl-guide/) covers moving a big crew between rooms without losing half of it.
 
