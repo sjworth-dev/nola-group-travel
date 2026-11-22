@@ -64,7 +64,7 @@ This is usually the hardest logistic and the one groups most underplan. Day spas
 
 The [NOLA spa and wellness guide](/guides/spa-wellness-guide/) covers which spots handle large groups, how to structure a spa day so not everyone is waiting, and the float tank question (better as a small-group or solo activity than a 20-person block booking).
 
-What actually works for a large group: a split-format spa morning. Half the group does massage or facial appointments in rotation while the other half does mani-pedis. Rotate. Done by noon, regroup for brunch.
+What actually works for a large group: a split-format spa morning. Half the group does massage or facial appointments in rotation while the other half does mani-pedis. Rotate. Done by noon, regroup for brunch. If nobody wants to leave the house, the [spa retreat day guide](/guides/nola-group-spa-retreat-day/) covers the other route: bringing the massage therapists to you.
 
 ### Brunch (The Centerpiece Meal)
 
@@ -84,7 +84,7 @@ At full headcount, you need a restaurant with either a private space or a dedica
 
 One non-negotiable: build in a full pool afternoon. Not a quick dip between activities — a real afternoon where people can sit, float, eat snacks, play music, and actually decompress.
 
-If your rental has a private pool, this is already sorted. Don't schedule it away with activities. Friday afternoon pool time is often the moment people later describe as the best part of the trip.
+If your rental has a private pool, this is already sorted. Don't schedule it away with activities. If it doesn't, a [hotel pool day pass](/guides/nola-group-hotel-pool-day-guide/) is the workaround — with caveats worth reading before you promise anyone a lounger. Friday afternoon pool time is often the moment people later describe as the best part of the trip.
 
 The [day drinking vs. nightlife guide](/guides/nola-group-day-drinking-vs-nightlife-guide/) breaks down how to structure a pool afternoon into an intentional arc without burning the group out before dinner.
 
@@ -151,6 +151,7 @@ What makes it work for a girls group specifically: there's no pressure to be any
 - Magazine Street shopping, 10am–noon (a big crew naturally splits here — set a meeting point)
 - Or: second spa/nail session for anyone who didn't go Friday
 - Or: Garden District walking tour — this is the move if the group hasn't seen the Garden District
+- Or: a [paint-and-sip or private art class](/guides/nola-group-paint-night-guide/) — the rainy-day backup that doesn't feel like one
 
 **Afternoon:**
 - Late lunch out or back at the villa
@@ -189,7 +190,7 @@ For Friday or Saturday dinner, call the restaurant directly and ask for the priv
 
 ## Pro Tips
 
-1. **One non-negotiable activity per person.** Ask everyone before the trip for their one thing they want to do. Build the itinerary around making those happen. Skip the rest.
+1. **One non-negotiable activity per person.** Ask everyone before the trip for their one thing they want to do. Build the itinerary around making those happen. Skip the rest. If part of the crew isn't drinking, the [sober and sober-curious guide](/guides/sober-group-guide/) makes sure their one thing isn't "watch everyone else at a bar."
 
 2. **Thursday night is not a real night.** Have a plan for Thursday evening (dinner and drinks at the villa), but don't make it the first big outing. You'll thank yourself Saturday.
 
