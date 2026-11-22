@@ -100,6 +100,14 @@ Not officially a bachelor party, but the same energy. Here's what works.
 
 **Axe throwing** — A few venues in the area. Works fine for groups, no setup required.
 
+**Brewery afternoon** — Taprooms have room for the whole crew and nobody needs a reservation three weeks out. The [craft beer and brewery guide](/guides/nola-group-dixie-beer-brewery-guide/) maps a half-day crawl.
+
+**A boat day** — Paddlewheeler on the river or a private charter on the lake, drinks in hand either way. The [boat trip and booze cruise guide](/guides/nola-group-booze-cruise-guide/) sorts the options.
+
+**Sazerac House** — A free tour of the city's official cocktail, on Canal Street, and a respectable way to start drinking before noon. The [Sazerac House guide](/guides/nola-group-sazerac-house-distillery-tour-guide/) covers how to do it with a crowd.
+
+**Bar trivia** — For the night nobody wants to go big. Split into teams, let the grudges form. See the [bar trivia guide](/guides/nola-group-trivia-guide/).
+
 **Poker night at the house** — If you have a big private rental, one night just playing cards and ordering delivery hits different. Not everything needs to be a scheduled activity. If the group wants real stakes, the [casino guide](/guides/nola-casino-guide/) covers the other option.
 
 **Private second line** — Hire a brass band to lead your group through the streets. This is genuinely one of the most fun things you can do in New Orleans with a large group. See the [second line guide](/guides/second-line-guide/) for how to book.
