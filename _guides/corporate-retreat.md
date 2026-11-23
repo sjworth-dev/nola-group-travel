@@ -86,7 +86,7 @@ Build the New Orleans experience into the schedule—don't leave it to the margi
 **Day 2: Work Day**
 - 9 AM: Morning session (strategy, big topics)
 - 12:30 PM: Lunch out (Pêche, Herbsaint)
-- 2 PM: Afternoon session (working groups)
+- 2 PM: Afternoon session (working groups) — or break the working groups out to a café for a change of walls; the [coffee shop work morning guide](/guides/nola-group-coffee-shop-work-morning-guide/) covers which neighborhoods can absorb a team with laptops
 - 5 PM: Wrap up
 - 6:30 PM: Group activity (cooking class, jazz cruise)
 - 8:30 PM: Dinner at Commander's Palace
@@ -114,9 +114,15 @@ Build the New Orleans experience into the schedule—don't leave it to the margi
 
 **Swamp tour** – Alligators. Airboats. More fun than expected.
 
+**Escape room** – The rainy-day and July answer: air-conditioned, an hour long, and the one team-building exercise people don't dread. See the [escape room guide](/guides/nola-group-escape-room-guide/) for splitting a big team across rooms.
+
+**Volunteer build day** – Trade a work session for a day of actual work. The [volunteer build day guide](/guides/nola-group-volunteer-build-day-guide/) covers how to set one up for a whole team.
+
 ### High-End Experiences
 
 **Private dinner at a historic home**
+
+**Murder mystery dinner** – Sounds like forced fun, works better than it should in a city this theatrical. The [murder mystery dinner guide](/guides/nola-group-murder-mystery-dinner-guide/) covers the formats, including shows that come to your house.
 
 **Second line parade** – Hire a brass band to lead your group through the streets
 
