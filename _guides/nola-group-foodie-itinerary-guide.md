@@ -61,13 +61,13 @@ These are not optional. Cover all five before you leave.
 
 **Gumbo.** The soup-stew that defines Louisiana cooking. Seafood gumbo, chicken and andouille gumbo, or the duck and oyster version that shows up in colder months. The roux is everything — the color of the roux (dark chocolate for Cajun, medium-brown for Creole) determines the flavor profile of the dish. Order it as a starter, not an entree, and pay attention to what's in it.
 
-**Crawfish.** Seasonal (roughly February through June, peak in April and May), but if you're in New Orleans during crawfish season and you don't eat boiled crawfish, you made a scheduling error. Find a spot doing a boil — whole crawfish cooked in seasoned water with corn, potatoes, and sausage, served in a tray on butcher paper. This is hands-on, messy, social food that was invented for group eating. Doing the boil at the villa instead of a restaurant? See the [crawfish boil guide](/guides/nola-crawfish-boil-guide/) for sourcing and the pounds-per-person math.
+**Crawfish.** Seasonal (roughly February through June, peak in April and May), but if you're in New Orleans during crawfish season and you don't eat boiled crawfish, you made a scheduling error. Find a spot doing a boil — whole crawfish cooked in seasoned water with corn, potatoes, and sausage, served in a tray on butcher paper. This is hands-on, messy, social food that was invented for group eating. Doing the boil at the villa instead of a restaurant? See the [crawfish boil guide](/guides/nola-crawfish-boil-guide/) for sourcing and the pounds-per-person math. Crew full of first-timers? Send them the [crawfish etiquette guide](/guides/nola-group-crawfish-etiquette-guide/) before the pile arrives.
 
 ---
 
 ## Market Mornings
 
-Markets are how a food-focused trip starts its days correctly. Slow pace, no reservations, lots of sampling, the opportunity to pick up ingredients for a villa cooking night.
+Markets are how a food-focused trip starts its days correctly. Slow pace, no reservations, lots of sampling, the opportunity to pick up ingredients for a villa cooking night. The [food market guide](/guides/nola-group-food-market-guide/) covers what to buy and what to skip at each one.
 
 ### Crescent City Farmers Market
 
@@ -79,7 +79,7 @@ Open daily in the French Quarter, running from Decatur Street into the Faubourg 
 
 ### St. Roch Market
 
-A food hall in the St. Roch neighborhood, with multiple vendors under one roof covering different cuisine categories — a good strategy for a group where not everyone wants the same thing for lunch. Comfortable, air-conditioned, a good mid-day reset point. Buy a round of things from different stalls and share across the table.
+A food hall in the St. Roch neighborhood, with multiple vendors under one roof covering different cuisine categories — a good strategy for a group where not everyone wants the same thing for lunch. Comfortable, air-conditioned, a good mid-day reset point. Buy a round of things from different stalls and share across the table. The [food hall guide](/guides/nola-group-nola-food-hall-guide/) explains why the format works when twenty people can't agree on lunch.
 
 ---
 
