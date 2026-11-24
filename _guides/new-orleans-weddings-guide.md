@@ -1,24 +1,27 @@
 ---
-title: "New Orleans Wedding Guide for Large Groups"
-description: "Plan a New Orleans wedding for the whole crew. Venues, second lines, NOLA traditions, rehearsal dinners, and where everyone stays."
+title: "New Orleans Wedding Guide: Venues, Second Lines, Stays"
+description: "Pick the season before the venue, then book the brass band. Venue types, second line permits, rehearsal dinners, and how to house the wedding party."
 category: "Weddings & Celebrations"
 card_title: "New Orleans Weddings"
 card_description: "Venues, second lines, rehearsal dinners, and where to house a big wedding party for a NOLA wedding."
-date: 2026-08-05
+date: 2026-11-24
 ---
 
-New Orleans is one of the best wedding cities in the country. Not because of some manufactured charm—because the city genuinely knows how to celebrate. The traditions are real, the food is serious, and the neighborhood streets were practically built for a second line parade.
+The verdict: get married in New Orleans in October or in spring, put a brass band between the ceremony and the reception, and house the wedding party together. Do those three things and the city does most of the rest.
 
-Getting married here with a large group changes the logistics significantly. A big wedding party needs more than a hotel block—it needs a home base, a plan for all the pre-wedding events, and a clear picture of how everything connects.
+It's one of the best wedding cities in the country for an unglamorous reason: the place already knows how to throw a party. The traditions are real, the food is serious, and the streets were practically built for a second line. You aren't importing a theme. You're borrowing one that works.
 
-This is that guide. If you're still mapping out the whole weekend rather than just the ceremony, the [wedding weekend guide](/guides/wedding-weekend-guide/) covers the welcome party through Sunday brunch in more detail.
+A big wedding party does change the math. You need more than a hotel block — you need a home base, a plan for every pre-wedding event, and a clear picture of how the pieces connect. If the trip is still at the "should we even do this here" stage, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the big decisions first.
+
+This guide is for the next step. If you're still mapping out the whole weekend rather than just the ceremony, the [wedding weekend guide](/guides/wedding-weekend-guide/) covers the welcome party through Sunday brunch in more detail.
 
 ## Quick Planning Checklist
 
-- Lock in ceremony and reception venue first (NOLA venues book 12-18 months out)
-- Book wedding party accommodations second (large-group villas fill up fast)
+- Pick the season first — it decides price, heat, and parade conflicts (see the table below)
+- Lock in ceremony and reception venue
+- Book wedding party accommodations — for the largest selection, book 6+ months out
 - Plan the rehearsal dinner and welcome party
-- Coordinate second line if you want one (bands book 3-6 months out)
+- Book the brass band for the second line, and confirm who is pulling the parade permit
 - Arrange group transportation for wedding day
 - Make reservations for post-wedding brunch
 - Brief out-of-town guests on neighborhood basics
@@ -27,11 +30,27 @@ This is that guide. If you're still mapping out the whole weekend rather than ju
 
 ## Why New Orleans
 
-The food is too good not to celebrate here. The live music is free and everywhere. Second line parades are a genuine tradition—you're not doing a gimmick, you're doing something locals do every Sunday.
+The food is too good not to celebrate here. The live music is everywhere, and a lot of it is free. Second line parades are a genuine tradition — social aid and pleasure clubs roll them on most Sundays outside the summer — so you're not staging a gimmick, you're joining something the city already does.
 
-The historic buildings give you ceremony options that don't exist anywhere else: antebellum mansions, nineteenth-century churches, garden courtyards, converted warehouses. Almost every venue has a story.
+The historic buildings give you ceremony options that don't exist anywhere else: nineteenth-century mansions, old churches, garden courtyards, converted warehouses. Almost every venue has a story.
 
-And the city doesn't roll up at midnight. Your guests can go somewhere after the reception without any planning. That matters. It's also why so many couples come back for the [anniversary trip](/guides/nola-group-new-orleans-wedding-anniversary-guide/) a year or five later.
+And the city doesn't roll up at midnight. There's no mandated last call, so your guests can go somewhere after the reception without anyone planning it. That matters — just read the [open container guide](/guides/nola-group-open-container-law-guide/) before the after-party spills outside (plastic go-cups yes, glass no). It's also why so many couples come back for the [anniversary trip](/guides/nola-group-new-orleans-wedding-anniversary-guide/) a year or five later.
+
+---
+
+## When to Get Married Here
+
+Pick the month before you fall for a venue. New Orleans runs on an inverted calendar — October is peak, not shoulder — and the season sets your price, your guests' comfort, and whether a parade is going to cut your venue off from your hotel.
+
+| Window | Demand & price | Weather | Wedding verdict |
+|--------|----------------|---------|-----------------|
+| October | Peak — full pricing | The year's best: first real relief from summer | The prime wedding month. Expect competition for everything. |
+| February–May | Peak — Mardi Gras, French Quarter Fest, Jazz Fest, crawfish season | Mild to warm, rising humidity by May | Beautiful, busy, expensive. Check festival weekends before you sign. |
+| June–August | Soft — rates drop, crowds thin | Heat, humidity, afternoon thunderstorms | Indoor receptions only, and budget for a rain plan. Essence Fest (Fourth of July weekend) is a spike. |
+| Late August–mid September | The genuine value window | Still hot | Cheapest warm-weather window, but it sits in the statistical heart of hurricane season. |
+| January | Soft — the year's lowest rates | Cold snaps possible | Underrated for indoor weddings. King cake season starts January 6. |
+
+Two cautions. First, Carnival moves every year — Mardi Gras Day is **February 9, 2027** — and the parade weeks before it close streets across Uptown and downtown, so read the [Mardi Gras group guide](/guides/mardi-gras-group-guide/) before you book anything in that window. Second, hurricane season (June–November) is a risk window, not a price season; the [hurricane season guide](/guides/nola-group-hurricane-season-guide/) covers trip insurance and contingency plans, and the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has the month-by-month verdicts.
 
 ---
 
@@ -42,13 +61,14 @@ And the city doesn't roll up at midnight. Your guests can go somewhere after the
 This is the move. After the ceremony, a brass band leads you and your guests through the streets. The couple leads. Everyone follows with handkerchiefs or umbrellas. This is a real New Orleans tradition, not a tourist activity — the [second line guide](/guides/second-line-guide/) and [private vs. public second line guide](/guides/nola-group-private-second-line-vs-public-guide/) cover the mechanics if you want the full picture before you book one.
 
 **How it works:**
-- Hire a brass band (6-8 piece is standard for weddings)
-- Coordinate route with your venue and caterer
-- Handkerchiefs or parasols provided to guests
-- Typically 20-40 minutes of walking
-- Often transitions from ceremony to cocktail hour or reception
+- Hire a brass band (size and price vary — ask what's included)
+- Coordinate the route with your venue and caterer
+- A parade on public streets needs a city permit and typically a police escort; many bands and planners handle this, but confirm in writing who is pulling it
+- Hand out handkerchiefs or decorated parasols to guests
+- Keep the route short — think a few blocks, not a marathon in dress shoes
+- Usually runs from the ceremony to cocktail hour or the reception
 
-**Book 3-6 months ahead.** The top brass bands stay booked — the [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers what to ask before you sign a contract.
+**Book the band early.** The best ones stay booked, especially in peak months — the [brass band hire logistics guide](/guides/nola-group-brass-band-hire-logistics-guide/) covers what to ask before you sign a contract.
 
 ### Jazz During Cocktail Hour
 
@@ -64,7 +84,7 @@ Mardi Gras season (typically January through Mardi Gras day) means king cake is 
 
 ### Frozen Drinks at Outdoor Venues
 
-Don't fight the heat. Frozen cocktails, cold beer, and iced tea are part of the culture. Lean into it.
+Don't fight the heat. Frozen cocktails, cold beer, and iced tea are part of the culture. Lean into it — and if anything outdoors is happening between June and September, check the [weather guide](/guides/nola-weather-guide/) and have shade, water, and a plan for the 4 PM thunderstorm.
 
 ---
 
@@ -74,13 +94,13 @@ New Orleans has ceremony venues for every style and budget range. These are the 
 
 ### Historic Mansions and Garden Estates
 
-The city has dozens of antebellum homes and plantation-style estates with garden ceremony spaces. Many are in the [Garden District](/neighborhoods/garden-district/) and Uptown. Outdoor ceremonies under live oaks are iconic.
+The city has plenty of nineteenth-century homes with garden ceremony spaces, many of them in the [Garden District](/neighborhoods/garden-district/) and Uptown. Outdoor ceremonies under live oaks are the postcard.
 
-**Group capacity:** Many accommodate 100-300 guests. Most require rental of the full property.
+**Group capacity:** Varies widely by property — ask about indoor capacity for the rain plan, not just the lawn. Many require renting the full property.
 
 ### Historic Churches
 
-New Orleans has centuries-old Catholic churches with serious architectural presence. St. Louis Cathedral in Jackson Square is the most famous. Many have specific requirements for non-parishioners—confirm early.
+New Orleans has centuries-old Catholic churches with serious architectural presence. St. Louis Cathedral on Jackson Square is the most famous. Church weddings usually come with requirements of their own (marriage preparation, scheduling windows, rules for non-parishioners) — confirm early, before you build the weekend around a date.
 
 ### Warehouse District Event Spaces
 
@@ -88,7 +108,7 @@ Converted warehouses near the Arts District and Convention Center offer industri
 
 ### Bywater and Marigny Venues
 
-Smaller, more intimate. Garden courtyards and shotgun houses converted into event spaces in [Bywater](/neighborhoods/bywater/) and [Marigny](/neighborhoods/marigny/). Good for groups under 100 with a more local, neighborhood feel.
+Smaller, more intimate. Courtyards and converted spaces in [Bywater](/neighborhoods/bywater/) and [Marigny](/neighborhoods/marigny/). Good for a smaller guest list that wants a neighborhood feel over a ballroom.
 
 ---
 
@@ -102,7 +122,7 @@ Smaller, more intimate. Garden courtyards and shotgun houses converted into even
 | Restaurant full buyout | Large parties, full control | 40-100 |
 | Crawfish boil at venue/rental | Casual, NOLA experience | 20-80 |
 | Catered dinner at your villa | Intimate, stays together | 15-30 |
-| Steamboat Natchez dinner cruise | Memorable, scenic | 30-150 |
+| Riverboat dinner cruise or charter | Memorable, scenic | Varies — ask about private charters |
 
 ### Timing Note
 
@@ -116,9 +136,9 @@ Rehearsal dinners in NOLA often run later than people expect. Dinner at 7 PM tur
 
 For a wedding party moving together as one group, you need a real plan.
 
-**Trolley or shuttle bus:** A rented trolley or party bus handles the whole group in one move. Book at least 2-3 months out.
+**Trolley or shuttle bus:** A rented trolley or party bus handles the whole group in one move. Book it when you book the band, not the week before.
 
-**Coordinated Ubers:** Works for a group that can split into 3-4 vehicles at the same time. Assign someone to coordinate calls—don't leave it to individual guests.
+**Coordinated rideshares:** Works for a group that can split into a few cars at the same time. Assign someone to coordinate calls — don't leave it to individual guests. The [transportation guide](/guides/transportation-guide/) covers streetcars, rideshare pinch points, and airport transfers for the out-of-towners.
 
 **Walking second line:** If your ceremony and reception are within walking distance, the second line is the transportation. This is ideal when it works logistically.
 
@@ -189,7 +209,7 @@ For an hour-by-hour version of this day, see the [wedding weekend day-of guide](
 
 **Late Night:**
 - After-party at villa or nearby bar
-- No last call in New Orleans—keep going as long as you want
+- No mandated last call in New Orleans — the night ends when the couple says so
 
 ### Sunday: Post-Wedding Brunch
 
@@ -229,7 +249,7 @@ The [budget guide](/guides/budget-guide/) runs the general per-person math for a
 
 ## Pro Tips
 
-1. **Book the venue, then the accommodations.** Venue locks your date. Accommodations can flex slightly on timing.
+1. **Season, then venue, then accommodations.** The month sets the price and the parade conflicts. The venue locks your date. Accommodations can flex slightly on timing.
 
 2. **Second line bands are serious musicians.** They're not a novelty act—treat them accordingly and tip well.
 
@@ -249,8 +269,9 @@ The [budget guide](/guides/budget-guide/) runs the general per-person math for a
 
 - **NOLA Wedding Vendors:** Search specifically for New Orleans-based planners—local knowledge is invaluable
 - **Second Line Bands:** Research locally through venue recommendations or local music directories
-- **Marriage License:** Get it from the Louisiana vital records office before arriving; requirements vary
-- **Ceremony Permits:** If you're using public space (Jackson Square area, parks), permits are required
+- **Marriage License:** Louisiana licenses are issued in person and come with their own waiting-period and validity rules — check the current requirements with Orleans Parish before you set the arrival day
+- **Ceremony and Parade Permits:** Public spaces (parks, Jackson Square area) and street second lines need permits — sort these out early, not the week of
+- **The wedding party itself:** the [wedding party guide](/guides/wedding-party/) and [pre-wedding activities guide](/guides/pre-wedding-activities-guide/) cover what to do with everyone before the big day
 
 ---
 
@@ -258,6 +279,6 @@ The [budget guide](/guides/budget-guide/) runs the general per-person math for a
 
 The best NOLA weddings keep the whole group together. A villa gives you a home base for the entire weekend—getting ready, welcome party, post-wedding wind-down, Sunday brunch.
 
-For the largest selection, book 6+ months out—wedding-party-sized villas fill up first, especially in the February–May peak stretch.
+For the largest selection, book 6+ months out.
 
 [See where to stay for large groups →](/where-to-stay/)
