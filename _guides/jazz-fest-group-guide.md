@@ -127,6 +127,8 @@ For large groups, evening shows require planning: separate tickets, a venue that
 
 **Frenchmen Street** is always the free alternative — no tickets, no planning, great music. On Jazz Fest weekends, Frenchmen Street — in the [Marigny](/neighborhoods/marigny/) — is at its absolute peak. If your group can't agree on an evening show, Frenchmen is the default.
 
+**The weekdays between the two weekends** are where a music-minded group gets its best non-festival hours. The National Park Service's [Jazz National Historical Park](/guides/nola-group-jazz-historical-park-guide/) runs free ranger programs and turns the walk toward Frenchmen into a jazz-history half-day. If the crew would rather play than listen, book a [group music workshop or second line dance lesson](/guides/nola-music-lesson-experience-guide/) — and the [jazz workshop and sit-in guide](/guides/nola-group-jazz-improv-session-guide/) explains the difference between watching a session and actually being invited onto the bandstand (spoiler: you mostly watch).
+
 ---
 
 ## Where to Stay During Jazz Fest
