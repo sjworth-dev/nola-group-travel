@@ -46,7 +46,7 @@ The number matters more here than in most cities, because [10, 15, 20, and 30 pe
 
 ## Step 3: Book the beds — this is the scarce resource
 
-Flights to New Orleans are a commodity. Places that sleep eighteen people under one roof are not. Large-format lodging is the genuine bottleneck of a big-group trip here, and the good options book out months ahead for prime weekends.
+Flights to New Orleans are a commodity. Places that sleep eighteen people under one roof are not. Large-format lodging is the genuine bottleneck of a big-group trip here, and the good options go first — for the largest selection, book 6+ months out.
 
 Start with the [where-to-stay overview](/where-to-stay/), then work the two real decisions: [hotel versus big house](/guides/hotel-vs-villa-guide/) — separate bills and daily housekeeping versus one roof and a shared kitchen — and [which neighborhood](/guides/nola-group-neighborhood-comparison-guide/), because the French Quarter is where you'll visit, not necessarily where you should sleep. Groups that book beds before dinner reservations think they planned early. Groups that book beds before *dates are even final* have it backwards — see step 1.
 
@@ -80,7 +80,7 @@ Then send one message with everything in it — address, door codes, dinner time
 
 | When | What must be done | The deep guide |
 |---|---|---|
-| 4–6 months out | Dates picked against the festival calendar; deposits collected; beds booked | [Events calendar](/events/) · [Where to stay](/where-to-stay/) |
+| 6+ months out | Dates picked against the festival calendar; deposits collected; beds booked | [Events calendar](/events/) · [Where to stay](/where-to-stay/) |
 | 2–3 months out | Budget settled in writing; 2–3 big dinners reserved | [Budget guide](/guides/budget-guide/) · [Restaurant guide](/guides/restaurant-guide/) |
 | 1 month out | Itinerary drafted; limited-capacity activities booked | [Itinerary builder](/guides/group-itinerary-builder-guide/) |
 | 1 week out | Ground transport sorted; welcome packet sent | [Transportation](/guides/transportation-guide/) · [Welcome packet](/guides/group-welcome-packet-guide/) |
