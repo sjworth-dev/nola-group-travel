@@ -42,7 +42,7 @@ If you're eyeing August or September, read the [hurricane season guide](/guides/
 
 "Who's in?" produces enthusiasm. Deposits produce a headcount. The gap between the two is where group trips go to die.
 
-The number matters more here than in most cities, because [10, 15, 20, and 30 people are genuinely different trips](/guides/group-size-guide/) in New Orleans — different lodging categories, different restaurant strategies, different transport math. You need a real number before step 3, and the only way to get one is to collect money early. The [first-time organizer playbook](/guides/nola-group-first-time-organizer-guide/) covers how to run that conversation without losing friends, including what to do about the person who drops out three weeks before the trip (someone will).
+The number matters more here than in most cities, because [10, 15, 20, and 30 people are genuinely different trips](/guides/group-size-guide/) in New Orleans — different lodging categories, different restaurant strategies, different transport math. If the headcount has outgrown a single house, the [very large group playbook](/guides/group-size-mega-guide/) covers multi-house splits, buyouts, and charter transport. You need a real number before step 3, and the only way to get one is to collect money early. The [first-time organizer playbook](/guides/nola-group-first-time-organizer-guide/) covers how to run that conversation without losing friends, including what to do about the person who drops out three weeks before the trip (someone will).
 
 ## Step 3: Book the beds — this is the scarce resource
 
@@ -54,7 +54,7 @@ Start with the [where-to-stay overview](/where-to-stay/), then work the two real
 
 One conversation, early, covering the three numbers everyone silently disagrees about: lodging per person, the food-and-drink expectation, and what's covered by the group pot versus everyone for themselves. The [budget guide](/guides/budget-guide/) has line-by-line math at three spending levels — send it before the conversation so the argument is about numbers, not vibes.
 
-Then set up one shared payment thread and [track it as you go](/guides/nola-group-budget-tracking-mid-trip-guide/). The trip where "we'll settle up after" works is a trip for four people, not fourteen.
+Put tips in that conversation too — brass bands, guides, drivers, and private chefs all expect them, and the [tipping guide](/guides/nola-group-tipping-culture-deep-dive/) has the norms. Then set up one shared payment thread and [track it as you go](/guides/nola-group-budget-tracking-mid-trip-guide/). The trip where "we'll settle up after" works is a trip for four people, not fourteen.
 
 ## Step 5: Book 2–3 dinners before you build anything else
 
@@ -64,9 +64,9 @@ The [restaurant guide](/guides/restaurant-guide/) covers which places genuinely 
 
 ## Step 6: Now — and only now — the itinerary
 
-The itinerary comes last because it's the most flexible piece and the one people most enjoy over-planning first. With dates, beds, budget, and dinners locked, use the [itinerary builder framework](/guides/group-itinerary-builder-guide/) to structure the days — or start from the [3-day itinerary](/guides/itinerary-3-day/) and adapt. Flying in Friday night and out Sunday? The [48-hour version](/guides/itinerary-weekend-warrior/) is already cut down for you, and if the budget talk in Step 4 ended somewhere modest, the [budget itinerary](/guides/budget-itinerary-guide/) builds the days around what's free and cheap.
+The itinerary comes last because it's the most flexible piece and the one people most enjoy over-planning first. With dates, beds, budget, and dinners locked, use the [itinerary builder framework](/guides/group-itinerary-builder-guide/) to structure the days — or start from the [3-day itinerary](/guides/itinerary-3-day/) and adapt. Flying in Friday night and out Sunday? The [48-hour version](/guides/itinerary-weekend-warrior/) is already cut down for you, and if the budget talk in Step 4 ended somewhere modest, the [budget itinerary](/guides/budget-itinerary-guide/) builds the days around what's free and cheap. Staying the better part of two weeks? The [10-day itinerary](/guides/itinerary-10-day/) paces a long stay so the back half isn't a rerun.
 
-The one structural rule for groups: plan mornings loosely and evenings firmly, and never schedule the whole group for the whole day. Splitting up for an afternoon isn't a planning failure — it's the thing that keeps twenty people liking each other by day three.
+The one structural rule for groups: plan mornings loosely and evenings firmly, and never schedule the whole group for the whole day. (If the crew is really several crews with different budgets and bedtimes, the [multi-sub-group guide](/guides/multi-group-trip-guide/) has a hub-and-spoke model.) Splitting up for an afternoon isn't a planning failure — it's the thing that keeps twenty people liking each other by day three.
 
 ## The week before: logistics, then one info dump
 
