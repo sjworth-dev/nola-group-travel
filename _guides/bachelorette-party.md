@@ -74,7 +74,7 @@ Anchor points, not a schedule. Three commitments a day; New Orleans handles the 
 
 - **3:00pm** — Check in, claim rooms (decide the room-assignment method *before* arrival; "first cab from the airport wins" starts wars)
 - **4:00pm** — Grocery and liquor delivery arrives (ordered the week before — nobody wants a supermarket run in going-out clothes)
-- **5:00pm** — Pool, drinks, decorations, the sound of a weekend starting
+- **5:00pm** — Pool, drinks, decorations, the sound of a weekend starting. If the group needs an icebreaker, a [cocktail competition](/guides/nola-group-villa-cocktail-competition-guide/) does the introductions for you
 - **8:00pm** — Welcome dinner at the house: order in from a local spot (Pizza Delicious travels well) or walk to a wine garden like Bacchanal if you're Bywater-based
 - **11:00pm** — Stop. This is the discipline night. The [drink pace guide](/guides/nola-group-drink-pace-management-guide/) exists because night one is where bach trips blow their Saturday.
 
@@ -91,7 +91,7 @@ Anchor points, not a schedule. Three commitments a day; New Orleans handles the 
 
 - **10:30am** — Slow start. The [hangover recovery plan](/guides/nola-group-villa-hangover-recovery-guide/) is the cheat sheet for stocking the house. Beignets at Café Du Monde (yes, it's touristy; do it anyway) or Bloody Marys at the house
 - **1:00pm** — Low-key: Garden District wander, Magazine Street boutiques, or nothing at all by the pool
-- **7:00pm** — Casual dinner near the house, then Bacchanal-style wine-and-live-music night, or a [burlesque show](/guides/nola-group-burlesque-show-guide/) (The Allways Lounge) if the group has one more gear
+- **7:00pm** — Casual dinner near the house, then Bacchanal-style wine-and-live-music night, or a [burlesque show](/guides/nola-group-burlesque-show-guide/) (The Allways Lounge) if the group has one more gear. No gears left? A [karaoke night at the house](/guides/nola-group-villa-karaoke-night-guide/) costs nothing and requires no shoes
 - Earlier night. Flights exist.
 
 ### Day 4: Departure
@@ -143,7 +143,7 @@ Per person, three nights:
 | Transportation | $30-50 | $50-75 | $75-100 |
 | **Total** | **$300-450** | **$525-800** | **$875+** |
 
-*Excludes flights.*
+*Excludes flights.* If the group lives in the Splurge column, the [luxury weekend guide](/guides/nola-group-luxury-weekend-guide/) sorts what's worth the money from what's priced for people not paying attention.
 
 Worked example for a crew of twelve at mid-range: roughly $525–800 each, so the organizer is moving $6,000–$9,500 of other people's money. That's why the money mechanics matter as much as the bookings:
 
