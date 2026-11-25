@@ -1,23 +1,26 @@
 ---
-title: "Pre-Wedding Activities in New Orleans: Everything Except the Ceremony"
-description: "The complete guide to rehearsal dinners, bridesmaids and groomsmen outings, welcome parties, post-wedding brunches, and the day-by-day logistics of keeping a full wedding party in one piece for a long weekend in New Orleans."
+title: "New Orleans Wedding Weekend: Everything But the Vows"
+description: "The ceremony is the easy part. Welcome party, rehearsal dinner, bridesmaid and groomsmen days, second line, Sunday brunch: the NOLA wedding weekend, planned."
 category: "Weddings & Celebrations"
 card_title: "Pre-Wedding Activities"
 card_description: "Rehearsal dinners, welcome parties, bridesmaid outings, groomsmen mornings — the whole weekend, planned."
-date: 2026-08-06
+date: 2026-11-25
 ---
+
+The verdict: plan the weekend, not the wedding day. In New Orleans the ceremony runs on rails — it's the welcome party, the rehearsal dinner, and the Sunday brunch that decide whether the trip felt like a celebration or a hostage situation in nice clothes.
 
 New Orleans weddings are not single-day events. They're four-day productions. And the ceremony is often the most predictable part.
 
 What happens before and after — the welcome party the night before, the rehearsal dinner at a restaurant that actually needs a reservation, the bridesmaids brunch, the groomsmen morning on Bourbon Street, the post-wedding recovery situation, the second line through the streets — this is where the NOLA wedding experience actually lives.
 
-This guide covers all of it. Not the ceremony logistics, not the venue search, not the florist — the [main wedding planning guide](/guides/new-orleans-weddings-guide/) has that end. This is the rest of the weekend. The part where you're managing 20 people who all need to be somewhere at the same time, in the same city, for four days in a row. (For the night before the wedding specifically, see the [eve-of-wedding guide](/guides/nola-group-eve-of-wedding-guide/).)
+This guide covers all of it. Not the ceremony logistics, not the venue search, not the florist — the [main wedding planning guide](/guides/new-orleans-weddings-guide/) has that end. This is the rest of the weekend. The part where you're herding twenty people who all need to be somewhere at the same time, in the same city, for four days in a row. (For the night before the wedding specifically, see the [eve-of-wedding guide](/guides/nola-group-eve-of-wedding-guide/). If the date isn't set yet, the [group trip planning hub](/guides/plan-a-group-trip/) sequences the big decisions first.)
 
 ## Quick Checklist
 
-- [ ] Block accommodations 6+ months out, for the largest selection — wedding weekend NOLA fills fast
+- [ ] Pick the weekend against the season table below before you fall in love with a venue
+- [ ] Lock accommodations first — for the largest selection, book 6+ months out
 - [ ] Designate a wedding party coordinator separate from the couple
-- [ ] Book rehearsal dinner 3–4 months out with a firm headcount
+- [ ] Book the rehearsal dinner private room right after the house, with a firm headcount
 - [ ] Plan welcome party catering or venue before booking anything else
 - [ ] Give each bridal party sub-group a loose itinerary for unscheduled time
 - [ ] Identify which activities require timed reservations and book them
@@ -25,6 +28,7 @@ This guide covers all of it. Not the ceremony logistics, not the venue search, n
 - [ ] Set one clear meeting point for the full group on wedding morning
 - [ ] Book the post-wedding brunch restaurant before you leave town
 - [ ] Assign someone to manage the shuttle/transportation logistics — not the couple
+- [ ] Confirm in writing who is pulling the second line parade permit
 
 ---
 
@@ -43,6 +47,23 @@ For some couples, the weekend expands to Wednesday arrivals (for out-of-town gue
 
 ---
 
+## Which Weekend? The Season Decides Half Your Logistics
+
+Every event below gets easier or harder depending on what else the city is doing that weekend. New Orleans' calendar runs opposite to most destinations — October is peak, not shoulder — so check this before you sign anything.
+
+| When | Demand | What It Means for the Weekend |
+|------|--------|-------------------------------|
+| October | Peak | The year's best weather and full pricing. Halloween and festival weekends compete hard for private rooms, bands, and vans. |
+| February–May | Peak | Mardi Gras (Fat Tuesday is Feb 9, 2027), French Quarter Fest, crawfish season, Jazz Fest. Gorgeous, crowded, expensive. Parade weekends can block your shuttle routes entirely. |
+| June–August | Soft | Lower rates, real heat, afternoon thunderstorms. An outdoor second line at 3 p.m. in July is an endurance event. Essence Festival (Fourth of July weekend) is a sharp spike. |
+| Late Aug–mid Sep | Value window | Still hot, before October's ramp — but inside the statistical peak of hurricane season. Buy the travel insurance. |
+| November–December | Mixed | Pleasant weather; holiday weekends and big-game weekends fill fast. |
+| January | Soft | The year's lowest rates, possible cold snaps, quieter restaurants. |
+
+The [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) goes month by month, and the [hurricane season guide](/guides/nola-group-hurricane-season-guide/) covers contingency planning if you choose late summer or early fall.
+
+---
+
 ## Thursday: Arrivals and the Informal Gathering
 
 ### The Goal
@@ -51,11 +72,11 @@ Get people comfortable, get them together, and do not plan anything that require
 
 ### What Works
 
-**Home base arrival.** If your wedding party is staying together in a private villa, Thursday is the day that becomes magical without any planning. People arrive, find the pool, pour a drink, and the trip starts. The common space of a private villa does the organizing work for you.
+**Home base arrival.** If your wedding party is staying together in one house, Thursday organizes itself. People arrive, find the pool, pour a drink, and the trip starts. A loose [sunset cocktail hour](/guides/nola-group-sunset-cocktail-hour-guide/) at the house is the right amount of structure: show up when your flight lands, nobody's counting.
 
 **Neighborhood walk or casual bar.** If people want to go out, one low-key neighborhood spot is plenty. No reservations, no dress code, no required attendance.
 
-**Light catering at the house.** A few cheese boards, some charcuterie, beers in the fridge — this is the food that costs $200 and feels like exactly the right amount of hospitality. Don't try to do a full dinner on Thursday unless you want to start the weekend as a logistics problem.
+**Light catering at the house.** A few cheese boards, some charcuterie, beers in the fridge — this is the food that costs a couple hundred dollars and feels like exactly the right amount of hospitality. Don't try to do a full dinner on Thursday unless you want to start the weekend as a logistics problem.
 
 ### What to Avoid
 
@@ -75,13 +96,14 @@ Not your domain to plan — that's the officiant, the venue coordinator, and the
 
 ### Rehearsal Dinner: The Restaurant Question
 
-New Orleans has spectacular restaurants, and booking a private dining room for the full wedding party is absolutely doable if you start early — the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) and [rehearsal dinner venue rundown](/guides/nola-group-wedding-rehearsal-dinner-venues/) cover the specifics.
+New Orleans has spectacular restaurants, and booking a private dining room for the full wedding party is absolutely doable if you book it right after the house — the [rehearsal dinner guide](/guides/nola-group-rehearsal-dinner-guide/) and [rehearsal dinner venue rundown](/guides/nola-group-wedding-rehearsal-dinner-venues/) cover the specifics.
 
 **What you need:**
-- 3–4 months minimum for large group booking at destination restaurants
+- An early booking — private rooms are the scarcest thing in town on a wedding weekend, and conventions and other wedding parties want the same ones
 - A private dining room or semi-private area — not just a section of the main floor
 - A fixed menu or pre-selected options (servers at private events do not take 25 individual orders smoothly)
 - Clarity on who's paying and how — the hosting family, a split, or an open bar situation
+- A look at the contract for an automatic gratuity before anyone tips again on top — the [tipping culture guide](/guides/nola-group-tipping-culture-deep-dive/) covers who gets what
 
 **The format that works best:**
 A prix-fixe dinner in a private room, open bar during cocktail hour, a few toasts. Two to two-and-a-half hours total. This is long enough for meaningful toasts and short enough that nobody is exhausted for the next day.
@@ -94,7 +116,7 @@ This is different from the rehearsal dinner. The rehearsal dinner is the inner c
 
 **The options:**
 
-**At the villa.** For wedding parties staying at a private property, the villa is the obvious welcome party venue. You own the space, you control the timing, you can hire a caterer or bartender, and nobody has to figure out transportation. A second line brass band playing in the yard for an hour is $500–$1,000 and is the most New Orleans welcome party thing you can do — the [group welcome packet guide](/guides/group-welcome-packet-guide/) has a template for briefing everyone before they arrive.
+**At the villa.** For wedding parties staying at a private property, the villa is the obvious welcome party venue. You own the space, you control the timing, you can hire a caterer or bartender, and nobody has to figure out transportation. A brass band playing in the yard for an hour is the most New Orleans welcome party thing you can do (rates vary widely by band — get quotes) — check any neighborhood noise rules with the property first — the [group welcome packet guide](/guides/group-welcome-packet-guide/) has a template for briefing everyone before they arrive.
 
 **At a bar or event venue.** For larger guest lists, a semi-private buyout of a bar, restaurant courtyard, or dedicated event space works. French Quarter courtyards are the classic choice — beautiful, photogenic, quintessentially New Orleans.
 
@@ -130,9 +152,9 @@ Sometimes the right answer is: everyone stays at the villa, the pool heater is o
 
 ### The Classic Options
 
-**Golf.** New Orleans has multiple accessible courses — the [group golf guide](/guides/large-group-golf-guide/) covers all of them. TPC Louisiana is the marquee option. Audubon Golf Course is centrally located. City Park has a course with a great location near the park's amenities. Book tee times well in advance on wedding weekends — you're not the only wedding in town.
+**Golf.** New Orleans has multiple accessible courses — the [group golf guide](/guides/large-group-golf-guide/) covers all of them. TPC Louisiana is the marquee option. Audubon Golf Course is centrally located. City Park has a course with a great location near the park's amenities. Book tee times early — you're not the only wedding in town.
 
-**Fishing or swamp tour.** Charter fishing trips on Lake Pontchartrain or in the coastal marshes are easy to book for a small crew. [Airboat swamp tours](/guides/nola-swamp-tour-guide/) accommodate larger groups. This is quintessentially Louisiana and works especially well for groups that don't all play golf.
+**Fishing or swamp tour.** Charter fishing trips on Lake Pontchartrain or in the coastal marshes are easy to book for a small crew; for a no-boat version, the [lakefront afternoon](/guides/nola-group-lake-pontchartrain-guide/) has the seawall and Bucktown seafood. [Airboat swamp tours](/guides/nola-swamp-tour-guide/) accommodate larger groups. This is quintessentially Louisiana and works especially well for groups that don't all play golf.
 
 **Bourbon Street morning.** Not everyone's preference but worth naming: a handful of groomsmen on Bourbon Street at 10 a.m. is a legitimate New Orleans wedding weekend tradition — the [day drinking guide](/guides/nola-day-drinking-guide/) has the honest version of what that morning actually looks like. Know your group.
 
@@ -152,7 +174,7 @@ The [wedding weekend day-of guide](/guides/nola-group-wedding-weekend-day-of-gui
 
 **Where is everyone getting ready?** For wedding parties staying in a villa, getting ready at the house is the obvious solution. Everyone in one place, getting ready together, photographer documenting the chaos — this is what people remember. The logistics of moving 10 bridesmaids from a hotel to a separate venue for hair and makeup adds an hour to an already long day.
 
-**Food.** Someone needs to handle breakfast and/or lunch on wedding day. People forget to eat. The coordinator's job is to ensure there is actual food in the actual building during the getting-ready block. This is not optional. Hungry people in formal wear are a different kind of problem.
+**Food.** Someone needs to handle breakfast and/or lunch on wedding day. People forget to eat. The [villa breakfast guide](/guides/nola-group-morning-routine-guide/) has the coffee-for-a-crowd math. The coordinator's job is to ensure there is actual food in the actual building during the getting-ready block. This is not optional. Hungry people in formal wear are a different kind of problem.
 
 **The first look.** For couples doing a first look, plan the location (a courtyard, a hotel lobby, a garden) and coordinate transportation from the getting-ready location to the first look location to the venue. These are three different places and they all have to happen in sequence.
 
@@ -170,7 +192,7 @@ Book a charter van or small bus for the wedding party specifically — the [tran
 
 If there is one thing that makes a New Orleans wedding wedding, it's the second line. The tradition: after the ceremony, the couple leads a parade through the streets behind a brass band, guests waving handkerchiefs and parasols. It's joyful, it's chaotic, and it's absolutely New Orleans.
 
-For a full wedding party, the second line is entirely manageable — the [second line guide](/guides/second-line-guide/) and [private-vs-public second line breakdown](/guides/nola-group-private-second-line-vs-public-guide/) cover the mechanics in depth. The couple purchases parasols and handkerchiefs in advance (available at gift shops throughout the city), [hires a brass band](/guides/nola-group-brass-band-hire-logistics-guide/) (2–3 hours, varies by band), and maps a route — typically ending at the reception venue. A police escort permit is often required for parades that cross major intersections; your venue coordinator or a local event planner can navigate this.
+For a full wedding party, the second line is entirely manageable — the [second line guide](/guides/second-line-guide/) and [private-vs-public second line breakdown](/guides/nola-group-private-second-line-vs-public-guide/) cover the mechanics in depth. The couple buys parasols and handkerchiefs in advance (sold at shops throughout the city, or made at the house — see the [umbrella-making guide](/guides/nola-group-second-line-umbrella-making-guide/)), [hires a brass band](/guides/nola-group-brass-band-hire-logistics-guide/), and maps a route — typically ending at the reception venue. A parade on public streets needs a city permit and typically a police escort. Many bands and planners handle it, but confirm in writing who is pulling it. Guests carrying drinks along the route should know the go-cup rules first — the [open container guide](/guides/nola-group-open-container-law-guide/) has them.
 
 ---
 
@@ -183,10 +205,10 @@ This is where the weekend actually ends. The ceremony is done, the reception is 
 **What it should be:** Casual. Seated. Long. Good food. Bloody marys optional but usually present.
 
 **Venue options:**
-- At the villa: most naturally suited to Sunday morning. Open at your own pace, cook or have food delivered, nobody has to be anywhere by a time.
+- At the house: most naturally suited to Sunday morning. Open at your own pace, cook or have food delivered, nobody has to be anywhere by a time.
 - At a restaurant: book a private room. Sunday brunch is popular in New Orleans — a full wedding party needs a reservation. The [brunch guide](/guides/nola-brunch-guide/) covers the city's group-friendly rooms.
 
-**Timing:** Start late (10:30–11:00 a.m.). People will be slow. End organically. The brunch is not a two-hour event — it's a four-hour drift into goodbyes.
+**Timing:** Start late (10:30–11:00 a.m.). People will be slow. End organically. The brunch is not a two-hour event — it's a four-hour drift into goodbyes. The [last-morning guide](/guides/nola-group-night-before-departure-guide/) covers checkout, leftover booze, and the final group photo.
 
 ---
 
@@ -224,7 +246,7 @@ Every timed event needs 30–45 minutes of buffer. People who say "I'm almost re
 
 ## Accommodation: Keep the Wedding Party Together
 
-The single most important logistical decision for a large wedding party weekend is keeping everyone in the same property — the [wedding weekend guide](/guides/wedding-weekend-guide/) covers this in more depth.
+The bias, stated plainly: this site thinks one shared property beats four scattered hotels for a wedding party. The single most important logistical decision for a large wedding party weekend is keeping everyone in the same property — the [wedding weekend guide](/guides/wedding-weekend-guide/) covers this in more depth.
 
 When the bridesmaids are in one hotel, the groomsmen in another, the couple in a third, and the family in a fourth, the coordinator spends all weekend managing transportation between four buildings. When everyone is in one villa, the common space becomes the home base, the logistics collapse to manageable, and the morning-of getting-ready situation actually works.
 
@@ -238,11 +260,11 @@ Whichever property type you land on, the private pool, the courtyard, the beauti
 
 1. **Book the rehearsal dinner restaurant before the venue.** This sounds backwards but the private dining room at the restaurant you want will fill up faster than the wedding venue. Make the restaurant call the day after you book the venue.
 
-2. **The welcome party at the villa costs less and works better than a rented venue.** You're already paying for the space. A caterer, a bartender, and a brass band for an hour is less expensive than a buyout at most French Quarter bars, and you don't have to get everyone in cabs at midnight.
+2. **A welcome party at the house usually costs less and works better than a rented venue.** You're already paying for the space. A caterer, a bartender, and a brass band for an hour often comes in under a buyout at a French Quarter bar, and you don't have to get everyone in cabs at midnight.
 
 3. **Give the coordinator authority, not just responsibility.** Coordinators who have to check every decision with the couple spend twice as long on everything. "If it's less than $200 and it needs to happen, just do it" is a rule that prevents many small disasters.
 
-4. **The Sunday brunch is non-negotiable.** Groups that skip the closing brunch report feeling like the weekend ended abruptly. The brunch is the emotional close. Budget for it, book it, protect it.
+4. **The Sunday brunch is non-negotiable.** Skip it and the weekend ends at 1 a.m. with half the guests already in airport Ubers. The brunch is the emotional close. Budget for it, book it, protect it.
 
 5. **Assign a photographer for non-ceremony events.** Your wedding photographer is not documenting the bridesmaids day or the groomsmen golf trip. Someone should have a camera (phone is fine) at those events. These are the photos people will actually look at for years.
 
@@ -254,7 +276,7 @@ Whichever property type you land on, the private pool, the courtyard, the beauti
 
 ## Plan Your Wedding Weekend
 
-The ceremony is just one day. The weekend is four days. Get the accommodation locked first — everything else, from the welcome party to the getting-ready block to the second line route, builds outward from wherever the group is staying.
+The ceremony is just one day. The weekend is four days. Get the accommodation locked first, and see the [main wedding guide](/guides/new-orleans-weddings-guide/) for venues and vendors — everything else, from the welcome party to the getting-ready block to the second line route, builds outward from wherever the group is staying.
 
 For the largest selection, book 6+ months out.
 
