@@ -97,9 +97,11 @@ New Orleans has a more developed purpose-built large-group market, concentrated 
 
 ## Walkability: Savannah's Real Edge
 
-Give Savannah its due. Its historic core is one of the most walkable in the country — a tidy grid of squares where a group can drift from brunch to a square to a bar without a single rideshare. For a crew that wants everything within a fifteen-minute stroll, Savannah's footprint is smaller and tighter than New Orleans's.
+Give Savannah its due. Its historic core is one of the most walkable in the country — a tidy grid of squares where a group can drift from brunch to a square to a bar without a single rideshare. For a crew that wants everything within a fifteen-minute stroll, Savannah's footprint is smaller and tighter than New Orleans's. Savannah's horse-drawn carriage tours through the squares are a staple of the trip; New Orleans has its own French Quarter version, and the [carriage tour guide](/guides/nola-group-carriage-tour-guide/) covers booking enough carriages for the whole crew.
 
-New Orleans is walkable in stretches — the French Quarter, Marigny, and the Frenchmen corridor connect on foot — but a full NOLA trip spreads across neighborhoods, and rideshares become part of the daily rhythm. That's a genuine point for Savannah if compactness is the priority. The trade-off is that Savannah's small footprint is also its ceiling: you can see most of it quickly, where New Orleans keeps unfolding. Sort out how a group actually moves here with the [transportation guide](/guides/transportation-guide/) and the [ride-share master guide](/guides/nola-group-ride-share-master-guide/).
+New Orleans is walkable in stretches — the French Quarter, Marigny, and the Frenchmen corridor connect on foot — but a full NOLA trip spreads across neighborhoods, and rideshares become part of the daily rhythm. That's a genuine point for Savannah if compactness is the priority. The trade-off is that Savannah's small footprint is also its ceiling: you can see most of it quickly, where New Orleans keeps unfolding — all the way out to [Oak Street and Riverbend](/guides/nola-group-oak-street-neighborhood-guide/), an Uptown afternoon most visitors never reach. Sort out how a group actually moves here with the [transportation guide](/guides/transportation-guide/) and the [ride-share master guide](/guides/nola-group-ride-share-master-guide/).
+
+Both cities also double as busy film and TV backdrops, so a self-guided location hunt works in either. New Orleans spreads its recognizable locations across several neighborhoods — the [film location tour guide](/guides/nola-group-film-location-tour-guide/) maps a circuit a group can pair with lunch.
 
 ---
 
