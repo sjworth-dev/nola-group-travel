@@ -231,7 +231,7 @@ This produces groups that go out well-fed, well-rested, and actually looking for
 
 | Trip type | Brunch approach |
 |-----------|----------------|
-| Bachelorette | Reservation, private patio if possible, Bloody Mary pitcher, make it a celebration |
+| Bachelorette | Reservation, private patio if possible, Bloody Mary pitcher, make it a celebration; see the [bachelorette day-drinking itinerary](/guides/bachelorette-day-drinking-itinerary/) for what comes after |
 | [Corporate retreat](/guides/corporate-retreat/) | Punctual start time, clear end time, less drinking, real food |
 | Family reunion | Mixed-age friendly spot with a varied menu, earlier start time |
 | Friends trip | Flexible — the neighborhood crawl works perfectly, no rigid schedule |
