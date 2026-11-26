@@ -55,7 +55,7 @@ Less visited than No. 1 and in the Tremé, within walking distance of the French
 
 In the Garden District, on Washington Avenue. This is the neighborhood cemetery for the 19th-century American sector — it's where the wealthy Protestant newcomers who settled upriver from the French Quarter buried their dead.
 
-It sits across from Commander's Palace on Washington Avenue. Access has changed over the years (restoration closures, guided-only periods), so check current visiting rules before you plan around a walk-in. It has a different character than the French Quarter cemeteries — larger trees, more space between structures, a Gothic atmosphere that feels genuinely different.
+It sits across from Commander's Palace on Washington Avenue. Access has changed over the years (a long restoration closure, then reopening with new entry rules), so check current visiting rules before you plan around a walk-in. It has a different character than the French Quarter cemeteries — larger trees, more space between structures, a Gothic atmosphere that feels genuinely different.
 
 **For large groups:** The Garden District tour that many operators run includes Lafayette Cemetery. This is the easiest option for getting cemetery context along with the broader neighborhood history.
 

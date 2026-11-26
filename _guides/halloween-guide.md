@@ -76,7 +76,7 @@ October is peak season for cemetery tours in New Orleans. The above-ground cemet
 
 Every ghost tour company in New Orleans runs extended Halloween programming. French Quarter ghost tours, haunted pub crawls, cemetery tours at night.
 
-For a group that enjoys the theatrical and spooky side: a private group ghost tour is available from most major operators and is a natural Thursday or Friday night activity before the main weekend events. See the [haunted history guide](/guides/haunted-history-guide/) for what to look for in a guide, how to book a private tour, and which cemeteries are actually worth your time.
+For a group that enjoys the theatrical and spooky side: a private group ghost tour is available from most major operators (the [ghost tour booking guide](/guides/nola-group-ghost-tour-booking-guide/) covers how to pick one) and is a natural Thursday or Friday night activity before the main weekend events. See the [haunted history guide](/guides/haunted-history-guide/) for what to look for in a guide, how to book a private tour, and which cemeteries are actually worth your time.
 
 ---
 
