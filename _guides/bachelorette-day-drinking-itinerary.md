@@ -1,15 +1,15 @@
 ---
 title: "Bachelorette Day-Drinking Itinerary: Hour by Hour"
-description: "Hour-by-hour day-drinking itinerary for a big bachelorette group in New Orleans — Bloody Mary brunch, afternoon outdoor bar, the signature drink stop, French Quarter timing, and how to pace for a full night after."
+description: "Skip the 6pm crash. An hour-by-hour bachelorette day in New Orleans: Bloody Mary brunch, a patio bar, the signature stop, dinner, then Frenchmen at 9:30."
 category: "Bachelorette & Bachelor"
 card_title: "Bachelorette Day Drinking Itinerary"
 card_description: "Hour-by-hour itinerary for the whole crew: Bloody Mary brunch to Frenchmen Street, timed for a full night at the end."
-date: 2026-08-07
+date: 2026-11-26
 ---
 
-The bachelorette day-drinking day is its own art form. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal: full energy at 10pm when the real night starts. This itinerary assumes you've already worked through the broader [bachelorette party guide](/guides/bachelorette-party/) for the rest of the weekend, or the [Thursday-to-Sunday bachelorette itinerary](/guides/bachelorette-weekend/) for the full arc — this page is just the one day, hour by hour.
+Verdict: the bachelorette day-drinking day is won by pacing, not stamina. Too fast and you're done by 8pm. Too slow and you never build momentum. The goal is full energy at 10pm, when the real night starts. This itinerary assumes you've already worked through the broader [bachelorette party guide](/guides/bachelorette-party/) for the rest of the weekend, or the [Thursday-to-Sunday bachelorette itinerary](/guides/bachelorette-weekend/) for the full arc — this page is just the one day, hour by hour.
 
-This is the schedule that works. It's been battle-tested in a city that was specifically designed for this kind of day.
+This is the schedule that works, in a city built for exactly this kind of day. For the bigger question of whether New Orleans is the right bachelorette city at all, see [Nashville or New Orleans](/guides/nola-group-new-orleans-vs-nashville-guide/); for theme ideas, see the [bachelorette themes guide](/guides/nola-bachelorette-party-themes/).
 
 The times below assume a 10:30am start. Shift everything forward by an hour if your group needs more morning time. Don't start later than noon — you won't have enough runway for a proper night.
 
@@ -17,7 +17,7 @@ The times below assume a 10:30am start. Shift everything forward by an hour if y
 
 ## Quick Checklist
 
-- [ ] Book brunch at least 3-4 days in advance for a big group
+- [ ] Book brunch as soon as the dates are set — a big table is the first thing to go
 - [ ] Confirm everyone's hotel/villa checkout time vs. this schedule
 - [ ] Assign someone to carry the group's sunscreen and cash tips
 - [ ] Designate the "we're moving" person for each stop
@@ -85,7 +85,7 @@ Use the walk to let the brunch digest, take photos on the street art and colorfu
 - Low-key energy, space to spread out
 - Somewhere you can be a group of 15 without taking over the entire place
 
-**The Bacchanal option:** Bacchanal Wine in the Bywater is the textbook answer. Wine garden, live jazz starting around noon, beautiful shaded outdoor space, food window if you want more snacks. It's a place designed for exactly this — lingering outside with a glass of wine for two hours.
+**The Bacchanal option:** Bacchanal Wine in the Bywater is the textbook answer. A wine garden with shaded outdoor seating, music most days, and food on site. Check its current hours and big-group policy before you commit — walk-in space for a big crew isn't guaranteed. It's a place designed for exactly this: lingering outside with a glass of wine for two hours.
 
 **What to drink here:** Wine, beer, a light cocktail. You're mid-morning, the sun is out, and you have 8+ hours ahead of you. This is the pacing stretch.
 
@@ -175,7 +175,7 @@ One hour at the villa between dinner and going out. Touch up makeup. Change shoe
 
 Groups that go directly from dinner to the night end up at the first bar feeling stuffed and slow. Groups that take an hour at the villa arrive at 9:30pm fresh, rested, and ready to actually have a good night.
 
-The villa rest hour is the secret weapon of the experienced bachelorette group.
+The villa rest hour is the single best pacing move on the schedule.
 
 ---
 
@@ -187,7 +187,7 @@ From here, the night is yours. The pacing has been right. You've eaten. You've r
 
 **For groups that want higher energy:** The Marigny has several bars that run later and louder. The French Quarter is always there if anyone needs to experience Bourbon Street.
 
-**The no-last-call fact:** Bars in New Orleans are not required to close at a set time. Some do; many don't. The city operates on your schedule. Plan accordingly.
+**The late-night fact:** New Orleans doesn't impose a citywide last call, so many bars run well past midnight. Hours still vary by venue, so check before you commit a big group to a late stop. Carrying drinks on foot is legal, but there are rules; the [open container guide](/guides/nola-group-open-container-law-guide/) has them. If anyone wants the Bourbon Street box checked, the [Bourbon Street guide](/guides/nola-bourbon-street-guide/) says which hour is worth it.
 
 ---
 
@@ -211,7 +211,7 @@ This is a managed pace. Not restrictive — ambitious. The goal is 10pm energy, 
 
 State it clearly at the beginning of the day: **one glass of water at every stop.** Not every other stop. Every stop.
 
-NOLA in summer means sweating even in air conditioning when you're moving between places. Alcohol plus heat plus a full day requires active counter-hydration.
+New Orleans runs hot and humid from roughly June through August, so you'll sweat moving between stops. Alcohol plus heat plus a full day requires active counter-hydration. Summer is also the soft, lower-rate season, which is why plenty of bachelorette crews pick it; the [best time to visit guide](/guides/nola-group-best-time-to-visit-guide/) has the full calendar.
 
 Groups that follow the water rule are functional at midnight. Groups that don't are in Ubers by 9pm.
 
@@ -242,7 +242,7 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 
 3. **Say no to novelty shots on the afternoon stops.** The group that does shots at 1pm is done by 7pm. Save shots for the night phase.
 
-4. **Call ahead for the bigger stops.** "We have a bachelorette group of 15 coming at 2:45pm — do you have space?" costs 30 seconds and saves scrambling.
+4. **Call ahead for the bigger stops.** "We have a bachelorette group of 15 coming at 2:45pm — do you have space?" costs 30 seconds and saves scrambling. Tip well on a big tab; the [tipping guide](/guides/group-tipping-etiquette/) covers the math.
 
 5. **Let people opt out.** Some people in the group are going to need to slow down around 5pm. Build the villa rest hour specifically so they have somewhere to be that isn't the bar. Don't pressure anyone.
 
@@ -254,7 +254,7 @@ Groups that follow the water rule are functional at midnight. Groups that don't 
 
 ## For a Big Group
 
-A villa works better than a hotel room block for a day-drinking day like this one. Hotel rooms mean a lobby return between stops; a villa means a pool, a kitchen, and a place to land between phases — including the villa rest hour, which is most of the point.
+A big rental usually beats a hotel room block for a day like this one. Separate hotel rooms mean scattering between stops; one house or a shared apartment floor gives you a kitchen and a common room to land in between phases — including the rest hour, which is most of the point. The honest counterpoint: if the crew wants separate bills and hotel service, a room block or Hotel Perle's group suites does the job.
 
 The Bywater puts you within walking distance of brunch, the afternoon bar, and Frenchmen Street, which is why it's the neighborhood this itinerary is built around — see the [Bywater bachelorette itinerary](/guides/bachelorette-itinerary-bywater/) for a version built entirely around that base. A Bywater house like The Mazant — an 1880s guesthouse that sleeps 18 — puts everyone in a real bed rather than a bunk. The Lower Garden District is the other common base: large-format homes and apartment-style floors (Heirloom, The Revelry) sit near the St. Charles Streetcar, which covers the CBD, French Quarter, and Frenchmen in under 15 minutes if your group wants to range further during the day. Neither is a recommendation over the other — pick by how much ground you want to cover on foot versus by streetcar.
 
