@@ -2344,3 +2344,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-26 02:10 UTC — expand: refresh `bachelorette-day-drinking-itinerary.md` (oldest, 2026-08-07) — verdict opener, description rewritten (153 chars, was ~215), battle-tested/experienced-group claims removed, unverified Bacchanal "live jazz at noon" hedged, brunch lead time replaced with "as soon as dates are set", summer heat/soft-season line checked against Seasonality, rental-vs-hotel counterpoint with Hotel Perle added. New links: Nashville vs NOLA, themes, open container, Bourbon Street, best time to visit, tipping.
 2026-11-26 02:10 UTC — seo: interlink `bachelorette-weekend.md` and `nola-brunch-guide.md` → day-drinking itinerary (previously 0 inbound from them).
 2026-11-26 02:10 UTC — fix: property balance sweep — no-op; remaining Castleday/Syd hits are 1 neutral mention each (4 neighborhood pages) or "Sydney" false positives.
+
+2026-11-26 (run 2) UTC — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-26 (run 2) UTC — expand: refresh `haunted-history-guide.md` (oldest, 2026-08-07) — verdict opener, retitled (59 chars)/redescribed (~150 chars), removed unverifiable claims (Lafitte's "never had electricity", Commander's Palace "manages tours", "walk No. 2 independently", "48 hours" booking line), hedged cemetery access, October checked against Seasonality (peak, not shoulder), dropped Krewe of Boo date claim, added links to ghost tour booking guide and plan-a-group-trip hub.
+2026-11-26 (run 2) UTC — seo: interlink `halloween-guide.md` → ghost tour booking guide (had 2 inbound).
+2026-11-26 (run 2) UTC — fix: property balance sweep — no-op; remaining Castleday/Syd hits are single neutral mentions.
+2026-11-26 (run 2) UTC — backlog: no changes; Up Next empty.
