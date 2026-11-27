@@ -100,7 +100,7 @@ Two rules keep the night great. First, don't try to keep everyone in one room �
 
 ### Afternoon: Protected Recovery
 
-Back to the house. Pool, naps, snacks. If the budget allows one splurge on logistics, this is where a mobile glam squad earns it — hair and airbrush teams come to the villa and run the whole group in parallel while everyone drinks coffee in robes. Departure target for dinner: 7 PM, which means getting-ready starts at 5.
+Back to the house. Pool, naps, snacks. If the group would rather book treatments than float, the [spa and recovery day guide](/guides/spa-wellness-guide/) covers how to run simultaneous appointments for a big crew. If the budget allows one splurge on logistics, this is where a mobile glam squad earns it — hair and airbrush teams come to the villa and run the whole group in parallel while everyone drinks coffee in robes. Departure target for dinner: 7 PM, which means getting-ready starts at 5.
 
 ### Dinner: The Dressed-Up One
 

@@ -2350,3 +2350,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-26 (run 2) UTC — seo: interlink `halloween-guide.md` → ghost tour booking guide (had 2 inbound).
 2026-11-26 (run 2) UTC — fix: property balance sweep — no-op; remaining Castleday/Syd hits are single neutral mentions.
 2026-11-26 (run 2) UTC — backlog: no changes; Up Next empty.
+
+2026-11-27 UTC — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-27 UTC — expand: refresh `spa-wellness-guide.md` (oldest, 2026-08-07) — verdict opener, retitled (53 chars)/redescribed (~156 chars), removed invented/unverifiable specifics (Fly Yoga platform, Facial Lounge, Windsor Court spa access, "10 women" capacity claim, "2–4 weeks" lead time → "as soon as dates are set"), hedged Belladonna and hotel spa policies, added links to float tank, spa retreat day, wellness morning guides and the plan-a-group-trip hub.
+2026-11-27 UTC — seo: interlink `bachelorette-weekend.md` → spa-wellness-guide (had 0 inbound from it).
+2026-11-27 UTC — fix: property balance sweep — nothing to do; remaining Castleday/Syd mentions are single neutral ones (spa-wellness-guide mentions neither).
+2026-11-27 UTC — backlog: no changes; Up Next empty.
