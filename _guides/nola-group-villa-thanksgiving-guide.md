@@ -160,7 +160,7 @@ This should be obvious, but it's worth spelling out because some groups still de
 | Kids/noise | Constant hotel management anxiety | Not your problem |
 | Feels like a holiday | No | Yes |
 
-For an extended family or friend group spending Thanksgiving together, the villa is not a luxury upgrade—it's the only configuration that actually works for what you're trying to do.
+If kids are on the guest list, the [New Orleans with kids guide](/guides/kids-families-guide/) covers the split-schedule model that keeps the adults sane. For an extended family or friend group spending Thanksgiving together, the villa is not a luxury upgrade—it's the only configuration that actually works for what you're trying to do.
 
 ---
 

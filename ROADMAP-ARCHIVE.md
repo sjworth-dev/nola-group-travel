@@ -2356,3 +2356,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-27 UTC — seo: interlink `bachelorette-weekend.md` → spa-wellness-guide (had 0 inbound from it).
 2026-11-27 UTC — fix: property balance sweep — nothing to do; remaining Castleday/Syd mentions are single neutral ones (spa-wellness-guide mentions neither).
 2026-11-27 UTC — backlog: no changes; Up Next empty.
+
+2026-11-27 (run 2) UTC — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "at most 2 new pages / generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-27 (run 2) UTC — expand: refresh `kids-families-guide.md` (oldest, 2026-08-08) — verdict opener, retitled (49 chars)/redescribed, new "When to Go With Kids" table checked against the NOLA seasonality calendar, removed unverifiable claims (IMAX, "one of the best zoos", Preservation Hall specifics), added links to plan-a-group-trip, best-time, steamboat, swamp-tour, Thanksgiving, Celebration in the Oaks, neighborhood comparison guides.
+2026-11-27 (run 2) UTC — seo: interlink `plan-a-group-trip.md` and `nola-group-villa-thanksgiving-guide.md` → kids-families-guide (previously 0 inbound from either).
+2026-11-27 (run 2) UTC — fix: property balance sweep — removed The Syd mention from `garden-district-deep-dive.md`; other Castleday/Syd hits (bywater, bywater-deep-dive, lower-garden-district) are single neutral home-neighborhood mentions; city-park/museum guide hits are "Sydney" false positives.
+2026-11-27 (run 2) UTC — backlog: no changes; Up Next empty.
