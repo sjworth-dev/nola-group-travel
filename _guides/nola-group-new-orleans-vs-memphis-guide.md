@@ -48,6 +48,8 @@ New Orleans didn't just host music history — it produced it and never filed it
 
 **The distinction:** Memphis is where you go to stand where the music was made. New Orleans is where you go to hear music being made tonight. A group that loves the *story* of American music will be thrilled in Memphis. A group that wants live, original music as the backbone of every night out leans New Orleans.
 
+Heritage-minded crews aren't shut out in New Orleans either. The [music history guide](/guides/music-history-guide/) covers Congo Square, the Tremé and the brass band lineage, and the [music venues guide](/guides/new-orleans-music-venues-guide/) covers the rooms beyond Frenchmen: Tipitina's, Preservation Hall, Maple Leaf and Rock 'n' Bowl. It's the closest thing New Orleans has to a Beale-and-Sun-Studio itinerary, with the difference that the bands are still playing.
+
 ---
 
 ## Nightlife: A Structural Difference, Not a Vibe Difference
