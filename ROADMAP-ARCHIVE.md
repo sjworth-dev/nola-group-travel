@@ -2362,3 +2362,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-27 (run 2) UTC — seo: interlink `plan-a-group-trip.md` and `nola-group-villa-thanksgiving-guide.md` → kids-families-guide (previously 0 inbound from either).
 2026-11-27 (run 2) UTC — fix: property balance sweep — removed The Syd mention from `garden-district-deep-dive.md`; other Castleday/Syd hits (bywater, bywater-deep-dive, lower-garden-district) are single neutral home-neighborhood mentions; city-park/museum guide hits are "Sydney" false positives.
 2026-11-27 (run 2) UTC — backlog: no changes; Up Next empty.
+
+2026-11-28 UTC — note: `## Up Next` empty, so no new page (human-gated). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-28 UTC — expand: refresh `music-history-guide.md` (oldest, 2026-08-08) — retitled/redescribed, verdict-style opener, hedged unverifiable claims (Congo Square "only place", Preservation Hall service/private sessions, Jazz Fest stage/hour counts, Maple Leaf Tuesdays, "legendary" Tipitina's), fixed Sept–June vs Oct–May second-line inconsistency, added links to plan-a-group-trip and best-time guide.
+2026-11-28 UTC — seo: interlink `jazz-fest-group-guide.md` → music-history-guide and live-music-guide (had 0 links to either).
+2026-11-28 UTC — fix: property balance sweep — no-op; remaining Castleday/Syd hits (bywater, bywater-deep-dive, lower-garden-district) are single neutral home-neighborhood mentions; museum/city-park hits are "Sydney" false positives.
+2026-11-28 UTC — backlog: no changes; Up Next empty.
