@@ -2368,3 +2368,9 @@ Append-only history. The live ROADMAP.md keeps only the current backlog; every c
 2026-11-28 UTC — seo: interlink `jazz-fest-group-guide.md` → music-history-guide and live-music-guide (had 0 links to either).
 2026-11-28 UTC — fix: property balance sweep — no-op; remaining Castleday/Syd hits (bywater, bywater-deep-dive, lower-garden-district) are single neutral home-neighborhood mentions; museum/city-park hits are "Sydney" false positives.
 2026-11-28 UTC — backlog: no changes; Up Next empty.
+
+2026-11-28 (run 2) UTC — note: `## Up Next` empty, so no new page (human-gated; ROADMAP.md governs over the runner prompt's "at most 2 new pages / generate backlog" instruction). Refresh queue fully checked, oldest-dated fallback used.
+2026-11-28 (run 2) UTC — expand: refresh `new-orleans-music-venues-guide.md` (oldest, 2026-08-08) — verdict opener, retitled (52 chars)/redescribed (156 chars), removed/hedged unverifiable specifics (Preservation Hall price tiers and private-show guarantee, Rock 'n' Bowl "Sunday zydeco", Charmaine Neville residency, Jazz Fest "seven stages", "September–June" second lines → fall into late spring, printed cover prices, "schedules 4–6 weeks out"), added links to plan-a-group-trip, transportation, live music crawl, jazz brunch guides.
+2026-11-28 (run 2) UTC — seo: interlink `nola-group-new-orleans-vs-memphis-guide.md` → music-history-guide and new-orleans-music-venues-guide.
+2026-11-28 (run 2) UTC — fix: property balance sweep — no-op; remaining Castleday/Syd hits are single neutral home-neighborhood mentions (bywater, bywater-deep-dive, lower-garden-district) plus the where-to-stay field page.
+2026-11-28 (run 2) UTC — backlog: no changes; Up Next empty.
